@@ -8,10 +8,12 @@
 
 ### Video
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
+- [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube.
+
 
 ### Chat &  Social Networking
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. 
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app 
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X 
@@ -44,6 +46,9 @@
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift.
 - [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS.
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux)
+- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps.
+- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
+
 
 ### IDE
 
@@ -130,8 +135,12 @@
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files.
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app for Mac, Windows, and Linux 
-
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app for Mac, Windows, and Linux.
+- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Satellite Eyes is a small OS X application that sits in your system tray (next to the clock) and automatically updates your desktop wallpaper to the satellite or map view overhead. 
+- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
+- [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
+- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
+- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 
 ### Video
 
@@ -170,6 +179,7 @@
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. 
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux.
 - [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. 
 
 ## Command Line Utilities
 
@@ -198,4 +208,4 @@
 * [OSXCollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 
-
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
