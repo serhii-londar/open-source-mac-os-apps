@@ -143,13 +143,14 @@
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
-
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes.
 
 ### Video
 
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows.
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files.  
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily.
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X
 
 ### Window Management
 
@@ -165,9 +166,27 @@
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 
 ### VPN & Proxy
+
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X.
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.
+
+### Wallpaper
+
+- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS.
+- [OS-X-Wallpaper-Changer](https://github.com/pipwerks/OS-X-Wallpaper-Changer) - Applescript for changing the Mac OS X desktop picture based on the time of day.
+- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on Mac OS X.
+- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
+- [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset.
+- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - WallpaperMenu is a Mac OS X menubar application that navigates through beautiful pictures on the web and set them up as your desktop image.
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [https://www.artstation.com/artwork.rss](https://www.artstation.com/artwork.rss).
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. 
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple Mac OS X menubar app which fetches latest photos from a subreddit.
+- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple Mac os app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.
+- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers.
+- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.
+- [osx-10.5-leopard-wallpapers](https://github.com/Juravenator/osx-10.5-leopard-wallpapers) - A copy of the wallpapers folder from an old installation DVD of Mac OS X 10.5 Leopard.
+- [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x.
 
 
 ### Others
