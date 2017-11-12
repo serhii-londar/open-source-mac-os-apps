@@ -5,6 +5,8 @@
 ### Audio
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+- [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+.
+
 
 ### Video
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
