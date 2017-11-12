@@ -48,7 +48,8 @@
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux)
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps.
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
-
+- [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 
 ### IDE
 
@@ -141,6 +142,8 @@
 - [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
+
 
 ### Video
 
