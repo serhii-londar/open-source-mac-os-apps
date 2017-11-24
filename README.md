@@ -12,11 +12,14 @@
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
 - [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube.
 
+### Social Networking
 
-### Chat &  Social Networking
+- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
+- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app
+
+### Chat
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. 
-- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app 
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on macOS and Linux.
