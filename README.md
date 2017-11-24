@@ -1,5 +1,5 @@
 
-##List of awesome opensource applications for macOS.
+List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
 
 
 ### Audio
