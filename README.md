@@ -1,6 +1,4 @@
-> List of awesome opensource applications for macOS.
-
-## Applications
+##List of awesome opensource applications for macOS.
 
 ### Audio
 
@@ -11,11 +9,20 @@
 ### Video
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
 - [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube.
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux.
+- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. 
+
+### Images
+
+- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
+- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
+- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
 
 ### Social Networking
 
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
-- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app
+- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app.
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 
 ### Chat
 
@@ -24,37 +31,62 @@
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on macOS and Linux.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macos version.
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 4.0
+- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 
 ### Development
 
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
-- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints.  
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X.
-- [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Mac OS X Menu Bar
+#### Git
+
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. 
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. 
-- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
+- [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Mac OS X Menu Bar.
+
+
+#### iOS / macOS
+
+- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints.  
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.
+- [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS.
+- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps.
+- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
+- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos. 
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS.
+- [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.
+- [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images. 
+- [IconGenerator](https://github.com/onmyway133/IconGenerator) - A macOS app to generate app icons.
+- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
+- [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
+- [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
+- [PushNotitication](https://github.com/onmyway133/PushNotifications) - A macOS app to test push notifications on iOS and Android.
+- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings).
+
+
+#### Web development
+
+- [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu.
+- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.
+- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.
+
+#### Other
+
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X.
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. 
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.
 - [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources.
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.
-- [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS.
 - [Reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift.
 - [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS.
-- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux)
-- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps.
-- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
-- [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder
+- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux).
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
+- [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS.
 
 ### IDE
 
@@ -71,11 +103,11 @@
 - [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS.
 
 
-<!--
 ### Finder
 
-- [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
--->
+- [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
+- [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code
 
 ### Games
 
@@ -92,6 +124,7 @@
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
+- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.
 
 ### Productivity
 
@@ -102,6 +135,11 @@
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac.
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you.
+- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app.
+- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features.
+- [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer.
+- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.
+- [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app.
 
 ### Sharing Files
 
@@ -145,10 +183,14 @@
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Satellite Eyes is a small OS X application that sits in your system tray (next to the clock) and automatically updates your desktop wallpaper to the satellite or map view overhead. 
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
 - [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
-- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
-- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
 - [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes.
+- [Shifty](https://github.com/thompsonate/Shifty) - A macOS menu bar app that gives you more control over Night Shift.
+- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
+- [Slow Quit Apps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut.
+- [Balance Open](https://github.com/balancemymoney/balance-open) - An app for all the world’s currencies.
+- [Clocker](https://github.com/abhishekbanthia/Clocker) - Clocker is an OSX menubar utility designed to help you keep track of your friends in different time zones.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. 
 
 ### Video
 
@@ -203,10 +245,12 @@
 - [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X.
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. 
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux.
 - [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. 
-
+- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[CppIcon]: ./icons/cpp-16.png
+[JavascriptIcon]: ./icons/javascript-16.png
