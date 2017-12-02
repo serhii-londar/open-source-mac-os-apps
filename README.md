@@ -36,6 +36,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macos version.
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 4.0
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
 
 ### Development
 
@@ -64,6 +65,10 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
 - [PushNotitication](https://github.com/onmyway133/PushNotifications) - A macOS app to test push notifications on iOS and Android.
 - [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings).
+- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - AppBox is a tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel.
+- [AppIcons](https://github.com/kuyawa/AppIcons) - AppIcons is a tool for generating icons in all sizes as required by macOS and iOS apps.
+- [Alloy](https://github.com/alexlee002/alloy) - Alloy is a simple toolkit that makes your iOS / OS X apps development more easier.
 
 
 #### Web development
@@ -71,6 +76,8 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu.
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.
+- [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
+- [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services.
 
 #### Other
 
@@ -89,6 +96,9 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux).
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 - [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS.
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework.
+- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files.
+- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.
 
 ### IDE
 
@@ -103,6 +113,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS.
 - [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS.
 - [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS.
+- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
 
 
 ### Finder
@@ -142,6 +153,9 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer.
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app.
+- [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
+- [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
 
 ### Sharing Files
 
@@ -213,6 +227,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail.
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ### VPN & Proxy
 
