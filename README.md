@@ -25,6 +25,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 - [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
+- [appear.in (unofficial)](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.
 
 ### Chat
 
@@ -157,6 +158,9 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
 
+### Podcast
+- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app.
+
 ### Sharing Files
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
@@ -271,3 +275,4 @@ List of awesome open source applications for macOS. This list contains a lot of 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [CppIcon]: ./icons/cpp-16.png
 [JavascriptIcon]: ./icons/javascript-16.png
+[ObjectiveCIcon]: ./icons/javascript-16.png
