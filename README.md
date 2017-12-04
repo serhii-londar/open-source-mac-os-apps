@@ -93,6 +93,8 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [FilterShop](https://github.com/KrisYu/FilterShop) - A macOS App to explore CoreImage Filters.
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.
+- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go.
+- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc).
 
 #### Web development
 
@@ -163,6 +165,8 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 - [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.
+- [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
+- [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
 
 ### Productivity
 
@@ -252,6 +256,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Appear](https://github.com/airbnb/appear) - Appear your terminal programs in your gui!
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation.
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 
 ### Video
 
