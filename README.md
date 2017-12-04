@@ -6,15 +6,18 @@ List of awesome open source applications for macOS. This list contains a lot of 
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+.
+- [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
 
 ### Video
+
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
 - [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube.
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux.
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. 
 
 ### Music
+
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift.
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.
 
@@ -24,6 +27,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
 - [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch.
+- [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots.
 
 ### Social Networking
 
@@ -32,6 +36,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.
+- [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly.
 
 ### Chat
 
@@ -45,6 +50,10 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App.
+
+### Streaming
+
+- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. 
 
 ### Development
 
@@ -82,7 +91,8 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [LayerX](https://github.com/yuhua-chen/LayerX) - An intuitive app to display transparent images on screen.
 - [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - A small application to monitor your GitHub project web page in a native macOS app :octocat:!
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-
+- [FilterShop](https://github.com/KrisYu/FilterShop) - A macOS App to explore CoreImage Filters.
+- [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.
 
 #### Web development
 
@@ -113,6 +123,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework.
 - [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files.
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.
+- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu).
 
 ### IDE
 
@@ -161,25 +172,36 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac.
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you.
-- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app.
-- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features.
 - [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer.
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app.
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
 - [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS.
+- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X.
+- [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas.
+- [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app.
+- [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something.
+
+### Notes
+
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you.
+- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes.
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
+- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features.
+- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app.
 
 ### Podcast
+
 - [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app.
 
 ### Sharing Files
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository.
+- [Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and URLs.
 
 
 ### Terminal
@@ -218,8 +240,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Satellite Eyes is a small OS X application that sits in your system tray (next to the clock) and automatically updates your desktop wallpaper to the satellite or map view overhead. 
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
 - [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
-- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes.
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...).
 - [Shifty](https://github.com/thompsonate/Shifty) - A macOS menu bar app that gives you more control over Night Shift.
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
 - [Slow Quit Apps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut.
@@ -227,6 +248,10 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - Clocker is an OSX menubar utility designed to help you keep track of your friends in different time zones.
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
+- [mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle.
+- [Appear](https://github.com/airbnb/appear) - Appear your terminal programs in your gui!
+- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation.
+- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
 
 ### Video
 
@@ -244,6 +269,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 
 ### Mail
+
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail.
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
@@ -272,7 +298,6 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.
 - [osx-10.5-leopard-wallpapers](https://github.com/Juravenator/osx-10.5-leopard-wallpapers) - A copy of the wallpapers folder from an old installation DVD of Mac OS X 10.5 Leopard.
 - [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x.
-
 
 ### Others
 
