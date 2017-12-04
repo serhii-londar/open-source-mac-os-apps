@@ -14,18 +14,24 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux.
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. 
 
+### Music
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift.
+- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.
+
 ### Images
 
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 - [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
+- [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch.
 
 ### Social Networking
 
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 - [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
-- [appear.in (unofficial)](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.
+- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.
 
 ### Chat
 
@@ -38,6 +44,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 4.0
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App.
 
 ### Development
 
@@ -70,6 +77,11 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel.
 - [AppIcons](https://github.com/kuyawa/AppIcons) - AppIcons is a tool for generating icons in all sizes as required by macOS and iOS apps.
 - [Alloy](https://github.com/alexlee002/alloy) - Alloy is a simple toolkit that makes your iOS / OS X apps development more easier.
+- [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - A small open source app to display your designs on the Touch Bar of the new MacBook Pro.
+- [LayerX](https://github.com/yuhua-chen/LayerX) - An intuitive app to display transparent images on screen.
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - A small application to monitor your GitHub project web page in a native macOS app :octocat:!
+- [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
 
 #### Web development
@@ -79,6 +91,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
 - [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services.
+- [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated Mac app for website auditing and crawling.
 
 #### Other
 
@@ -157,6 +170,8 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
+- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
+- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS.
 
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app.
@@ -211,6 +226,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Balance Open](https://github.com/balancemymoney/balance-open) - An app for all the world’s currencies.
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - Clocker is an OSX menubar utility designed to help you keep track of your friends in different time zones.
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. 
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
 
 ### Video
 
@@ -232,6 +248,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App.
 
 ### VPN & Proxy
 
