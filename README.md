@@ -71,42 +71,41 @@ You can see which language is using for app. Curently there are next languages:
 
 #### Git
 
-- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop 
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. 
-- [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Mac OS X Menu Bar.
+- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
+- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
 
 
 #### iOS / macOS
 
-- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints.  
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.
-- [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS.
-- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps.
-- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.
-- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos. 
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS.
-- [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.
-- [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images. 
-- [IconGenerator](https://github.com/onmyway133/IconGenerator) - A macOS app to generate app icons.
+- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints. ![ObjectiveCIcon]
+- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). ![ObjectiveCIcon]
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![SwiftIcon]
+- [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS. ![SwiftIcon]
+- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps. ![ObjectiveCIcon]
+- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![ObjectiveCIcon]
+- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos. ![ObjectiveCIcon]
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
+- [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![SwiftIcon]
+- [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
+- [IconGenerator](https://github.com/onmyway133/IconGenerator) - A macOS app to generate app icons. ![JavascriptIcon]
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
-- [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
-- [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
-- [PushNotitication](https://github.com/onmyway133/PushNotifications) - A macOS app to test push notifications on iOS and Android.
-- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings).
-- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - AppBox is a tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel.
-- [AppIcons](https://github.com/kuyawa/AppIcons) - AppIcons is a tool for generating icons in all sizes as required by macOS and iOS apps.
-- [Alloy](https://github.com/alexlee002/alloy) - Alloy is a simple toolkit that makes your iOS / OS X apps development more easier.
-- [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
-- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - A small open source app to display your designs on the Touch Bar of the new MacBook Pro.
-- [LayerX](https://github.com/yuhua-chen/LayerX) - An intuitive app to display transparent images on screen.
-- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - A small application to monitor your GitHub project web page in a native macOS app :octocat:!
-- [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-- [FilterShop](https://github.com/KrisYu/FilterShop) - A macOS App to explore CoreImage Filters.
-- [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.
-- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go.
-- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc).
+- [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![SwiftIcon]
+- [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
+- [PushNotitication](https://github.com/onmyway133/PushNotifications) - A macOS app to test push notifications on iOS and Android. ![JavascriptIcon]
+- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings). ![SwiftIcon]
+- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - AppBox is a tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel. ![SwiftIcon]
+- [AppIcons](https://github.com/kuyawa/AppIcons) - AppIcons is a tool for generating icons in all sizes as required by macOS and iOS apps. ![SwiftIcon]
+- [Alloy](https://github.com/alexlee002/alloy) - Alloy is a simple toolkit that makes your iOS / OS X apps development more easier. ![ObjectiveCIcon]
+- [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ![ObjectiveCIcon]
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - A small open source app to display your designs on the Touch Bar of the new MacBook Pro. ![SwiftIcon]
+- [LayerX](https://github.com/yuhua-chen/LayerX) - An intuitive app to display transparent images on screen. ![SwiftIcon]
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - A small application to monitor your GitHub project web page in a native macOS app :octocat:! ![ObjectiveCIcon]
+- [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![ObjectiveCIcon]
+- [FilterShop](https://github.com/KrisYu/FilterShop) - A macOS App to explore CoreImage Filters. ![SwiftIcon]
+- [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
+- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
+- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc). ![SwiftIcon]
 
 #### Web development
 
@@ -199,6 +198,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas.
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app.
 - [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something.
+- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. 
 
 ### Notes
 
@@ -230,7 +230,6 @@ You can see which language is using for app. Curently there are next languages:
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator.
 - [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files.
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.
-- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. 
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. 
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard.
