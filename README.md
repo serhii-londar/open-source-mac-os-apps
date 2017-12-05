@@ -4,52 +4,51 @@ List of awesome open source applications for macOS. This list contains a lot of 
 
 ### Audio
 
-- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-- [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+.
-- [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
+- [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+. ![CIcon]
+- [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![CIcon] ![ObjectiveCIcon]
 
 
 ### Video
 
-- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
-- [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube.
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux.
-- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. 
+- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
+- [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
+- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 
 ### Music
 
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift.
-- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
+- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
 
 ### Images
 
-- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
-- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
-- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP.
-- [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch.
-- [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots.
+- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
+- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
+- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
+- [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
+- [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
 
 ### Social Networking
 
-- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
-- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app.
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
-- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.
-- [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly.
+- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
+- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly. ![RubyIcon]
 
 ### Chat
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. 
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app 
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X 
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on macOS and Linux.
-- [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
-- [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macos version.
-- [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 4.0
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
+- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on macOS and Linux. ![JavascriptIcon]
+- [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macos version. ![ObjectiveCIcon]
+- [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift. ![SwiftIcon]
+- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App.
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 
 ### Streaming
 
@@ -320,7 +319,13 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. 
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.
 
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
 [JavascriptIcon]: ./icons/javascript-16.png
-[ObjectiveCIcon]: ./icons/javascript-16.png
+[ObjectiveCIcon]: ./icons/objective-c-16.png
+[SwiftIcon]: ./icons/swift-16.png
+[CoffeescriptIcon]: ./icons/coffeescript-16.png
+[TypescriptIcon]: ./icons/typescript-16.png
+[PythonIcon]: ./icons/python-16.png
+[CSSIcon]: ./icons/css-16.png
+[RubyIcon]: ./icons/ruby-16.png
