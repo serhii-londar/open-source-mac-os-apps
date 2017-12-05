@@ -1,6 +1,19 @@
 
 List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
 
+You can see which language is using for app. Curently there are next languages:
+
+- ![CIcon] - C language.
+- ![CppIcon] - C++ language.
+- ![JavascriptIcon] - JavaScript language.
+- ![ObjectiveCIcon] - Objective-C language.
+- ![SwiftIcon] - Swift language.
+- ![CoffeescriptIcon] - CoffeeScript language.
+- ![TypescriptIcon] - TypeScript language.
+- ![PythonIcon] - Python language.
+- ![CSSIcon] - CSS language.
+- ![RubyIcon] - Ruby language.
+
 
 ### Audio
 
