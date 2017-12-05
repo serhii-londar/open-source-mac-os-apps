@@ -109,65 +109,65 @@ You can see which language is using for app. Curently there are next languages:
 
 #### Web development
 
-- [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu.
-- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.
-- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.
-- [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
-- [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services.
-- [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated Mac app for website auditing and crawling.
+- [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
+- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ![ObjectiveCIcon] 
+- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ![JavascriptIcon]
+- [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. ![JavascriptIcon]
+- [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services. ![SwiftIcon]
+- [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated Mac app for website auditing and crawling. ![SwiftIcon]
 
 #### Other
 
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X.
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. 
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
-- [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.
-- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
-- [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources.
-- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.
-- [Reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift.
-- [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS.
-- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux).
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
-- [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS.
-- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework.
-- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files.
-- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.
-- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu).
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon] 
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon] 
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. ![ObjectiveCIcon] 
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon] 
+- [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon] 
+- [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon] 
+- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon] 
+- [Reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
+- [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS. ![ObjectiveCIcon] 
+- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
+- [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
+- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
+- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
+- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 
 ### IDE
 
-- [Atom](https://github.com/atom/atom) - The hackable text editor.
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.
+- [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. [Lua]
 
 
 ### Editors
 
-- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.
-- [MacVim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS.
-- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS.
-- [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS.
-- [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS.
-- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
+- [MacVim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS. ![CIcon]
+- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
+- [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS. ![SwiftIcon]
+- [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. ![SwiftIcon]
+- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
 
 
 ### Finder
 
-- [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
-- [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.
-- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code
+- [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
+- [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon] 
 
 ### Games
 
-- [Battle for Wesnoth](https://github.com/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. 
-- [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac.
-- [Dolphin](https://github.com/dolphin-emu/dolphin) - A powerful, Open Source emulator for Nintendo GameCube and Wii games.
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.
-- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.
-- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ![CppIcon]
+- [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![ObjectiveCIcon] ![CppIcon]
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. ![CppIcon]
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon] 
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon] 
+- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon] 
 
 
 ### Graphics
