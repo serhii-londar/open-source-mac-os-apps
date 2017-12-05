@@ -257,6 +257,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation.
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
+- [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis.
 
 ### Video
 
