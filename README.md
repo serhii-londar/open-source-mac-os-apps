@@ -172,33 +172,30 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Graphics
 
-- [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
-- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
-- [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
-- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.
-- [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
-- [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
+- [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
+- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
+- [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
+- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon] 
+- [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
+- [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 
 ### Productivity
 
-- [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X.
-- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
-- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly.
-- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
-- [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac.
-- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer.
-- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.
-- [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app.
-- [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
-- [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
-- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS.
-- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X.
-- [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas.
-- [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app.
-- [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something.
-- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. 
+- [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon] 
+- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon] 
+- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon] 
+- [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
+- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
+- [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
+- [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app. ![SwiftIcon]
+- [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift. ![SwiftIcon]
+- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. ![JavascriptIcon]
+- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon] 
+- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X. ![SwiftIcon]
+- [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas. ![SwiftIcon]
+- [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app. ![SwiftIcon]
+- [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something. ![SwiftIcon]
+- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon] 
 
 ### Notes
 
@@ -269,6 +266,9 @@ You can see which language is using for app. Curently there are next languages:
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis.
+- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
+- [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
+- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 
 ### Video
 
