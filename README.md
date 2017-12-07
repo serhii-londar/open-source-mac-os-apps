@@ -20,7 +20,13 @@ You can see which language is using for app. Curently there are next languages:
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
 - [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+. ![CIcon]
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![CIcon] ![ObjectiveCIcon]
-
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. [Rust]
+- [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
+- [SpotSpot](https://github.com/will-stone/SpotSpot) - A Spotify mini-player for macOS. ![JavascriptIcon]
+- [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon] 
+- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
+- [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
+- [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon] 
 
 ### Video
 
@@ -28,6 +34,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
+- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
 
 ### Music
 
@@ -210,6 +217,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Podcast
 
 - [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app. ![JavascriptIcon]
+- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
 
 ### Sharing Files
 
