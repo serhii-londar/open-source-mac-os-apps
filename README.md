@@ -33,6 +33,7 @@ You can see which language is using for app. Curently there are next languages:
 
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
+- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
 
 ### Images
 
@@ -199,137 +200,132 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Notes
 
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes.
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you.
-- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes.
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
-- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features.
-- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app.
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes. ![ObjectiveCIcon] 
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you. ![JavascriptIcon]
+- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes. ![SwiftIcon]
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
+- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
+- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
 
 ### Podcast
 
-- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app.
+- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app. ![JavascriptIcon]
 
 ### Sharing Files
 
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
-- [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository.
-- [Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and URLs.
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
+- [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
+- [Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
 
 
 ### Terminal
 
-- [iTerm 2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [iTerm 2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. ![ObjectiveCIcon]
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [Rust]
 
 ### Utilities
 
-- [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator.
-- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files.
-- [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.
-- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. 
-- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
-- [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard.
-- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.
-- [Finicky](https://github.com/johnste/finicky) - Finicky - always opens the right browser.
-- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand.
-- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X.
-- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS.
-- [Kawa](https://github.com/noraesae/kawa) - A better input source switcher for OS X.
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
-- [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X.
-- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
-- [MacPass](https://github.com/mstarke/MacPass) - A native OS X KeePass client.
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel.
-- [MenuMeters](https://github.com/yujitach/MenuMeters) - A set of CPU, memory, disk, and network monitoring tools for macOS. 
-- [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.
-- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
-- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
-- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files.
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app for Mac, Windows, and Linux.
-- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Satellite Eyes is a small OS X application that sits in your system tray (next to the clock) and automatically updates your desktop wallpaper to the satellite or map view overhead. 
-- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.
-- [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
-- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...).
-- [Shifty](https://github.com/thompsonate/Shifty) - A macOS menu bar app that gives you more control over Night Shift.
-- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
-- [Slow Quit Apps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut.
-- [Balance Open](https://github.com/balancemymoney/balance-open) - An app for all the world’s currencies.
-- [Clocker](https://github.com/abhishekbanthia/Clocker) - Clocker is an OSX menubar utility designed to help you keep track of your friends in different time zones.
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. 
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
-- [mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle.
-- [Appear](https://github.com/airbnb/appear) - Appear your terminal programs in your gui!
-- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation.
-- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
-- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
-- [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis.
+- [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator. ![ObjectiveCIcon]
+- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
+- [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
+- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
+- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
+- [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
+- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![ObjectiveCIcon]
+- [Finicky](https://github.com/johnste/finicky) - Finicky - always opens the right browser. ![SwiftIcon]
+- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
+- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
+- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
+- [Kawa](https://github.com/noraesae/kawa) - A better input source switcher for OS X. ![SwiftIcon]
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
+- [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
+- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
+- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
+- [MacPass](https://github.com/mstarke/MacPass) - A native OS X KeePass client. ![ObjectiveCIcon]
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel. ![SwiftIcon]
+- [MenuMeters](https://github.com/yujitach/MenuMeters) - A set of CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
+- [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
+- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. ![ObjectiveCIcon]
+- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. ![ObjectiveCIcon]
+- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app for Mac, Windows, and Linux. ![JavascriptIcon]
+- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
+- [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ![ObjectiveCIcon]
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...). ![SwiftIcon]
+- [Shifty](https://github.com/thompsonate/Shifty) - A macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
+- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![JavascriptIcon]
+- [Slow Quit Apps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. ![ObjectiveCIcon]
+- [Balance Open](https://github.com/balancemymoney/balance-open) - An app for all the world’s currencies. ![SwiftIcon]
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
+- [mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle. ![ObjectiveCIcon]
+- [Appear](https://github.com/airbnb/appear) - Appear your terminal programs in your gui! ![RubyIcon]
+- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
+- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar. ![JavascriptIcon]
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![SwiftIcon]
+- [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 
 ### Video
 
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows.
-- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files.  
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily.
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
 
 ### Window Management
 
-- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS.
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua.
-- [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX.
-- [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript.
-- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
+- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [Lua] 
+- [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
+- [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
+- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
 
 ### Mail
 
-- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail.
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App.
+- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. ![SwiftIcon]
+- [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client. ![JavascriptIcon]
+- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon] 
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon] 
 
 ### VPN & Proxy
 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X.
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![SwiftIcon]
 
 ### Wallpaper
 
-- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS.
-- [OS-X-Wallpaper-Changer](https://github.com/pipwerks/OS-X-Wallpaper-Changer) - Applescript for changing the Mac OS X desktop picture based on the time of day.
-- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on Mac OS X.
-- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
-- [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset.
-- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - WallpaperMenu is a Mac OS X menubar application that navigates through beautiful pictures on the web and set them up as your desktop image.
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [https://www.artstation.com/artwork.rss](https://www.artstation.com/artwork.rss).
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. 
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple Mac OS X menubar app which fetches latest photos from a subreddit.
-- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple Mac os app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.
-- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers.
-- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.
-- [osx-10.5-leopard-wallpapers](https://github.com/Juravenator/osx-10.5-leopard-wallpapers) - A copy of the wallpapers folder from an old installation DVD of Mac OS X 10.5 Leopard.
-- [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x.
+- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. ![SwiftIcon]
+- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on Mac OS X. ![SwiftIcon]
+- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
+- [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
+- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - WallpaperMenu is a Mac OS X menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [https://www.artstation.com/artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple Mac OS X menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
+- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple Mac os app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
+- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers. ![CppIcon]
+- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
+- [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x. ![SwiftIcon]
 
 ### Others
 
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac.
-- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
-- [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones.
-- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop.
-- [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X.
-- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
-- [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
-- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux.
-- [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
-- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. 
-- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
+- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
+- [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
+- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
+- [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
+- [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
+- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
+- [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. ![JavascriptIcon]
+- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
+- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
