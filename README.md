@@ -82,6 +82,7 @@ You can see which language is using for app. Curently there are next languages:
 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
+- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
 
 
 #### iOS / macOS
