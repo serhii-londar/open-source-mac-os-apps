@@ -246,7 +246,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Finicky](https://github.com/johnste/finicky) - Finicky - always opens the right browser. ![SwiftIcon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
-- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher for OS X. ![SwiftIcon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
@@ -317,7 +316,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - WallpaperMenu is a Mac OS X menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
 - [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [https://www.artstation.com/artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
 - [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple Mac OS X menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
 - [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple Mac os app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers. ![CppIcon]
@@ -326,8 +324,10 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Screensaver 
 
-- [The GitHub Matrix Sceensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
+- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
+- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
 
 
 ### Others
