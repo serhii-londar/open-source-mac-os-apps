@@ -83,6 +83,11 @@ You can see which language is using for app. Curently there are next languages:
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
 - [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
+- [Streaker](https://github.com/jamiestraw/streaker) - GitHub contribution streak tracking menubar app. ![JavascriptIcon]
+- [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - A macOS status bar application for tracking code review process within the team. ![SwiftIcon]
+- [GithubNotify](https://github.com/erik/github-notify) - Simple MacOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
+- [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
+- [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
 
 
 #### iOS / macOS
@@ -116,6 +121,7 @@ You can see which language is using for app. Curently there are next languages:
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc). ![SwiftIcon]
+- [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 
 #### Web development
 
@@ -278,6 +284,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
+- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 
 ### Video
 
@@ -354,3 +361,4 @@ You can see which language is using for app. Curently there are next languages:
 [PythonIcon]: ./icons/python-16.png
 [CSSIcon]: ./icons/css-16.png
 [RubyIcon]: ./icons/ruby-16.png
+[AppStore]: ./icons/app_store-16.png
