@@ -125,6 +125,7 @@ You can see which language is using for app. Curently there are next languages:
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. ![JavascriptIcon]
 - [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services. ![SwiftIcon]
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated Mac app for website auditing and crawling. ![SwiftIcon]
+- [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
 
 #### Other
 
@@ -323,9 +324,14 @@ You can see which language is using for app. Curently there are next languages:
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
 - [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x. ![SwiftIcon]
 
+### Screensaver 
+
+- [The GitHub Matrix Sceensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
+
+
 ### Others
 
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
 - [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
