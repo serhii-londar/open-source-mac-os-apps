@@ -28,6 +28,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon] 
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
+- [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon] 
 
 ### Video
 
@@ -36,6 +37,17 @@ You can see which language is using for app. Curently there are next languages:
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
+- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
+- [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
+- [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
+- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
+- [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
+- [Face Data](https://github.com/xiaohk/FaceData) - A macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
+- [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
+- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - A macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
+- [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
 
 ### Music
 
@@ -96,10 +108,10 @@ You can see which language is using for app. Curently there are next languages:
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). ![ObjectiveCIcon]
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![SwiftIcon]
 - [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS. ![SwiftIcon]
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - WWDC.srt is a powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ![SwiftIcon]
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps. ![ObjectiveCIcon]
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![ObjectiveCIcon]
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos. ![ObjectiveCIcon]
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![SwiftIcon]
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - A macOS app to generate app icons. ![JavascriptIcon]
@@ -155,10 +167,11 @@ You can see which language is using for app. Curently there are next languages:
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 
-### IDE
+### Extensions
 
-- [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. [Lua]
+- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
+- [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
+- [BetterPiP](https://github.com/Capevace/BetterPiP) - A macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
 
 
 ### Editors
@@ -196,6 +209,13 @@ You can see which language is using for app. Curently there are next languages:
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 
+
+### IDE
+
+- [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. [Lua]
+
+
 ### Productivity
 
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon] 
@@ -222,6 +242,7 @@ You can see which language is using for app. Curently there are next languages:
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
 - [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
 - [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
+- [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
 
 ### Podcast
 
@@ -350,6 +371,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
+- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - A macOS app to downloadYoutube videos. ![SwiftIcon]
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
