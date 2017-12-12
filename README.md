@@ -28,8 +28,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon] 
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
-- [BandNewsMac](https://github.com/dbonates/BandNews-macOS) - StatusBar Mac App for BandNews Radio - super simple radio. ![SwiftIcon]
-- [motion-radio](https://github.com/moomerman/motion-radio) - macOS streaming radio system tray application in rubymotion. ![RubyIcon]
 
 ### Video
 
@@ -38,17 +36,12 @@ You can see which language is using for app. Curently there are next languages:
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
-- [BlennyTV](https://github.com/chschroeda/BlennyTV) - Mac TV App for watching Livestreams | Fernsehen auf dem Mac. ![SwiftIcon]
-- [Mincer](https://github.com/fzwoch/mincer) - The poor man's streaming app for macOS. ![CppIcon]
-- [PresentIO](https://github.com/goborrega/PresentIO) - A Mac utility to stream / mirror your iOS device (IPhone, IPad) to your macOS via a lightning cable. ![SwiftIcon]
 
 ### Music
 
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
-- [Gaana-macOS](https://github.com/namanmaheshwari97/Gaana-macOS) - macOS Application for the Music streaming service Gaana. ![SwiftIcon]
-- [Johnson Music for Mac](https://github.com/TMRJIJ/Johnson-Music-for-Mac) - A simple Web Based Music Streaming App powered by Vebto's BeMusic - Music Streaming Engine Script. ![ObjectiveCIcon]
 
 ### Images
 
@@ -81,7 +74,7 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Streaming
 
-
+- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. 
 
 ### Development
 
@@ -335,7 +328,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers. ![CppIcon]
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
 - [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x. ![SwiftIcon]
-- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. ![JavascriptIcon]
 
 ### Screensaver 
 
