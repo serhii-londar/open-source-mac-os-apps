@@ -134,6 +134,7 @@ You can see which language is using for app. Curently there are next languages:
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc). ![SwiftIcon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
+- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - An iOS open source project for the great site that gives you indication about the average iOS / MacOS app stores review times. ![SwiftIcon]
 
 #### Web development
 
@@ -310,6 +311,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
+- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
 
 ### Video
 
@@ -325,6 +327,7 @@ You can see which language is using for app. Curently there are next languages:
 - [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
+- [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt). 
 
 ### Mail
 
