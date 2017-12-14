@@ -62,6 +62,7 @@ You can see which language is using for app. Curently there are next languages:
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
 - [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
+- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open-source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
 
 ### Social Networking
 
@@ -80,7 +81,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on macOS and Linux. ![JavascriptIcon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macos version. ![ObjectiveCIcon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift. ![SwiftIcon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 
@@ -166,6 +166,8 @@ You can see which language is using for app. Curently there are next languages:
 - [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
+- [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 
 ### Extensions
 
@@ -198,6 +200,7 @@ You can see which language is using for app. Curently there are next languages:
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon] 
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon] 
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon] 
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
 
 
 ### Graphics
@@ -306,6 +309,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
+- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
 
 ### Video
 
