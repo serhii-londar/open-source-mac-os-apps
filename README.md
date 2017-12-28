@@ -135,6 +135,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc). ![SwiftIcon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - An iOS open source project for the great site that gives you indication about the average iOS / MacOS app stores review times. ![SwiftIcon]
+- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. ![ObjectiveCIcon]
 
 #### Web development
 
