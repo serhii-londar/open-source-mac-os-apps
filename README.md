@@ -84,6 +84,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift. ![SwiftIcon]
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
+- [Sidetalk](https://github.com/clint-tseng/sidetalk) - macOS Google Hangouts/XMPP chat client (available in App Store!).
 
 ### Streaming
 
@@ -139,6 +140,7 @@ You can see which language is using for app. Curently there are next languages:
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. ![ObjectiveCIcon]
 - [Brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. ![SwiftIcon]
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
+- [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
 
 #### Web development
 
@@ -270,6 +272,7 @@ You can see which language is using for app. Curently there are next languages:
 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. ![ObjectiveCIcon]
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [Rust]
+- [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
 
 ### Utilities
 
@@ -320,6 +323,9 @@ You can see which language is using for app. Curently there are next languages:
 - [Maria](https://github.com/shincurry/Maria) - a macOS native app/widget for aria2 download tool. ![SwiftIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
+- [CornerCal](https://github.com/ekreutz/CornerCal) - A simple, clean calendar and clock app for macOS. ![SwiftIcon]
+- [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
+- [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 
 ### Video
 
@@ -350,6 +356,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![SwiftIcon]
+- [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![SwiftIcon]
 
 ### Wallpaper
 
@@ -387,6 +394,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - A macOS app to downloadYoutube videos. ![SwiftIcon]
+- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
