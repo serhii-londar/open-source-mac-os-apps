@@ -17,7 +17,34 @@ You can see which language is using for app. Curently there are next languages:
 ## Content
 - [Audio](#audio)
 - [Video](#video)
-
+- [Music](#music)
+- [Images](#images)
+- [Social Networking](#social--networking)
+- [Chat](#chat)
+- [Streaming](#streaming)
+- [Development](#development)
+	- [Git](#git)
+	- [iOS / macOS](#iOS/macOS)
+	- [Web development](#web--development)
+	- [Other](#other)
+- [Extensions](#extensions)
+- [Editors](#editors)
+- [Finder](#finder)
+- [Games](#games)
+- [Graphics](#graphics)
+- [IDE](#ide)
+- [Productivity](#productivity)
+- [Notes](#notes)
+- [Podcast](#podcast)
+- [Sharing Files](#sharing--files)
+- [Terminal](#terminal)
+- [Utilities](#utilities)
+- [Window Management](#window--management)
+- [Mail](#mail)
+- [VPN & Proxy](#VPN&Proxy)
+- [Wallpaper](#wallpaper)
+- [Screensaver](#screensaver)
+- [Other](#other)
 
 ### Audio
 
@@ -53,6 +80,10 @@ You can see which language is using for app. Curently there are next languages:
 - [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - A macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
 - [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
 
 ### Music
 
@@ -331,13 +362,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 
-### Video
-
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
-- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
-
 ### Window Management
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
@@ -384,7 +408,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
 
 
-### Others
+### Other
 
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
 - [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
