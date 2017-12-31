@@ -15,8 +15,8 @@ You can see which language is using for app. Curently there are next languages:
 - ![RubyIcon] - Ruby language.
 
 ## Content
-- [Audio](###audio)
-- [Video](###video)
+- [Audio](#audio)
+- [Video](#video)
 
 
 ### Audio
