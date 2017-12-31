@@ -14,6 +14,39 @@ You can see which language is using for app. Curently there are next languages:
 - ![CSSIcon] - CSS language.
 - ![RubyIcon] - Ruby language.
 
+## Content
+- [Audio](#audio)
+- [Chat](#chat)
+- [Development](#development)
+	- [Git](#git)
+	- [iOS / macOS](#iOS/macOS)
+	- [Web development](#web--development)
+	- [Other](#other)
+- [Editors](#editors)
+- [Extensions](#extensions)
+- [Finder](#finder)
+- [Games](#games)
+- [Graphics](#graphics)
+- [IDE](#ide)
+- [Images](#images)
+- [Mail](#mail)
+- [Music](#music)
+- [Notes](#notes)
+- [Other](#other)
+- [Podcast](#podcast)
+- [Productivity](#productivity)
+- [Screensaver](#screensaver)
+- [Sharing Files](#sharing--files)
+- [Social Networking](#social--networking)
+- [Streaming](#streaming)
+- [Terminal](#terminal)
+- [Utilities](#utilities)
+- [VPN & Proxy](#VPN&Proxy)
+- [Video](#video)
+- [Wallpaper](#wallpaper)
+- [Window Management](#window--management)
+
+## Applications
 
 ### Audio
 
@@ -31,49 +64,6 @@ You can see which language is using for app. Curently there are next languages:
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
 
-### Video
-
-- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
-- [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
-- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
-- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
-- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
-- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
-- [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
-- [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
-- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
-- [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
-- [Face Data](https://github.com/xiaohk/FaceData) - A macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
-- [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
-- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - A macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
-- [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
-
-### Music
-
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
-- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
-- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
-
-### Images
-
-- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
-- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
-- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
-- [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
-- [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
-- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open-source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
-
-### Social Networking
-
-- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
-- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
-- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
-- [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly. ![RubyIcon]
-
 ### Chat
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
@@ -86,9 +76,6 @@ You can see which language is using for app. Curently there are next languages:
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Sidetalk](https://github.com/clint-tseng/sidetalk) - macOS Google Hangouts/XMPP chat client (available in App Store!).
 
-### Streaming
-
-- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. 
 
 ### Development
 
@@ -177,13 +164,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 
-### Extensions
-
-- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
-- [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
-- [BetterPiP](https://github.com/Capevace/BetterPiP) - A macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
-
-
 ### Editors
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
@@ -193,12 +173,18 @@ You can see which language is using for app. Curently there are next languages:
 - [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. ![SwiftIcon]
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
 
+### Extensions
+
+- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
+- [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
+- [BetterPiP](https://github.com/Capevace/BetterPiP) - A macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
 
 ### Finder
 
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
 - [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon] 
+
 
 ### Games
 
@@ -226,6 +212,60 @@ You can see which language is using for app. Curently there are next languages:
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. [Lua]
 
+### Images
+
+- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
+- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
+- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
+- [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
+- [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
+- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open-source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
+
+### Mail
+
+- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. ![SwiftIcon]
+- [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client. ![JavascriptIcon]
+- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon] 
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon] 
+
+### Music
+
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
+- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
+- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
+
+### Notes
+
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes. ![ObjectiveCIcon] 
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you. ![JavascriptIcon]
+- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes. ![SwiftIcon]
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
+- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
+- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
+- [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
+- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
+
+### Other
+
+- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
+- [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
+- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
+- [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
+- [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
+- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
+- [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. ![JavascriptIcon]
+- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
+- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
+- [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
+- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - A macOS app to downloadYoutube videos. ![SwiftIcon]
+- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
+
+### Podcast
+
+- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app. ![JavascriptIcon]
+- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
 
 ### Productivity
 
@@ -245,21 +285,12 @@ You can see which language is using for app. Curently there are next languages:
 - [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something. ![SwiftIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon] 
 
-### Notes
+### Screensaver 
 
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes. ![ObjectiveCIcon] 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you. ![JavascriptIcon]
-- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes. ![SwiftIcon]
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
-- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
-- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
-- [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
-- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
-
-### Podcast
-
-- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - A simple, beautiful podcast app. ![JavascriptIcon]
-- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
+- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
+- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
 
 ### Sharing Files
 
@@ -267,6 +298,18 @@ You can see which language is using for app. Curently there are next languages:
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
 - [Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
 
+### Social Networking
+
+- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
+- [Caprine](https://github.com/sindresorhus/caprine#features) - An elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly. ![RubyIcon]
+
+### Streaming
+
+- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. 
 
 ### Terminal
 
@@ -327,36 +370,36 @@ You can see which language is using for app. Curently there are next languages:
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 
-### Video
-
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
-- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
-
-### Window Management
-
-- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [Lua] 
-- [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
-- [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
-- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
-- [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt). 
-
-### Mail
-
-- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. ![SwiftIcon]
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client. ![JavascriptIcon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon] 
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon] 
-
 ### VPN & Proxy
 
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![SwiftIcon]
 - [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![SwiftIcon]
+
+
+### Video
+
+- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
+- [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
+- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
+- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
+- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
+- [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
+- [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
+- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
+- [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
+- [Face Data](https://github.com/xiaohk/FaceData) - A macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
+- [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
+- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - A macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
+- [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
 
 ### Wallpaper
 
@@ -372,29 +415,14 @@ You can see which language is using for app. Curently there are next languages:
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
 - [BingPaper](https://github.com/Majirefy/BingPaper) - Use Bing daily photo as your wallpaper on mac os x. ![SwiftIcon]
 
-### Screensaver 
+### Window Management
 
-- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
-- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
-
-
-### Others
-
-- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
-- [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
-- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
-- [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
-- [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
-- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
-- [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. ![JavascriptIcon]
-- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
-- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
-- [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
-- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - A macOS app to downloadYoutube videos. ![SwiftIcon]
-- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
+- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [Lua] 
+- [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
+- [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
+- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
+- [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt). 
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
