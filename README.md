@@ -137,6 +137,8 @@ You can see which language is using for app. Curently there are next languages:
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - An iOS open source project for the great site that gives you indication about the average iOS / MacOS app stores review times. ![SwiftIcon]
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. ![ObjectiveCIcon]
+- [Brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. ![SwiftIcon]
+- [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
 
 #### Web development
 
@@ -147,6 +149,8 @@ You can see which language is using for app. Curently there are next languages:
 - [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services. ![SwiftIcon]
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated Mac app for website auditing and crawling. ![SwiftIcon]
 - [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
+- [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ![SwiftIcon]
+- [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS X listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
 
 #### Other
 
@@ -166,7 +170,6 @@ You can see which language is using for app. Curently there are next languages:
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
 - [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
-- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
@@ -249,6 +252,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
 - [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
 - [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
+- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
 
 ### Podcast
 
@@ -285,7 +289,6 @@ You can see which language is using for app. Curently there are next languages:
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
 - [MacPass](https://github.com/mstarke/MacPass) - A native OS X KeePass client. ![ObjectiveCIcon]
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - A macOS app for convenient access to the system color panel. ![SwiftIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - A set of CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
@@ -314,6 +317,9 @@ You can see which language is using for app. Curently there are next languages:
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
+- [Maria](https://github.com/shincurry/Maria) - a macOS native app/widget for aria2 download tool. ![SwiftIcon]
+- [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
+- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
 
 ### Video
 
