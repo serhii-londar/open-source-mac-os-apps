@@ -78,7 +78,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A native OS X & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Sidetalk](https://github.com/clint-tseng/sidetalk) - macOS Google Hangouts/XMPP chat client (available in App Store!).
-
+- [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
 
 ### Development
 
