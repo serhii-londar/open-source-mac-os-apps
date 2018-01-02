@@ -22,9 +22,10 @@ You can see which language is using for app. Curently there are next languages:
 - [Chat](#chat)
 - [Development](#development)
 	- [Git](#git)
-	- [iOS / macOS](#iOS/macOS)
+	- [iOS / macOS](#ios--macos)
 	- [Web development](#web--development)
 	- [Other](#other)
+	- [JSON Parsing](#json--parsing)
 - [Editors](#editors)
 - [Extensions](#extensions)
 - [Finder](#finder)
@@ -44,7 +45,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Streaming](#streaming)
 - [Terminal](#terminal)
 - [Utilities](#utilities)
-- [VPN & Proxy](#VPN&Proxy)
+- [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
 - [Wallpaper](#wallpaper)
 - [Window Management](#window--management)
@@ -66,6 +67,8 @@ You can see which language is using for app. Curently there are next languages:
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
+- [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
+- [waveSDR](https://github.com/getoffmyhack/waveSDR) - A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
 
 ### Chat
 
@@ -92,6 +95,7 @@ You can see which language is using for app. Curently there are next languages:
 - [GithubNotify](https://github.com/erik/github-notify) - Simple MacOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
+- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - a macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
 
 
 #### iOS / macOS
@@ -109,7 +113,6 @@ You can see which language is using for app. Curently there are next languages:
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - A macOS app to generate app icons. ![JavascriptIcon]
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![SwiftIcon]
-- [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
 - [PushNotitication](https://github.com/onmyway133/PushNotifications) - A macOS app to test push notifications on iOS and Android. ![JavascriptIcon]
 - [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings). ![SwiftIcon]
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - AppBox is a tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
@@ -143,6 +146,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ![SwiftIcon]
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS X listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
+- [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ![SwiftIcon]
 
 #### Other
 
@@ -159,13 +163,18 @@ You can see which language is using for app. Curently there are next languages:
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
 - [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS. ![ObjectiveCIcon] 
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
 - [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
+
+#### JSON Parsing
+- [JSON Mapper](https://github.com/movch/json-mapper) - A simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
+- [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
+
 
 ### Editors
 
@@ -237,6 +246,7 @@ You can see which language is using for app. Curently there are next languages:
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
+- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - A macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
 
 ### Notes
 
@@ -264,6 +274,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - A macOS app to downloadYoutube videos. ![SwiftIcon]
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
+- [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
 
 ### Podcast
 
@@ -287,6 +298,8 @@ You can see which language is using for app. Curently there are next languages:
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app. ![SwiftIcon]
 - [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something. ![SwiftIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon] 
+- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
+- [TrelloApp](https://github.com/jlong/TrelloApp) - An unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![SwiftIcon]
 
 ### Screensaver 
 

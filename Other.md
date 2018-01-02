@@ -16,7 +16,7 @@
 
 - [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables.
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
-
+- [](https://github.com/clementgarbay/AccountBalance) - Account balance app for macOS
 
 ## Security
 
