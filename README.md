@@ -163,7 +163,6 @@ You can see which language is using for app. Curently there are next languages:
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
 - [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS. ![ObjectiveCIcon] 
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
-- [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
@@ -392,6 +391,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![SwiftIcon]
 - [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![SwiftIcon]
+- [Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 
 
 ### Video
