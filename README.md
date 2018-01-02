@@ -27,6 +27,9 @@ You can see which language is using for app. Curently there are next languages:
 	- [Other](#other)
 	- [JSON Parsing](#json--parsing)
 - [Editors](#editors)
+	- [TeX](#tex)
+	- [Text](#text)
+	- [Markdown](#markdown)
 - [Extensions](#extensions)
 - [Finder](#finder)
 - [Games](#games)
@@ -177,12 +180,21 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Editors
 
+#### TeX
+
+- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
+
+#### Text
+
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS. ![CIcon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS. ![SwiftIcon]
 - [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. ![SwiftIcon]
-- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
+ 
+#### Markdown
+- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
+- [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for MacOS with live preview. ![SwiftIcon] 
 
 ### Extensions
 
@@ -347,7 +359,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher for OS X. ![SwiftIcon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
-- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
 - [MacPass](https://github.com/mstarke/MacPass) - A native OS X KeePass client. ![ObjectiveCIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - A set of CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
@@ -384,6 +395,7 @@ You can see which language is using for app. Curently there are next languages:
 - [CornerCal](https://github.com/ekreutz/CornerCal) - A simple, clean calendar and clock app for macOS. ![SwiftIcon]
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
+- [Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
 
 ### VPN & Proxy
 
