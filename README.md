@@ -99,6 +99,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - a macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
+- [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
 
 
 #### iOS / macOS
