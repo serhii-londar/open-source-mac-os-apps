@@ -72,6 +72,8 @@ You can see which language is using for app. Curently there are next languages:
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
+- [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
+- [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 
 ### Chat
 
