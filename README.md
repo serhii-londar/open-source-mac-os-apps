@@ -403,6 +403,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 - [Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
+- [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
 
 ### VPN & Proxy
 
