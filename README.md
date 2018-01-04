@@ -430,6 +430,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
+- [Xtreme Download Manager](https://sourceforge.net/projects/xdman) - This application is available for multiple platforms and can catch downloads from a various number of websites. It also has download acceleration and the ability to pause and resume the downloads.
 
 ### Wallpaper
 
