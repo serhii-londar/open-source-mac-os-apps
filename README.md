@@ -75,6 +75,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer. ![SwiftIcon]
+- [Muse](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support.
 
 ### Chat
 
