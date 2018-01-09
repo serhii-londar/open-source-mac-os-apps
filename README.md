@@ -258,7 +258,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon] 
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon] 
-- [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client.
+- [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
 
 ### Music
 
