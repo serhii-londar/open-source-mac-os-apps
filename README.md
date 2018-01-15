@@ -178,6 +178,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
+- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/movch/json-mapper) - A simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
