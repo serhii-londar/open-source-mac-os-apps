@@ -105,6 +105,7 @@ You can see which language is using for app. Curently there are next languages:
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - a macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
 - [GitSync](https://github.com/eonist/GitSync) - A minimalistic Git client for Mac. ![SwiftIcon]
+- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and OSX. ![SwiftIcon]
 
 
 #### iOS / macOS
