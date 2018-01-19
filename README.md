@@ -357,7 +357,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Utilities
 
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator. ![ObjectiveCIcon]
-- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
+- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
