@@ -185,6 +185,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
+- [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/movch/json-mapper) - A simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
