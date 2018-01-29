@@ -20,6 +20,7 @@ You can see which language is using for app. Curently there are next languages:
 ## Content
 - [Audio](#audio)
 - [Chat](#chat)
+- [Cryptocurrency](#cryptocurrency)
 - [Development](#development)
 	- [Git](#git)
 	- [iOS / macOS](#ios--macos)
@@ -76,6 +77,10 @@ You can see which language is using for app. Curently there are next languages:
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer. ![SwiftIcon]
 - [Muse](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support.
+
+### Cryptocurrency
+
+- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - A macOS app to safely generate cryptocurrency address. ![SwiftIcon]
 
 ### Chat
 
