@@ -81,6 +81,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Cryptocurrency
 
 - [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - A macOS app to safely generate cryptocurrency address. ![SwiftIcon]
+- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
 
 ### Chat
 
@@ -207,6 +208,7 @@ You can see which language is using for app. Curently there are next languages:
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS. ![SwiftIcon]
 - [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. ![SwiftIcon]
+- [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
  
 #### Markdown
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
@@ -259,6 +261,14 @@ You can see which language is using for app. Curently there are next languages:
 - [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple, open-source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
+- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
+
+### Keyboard
+
+- [Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![SwiftIcon]
+- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
+- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
+- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - MacOS application for controlling AnnePro keyboard over bluetooth. 
 
 ### Mail
 
@@ -320,7 +330,6 @@ You can see which language is using for app. Curently there are next languages:
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app. ![SwiftIcon]
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift. ![SwiftIcon]
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. ![JavascriptIcon]
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon] 
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X. ![SwiftIcon]
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas. ![SwiftIcon]
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app. ![SwiftIcon]
@@ -350,6 +359,7 @@ You can see which language is using for app. Curently there are next languages:
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
 - [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly. ![RubyIcon]
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network. 
 
 ### Streaming
 
@@ -360,11 +370,11 @@ You can see which language is using for app. Curently there are next languages:
 - [iTerm 2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. ![ObjectiveCIcon]
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [Rust]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
+- [Console](https://github.com/macmade/Console) - OS X console application. ![SwiftIcon]
 
 ### Utilities
 
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator. ![ObjectiveCIcon]
-- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
@@ -400,9 +410,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![SwiftIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
-- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
 - [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
-- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
@@ -410,10 +418,12 @@ You can see which language is using for app. Curently there are next languages:
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
 - [CornerCal](https://github.com/ekreutz/CornerCal) - A simple, clean calendar and clock app for macOS. ![SwiftIcon]
-- [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 - [Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
+- [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
+- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. ![SwiftIcon]
+- [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - MacOS application to add a vertical bar to Dock. ![SwiftIcon]
 
 ### VPN & Proxy
 
@@ -426,15 +436,11 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Video
 
-- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
 - [Yoda](https://github.com/whoisandy/yoda) - Yoda is a nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - The streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
-- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
 - [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS. ![ObjectiveCIcon]
-- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
-- [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
@@ -444,8 +450,19 @@ You can see which language is using for app. Curently there are next languages:
 - [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
+
+#### Player
+
+- [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon] 
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
+- [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
+
+#### Subtitles
+
+- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
+- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
 
 ### Wallpaper
 
@@ -469,6 +486,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
 - [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt). 
+- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon] 
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
