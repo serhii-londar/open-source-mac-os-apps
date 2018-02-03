@@ -83,6 +83,7 @@ You can see which language is using for app. Curently there are next languages:
 
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
+- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
 
 
 ### Cryptocurrency
@@ -173,6 +174,11 @@ You can see which language is using for app. Curently there are next languages:
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ![SwiftIcon]
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect) - A Mac OS X app to let you access iTunesConnect. ![SwiftIcon]
 
+#### Other
+
+- [vegvisir](https://github.com/ant4g0nist/vegvisir) - A browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
+- [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
+
 ### Downloader
 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - A native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
@@ -180,6 +186,7 @@ You can see which language is using for app. Curently there are next languages:
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
 - [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses. 
 
 #### Other
 
@@ -322,6 +329,8 @@ You can see which language is using for app. Curently there are next languages:
 - [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
 - [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
+- [notable](https://github.com/jmcfarlane/notable) - Notable - a simple note taking application. 
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
 
 ### Podcast
 
@@ -430,6 +439,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
 - [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. ![JavascriptIcon]
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
+- [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
 
 ### VPN & Proxy
 
