@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dummyimage.com/600x100/141014/e3146e.png&text=Awesome+macOS+open+source+applications">
+  <img src="./icons/icon.png">
 </p>
 
 # Awesome macOS open source applications.
