@@ -21,7 +21,7 @@ You can see which language is using for app. Curently there are next languages:
 - ![CSSIcon] - CSS language.
 - ![RubyIcon] - Ruby language.
 
-## Content
+## Contents
 - [Audio](#audio)
 - [Chat](#chat)
 - [Cryptocurrency](#cryptocurrency)
