@@ -345,6 +345,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon] 
+- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. ![SwiftIcon]
 - [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
