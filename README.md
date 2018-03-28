@@ -219,7 +219,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Regxr](https://github.com/lukakerr/regxr) - Regxr is a minimal, lightweight and beautiful MacOS desktop application that allows for easy checking of regular expression pattern matching. ![SwiftIcon]
 
 #### JSON Parsing
-- [JSON Mapper](https://github.com/movch/json-mapper) - A simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
+- [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - A simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
 - [j2s](https://github.com/zadr/j2s) - A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
 
@@ -236,7 +236,6 @@ You can see which language is using for app. Curently there are next languages:
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS. ![CIcon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS. ![SwiftIcon]
-- [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. ![SwiftIcon]
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
  
 #### Markdown
@@ -286,7 +285,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Images
 
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
-- [ImageAlpha](https://github.com/pornel/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
+- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a Mac OS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
 - [Freehand](https://github.com/wddwycc/Freehand) - A MacOS Status Bar App for quick sketch. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - A MacOS menubar app for automating screenshots. ![SwiftIcon]
@@ -333,7 +332,7 @@ You can see which language is using for app. Curently there are next languages:
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
 - [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
 - [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
-- [https://github.com/SauvageP/Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
+- [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
 - [notable](https://github.com/jmcfarlane/notable) - Notable - a simple note taking application. 
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
@@ -348,7 +347,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon] 
-- [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. ![SwiftIcon]
+- [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A nice tool for tagging and archiving tasks. ![SwiftIcon]
 - [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
@@ -358,12 +357,11 @@ You can see which language is using for app. Curently there are next languages:
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X. ![SwiftIcon]
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas. ![SwiftIcon]
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app. ![SwiftIcon]
-- [Last Time](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something. ![SwiftIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - An unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![SwiftIcon]
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
-- [Clocker](https://github.com/Abhishaker17/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
+- [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 
 ### Screensaver 
@@ -412,25 +410,23 @@ You can see which language is using for app. Curently there are next languages:
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
-- [MacPass](https://github.com/mstarke/MacPass) - A native OS X KeePass client. ![ObjectiveCIcon]
+- [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client. ![ObjectiveCIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - A set of CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. ![ObjectiveCIcon]
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. ![ObjectiveCIcon]
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app for Mac, Windows, and Linux. ![JavascriptIcon]
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
 - [AppPolice](https://github.com/fuyu/AppPolice) - An app for Mac OS X with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ![ObjectiveCIcon]
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...). ![SwiftIcon]
 - [Shifty](https://github.com/thompsonate/Shifty) - A macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![JavascriptIcon]
-- [Slow Quit Apps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. ![ObjectiveCIcon]
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![SwiftIcon]
-- [Telephone](https://github.com/eofster/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
+- [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
@@ -472,7 +468,6 @@ You can see which language is using for app. Curently there are next languages:
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
 - [Face Data](https://github.com/xiaohk/FaceData) - A macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - A macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
-- [Clip DVR](https://github.com/james-howard/clipdvr) - A macOS menu bar application to take video captures of the last 30s of onscreen activity. ![ObjectiveCIcon]
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an Mac OS X app created to mux and tag mp4 files. ![ObjectiveCIcon]
 
@@ -496,7 +491,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - WallpaperMenu is a Mac OS X menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [https://www.artstation.com/artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
 - [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple Mac OS X menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
 - [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple Mac os app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - A Win / Linux / Mac OS tool for managing and cycling desktop wallpapers. ![CppIcon]
