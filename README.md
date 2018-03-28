@@ -81,6 +81,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Muse](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support.
 - [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
+- [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
 
 ### Browser
 
