@@ -298,7 +298,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - MacOS application for controlling AnnePro keyboard over bluetooth. 
-- [Kawa](https://github.com/noraesae/kawa) - A better input source switcher for OS X. ![SwiftIcon]
+- [Kawa](https://github.com/utatti/kawa) - A better input source switcher for OS X. ![SwiftIcon]
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
 
 ### Mail
