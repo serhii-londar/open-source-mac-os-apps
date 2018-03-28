@@ -88,6 +88,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
+- [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
 
 
 ### Cryptocurrency
