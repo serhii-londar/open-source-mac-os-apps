@@ -445,6 +445,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. ![JavascriptIcon]
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
+- [ToTheTop](https://github.com/zenangst/ToTheTop) - A small macOS application to help you scroll to the top. ![SwiftIcon]
 
 ### VPN & Proxy
 
