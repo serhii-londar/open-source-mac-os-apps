@@ -447,6 +447,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - A small macOS application to help you scroll to the top. ![SwiftIcon]
+- [browserosaurus](https://github.com/will-stone/browserosaurus) - MacOS tool that prompts you to choose a browser when opening a link. 
 
 ### VPN & Proxy
 
