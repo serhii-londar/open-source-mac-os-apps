@@ -19,6 +19,7 @@ You can see which language is using for app. Curently there are next languages:
 - ![CSSIcon] - CSS language.
 - ![RubyIcon] - Ruby language.
 - ![RustIcon] - Rust language.
+- ![LuaIcon] - Lua language.
 
 ## Contents
 - [Audio](#audio)
@@ -281,7 +282,7 @@ You can see which language is using for app. Curently there are next languages:
 ### IDE
 
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. [Lua]
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
 
 ### Images
 
@@ -502,7 +503,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Window Management
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [Lua] 
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [LuaIcon] 
 - [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
@@ -520,5 +521,6 @@ You can see which language is using for app. Curently there are next languages:
 [PythonIcon]: ./icons/python-16.png
 [CSSIcon]: ./icons/css-16.png
 [RubyIcon]: ./icons/ruby-16.png
+[LuaIcon]: ./icons/lua-16.png
 [RustIcon]: ./icons/rust-16.png
 [AppStore]: ./icons/app_store-16.png
