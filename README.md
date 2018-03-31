@@ -18,6 +18,8 @@ You can see which language is using for app. Curently there are next languages:
 - ![PythonIcon] - Python language.
 - ![CSSIcon] - CSS language.
 - ![RubyIcon] - Ruby language.
+- ![RustIcon] - Rust language.
+- ![LuaIcon] - Lua language.
 
 ## Contents
 - [Audio](#audio)
@@ -63,7 +65,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
 - [Cog](https://github.com/kode54/Cog) - A Free and Open Source Audio Player for Mac OS X 10.7+. ![CIcon]
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![CIcon] ![ObjectiveCIcon]
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. [Rust]
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![RustIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
 - [SpotSpot](https://github.com/will-stone/SpotSpot) - A Spotify mini-player for macOS. ![JavascriptIcon]
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon] 
@@ -394,7 +396,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Terminal
 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. ![ObjectiveCIcon]
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [Rust]
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - OS X console application. ![SwiftIcon]
 
@@ -520,4 +522,5 @@ You can see which language is using for app. Curently there are next languages:
 [CSSIcon]: ./icons/css-16.png
 [RubyIcon]: ./icons/ruby-16.png
 [LuaIcon]: ./icons/lua-16.png
+[RustIcon]: ./icons/rust-16.png
 [AppStore]: ./icons/app_store-16.png
