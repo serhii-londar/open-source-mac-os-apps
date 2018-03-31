@@ -521,6 +521,6 @@ You can see which language is using for app. Curently there are next languages:
 [PythonIcon]: ./icons/python-16.png
 [CSSIcon]: ./icons/css-16.png
 [RubyIcon]: ./icons/ruby-16.png
-[LuaIcon]: ./icons/lua-16.png
 [RustIcon]: ./icons/rust-16.png
+[LuaIcon]: ./icons/lua-16.png
 [AppStore]: ./icons/app_store-16.png
