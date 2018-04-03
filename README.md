@@ -228,6 +228,9 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Editors
 
+#### JSON
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data ![JavascriptIcon]
+
 #### TeX
 
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
