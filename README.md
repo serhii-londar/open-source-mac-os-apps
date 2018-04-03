@@ -32,6 +32,7 @@ You can see which language is using for app. Curently there are next languages:
 	- [Other](#other)
 	- [JSON Parsing](#json--parsing)
 - [Editors](#editors)
+	- [JSON](#JSON)
 	- [TeX](#tex)
 	- [Text](#text)
 	- [Markdown](#markdown)
