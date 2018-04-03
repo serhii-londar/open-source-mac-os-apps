@@ -32,7 +32,7 @@ You can see which language is using for app. Curently there are next languages:
 	- [Other](#other)
 	- [JSON Parsing](#json--parsing)
 - [Editors](#editors)
-	- [JSON](#JSON)
+	- [JSON](#json)
 	- [TeX](#tex)
 	- [Text](#text)
 	- [Markdown](#markdown)
@@ -230,7 +230,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Editors
 
 #### JSON
-- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data ![JavascriptIcon]
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![JavascriptIcon]
 
 #### TeX
 
