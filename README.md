@@ -68,12 +68,12 @@ You can see which language is using for app. Curently there are next languages:
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![RustIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
 - [SpotSpot](https://github.com/will-stone/SpotSpot) - A Spotify mini-player for macOS. ![JavascriptIcon]
-- [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon] 
+- [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 - [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
-- [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon] 
+- [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon]
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
-- [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon] 
+- [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon]
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
@@ -171,7 +171,7 @@ You can see which language is using for app. Curently there are next languages:
 #### Web development
 
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
-- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ![ObjectiveCIcon] 
+- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ![ObjectiveCIcon]
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ![JavascriptIcon]
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. ![JavascriptIcon]
 - [stts](https://github.com/inket/stts) - stts is a macOS app for monitoring the status of cloud services. ![SwiftIcon]
@@ -194,22 +194,22 @@ You can see which language is using for app. Curently there are next languages:
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
 - [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses. 
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
 
 #### Other
 
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon] 
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon] 
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. ![ObjectiveCIcon] 
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon] 
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon] 
-- [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon] 
-- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon] 
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
+- [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
+- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
 - [Reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
-- [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS. ![ObjectiveCIcon] 
+- [Shuttle](https://github.com/fitztrev/shuttle) - A simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) -  A simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
@@ -239,10 +239,10 @@ You can see which language is using for app. Curently there are next languages:
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS. ![SwiftIcon]
 - [Google-Docs-for-Mac](https://github.com/himidi/Google-Docs-for-Mac) - Native Google Docs app for Mac. ![SwiftIcon]
- 
+
 #### Markdown
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
-- [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for MacOS with live preview. ![SwiftIcon] 
+- [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for MacOS with live preview. ![SwiftIcon]
 
 ### Extensions
 
@@ -254,7 +254,7 @@ You can see which language is using for app. Curently there are next languages:
 
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
 - [Finder Go](https://github.com/onmyway133/FinderGo) - A macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
-- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon] 
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon]
 
 
 ### Games
@@ -262,9 +262,9 @@ You can see which language is using for app. Curently there are next languages:
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ![CppIcon]
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![ObjectiveCIcon] ![CppIcon]
 - [Dolphin](https://github.com/dolphin-emu/dolphin) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. ![CppIcon]
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon] 
-- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon] 
-- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon] 
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon]
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon]
+- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon]
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
 
 
@@ -273,7 +273,7 @@ You can see which language is using for app. Curently there are next languages:
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
-- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon] 
+- [macSVG](https://github.com/dsward2/macSVG) - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon]
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
@@ -297,9 +297,9 @@ You can see which language is using for app. Curently there are next languages:
 ### Keyboard
 
 - [Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![SwiftIcon]
-- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon] 
+- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon]
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
-- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - MacOS application for controlling AnnePro keyboard over bluetooth. 
+- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - MacOS application for controlling AnnePro keyboard over bluetooth.
 - [Kawa](https://github.com/utatti/kawa) - A better input source switcher for OS X. ![SwiftIcon]
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
 
@@ -307,9 +307,9 @@ You can see which language is using for app. Curently there are next languages:
 
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. ![SwiftIcon]
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - The open-source, extensible mail client. ![JavascriptIcon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon] 
+- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon] 
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
 
 ### Music
@@ -328,15 +328,15 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Notes
 
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes. ![ObjectiveCIcon] 
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - The simplest way to keep notes. ![ObjectiveCIcon]
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Boostnote is an open source note-taking app made for programmers just like you. ![JavascriptIcon]
 - [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS X app to make temporary notes. ![SwiftIcon]
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - A simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
-- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon] 
-- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon] 
+- [Tusk](https://github.com/klauscfhq/tusk) - Tusk is an unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
+- [FromScratch](https://github.com/Kilian/fromscratch) - FromScratch is a little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
 - [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS. ![SwiftIcon]
-- [notable](https://github.com/jmcfarlane/notable) - Notable - a simple note taking application. 
+- [notable](https://github.com/jmcfarlane/notable) - Notable - a simple note taking application.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
 
 ### Podcast
@@ -346,9 +346,9 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Productivity
 
-- [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon] 
-- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon] 
-- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon] 
+- [ClipMenu](https://github.com/naotaka/ClipMenu) - A clipboard manager for Mac OS X. ![ObjectiveCIcon]
+- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
+- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A nice tool for tagging and archiving tasks. ![SwiftIcon]
 - [stretchly](https://github.com/hovancik/stretchly) - stretchly is cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
@@ -359,14 +359,14 @@ You can see which language is using for app. Curently there are next languages:
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for Mac OS X. ![SwiftIcon]
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - A macOS application to write down and connect ideas. ![SwiftIcon]
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - A quickly hacked up PSI OS X status bar app. ![SwiftIcon]
-- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon] 
+- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar. ![ObjectiveCIcon]
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - An unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![SwiftIcon]
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 
-### Screensaver 
+### Screensaver
 
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX. ![JavascriptIcon]
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. ![SwiftIcon]
@@ -387,11 +387,11 @@ You can see which language is using for app. Curently there are next languages:
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
 - [Simpo](https://github.com/KeliCheng/Simpo) - A macOS menubar app to post status quickly. ![RubyIcon]
-- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network. 
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
 
 ### Streaming
 
-- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app. 
+- [Galeri](https://github.com/michealparks/galeri-www) - A perpetual artwork streaming app.
 
 ### Terminal
 
@@ -428,7 +428,7 @@ You can see which language is using for app. Curently there are next languages:
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![SwiftIcon]
-- [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon] 
+- [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ![CIcon] ![CppIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
@@ -446,7 +446,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - A small macOS application to help you scroll to the top. ![SwiftIcon]
-- [browserosaurus](https://github.com/will-stone/browserosaurus) - MacOS tool that prompts you to choose a browser when opening a link. 
+- [browserosaurus](https://github.com/will-stone/browserosaurus) - MacOS tool that prompts you to choose a browser when opening a link.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
 
 ### VPN & Proxy
@@ -476,7 +476,7 @@ You can see which language is using for app. Curently there are next languages:
 #### Player
 
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. ![SwiftIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon] 
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on Mac OS X. ![ObjectiveCIcon]
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
 - [Movie Monad](https://github.com/lettier/movie-monad) - A desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
 
@@ -503,12 +503,12 @@ You can see which language is using for app. Curently there are next languages:
 ### Window Management
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [LuaIcon] 
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [LuaIcon]
 - [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
-- [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt). 
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon] 
+- [Slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt).
+- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
 
 [CIcon]: ./icons/c-16.png
