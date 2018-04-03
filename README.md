@@ -448,6 +448,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - A small macOS application to help you scroll to the top. ![SwiftIcon]
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - MacOS tool that prompts you to choose a browser when opening a link.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. ![PythonIcon]
 
 ### VPN & Proxy
 
