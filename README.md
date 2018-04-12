@@ -283,6 +283,7 @@ You can see which language is using for app. Curently there are next languages:
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
+- [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
 
 
 ### IDE
