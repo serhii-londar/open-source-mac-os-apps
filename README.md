@@ -113,6 +113,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Sidetalk](https://github.com/clint-tseng/sidetalk) - macOS Google Hangouts/XMPP chat client (available in App Store!).
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - An Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
+- [Wire Desktop](https://github.com/wireapp/wire-desktop) - An standalone Electron app for the chatapp Wire. ![JavascriptIcon]
 
 ### Development
 
