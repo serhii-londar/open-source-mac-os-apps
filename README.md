@@ -290,6 +290,7 @@ You can see which language is using for app. Curently there are next languages:
 ### IDE
 
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
 
 ### Images
