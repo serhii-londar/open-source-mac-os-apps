@@ -81,7 +81,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![SwiftIcon]
-- [Muse](https://github.com/xzzz9097/Muse) - Open-source Spotify controller with TouchBar support.
+- [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
@@ -218,7 +218,7 @@ You can see which language is using for app. Curently there are next languages:
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
 - [Regxr](https://github.com/lukakerr/regxr) - Regxr is a minimal, lightweight and beautiful macOS desktop application that allows for easy checking of regular expression pattern matching. ![SwiftIcon]
@@ -298,7 +298,7 @@ You can see which language is using for app. Curently there are next languages:
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
 - [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
-- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open-source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
+- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 
 ### Keyboard
@@ -316,7 +316,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. ![JavascriptIcon]
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
 
 ### Music
@@ -329,7 +329,7 @@ You can see which language is using for app. Curently there are next languages:
 ### News
 
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 
 
@@ -415,7 +415,7 @@ You can see which language is using for app. Curently there are next languages:
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![ObjectiveCIcon]
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![SwiftIcon]
-- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
+- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
@@ -478,7 +478,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open source video transcoder available for Linux, Mac, and Windows. ![CIcon]
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an macOS app created to mux and tag mp4 files. ![ObjectiveCIcon]
 
 #### Player
