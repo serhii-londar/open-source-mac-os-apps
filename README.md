@@ -287,7 +287,7 @@ You can see which in which language an app is written. Curently there are follow
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
-
+- [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code. ![ObjectiveCIcon]
 
 ### IDE
 
