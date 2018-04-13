@@ -286,6 +286,7 @@ You can see which language is using for app. Curently there are next languages:
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
+- [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
 
 
 ### IDE
