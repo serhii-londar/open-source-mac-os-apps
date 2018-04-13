@@ -411,6 +411,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - macOs console application. ![SwiftIcon]
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 
 ### Utilities
 
