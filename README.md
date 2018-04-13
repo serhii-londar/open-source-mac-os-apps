@@ -20,6 +20,7 @@ You can see which language is using for app. Curently there are next languages:
 - ![RubyIcon] - Ruby language.
 - ![RustIcon] - Rust language.
 - ![LuaIcon] - Lua language.
+- ![HaskellIcon] - Haskell language.
 
 ## Contents
 - [Audio](#audio)
@@ -488,7 +489,7 @@ You can see which language is using for app. Curently there are next languages:
 - [IINA](https://github.com/lhc70000/iina) - Modern video player for macOS. ![SwiftIcon]
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
-- [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. [Haskell]
+- [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. ![HaskellIcon]
 
 #### Subtitles
 
@@ -534,3 +535,4 @@ You can see which language is using for app. Curently there are next languages:
 [RustIcon]: ./icons/rust-16.png
 [LuaIcon]: ./icons/Lua-16.png
 [AppStore]: ./icons/app_store-16.png
+[HaskellIcon]: ./icons/haskell-16.png
