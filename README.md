@@ -28,9 +28,9 @@ You can see which language is using for app. Curently there are next languages:
 - [Development](#development)
 	- [Git](#git)
 	- [iOS / macOS](#ios--macos)
-	- [Web development](#web--development)
+	- [Web development](#web-development)
 	- [Other](#other)
-	- [JSON Parsing](#json--parsing)
+	- [JSON Parsing](#json-parsing)
 - [Editors](#editors)
 	- [JSON](#json)
 	- [TeX](#tex)
@@ -50,14 +50,14 @@ You can see which language is using for app. Curently there are next languages:
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
 - [Sharing Files](#sharing--files)
-- [Social Networking](#social--networking)
+- [Social Networking](#social-networking)
 - [Streaming](#streaming)
 - [Terminal](#terminal)
 - [Utilities](#utilities)
 - [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
 - [Wallpaper](#wallpaper)
-- [Window Management](#window--management)
+- [Window Management](#window-management)
 
 ## Applications
 
