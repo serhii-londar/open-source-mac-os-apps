@@ -90,6 +90,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Browser
 
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
+- [FireFox](https://www.mozilla.org/en-US/firefox/new/) - Firefox browser, has built in tracking protection
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
@@ -523,6 +524,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
 - [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
+- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS based on plugin architecture ![CppIcon] ![ObjectiveCIcon]
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
