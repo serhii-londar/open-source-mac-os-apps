@@ -515,7 +515,7 @@ You can see which language is using for app. Curently there are next languages:
 ### Window Management
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] [LuaIcon]
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
 - [kwm](https://github.com/koekeishiya/kwm) - Tiling window manager with focus follows mouse for OSX. ![CppIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
