@@ -462,6 +462,7 @@ You can see which in which language an app is written. Curently there are follow
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
+- [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - A small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 
 ### VPN & Proxy
 
