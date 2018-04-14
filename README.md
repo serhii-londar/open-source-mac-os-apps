@@ -187,6 +187,7 @@ You can see which in which language an app is written. Curently there are follow
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ![SwiftIcon]
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect) - macOS app to let you access iTunesConnect. ![SwiftIcon]
+- [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron. ![JavascriptIcon]
 
 #### Other
 
