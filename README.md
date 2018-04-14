@@ -172,6 +172,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![SwiftIcon]
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. ![ObjectiveCIcon]
+- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App for customisation you Touch Bar as you want ![SwiftIcon]
 
 #### Web development
 
