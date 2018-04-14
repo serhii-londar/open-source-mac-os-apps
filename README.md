@@ -251,6 +251,7 @@ You can see which in which language an app is written. Curently there are follow
 #### Markdown
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for macOS with live preview. ![SwiftIcon]
+- [Mark Text](https://github.com/marktext/marktext/) -Realtime preview markdown eidtor for macOS Windows and Linux. ![JavascriptIcon]
 
 ### Extensions
 
