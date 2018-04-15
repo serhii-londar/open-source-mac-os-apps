@@ -387,6 +387,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![SwiftIcon]
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
 - [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
+- [MusaicFM](https://github.com/docterd/MusaicFM) iTunes Screensaver Clone for Spotify and Last.fm ![ObjectiveCIcon]
 
 ### Sharing Files
 
