@@ -163,7 +163,7 @@ You can see which in which language an app is written. Curently there are follow
 - [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. ![SwiftIcon]
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
-- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your developement projects (Xcode, web, etc). ![SwiftIcon]
+- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. ![ObjectiveCIcon]
