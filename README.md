@@ -414,12 +414,12 @@ You can see which in which language an app is written. Curently there are follow
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
-- [Console](https://github.com/macmade/Console) - macOs console application. ![SwiftIcon]
+- [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 
 ### Utilities
 
-- [AnyBar](https://github.com/tonsky/AnyBar) - macOs menubar status indicator. ![ObjectiveCIcon]
+- [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
