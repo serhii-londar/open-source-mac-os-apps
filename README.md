@@ -413,7 +413,7 @@ You can see which in which language an app is written. Curently there are follow
 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
-- [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
+- [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - macOs console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 
