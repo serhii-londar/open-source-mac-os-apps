@@ -55,8 +55,8 @@ You can see which in which language an app is written. Curently there are follow
 - [Streaming](#streaming)
 - [Terminal](#terminal)
 - [Utilities](#utilities)
-	- [Non-Terminal]
-	- [Terminal]
+	- [Non-Terminal](#non-terminal)
+	- [Terminal](#terminal)
 - [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
 - [Wallpaper](#wallpaper)
