@@ -50,7 +50,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
-- [Sharing Files](#sharing--files)
+- [Sharing Files](#sharing-files)
 - [Social Networking](#social-networking)
 - [Streaming](#streaming)
 - [Terminal](#terminal)
