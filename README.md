@@ -416,6 +416,7 @@ You can see which in which language an app is written. Curently there are follow
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
+- [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
 
 ### Utilities
 
