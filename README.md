@@ -55,6 +55,8 @@ You can see which in which language an app is written. Curently there are follow
 - [Streaming](#streaming)
 - [Terminal](#terminal)
 - [Utilities](#utilities)
+	- [Non-Terminal](#non-terminal)
+	- [Terminal](#terminal)
 - [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
 - [Wallpaper](#wallpaper)
@@ -421,6 +423,8 @@ You can see which in which language an app is written. Curently there are follow
 
 ### Utilities
 
+**Non-Terminal**
+
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
@@ -467,10 +471,14 @@ You can see which in which language an app is written. Curently there are follow
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
-- [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - A small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
+
+**Terminal**
+
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![PythonIcon]
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
 
 ### VPN & Proxy
 
