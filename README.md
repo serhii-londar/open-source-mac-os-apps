@@ -307,6 +307,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
+- [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
 
 ### Keyboard
 
@@ -416,6 +417,7 @@ You can see which in which language an app is written. Curently there are follow
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
+- [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
 
 ### Utilities
 
@@ -469,6 +471,7 @@ You can see which in which language an app is written. Curently there are follow
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - A small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
+- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
 
 ### VPN & Proxy
 
@@ -531,6 +534,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
 - [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
+- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture, successor to kwm. ![CppIcon]
 
 [CIcon]: ./icons/c-16.png
 [CppIcon]: ./icons/cpp-16.png
