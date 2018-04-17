@@ -166,13 +166,13 @@ You can see which in which language an app is written. Curently there are follow
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
-- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. ![ObjectiveCIcon]
+- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ![ObjectiveCIcon]
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![SwiftIcon]
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![SwiftIcon]
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. ![ObjectiveCIcon]
-- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App for customisation you Touch Bar as you want ![SwiftIcon]
+- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![SwiftIcon]
 
 #### Web development
 
@@ -197,7 +197,7 @@ You can see which in which language an app is written. Curently there are follow
 ### Downloader
 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
-- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to downloadYoutube videos. ![SwiftIcon]
+- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos. ![SwiftIcon]
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
@@ -253,7 +253,7 @@ You can see which in which language an app is written. Curently there are follow
 #### Markdown
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for macOS with live preview. ![SwiftIcon]
-- [Mark Text](https://github.com/marktext/marktext/) -Realtime preview markdown eidtor for macOS Windows and Linux. ![JavascriptIcon]
+- [Mark Text](https://github.com/marktext/marktext/) -Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
 
 ### Extensions
 
@@ -383,6 +383,7 @@ You can see which in which language an app is written. Curently there are follow
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
+- [Flycut] (https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers ![ObjectiveCIcon]
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
 
 ### Screensaver
