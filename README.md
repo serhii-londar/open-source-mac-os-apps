@@ -492,6 +492,7 @@ You can see which in which language an app is written. Curently there are follow
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 
 ### VPN & Proxy
 
