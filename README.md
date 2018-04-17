@@ -24,6 +24,7 @@ You can see which in which language an app is written. Curently there are follow
 
 ## Contents
 - [Audio](#audio)
+- [Browser](#browser)
 - [Chat](#chat)
 - [Cryptocurrency](#cryptocurrency)
 - [Development](#development)
@@ -32,6 +33,7 @@ You can see which in which language an app is written. Curently there are follow
 	- [Web development](#web-development)
 	- [Other](#other)
 	- [JSON Parsing](#json-parsing)
+- [Downloader](#downloader)
 - [Editors](#editors)
 	- [JSON](#json)
 	- [TeX](#tex)
@@ -43,10 +45,11 @@ You can see which in which language an app is written. Curently there are follow
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [Images](#images)
+- [Keyboard](#keyboard)
 - [Mail](#mail)
 - [Music](#music)
 - [Notes](#notes)
-- [Other](#other)
+- [News](#news)
 - [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
