@@ -470,7 +470,7 @@ You can see which in which language an app is written. Curently there are follow
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - A small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
-- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms.
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 
 ### VPN & Proxy
 
