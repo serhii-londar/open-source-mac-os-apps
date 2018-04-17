@@ -6,7 +6,7 @@
 
 List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
 
-You can see which in which language an app is written. Curently there are following languages:
+You can see in which language an app is written. Curently there are following languages:
 
 - ![CIcon] - C language.
 - ![CppIcon] - C++ language.
