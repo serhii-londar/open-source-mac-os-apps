@@ -359,6 +359,7 @@ You can see which in which language an app is written. Curently there are follow
 
 - [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - Simple, beautiful podcast app. ![JavascriptIcon]
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
+- [Podlive for macOS](https://github.com/phranck/podlive-macos) - A macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
 
 ### Productivity
 
@@ -383,6 +384,7 @@ You can see which in which language an app is written. Curently there are follow
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 - [Flycut] (https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers ![ObjectiveCIcon]
+- [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
 
 ### Screensaver
 
