@@ -384,6 +384,7 @@ You can see in which language an app is written. Curently there are following la
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS. ![SwiftIcon]
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
+- [FSNotes](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
 
 ### Podcast
 
