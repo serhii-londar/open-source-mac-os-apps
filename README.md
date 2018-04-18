@@ -310,6 +310,7 @@ You can see in which language an app is written. Curently there are following la
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
+- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for OS X 10.9+ ![CppIcon] ![ObjectiveCIcon]
 
 ### Images
 
