@@ -240,6 +240,7 @@ You can see in which language an app is written. Curently there are following la
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
 - [Regxr](https://github.com/lukakerr/regxr) - Regxr is a minimal, lightweight and beautiful macOS desktop application that allows for easy checking of regular expression pattern matching. ![SwiftIcon]
+- [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
