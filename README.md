@@ -34,6 +34,7 @@ You can see in which language an app is written. Curently there are following la
 	- [Web development](#web-development)
 	- [Other](#other)
 	- [JSON Parsing](#json-parsing)
+- [Downloader](#downloader)
 - [Editors](#editors)
 	- [JSON](#json)
 	- [TeX](#tex)
@@ -45,11 +46,12 @@ You can see in which language an app is written. Curently there are following la
 - [Graphics](#graphics)
 - [IDE](#ide)
 - [Images](#images)
+- [Keyboard](#keyboard)
 - [Mail](#mail)
 - [Menubar](#menubar)
 - [Music](#music)
 - [Notes](#notes)
-- [Other](#other)
+- [News](#news)
 - [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
@@ -110,13 +112,6 @@ You can see in which language an app is written. Curently there are following la
 - [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
 
 
-### Cryptocurrency
-
-- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![SwiftIcon]
-- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
-- [Balance Open](https://github.com/balancemymoney/balance-open) - App for all the world’s currencies. ![SwiftIcon]
-- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![JavascriptIcon]
-
 ### Chat
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
@@ -131,6 +126,13 @@ You can see in which language an app is written. Curently there are following la
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - An Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
+
+### Cryptocurrency
+
+- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![SwiftIcon]
+- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
+- [Balance Open](https://github.com/balancemymoney/balance-open) - App for all the world’s currencies. ![SwiftIcon]
+- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![JavascriptIcon]
 
 ### Development
 
@@ -210,6 +212,12 @@ You can see in which language an app is written. Curently there are following la
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
 
+#### JSON Parsing
+
+- [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
+- [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
+
 ### Downloader
 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
@@ -242,12 +250,6 @@ You can see in which language an app is written. Curently there are following la
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
 - [Regxr](https://github.com/lukakerr/regxr) - Regxr is a minimal, lightweight and beautiful macOS desktop application that allows for easy checking of regular expression pattern matching. ![SwiftIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
-
-#### JSON Parsing
-- [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
-- [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
-
 
 ### Editors
 
