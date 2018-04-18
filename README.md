@@ -25,6 +25,7 @@ You can see in which language an app is written. Curently there are following la
 ## Contents
 - [Audio](#audio)
 - [Backup](#backup)
+- [Browser](#browser)
 - [Chat](#chat)
 - [Cryptocurrency](#cryptocurrency)
 - [Development](#development)
