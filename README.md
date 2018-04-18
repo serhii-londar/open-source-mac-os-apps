@@ -107,6 +107,7 @@ You can see in which language an app is written. Curently there are following la
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
+- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
 
 
 ### Cryptocurrency
