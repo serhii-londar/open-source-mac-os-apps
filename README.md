@@ -316,6 +316,7 @@ You can see in which language an app is written. Curently there are following la
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
+- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing - a code editor focused on developer productivity - powered by Neovim ![JavascriptIcon]![TypescriptIcon]
 
 ### Images
 
