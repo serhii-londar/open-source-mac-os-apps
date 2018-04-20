@@ -251,6 +251,7 @@ You can see in which language an app is written. Curently there are following la
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight macOS desktop application to check for regular expression pattern matches ![SwiftIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
+- [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
 
 ### Editors
 
