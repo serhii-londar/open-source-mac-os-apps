@@ -417,8 +417,9 @@ You can see in which language an app is written. Curently there are following la
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
-- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers ![ObjectiveCIcon]
+- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. ![ObjectiveCIcon]
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
+- [Timer](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac. ![SwiftIcon]
 
 ### Screensaver
 
