@@ -403,7 +403,6 @@ You can see in which language an app is written. Curently there are following la
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks. ![SwiftIcon]
-- [Keka](https://github.com/aonez/Keka) - The macOS file archiver. ![CIcon] ![CppIcon]
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
@@ -469,7 +468,6 @@ You can see in which language an app is written. Curently there are following la
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
-- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - macOS application to add a vertical bar to Dock. ![SwiftIcon]
 
@@ -502,6 +500,8 @@ You can see in which language an app is written. Curently there are following la
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
+- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
+- [Keka](https://github.com/aonez/Keka) - The macOS file archiver. ![CIcon] ![CppIcon]
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 
 ### VPN & Proxy
