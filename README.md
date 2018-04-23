@@ -210,7 +210,8 @@ You can see in which language an app is written. Curently there are following la
 #### Other
 
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
-- [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
+- [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries. ![ObjectiveCIcon]
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS. ![ObjectiveCIcon] 
 
 #### JSON Parsing
 
