@@ -248,7 +248,6 @@ You can see in which language an app is written. Curently there are following la
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
-- [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight macOS desktop application to check for regular expression pattern matches ![SwiftIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
