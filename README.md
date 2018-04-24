@@ -505,7 +505,7 @@ You can see in which language an app is written. Curently there are following la
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - a cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
-- [Mos](http://mos.caldis.me) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
+- [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 
 ### VPN & Proxy
 
