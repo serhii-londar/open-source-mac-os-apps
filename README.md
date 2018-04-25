@@ -569,17 +569,17 @@ You can see in which language an app is written. Curently there are following la
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
 - [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture, successor to kwm. ![CppIcon]
 
-[CIcon]: ./icons/c-16.png
-[CppIcon]: ./icons/cpp-16.png
-[JavascriptIcon]: ./icons/javascript-16.png
-[ObjectiveCIcon]: ./icons/objective-c-16.png
-[SwiftIcon]: ./icons/swift-16.png
-[CoffeescriptIcon]: ./icons/coffeescript-16.png
-[TypescriptIcon]: ./icons/typescript-16.png
-[PythonIcon]: ./icons/python-16.png
-[CSSIcon]: ./icons/css-16.png
-[RubyIcon]: ./icons/ruby-16.png
-[RustIcon]: ./icons/rust-16.png
-[LuaIcon]: ./icons/Lua-16.png
-[AppStore]: ./icons/app_store-16.png
-[HaskellIcon]: ./icons/haskell-16.png
+[CIcon]: ./icons/c-16.png "C language."
+[CppIcon]: ./icons/cpp-16.png "C++ language."
+[JavascriptIcon]: ./icons/javascript-16.png "JavaScript language."
+[ObjectiveCIcon]: ./icons/objective-c-16.png "Objective-C language."
+[SwiftIcon]: ./icons/swift-16.png "Swift language."
+[CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
+[TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
+[PythonIcon]: ./icons/python-16.png "Python language."
+[CSSIcon]: ./icons/css-16.png "CSS language."
+[RubyIcon]: ./icons/ruby-16.png "Ruby language."
+[RustIcon]: ./icons/rust-16.png "Rust language."
+[LuaIcon]: ./icons/Lua-16.png "Lua language."
+[AppStore]: ./icons/app_store-16.png "App Store."
+[HaskellIcon]: ./icons/haskell-16.png "Haskell language."
