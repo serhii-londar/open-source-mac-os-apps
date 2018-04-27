@@ -2,7 +2,13 @@
   <img src="./icons/icon.png">
 </p>
 
-# Awesome macOS open source applications. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome macOS open source applications. 
+
+<p align="left">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+  <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://travis-ci.org/serhii-londar/open-source-mac-os-apps.svg?branch=master" /></a>
+</p>
 
 List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
 
