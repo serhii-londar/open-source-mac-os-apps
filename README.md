@@ -590,7 +590,7 @@ You can see in which language an app is written. Curently there are following la
 [PerlIcon]: ./icons/perl-16.jpg "Perl language."
 [PhpIcon]: ./icons/php-16.png "PHP language."
 [PythonIcon]: ./icons/python-16.png "Python language."
-[ShellIcon]: .icons/shell-16.png "Shell scripting."
+[ShellIcon]: ./icons/shell-16.png "Shell scripting."
 [CSSIcon]: ./icons/css-16.png "CSS language."
 [RubyIcon]: ./icons/ruby-16.png "Ruby language."
 [RustIcon]: ./icons/rust-16.png "Rust language."
