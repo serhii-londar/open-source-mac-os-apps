@@ -513,6 +513,7 @@ You can see in which language an app is written. Curently there are following la
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - a cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
+- [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
 
 ### VPN & Proxy
 
