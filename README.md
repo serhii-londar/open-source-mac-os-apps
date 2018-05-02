@@ -2,7 +2,7 @@
   <img src="./icons/icon.png">
 </p>
 
-# Awesome macOS open source applications. 
+# Awesome macOS open source applications.
 
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
@@ -21,7 +21,10 @@ You can see in which language an app is written. Curently there are following la
 - ![SwiftIcon] - Swift language.
 - ![CoffeescriptIcon] - CoffeeScript language.
 - ![TypescriptIcon] - TypeScript language.
+- ![PerlIcon] - Perl language.
+- ![PHPIcon] - PHP language.
 - ![PythonIcon] - Python language.
+- ![ShellIcon] - Shell scripting.
 - ![CSSIcon] - CSS language.
 - ![RubyIcon] - Ruby language.
 - ![RustIcon] - Rust language.
@@ -54,7 +57,7 @@ You can see in which language an app is written. Curently there are following la
 - [Images](#images)
 - [Keyboard](#keyboard)
 - [Mail](#mail)
-- [Menubar](#menubar)
+- [Menu Bar](#menu-bar)
 - [Music](#music)
 - [Notes](#notes)
 - [News](#news)
@@ -355,11 +358,12 @@ You can see in which language an app is written. Curently there are following la
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
 
-### Menubar
+### Menu Bar
 
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
+  *  [BitBar-Plugins](https://github.com/matryer/bitbar-plugins) - Plugin repository for BitBar. ![ShellIcon] ![PythonIcon] ![JavascriptIcon] ![RubyIcon] ![PhpIcon] ![perlIcon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
@@ -587,7 +591,10 @@ You can see in which language an app is written. Curently there are following la
 [SwiftIcon]: ./icons/swift-16.png "Swift language."
 [CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
 [TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
+[PerlIcon]: ./icons/perl-16.jpg "Perl language."
+[PhpIcon]: ./icons/php-16.png "PHP language."
 [PythonIcon]: ./icons/python-16.png "Python language."
+[ShellIcon]: ./icons/shell-16.png "Shell scripting."
 [CSSIcon]: ./icons/css-16.png "CSS language."
 [RubyIcon]: ./icons/ruby-16.png "Ruby language."
 [RustIcon]: ./icons/rust-16.png "Rust language."
