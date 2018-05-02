@@ -57,7 +57,7 @@ You can see in which language an app is written. Curently there are following la
 - [Images](#images)
 - [Keyboard](#keyboard)
 - [Mail](#mail)
-- [Menu Bar](#menu--bar)
+- [Menu Bar](#menu-bar)
 - [Music](#music)
 - [Notes](#notes)
 - [News](#news)
@@ -587,10 +587,10 @@ You can see in which language an app is written. Curently there are following la
 [SwiftIcon]: ./icons/swift-16.png "Swift language."
 [CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
 [TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
-[PerlIcon]: ./icons/perl-16.png "Perl language."
+[PerlIcon]: ./icons/perl-16.jpg "Perl language."
 [PhpIcon]: ./icons/php-16.png "PHP language."
 [PythonIcon]: ./icons/python-16.png "Python language."
-[ShellIcon]: .icons/Shell-16.png "Shell scripting."
+[ShellIcon]: .icons/shell-16.png "Shell scripting."
 [CSSIcon]: ./icons/css-16.png "CSS language."
 [RubyIcon]: ./icons/ruby-16.png "Ruby language."
 [RustIcon]: ./icons/rust-16.png "Rust language."
