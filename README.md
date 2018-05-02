@@ -7,7 +7,6 @@
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
-  <a href="https://travis-ci.org/serhii-londar/open-source-mac-os-apps"><img alt="Build Status" src="https://api.travis-ci.org/serhii-londar/open-source-mac-os-apps.svg?branch=master" /></a>
 </p>
 
 List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
@@ -130,7 +129,7 @@ You can see in which language an app is written. Curently there are following la
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Sidetalk](https://github.com/clint-tseng/sidetalk) - macOS Google Hangouts/XMPP chat client (available in App Store!).
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
-- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - An Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
+- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
 
 ### Cryptocurrency
@@ -323,7 +322,7 @@ You can see in which language an app is written. Curently there are following la
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
-- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing - a code editor focused on developer productivity - powered by Neovim ![JavascriptIcon]![TypescriptIcon]
+- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing - code editor focused on developer productivity - powered by Neovim ![JavascriptIcon]![TypescriptIcon]
 
 ### Images
 
@@ -361,13 +360,13 @@ You can see in which language an app is written. Curently there are following la
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
-- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
+- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
-- [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - A small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
+- [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
 
 ### Music
@@ -401,7 +400,7 @@ You can see in which language an app is written. Curently there are following la
 
 - [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - Simple, beautiful podcast app. ![JavascriptIcon]
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
-- [Podlive for macOS](https://github.com/phranck/podlive-macos) - A macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
+- [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
 
 ### Productivity
 
@@ -424,7 +423,7 @@ You can see in which language an app is written. Curently there are following la
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. ![ObjectiveCIcon]
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
-- [Timer](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac. ![SwiftIcon]
+- [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![SwiftIcon]
 
 ### Screensaver
 
@@ -444,7 +443,7 @@ You can see in which language an app is written. Curently there are following la
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - A BitTorrent client in Qt. ![CppIcon]
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery. ![PythonIcon]
 - [Deluge](https://git.deluge-torrent.org/deluge) - lightweight, Free Software, cross-platform BitTorrent client. ![PythonIcon]
 
@@ -487,8 +486,8 @@ You can see in which language an app is written. Curently there are following la
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
-- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
-- [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
+- [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
+- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
 
 ### Utilities
 
@@ -512,9 +511,9 @@ You can see in which language an app is written. Curently there are following la
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
 - [Keka](https://github.com/aonez/Keka) - The macOS file archiver. ![CIcon] ![CppIcon]
-- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - A free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - a cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
 
