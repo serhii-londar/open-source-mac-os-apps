@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Awesome macOS open source applications.</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <style>
+    body {
+      min-height: 2000px;
+      padding-top: 70px;
+      font-family: Helvetica, sans-serif;
+    }
+    #content {
+      max-width: 1024px;
+      margin: 0 auto;
+      padding: 0 10px;
+      display: block;
+    }
+
+    p > img {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="content"></div>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"></script>
+
+  <script>
+    var getFileData = function (url) {
+      $.ajax({
+        url: url,
+        headers: {
+          "Accept": "application/vnd.github.v3.raw"
+        }
+      }).done(function (data) {
+        var converter = new showdown.Converter({ literalMidWordUnderscores: true });
+        var html = converter.makeHtml(data);
+        $("#content").html(html)
+      })
+    };
+
+    $(document).ready(function () {
+      $.getJSON("https://api.github.com/repos/serhii-londar/open-source-mac-os-apps/git/trees/HEAD").
+        done(function (data) {
+          for (var i = data.tree.length - 1; i >= 0; i--) {
+            if (data.tree[i].path == "README.md") {
+              getFileData(data.tree[i].url);
+              break;
+            }
+          };
+        });
+    });
+  </script>
+</body>
+
+</html>
