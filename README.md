@@ -593,3 +593,8 @@ You can see in which language an app is written. Curently there are following la
 [LuaIcon]: ./icons/Lua-16.png "Lua language."
 [AppStore]: ./icons/app_store-16.png "App Store."
 [HaskellIcon]: ./icons/haskell-16.png "Haskell language."
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/badge.svg?style=beer-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps)  [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/make-wish.svg?style=flat-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps?focus=wish)
