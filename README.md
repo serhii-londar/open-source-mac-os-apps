@@ -424,6 +424,7 @@ You can see in which language an app is written. Curently there are following la
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. ![ObjectiveCIcon]
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![SwiftIcon]
+- [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app. ![JavascriptIcon]
 
 ### Screensaver
 
