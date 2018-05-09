@@ -375,6 +375,7 @@ You can see in which language an app is written. Curently there are following la
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
 - [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
+- [ChordDetector](https://github.com/cemolcay/ChordDetector) - A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
 
 ### News
 
