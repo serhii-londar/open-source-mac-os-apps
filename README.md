@@ -520,6 +520,7 @@ You can see in which language an app is written. Curently there are following la
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
+- [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![SwiftIcon]
 
 ### VPN & Proxy
 
