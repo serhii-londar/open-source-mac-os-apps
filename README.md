@@ -155,6 +155,7 @@ You can see in which language an app is written. Curently there are following la
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac. ![SwiftIcon]
 - [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and OSX. ![SwiftIcon]
+- [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![SwiftIcon]
 
 
 #### iOS / macOS
