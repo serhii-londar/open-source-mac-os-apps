@@ -401,7 +401,7 @@ You can see in which language an app is written. Curently there are following la
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
-- [Standard Notes](https://github.com/standardnotes/web)  — Safe place for your notes, thoughts, and life's work. Available for Mac, Windows, iOS, Android, Web, and Linux. ![JavascriptIcon] ![CSSIcon]
+- [Standard Notes](https://github.com/standardnotes/web)  — Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
 
 ### Podcast
 
