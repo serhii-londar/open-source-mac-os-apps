@@ -322,6 +322,7 @@ You can see in which language an app is written. Curently there are following la
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code. ![ObjectiveCIcon]
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source. ![CppIcon]
+- [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is professional quality vector graphics software. ![CppIcon]
 
 ### IDE
 
