@@ -529,6 +529,7 @@ You can see in which language an app is written. Curently there are following la
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![SwiftIcon]
+- [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ![JavascriptIcon]
 
 ### VPN & Proxy
 
