@@ -376,6 +376,7 @@ You can see in which language an app is written. Curently there are following la
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
 
 ### Music
 
