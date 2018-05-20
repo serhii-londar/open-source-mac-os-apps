@@ -115,6 +115,7 @@ You can see in which language an app is written. Curently there are following la
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
 - [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
+- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![JavascriptIcon]
 
 
 ### Chat
