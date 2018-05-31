@@ -229,6 +229,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![swift_icon]
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![swift_icon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![swift_icon]
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![SwiftIcon]
 
 #### Web development
 
