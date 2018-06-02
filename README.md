@@ -352,6 +352,7 @@ You can see in which language an app is written. Curently there are following la
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
 - [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. ![SwiftIcon]
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
+- [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![JavascriptIcon]![CSSIcon]
 
 ### Mail
 
