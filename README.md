@@ -26,6 +26,7 @@ You can see in which language an app is written. Curently there are following la
 - ![RustIcon] - Rust language.
 - ![LuaIcon] - Lua language.
 - ![HaskellIcon] - Haskell language.
+- ![CSharpIcon] - C# Language
 
 ## Contents
 - [Audio](#audio)
@@ -385,6 +386,7 @@ You can see in which language an app is written. Curently there are following la
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
 - [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
+- [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. ![CSharpIcon]
 
 ### News
 
@@ -609,6 +611,7 @@ You can see in which language an app is written. Curently there are following la
 [LuaIcon]: ./icons/Lua-16.png "Lua language."
 [AppStore]: ./icons/app_store-16.png "App Store."
 [HaskellIcon]: ./icons/haskell-16.png "Haskell language."
+[CSharpIcon]: ./icons/csharp-16.png "C# Language"
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
