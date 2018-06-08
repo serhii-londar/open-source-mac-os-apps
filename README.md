@@ -439,6 +439,7 @@ You can see in which language an app is written. Curently there are following la
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![SwiftIcon]
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager. ![SwiftIcon]
 - [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app. ![JavascriptIcon]
+- [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![JavascriptIcon]![CSSIcon]
 
 ### Screensaver
 
