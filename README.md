@@ -99,6 +99,7 @@ You can see in which language an app is written. Curently there are following la
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
+- [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
 
 ### Backup
 
