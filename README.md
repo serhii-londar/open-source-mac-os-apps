@@ -135,6 +135,7 @@ You can see in which language an app is written. Curently there are following la
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
 - [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
+- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![SwiftIcon]
 
 ### Cryptocurrency
 
