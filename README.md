@@ -251,6 +251,7 @@ You can see in which language an app is written. Curently there are following la
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
+- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client.
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
