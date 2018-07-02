@@ -26,7 +26,8 @@ You can see in which language an app is written. Curently there are following la
 - ![RustIcon] - Rust language.
 - ![LuaIcon] - Lua language.
 - ![HaskellIcon] - Haskell language.
-- ![CSharpIcon] - C# Language
+- ![CSharpIcon] - C# language.
+- ![ElmIcon] - Elm language.
 
 ## Contents
 - [Audio](#audio)
@@ -288,6 +289,7 @@ You can see in which language an app is written. Curently there are following la
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for macOS with live preview. ![SwiftIcon]
 - [Mark Text](https://github.com/marktext/marktext/) -Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
+- [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. ![ElmIcon]
 
 ### Extensions
 
@@ -618,6 +620,7 @@ You can see in which language an app is written. Curently there are following la
 [AppStore]: ./icons/app_store-16.png "App Store."
 [HaskellIcon]: ./icons/haskell-16.png "Haskell language."
 [CSharpIcon]: ./icons/csharp-16.png "C# Language"
+[ElmIcon]: ./icons/elm-16.png "Elm Language"
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
