@@ -2,14 +2,14 @@
   <img src="./icons/icon.png">
 </p>
 
-# Awesome MacOS open source applications.
+# Awesome macOS open source applications.
 
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
-List of awesome open source applications for MacOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
+List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
 
 You can see in which language an app is written. Currently there are following languages:
 
