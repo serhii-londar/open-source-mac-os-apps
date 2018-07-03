@@ -9,9 +9,9 @@
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
-List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
+List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
 
-You can see in which language an app is written. Curently there are following languages:
+You can see in which language an app is written. Currently there are following languages:
 
 - ![CIcon] - C language.
 - ![CppIcon] - C++ language.
