@@ -46,6 +46,7 @@ You can see in which language an app is written. Currently there are following l
 	- [Web development](#web-development)
 	- [Other](#other)
 	- [JSON Parsing](#json-parsing)
+	- [CI/CD](#ci--cd)
 - [Downloader](#downloader)
 - [Editors](#editors)
 	- [JSON](#json)
@@ -247,6 +248,10 @@ You can see in which language an app is written. Currently there are following l
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
+
+#### CI/CD
+
+- [ci2go](https://github.com/ngs/ci2go) - CircleCI client. ![SwiftIcon]
 
 ### Downloader
 
