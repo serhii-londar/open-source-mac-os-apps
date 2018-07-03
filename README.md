@@ -26,7 +26,7 @@ You can see in which language an app is written. Curently there are following la
 - ![RustIcon] - Rust language.
 - ![LuaIcon] - Lua language.
 - ![HaskellIcon] - Haskell language.
-- ![CSharpIcon] - C# Language
+- ![CSharpIcon] - C# language.
 
 ## Contents
 - [Audio](#audio)
