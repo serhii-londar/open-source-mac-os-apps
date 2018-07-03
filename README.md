@@ -415,7 +415,7 @@ You can see in which language an app is written. Curently there are following la
 
 ### Podcast
 
-- [Cumulonimbus](https://github.com/z-------------/cumulonimbus) - Simple, beautiful podcast app. ![JavascriptIcon]
+- [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. ![JavascriptIcon]
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
 
