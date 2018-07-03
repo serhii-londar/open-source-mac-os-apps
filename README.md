@@ -293,6 +293,7 @@ You can see in which language an app is written. Currently there are following l
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![CIcon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS. ![SwiftIcon]
+- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![SwiftIcon]
 
 #### Markdown
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
