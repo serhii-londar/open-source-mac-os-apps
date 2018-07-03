@@ -9,6 +9,11 @@
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/badge.svg?style=beer-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps)  [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/make-wish.svg?style=flat-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps?focus=wish)
+
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
 
 You can see in which language an app is written. Currently there are following languages:
@@ -623,8 +628,3 @@ You can see in which language an app is written. Currently there are following l
 [AppStore]: ./icons/app_store-16.png "App Store."
 [HaskellIcon]: ./icons/haskell-16.png "Haskell language."
 [CSharpIcon]: ./icons/csharp-16.png "C# Language"
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/badge.svg?style=beer-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps)  [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/make-wish.svg?style=flat-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps?focus=wish)
