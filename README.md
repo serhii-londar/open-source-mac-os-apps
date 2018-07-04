@@ -146,8 +146,8 @@ You can see in which language an app is written. Currently there are following l
 ### Cryptocurrency
 
 - [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![SwiftIcon]
-- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. ![SwiftIcon]
+- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![JavascriptIcon]
 - [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges. ![SwiftIcon]
 
