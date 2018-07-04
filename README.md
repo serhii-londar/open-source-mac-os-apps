@@ -357,6 +357,7 @@ You can see in which language an app is written. Currently there are following l
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
+- [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![CIcon]
 
 ### Keyboard
 
