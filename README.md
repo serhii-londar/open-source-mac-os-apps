@@ -242,6 +242,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![SwiftIcon]
 
 #### JSON Parsing
 
