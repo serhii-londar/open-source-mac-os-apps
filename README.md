@@ -379,6 +379,7 @@ You can see in which language an app is written. Currently there are following l
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
@@ -388,39 +389,38 @@ You can see in which language an app is written. Currently there are following l
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
 
 ### Music
 
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
-- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
-- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
-- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
-- [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. ![CSharpIcon]
-- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. ![SwiftIcon]
+- [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
+- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
+- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
+- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes: ![JavascriptIcon]
+- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. ![SwiftIcon]
 
 ### News
 
+- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
-- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 
 ### Notes
 
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![ObjectiveCIcon]
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Open source note-taking app made for programmers just like you. ![JavascriptIcon]
-- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
-- [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
-- [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
+- [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS. ![SwiftIcon]
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
-- [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
-- [FSNotes](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
-- [Standard Notes](https://github.com/standardnotes/web)  — Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
+- [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![ObjectiveCIcon]
+- [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
+- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
+- [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
 
 ### Podcast
 
