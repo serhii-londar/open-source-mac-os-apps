@@ -154,12 +154,12 @@ You can see in which language an app is written. Currently there are following l
 
 ### Database
 
+- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![CppIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
-- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![CppIcon]
 
 ### Development
 
