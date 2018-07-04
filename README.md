@@ -282,7 +282,14 @@ You can see in which language an app is written. Currently there are following l
 ### Editors
 
 #### JSON
+
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![JavascriptIcon]
+
+#### Markdown
+
+- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
+- [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
+- [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for macOS with live preview. ![SwiftIcon]
 
 #### TeX
 
@@ -292,14 +299,9 @@ You can see in which language an app is written. Currently there are following l
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![CIcon]
+- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![SwiftIcon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS. ![SwiftIcon]
-- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![SwiftIcon]
-
-#### Markdown
-- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
-- [Markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for macOS with live preview. ![SwiftIcon]
-- [Mark Text](https://github.com/marktext/marktext/) -Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
 
 ### Extensions
 
