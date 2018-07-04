@@ -473,22 +473,22 @@ You can see in which language an app is written. Currently there are following l
 
 ### Sharing Files
 
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
-- [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
-- [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
-- [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery. ![PythonIcon]
 - [Deluge](https://git.deluge-torrent.org/deluge) - lightweight, Free Software, cross-platform BitTorrent client. ![PythonIcon]
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
+- [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
+- [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
+- [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery. ![PythonIcon]
 
 ### Social Networking
 
-- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
-- [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
-- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
+- [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
+- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
 
 ### Streaming
 
@@ -499,8 +499,8 @@ You can see in which language an app is written. Currently there are following l
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. ![SwiftIcon]
 - [AppPolice](https://github.com/fuyu/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ![ObjectiveCIcon]
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...). ![SwiftIcon]
-- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. ![SwiftIcon]
+- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![ObjectiveCIcon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
