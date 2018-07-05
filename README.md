@@ -561,69 +561,69 @@ You can see in which language an app is written. Currently there are following l
 
 ### Video
 
-- [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
-- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
-- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. ![ObjectiveCIcon]
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
-- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. ![ObjectiveCIcon]
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
-- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
+- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
+- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an macOS app created to mux and tag mp4 files. ![ObjectiveCIcon]
+- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
+- [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
 
 #### Player
 
 - [IINA](https://github.com/lhc70000/iina) - Modern video player for macOS. ![SwiftIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. ![HaskellIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
 
 #### Subtitles
 
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
 - [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
 
 ### Wallpaper
 
-- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. ![SwiftIcon]
+- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
+- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. ![SwiftIcon]
+- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. ![CppIcon]
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
+- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
+- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. ![SwiftIcon]
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
-- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
-- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. ![CppIcon]
-- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
-- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
 
 ### Window Management
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
+- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
+- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture. ![CppIcon]
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
-- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
-- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
-- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture. ![CppIcon]
+- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
+- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
 
+[AppStore]: ./icons/app_store-16.png "App Store."
 [CIcon]: ./icons/c-16.png "C language."
 [CppIcon]: ./icons/cpp-16.png "C++ language."
-[JavascriptIcon]: ./icons/javascript-16.png "JavaScript language."
-[ObjectiveCIcon]: ./icons/objective-c-16.png "Objective-C language."
-[SwiftIcon]: ./icons/swift-16.png "Swift language."
+[CSharpIcon]: ./icons/csharp-16.png "C# Language"
 [CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
-[TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
-[PythonIcon]: ./icons/python-16.png "Python language."
 [CSSIcon]: ./icons/css-16.png "CSS language."
+[HaskellIcon]: ./icons/haskell-16.png "Haskell language."
+[JavascriptIcon]: ./icons/javascript-16.png "JavaScript language."
+[LuaIcon]: ./icons/Lua-16.png "Lua language."
+[ObjectiveCIcon]: ./icons/objective-c-16.png "Objective-C language."
+[PythonIcon]: ./icons/python-16.png "Python language."
 [RubyIcon]: ./icons/ruby-16.png "Ruby language."
 [RustIcon]: ./icons/rust-16.png "Rust language."
-[LuaIcon]: ./icons/Lua-16.png "Lua language."
-[AppStore]: ./icons/app_store-16.png "App Store."
-[HaskellIcon]: ./icons/haskell-16.png "Haskell language."
-[CSharpIcon]: ./icons/csharp-16.png "C# Language"
+[SwiftIcon]: ./icons/swift-16.png "Swift language."
+[TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
