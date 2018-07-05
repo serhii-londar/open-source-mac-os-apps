@@ -581,6 +581,7 @@ You can see in which language an app is written. Currently there are following l
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. ![HaskellIcon]
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
+- [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2. ![CIcon]
 
 #### Subtitles
 
