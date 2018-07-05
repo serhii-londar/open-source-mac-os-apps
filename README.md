@@ -349,6 +349,7 @@ You can see in which language an app is written. Currently there are following l
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
 - [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch. ![SwiftIcon]
+- [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![CIcon]
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
