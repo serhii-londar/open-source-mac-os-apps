@@ -64,6 +64,7 @@ You can see in which language an app is written. Currently there are following l
 - [Music](#music)
 - [News](#news)
 - [Notes](#notes)
+- [Other](#other-1)
 - [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
@@ -241,7 +242,7 @@ You can see in which language an app is written. Currently there are following l
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![SwiftIcon]
 
-#### Other
+### Other
 
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
@@ -254,27 +255,6 @@ You can see in which language an app is written. Currently there are following l
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos. ![SwiftIcon]
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
-
-#### Other
-
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
-- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
-- [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
-- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
-- [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
-- [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
-- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
-- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
-- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
-- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
-- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
-- [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
-- [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
-- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal native Mac OS X Syncthing application bundle. ![ObjectiveCIcon]
 
 ### Editors
 
@@ -422,6 +402,27 @@ You can see in which language an app is written. Currently there are following l
 - [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
 - [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
 - [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
+
+### Other
+
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
+- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
+- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
+- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
+- [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
+- [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
+- [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
+- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
+- [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
+- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal native Mac OS X Syncthing application bundle. ![ObjectiveCIcon]
+- [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
+- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
 
 ### Podcast
 
