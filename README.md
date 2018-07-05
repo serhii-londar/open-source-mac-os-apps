@@ -536,6 +536,7 @@ You can see in which language an app is written. Currently there are following l
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. ![JavascriptIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
+- [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
 - [MacPass](https://github.com/MacPass/MacPass) - Native OS X KeePass client. ![ObjectiveCIcon]
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. ![SwiftIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
