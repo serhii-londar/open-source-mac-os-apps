@@ -23,6 +23,7 @@ You can see in which language an app is written. Currently there are following l
 - ![CSharpIcon] - C# language.
 - ![CoffeescriptIcon] - CoffeeScript language.
 - ![CSSIcon] - CSS language.
+- ![ElmIcon] - Elm language.
 - ![HaskellIcon] - Haskell language.
 - ![JavascriptIcon] - JavaScript language.
 - ![LuaIcon] - Lua language.
@@ -32,6 +33,7 @@ You can see in which language an app is written. Currently there are following l
 - ![RustIcon] - Rust language.
 - ![SwiftIcon] - Swift language.
 - ![TypescriptIcon] - TypeScript language.
+
 
 ## Contents
 - [Audio](#audio)
@@ -264,6 +266,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### Markdown
 
+- [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. ![ElmIcon]
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
 - [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor. ![SwiftIcon]
@@ -621,6 +624,7 @@ You can see in which language an app is written. Currently there are following l
 [CSharpIcon]: ./icons/csharp-16.png "C# Language"
 [CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
 [CSSIcon]: ./icons/css-16.png "CSS language."
+[ElmIcon]: ./icons/elm-16.png "Elm Language"
 [HaskellIcon]: ./icons/haskell-16.png "Haskell language."
 [JavascriptIcon]: ./icons/javascript-16.png "JavaScript language."
 [LuaIcon]: ./icons/Lua-16.png "Lua language."
