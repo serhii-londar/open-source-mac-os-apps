@@ -175,7 +175,7 @@ You can see in which language an app is written. Currently there are following l
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac. ![SwiftIcon]
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
-- [GitX](https://github.com/rowanj/gitx) - Graphical client for the git version control system. ![ObjectiveCIcon]
+- [GitX](https://github.com/gitx/gitx) - Graphical client for the git version control system. ![ObjectiveCIcon]
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![JavascriptIcon]
