@@ -120,7 +120,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![JavascriptIcon]
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
-- [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
+- [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link. ![JavascriptIcon]
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![SwiftIcon]
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
