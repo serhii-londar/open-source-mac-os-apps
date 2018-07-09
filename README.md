@@ -336,6 +336,7 @@ You can see in which language an app is written. Currently there are following l
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - macOS application designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
