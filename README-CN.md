@@ -128,14 +128,14 @@
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser致力于使用Qt5重现经典Opera（12.1）浏览器的UI。 ![CppIcon]
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - macOS和iOS平台上安全的测试浏览器。 ![CIcon]
 
-### Chat
+### 聊天
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![JavascriptIcon]
-- [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native OS X & Windows desktop app for Google Allo.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
-- [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - 包装了WhatsApp网页版的原生mac应用。 ![ObjectiveCIcon]
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - macOS和Linux上更好用的微信客户端。 ![JavascriptIcon]
+- [Franz](https://github.com/meetfranz/franz) - Franz是一个聚合了WhatsApp、Slack、Messenger等服务的免费短信软件。 ![JavascriptIcon]
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - OS X原生和Windows桌面端的Google Allo应用。
+- [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的GroupMe应用。 ![JavascriptIcon] ![CSSIcon]
+- [Riot.im](https://github.com/vector-im/riot-web) - Riot.im是一个基于[Matrix](https://matrix.org/blog/home/)协议的合作应用（现阶段为Electron）。 ![JavascriptIcon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
