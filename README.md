@@ -538,6 +538,7 @@ You can see in which language an app is written. Currently there are following l
 - [Kap](https://github.com/wulkano/kap) - Open source screen recorder built with web technology. ![JavascriptIcon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. ![JavascriptIcon]
+- [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS. ![SwiftIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
 - [MacPass](https://github.com/MacPass/MacPass) - Native OS X KeePass client. ![ObjectiveCIcon]
