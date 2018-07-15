@@ -102,7 +102,7 @@ You can see in which language an app is written. Currently there are following l
 - [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 - [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
-- [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
+- [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS. ![ObjectiveCIcon]
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
 - [SpotSpot](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS. ![JavascriptIcon]
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
@@ -112,19 +112,19 @@ You can see in which language an app is written. Currently there are following l
 
 ### Backup
 
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
+- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). ![PythonIcon]
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![PythonIcon]
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
 
 ### Browser
 
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![JavascriptIcon]
-- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
+- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ![JavascriptIcon]
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link. ![JavascriptIcon]
-- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
+- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![SwiftIcon] ![ObjectiveCIcon]
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![SwiftIcon]
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
-- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
+- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ![JavascriptIcon]
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
 
@@ -133,7 +133,7 @@ You can see in which language an app is written. Currently there are following l
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![JavascriptIcon]
 - [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native OS X & Windows desktop app for Google Allo.
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
@@ -141,7 +141,7 @@ You can see in which language an app is written. Currently there are following l
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![ObjectiveCIcon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
+- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. ![ObjectiveCIcon]
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![SwiftIcon]
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
@@ -168,8 +168,8 @@ You can see in which language an app is written. Currently there are following l
 #### Git
 
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
-- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
-- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and OSX. ![SwiftIcon]
+- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, macOS status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
+- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS. ![SwiftIcon]
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
 - [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![SwiftIcon]
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
@@ -177,14 +177,14 @@ You can see in which language an app is written. Currently there are following l
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
 - [GitX](https://github.com/gitx/gitx) - Graphical client for the git version control system. ![ObjectiveCIcon]
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
-- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
+- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history. ![SwiftIcon]
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![JavascriptIcon]
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![SwiftIcon]
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
 
 #### iOS / macOS
 
-- [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / OS X apps development more easier. ![ObjectiveCIcon]
+- [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / macOS apps development more easier. ![ObjectiveCIcon]
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. ![SwiftIcon]
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
@@ -207,7 +207,7 @@ You can see in which language an app is written. Currently there are following l
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). ![ObjectiveCIcon]
 - [LayerX](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen. ![SwiftIcon]
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
-- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings). ![SwiftIcon]
+- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings). ![SwiftIcon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel. ![SwiftIcon]
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![SwiftIcon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![SwiftIcon]
@@ -346,7 +346,7 @@ You can see in which language an app is written. Currently there are following l
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![SwiftIcon]
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon]
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
-- [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. ![SwiftIcon]
+- [Kawa](https://github.com/utatti/kawa) - Better input source switcher for macOS. ![SwiftIcon]
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
 
 ### Mail
@@ -370,7 +370,7 @@ You can see in which language an app is written. Currently there are following l
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
-- [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
+- [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI macOS status bar app. ![SwiftIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
 
@@ -409,7 +409,7 @@ You can see in which language an app is written. Currently there are following l
 ### Other
 
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS. ![ObjectiveCIcon]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
@@ -423,7 +423,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
-- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal native Mac OS X Syncthing application bundle. ![ObjectiveCIcon]
+- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal nativemacOS macOS Syncthing application bundle. ![ObjectiveCIcon]
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
 
@@ -508,10 +508,10 @@ You can see in which language an app is written. Currently there are following l
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
-- [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
+- [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS. ![ObjectiveCIcon]
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - macOS application to add a vertical bar to Dock. ![SwiftIcon]
 
@@ -541,7 +541,7 @@ You can see in which language an app is written. Currently there are following l
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS. ![SwiftIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
-- [MacPass](https://github.com/MacPass/MacPass) - Native OS X KeePass client. ![ObjectiveCIcon]
+- [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client. ![ObjectiveCIcon]
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. ![SwiftIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
@@ -563,7 +563,7 @@ You can see in which language an app is written. Currently there are following l
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS. ![SwiftIcon]
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on macOS. ![ObjectiveCIcon]
 
 ### Video
 
@@ -578,7 +578,7 @@ You can see in which language an app is written. Currently there are following l
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an macOS app created to mux and tag mp4 files. ![ObjectiveCIcon]
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
-- [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
+- [Yoda](https://github.com/whoisandy/yoda) - Nifty macOS application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
 
 #### Player
 
@@ -592,12 +592,12 @@ You can see in which language an app is written. Currently there are following l
 
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source macOS app used to find and download subtitles easily. ![SwiftIcon]
 
 ### Wallpaper
 
 - [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
-- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
+- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
 - [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. ![SwiftIcon]
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. ![CppIcon]
@@ -613,7 +613,7 @@ You can see in which language an app is written. Currently there are following l
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
 - [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 - [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture. ![CppIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
