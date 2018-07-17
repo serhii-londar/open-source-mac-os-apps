@@ -100,6 +100,7 @@ You can see in which language an app is written. Currently there are following l
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
 - [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
+- [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player. ![CIcon]
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 - [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS. ![ObjectiveCIcon]
