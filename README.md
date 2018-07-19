@@ -520,6 +520,7 @@ You can see in which language an app is written. Currently there are following l
 ### Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
+- [Batian](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
