@@ -95,11 +95,11 @@ You can see in which language an app is written. Currently there are following l
 - [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![swift_icon]
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![objective_c_icon]
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![objective_c_icon]
-- [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
+- [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing. ![swift_icon] ![objective_c_icon]
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![swift_icon]
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![swift_icon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![cpp_icon]
-- [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
+- [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support. ![swift_icon]
 - [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player. ![c_icon]
 - [Rack](https://github.com/VCVRack/Rack) - Open-source virtual modular synthesizer. ![cpp_icon]
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![objective_c_icon]
@@ -110,7 +110,7 @@ You can see in which language an app is written. Currently there are following l
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![swift_icon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![rust_icon]
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![c_icon] ![objective_c_icon]
-- [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
+- [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ![swift_icon]
 
 ### Backup
 
@@ -188,7 +188,7 @@ You can see in which language an app is written. Currently there are following l
 - [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / macOS apps development more easier. ![objective_c_icon]
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![objective_c_icon]
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. ![swift_icon]
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
+- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS. ![objective_c_icon]
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times. ![swift_icon]
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![objective_c_icon] ![swift_icon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![swift_icon]
@@ -255,7 +255,7 @@ You can see in which language an app is written. Currently there are following l
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![swift_icon]
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![swift_icon]
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C ![swift_icon] ![objective_c_icon]
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses. ![javascript_icon]
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos. ![swift_icon]
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![swift_icon]
 
@@ -332,7 +332,7 @@ You can see in which language an app is written. Currently there are following l
 ### Images
 
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![swift_icon]
-- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
+- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization. ![python_icon]
 - [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch. ![swift_icon]
 - [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![c_icon]
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![python_icon] ![objective_c_icon]
@@ -344,7 +344,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Keyboard
 
-- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
+- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. ![swift_icon]
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![swift_icon]
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![cpp_icon] ![objective_c_icon]
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ![objective_c_icon]
@@ -489,7 +489,7 @@ You can see in which language an app is written. Currently there are following l
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![javascript_icon]
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![javascript_icon] ![css_icon]
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![javascript_icon]
-- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network. ![swift_icon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![objective_c_icon]
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![javascript_icon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon]
@@ -497,7 +497,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Streaming
 
-- [Galeri](https://github.com/michealparks/galeri-www) - Perpetual artwork streaming app.
+- [Galeri](https://github.com/michealparks/galeri-www) - Perpetual artwork streaming app. ![javascript_icon] ![css_icon]
 
 ### System
 
@@ -595,7 +595,7 @@ You can see in which language an app is written. Currently there are following l
 #### Subtitles
 
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![javascript_icon]
-- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
+- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles. ![swift_icon]
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is macOS application used to find and download subtitles easily. ![swift_icon]
 
 ### Wallpaper
@@ -620,7 +620,7 @@ You can see in which language an app is written. Currently there are following l
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. ![objective_c_icon] ![lua_icon]
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![objective_c_icon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![objective_c_icon]
-- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
+- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt). ![objective_c_icon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![objective_c_icon]
 
 [app_store]: ./icons/app_store-16.png 'App Store.'
