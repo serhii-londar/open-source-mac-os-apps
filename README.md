@@ -285,7 +285,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Extensions
 
-- [BetterPiP](https://github.com/Capevace/BetterPiP) - macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
+- [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
 
@@ -360,13 +360,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### Menubar
 
-- [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
+- [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. ![JavascriptIcon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ![SwiftIcon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
-- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
+- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![JavascriptIcon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
@@ -606,7 +606,7 @@ You can see in which language an app is written. Currently there are following l
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. ![SwiftIcon]
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
-- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
+- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
 
 ### Window Management
 
