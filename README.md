@@ -100,6 +100,9 @@ You can see in which language an app is written. Currently there are following l
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
 - [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
+- [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
+- [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player. ![CIcon]
+- [Rack](https://github.com/VCVRack/Rack) - Open-source virtual modular synthesizer. ![CppIcon]
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 - [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS. ![ObjectiveCIcon]
@@ -293,6 +296,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
+- [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. ![SwiftIcon]
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon]
 
 ### Games
@@ -518,6 +522,7 @@ You can see in which language an app is written. Currently there are following l
 ### Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
+- [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
