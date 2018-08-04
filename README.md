@@ -490,10 +490,10 @@ You can see in which language an app is written. Currently there are following l
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![javascript_icon] ![css_icon]
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![javascript_icon]
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
-- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
-- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![objective_c_icon]
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![javascript_icon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![ruby_icon]
 
 ### Streaming
 
