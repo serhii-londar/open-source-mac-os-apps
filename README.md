@@ -140,7 +140,6 @@ You can see in which language an app is written. Currently there are following l
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon]
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![javascript_icon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![javascript_icon]
-- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![objective_c_icon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![swift_icon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![objective_c_icon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![cpp_icon]
@@ -492,9 +491,10 @@ You can see in which language an app is written. Currently there are following l
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![javascript_icon] ![css_icon]
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![javascript_icon]
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![javascript_icon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon]
-- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![ruby_icon]
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
 
 ### Streaming
 
