@@ -87,10 +87,10 @@ You can see in which language an app is written. Currently there are following l
 ### Audio
 
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
-- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
+- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon]
-- [Cog](https://github.com/kode54/Cog) - Free and Open Source Audio Player for macOS. ![CIcon]
+- [Cog](https://github.com/kode54/Cog) - Audio player for macOS. ![CIcon]
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
 - [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![SwiftIcon]
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
@@ -99,7 +99,7 @@ You can see in which language an app is written. Currently there are following l
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
-- [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
+- [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 - [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS. ![ObjectiveCIcon]
@@ -114,7 +114,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). ![PythonIcon]
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![PythonIcon]
-- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
+- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server network backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
 
 ### Browser
 
@@ -132,7 +132,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![JavascriptIcon]
-- [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
+- [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
@@ -158,7 +158,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![CppIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
-- [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
+- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![JavascriptIcon]
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
@@ -188,7 +188,7 @@ You can see in which language an app is written. Currently there are following l
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. ![SwiftIcon]
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
-- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
+- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![SwiftIcon]
@@ -196,7 +196,7 @@ You can see in which language an app is written. Currently there are following l
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![SwiftIcon]
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macOS. ![ObjectiveCIcon]
-- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - Free, native Apple macOS app for testing HTTP/REST endpoints. ![ObjectiveCIcon]
+- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - Native Apple macOS app for testing HTTP/REST endpoints. ![ObjectiveCIcon]
 - [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. ![SwiftIcon]
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons. ![JavascriptIcon]
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![SwiftIcon]
@@ -215,7 +215,7 @@ You can see in which language an app is written. Currently there are following l
 - [PushNotitication](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![JavascriptIcon]
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![ObjectiveCIcon]
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![ObjectiveCIcon]
-- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small open source app to display your designs on the Touch Bar of the new MacBook Pro. ![SwiftIcon]
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro. ![SwiftIcon]
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![SwiftIcon]
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS. ![SwiftIcon]
@@ -239,7 +239,7 @@ You can see in which language an app is written. Currently there are following l
 - [Lantern](https://github.com/BurntCaramel/Lantern) - Dedicated Mac app for website auditing and crawling. ![SwiftIcon]
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ![JavascriptIcon]
-- [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
+- [ndm](https://github.com/720kb/ndm) - Npm desktop GUI. ![JavascriptIcon]
 - [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar. ![SwiftIcon]
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![SwiftIcon]
@@ -267,7 +267,7 @@ You can see in which language an app is written. Currently there are following l
 #### Markdown
 
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. ![ElmIcon]
-- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
+- [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS. ![ObjectiveCIcon]
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
 - [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor. ![SwiftIcon]
 
@@ -299,9 +299,9 @@ You can see in which language an app is written. Currently there are following l
 
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ![CppIcon]
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![ObjectiveCIcon] ![CppIcon]
-- [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful, Open Source emulator for Nintendo GameCube and Wii games. ![CppIcon]
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games. ![CppIcon]
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon]
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon]
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon]
 
@@ -310,13 +310,13 @@ You can see in which language an app is written. Currently there are following l
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
-- [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
+- [Gifcurry](https://github.com/lettier/gifcurry) - Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
 - [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is professional quality vector graphics software. ![CppIcon]
-- [macSVG](https://github.com/dsward2/macSVG) - Open source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon]
+- [macSVG](https://github.com/dsward2/macSVG) - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon]
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code. ![ObjectiveCIcon]
-- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source. ![CppIcon]
+- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. ![CppIcon]
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - Plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
 
@@ -335,7 +335,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![CIcon]
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
-- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
+- [Katana](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
@@ -353,10 +353,10 @@ You can see in which language an app is written. Currently there are following l
 
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail. ![SwiftIcon]
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. ![JavascriptIcon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
+- [Nylas Mail](https://github.com/nylas/nylas-mail) - Extensible mail client. ![JavascriptIcon]
+- [Rambox](https://github.com/saenzramiro/rambox) - Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 
 ### Menubar
 
@@ -389,11 +389,11 @@ You can see in which language an app is written. Currently there are following l
 
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
 
 ### Notes
 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Open source note-taking app made for programmers just like you. ![JavascriptIcon]
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Note-taking application made for programmers just like you. ![JavascriptIcon]
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
@@ -404,7 +404,7 @@ You can see in which language an app is written. Currently there are following l
 - [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![ObjectiveCIcon]
 - [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
 - [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
-- [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
+- [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
 
 ### Other
 
@@ -449,7 +449,7 @@ You can see in which language an app is written. Currently there are following l
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. ![JavascriptIcon]
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks. ![SwiftIcon]
-- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
+- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
 - [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![JavascriptIcon]![CSSIcon]
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
@@ -470,12 +470,12 @@ You can see in which language an app is written. Currently there are following l
 
 ### Security
 
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
 
 ### Sharing Files
 
-- [Deluge](https://git.deluge-torrent.org/deluge) - lightweight, Free Software, cross-platform BitTorrent client. ![PythonIcon]
+- [Deluge](https://git.deluge-torrent.org/deluge) - Lightweight cross-platform BitTorrent client. ![PythonIcon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
@@ -529,27 +529,27 @@ You can see in which language an app is written. Currently there are following l
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images ![SwiftIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
-- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Secure password manager for mac and other platforms. ![JavascriptIcon]
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. ![SwiftIcon]
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![JavascriptIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
-- [Kap](https://github.com/wulkano/kap) - Open source screen recorder built with web technology. ![JavascriptIcon]
+- [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology. ![JavascriptIcon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
-- [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. ![JavascriptIcon]
+- [KeeWeb](https://github.com/keeweb/keeweb) - Cross-platform password manager compatible with KeePass. ![JavascriptIcon]
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS. ![SwiftIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
 - [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client. ![ObjectiveCIcon]
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. ![SwiftIcon]
-- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
+- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker macOS application for meme creation. ![SwiftIcon]
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![SwiftIcon]
-- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
+- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. ![ObjectiveCIcon]
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon]
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ![JavascriptIcon]
@@ -563,7 +563,7 @@ You can see in which language an app is written. Currently there are following l
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS. ![SwiftIcon]
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on macOS. ![ObjectiveCIcon]
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS. ![ObjectiveCIcon]
 
 ### Video
 
@@ -572,7 +572,7 @@ You can see in which language an app is written. Currently there are following l
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open source video transcoder available for Linux, Mac, and Windows. ![CIcon]
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows. ![CIcon]
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
 - [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
 - [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an macOS app created to mux and tag mp4 files. ![ObjectiveCIcon]
@@ -592,7 +592,7 @@ You can see in which language an app is written. Currently there are following l
 
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 - [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source macOS app used to find and download subtitles easily. ![SwiftIcon]
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is macOS application used to find and download subtitles easily. ![SwiftIcon]
 
 ### Wallpaper
 
