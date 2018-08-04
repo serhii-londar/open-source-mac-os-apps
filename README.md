@@ -140,7 +140,6 @@ You can see in which language an app is written. Currently there are following l
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
-- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![ObjectiveCIcon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
@@ -492,6 +491,7 @@ You can see in which language an app is written. Currently there are following l
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
 - [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
