@@ -14,7 +14,7 @@ Hey friend! Help me out for a couple of :beers:!
 
 [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/badge.svg?style=beer-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps)  [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/make-wish.svg?style=flat-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps?focus=wish)
 
-List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
+List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
 You can see in which language an app is written. Currently there are following languages:
 
