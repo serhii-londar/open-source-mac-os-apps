@@ -84,7 +84,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### Audio
 
-- [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
+- <details>
+<summary>[AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]</summary>
+<p float="left">
+<bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png' width="400"/>
+</p>
+</details>
 - [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon]
