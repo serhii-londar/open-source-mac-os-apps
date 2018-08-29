@@ -84,7 +84,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Audio
 
-- <details>
+<details>
 <summary>
 [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
 </summary>
@@ -94,14 +94,14 @@ You can see in which language an app is written. Currently there are following l
 </p>
 </details>
 
-- <details>
+<details>
   <summary>
   [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon] 
   </summary>
 	<p float="left">
-<bt><img src='https://github.com/maculateConception/aural-player/blob/master/Documentation/Demos/newDemo.gif?raw=true' width="400"/>
-<bt><img src='https://github.com/maculateConception/aural-player/blob/master/Documentation/Demos/demo2.gif?raw=true' width="400"/>
-</p>
+	<bt><img src='https://github.com/maculateConception/aural-player/blob/master/Documentation/Demos/newDemo.gif?raw=true' width="400"/>
+	<bt><img src='https://github.com/maculateConception/aural-player/blob/master/Documentation/Demos/demo2.gif?raw=true' width="400"/>
+	</p>
   </details>
 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
