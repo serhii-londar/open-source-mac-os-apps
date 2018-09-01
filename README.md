@@ -132,6 +132,8 @@ You can see in which language an app is written. Currently there are following l
 
 ### Chat
 
+- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) - 
+Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon]
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon]
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon]
 - [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon]
