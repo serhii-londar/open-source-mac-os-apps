@@ -361,7 +361,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox Desktop App. ![javascript_icon] ![css_icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail. ![swift_icon]
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Extensible mail client. ![javascript_icon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon]
+- [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon]
 
 ### Menubar
 
