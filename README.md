@@ -20,6 +20,7 @@ You can see in which language an app is written. Currently there are following l
 - ![c_icon] - C language.
 - ![cpp_icon] - C++ language.
 - ![c_sharp_icon] - C# language.
+- ![clojure_icon] - Clojure language.
 - ![coffee_script_icon] - CoffeeScript language.
 - ![css_icon] - CSS language.
 - ![elm_icon] - Elm language.
@@ -633,6 +634,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 [c_icon]: ./icons/c-16.png 'C language.'
 [cpp_icon]: ./icons/cpp-16.png 'C++ language.'
 [c_sharp_icon]: ./icons/csharp-16.png 'C# Language'
+[clojure_icon]: ./icons/clojure-16.png 'Clojure Language'
 [coffee_script_icon]: ./icons/coffeescript-16.png 'CoffeeScript language.'
 [css_icon]: ./icons/css-16.png 'CSS language.'
 [elm_icon]: ./icons/elm-16.png 'Elm Language'
