@@ -20,6 +20,7 @@ You can see in which language an app is written. Currently there are following l
 - ![c_icon] - C language.
 - ![cpp_icon] - C++ language.
 - ![c_sharp_icon] - C# language.
+- ![clojure_icon] - Clojure language.
 - ![coffee_script_icon] - CoffeeScript language.
 - ![css_icon] - CSS language.
 - ![elm_icon] - Elm language.
@@ -349,6 +350,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. ![swift_icon]
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![swift_icon]
+- [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json ![clojure_icon]
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![cpp_icon] ![objective_c_icon]
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ![objective_c_icon]
 - [Kawa](https://github.com/utatti/kawa) - Better input source switcher for macOS. ![swift_icon]
@@ -632,6 +634,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 [c_icon]: ./icons/c-16.png 'C language.'
 [cpp_icon]: ./icons/cpp-16.png 'C++ language.'
 [c_sharp_icon]: ./icons/csharp-16.png 'C# Language'
+[clojure_icon]: ./icons/clojure-16.png 'Clojure Language'
 [coffee_script_icon]: ./icons/coffeescript-16.png 'CoffeeScript language.'
 [css_icon]: ./icons/css-16.png 'CSS language.'
 [elm_icon]: ./icons/elm-16.png 'Elm Language'
