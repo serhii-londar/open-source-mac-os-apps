@@ -213,6 +213,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [LayerX](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen. ![swift_icon]
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![swift_icon]
 - [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings). ![swift_icon]
+- [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side. ![swift_icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel. ![swift_icon]
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![swift_icon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![swift_icon]
