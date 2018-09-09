@@ -159,6 +159,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Database
 
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client. ![java_icon]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![cpp_icon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![swift_icon]
 - [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![javascript_icon]
@@ -635,6 +636,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 [css_icon]: ./icons/css-16.png 'CSS language.'
 [elm_icon]: ./icons/elm-16.png 'Elm Language'
 [haskell_icon]: ./icons/haskell-16.png 'Haskell language.'
+[java_icon]: ./icons/java-16.png 'Java language.'
 [javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
 [lua_icon]: ./icons/Lua-16.png 'Lua language.'
 [objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
