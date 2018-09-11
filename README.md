@@ -397,6 +397,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![swift_icon]
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![javascript_icon]
+- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - Feed reader for macOS. ![swift_icon]
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS. ![objective_c_icon]
 
 ### Notes
