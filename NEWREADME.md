@@ -1,16 +1,23 @@
 <p align="center">
   <img src="./icons/icon.png">
 </p>
+
 # Awesome macOS open source applications.
+
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
+
 ## Support on Beerpay
 Hey friend! Help me out for a couple of :beers:!
+
 [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/badge.svg?style=beer-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps)  [![Beerpay](https://beerpay.io/serhii-londar/open-source-mac-os-apps/make-wish.svg?style=flat-square)](https://beerpay.io/serhii-londar/open-source-mac-os-apps?focus=wish)
+
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps, and start contributing.
+
 You can see in which language an app is written. Currently there are following languages:
+
 - ![CIcon] - C language.
 - ![CppIcon] - C++ language.
 - ![CSharpIcon] - C# language.
@@ -25,6 +32,7 @@ You can see in which language an app is written. Currently there are following l
 - ![RustIcon] - Rust language.
 - ![SwiftIcon] - Swift language.
 - ![TypescriptIcon] - TypeScript language.
+
 ## Contents
 - [Audio](#audio)
 - [Backup](#backup)
@@ -71,8 +79,11 @@ You can see in which language an app is written. Currently there are following l
 - [Video](#video)
 - [Wallpaper](#wallpaper)
 - [Window Management](#window-management)
+
 ## Applications
+
 ### Audio
+
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
 <details>
 <summary>
@@ -305,7 +316,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png' width="400"/>
 </p>
 </details>
+
 ### Backup
+
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![PythonIcon]
 <details>
@@ -317,7 +330,9 @@ Screenshots
 </p>
 </details>
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
+
 ### Browser
+
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![JavascriptIcon]
 <details>
 <summary>
@@ -394,7 +409,9 @@ Screenshots
 </p>
 </details>
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
+
 ### Chat
+
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -512,7 +529,9 @@ Screenshots
 </p>
 </details>
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
+
 ### Cryptocurrency
+
 - [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![SwiftIcon]
 <details>
 <summary>
@@ -566,7 +585,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png' width="400"/>
 </p>
 </details>
+
 ### Database
+
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![CppIcon]
 <details>
 <summary>
@@ -615,8 +636,11 @@ Screenshots
 <bt><img src='https://sequelpro.com/images/browse.png' width="400"/>
 </p>
 </details>
+
 ### Development
+
 #### Git
+
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
 - [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
 <details>
@@ -752,7 +776,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>
 </p>
 </details>
+
 #### iOS / macOS
+
 - [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / OS X apps development more easier. ![ObjectiveCIcon]
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
 <details>
@@ -1141,7 +1167,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/novemberfiveco/xib2Storyboard/master/Screenshots/screenshot-storyboard.png><img src=Screenshots/screenshot-storyboard.png' width="400"/>
 </p>
 </details>
+
 #### JSON Parsing
+
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
 <details>
 <summary>
@@ -1161,7 +1189,9 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/5157350/5228493/72693010-7713-11e4-9e42-625a8590424a.png' width="400"/>
 </p>
 </details>
+
 #### Web development
+
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. ![JavascriptIcon]
 <details>
 <summary>
@@ -1327,7 +1357,9 @@ Screenshots
 <bt><img src='https://i.imgur.com/OAK3hR0.png' width="400"/>
 </p>
 </details>
+
 ### Other
+
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
 <details>
@@ -1347,7 +1379,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>
 </p>
 </details>
+
 ### Downloader
+
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
 <details>
 <summary>
@@ -1397,8 +1431,11 @@ Screenshots
 <bt><img src='https://denbeke.be/blog/wp-content/uploads/2017/11/Youtube-downloader-macOS-Swift.gif' width="400"/>
 </p>
 </details>
+
 ### Editors
+
 #### JSON
+
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![JavascriptIcon]
 <details>
 <summary>
@@ -1409,7 +1446,9 @@ Screenshots
 <bt><img src='http://i.imgur.com/CiXIrrg.gif' width="400"/>
 </p>
 </details>
+
 #### Markdown
+
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1434,7 +1473,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png' width="400"/>
 </p>
 </details>
+
 #### TeX
+
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
 <details>
 <summary>
@@ -1453,7 +1494,9 @@ Screenshots
 <bt><img src='https://i.imgur.com/utXxWLf.png' width="400"/>
 </p>
 </details>
+
 #### Text
+
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1497,7 +1540,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot2.png' width="400"/>
 </p>
 </details>
+
 ### Extensions
+
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
 <details>
 <summary>
@@ -1519,7 +1564,9 @@ Screenshots
 </p>
 </details>
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
+
 ### Finder
+
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1614,7 +1661,9 @@ Screenshots
 <bt><img src='http://i.imgur.com/F5ZrCmS.gif' width="400"/>
 </p>
 </details>
+
 ### Games
+
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ![CppIcon]
 <details>
 <summary>
@@ -1677,7 +1726,9 @@ Screenshots
 </p>
 </details>
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon]
+
 ### Graphics
+
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
 <details>
 <summary>
@@ -1783,7 +1834,9 @@ Screenshots
 <bt><img src='https://i.cloudup.com/XTLlL1-Stt-3000x3000.png' width="400"/>
 </p>
 </details>
+
 ### IDE
+
 - [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
 <details>
 <summary>
@@ -1850,7 +1903,9 @@ Screenshots
 <bt><img src='http://studio.zerobrane.com/images/debugging.png' width="400"/>
 </p>
 </details>
+
 ### Images
+
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
 <details>
 <summary>
@@ -1961,7 +2016,9 @@ Screenshots
 </p>
 </details>
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
+
 ### Keyboard
+
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
 <details>
 <summary>
@@ -2023,7 +2080,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png' width="400"/>
 </p>
 </details>
+
 ### Mail
+
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
 <details>
 <summary>
@@ -2079,7 +2138,122 @@ Screenshots
 </p>
 </details>
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
+<details>
+<summary>
+Screenshots
+</summary>
+<p float="left">
+<bt><img src='https://img.shields.io/badge/Donate-PayPal-green.svg' width="400"/>
+<bt><img src='https://img.shields.io/github/license/saenzramiro/rambox.svg' width="400"/>
+<bt><img src='https://badges.gitter.im/saenzramiro/rambox.svg' width="400"/>
+<bt><img src='https://img.shields.io/github/release/saenzramiro/rambox.svg' width="400"/>
+<bt><img src='https://d322cqt584bo4o.cloudfront.net/rambox/localized.svg' width="400"/>
+<bt><img src='https://david-dm.org/saenzramiro/rambox.svg' width="400"/>
+<bt><img src='https://david-dm.org/saenzramiro/rambox/dev-status.svg' width="400"/>
+<bt><img src='https://cdn.rawgit.com/saenzramiro/rambox/gh-pages/images/img-download.svg' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/./resources/screenshots/mac.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/whatsapp.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/messenger.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/skype.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/slack.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hangouts.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/telegram.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/wechat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/gmail.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/inbox.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hipchat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/allo.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/chatwork.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/groupme.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/grape.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/gitter.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/steam.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/discord.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/noysi.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/outlook.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/outlook365.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/tutanota.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hushmail.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/bearychat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/aol.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/sync.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/wire.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/rocketchat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/missive.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/yahoo.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/ryver.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/yandex.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/dasher.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/dingtalk.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/flowdock.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/mattermost.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/voxer.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/glip.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/yahoomessenger.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/mysms.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/icq.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/tweetdeck.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zinc.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/freenode.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/mightytext.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zohoemail.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zohocliq.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/roundcube.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/horde.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/squirrelmail.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zimbra.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hootsuite.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/amium.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/rainloop.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/icloud.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/irccloud.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/kiwi.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/smooch.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/crisp.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/flock.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/openmailbox.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/typetalk.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/drift.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/webexteams.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/fleep.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/socialcast.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/riot.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/pushbullet.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/movim.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/kaiwa.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zyptonite.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/linkedin.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/lounge.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/kezmo.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/teams.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/xing.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/workplace.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/fastmail.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hibox.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/jandi.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/threema.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/messengerpages.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/vk.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/mastodon.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/teamworkchat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/clocktweets.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/intercom.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/googlevoice.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/sandstorm.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/gadugadu.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/mailru.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/kune.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/zulip.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/stride.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/hangoutschat.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/messengerpages.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/androidmessages.png' width="400"/>
+<bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/sococo.png' width="400"/>
+</p>
+</details>
+
 ### Menubar
+
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
 <details>
 <summary>
@@ -2186,7 +2360,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/thompsonate/Shifty/master/docs/en/images/prefs-general-screenshot-shadow.png' width="400"/>
 </p>
 </details>
+
 ### Music
+
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. ![CSharpIcon]
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
 <details>
@@ -2249,7 +2425,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-4.png' width="400"/>
 </p>
 </details>
+
 ### News
+
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 <details>
 <summary>
@@ -2279,7 +2457,9 @@ Screenshots
 <bt><img src='https://badges.gitter.im/gitterHQ/gitter.png' width="400"/>
 </p>
 </details>
+
 ### Notes
+
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Open source note-taking app made for programmers just like you. ![JavascriptIcon]
 <details>
 <summary>
@@ -2438,7 +2618,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/klauscfhq/tusk/master/media/export-notes.gif' width="400"/>
 </p>
 </details>
+
 ### Other
+
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2615,7 +2797,9 @@ Screenshots
 <bt><img src='http://vagrantmanager.com/demo.gif' width="400"/>
 </p>
 </details>
+
 ### Podcast
+
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. ![JavascriptIcon]
 <details>
 <summary>
@@ -2656,7 +2840,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png' width="400"/>
 </p>
 </details>
+
 ### Productivity
+
 - [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2942,7 +3128,9 @@ Screenshots
 <bt><img src='https://media1.giphy.com/media/ZHjSXzRkUWTWE/200.gif' width="400"/>
 </p>
 </details>
+
 ### Screensaver
+
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -2988,7 +3176,9 @@ Screenshots
 <bt><img src='http://winterbe.com/image/matrix.png' width="400"/>
 </p>
 </details>
+
 ### Security
+
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3009,7 +3199,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/alichtman/stronghold/master/img/demo.gif' width="400"/>
 </p>
 </details>
+
 ### Sharing Files
+
 - [Deluge](https://git.deluge-torrent.org/deluge) - lightweight, Free Software, cross-platform BitTorrent client. ![PythonIcon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
 <details>
@@ -3041,7 +3233,9 @@ Screenshots
 <bt><img src='https://zenodo.org/badge/8411137.svg' width="400"/>
 </p>
 </details>
+
 ### Social Networking
+
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
@@ -3092,9 +3286,13 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png' width="400"/>
 </p>
 </details>
+
 ### Streaming
+
 - [Galeri](https://github.com/michealparks/galeri-www) - Perpetual artwork streaming app.
+
 ### System
+
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3230,7 +3428,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/DeromirNeves/VerticalBar/master/img/screenshot.png' width="400"/>
 </p>
 </details>
+
 ### Terminal
+
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 <details>
 <summary>
@@ -3273,7 +3473,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/es-kumagai/OpenTerminal/master/Resources/launchFromDock.png' width="400"/>
 </p>
 </details>
+
 ### Utilities
+
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
 <details>
 <summary>
@@ -3516,7 +3718,9 @@ Screenshots
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. ![ObjectiveCIcon]
+
 ### VPN & Proxy
+
 - [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![SwiftIcon]
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
@@ -3551,7 +3755,9 @@ Screenshots
 </p>
 </details>
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
+
 ### Video
+
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. ![ObjectiveCIcon]
 <details>
@@ -3618,7 +3824,9 @@ Screenshots
 </p>
 </details>
 - [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
+
 #### Player
+
 - [IINA](https://github.com/lhc70000/iina) - Modern video player for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3657,7 +3865,9 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png' width="400"/>
 </p>
 </details>
+
 #### Subtitles
+
 - [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
 <details>
 <summary>
@@ -3681,7 +3891,9 @@ Screenshots
 </details>
 - [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+
 ### Wallpaper
+
 - [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
 <details>
@@ -3743,7 +3955,9 @@ Screenshots
 </p>
 </details>
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
+
 ### Window Management
+
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3803,6 +4017,7 @@ Screenshots
 </details>
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
+
 [AppStore]: ./icons/app_store-16.png "App Store."
 [CIcon]: ./icons/c-16.png "C language."
 [CppIcon]: ./icons/cpp-16.png "C++ language."
