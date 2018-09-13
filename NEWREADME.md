@@ -96,7 +96,7 @@ Screenshots
 </p>
 </details>
 
-- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon] 
+- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
 <details>
 <summary>
 Screenshots
@@ -119,6 +119,7 @@ Screenshots
 </p>
 </details>
 
+
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
 <details>
 <summary>
@@ -129,7 +130,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/pkg-icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![JavascriptIcon]
 <details>
 <summary>
@@ -142,7 +144,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Cog](https://github.com/kode54/Cog) - Free and Open Source Audio Player for macOS. ![CIcon]
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![CppIcon]
 <details>
@@ -155,7 +158,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/license/enzo1982/freac.svg' width="400"/>
 <bt><img src='https://freac.org/images/freac-ubuntu.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![SwiftIcon]
 <details>
 <summary>
@@ -167,7 +171,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/oYB83zF.png' width="400"/>
 <bt><img src='https://i.imgur.com/SJ5RgM5.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -176,7 +181,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -185,7 +191,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.
 <details>
 <summary>
@@ -197,7 +204,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop. ![SwiftIcon]
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. ![SwiftIcon]
 <details>
@@ -214,7 +222,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_3.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![CppIcon]
 <details>
 <summary>
@@ -227,7 +236,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/raw/master/screenshot/qt-conv.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/raw/master/screenshot/qt5-macos.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Muse](https://github.com/xzzz9097/Muse) - Open source Spotify controller with TouchBar support.
 <details>
 <summary>
@@ -236,7 +246,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/xzzz9097/Muse/master/387><img src=Screenshots/Window2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -247,7 +258,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -257,7 +269,8 @@ Screenshots
 <bt><img src='https://badges.gitter.im/Join%20Chat.svg' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for OS X. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -266,7 +279,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![SwiftIcon] ![ObjectiveCIcon]
 <details>
 <summary>
@@ -275,7 +289,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://hits.dwyl.io/kmikiy/SpotMenu.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SpotSpot](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS. ![JavascriptIcon]
 - [Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. ![SwiftIcon]
 <details>
@@ -285,7 +300,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![RustIcon]
 <details>
 <summary>
@@ -298,7 +314,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/2.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![CIcon] ![ObjectiveCIcon]
 <details>
 <summary>
@@ -308,7 +325,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/CocoaHeadsBrasil/MuteUnmuteMic/master/%5BUn%5DMuteMic/Assets.xcassets/AppIcon.appiconset/128.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
 <details>
 <summary>
@@ -317,7 +335,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Backup
 
@@ -330,7 +349,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, macOS and Linux. ![CIcon] ![CppIcon]
 
 ### Browser
@@ -356,7 +376,8 @@ Screenshots
 <bt><img src='http://nerdist.com/wp-content/uploads/2016/05/the-mad-king-game-of-thrones.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/beakerbrowser/beaker/master/build/icons/256x256.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
 <details>
 <summary>
@@ -366,7 +387,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/code_style-standard-brightgreen.svg' width="400"/>
 <bt><img src='https://www.codetriage.com/brave/browser-laptop/badges/users.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for OS X. ![SwiftIcon] ![ObjectiveCIcon]
 <details>
@@ -376,7 +398,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://heliumfloats.com/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![SwiftIcon]
 <details>
 <summary>
@@ -385,7 +408,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/johnste/finicky/master/Finicky/Finicky/statusitem%402x.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
 - [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, OSX and Linux. ![JavascriptIcon]
 <details>
@@ -398,7 +422,8 @@ Screenshots
 <bt><img src='https://cldup.com/qsYAu0F-ja.png' width="400"/>
 <bt><img src='https://cldup.com/6jOWAjYdpo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![CppIcon]
 <details>
 <summary>
@@ -409,7 +434,8 @@ Screenshots
 <bt><img src='https://otter-browser.org/screenshots/1.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/OtterBrowser/otter-browser/master/resources/icons/otter-browser-64.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![CIcon]
 
 ### Chat
@@ -422,7 +448,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://i.imgur.com/riXrTvx.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![JavascriptIcon]
 <details>
 <summary>
@@ -436,7 +463,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/geeeeeeeeek/electronic-wechat/master/assets/icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. ![JavascriptIcon]
 <details>
 <summary>
@@ -446,7 +474,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Donate-PayPal-green.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native OS X & Windows desktop app for Google Allo.
 <details>
 <summary>
@@ -458,7 +487,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/kelyvin/Google-Allo-For-Desktop/master/windows --icon allo-logo.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/kelyvin/Google-Allo-For-Desktop/master/linux --icon allo-logo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -468,7 +498,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/dcrousso/GroupMe/master/assets/Icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![JavascriptIcon]
 <details>
 <summary>
@@ -478,7 +509,8 @@ Screenshots
 <bt><img src='http://example.com/logo.png' width="400"/>
 <bt><img src='https://translate.riot.im/widgets/riot-web/-/multi-auto.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
 <details>
@@ -488,7 +520,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://fbmacmessenger.rsms.me/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![ObjectiveCIcon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
@@ -501,7 +534,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -515,7 +549,8 @@ Screenshots
 <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png' width="400"/>
 <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![SwiftIcon]
 <details>
@@ -529,7 +564,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/BeerWare_Logo.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
 
 ### Cryptocurrency
@@ -543,7 +579,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. ![SwiftIcon]
 <details>
 <summary>
@@ -554,7 +591,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/1092080/32006966-842eac82-b9a8-11e7-994e-57d0cf5d0d9c.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/balance-io/balance-open/master/assets/img/balance-header.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
 <details>
 <summary>
@@ -566,7 +604,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![JavascriptIcon]
 <details>
 <summary>
@@ -577,7 +616,8 @@ Screenshots
 <bt><img src='https://s3.amazonaws.com/cryptobar/phbadge.png' width="400"/>
 <bt><img src='https://s3.amazonaws.com/cryptobar/newgif.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges. ![SwiftIcon]
 <details>
 <summary>
@@ -586,7 +626,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Database
 
@@ -605,7 +646,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/donate-Patreon-coral.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/docs-Wiki-blue.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
 - [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
 <details>
@@ -617,7 +659,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png' width="400"/>
 <bt><img src='https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
 <details>
@@ -627,7 +670,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://jpadilla.github.io/redisapp/assets/img/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
 <details>
 <summary>
@@ -637,7 +681,8 @@ Screenshots
 <bt><img src='https://sequelpro.com/images/logo.png' width="400"/>
 <bt><img src='https://sequelpro.com/images/browse.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Development
 
@@ -668,7 +713,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/release/nightonke/gitee.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/Developer-Nightonke-red.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and OSX. ![SwiftIcon]
 <details>
 <summary>
@@ -677,7 +723,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
 <details>
 <summary>
@@ -686,7 +733,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![SwiftIcon]
 <details>
 <summary>
@@ -696,7 +744,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/release/ad/GithubListener.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
 <details>
 <summary>
@@ -705,7 +754,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/erik/github-notify/master/GithubNotify/Assets.xcassets/MenuIconDefault.imageset/MenuIconDefault.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac. ![SwiftIcon]
 <details>
 <summary>
@@ -717,7 +767,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Language-Swift-orange.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/stylekit/img/master/Element210-01.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -730,7 +781,8 @@ Screenshots
 <bt><img src='http://i.imgur.com/29hxDcJ.png' width="400"/>
 <bt><img src='http://i.imgur.com/6cuPcT4.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GitX](https://github.com/rowanj/gitx) - Graphical client for the git version control system. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -739,7 +791,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://rowanj.github.io/gitx/images/Download.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![JavascriptIcon]
@@ -759,7 +812,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/./src/icons/macos/loadTemplate@2x.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/./src/icons/macos/failTemplate@2x.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![SwiftIcon]
 <details>
 <summary>
@@ -768,7 +822,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
 <details>
 <summary>
@@ -777,7 +832,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### iOS / macOS
 
@@ -792,7 +848,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/developerinsider/developer-insider-content/master/Logo/Download-25.png' width="400"/>
 <bt><img src='https://licensebuttons.net/l/by-nd/3.0/88x31.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. ![SwiftIcon]
 <details>
 <summary>
@@ -801,7 +858,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/kuyawa/Gallery/master/AppIcons/appicons.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
 <details>
 <summary>
@@ -813,7 +871,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/everettjf/AppleTrace/master//image/appletrace-small.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/everettjf/AppleTrace/master/image/appletracedata.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
 <details>
 <summary>
@@ -823,7 +882,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/Y0jr8lF.png' width="400"/>
 <bt><img src='https://i.imgur.com/rwBYris.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
 <details>
 <summary>
@@ -834,7 +894,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot_themestore.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/./quicklook_thumb.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![SwiftIcon]
 <details>
@@ -850,7 +911,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/attaswift/Attabench/master/Images/SampleBenchmark.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:! ![ObjectiveCIcon]
 <details>
 <summary>
@@ -861,7 +923,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/1.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/2.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![SwiftIcon]
 <details>
 <summary>
@@ -871,7 +934,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/br1sk/brisk/master/.github/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/br1sk/brisk/master/.github/AppIcon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
 <details>
 <summary>
@@ -884,7 +948,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/18147900/32694248-d8c2d7c8-c73b-11e7-8803-81590d61fbf9.png' width="400"/>
 <bt><img src='https://user-images.githubusercontent.com/18147900/32503133-c04ee05e-c3dc-11e7-8394-3c0eb5b0105b.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -894,7 +959,8 @@ Screenshots
 <bt><img src='https://www.apple.com/itunes/link/images/link-badge-appstore.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/waylybaye/XcodeCleaner/master/./screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - Free, native Apple macOS app for testing HTTP/REST endpoints. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -907,7 +973,8 @@ Screenshots
 <bt><img src='https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-2.png' width="400"/>
 <bt><img src='https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-6.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. ![SwiftIcon]
 <details>
 <summary>
@@ -916,7 +983,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/KrisYu/FilterShop/master/showcase.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons. ![JavascriptIcon]
 <details>
 <summary>
@@ -926,7 +994,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/banner.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/gif.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![SwiftIcon]
 <details>
 <summary>
@@ -935,7 +1004,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/raphaelhanneken/iconizer/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -951,7 +1021,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/SAP/macos-icon-generator/master/readme_images/drag_and_drop_source_image.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/SAP/macos-icon-generator/master/readme_images/create_png_files.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize , decode and extract images from iOS apps. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -961,7 +1032,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/devcxm/iOS-Images-Extractor/master/iOSImagesExtractor/iOSImagesExtractor/Images.xcassets/AppIcon.appiconset/AppIcon-256.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -972,7 +1044,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/wigl/iSimulator/master/preview/app.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/wigl/iSimulator/master/preview/share.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator,iOS Simulator Sandbox,like simpholders,a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -981,7 +1054,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/shaojiankui/iSimulator/master/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). ![ObjectiveCIcon]
 <details>
 <summary>
@@ -990,7 +1064,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/499192/12481271/36b610e0-c048-11e5-9be6-ee9e996036a2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [LayerX](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen. ![SwiftIcon]
 <details>
 <summary>
@@ -999,7 +1074,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://img.youtube.com/vi/35KixjZBDjY/0.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
 <details>
 <summary>
@@ -1008,7 +1084,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://s11.postimg.org/khgjen6w3/Screen_Shot_2016_10_12_at_07_18_19.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings). ![SwiftIcon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel. ![SwiftIcon]
 <details>
@@ -1021,7 +1098,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/license-MIT-blue.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/nvzqz/Menubar-Colors/master/./Example.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![SwiftIcon]
 <details>
 <summary>
@@ -1041,7 +1119,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/toxblh/MTMR/master/Resources/logo.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/toxblh/MTMR/master/Resources/TouchBar-v0.8.1.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![SwiftIcon]
 <details>
 <summary>
@@ -1051,7 +1130,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_1.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1060,7 +1140,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/shaojiankui/ProfilesManager/master/demo.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PushNotitication](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![JavascriptIcon]
 <details>
 <summary>
@@ -1077,7 +1158,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/AndroidServerKey.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Android.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1086,7 +1168,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://i.imgur.com/H8kRoPf.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1095,7 +1178,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/shaojiankui/SmartPush/master/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small open source app to display your designs on the Touch Bar of the new MacBook Pro. ![SwiftIcon]
 <details>
 <summary>
@@ -1109,7 +1193,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellow.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/touchbar/Touch-Bar-Preview/master/app icon src=Touch Bar Preview/Touch Bar Preview/Assets.xcassets/AppIcon.appiconset/App-Icon-256@2x.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![SwiftIcon]
 <details>
 <summary>
@@ -1120,7 +1205,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sindresorhus/touch-bar-simulator/master/Stuff/Icon-readme.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sindresorhus/touch-bar-simulator/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1130,7 +1216,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Swift-3.2-orange.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/License-GPL%20v3-blue.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1143,7 +1230,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/insidegui/WWDC/master/./screenshots/v5/Video-Bookmark.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/insidegui/WWDC/master/./screenshots/v5/BuildTarget.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ![SwiftIcon]
 <details>
 <summary>
@@ -1156,7 +1244,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/VideoLink.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/TextFile.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1168,7 +1257,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/novemberfiveco/xib2Storyboard/master/Screenshots/screenshot-xib.png><img src=Screenshots/screenshot-xib.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/novemberfiveco/xib2Storyboard/master/Screenshots/screenshot-storyboard.png><img src=Screenshots/screenshot-storyboard.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### JSON Parsing
 
@@ -1180,7 +1270,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/zadr/j2s/master/Screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
 <details>
@@ -1190,7 +1281,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/5157350/5228493/72693010-7713-11e4-9e42-625a8590424a.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### Web development
 
@@ -1202,7 +1294,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/RafalWilinski/s3-uploader/master//upload_anim.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ![SwiftIcon]
 <details>
 <summary>
@@ -1211,7 +1304,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/TheNewNormal/corectl.app/master/corectl_app.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1220,7 +1314,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/TheNewNormal/coreos-osx/master/coreos-osx.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron. ![JavascriptIcon]
 <details>
 <summary>
@@ -1232,7 +1327,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/license/mashape/apistatus.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect) - macOS app to let you access iTunesConnect. ![SwiftIcon]
 <details>
 <summary>
@@ -1241,7 +1337,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/ronakdev/itunesconnect/raw/master/iTunesConnect/Assets.xcassets/AppIcon.appiconset/iTunesConnectLogoMain.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ![SwiftIcon]
 <details>
 <summary>
@@ -1250,7 +1347,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/DanSanche/KubeMonitor/master/./Screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Lantern](https://github.com/BurntCaramel/Lantern) - Dedicated Mac app for website auditing and crawling. ![SwiftIcon]
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ![JavascriptIcon]
@@ -1262,7 +1360,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
 <details>
 <summary>
@@ -1337,7 +1436,8 @@ Screenshots
 <bt><img src='https://opencollective.com/ndm/backers/badge.svg' width="400"/>
 <bt><img src='https://opencollective.com/ndm/sponsors/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar. ![SwiftIcon]
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
 <details>
@@ -1348,7 +1448,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/zeit/art/ae28ead3b4406195f6ec3607eccd7935d0a11c50/now-desktop/repo-banner.png' width="400"/>
 <bt><img src='https://withspectrum.github.io/badge/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![SwiftIcon]
 <details>
 <summary>
@@ -1358,7 +1459,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Swift-4.1-orange.svg' width="400"/>
 <bt><img src='https://i.imgur.com/OAK3hR0.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Other
 
@@ -1380,7 +1482,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Downloader
 
@@ -1392,7 +1495,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/yep/app-downloader/raw/master/app-downloader-screencast.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
 <details>
@@ -1403,7 +1507,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/pillagerpreview.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/useffmpeg.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
 <details>
 <summary>
@@ -1413,7 +1518,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/nsaAgDU.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/FaisalUmair/udemy-downloader-gui/master/assets/images/donate.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos. ![SwiftIcon]
 <details>
 <summary>
@@ -1423,7 +1529,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1432,7 +1539,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://denbeke.be/blog/wp-content/uploads/2017/11/Youtube-downloader-macOS-Swift.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Editors
 
@@ -1447,7 +1555,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/wellsjo/JSON-Splora/master/app/assets/logos/logo.png' width="400"/>
 <bt><img src='http://i.imgur.com/CiXIrrg.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### Markdown
 
@@ -1462,7 +1571,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg' width="400"/>
 <bt><img src='https://badges.gitter.im/Join%20Chat.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
 - [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor. ![SwiftIcon]
 <details>
@@ -1474,7 +1584,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/ptzSBmo.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### TeX
 
@@ -1495,7 +1606,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/LYzVw99.png' width="400"/>
 <bt><img src='https://i.imgur.com/utXxWLf.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### Text
 
@@ -1508,7 +1620,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/release/coteditor/CotEditor.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/coteditor/CotEditor/master/screenshot@2x.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![CIcon]
 - [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![SwiftIcon]
 <details>
@@ -1519,7 +1632,8 @@ Screenshots
 <bt><img src='http://i.imgur.com/BlqwbV7.png' width="400"/>
 <bt><img src='http://i.imgur.com/SXh8o7n.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1528,7 +1642,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/textmate/textmate/gh-pages/images/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1541,7 +1656,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot0.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Extensions
 
@@ -1553,7 +1669,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://media.giphy.com/media/3b7gn1cvDnjDk9Kngv/giphy-downsized-large.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
 <details>
 <summary>
@@ -1564,7 +1681,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/demo.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/pipifier_ios_usage.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
 
 ### Finder
@@ -1640,7 +1758,8 @@ Screenshots
 <bt><img src='https://opencollective.com/clipy/sponsor/29/avatar.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
 <details>
 <summary>
@@ -1653,7 +1772,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/FinderGo/master/Images/Icon.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/FinderGo/master/Images/screenshot2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1662,7 +1782,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://i.imgur.com/F5ZrCmS.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Games
 
@@ -1675,7 +1796,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/License-GPL%20v2-blue.svg' width="400"/>
 <bt><img src='https://img.shields.io/coverity/scan/1063.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![ObjectiveCIcon] ![CppIcon]
 <details>
 <summary>
@@ -1684,7 +1806,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://boxerapp.com/static/images/gloves_96.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful, Open Source emulator for Nintendo GameCube and Wii games. ![CppIcon]
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon]
 <details>
@@ -1694,7 +1817,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://openemu.org/img/intro-md.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
 <details>
 <summary>
@@ -1717,7 +1841,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/550290/36508339-be413216-175c-11e8-97d8-760ced0931e8.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/travis-ci/docs-travis-ci-com/4b14eeab25ce8ca9164e177bfb60782a8535a822/images/travis-mascot-200px.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1726,7 +1851,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/AaronRandall/Screentendo/master/Screentendo/Screentendo.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon]
 
 ### Graphics
@@ -1740,7 +1866,8 @@ Screenshots
 <bt><img src='https://travis-ci.org/aseprite/aseprite.svg' width="400"/>
 <bt><img src='https://discordapp.com/api/guilds/324979738533822464/embed.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
 <details>
 <summary>
@@ -1749,7 +1876,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/gragrance/CaptuocrToy/master/screenshot.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -1762,7 +1890,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
 <details>
 <summary>
@@ -1772,7 +1901,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/KFZyEqq.png' width="400"/>
 <bt><img src='https://i.imgur.com/ByyCNuk.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
 <details>
 <summary>
@@ -1784,7 +1914,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
 <details>
 <summary>
@@ -1793,7 +1924,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/CleanCocoa/InfiniteCanvas/master/assets/title-sketch.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is professional quality vector graphics software. ![CppIcon]
 - [macSVG](https://github.com/dsward2/macSVG) - Open source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon]
 <details>
@@ -1807,7 +1939,8 @@ Screenshots
 <bt><img src='https://cdn.rawgit.com/dsward2/macSVG/master/macSVG/Resources/macsvg_examples/svg/animated_text_on_a_continuous_loop.svg' width="400"/>
 <bt><img src='https://cdn.rawgit.com/dsward2/macSVG/238a59b65010ad2e77c8da4005fb37338b2669c4/macSVG/Resources/macsvg_examples/svg/animate_stroke-dasharray_on_path.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -1816,7 +1949,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://i.imgur.com/jIJ4Gcf.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source. ![CppIcon]
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
 <details>
@@ -1826,7 +1960,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/duyquoc/ScreenToLayers/master/./Others/presentation.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - Plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
 <details>
 <summary>
@@ -1835,7 +1970,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://i.cloudup.com/XTLlL1-Stt-3000x3000.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### IDE
 
@@ -1849,7 +1985,8 @@ Screenshots
 <bt><img src='https://david-dm.org/atom/atom.svg' width="400"/>
 <bt><img src='https://atom-slack.herokuapp.com/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing - code editor focused on developer productivity - powered by Neovim ![JavascriptIcon]![TypescriptIcon]
 <details>
 <summary>
@@ -1883,7 +2020,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/13532591/36127305-9c7b6b80-1011-11e8-85dd-0345788c0b56.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/onivim/oni/master/./assets/oni-header.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
 <details>
 <summary>
@@ -1895,7 +2033,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/chat-on%20gitter-blue.svg' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
 <details>
 <summary>
@@ -1904,7 +2043,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://studio.zerobrane.com/images/debugging.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Images
 
@@ -1925,7 +2065,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/2619031/21534543/048288f4-cd69-11e6-9d65-0f5877309f78.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/2619031/21534542/0480acdc-cd69-11e6-97b0-aa7b25121990.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
 <details>
 <summary>
@@ -1949,7 +2090,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/chrissimpkins/Crunch/raw/master/img/flowers-67839_640.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/chrissimpkins/Crunch/raw/master/img/flowers-67839_640-crunch.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch. ![SwiftIcon]
 <details>
 <summary>
@@ -1961,7 +2103,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Download-here-orange.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/wddwycc/Freehand/master/_images/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![CIcon]
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
 <details>
@@ -1971,7 +2114,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://pngmini.com/screenshot-1.3.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
 <details>
 <summary>
@@ -1981,7 +2125,8 @@ Screenshots
 <bt><img src='http://7qn7vf.com1.z0.glb.clouddn.com/IMAGINE2.gif' width="400"/>
 <bt><img src='http://meowtec.qiniudn.com/Imagine.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -1990,7 +2135,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://snyk.io/test/github/bluegill/katana/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
 <details>
 <summary>
@@ -2007,7 +2153,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/06.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/07.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
 <details>
 <summary>
@@ -2016,7 +2163,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://www.screenbar.net/assets/images/screenbar-window.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
 
 ### Keyboard
@@ -2031,7 +2179,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/msvisser/AnnePro-mac/master/screenshot/annepro-lighting.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/msvisser/AnnePro-mac/master/screenshot/annepro-layout.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![SwiftIcon]
 <details>
 <summary>
@@ -2040,7 +2189,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://img.shields.io/badge/license-MIT-71787A.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2049,7 +2199,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://img.shields.io/badge/license-Public%20Domain-blue.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2058,7 +2209,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://img.shields.io/badge/license-Public%20Domain-blue.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. ![SwiftIcon]
 <details>
 <summary>
@@ -2071,7 +2223,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/utatti/kawa/master/resource/png/logo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
 <details>
 <summary>
@@ -2081,7 +2234,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Mail
 
@@ -2097,7 +2251,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2106,7 +2261,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/dinhviethoa/dejalu/master/screenshot.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2119,7 +2275,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/denysdovhan/inboxer/master/./media/inboxer-mac.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/denysdovhan/inboxer/master/app/static/Icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail. ![SwiftIcon]
 <details>
 <summary>
@@ -2128,7 +2285,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://i.imgur.com/ZxaChmj.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. ![JavascriptIcon]
 <details>
 <summary>
@@ -2138,7 +2296,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/nylas/nylas-mail/raw/master/screenshot/hero_graphic_mac%402x.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/nylas/nylas-mail/raw/master/screenshot/687474703a2f2f692e696d6775722e636f6d2f505751374e6c592e6a7067.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2252,7 +2411,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/androidmessages.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/saenzramiro/rambox/master/80 align=left src=./resources/icons/sococo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Menubar
 
@@ -2266,7 +2426,8 @@ Screenshots
 <bt><img src='https://user-images.githubusercontent.com/407470/36416324-5538a986-165b-11e8-97c2-08ea5a182028.gif' width="400"/>
 <bt><img src='https://img.shields.io/github/downloads/alvesjtiago/airpass/total.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2286,7 +2447,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/tonsky/AnyBar/master/AnyBar/Resources/question@2x.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/tonsky/AnyBar/master/AnyBar/Resources/exclamation@2x.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2300,7 +2462,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/matryer/bitbar/master/Docs/BitBar-Example-IPs.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/matryer/bitbar/master/Docs/BitBar-Example-Menu-Colors-Fonts.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
 <details>
 <summary>
@@ -2309,7 +2472,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://joshparnham.com/projects/cloudytabs/CloudyTabs.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
 <details>
 <summary>
@@ -2319,7 +2483,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/2235307/12532452/9d035646-c1e2-11e5-9f17-764a23243162.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/2235307/13973705/0a94df82-f07c-11e5-8f01-c07d339d1216.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![JavascriptIcon]
@@ -2332,7 +2497,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/lucasbento/menubar-brightness/master/Menubar Brightness title=Menubar Brightness src=./media/logo.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/lucasbento/menubar-brightness/master/Menubar Brightness title=Menubar Brightness src=./media/usage.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
 <details>
@@ -2342,7 +2508,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/isaiasmatewos/night-shift-control/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
 <details>
@@ -2352,7 +2519,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/archagon/sensible-side-buttons/master/icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
 <details>
 <summary>
@@ -2361,7 +2529,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/thompsonate/Shifty/master/docs/en/images/prefs-general-screenshot-shadow.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Music
 
@@ -2374,7 +2543,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
 - [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
 <details>
@@ -2385,7 +2555,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot2.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
 <details>
 <summary>
@@ -2396,7 +2567,8 @@ Screenshots
 <bt><img src='https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/en.png' width="400"/>
 <bt><img src='https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/fa.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
 <details>
 <summary>
@@ -2405,7 +2577,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/salomvary/soundcleod/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes: ![JavascriptIcon]
 <details>
 <summary>
@@ -2414,7 +2587,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://asciinema.org/a/ejbbvaa8833wq4xn4d2xuc9jx.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. ![SwiftIcon]
 <details>
 <summary>
@@ -2426,7 +2600,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-3.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-4.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### News
 
@@ -2438,7 +2613,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/ngquerol/Diurna/master/diurna.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
 <details>
 <summary>
@@ -2447,7 +2623,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/jingweno/hacker-menu/master/images/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2458,7 +2635,8 @@ Screenshots
 <bt><img src='https://d322cqt584bo4o.cloudfront.net/vienna-rss/localized.svg' width="400"/>
 <bt><img src='https://badges.gitter.im/gitterHQ/gitter.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Notes
 
@@ -2470,7 +2648,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/BoostIO/Boostnote/master/./resources/repository/top.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2479,7 +2658,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://fromscratch.rocks/assets/img/icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
 <details>
 <summary>
@@ -2491,7 +2671,8 @@ Screenshots
 <bt><img src='https://f001.backblazeb2.com/file/og-files/ios.png' width="400"/>
 <bt><img src='https://fsnot.es/img/badge-download-on-the-app-store.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
 <details>
 <summary>
@@ -2528,7 +2709,8 @@ Screenshots
 <bt><img src='https://joplin.cozic.net/images/flags/country-4x3/jp.png' width="400"/>
 <bt><img src='https://joplin.cozic.net/images/flags/country-4x3/kr.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -2538,7 +2720,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/tuxu/nbviewer-app/master/Jupyter%20Notebook%20Viewer/Images.xcassets/AppIcon.appiconset/icon_256x256.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/tuxu/nbviewer-app/master/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
 <details>
 <summary>
@@ -2557,7 +2740,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/edit.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/tabs.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
 <details>
@@ -2567,7 +2751,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/insidegui/NoteTaker/master/./screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2576,7 +2761,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://simplenoteblog.files.wordpress.com/2017/12/screen-shot-2017-12-22-at-9-05-33-am.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2585,7 +2771,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://standardnotes.org/assets/homepage-hero.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
 <details>
 <summary>
@@ -2594,7 +2781,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/buddax2/tmpNote/master/Resources/screenshot_new.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -2619,7 +2807,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/klauscfhq/tusk/master/media/scalable-interface.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/klauscfhq/tusk/master/media/export-notes.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Other
 
@@ -2631,7 +2820,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://www.cakebrew.com/assets/img/app-bg.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2640,7 +2830,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2651,7 +2842,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/specialunderwear/Hosts.prefpane/raw/master/screenshots/locked.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/specialunderwear/Hosts.prefpane/raw/master/screenshots/edit.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
 <details>
@@ -2661,7 +2853,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/insidegui/KeyframesPlayer/master/./screenshot.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
 <details>
 <summary>
@@ -2678,7 +2871,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/hackjutsu/Lepton/master/./docs/img/portfolio/search_bar.png) | ![Screenshot]./docs/img/portfolio/immersive.png) | ![Screenshot]./docs/img/portfolio/dashboard.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/hackjutsu/Lepton/master/./docs/img/erb-logo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
 <details>
 <summary>
@@ -2689,7 +2883,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Bunn/macGist/master/./other/gistList.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Bunn/macGist/master/./other/gist.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2704,7 +2899,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_status_menu.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_droplet.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
 <details>
 <summary>
@@ -2725,7 +2921,8 @@ Screenshots
 <bt><img src='http://i.imgur.com/5xoVRrY.png' width="400"/>
 <bt><img src='http://i.imgur.com/0XyAAbD.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
 <details>
 <summary>
@@ -2738,7 +2935,8 @@ Screenshots
 <bt><img src='https://david-dm.org/jhen0409/react-native-debugger/dev-status.svg' width="400"/>
 <bt><img src='https://user-images.githubusercontent.com/3001525/29451479-6621bf1a-83c8-11e7-8ebb-b4e98b1af91c.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
 <details>
 <summary>
@@ -2749,7 +2947,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/infinitered/reactotron/master/./docs/images/readme/Reactotron-128.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/infinitered/reactotron/master/./docs/images/readme/reactotron-demo-app.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
 <details>
 <summary>
@@ -2760,7 +2959,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/license-Apache--2.0%20OR%20MIT-blue.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/woofwoofinc/rktmachine/master/docs/assets/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
 - [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
 <details>
@@ -2771,7 +2971,8 @@ Screenshots
 <bt><img src='https://badges.gitter.im/Join%20Chat.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/fitztrev/shuttle/gh-pages/images/how-shuttle-works.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
 <details>
 <summary>
@@ -2787,7 +2988,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/564725/14846071/218c0646-0c62-11e6-92cb-e6e963b68724.gif' width="400"/>
 <bt><img src='https://user-images.githubusercontent.com/564725/34486363-dc501aec-efcf-11e7-92b2-1163cca9e7aa.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal native Mac OS X Syncthing application bundle. ![ObjectiveCIcon]
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
@@ -2798,7 +3000,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://vagrantmanager.com/demo.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Podcast
 
@@ -2812,7 +3015,8 @@ Screenshots
 <bt><img src='https://img.shields.io/gitter/room/cumulonimbus/cumulonimbus.svg' width="400"/>
 <bt><img src='https://i.imgur.com/S7K9wrr.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
 <details>
 <summary>
@@ -2831,7 +3035,8 @@ Screenshots
 <bt><img src='https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/muammar/mkchromecast/master/images/mkchromecast_linux.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2841,7 +3046,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/release/phranck/podlive-macos.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Productivity
 
@@ -2864,7 +3070,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/klauscfhq/ao/master/media/custom-shortcut-keys.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app. ![JavascriptIcon]
 <details>
 <summary>
@@ -2937,7 +3144,8 @@ Screenshots
 <bt><img src='https://img.shields.io/david/KELiON/cerebro.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/KELiON/cerebro/master/./build/icons/128x128.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2946,7 +3154,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/naotaka/ClipMenu/master/./screenshot.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -2956,7 +3165,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Abhishaker17/Clocker/v1.2.1/GitHub.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Abhishaker17/Clocker/v1.2.1/Clocker/Images/MacAppStore.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. ![ObjectiveCIcon]
 <details>
@@ -2966,7 +3176,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://a3.mzstatic.com/us/r1000/047/Purple/fb/53/f2/mzi.mcaxwyjm.175x175-75.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app. ![SwiftIcon]
 <details>
 <summary>
@@ -2978,7 +3189,8 @@ Screenshots
 <bt><img src='https://img.shields.io/cocoapods/v/KeyHolder.svg' width="400"/>
 <bt><img src='https://img.shields.io/cocoapods/p/KeyHolder.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift. ![SwiftIcon]
 <details>
 <summary>
@@ -2987,7 +3199,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://img.shields.io/badge/Swift-4.1-orange.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas. ![SwiftIcon]
 <details>
 <summary>
@@ -2997,7 +3210,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/license/fespinoza/LinkedIdeas.svg' width="400"/>
 <bt><img src='https://i.imgur.com/uqb1x43.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager. ![SwiftIcon]
 <details>
 <summary>
@@ -3006,7 +3220,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://user-images.githubusercontent.com/665846/36135303-8c4f80ae-10b4-11e8-9940-978e228cb6bd.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files. ![SwiftIcon]
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
 <details>
@@ -3019,7 +3234,8 @@ Screenshots
 <bt><img src='https://d322cqt584bo4o.cloudfront.net/manta/localized.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/license-GPL--3.0-blue.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. ![JavascriptIcon]
 <details>
 <summary>
@@ -3029,7 +3245,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/F5GNK4X.png' width="400"/>
 <bt><img src='http://i.imgur.com/FrgAptE.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks. ![SwiftIcon]
 <details>
 <summary>
@@ -3044,7 +3261,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/AppIcon.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
 - [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![JavascriptIcon]![CSSIcon]
 <details>
@@ -3055,7 +3273,8 @@ Screenshots
 <bt><img src='https://quickwords.co/assets/logo.svg' width="400"/>
 <bt><img src='https://i.imgur.com/asCk1Ds.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
 <details>
@@ -3065,7 +3284,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/1434418/21689532/52b0c1ba-d379-11e6-882a-b16d4f8fce00.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
 <details>
 <summary>
@@ -3088,7 +3308,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-settings-website-3.png' width="400"/>
 <bt><img src='https://img.shields.io/github/downloads/hovancik/stretchly/total.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![SwiftIcon]
 <details>
 <summary>
@@ -3097,7 +3318,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/michaelvillar/timer-app/master//screenshots/timer.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![SwiftIcon]
 <details>
@@ -3107,7 +3329,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/jlong/TrelloApp/raw/master/Assets/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
 <details>
 <summary>
@@ -3118,7 +3341,8 @@ Screenshots
 <bt><img src='https://david-dm.org/1000ch/whale/dev-status.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/1000ch/whale/master/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3129,7 +3353,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sendyhalim/Yomu/master/Resources/screenshot.png' width="400"/>
 <bt><img src='https://media1.giphy.com/media/ZHjSXzRkUWTWE/200.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Screensaver
 
@@ -3146,7 +3371,8 @@ Screenshots
 <bt><img src='http://i.imgur.com/FvDZudR.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/499192/10754102/c58cc076-7c95-11e5-9579-4275740ba339.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
 <details>
@@ -3158,7 +3384,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/2.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/3.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MusaicFM](https://github.com/docterd/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3167,7 +3394,8 @@ Screenshots
 <p float="left">
 <bt><img src='http://i.imgur.com/OuF5nOe.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS. ![JavascriptIcon]
 <details>
 <summary>
@@ -3177,7 +3405,8 @@ Screenshots
 <bt><img src='http://winterbe.com/image/matrix-has-you.gif' width="400"/>
 <bt><img src='http://winterbe.com/image/matrix.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Security
 
@@ -3190,7 +3419,8 @@ Screenshots
 <bt><img src='https://objective-see.com/images/LL/lulu.png' width="400"/>
 <bt><img src='https://objective-see.com/patreon/images/patreon.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
 <details>
 <summary>
@@ -3200,7 +3430,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/alichtman/stronghold/master/img/stronghold-logo-left.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/alichtman/stronghold/master/img/demo.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Sharing Files
 
@@ -3214,7 +3445,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/WrMhzbe.png' width="400"/>
 <bt><img src='https://i.imgur.com/V2PTN1l.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
 <details>
 <summary>
@@ -3223,7 +3455,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://scan.coverity.com/projects/5494/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery. ![PythonIcon]
@@ -3234,7 +3467,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://zenodo.org/badge/8411137.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Social Networking
 
@@ -3252,7 +3486,8 @@ Screenshots
 <bt><img src='https://david-dm.org/1000ch/quail/dev-status.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/1000ch/quail/master/demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -3276,7 +3511,8 @@ Screenshots
 <bt><img src='https://opencollective.com/ramme/sponsor/8/avatar.svg' width="400"/>
 <bt><img src='https://opencollective.com/ramme/sponsor/9/avatar.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
 <details>
 <summary>
@@ -3287,7 +3523,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Streaming
 
@@ -3306,7 +3543,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AppPolice](https://github.com/fuyu/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3319,7 +3557,8 @@ Screenshots
 <bt><img src='https://cloud.githubusercontent.com/assets/1557716/12860558/11908a78-cc66-11e5-9998-b4bec11dbfeb.png' width="400"/>
 <bt><img src='https://cloud.githubusercontent.com/assets/1557716/12860559/1193fe42-cc66-11e5-9d4f-8b8af842ea72.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...). ![SwiftIcon]
 <details>
 <summary>
@@ -3328,7 +3567,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/ReadMe%20Resources/demo.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3337,7 +3577,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/macmade/Diagnostics/master/Resources/Screen.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3351,7 +3592,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/Eun/DisableMonitor/res/screenshot1.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/Eun/DisableMonitor/res/download.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![ObjectiveCIcon]
 <details>
@@ -3361,7 +3603,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/10573489/26471886/ac78360e-4171-11e7-8b89-1e27fe6a582e.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
 <details>
 <summary>
@@ -3371,7 +3614,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/brianmichel/Juice/master//images/icon-readme.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/brianmichel/Juice/master//images/cyle-post.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3380,7 +3624,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/./Extras/Screenshot.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
 <details>
 <summary>
@@ -3389,7 +3634,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/mangerlahn/Latest/master/./latest.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3398,7 +3644,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/BonzaiThePenguin/Loading/master/README/en.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
 - [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
 <details>
@@ -3408,7 +3655,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/erikberglund/ProfileCreator/master/resources/screenshots/ProfileCreator.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3419,7 +3667,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot1.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot2.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - macOS application to add a vertical bar to Dock. ![SwiftIcon]
 <details>
@@ -3429,7 +3678,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/DeromirNeves/VerticalBar/master/img/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Terminal
 
@@ -3441,7 +3691,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
 <details>
 <summary>
@@ -3450,7 +3701,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/macmade/Console/master/Assets/MainWindow.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
 <details>
 <summary>
@@ -3461,7 +3713,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/changelog-%23213-lightgrey.svg' width="400"/>
 <bt><img src='https://withspectrum.github.io/badge/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
@@ -3474,7 +3727,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/es-kumagai/OpenTerminal/master/Resources/capture.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/es-kumagai/OpenTerminal/master/Resources/launchFromDock.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 ### Utilities
 
@@ -3490,7 +3744,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/dualscreenshot.gif' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/scriptsfolder.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images ![SwiftIcon]
 <details>
 <summary>
@@ -3502,7 +3757,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/ivoronin/ArchiveMounter/gh-pages/MainWindow.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/ivoronin/ArchiveMounter/gh-pages/VolumesWindow.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3514,7 +3770,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/beardedspice/beardedspice/master/images/bs.jpg)]images/bs.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/beardedspice/beardedspice/master/images/icon20x19.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
 <details>
 <summary>
@@ -3539,7 +3796,8 @@ Screenshots
 <bt><img src='https://opencollective.com/buttercup/sponsor/8/avatar.svg' width="400"/>
 <bt><img src='https://opencollective.com/buttercup/sponsor/9/avatar.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. ![SwiftIcon]
 <details>
@@ -3549,7 +3807,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/ekreutz/CornerCal/master/screenshot-01.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![JavascriptIcon]
 <details>
 <summary>
@@ -3564,7 +3823,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
 <details>
@@ -3575,7 +3835,8 @@ Screenshots
 <bt><img src='http://i.imgur.com/4zx0UvT.png' width="400"/>
 <bt><img src='http://i.imgur.com/0vEOyar.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Kap](https://github.com/wulkano/kap) - Open source screen recorder built with web technology. ![JavascriptIcon]
 <details>
 <summary>
@@ -3585,7 +3846,8 @@ Screenshots
 <bt><img src='https://getkap.co/images/favicon/kap.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/code_style-XO-5ed9c7.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
 <details>
 <summary>
@@ -3595,7 +3857,8 @@ Screenshots
 <bt><img src='https://keepassxc.org/logo.png' width="400"/>
 <bt><img src='https://codecov.io/gh/keepassxreboot/keepassxc/branch/develop/graph/badge.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. ![JavascriptIcon]
 <details>
 <summary>
@@ -3605,7 +3868,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/keeweb/keeweb/master/img/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/keeweb/keeweb/master/img/paypal-donate.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
 <details>
 <summary>
@@ -3616,7 +3880,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%203.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
 <details>
 <summary>
@@ -3625,7 +3890,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/alin23/lunar/master/lunar.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MacPass](https://github.com/MacPass/MacPass) - Native OS X KeePass client. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3635,7 +3901,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/mstarke/MacPass/master/Assets/Screenshots/MacPass.png' width="400"/>
 <bt><img src='https://api.flattr.com/button/flattr-badge-large.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. ![SwiftIcon]
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
 <details>
@@ -3646,7 +3913,8 @@ Screenshots
 <bt><img src='http://www.perfectdiettracker.com/wordpress/wp-content/uploads/2011/01/macappstore.png' width="400"/>
 <bt><img src='http://www.catan.com/images/stories/Elektronische_Spiele/iPhone_Catan/AppStore_klein_24.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
 <details>
 <summary>
@@ -3658,7 +3926,8 @@ Screenshots
 <bt><img src='https://img.shields.io/gemnasium/IngmarStein/Monolingual.svg' width="400"/>
 <bt><img src='https://img.shields.io/codeclimate/github/IngmarStein/Monolingual.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
 <details>
 <summary>
@@ -3668,7 +3937,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/Xcode-9.0%2B-blue.svg' width="400"/>
 <bt><img src='https://img.shields.io/badge/Swift-4.0%2B-orange.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
 <details>
@@ -3681,7 +3951,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-win32.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-linux.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![SwiftIcon]
 <details>
 <summary>
@@ -3691,7 +3962,8 @@ Screenshots
 <bt><img src='https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/cemolcay/PercentCalculator/raw/master/Demo.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
 <details>
 <summary>
@@ -3704,7 +3976,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/maxogden/screencat/master/img/screenshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/maxogden/screencat/master/img/remote-control.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. ![ObjectiveCIcon]
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon]
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ![JavascriptIcon]
@@ -3716,7 +3989,8 @@ Screenshots
 <bt><img src='https://img.shields.io/circleci/project/github/blockstack/blockstack-browser/master.svg' width="400"/>
 <bt><img src='https://img.shields.io/github/license/blockstack/blockstack-browser.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. ![ObjectiveCIcon]
@@ -3738,7 +4012,8 @@ Screenshots
 <bt><img src='https://img.shields.io/badge/chat-on%20Telegram-blue.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/zhuhaow/Specht/master/imgs/splash.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS. ![SwiftIcon]
 <details>
 <summary>
@@ -3755,7 +4030,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/zhuhaow/SpechtLite/master/imgs/splash.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/zhuhaow/SpechtLite/master/imgs/screenshot.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
 
 ### Video
@@ -3774,7 +4050,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/insidegui/AppleEvents/master/pipbutton.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/insidegui/AppleEvents/master/dockicon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
 <details>
 <summary>
@@ -3783,7 +4060,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://media.giphy.com/media/13bMkBsTQ7mh32/giphy.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
 <details>
 <summary>
@@ -3793,7 +4071,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/FEVY2Pu.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/xiaohk/FaceData/master/./result.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open source video transcoder available for Linux, Mac, and Windows. ![CIcon]
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
@@ -3808,7 +4087,8 @@ Screenshots
 <bt><img src='https://s10.postimg.org/4itednazt/gallery.jpg' width="400"/>
 <bt><img src='https://s23.postimg.org/oowj3vrjv/gallery-1.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
 <details>
 <summary>
@@ -3824,7 +4104,8 @@ Screenshots
 <bt><img src='https://webtorrent.io/img/screenshot-player3.png' width="400"/>
 <bt><img src='https://webtorrent.io/img/screenshot-main.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
 
 #### Player
@@ -3837,7 +4118,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/lhc70000/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3846,7 +4128,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/emoRaivis/MacMorpheus/master/wiring_diagram.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. ![HaskellIcon]
 <details>
 <summary>
@@ -3856,7 +4139,8 @@ Screenshots
 <bt><img src='https://i.imgur.com/gdsyIMv.png' width="400"/>
 <bt><img src='https://i.imgur.com/1qEidnX.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2. ![CIcon]
 <details>
@@ -3866,7 +4150,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png' width="400"/>
 </p>
-</details> 
+</details>
+
 
 #### Subtitles
 
@@ -3890,7 +4175,8 @@ Screenshots
 <bt><img src='https://opencollective.com/caption/sponsor/8/avatar.svg' width="400"/>
 <bt><img src='https://opencollective.com/caption/sponsor/9/avatar.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
 - [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
 
@@ -3910,7 +4196,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/the-starry-night.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/1440_900_the_wanderer_above_the_sea_of_fog.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. ![SwiftIcon]
 <details>
@@ -3921,7 +4208,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/pengsrc/BingPaper/master/Screenshots/BingPaper_v0.9.7_en_US.jpg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/pengsrc/BingPaper/master/Screenshots/BingPaper_v0.9.7_zh_CN.jpg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. ![CppIcon]
 - [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
@@ -3936,7 +4224,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/naman14/Muzei-macOS/master/screenshots/screen2.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/naman14/Muzei-macOS/master/screenshots/screen3.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3945,7 +4234,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://user-images.githubusercontent.com/836375/31194770-0950b980-a8fd-11e7-8108-9a08555a0832.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
 <details>
 <summary>
@@ -3955,7 +4245,8 @@ Screenshots
 <bt><img src='https://cdn.rawgit.com/davidcelis/Sunscreen/master/images/app-store.svg' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/davidcelis/Sunscreen/master//images/icon.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
 
 ### Window Management
@@ -3973,7 +4264,8 @@ Screenshots
 <bt><img src='http://ianyh.com/amethyst/images/accessibility-window.png' width="400"/>
 <bt><img src='http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -3983,7 +4275,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/sdegutis/AppGrid/master/sshot.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/sdegutis/AppGrid/master/grid.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture. ![CppIcon]
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
 <details>
@@ -3995,7 +4288,8 @@ Screenshots
 <bt><img src='https://img.shields.io/github/tag/Hammerspoon/hammerspoon.svg' width="400"/>
 <bt><img src='https://img.shields.io/github/release/Hammerspoon/hammerspoon.svg' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -4004,7 +4298,8 @@ Screenshots
 <p float="left">
 <bt><img src='https://raw.githubusercontent.com/kasper/phoenix/master/assets/screenshot.gif' width="400"/>
 </p>
-</details> 
+</details>
+
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
 <details>
 <summary>
@@ -4016,7 +4311,8 @@ Screenshots
 <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/docs/schreenshot-menu.png' width="400"/>
 <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/ShiftIt/AccessibilitySettingsMaverick.png' width="400"/>
 </p>
-</details> 
+</details>
+
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
 
