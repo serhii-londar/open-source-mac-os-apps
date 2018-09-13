@@ -84,24 +84,9 @@ You can see in which language an app is written. Currently there are following l
 
 ### Audio
 
-- [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon]
-&nbsp;&nbsp;&nbsp; 
-<details>
-<summary>
-Screenshots
-</summary>
-<p float="left">
-<bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png' width="400"/>
-<bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png' width="400"/>
-<bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png' width="400"/>
-</p>
-</details>
-<br/>
-
-
+- [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. ![SwiftIcon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png' width="400"/> <bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png' width="400"/> <bt><img src='https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png' width="400"/> </p> </details> <br/>
 
 - [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a free and open source audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![SwiftIcon]
-&nbsp;&nbsp;&nbsp;
 <details>
 <summary>
 Screenshots
@@ -125,10 +110,8 @@ Screenshots
 </details>
 <br/>
 
-
-
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![CppIcon]
-&nbsp;&nbsp;&nbsp; <details>
+<details>
 <summary>
 Screenshots
 </summary>
