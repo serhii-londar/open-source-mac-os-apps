@@ -634,7 +634,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ## Contributors
 
-This project exists thanks to all the people who contribute.
+Thanks to all the people who contribute:
 
 <a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
 
