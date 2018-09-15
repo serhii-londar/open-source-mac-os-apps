@@ -632,6 +632,12 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt). ![objective_c_icon]
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![objective_c_icon]
 
+## Contributors
+
+Thanks to all the people who contribute:
+
+<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+
 [app_store]: ./icons/app_store-16.png 'App Store.'
 [c_icon]: ./icons/c-16.png 'C language.'
 [cpp_icon]: ./icons/cpp-16.png 'C++ language.'
