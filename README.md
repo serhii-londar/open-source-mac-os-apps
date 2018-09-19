@@ -501,7 +501,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Streaming
 
-- [Galeri](https://github.com/michealparks/galeri-www) - Perpetual artwork streaming app. ![javascript_icon] ![css_icon]
+- [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app. ![javascript_icon]
 
 ### System
 
