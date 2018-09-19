@@ -194,6 +194,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![objective_c_icon] ![swift_icon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![swift_icon]
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![swift_icon]
+- [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click. ![swift_icon]
 - [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:! ![objective_c_icon]
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![swift_icon]
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![swift_icon]
