@@ -229,7 +229,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![swift_icon]
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![swift_icon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![swift_icon]
-- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![SwiftIcon]
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![swift_icon]
 
 #### Web development
 
@@ -247,8 +247,9 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![javascript_icon]
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![swift_icon]
 
-### Other
+#### Other
 
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![swift_icon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![objective_c_icon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![javascript_icon]
 
