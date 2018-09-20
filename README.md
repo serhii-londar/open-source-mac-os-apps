@@ -533,6 +533,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![objective_c_icon]
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![c_icon] ![python_icon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![swift_icon]
+- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen). ![javascript_icon]
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave. ![swift_icon]
 
 ### Utilities
