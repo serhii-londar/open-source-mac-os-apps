@@ -439,8 +439,8 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. ![javascript_icon]
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![python_icon]
-- [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts. ![swift_icon]
 - [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work. ![swift_icon]
+- [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts. ![swift_icon]
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de). ![objective_c_icon]
 
 ### Productivity
