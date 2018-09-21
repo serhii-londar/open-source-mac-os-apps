@@ -246,7 +246,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![javascript_icon]
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![swift_icon]
 
-#### Other
+### Other
 
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![swift_icon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![objective_c_icon]
