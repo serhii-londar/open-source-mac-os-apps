@@ -7,6 +7,8 @@
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
   <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+  <a href="#backers"><img alt="Backers on Open Collective" src="https://opencollective.com/open-source-mac-os-apps/backers/badge.svg" /></a>
+  <a href="#sponsors"><img alt="Sponsoers on Open Collective" src="https://opencollective.com/open-source-mac-os-apps/sponsors/badge.svg" /></a>
 </p>
 
 ## Support
@@ -658,4 +660,34 @@ Thanks to all the people who contribute:
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
+
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/undefined/undefinedgraphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/open-source-mac-os-apps#backer)]
+
+<a href="https://opencollective.com/open-source-mac-os-apps#backers" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/open-source-mac-os-apps#sponsor)]
+
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/0/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/1/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/2/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/3/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/4/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/5/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/6/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/7/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/8/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/open-source-mac-os-apps/sponsor/9/website" target="_blank"><img src="https://opencollective.com/open-source-mac-os-apps/sponsor/9/avatar.svg"></a>
+
 
