@@ -640,7 +640,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 Thanks to all the people who contribute:
 
-<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
 [app_store]: ./icons/app_store-16.png 'App Store.'
 [c_icon]: ./icons/c-16.png 'C language.'
