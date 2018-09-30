@@ -373,7 +373,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ![swift_icon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![swift_icon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![swift_icon]
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items in MacOS. ![swift_icon]
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![objective_c_icon]
 - [Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. ![objective_c_icon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![javascript_icon]
