@@ -550,7 +550,6 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![swift_icon]
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. ![swift_icon]
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![javascript_icon]
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items in MacOS. ![swift_icon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![swift_icon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon]
 - [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology. ![javascript_icon]
