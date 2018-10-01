@@ -469,7 +469,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![swift_icon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![cpp_icon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![swift_icon]
-- [Watson](http://tailordev.github.io/Watson/) - A CLI application for time tracking. ![python_icon] 
+- [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking. ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![javascript_icon]
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. ![swift_icon]
 
