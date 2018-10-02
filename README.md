@@ -565,6 +565,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![swift_icon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![swift_icon]
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![swift_icon]
+- [Padlock](https://github.com/padlock/padlock) - A minimal, open source password manager for macOS. ![javascript_icon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![javascript_icon]
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![swift_icon]
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![css_icon] ![javascript_icon]
