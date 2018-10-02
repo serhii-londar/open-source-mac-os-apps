@@ -503,6 +503,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![javascript_icon]
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network. ![swift_icon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![objective_c_icon]
+- [Product Hunt](https://github.com/producthunt/producthunt-osx) - Official Product Hunt app for macOS - share and discover your favorite new products and applications. ![swift_icon]
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![javascript_icon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon]
 - [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![ruby_icon]
