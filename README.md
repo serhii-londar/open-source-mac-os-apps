@@ -90,6 +90,7 @@ You can see in which language an app is written. Currently there are following l
 - [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif' width="400"/>  </p></details> 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png' width="400"/>  </p></details> 
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png' width="400"/>  </p></details> 
+- [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://user-images.githubusercontent.com/8472525/33244041-488cf4b4-d2e8-11e7-986c-49826dd853e1.png' width="400"/>  <bt><img src='https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg' width="400"/>  </p></details> 
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://freac.org/images/freac-ubuntu.png' width="400"/>  </p></details> 
 - [jmc](https://github.com/jcm93/jmc) - jmc - new macOS media organizer. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://puu.sh/xoZYo/bd6d6deeb0.png' width="400"/>  <bt><img src='https://puu.sh/xoZHp/31dddfc751.png' width="400"/>  <bt><img src='https://i.imgur.com/oYB83zF.png' width="400"/>  <bt><img src='https://i.imgur.com/SJ5RgM5.png' width="400"/>  </p></details> 
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png' width="400"/>  </p></details> 
@@ -193,6 +194,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![objective_c_icon] ![swift_icon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![swift_icon]
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![swift_icon]
+- [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click. ![swift_icon]
 - [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:! ![objective_c_icon]
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![swift_icon]
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![swift_icon]
@@ -248,6 +250,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Other
 
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![swift_icon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![objective_c_icon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![javascript_icon]
 
@@ -370,7 +373,9 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ![swift_icon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![swift_icon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![swift_icon]
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![objective_c_icon]
+- [Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. ![objective_c_icon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![javascript_icon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![objective_c_icon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![swift_icon]
@@ -437,6 +442,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. ![javascript_icon]
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![python_icon]
+- [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work. ![swift_icon]
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de). ![objective_c_icon]
 
 ### Productivity
@@ -460,9 +466,11 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![objective_c_icon]
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![swift_icon]
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. ![javascript_icon]
+- [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X. ![objective_c_icon]
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![swift_icon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![cpp_icon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![swift_icon]
+- [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking. ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![javascript_icon]
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. ![swift_icon]
 
@@ -531,6 +539,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![objective_c_icon]
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![c_icon] ![python_icon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![swift_icon]
+- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen). ![javascript_icon]
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave. ![swift_icon]
 
 ### Utilities
@@ -633,7 +642,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 Thanks to all the people who contribute:
 
-<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
 [app_store]: ./icons/app_store-16.png 'App Store.'
 [c_icon]: ./icons/c-16.png 'C language.'
