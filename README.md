@@ -250,6 +250,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Other
 
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![swift_icon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![objective_c_icon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![javascript_icon]
 
@@ -372,7 +373,9 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ![swift_icon]
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![swift_icon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![swift_icon]
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![objective_c_icon]
+- [Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. ![objective_c_icon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![javascript_icon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![objective_c_icon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![swift_icon]
@@ -463,9 +466,11 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![objective_c_icon]
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![swift_icon]
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. ![javascript_icon]
+- [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X. ![objective_c_icon]
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![swift_icon]
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![cpp_icon]
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![swift_icon]
+- [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking. ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![javascript_icon]
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. ![swift_icon]
 
@@ -637,7 +642,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 Thanks to all the people who contribute:
 
-<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+<a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
 [app_store]: ./icons/app_store-16.png 'App Store.'
 [c_icon]: ./icons/c-16.png 'C language.'
