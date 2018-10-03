@@ -50,6 +50,7 @@ You can see in which language an app is written. Currently there are following l
 	- [Other](#other)
 - [Downloader](#downloader)
 - [Editors](#editors)
+	- [CSV](#csv)
 	- [JSON](#json)
 	- [Markdown](#markdown)
 	- [TeX](#tex)
@@ -264,6 +265,10 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![swift_icon]
 
 ### Editors
+
+#### CSV
+
+- [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS. ![objective_c_icon]
 
 #### JSON
 
