@@ -205,6 +205,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons. ![javascript_icon]
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![swift_icon]
 - [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ![objective_c_icon]
+- [InjectionIII](https://github.com/johnno1962/InjectionIII) - overdue Swift rewrite of Injection. ![objective_c_icon] ![swift_icon]
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps. ![objective_c_icon]
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ![objective_c_icon]
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ![objective_c_icon]
