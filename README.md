@@ -586,6 +586,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### VPN & Proxy
 
+- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. ![swift_icon]
 - [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![swift_icon]
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![swift_icon]
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![swift_icon]
