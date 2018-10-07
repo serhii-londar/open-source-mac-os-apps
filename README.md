@@ -113,7 +113,7 @@ You can see in which language an app is written. Currently there are following l
 ### Backup
 
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). ![python_icon]
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![python_icon]
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![python_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif' width="400"/>  </p></details> 
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server network backup for Windows, macOS and Linux. ![c_icon] ![cpp_icon]
 
 ### Browser
