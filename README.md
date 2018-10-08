@@ -218,7 +218,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![swift_icon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![swift_icon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![objective_c_icon]
-- [PushNotitication](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![javascript_icon]
+- [PushNotitications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![javascript_icon]
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![objective_c_icon]
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![objective_c_icon]
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro. ![swift_icon]
