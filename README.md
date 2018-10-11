@@ -130,22 +130,22 @@ You can see in which language an app is written. Currently there are following l
 
 ### Chat
 
-- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) - 
+- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/GQiLntX.jpg' width="400"/>  </p></details> 
 Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon]
-- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon]
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon]
-- [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon]
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/riXrTvx.jpg' width="400"/>  </p></details> 
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png' width="400"/> </p></details> 
+- [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png' width="400"/>  </p></details> 
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo. <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/5g1VU3S.png' width="400"/> </p></details> 
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png' width="400"/> </p></details> 
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![javascript_icon]
-- [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ![swift_icon]
+- [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png' width="400"/>  </p></details> 
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![javascript_icon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![swift_icon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![objective_c_icon]
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![cpp_icon]
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. ![objective_c_icon]
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png' width="400"/>  </p></details> 
+- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png' width="400"/>  </p></details> 
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![objective_c_icon]
-- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![swift_icon]
+- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/AppScreenshoot.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WaPref.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif' width="400"/>  </p></details> 
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![javascript_icon]
 
 ### Cryptocurrency
