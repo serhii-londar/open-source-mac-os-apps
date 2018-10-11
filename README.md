@@ -158,13 +158,13 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Database
 
-- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client. ![java_icon]
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client. ![java_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://dbeaver.io/product/dbeaver-ss-mock.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-mock.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-erd.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-erd.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-classic.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-classic.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-dark.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-dark.png' width="400"/>  </p></details> 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![cpp_icon]
-- [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![swift_icon]
-- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![javascript_icon]
+- [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png' width="400"/>  </p></details> 
+- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://user-images.githubusercontent.com/26019/41055418-dcc55700-69f3-11e8-8d3e-572cf5febedc.png' width="400"/>  <bt><img src='https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png' width="400"/>  <bt><img src='https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png' width="400"/>  </p></details> 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![swift_icon]
-- [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![swift_icon]
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![objective_c_icon]
+- [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://jpadilla.github.io/redisapp/assets/img/screenshot.png' width="400"/>  </p></details> 
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://sequelpro.com/images/logo.png' width="400"/>  <bt><img src='https://sequelpro.com/images/browse.png' width="400"/>  </p></details> 
 
 ### Development
 
