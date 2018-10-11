@@ -118,14 +118,14 @@ You can see in which language an app is written. Currently there are following l
 
 ### Browser
 
-- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![javascript_icon]
+- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![javascript_icon] 
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ![javascript_icon]
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link. ![javascript_icon]
-- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![swift_icon] ![objective_c_icon]
-- [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![swift_icon]
-- [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
-- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ![javascript_icon]
-- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![cpp_icon]
+- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![swift_icon] ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://heliumfloats.com/screenshot.png' width="400"/>  </p></details> 
+- [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![swift_icon] 
+- [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development.
+- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cldup.com/6jOWAjYdpo.png' width="400"/>  <bt><img src='https://cldup.com/wDadS2XGrb.gif' width="400"/>  <bt><img src='https://cldup.com/qsYAu0F-ja.png' width="400"/>  <bt><img src='https://cldup.com/6jOWAjYdpo.png' width="400"/>  </p></details> 
+- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://otter-browser.org/screenshots/1.png' width="400"/> </p></details> 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![c_icon]
 
 ### Chat
