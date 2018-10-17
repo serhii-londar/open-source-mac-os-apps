@@ -50,6 +50,7 @@ You can see in which language an app is written. Currently there are following l
 	- [Other](#other)
 - [Downloader](#downloader)
 - [Editors](#editors)
+	- [CSV](#csv)
 	- [JSON](#json)
 	- [Markdown](#markdown)
 	- [TeX](#tex)
@@ -100,7 +101,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png' width="400"/>  </p></details> 
 - [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png' width="400"/>  </p></details> 
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg' width="400"/>  <bt><img src='https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg' width="400"/>  </p></details> 
-- [ShazamScrobbler](https://github.com/stephanebruckert/ShazamScrobbler) - Scrobble vinyl, radios, movies to Last.fm. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png' width="400"/>  </p></details> 
+- [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png' width="400"/>  </p></details> 
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png' width="400"/>  </p></details> 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![swift_icon] ![objective_c_icon]
 - [SpotSpot](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS. ![javascript_icon]
@@ -112,77 +113,77 @@ You can see in which language an app is written. Currently there are following l
 ### Backup
 
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). ![python_icon]
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![python_icon]
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. ![python_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif' width="400"/>  </p></details> 
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server network backup for Windows, macOS and Linux. ![c_icon] ![cpp_icon]
 
 ### Browser
 
-- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![javascript_icon]
+- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  ![javascript_icon] 
 - [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ![javascript_icon]
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link. ![javascript_icon]
-- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![swift_icon] ![objective_c_icon]
-- [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![swift_icon]
-- [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development
-- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ![javascript_icon]
-- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![cpp_icon]
+- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![swift_icon] ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://heliumfloats.com/screenshot.png' width="400"/>  </p></details> 
+- [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. ![swift_icon] 
+- [Firefox](https://hg.mozilla.org/mozilla-central/) - Current Firefox and Gecko development.
+- [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cldup.com/6jOWAjYdpo.png' width="400"/>  <bt><img src='https://cldup.com/wDadS2XGrb.gif' width="400"/>  <bt><img src='https://cldup.com/qsYAu0F-ja.png' width="400"/> </p></details> 
+- [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://otter-browser.org/screenshots/1.png' width="400"/> </p></details> 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. ![c_icon]
 
 ### Chat
 
-- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) - 
+- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/GQiLntX.jpg' width="400"/>  </p></details> 
 Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon]
-- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon]
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon]
-- [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon]
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/riXrTvx.jpg' width="400"/>  </p></details> 
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png' width="400"/> </p></details> 
+- [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png' width="400"/>  </p></details> 
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo. <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/5g1VU3S.png' width="400"/> </p></details> 
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png' width="400"/> </p></details> 
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![javascript_icon]
-- [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ![swift_icon]
+- [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png' width="400"/>  </p></details> 
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![javascript_icon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![swift_icon]
 - [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![objective_c_icon]
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![cpp_icon]
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. ![objective_c_icon]
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![cpp_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png' width="400"/> </p></details> 
+- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png' width="400"/>  <bt><img src='https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png' width="400"/>  </p></details> 
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![objective_c_icon]
-- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![swift_icon]
+- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/AppScreenshoot.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WaPref.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif' width="400"/>  </p></details> 
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![javascript_icon]
 
 ### Cryptocurrency
 
-- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![swift_icon]
-- [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. ![swift_icon]
-- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![swift_icon]
-- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![javascript_icon]
-- [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges. ![swift_icon]
+- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png' width="400"/>  </p></details> 
+- [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png' width="400"/>  </p></details> 
+- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png' width="400"/>  </p></details> 
+- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://s3.amazonaws.com/cryptobar/newgif.gif' width="400"/>  </p></details> 
+- [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png' width="400"/>  </p></details> 
 
 ### Database
 
-- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client. ![java_icon]
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client. ![java_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://dbeaver.io/product/dbeaver-ss-mock.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-erd.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-classic.png' width="400"/>  <bt><img src='https://dbeaver.io/product/dbeaver-ss-dark.png' width="400"/>  </p></details> 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![cpp_icon]
-- [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![swift_icon]
-- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![javascript_icon]
+- [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png' width="400"/>  </p></details> 
+- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://user-images.githubusercontent.com/26019/41055418-dcc55700-69f3-11e8-8d3e-572cf5febedc.png' width="400"/>  <bt><img src='https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png' width="400"/>  <bt><img src='https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png' width="400"/>  </p></details> 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![swift_icon]
-- [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![swift_icon]
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![objective_c_icon]
+- [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://jpadilla.github.io/redisapp/assets/img/screenshot.png' width="400"/>  </p></details> 
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://sequelpro.com/images/logo.png' width="400"/>  <bt><img src='https://sequelpro.com/images/browse.png' width="400"/>  </p></details> 
 
 ### Development
 
 #### Git
 
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![c_icon] ![objective_c_icon] ![app_store]
-- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, macOS status bar application for Github. ![swift_icon] ![objective_c_icon]
-- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS. ![swift_icon]
-- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![type_script_icon]
-- [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![swift_icon]
+- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, macOS status bar application for Github. ![swift_icon] ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/image_github_w1920.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/status_bar.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trending.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png' width="400"/>  <bt><img src='https://img.shields.io/github/release/nightonke/gitee.svg' width="400"/>  <bt><img src='https://img.shields.io/badge/Developer-Nightonke-red.svg' width="400"/>  </p></details> 
+- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png' width="400"/>  </p></details> 
+- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![type_script_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png' width="400"/>  </p></details> 
+- [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png' width="400"/>  </p></details> 
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications. ![swift_icon]
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac. ![swift_icon]
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![objective_c_icon]
+- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/t6iC9TC.png' width="400"/>  <bt><img src='http://i.imgur.com/dWpJExk.png' width="400"/>  <bt><img src='http://i.imgur.com/ZfxM7su.png' width="400"/>  <bt><img src='http://i.imgur.com/29hxDcJ.png' width="400"/>  <bt><img src='http://i.imgur.com/6cuPcT4.png' width="400"/>  </p></details> 
 - [GitX](https://github.com/gitx/gitx) - Graphical client for the git version control system. ![objective_c_icon]
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![swift_icon]
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history. ![swift_icon]
-- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![javascript_icon]
-- [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![swift_icon]
-- [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![swift_icon]
+- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png' width="400"/>  </p></details> 
+- [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png' width="400"/>  </p></details> 
+- [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  </p></details> 
 
 #### iOS / macOS
 
@@ -204,6 +205,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons. ![javascript_icon]
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![swift_icon]
 - [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ![objective_c_icon]
+- [InjectionIII](https://github.com/johnno1962/InjectionIII) - overdue Swift rewrite of Injection. ![objective_c_icon] ![swift_icon]
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps. ![objective_c_icon]
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ![objective_c_icon]
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ![objective_c_icon]
@@ -216,7 +218,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![swift_icon]
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![swift_icon]
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![objective_c_icon]
-- [PushNotitication](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![javascript_icon]
+- [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![javascript_icon]
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![objective_c_icon]
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![objective_c_icon]
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro. ![swift_icon]
@@ -264,6 +266,10 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![swift_icon]
 
 ### Editors
+
+#### CSV
+
+- [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS. ![objective_c_icon]
 
 #### JSON
 
@@ -375,7 +381,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![swift_icon]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon]
 - [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![objective_c_icon]
-- [Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. ![objective_c_icon]
+- [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. ![swift_icon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![javascript_icon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![objective_c_icon]
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![swift_icon]
@@ -553,6 +559,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. ![swift_icon]
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![javascript_icon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![swift_icon]
+- [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button ![swift_icon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon]
 - [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology. ![javascript_icon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![cpp_icon]
@@ -566,6 +573,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![swift_icon]
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![swift_icon]
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![swift_icon]
+- [Padlock](https://github.com/padlock/padlock) - A minimal, open source password manager for macOS. ![javascript_icon]
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![javascript_icon]
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![swift_icon]
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![css_icon] ![javascript_icon]
@@ -578,6 +586,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### VPN & Proxy
 
+- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. ![swift_icon]
 - [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![swift_icon]
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![swift_icon]
 - [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![swift_icon]
