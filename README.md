@@ -380,7 +380,6 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![swift_icon]
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![swift_icon]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon]
-- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![objective_c_icon]
 - [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. ![swift_icon]
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![javascript_icon]
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![objective_c_icon]
