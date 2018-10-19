@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="./icons/icon.png">
 </p>
 
@@ -267,26 +267,26 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Editors
 
-#### CSV
+####  1.CSV
 
 - [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS. ![objective_c_icon]
 
-#### JSON
+#### 2.JSON
 
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![javascript_icon]
 
-#### Markdown
+#### 3.Markdown
 
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. ![elm_icon]
 - [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS. ![objective_c_icon]
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![javascript_icon]
 - [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor. ![swift_icon]
 
-#### TeX
+#### 4.TeX
 
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![javascript_icon]
 
-#### Text
+#### 5.Text
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![swift_icon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![c_icon]
