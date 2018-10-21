@@ -525,6 +525,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...). ![swift_icon]
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. ![swift_icon]
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![objective_c_icon]
+- [Disk Inventory X](http://www.derlien.com/) - Shows the sizes of files and folders in a special graphical way called "treemaps". ![objective_c_icon]
 - [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![objective_c_icon]
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![objective_c_icon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![swift_icon]
