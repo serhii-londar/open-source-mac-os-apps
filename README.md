@@ -441,7 +441,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![ruby_icon]
 - [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![objective_c_icon]
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![swift_icon]
-- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal nativemacOS macOS Syncthing application bundle. ![objective_c_icon]
+- [syncthing-macosx](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle. ![objective_c_icon]
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![objective_c_icon]
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![objective_c_icon]
 
