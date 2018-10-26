@@ -183,6 +183,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history. ![swift_icon]
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png' width="400"/>  </p></details> 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png' width="400"/>  </p></details> 
+- [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ![swift_icon]
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  </p></details> 
 
 #### iOS / macOS
