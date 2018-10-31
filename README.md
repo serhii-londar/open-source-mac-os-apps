@@ -290,6 +290,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 #### Text
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![swift_icon]
+- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git) - An extensible, customizable, free/libre text editor — and more.
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![c_icon]
 - [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![swift_icon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![objective_c_icon]
