@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 #### Deleting 
 
-Typical reasons for deleting project:
+Typical reasons for deleting a project:
 
 - Doesn't build in the current Xcode
 - No updates / no longer works
@@ -27,4 +27,4 @@ Typical reasons for deleting project:
 - Not written in English
 - README is not clear
 
-Your contributions are always welcome! To generate full description for your reoisitory you can use [awesome-mac-os-apps-helper](https://github.com/serhii-londar/awesome-mac-os-apps-helper).  Thank you for your suggestions! :smiley:
+Your contributions are always welcome! To generate full description for your repository you can use [awesome-mac-os-apps-helper](https://github.com/serhii-londar/awesome-mac-os-apps-helper).  Thank you for your suggestions! :smiley:
