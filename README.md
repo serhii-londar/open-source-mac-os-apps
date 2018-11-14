@@ -401,6 +401,7 @@ You can see in which language an app is written. Currently there are following l
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.  ![objective_c_icon] 
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/insidegui/KeyframesPlayer/master/./screenshot.gif' width="400"/>  </p></details> 
 - [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux).  ![javascript_icon] 
+- [Letters](https://github.com/klaaspieter/letters) Teach your kids the alphabet and how to type.  [!swift_icon]
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts.  ![objective_c_icon] 
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.  ![swift_icon] 
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://user-images.githubusercontent.com/3001525/29451479-6621bf1a-83c8-11e7-8ebb-b4e98b1af91c.png' width="400"/>  </p></details> 
