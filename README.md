@@ -581,6 +581,7 @@ You can see in which language an app is written. Currently there are following l
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/kasper/phoenix/master/assets/screenshot.gif' width="400"/>  </p></details> 
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/artwork/ShiftIt.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/docs/schreenshot-menu.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/ShiftIt/AccessibilitySettingsMaverick.png' width="400"/>  </p></details> 
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
+- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 
 - [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture.  ![cpp_icon] 
 
 ## Contributors
