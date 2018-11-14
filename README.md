@@ -23,6 +23,7 @@ You can see in which language an app is written. Currently there are following l
 - ![clojure_icon] - Clojure language.
 - ![coffee_script_icon] - CoffeeScript language.
 - ![css_icon] - CSS language.
+- ![go_icon] - Go language.
 - ![elm_icon] - Elm language.
 - ![haskell_icon] - Haskell language.
 - ![javascript_icon] - JavaScript language.
@@ -131,11 +132,10 @@ You can see in which language an app is written. Currently there are following l
 ### Chat
 
 - [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/GQiLntX.jpg' width="400"/>  </p></details> 
-Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon]
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. ![objective_c_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/riXrTvx.jpg' width="400"/>  </p></details> 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png' width="400"/> </p></details> 
 - [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left"> <bt><img src='https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png' width="400"/>  </p></details> 
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo. <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/5g1VU3S.png' width="400"/> </p></details> 
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo. ![javascript_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/5g1VU3S.png' width="400"/> </p></details> 
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png' width="400"/> </p></details> 
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ![javascript_icon]
 - [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png' width="400"/>  </p></details> 
@@ -253,7 +253,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 
 ### Other
 
-- [ChefInspector](https://github.com/Yasumoto/ChefInspector) — Node and Attribute viewer for Chef ![swift_icon]
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef ![swift_icon]
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![objective_c_icon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![javascript_icon]
 
@@ -290,7 +290,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 #### Text
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![swift_icon]
-- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git) - An extensible, customizable, free/libre text editor — and more.
+- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git) - An extensible, customizable, free/libre text editor - and more.
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![c_icon]
 - [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![swift_icon]
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![objective_c_icon]
@@ -417,7 +417,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![swift_icon]
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![javascript_icon]
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS. ![swift_icon]
-- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
+- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application. ![javascript_icon]
 - [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![swift_icon]
 - [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![swift_icon]
 - [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![objective_c_icon]
@@ -542,7 +542,7 @@ Mac app wrapper around Google's stand-alone Android Messenger. ![javascript_icon
 ### Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![rust_icon]
-- [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
+- [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux). ![go_icon]
 - [Console](https://github.com/macmade/Console) - macOS console application. ![swift_icon]
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![javascript_icon] ![css_icon]
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![objective_c_icon]
@@ -674,4 +674,5 @@ Thanks to all the people who contribute:
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
+[go_icon]: ./icons/golang-16.png 'Go language.'
 

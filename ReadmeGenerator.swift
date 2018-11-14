@@ -33,6 +33,7 @@ You can see in which language an app is written. Currently there are following l
 - ![clojure_icon] - Clojure language.
 - ![coffee_script_icon] - CoffeeScript language.
 - ![css_icon] - CSS language.
+- ![go_icon] - Go language.
 - ![elm_icon] - Elm language.
 - ![haskell_icon] - Haskell language.
 - ![javascript_icon] - JavaScript language.
@@ -112,6 +113,7 @@ Thanks to all the people who contribute:
 [clojure_icon]: ./icons/clojure-16.png 'Clojure Language'
 [coffee_script_icon]: ./icons/coffeescript-16.png 'CoffeeScript language.'
 [css_icon]: ./icons/css-16.png 'CSS language.'
+[go_icon]: ./icons/golang-16.png 'Go language.'
 [elm_icon]: ./icons/elm-16.png 'Elm Language'
 [haskell_icon]: ./icons/haskell-16.png 'Haskell language.'
 [java_icon]: ./icons/java-16.png 'Java language.'
@@ -198,7 +200,7 @@ class ReadmeGenerator {
     
     func generateReadme() {
         print("Start")
-        guard let applicationsData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.applications.rawValue)) else { return }
+        guard let applicationsData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.apps  .rawValue)) else { return }
         guard let categoriesData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.categories.rawValue)) else { return }
         let jsonDecoder = JSONDecoder()
         guard let applicationsObject = try? jsonDecoder.decode(JSONApplications.self, from: applicationsData) else { return }
@@ -285,6 +287,7 @@ extension JSONApplication {
 enum FilePaths: String {
     case readme = "./README.md"
     case newReadme = "./NEWREADME.md"
+    case apps = "./apps.json"
     case applications = "./applications.json"
     case categories = "./categories.json"
 }

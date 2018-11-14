@@ -147,17 +147,17 @@
     "description": ""
 }, {
     "title": "Git",
-    "id": "git-development",
+    "id": "git",
     "parent": "development",
     "description": ""
 }, {
     "title": "iOS / macOS",
-    "id": "ios-macos-development",
+    "id": "ios--macos",
     "parent": "development",
     "description": ""
 }, {
     "title": "JSON Parsing",
-    "id": "json-parsing-development",
+    "id": "json-parsing",
     "parent": "development",
     "description": ""
 }, {
@@ -166,33 +166,33 @@
     "parent": "development",
     "description": ""
 }, {
-    "title": "Other",
+    "title": "Other Development",
     "id": "other-development",
     "parent": "development",
     "description": ""
 }, {
     "title": "CSV",
-    "id": "csv-editors",
+    "id": "csv",
     "parent": "editors",
     "description": ""
 }, {
     "title": "JSON",
-    "id": "json-editors",
+    "id": "json",
     "parent": "editors",
     "description": ""
 }, {
     "title": "Markdown",
-    "id": "markdown-editors",
+    "id": "markdown",
     "parent": "editors",
     "description": ""
 }, {
     "title": "TeX",
-    "id": "tex-editors",
+    "id": "tex",
     "parent": "editors",
     "description": ""
 }, {
     "title": "Text",
-    "id": "text-editors",
+    "id": "text",
     "parent": "editors",
     "description": ""
 }
