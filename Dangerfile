@@ -12,7 +12,7 @@ warn 'Please update the Pull Request title to contain the library name' if githu
 
 # Check links
 require 'json'
-results = File.read 'ab-results-README.md-markdown-table.json'
+results = File.read 'ab-results-applications.json-markdown-table.json'
 j = JSON.parse results
 if j['error']==true
   m = j['title']
