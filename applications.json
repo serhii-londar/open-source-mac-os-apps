@@ -4,15 +4,9 @@
       "repo_url" : "https://github.com/vgorloff/AUHost",
       "title" : "AUHost",
       "screenshots" : [
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png",
         "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png",
-        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png"
+        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png",
+        "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png"
       ],
       "short_description" : "Application which hosts AudioUnits v3 using AVFoundation API. ",
       "languages" : [
@@ -24,45 +18,19 @@
       "repo_url" : "https://github.com/maculateConception/aural-player",
       "title" : "Aural Player",
       "screenshots" : [
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
         "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
         "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
         "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
         "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif",
-        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif"
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png"
       ],
       "short_description" : "Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ",
       "languages" : [
@@ -74,8 +42,6 @@
       "repo_url" : "https://github.com/kyleneideck/BackgroundMusic",
       "title" : "Background Music",
       "screenshots" : [
-        "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png",
-        "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png",
         "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png"
       ],
       "short_description" : "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ",
@@ -88,18 +54,10 @@
       "repo_url" : "https://github.com/hanayik/CAM",
       "title" : "CAM",
       "screenshots" : [
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png",
         "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png",
         "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png",
-        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png"
+        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
+        "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png"
       ],
       "short_description" : "macOS camera recording using ffmpeg ",
       "languages" : [
@@ -111,12 +69,8 @@
       "repo_url" : "https://github.com/nodeful/eqMac2",
       "title" : "eqMac2",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/8472525/33244041-488cf4b4-d2e8-11e7-986c-49826dd853e1.png",
-        "https://user-images.githubusercontent.com/8472525/33244041-488cf4b4-d2e8-11e7-986c-49826dd853e1.png",
-        "https://user-images.githubusercontent.com/8472525/33244041-488cf4b4-d2e8-11e7-986c-49826dd853e1.png",
         "https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg",
-        "https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg",
-        "https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg"
+        "https://user-images.githubusercontent.com/8472525/33244041-488cf4b4-d2e8-11e7-986c-49826dd853e1.png"
       ],
       "short_description" : "System-Wide Equalizer for the Mac. ",
       "languages" : [
@@ -128,8 +82,6 @@
       "repo_url" : "https://github.com/enzo1982/freac",
       "title" : "fre:ac",
       "screenshots" : [
-        "https://freac.org/images/freac-ubuntu.png",
-        "https://freac.org/images/freac-ubuntu.png",
         "https://freac.org/images/freac-ubuntu.png"
       ],
       "short_description" : "The fre:ac audio converter project. ",
@@ -143,17 +95,9 @@
       "title" : "jmc",
       "screenshots" : [
         "https://puu.sh/xoZYo/bd6d6deeb0.png",
-        "https://puu.sh/xoZYo/bd6d6deeb0.png",
-        "https://puu.sh/xoZYo/bd6d6deeb0.png",
-        "https://puu.sh/xoZHp/31dddfc751.png",
-        "https://puu.sh/xoZHp/31dddfc751.png",
-        "https://puu.sh/xoZHp/31dddfc751.png",
-        "https://i.imgur.com/oYB83zF.png",
-        "https://i.imgur.com/oYB83zF.png",
-        "https://i.imgur.com/oYB83zF.png",
         "https://i.imgur.com/SJ5RgM5.png",
-        "https://i.imgur.com/SJ5RgM5.png",
-        "https://i.imgur.com/SJ5RgM5.png"
+        "https://puu.sh/xoZHp/31dddfc751.png",
+        "https://i.imgur.com/oYB83zF.png"
       ],
       "short_description" : "jmc is new macOS media organizer. ",
       "languages" : [
@@ -165,8 +109,6 @@
       "repo_url" : "https://github.com/alberti42/iTunes-Volume-Control",
       "title" : "iTunes-Volume-Control",
       "screenshots" : [
-        "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png",
-        "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png",
         "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png"
       ],
       "short_description" : "This app allows you to control the iTunes volume using volume up and volume down hotkeys. ",
@@ -179,8 +121,6 @@
       "repo_url" : "https://github.com/dsward2/LocalRadio",
       "title" : "LocalRadio",
       "screenshots" : [
-        "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg",
-        "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg",
         "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg"
       ],
       "short_description" : "LocalRadio is software for listening to \"Software-Defined Radio\" on your Mac and mobile devices. ",
@@ -193,15 +133,9 @@
       "repo_url" : "https://github.com/lyc2345/Lyricism",
       "title" : "Lyricism",
       "screenshots" : [
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-07-21%20at%204.34.33%20PM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-07-21%20at%204.34.33%20PM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-07-21%20at%204.34.33%20PM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg",
         "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg",
-        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg"
+        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-07-21%20at%204.34.33%20PM.jpg",
+        "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg"
       ],
       "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing. ![swift_icon] ",
       "languages" : [
@@ -214,18 +148,10 @@
       "repo_url" : "https://github.com/ddddxxx/LyricsX",
       "title" : "LyricsX",
       "screenshots" : [
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_1.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_1.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_1.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_2.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_2.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_2.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_3.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_3.jpg",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_3.jpg",
         "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif",
-        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif"
+        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_3.jpg",
+        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_2.jpg",
+        "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/preview_1.jpg"
       ],
       "short_description" : "Lyrics for iTunes, Spotify and Vox. ",
       "languages" : [
@@ -237,21 +163,11 @@
       "repo_url" : "https://github.com/bsdelf/mous",
       "title" : "Mous Player",
       "screenshots" : [
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
         "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
         "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png",
-        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png"
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png"
       ],
       "short_description" : "Simple yet powerful audio player for BSD/Linux/macOS. ",
       "languages" : [
@@ -263,8 +179,6 @@
       "repo_url" : "https://github.com/xzzz9097/Muse",
       "title" : "Muse",
       "screenshots" : [
-        "https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png",
-        "https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png",
         "https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png"
       ],
       "short_description" : "Spotify controller with TouchBar support. ",
@@ -277,12 +191,8 @@
       "repo_url" : "https://github.com/shibiao/SBPlayerClient",
       "title" : "SBPlayer",
       "screenshots" : [
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg",
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg",
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg",
         "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg",
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg",
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg"
+        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg"
       ],
       "short_description" : "SBPlayer is a beautiful and powerful media player base on VLCKit. ",
       "languages" : [
@@ -294,8 +204,6 @@
       "repo_url" : "https://github.com/ShazamScrobbler/shazamscrobbler-macos",
       "title" : "ShazamScrobbler",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png",
-        "https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png",
         "https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png"
       ],
       "short_description" : "Scrobble vinyl, radios, movies to Last.fm. ",
@@ -308,8 +216,6 @@
       "repo_url" : "https://github.com/sonoramac/Sonora",
       "title" : "Sonora",
       "screenshots" : [
-        "https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png",
-        "https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png",
         "https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png"
       ],
       "short_description" : "Minimal, beautifully designed music player for macOS. ",
@@ -347,8 +253,6 @@
       "repo_url" : "https://github.com/Sunnyyoung/Suohai",
       "title" : "Suohai",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png",
-        "https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png",
         "https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png"
       ],
       "short_description" : "Audio input/output source lock for macOS. ",
@@ -362,14 +266,8 @@
       "title" : "Tickeys",
       "screenshots" : [
         "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/1.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/1.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/1.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/2.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/2.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/2.png",
         "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png",
-        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png"
+        "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/2.png"
       ],
       "short_description" : "Instant audio feedback for typing. macOS version. ",
       "languages" : [
@@ -381,8 +279,6 @@
       "repo_url" : "https://github.com/CocoaHeadsBrasil/MuteUnmuteMic",
       "title" : "[Un]MuteMic",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif",
-        "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif",
         "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif"
       ],
       "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![c_icon] ",
@@ -396,8 +292,6 @@
       "repo_url" : "https://github.com/getoffmyhack/waveSDR",
       "title" : "waveSDR",
       "screenshots" : [
-        "https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png",
-        "https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png",
         "https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png"
       ],
       "short_description" : "macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ",
@@ -422,8 +316,6 @@
       "repo_url" : "https://github.com/alichtman/shallow-backup",
       "title" : "shallow-backup",
       "screenshots" : [
-        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif",
-        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif",
         "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif"
       ],
       "short_description" : "Easily create lightweight documentation of installed applications, dotfiles, and more. ",
@@ -486,8 +378,6 @@
       "repo_url" : "https://github.com/JadenGeller/Helium",
       "title" : "Helium",
       "screenshots" : [
-        "http://heliumfloats.com/screenshot.png",
-        "http://heliumfloats.com/screenshot.png",
         "http://heliumfloats.com/screenshot.png"
       ],
       "short_description" : "Floating browser window for macOS. ![swift_icon] ",
@@ -513,15 +403,9 @@
       "repo_url" : "https://github.com/kaktus/kaktus",
       "title" : "Kaktus Browser",
       "screenshots" : [
-        "https://cldup.com/6jOWAjYdpo.png",
-        "https://cldup.com/6jOWAjYdpo.png",
-        "https://cldup.com/6jOWAjYdpo.png",
-        "https://cldup.com/wDadS2XGrb.gif",
-        "https://cldup.com/wDadS2XGrb.gif",
-        "https://cldup.com/wDadS2XGrb.gif",
         "https://cldup.com/qsYAu0F-ja.png",
-        "https://cldup.com/qsYAu0F-ja.png",
-        "https://cldup.com/qsYAu0F-ja.png"
+        "https://cldup.com/6jOWAjYdpo.png",
+        "https://cldup.com/wDadS2XGrb.gif"
       ],
       "short_description" : "Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ",
       "languages" : [
@@ -533,8 +417,6 @@
       "repo_url" : "https://github.com/OtterBrowser/otter-browser",
       "title" : "otter-browser",
       "screenshots" : [
-        "https://otter-browser.org/screenshots/1.png",
-        "https://otter-browser.org/screenshots/1.png",
         "https://otter-browser.org/screenshots/1.png"
       ],
       "short_description" : "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
@@ -559,8 +441,6 @@
       "repo_url" : "https://github.com/jake-101/android-messenger-mac",
       "title" : "Android Messenger Mac",
       "screenshots" : [
-        "https://i.imgur.com/GQiLntX.jpg",
-        "https://i.imgur.com/GQiLntX.jpg",
         "https://i.imgur.com/GQiLntX.jpg"
       ],
       "short_description" : " Mac app wrapper around Google's stand-alone Android Messenger. ",
@@ -573,8 +453,6 @@
       "repo_url" : "https://github.com/stonesam92/ChitChat",
       "title" : "ChitChat",
       "screenshots" : [
-        "http://i.imgur.com/riXrTvx.jpg",
-        "http://i.imgur.com/riXrTvx.jpg",
         "http://i.imgur.com/riXrTvx.jpg"
       ],
       "short_description" : "Native Mac app wrapper for WhatsApp Web. ",
@@ -587,8 +465,6 @@
       "repo_url" : "https://github.com/geeeeeeeeek/electronic-wechat",
       "title" : "Electronic WeChat",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png",
-        "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png",
         "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png"
       ],
       "short_description" : "Better WeChat on macOS and Linux. ",
@@ -601,8 +477,6 @@
       "repo_url" : "https://github.com/meetfranz/franz",
       "title" : "Franz",
       "screenshots" : [
-        "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png",
-        "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png",
         "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png"
       ],
       "short_description" : "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
@@ -615,8 +489,6 @@
       "repo_url" : "https://github.com/kelyvin/Google-Allo-For-Desktop",
       "title" : "Google Allo for Desktop",
       "screenshots" : [
-        "http://i.imgur.com/5g1VU3S.png",
-        "http://i.imgur.com/5g1VU3S.png",
         "http://i.imgur.com/5g1VU3S.png"
       ],
       "short_description" : "Native macOS & Windows desktop app for Google Allo. ",
@@ -629,8 +501,6 @@
       "repo_url" : "https://github.com/dcrousso/GroupMe",
       "title" : "GroupMe",
       "screenshots" : [
-        "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png",
-        "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png",
         "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png"
       ],
       "short_description" : "Unofficial GroupMe App. ![javascript_icon] ",
@@ -656,8 +526,6 @@
       "repo_url" : "https://github.com/neilalexander/seaglass",
       "title" : "Seaglass",
       "screenshots" : [
-        "https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png",
-        "https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png",
         "https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png"
       ],
       "short_description" : "A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ",
@@ -706,8 +574,6 @@
       "repo_url" : "https://github.com/telegramdesktop/tdesktop",
       "title" : "Telegram Desktop",
       "screenshots" : [
-        "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png",
-        "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png",
         "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png"
       ],
       "short_description" : "Telegram Desktop messaging app. ",
@@ -720,18 +586,10 @@
       "repo_url" : "https://github.com/Codeux-Software/Textual",
       "title" : "Textual",
       "screenshots" : [
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png",
         "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png",
-        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png"
+        "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkThumbnail.png",
+        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png",
+        "https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png"
       ],
       "short_description" : "Textual is an IRC client for macOS. ",
       "languages" : [
@@ -756,13 +614,7 @@
       "title" : "WhatsAppBar",
       "screenshots" : [
         "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/AppScreenshoot.png",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/AppScreenshoot.png",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/AppScreenshoot.png",
         "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WaPref.png",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WaPref.png",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WaPref.png",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif",
-        "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif",
         "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif"
       ],
       "short_description" : "Send WhatsApp message from menu bar. ",
@@ -787,12 +639,8 @@
       "repo_url" : "https://github.com/onmyway133/AddressGenerator",
       "title" : "AddressGenerator",
       "screenshots" : [
-        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png",
-        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png",
-        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png",
         "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png",
-        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png",
-        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png"
+        "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png"
       ],
       "short_description" : "macOS app to safely generate cryptocurrency address. ",
       "languages" : [
@@ -804,8 +652,6 @@
       "repo_url" : "https://github.com/balance-io/balance-open",
       "title" : "Balance Open",
       "screenshots" : [
-        "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png",
-        "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png",
         "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png"
       ],
       "short_description" : "App for all the world’s currencies. ",
@@ -818,18 +664,10 @@
       "repo_url" : "https://github.com/adamwaite/CoinBar",
       "title" : "CoinBar",
       "screenshots" : [
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png",
         "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png",
-        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png"
+        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png",
+        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png",
+        "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/03.png"
       ],
       "short_description" : "macOS menu bar application for tracking crypto coin prices. ",
       "languages" : [
@@ -841,8 +679,6 @@
       "repo_url" : "https://github.com/geraldoramos/crypto-bar",
       "title" : "Crypto Bar",
       "screenshots" : [
-        "https://s3.amazonaws.com/cryptobar/newgif.gif",
-        "https://s3.amazonaws.com/cryptobar/newgif.gif",
         "https://s3.amazonaws.com/cryptobar/newgif.gif"
       ],
       "short_description" : "macOS menu bar application built with Electron. ",
@@ -855,8 +691,6 @@
       "repo_url" : "https://github.com/kaunteya/FloatCoin",
       "title" : "Float coin",
       "screenshots" : [
-        "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png",
-        "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png",
         "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png"
       ],
       "short_description" : "Native menu bar app with floating window and support for many Exchanges. ",
@@ -869,17 +703,9 @@
       "repo_url" : "https://github.com/dbeaver/dbeaver",
       "title" : "DBeaver",
       "screenshots" : [
-        "https://dbeaver.io/product/dbeaver-ss-mock.png",
-        "https://dbeaver.io/product/dbeaver-ss-mock.png",
+        "https://dbeaver.io/product/dbeaver-ss-classic.png",
         "https://dbeaver.io/product/dbeaver-ss-mock.png",
         "https://dbeaver.io/product/dbeaver-ss-erd.png",
-        "https://dbeaver.io/product/dbeaver-ss-erd.png",
-        "https://dbeaver.io/product/dbeaver-ss-erd.png",
-        "https://dbeaver.io/product/dbeaver-ss-classic.png",
-        "https://dbeaver.io/product/dbeaver-ss-classic.png",
-        "https://dbeaver.io/product/dbeaver-ss-classic.png",
-        "https://dbeaver.io/product/dbeaver-ss-dark.png",
-        "https://dbeaver.io/product/dbeaver-ss-dark.png",
         "https://dbeaver.io/product/dbeaver-ss-dark.png"
       ],
       "short_description" : "Universal database tool and SQL client. ",
@@ -904,8 +730,6 @@
       "repo_url" : "https://github.com/gcollazo/mongodbapp",
       "title" : "mongoDB.app",
       "screenshots" : [
-        "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png",
-        "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png",
         "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png"
       ],
       "short_description" : "The easiest way to get started with mongoDB on the Mac. ",
@@ -919,13 +743,7 @@
       "title" : "Postbird",
       "screenshots" : [
         "https://user-images.githubusercontent.com/26019/41055418-dcc55700-69f3-11e8-8d3e-572cf5febedc.png",
-        "https://user-images.githubusercontent.com/26019/41055418-dcc55700-69f3-11e8-8d3e-572cf5febedc.png",
-        "https://user-images.githubusercontent.com/26019/41055418-dcc55700-69f3-11e8-8d3e-572cf5febedc.png",
         "https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png",
-        "https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png",
-        "https://user-images.githubusercontent.com/26019/41055416-dc5a5464-69f3-11e8-87b8-994e763da816.png",
-        "https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png",
-        "https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png",
         "https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png"
       ],
       "short_description" : "PostgreSQL GUI client for macOS. ",
@@ -950,8 +768,6 @@
       "repo_url" : "https://github.com/jpadilla/redisapp",
       "title" : "Redis.app",
       "screenshots" : [
-        "https://jpadilla.github.io/redisapp/assets/img/screenshot.png",
-        "https://jpadilla.github.io/redisapp/assets/img/screenshot.png",
         "https://jpadilla.github.io/redisapp/assets/img/screenshot.png"
       ],
       "short_description" : "The easiest way to get started with Redis on the Mac. ",
@@ -965,10 +781,6 @@
       "title" : "Sequel Pro",
       "screenshots" : [
         "https://sequelpro.com/images/logo.png",
-        "https://sequelpro.com/images/logo.png",
-        "https://sequelpro.com/images/logo.png",
-        "https://sequelpro.com/images/browse.png",
-        "https://sequelpro.com/images/browse.png",
         "https://sequelpro.com/images/browse.png"
       ],
       "short_description" : "MySQL/MariaDB database management for macOS.  ",
@@ -994,48 +806,20 @@
       "repo_url" : "https://github.com/Nightonke/Gitee",
       "title" : "Gitee",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/image_github_w1920.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/image_github_w1920.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/image_github_w1920.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/status_bar.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/status_bar.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/status_bar.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trending.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trending.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trending.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_2.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png",
-        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png",
         "https://img.shields.io/github/release/nightonke/gitee.svg",
-        "https://img.shields.io/github/release/nightonke/gitee.svg",
-        "https://img.shields.io/github/release/nightonke/gitee.svg",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_2.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trending.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/status_bar.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_1.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_2.png",
         "https://img.shields.io/badge/Developer-Nightonke-red.svg",
-        "https://img.shields.io/badge/Developer-Nightonke-red.svg",
-        "https://img.shields.io/badge/Developer-Nightonke-red.svg"
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/image_github_w1920.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_trend_2.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png",
+        "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png"
       ],
       "short_description" : "Gitee, macOS status bar application for Github. ![swift_icon] ",
       "languages" : [
@@ -1048,8 +832,6 @@
       "repo_url" : "https://github.com/remirobert/Github-contributions",
       "title" : "Github contributions",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png",
-        "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png",
         "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png"
       ],
       "short_description" : "GitHub contributions app, for iOS, WatchOS, and macOS. ",
@@ -1062,8 +844,6 @@
       "repo_url" : "https://github.com/desktop/desktop",
       "title" : "GitHub Desktop",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png",
-        "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png",
         "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png"
       ],
       "short_description" : "Simple collaboration from your desktop. ",
@@ -1076,8 +856,6 @@
       "repo_url" : "https://github.com/ad/GithubListener",
       "title" : "GithubListener",
       "screenshots" : [
-        "https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png",
-        "https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png",
         "https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png"
       ],
       "short_description" : "Simple app that will notify about new commits to watched repositories. ",
@@ -1115,19 +893,9 @@
       "title" : "GitUp",
       "screenshots" : [
         "http://i.imgur.com/t6iC9TC.png",
-        "http://i.imgur.com/t6iC9TC.png",
-        "http://i.imgur.com/t6iC9TC.png",
-        "http://i.imgur.com/dWpJExk.png",
-        "http://i.imgur.com/dWpJExk.png",
-        "http://i.imgur.com/dWpJExk.png",
-        "http://i.imgur.com/ZfxM7su.png",
-        "http://i.imgur.com/ZfxM7su.png",
         "http://i.imgur.com/ZfxM7su.png",
         "http://i.imgur.com/29hxDcJ.png",
-        "http://i.imgur.com/29hxDcJ.png",
-        "http://i.imgur.com/29hxDcJ.png",
-        "http://i.imgur.com/6cuPcT4.png",
-        "http://i.imgur.com/6cuPcT4.png",
+        "http://i.imgur.com/dWpJExk.png",
         "http://i.imgur.com/6cuPcT4.png"
       ],
       "short_description" : "The Git interface you've been missing all your life has finally arrived. ",
@@ -1177,10 +945,6 @@
       "title" : "Streaker",
       "screenshots" : [
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png",
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png",
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png",
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png",
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png",
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png"
       ],
       "short_description" : "GitHub contribution streak tracking menubar app. ",
@@ -1193,8 +957,6 @@
       "repo_url" : "https://github.com/marcinreliga/TeamStatus-for-GitHub",
       "title" : "TeamStatus-for-GitHub",
       "screenshots" : [
-        "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png",
-        "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png",
         "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png"
       ],
       "short_description" : "macOS status bar application for tracking code review process within the team. ",
@@ -1219,8 +981,6 @@
       "repo_url" : "https://github.com/Uncommon/Xit",
       "title" : "Xit",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png",
-        "https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png",
         "https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png"
       ],
       "short_description" : "Xit is a graphical tool for working with git repositories. ",
@@ -1321,9 +1081,8 @@
       "repo_url" : "https://github.com/attaswift/Attabench",
       "title" : "Attabench",
       "screenshots" : [
+        "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png",
         "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Header.png",
-        "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png",
-        "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png",
         "https://raw.githubusercontent.com/attaswift/Attabench/master/Images/SampleBenchmark.png"
       ],
       "short_description" : "Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ",
@@ -1348,9 +1107,9 @@
       "repo_url" : "https://github.com/JustinFincher/BoardForGitHub",
       "title" : "Board For GitHub",
       "screenshots" : [
-        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/Banner.jpg",
         "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/1.jpg",
-        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/2.jpg"
+        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/2.jpg",
+        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/Banner.jpg"
       ],
       "short_description" : "Small application to monitor your GitHub project web page in a native macOS app :octocat:! ",
       "languages" : [
@@ -1362,8 +1121,8 @@
       "repo_url" : "https://github.com/br1sk/brisk",
       "title" : "Brisk",
       "screenshots" : [
-        "https://raw.githubusercontent.com/br1sk/brisk/master/.github/screenshot.png",
-        "https://raw.githubusercontent.com/br1sk/brisk/master/.github/AppIcon.png"
+        "https://raw.githubusercontent.com/br1sk/brisk/master/.github/AppIcon.png",
+        "https://raw.githubusercontent.com/br1sk/brisk/master/.github/screenshot.png"
       ],
       "short_description" : "macOS app for submitting radars. ",
       "languages" : [
@@ -1375,10 +1134,10 @@
       "repo_url" : "https://github.com/xing/calabash-launcher",
       "title" : "calabash-launcher",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/4619244/32549703-b6356bfc-c48a-11e7-92f0-1e24a985f0dd.png",
+        "https://user-images.githubusercontent.com/18147900/32694248-d8c2d7c8-c73b-11e7-8803-81590d61fbf9.png",
         "https://user-images.githubusercontent.com/18147900/32609402-e9b05aa2-c55f-11e7-99d6-c2c1b5b8195d.png",
         "https://user-images.githubusercontent.com/18147900/34467506-8ca05b50-eef4-11e7-9ca0-1373ba7ddd19.png",
-        "https://user-images.githubusercontent.com/18147900/32694248-d8c2d7c8-c73b-11e7-8803-81590d61fbf9.png",
+        "https://user-images.githubusercontent.com/4619244/32549703-b6356bfc-c48a-11e7-92f0-1e24a985f0dd.png",
         "https://user-images.githubusercontent.com/18147900/32503133-c04ee05e-c3dc-11e7-8394-3c0eb5b0105b.gif"
       ],
       "short_description" : "iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ",
@@ -1404,9 +1163,9 @@
       "title" : "CocoaRestClient",
       "screenshots" : [
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-1.png",
+        "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-2.png",
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-4.png",
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-5.png",
-        "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-2.png",
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-6.png"
       ],
       "short_description" : "Native Apple macOS app for testing HTTP/REST endpoints. ",
@@ -1431,8 +1190,8 @@
       "repo_url" : "https://github.com/onmyway133/IconGenerator",
       "title" : "IconGenerator",
       "screenshots" : [
-        "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/banner.png",
-        "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/gif.gif"
+        "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/gif.gif",
+        "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/banner.png"
       ],
       "short_description" : "macOS app to generate app icons. ",
       "languages" : [
@@ -1602,8 +1361,8 @@
       "repo_url" : "https://github.com/kizitonwose/PodsUpdater",
       "title" : "PodsUpdater",
       "screenshots" : [
-        "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_1.png",
-        "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_2.png"
+        "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_2.png",
+        "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_1.png"
       ],
       "short_description" : "macOS app which helps you manage dependency releases in your Podfile. ",
       "languages" : [
@@ -1627,15 +1386,15 @@
       "repo_url" : "https://github.com/onmyway133/PushNotifications",
       "title" : "PushNotifications",
       "screenshots" : [
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/ios.png",
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Certificate.png",
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/iOSCertificate.png",
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Key.png",
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/KeyId.png",
         "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/TeamId.png",
         "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/iOSToken.png",
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Android.png",
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/ios.png",
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/KeyId.png",
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Key.png",
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/iOSCertificate.png",
         "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/AndroidServerKey.png",
-        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Android.png"
+        "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Certificate.png"
       ],
       "short_description" : "macOS app to test push notifications on iOS and Android. ",
       "languages" : [
@@ -1720,10 +1479,10 @@
       "title" : "WWDC.srt",
       "screenshots" : [
         "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./WWDCSubGetter/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png",
-        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session01.png",
         "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session02.png",
         "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/VideoLink.png",
-        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/TextFile.png"
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/TextFile.png",
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session01.png"
       ],
       "short_description" : "Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ",
       "languages" : [
@@ -1879,8 +1638,8 @@
       "repo_url" : "https://github.com/andypotts/mockup-generator",
       "title" : "Mockup Generator",
       "screenshots" : [
-        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png",
-        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png"
+        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png",
+        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png"
       ],
       "short_description" : "Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ",
       "languages" : [
@@ -1964,15 +1723,14 @@
       "repo_url" : "https://github.com/ant4g0nist/vegvisir",
       "title" : "vegvisir",
       "screenshots" : [
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png",
+        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png",
+        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png",
         "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png",
         "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png",
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png",
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png",
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png",
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png",
+        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png",
         "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png",
-        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png"
+        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png",
+        "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png"
       ],
       "short_description" : "Browser based GUI for **LLDB** Debugger. ",
       "languages" : [
@@ -2034,8 +1792,8 @@
       "repo_url" : "https://github.com/onmyway133/YoutubeDownloader",
       "title" : "Youtube Downloader",
       "screenshots" : [
-        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png",
-        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png"
+        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png",
+        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png"
       ],
       "short_description" : "macOS app to download Youtube videos. ",
       "languages" : [
@@ -2071,8 +1829,8 @@
       "repo_url" : "https://github.com/wellsjo/JSON-Splora",
       "title" : "JSON-Splora",
       "screenshots" : [
-        "https://raw.githubusercontent.com/wellsjo/JSON-Splora/master/app/assets/logos/logo.png",
-        "http://i.imgur.com/CiXIrrg.gif"
+        "http://i.imgur.com/CiXIrrg.gif",
+        "https://raw.githubusercontent.com/wellsjo/JSON-Splora/master/app/assets/logos/logo.png"
       ],
       "short_description" : "GUI for editing, visualizing, and manipulating JSON data. ",
       "languages" : [
@@ -2220,8 +1978,8 @@
       "repo_url" : "https://github.com/arnoappenzeller/PiPifier",
       "title" : "PiPifier",
       "screenshots" : [
-        "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/Banner.png",
         "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/demo.gif",
+        "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/Banner.png",
         "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/pipifier_ios_usage.gif"
       ],
       "short_description" : "PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ",
@@ -2246,8 +2004,8 @@
       "repo_url" : "https://github.com/Clipy/Clipy",
       "title" : "Clipy",
       "screenshots" : [
-        "http://clipy-app.com/img/screenshot1.png",
-        "https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png"
+        "https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png",
+        "http://clipy-app.com/img/screenshot1.png"
       ],
       "short_description" : "Clipy is a Clipboard extension app for macOS. ",
       "languages" : [
@@ -2271,8 +2029,8 @@
       "repo_url" : "https://github.com/Mortennn/FiScript",
       "title" : "FiScript",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/logo.png",
-        "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/landingNoText.png"
+        "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/landingNoText.png",
+        "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/logo.png"
       ],
       "short_description" : "Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. ",
       "languages" : [
@@ -2407,9 +2165,9 @@
       "repo_url" : "https://github.com/onmyway133/GifCapture",
       "title" : "GifCapture",
       "screenshots" : [
-        "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/Icon.png",
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/gifcapture.png",
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g1.gif",
+        "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/Icon.png",
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif",
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif"
       ],
@@ -2436,9 +2194,9 @@
       "repo_url" : "https://github.com/sindresorhus/gifski-app",
       "title" : "Gifski",
       "screenshots" : [
-        "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/AppIcon-readme.png",
+        "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg",
         "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg",
-        "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg"
+        "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/AppIcon-readme.png"
       ],
       "short_description" : "Convert videos to high-quality GIFs. ",
       "languages" : [
@@ -2671,11 +2429,11 @@
       "repo_url" : "https://github.com/gergelysanta/photominer",
       "title" : "PhotoMiner",
       "screenshots" : [
-        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/02.png",
-        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/03.png",
-        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/04.png",
-        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/05.png",
         "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/06.png",
+        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/02.png",
+        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/04.png",
+        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/03.png",
+        "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/05.png",
         "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/07.png"
       ],
       "short_description" : "macOS app for finding and lost forgotten photos on your disks. ",
@@ -2788,8 +2546,8 @@
       "repo_url" : "https://github.com/gbammc/Thor",
       "title" : "Thor",
       "screenshots" : [
-        "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png",
-        "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png"
+        "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png",
+        "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png"
       ],
       "short_description" : "Switch the right application ASAP. ",
       "languages" : [
@@ -3105,8 +2863,8 @@
       "repo_url" : "https://github.com/Zac-Garby/iTunes-Graphs",
       "title" : "iTunes Graphs",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot.png",
-        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot2.png"
+        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot2.png",
+        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot.png"
       ],
       "short_description" : "macOS app to visualise your iTunes library as graphs. ",
       "languages" : [
@@ -3281,12 +3039,12 @@
       "title" : "notable",
       "screenshots" : [
         "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/notable.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/unsaved-changes.png",
         "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/help.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/tabs.png",
         "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/encrypted.png",
         "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/search.png",
-        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/unsaved-changes.png",
-        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/edit.png",
-        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/tabs.png"
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/edit.png"
       ],
       "short_description" : "Simple note taking application. ",
       "languages" : [
@@ -3637,18 +3395,17 @@
       "repo_url" : "https://github.com/klauscfhq/ao",
       "title" : "Ao",
       "screenshots" : [
-        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-dark-theme.png",
-        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/logo.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/ao-vibrant.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/sepia-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/black-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/dark-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/compact-mode.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
+        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-dark-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/ao-vibrant.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/black-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/sepia-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/custom-shortcut-keys.gif",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif"
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/dark-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif",
+        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/logo.png"
       ],
       "short_description" : "Elegant Microsoft To-Do desktop app. ![javascript_icon] ",
       "languages" : [
@@ -3964,12 +3721,12 @@
       "repo_url" : "https://github.com/JohnCoates/Aerial",
       "title" : "Aerial",
       "screenshots" : [
+        "https://user-images.githubusercontent.com/37544189/47649972-1f76a980-db7f-11e8-910b-1d5d50931ae2.png",
         "https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-11e5-9d3b-842d3acc2fd5.gif",
         "https://user-images.githubusercontent.com/37544189/47649971-1f76a980-db7f-11e8-97be-d1f90b943c9d.png",
-        "https://user-images.githubusercontent.com/37544189/47649972-1f76a980-db7f-11e8-910b-1d5d50931ae2.png",
         "https://user-images.githubusercontent.com/37544189/47649973-1f76a980-db7f-11e8-8aef-301307d48fa2.png",
-        "https://user-images.githubusercontent.com/37544189/47649974-1f76a980-db7f-11e8-8339-3f0424652b8c.png",
-        "https://user-images.githubusercontent.com/37544189/47649975-200f4000-db7f-11e8-9e8b-f75c4a5ebde4.png"
+        "https://user-images.githubusercontent.com/37544189/47649975-200f4000-db7f-11e8-9e8b-f75c4a5ebde4.png",
+        "https://user-images.githubusercontent.com/37544189/47649974-1f76a980-db7f-11e8-8339-3f0424652b8c.png"
       ],
       "short_description" : "Apple TV Aerial Screensaver for macOS. ",
       "languages" : [
@@ -3993,8 +3750,8 @@
       "repo_url" : "https://github.com/leonspok/Irvue-Screensaver",
       "title" : "Irvue",
       "screenshots" : [
-        "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/1.png",
         "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/2.png",
+        "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/1.png",
         "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/3.png"
       ],
       "short_description" : "Screensaver for macOS. ",
@@ -4229,7 +3986,6 @@
       "title" : "Simpo",
       "screenshots" : [
         "https://raw.githubusercontent.com/KeliCheng/Simpo/master/preview.png",
-        "https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png",
         "https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png"
       ],
       "short_description" : "macOS menubar app to post status quickly. ",
@@ -4254,10 +4010,10 @@
       "repo_url" : "https://github.com/raphaelhanneken/apple-juice",
       "title" : "Apple Juice",
       "screenshots" : [
-        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_appmenu.png",
-        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_notifications.png",
         "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today.png",
-        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png"
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png",
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_appmenu.png",
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_notifications.png"
       ],
       "short_description" : "Advanced battery gauge for macOS. ",
       "languages" : [
@@ -4269,11 +4025,11 @@
       "repo_url" : "https://github.com/fuyu/AppPolice",
       "title" : "AppPolice",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/1557716/12860549/fdffd054-cc65-11e5-8405-cc224ea4ab3b.png",
-        "https://cloud.githubusercontent.com/assets/1557716/12860551/ffff72d8-cc65-11e5-9304-4f1341657b5a.png",
-        "https://cloud.githubusercontent.com/assets/1557716/12860557/118f5fcc-cc66-11e5-8822-dc85cbe7bbb9.png",
         "https://cloud.githubusercontent.com/assets/1557716/12860558/11908a78-cc66-11e5-9998-b4bec11dbfeb.png",
-        "https://cloud.githubusercontent.com/assets/1557716/12860559/1193fe42-cc66-11e5-9d4f-8b8af842ea72.png"
+        "https://cloud.githubusercontent.com/assets/1557716/12860551/ffff72d8-cc65-11e5-9304-4f1341657b5a.png",
+        "https://cloud.githubusercontent.com/assets/1557716/12860559/1193fe42-cc66-11e5-9d4f-8b8af842ea72.png",
+        "https://cloud.githubusercontent.com/assets/1557716/12860549/fdffd054-cc65-11e5-8405-cc224ea4ab3b.png",
+        "https://cloud.githubusercontent.com/assets/1557716/12860557/118f5fcc-cc66-11e5-8822-dc85cbe7bbb9.png"
       ],
       "short_description" : "App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ",
       "languages" : [
@@ -4345,8 +4101,8 @@
       "repo_url" : "https://github.com/brianmichel/Juice",
       "title" : "Juice",
       "screenshots" : [
-        "https://raw.githubusercontent.com/brianmichel/Juice/master//images/icon-readme.png",
-        "https://raw.githubusercontent.com/brianmichel/Juice/master//images/cyle-post.png"
+        "https://raw.githubusercontent.com/brianmichel/Juice/master//images/cyle-post.png",
+        "https://raw.githubusercontent.com/brianmichel/Juice/master//images/icon-readme.png"
       ],
       "short_description" : "Make your battery information a bit more interesting. ",
       "languages" : [
@@ -4542,14 +4298,14 @@
       "repo_url" : "https://github.com/railsware/upterm",
       "title" : "Upterm",
       "screenshots" : [
-        "https://raw.githubusercontent.com/railsware/upterm/master/README/main.png",
-        "https://raw.githubusercontent.com/railsware/upterm/master/README/npm_autocompletion.png",
-        "https://raw.githubusercontent.com/railsware/upterm/master/README/error.png",
         "https://raw.githubusercontent.com/railsware/upterm/master/README/top_autocompletion.png",
-        "https://raw.githubusercontent.com/railsware/upterm/master/README/json_prettyfier.png",
-        "https://raw.githubusercontent.com/railsware/upterm/master/README/vim.png",
+        "https://raw.githubusercontent.com/railsware/upterm/master/README/error.png",
         "https://raw.githubusercontent.com/railsware/upterm/master/README/emacs.png",
         "https://raw.githubusercontent.com/railsware/upterm/master/README/htop.png",
+        "https://raw.githubusercontent.com/railsware/upterm/master/README/main.png",
+        "https://raw.githubusercontent.com/railsware/upterm/master/README/npm_autocompletion.png",
+        "https://raw.githubusercontent.com/railsware/upterm/master/README/json_prettyfier.png",
+        "https://raw.githubusercontent.com/railsware/upterm/master/README/vim.png",
         "https://raw.githubusercontent.com/railsware/upterm/master/README/cd.png"
       ],
       "short_description" : "A terminal emulator for the 21st century (formerly Black Screen). ",
@@ -4577,8 +4333,8 @@
         "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/plugging%20in.gif",
         "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/phonerecording.gif",
         "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/installapk.gif",
-        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/dualscreenshot.gif",
-        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/scriptsfolder.gif"
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/scriptsfolder.gif",
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/dualscreenshot.gif"
       ],
       "short_description" : "One-click screenshots, video recordings, app installation for iOS and Android ",
       "languages" : [
@@ -4651,9 +4407,9 @@
       "title" : "Crypter",
       "screenshots" : [
         "https://raw.githubusercontent.com/HR/Crypter/master//.github/Welcome_screen.png",
+        "https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png",
         "https://raw.githubusercontent.com/HR/Crypter/master//.github/Crypter_main_screen.png",
-        "https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png",
-        "https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png"
+        "https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png"
       ],
       "short_description" : "Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ",
       "languages" : [
@@ -4751,9 +4507,9 @@
       "repo_url" : "https://github.com/wvdk/Life-Calendar",
       "title" : "Life-Calendar",
       "screenshots" : [
+        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%203.png",
         "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%201.png",
-        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png",
-        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%203.png"
+        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png"
       ],
       "short_description" : "Life Calendar. ",
       "languages" : [
@@ -4861,10 +4617,10 @@
       "repo_url" : "https://github.com/sidneys/pb-for-desktop",
       "title" : "PB for Desktop",
       "screenshots" : [
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-linux.png",
         "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/graphics/icon.png",
         "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-macos.png",
-        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-win32.png",
-        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-linux.png"
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-win32.png"
       ],
       "short_description" : "Receive native push notifications on macOS, Windows and Linux. ",
       "languages" : [
@@ -5179,9 +4935,9 @@
       "repo_url" : "https://github.com/webtorrent/webtorrent-desktop",
       "title" : "WebTorrent Desktop",
       "screenshots" : [
-        "https://webtorrent.io/img/WebTorrent.png",
+        "https://webtorrent.io/img/screenshot-main.png",
         "https://webtorrent.io/img/screenshot-player3.png",
-        "https://webtorrent.io/img/screenshot-main.png"
+        "https://webtorrent.io/img/WebTorrent.png"
       ],
       "short_description" : "Streaming torrent app. For Mac, Windows, and Linux. ",
       "languages" : [
@@ -5229,8 +4985,8 @@
       "repo_url" : "https://github.com/lettier/movie-monad",
       "title" : "Movie Monad",
       "screenshots" : [
-        "https://i.imgur.com/gdsyIMv.png",
-        "https://i.imgur.com/r1btBMF.gif"
+        "https://i.imgur.com/r1btBMF.gif",
+        "https://i.imgur.com/gdsyIMv.png"
       ],
       "short_description" : "Desktop video player built with Haskell that uses GStreamer and GTK+. ",
       "languages" : [
@@ -5314,9 +5070,9 @@
       "repo_url" : "https://github.com/NghiaTranUIT/artify-macos",
       "title" : "Artify",
       "screenshots" : [
+        "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/the-starry-night.jpg",
         "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/logo.png",
         "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/red-vineyards-at-arles-1888.jpg",
-        "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/the-starry-night.jpg",
         "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/1440_900_the_wanderer_above_the_sea_of_fog.jpg"
       ],
       "short_description" : "A macOS application for bringing dedicatedly 18th century Arts to everyone ",
@@ -5438,9 +5194,9 @@
       "repo_url" : "https://github.com/ianyh/Amethyst",
       "title" : "Amethyst",
       "screenshots" : [
-        "http://ianyh.com/amethyst/images/windows.png",
+        "http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png",
         "http://ianyh.com/amethyst/images/accessibility-window.png",
-        "http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png"
+        "http://ianyh.com/amethyst/images/windows.png"
       ],
       "short_description" : "Automatic tiling window manager for macOS. ",
       "languages" : [
@@ -5452,8 +5208,8 @@
       "repo_url" : "https://github.com/sdegutis/AppGrid",
       "title" : "AppGrid",
       "screenshots" : [
-        "https://raw.githubusercontent.com/sdegutis/AppGrid/master/sshot.png",
-        "https://raw.githubusercontent.com/sdegutis/AppGrid/master/grid.gif"
+        "https://raw.githubusercontent.com/sdegutis/AppGrid/master/grid.gif",
+        "https://raw.githubusercontent.com/sdegutis/AppGrid/master/sshot.png"
       ],
       "short_description" : "Grid-based keyboard window manager for macOS. ",
       "languages" : [
