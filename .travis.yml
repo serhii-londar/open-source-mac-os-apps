@@ -11,6 +11,7 @@ script:
   - danger
 after_success:
   - swift ./.github/ReadmeGenerator.swift
+  - chmod +x ./.github/deploy.sh
   - ./.github/deploy.sh
 notifications:
   email: false
