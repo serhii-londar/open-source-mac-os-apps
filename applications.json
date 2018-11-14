@@ -14,9 +14,73 @@
         "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png",
         "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png"
       ],
-      "short_description" : "Application which hosts AudioUnits v3 using AVFoundation API.",
+      "short_description" : "Application which hosts AudioUnits v3 using AVFoundation API. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "audio"
+    },
+    {
+      "repo_url" : "https://github.com/maculateConception/aural-player",
+      "title" : "Aural Player",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif",
+        "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif"
+      ],
+      "short_description" : "Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "audio"
+    },
+    {
+      "repo_url" : "https://github.com/kyleneideck/BackgroundMusic",
+      "title" : "Background Music",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png",
+        "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png",
+        "https://raw.githubusercontent.com/kyleneideck/BackgroundMusic/master/Images/README/Screenshot.png"
+      ],
+      "short_description" : "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ",
+      "languages" : [
+        "cpp_icon"
       ],
       "category" : "audio"
     },
@@ -37,7 +101,7 @@
         "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png",
         "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png"
       ],
-      "short_description" : "macOS camera recording using ffmpeg",
+      "short_description" : "macOS camera recording using ffmpeg ",
       "languages" : [
         "javascript_icon"
       ],
@@ -54,7 +118,21 @@
         "https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg",
         "https://user-images.githubusercontent.com/8472525/29003031-13d1cd60-7aa7-11e7-9868-6afc36a34b52.jpg"
       ],
-      "short_description" : "System-Wide Equalizer for the Mac.",
+      "short_description" : "System-Wide Equalizer for the Mac. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "audio"
+    },
+    {
+      "repo_url" : "https://github.com/enzo1982/freac",
+      "title" : "fre:ac",
+      "screenshots" : [
+        "https://freac.org/images/freac-ubuntu.png",
+        "https://freac.org/images/freac-ubuntu.png",
+        "https://freac.org/images/freac-ubuntu.png"
+      ],
+      "short_description" : "The fre:ac audio converter project. ",
       "languages" : [
         "cpp_icon"
       ],
@@ -77,9 +155,23 @@
         "https://i.imgur.com/SJ5RgM5.png",
         "https://i.imgur.com/SJ5RgM5.png"
       ],
-      "short_description" : "jmc is new macOS media organizer.",
+      "short_description" : "jmc is new macOS media organizer. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "audio"
+    },
+    {
+      "repo_url" : "https://github.com/alberti42/iTunes-Volume-Control",
+      "title" : "iTunes-Volume-Control",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png",
+        "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png",
+        "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png"
+      ],
+      "short_description" : "This app allows you to control the iTunes volume using volume up and volume down hotkeys. ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "audio"
     },
@@ -91,7 +183,7 @@
         "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg",
         "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg"
       ],
-      "short_description" : "LocalRadio is software for listening to \"Software-Defined Radio\" on your Mac and mobile devices.",
+      "short_description" : "LocalRadio is software for listening to \"Software-Defined Radio\" on your Mac and mobile devices. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -111,7 +203,7 @@
         "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg",
         "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.23.34%20AM.jpg"
       ],
-      "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing.",
+      "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing. ![swift_icon] ",
       "languages" : [
         "swift_icon",
         "objective_c_icon"
@@ -135,9 +227,35 @@
         "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif",
         "https://raw.githubusercontent.com/ddddxxx/LyricsX/master/docs/img/desktop_lyrics.gif"
       ],
-      "short_description" : "Lyrics for iTunes, Spotify and Vox.",
+      "short_description" : "Lyrics for iTunes, Spotify and Vox. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "audio"
+    },
+    {
+      "repo_url" : "https://github.com/bsdelf/mous",
+      "title" : "Mous Player",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-play.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/ncurses-explorer.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt-conv.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png",
+        "https://raw.githubusercontent.com/bsdelf/mous/master/screenshot/qt5-macos.png"
+      ],
+      "short_description" : "Simple yet powerful audio player for BSD/Linux/macOS. ",
+      "languages" : [
+        "cpp_icon"
       ],
       "category" : "audio"
     },
@@ -149,7 +267,7 @@
         "https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png",
         "https://raw.githubusercontent.com/xzzz9097/Muse/master/Screenshots/Window2.png"
       ],
-      "short_description" : "Spotify controller with TouchBar support.",
+      "short_description" : "Spotify controller with TouchBar support. ",
       "languages" : [
         "swift_icon"
       ],
@@ -166,7 +284,7 @@
         "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg",
         "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg"
       ],
-      "short_description" : "SBPlayer is a beautiful and powerful media player base on VLCKit.",
+      "short_description" : "SBPlayer is a beautiful and powerful media player base on VLCKit. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -180,7 +298,7 @@
         "https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png",
         "https://cloud.githubusercontent.com/assets/1932338/10404677/7d1ffe58-6ed4-11e5-99d0-c29480a0bfda.png"
       ],
-      "short_description" : "Scrobble vinyl, radios, movies to Last.fm.",
+      "short_description" : "Scrobble vinyl, radios, movies to Last.fm. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -194,7 +312,7 @@
         "https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png",
         "https://raw.githubusercontent.com/sonoramac/Sonora/master/screenshot.png"
       ],
-      "short_description" : "Minimal, beautifully designed music player for macOS.",
+      "short_description" : "Minimal, beautifully designed music player for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -206,7 +324,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Spotify and iTunes in your menu bar.",
+      "short_description" : "Spotify and iTunes in your menu bar. ![swift_icon] ",
       "languages" : [
         "swift_icon",
         "objective_c_icon"
@@ -219,7 +337,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Spotify mini-player for macOS.",
+      "short_description" : "Spotify mini-player for macOS. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -233,7 +351,7 @@
         "https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png",
         "https://raw.githubusercontent.com/Sunnyyoung/Suohai/master/Screenshot/0x01.png"
       ],
-      "short_description" : "Audio input/output source lock for macOS.",
+      "short_description" : "Audio input/output source lock for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -253,7 +371,7 @@
         "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png",
         "https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/video_thumb.png"
       ],
-      "short_description" : "Instant audio feedback for typing. macOS version.",
+      "short_description" : "Instant audio feedback for typing. macOS version. ",
       "languages" : [
         "rust_icon"
       ],
@@ -261,13 +379,13 @@
     },
     {
       "repo_url" : "https://github.com/CocoaHeadsBrasil/MuteUnmuteMic",
-      "title" : "UnmuteMic",
+      "title" : "[Un]MuteMic",
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif",
         "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif",
         "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif"
       ],
-      "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.",
+      "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![c_icon] ",
       "languages" : [
         "c_icon",
         "objective_c_icon"
@@ -282,7 +400,7 @@
         "https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png",
         "https://raw.githubusercontent.com/getoffmyhack/waveSDR/master/screenshot.png"
       ],
-      "short_description" : "macOS native desktop Software Defined Radio application using the RTL-SDR USB device.",
+      "short_description" : "macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ",
       "languages" : [
         "swift_icon"
       ],
@@ -294,7 +412,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Keep your application settings in sync (macOS/Linux).",
+      "short_description" : "Keep your application settings in sync (macOS/Linux). ",
+      "languages" : [
+        "python_icon"
+      ],
+      "category" : "backup"
+    },
+    {
+      "repo_url" : "https://github.com/alichtman/shallow-backup",
+      "title" : "shallow-backup",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif",
+        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif",
+        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif"
+      ],
+      "short_description" : "Easily create lightweight documentation of installed applications, dotfiles, and more. ",
       "languages" : [
         "python_icon"
       ],
@@ -306,7 +438,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "UrBackup is Client/Server network backup for Windows, macOS and Linux.",
+      "short_description" : "UrBackup is Client/Server network backup for Windows, macOS and Linux. ![c_icon] ",
       "languages" : [
         "c_icon",
         "cpp_icon"
@@ -314,12 +446,37 @@
       "category" : "backup"
     },
     {
+      "repo_url" : "https://github.com/beakerbrowser/beaker",
+      "title" : "Beaker Browser",
+      "screenshots" : [
+        "http://nerdist.com/wp-content/uploads/2016/05/the-mad-king-game-of-thrones.jpg",
+        "https://raw.githubusercontent.com/beakerbrowser/beaker/master/build/icons/256x256.png"
+      ],
+      "short_description" : "Beaker is an experimental peer-to-peer Web browser.  ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "browser"
+    },
+    {
+      "repo_url" : "https://github.com/brave/browser-laptop",
+      "title" : "Brave Browser",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "browser"
+    },
+    {
       "repo_url" : "https://github.com/will-stone/browserosaurus",
       "title" : "browserosaurus",
       "screenshots" : [
 
       ],
-      "short_description" : "macOS tool that prompts you to choose a browser when opening a link.",
+      "short_description" : "macOS tool that prompts you to choose a browser when opening a link. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -333,7 +490,7 @@
         "http://heliumfloats.com/screenshot.png",
         "http://heliumfloats.com/screenshot.png"
       ],
-      "short_description" : "Floating browser window for macOS.",
+      "short_description" : "Floating browser window for macOS. ![swift_icon] ",
       "languages" : [
         "swift_icon",
         "objective_c_icon"
@@ -346,11 +503,71 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Always opens the right browser.",
+      "short_description" : "Always opens the right browser. ",
       "languages" : [
         "swift_icon"
       ],
       "category" : "browser"
+    },
+    {
+      "repo_url" : "https://github.com/kaktus/kaktus",
+      "title" : "Kaktus Browser",
+      "screenshots" : [
+        "https://cldup.com/6jOWAjYdpo.png",
+        "https://cldup.com/6jOWAjYdpo.png",
+        "https://cldup.com/6jOWAjYdpo.png",
+        "https://cldup.com/wDadS2XGrb.gif",
+        "https://cldup.com/wDadS2XGrb.gif",
+        "https://cldup.com/wDadS2XGrb.gif",
+        "https://cldup.com/qsYAu0F-ja.png",
+        "https://cldup.com/qsYAu0F-ja.png",
+        "https://cldup.com/qsYAu0F-ja.png"
+      ],
+      "short_description" : "Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "browser"
+    },
+    {
+      "repo_url" : "https://github.com/OtterBrowser/otter-browser",
+      "title" : "otter-browser",
+      "screenshots" : [
+        "https://otter-browser.org/screenshots/1.png",
+        "https://otter-browser.org/screenshots/1.png",
+        "https://otter-browser.org/screenshots/1.png"
+      ],
+      "short_description" : "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "browser"
+    },
+    {
+      "repo_url" : "https://github.com/SafeExamBrowser/seb-mac",
+      "title" : "seb-mac",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Safe Exam Browser for macOS and iOS. ",
+      "languages" : [
+        "c_icon"
+      ],
+      "category" : "browser"
+    },
+    {
+      "repo_url" : "https://github.com/jake-101/android-messenger-mac",
+      "title" : "Android Messenger Mac",
+      "screenshots" : [
+        "https://i.imgur.com/GQiLntX.jpg",
+        "https://i.imgur.com/GQiLntX.jpg",
+        "https://i.imgur.com/GQiLntX.jpg"
+      ],
+      "short_description" : " Mac app wrapper around Google's stand-alone Android Messenger. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "chat"
     },
     {
       "repo_url" : "https://github.com/stonesam92/ChitChat",
@@ -360,9 +577,23 @@
         "http://i.imgur.com/riXrTvx.jpg",
         "http://i.imgur.com/riXrTvx.jpg"
       ],
-      "short_description" : "Native Mac app wrapper for WhatsApp Web.",
+      "short_description" : "Native Mac app wrapper for WhatsApp Web. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/geeeeeeeeek/electronic-wechat",
+      "title" : "Electronic WeChat",
+      "screenshots" : [
+        "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png",
+        "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png",
+        "https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png"
+      ],
+      "short_description" : "Better WeChat on macOS and Linux. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "chat"
     },
@@ -374,7 +605,21 @@
         "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png",
         "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png"
       ],
-      "short_description" : "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more.",
+      "short_description" : "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/kelyvin/Google-Allo-For-Desktop",
+      "title" : "Google Allo for Desktop",
+      "screenshots" : [
+        "http://i.imgur.com/5g1VU3S.png",
+        "http://i.imgur.com/5g1VU3S.png",
+        "http://i.imgur.com/5g1VU3S.png"
+      ],
+      "short_description" : "Native macOS & Windows desktop app for Google Allo. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -388,10 +633,22 @@
         "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png",
         "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png"
       ],
-      "short_description" : "Unofficial GroupMe App.",
+      "short_description" : "Unofficial GroupMe App. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/vector-im/riot-web",
+      "title" : "Riot.im",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "chat"
     },
@@ -403,9 +660,21 @@
         "https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png",
         "https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png"
       ],
-      "short_description" : "A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.",
+      "short_description" : "A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/signalapp/Signal-Desktop",
+      "title" : "Signal Desktop",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Electron app that links with your Signal Android or Signal iOS app. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "chat"
     },
@@ -415,7 +684,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Source code of Telegram for macOS on Swift.",
+      "short_description" : "Source code of Telegram for macOS on Swift. ",
       "languages" : [
         "swift_icon"
       ],
@@ -423,13 +692,27 @@
     },
     {
       "repo_url" : "https://github.com/overtake/telegram",
-      "title" : "Telegram(Deprecated)",
+      "title" : "Telegram [Deprecated]",
       "screenshots" : [
 
       ],
-      "short_description" : "Source code of deprecated Telegram for macOS version.",
+      "short_description" : "Source code of deprecated Telegram for macOS version. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/telegramdesktop/tdesktop",
+      "title" : "Telegram Desktop",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png",
+        "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png",
+        "https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png"
+      ],
+      "short_description" : "Telegram Desktop messaging app. ",
+      "languages" : [
+        "cpp_icon"
       ],
       "category" : "chat"
     },
@@ -450,7 +733,19 @@
         "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png",
         "https://www.codeux.com/textual/private/images/v600media/YosemiteDarkFullscreen.png"
       ],
-      "short_description" : "Textual is an IRC client for macOS.",
+      "short_description" : "Textual is an IRC client for macOS. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/javerous/TorChat-Mac",
+      "title" : "Torchat-Mac",
+      "screenshots" : [
+
+      ],
+      "short_description" : "TorChat for Mac is a macOS native and unofficial port of torchat. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -470,9 +765,21 @@
         "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif",
         "https://raw.githubusercontent.com/aldychris/WhatsAppBar/master/Resource/WhatsAppBarGif.gif"
       ],
-      "short_description" : "Send WhatsApp message from menu bar.",
+      "short_description" : "Send WhatsApp message from menu bar. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "chat"
+    },
+    {
+      "repo_url" : "https://github.com/wireapp/wire-desktop",
+      "title" : "Wire Desktop",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Standalone Electron app for the chatapp Wire. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "chat"
     },
@@ -487,7 +794,21 @@
         "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png",
         "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png"
       ],
-      "short_description" : "macOS app to safely generate cryptocurrency address.",
+      "short_description" : "macOS app to safely generate cryptocurrency address. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "cryptocurrency"
+    },
+    {
+      "repo_url" : "https://github.com/balance-io/balance-open",
+      "title" : "Balance Open",
+      "screenshots" : [
+        "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png",
+        "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png",
+        "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png"
+      ],
+      "short_description" : "App for all the world’s currencies. ",
       "languages" : [
         "swift_icon"
       ],
@@ -510,7 +831,35 @@
         "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png",
         "https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png"
       ],
-      "short_description" : "macOS menu bar application for tracking crypto coin prices.",
+      "short_description" : "macOS menu bar application for tracking crypto coin prices. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "cryptocurrency"
+    },
+    {
+      "repo_url" : "https://github.com/geraldoramos/crypto-bar",
+      "title" : "Crypto Bar",
+      "screenshots" : [
+        "https://s3.amazonaws.com/cryptobar/newgif.gif",
+        "https://s3.amazonaws.com/cryptobar/newgif.gif",
+        "https://s3.amazonaws.com/cryptobar/newgif.gif"
+      ],
+      "short_description" : "macOS menu bar application built with Electron. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "cryptocurrency"
+    },
+    {
+      "repo_url" : "https://github.com/kaunteya/FloatCoin",
+      "title" : "Float coin",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png",
+        "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png",
+        "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png"
+      ],
+      "short_description" : "Native menu bar app with floating window and support for many Exchanges. ",
       "languages" : [
         "swift_icon"
       ],
@@ -533,9 +882,35 @@
         "https://dbeaver.io/product/dbeaver-ss-dark.png",
         "https://dbeaver.io/product/dbeaver-ss-dark.png"
       ],
-      "short_description" : "Universal database tool and SQL client.",
+      "short_description" : "Universal database tool and SQL client. ",
       "languages" : [
         "java_icon"
+      ],
+      "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/sqlitebrowser/sqlitebrowser",
+      "title" : "DB Browser for SQLite",
+      "screenshots" : [
+
+      ],
+      "short_description" : "SQLite database management GUI. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/gcollazo/mongodbapp",
+      "title" : "mongoDB.app",
+      "screenshots" : [
+        "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png",
+        "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png",
+        "https://gcollazo.github.io/mongodbapp/assets/img/screenshot.png"
+      ],
+      "short_description" : "The easiest way to get started with mongoDB on the Mac. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "database"
     },
@@ -553,9 +928,52 @@
         "https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png",
         "https://user-images.githubusercontent.com/26019/41055417-dc8eb56a-69f3-11e8-8145-6f0d5eb147a6.png"
       ],
-      "short_description" : "PostgreSQL GUI client for macOS.",
+      "short_description" : "PostgreSQL GUI client for macOS. ",
       "languages" : [
         "javascript_icon"
+      ],
+      "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/PostgresApp/PostgresApp",
+      "title" : "Postgres.app",
+      "screenshots" : [
+
+      ],
+      "short_description" : "The easiest way to get started with PostgreSQL on the Mac. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/jpadilla/redisapp",
+      "title" : "Redis.app",
+      "screenshots" : [
+        "https://jpadilla.github.io/redisapp/assets/img/screenshot.png",
+        "https://jpadilla.github.io/redisapp/assets/img/screenshot.png",
+        "https://jpadilla.github.io/redisapp/assets/img/screenshot.png"
+      ],
+      "short_description" : "The easiest way to get started with Redis on the Mac. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/sequelpro/sequelpro",
+      "title" : "Sequel Pro",
+      "screenshots" : [
+        "https://sequelpro.com/images/logo.png",
+        "https://sequelpro.com/images/logo.png",
+        "https://sequelpro.com/images/logo.png",
+        "https://sequelpro.com/images/browse.png",
+        "https://sequelpro.com/images/browse.png",
+        "https://sequelpro.com/images/browse.png"
+      ],
+      "short_description" : "MySQL/MariaDB database management for macOS.  ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "database"
     },
@@ -565,12 +983,12 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cashew macOS Github Issue Tracker.",
+      "short_description" : "Cashew macOS Github Issue Tracker. ![c_icon] ![objective_c_icon] ",
       "languages" : [
         "c_icon",
         "objective_c_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/Nightonke/Gitee",
@@ -619,12 +1037,40 @@
         "https://img.shields.io/badge/Developer-Nightonke-red.svg",
         "https://img.shields.io/badge/Developer-Nightonke-red.svg"
       ],
-      "short_description" : "Gitee, macOS status bar application for Github.",
+      "short_description" : "Gitee, macOS status bar application for Github. ![swift_icon] ",
       "languages" : [
         "swift_icon",
         "objective_c_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
+    },
+    {
+      "repo_url" : "https://github.com/remirobert/Github-contributions",
+      "title" : "Github contributions",
+      "screenshots" : [
+        "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png",
+        "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png",
+        "https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png"
+      ],
+      "short_description" : "GitHub contributions app, for iOS, WatchOS, and macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "git"
+    },
+    {
+      "repo_url" : "https://github.com/desktop/desktop",
+      "title" : "GitHub Desktop",
+      "screenshots" : [
+        "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png",
+        "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png",
+        "https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png"
+      ],
+      "short_description" : "Simple collaboration from your desktop. ",
+      "languages" : [
+        "type_script_icon"
+      ],
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/ad/GithubListener",
@@ -634,11 +1080,11 @@
         "https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png",
         "https://raw.githubusercontent.com/ad/GithubListener/master/notifyexample.png"
       ],
-      "short_description" : "Simple app that will notify about new commits to watched repositories.",
+      "short_description" : "Simple app that will notify about new commits to watched repositories. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/erik/github-notify",
@@ -646,11 +1092,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Simple macOS app to alert you when you have unread GitHub notifications.",
+      "short_description" : "Simple macOS app to alert you when you have unread GitHub notifications. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/eonist/GitSync",
@@ -658,11 +1104,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/stylekit/img/master/Element210-01.png"
       ],
-      "short_description" : "Minimalistic Git client for Mac.",
+      "short_description" : "Minimalistic Git client for Mac. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/git-up/GitUp",
@@ -684,11 +1130,11 @@
         "http://i.imgur.com/6cuPcT4.png",
         "http://i.imgur.com/6cuPcT4.png"
       ],
-      "short_description" : "The Git interface you've been missing all your life has finally arrived.",
+      "short_description" : "The Git interface you've been missing all your life has finally arrived. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/gitx/gitx",
@@ -696,11 +1142,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Graphical client for the git version control system.",
+      "short_description" : "Graphical client for the git version control system. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/mtgto/GPM",
@@ -708,11 +1154,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS application for easily operating GitHub Projects.",
+      "short_description" : "macOS application for easily operating GitHub Projects. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/glaurent/MessagesHistoryBrowser",
@@ -720,11 +1166,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS application to comfortably browse and search through your Messages.app history.",
+      "short_description" : "macOS application to comfortably browse and search through your Messages.app history. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/jamieweavis/streaker",
@@ -737,11 +1183,25 @@
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png",
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png"
       ],
-      "short_description" : "GitHub contribution streak tracking menubar app.",
+      "short_description" : "GitHub contribution streak tracking menubar app. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
+    },
+    {
+      "repo_url" : "https://github.com/marcinreliga/TeamStatus-for-GitHub",
+      "title" : "TeamStatus-for-GitHub",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png",
+        "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png",
+        "https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png"
+      ],
+      "short_description" : "macOS status bar application for tracking code review process within the team. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/ptsochantaris/trailer",
@@ -749,11 +1209,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Managing Pull Requests and Issues For GitHub & GitHub Enterprise.",
+      "short_description" : "Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/Uncommon/Xit",
@@ -763,11 +1223,11 @@
         "https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png",
         "https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png"
       ],
-      "short_description" : "Xit is a graphical tool for working with git repositories.",
+      "short_description" : "Xit is a graphical tool for working with git repositories. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "git-development"
+      "category" : "git"
     },
     {
       "repo_url" : "https://github.com/alexlee002/alloy",
@@ -775,11 +1235,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Simple toolkit that makes your ios-macos-development apps development more easier.",
+      "short_description" : "Simple toolkit that makes your iOS / macOS apps development more easier. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation",
@@ -787,11 +1247,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.",
+      "short_description" : "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/kuyawa/AppIcons",
@@ -799,24 +1259,23 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/kuyawa/Gallery/master/AppIcons/appicons.png"
       ],
-      "short_description" : "Tool for generating icons in all sizes as required by macOS and iOS apps.",
+      "short_description" : "Tool for generating icons in all sizes as required by macOS and iOS apps. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/everettjf/AppleTrace",
       "title" : "AppleTrace",
       "screenshots" : [
-        "https://everettjf.github.io/stuff/appletrace/appletrace.gif",
-        "https://everettjf.github.io/images/fun.jpg"
+
       ],
-      "short_description" : "Trace tool for iOS/macOS.",
+      "short_description" : "Trace tool for iOS/macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/arbel03/AppStoreReviewTimes",
@@ -825,11 +1284,26 @@
         "https://i.imgur.com/Y0jr8lF.png",
         "https://i.imgur.com/rwBYris.png"
       ],
-      "short_description" : "Gives you indication about the average ios-macos-development app stores review times.",
+      "short_description" : "Gives you indication about the average iOS / macOS app stores review times. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/insidegui/AssetCatalogTinkerer",
+      "title" : "Asset Catalog Tinkerer",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot.png",
+        "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot_themestore.png",
+        "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/./quicklook_thumb.png"
+      ],
+      "short_description" : "App that lets you open .car files and browse/extract their images. ![objective_c_icon] ",
+      "languages" : [
+        "objective_c_icon",
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/athiercelin/Assets",
@@ -837,11 +1311,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Assets is a macOS app that manages assets for your development projects (Xcode, web, etc).",
+      "short_description" : "Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/attaswift/Attabench",
@@ -852,11 +1326,37 @@
         "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png",
         "https://raw.githubusercontent.com/attaswift/Attabench/master/Images/SampleBenchmark.png"
       ],
-      "short_description" : "Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.",
+      "short_description" : "Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/angelvasa/AVXCAssets-Generator",
+      "title" : "AVXCAssets Generator",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Takes path for your assets images and creates appiconset and imageset for you in just one click. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/JustinFincher/BoardForGitHub",
+      "title" : "Board For GitHub",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/Banner.jpg",
+        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/1.jpg",
+        "https://raw.githubusercontent.com/JustinFincher/BoardForGitHub/master/DemoImgs/2.jpg"
+      ],
+      "short_description" : "Small application to monitor your GitHub project web page in a native macOS app :octocat:! ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/br1sk/brisk",
@@ -865,11 +1365,39 @@
         "https://raw.githubusercontent.com/br1sk/brisk/master/.github/screenshot.png",
         "https://raw.githubusercontent.com/br1sk/brisk/master/.github/AppIcon.png"
       ],
-      "short_description" : "macOS app for submitting radars.",
+      "short_description" : "macOS app for submitting radars. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/xing/calabash-launcher",
+      "title" : "calabash-launcher",
+      "screenshots" : [
+        "https://user-images.githubusercontent.com/4619244/32549703-b6356bfc-c48a-11e7-92f0-1e24a985f0dd.png",
+        "https://user-images.githubusercontent.com/18147900/32609402-e9b05aa2-c55f-11e7-99d6-c2c1b5b8195d.png",
+        "https://user-images.githubusercontent.com/18147900/34467506-8ca05b50-eef4-11e7-9ca0-1373ba7ddd19.png",
+        "https://user-images.githubusercontent.com/18147900/32694248-d8c2d7c8-c73b-11e7-8803-81590d61fbf9.png",
+        "https://user-images.githubusercontent.com/18147900/32503133-c04ee05e-c3dc-11e7-8394-3c0eb5b0105b.gif"
+      ],
+      "short_description" : "iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/waylybaye/XcodeCleaner",
+      "title" : "Cleaner for Xcode",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Cleaner for Xcode.app built with react-native-macOS. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/mmattozzi/cocoa-rest-client",
@@ -881,11 +1409,11 @@
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-2.png",
         "https://mmattozzi.github.io/cocoa-rest-client/screenshots/screenshot-6.png"
       ],
-      "short_description" : "Native Apple macOS app for testing HTTP/REST endpoints.",
+      "short_description" : "Native Apple macOS app for testing HTTP/REST endpoints. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/KrisYu/FilterShop",
@@ -893,11 +1421,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/KrisYu/FilterShop/master/showcase.png"
       ],
-      "short_description" : "macOS App to explore CoreImage Filters.",
+      "short_description" : "macOS App to explore CoreImage Filters. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/onmyway133/IconGenerator",
@@ -906,11 +1434,11 @@
         "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/banner.png",
         "https://raw.githubusercontent.com/onmyway133/IconGenerator/master/Screenshots/gif.gif"
       ],
-      "short_description" : "macOS app to generate app icons.",
+      "short_description" : "macOS app to generate app icons. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/raphaelhanneken/iconizer",
@@ -918,37 +1446,61 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/raphaelhanneken/iconizer/master/screenshot.png"
       ],
-      "short_description" : "Create Xcode image catalogs (xcassets) on the fly.",
+      "short_description" : "Create Xcode image catalogs (xcassets) on the fly. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/SAP/macos-icon-generator",
+      "title" : "Icons.app",
+      "screenshots" : [
+
+      ],
+      "short_description" : "App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/johnno1962/InjectionIII",
       "title" : "InjectionIII",
       "screenshots" : [
-        "https://courses.cs.washington.edu/courses/cse190m/10su/lectures/slides/images/drevil.png"
+
       ],
-      "short_description" : "overdue Swift rewrite of Injection.",
+      "short_description" : "overdue Swift rewrite of Injection. ![objective_c_icon] ",
       "languages" : [
         "objective_c_icon",
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/devcxm/iOS-Images-Extractor",
+      "title" : "iOS Images Extractor",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/devcxm/iOS-Images-Extractor/master/iOSImagesExtractor/iOSImagesExtractor/Images.xcassets/AppIcon.appiconset/AppIcon-256.png",
+        "https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif"
+      ],
+      "short_description" : "iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/wigl/iSimulator",
       "title" : "iSimulator",
       "screenshots" : [
-        "https://raw.githubusercontent.com/wigl/iSimulator/master/preview/app.jpg",
-        "https://raw.githubusercontent.com/wigl/iSimulator/master/preview/share.jpg"
+
       ],
-      "short_description" : "iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.",
+      "short_description" : "iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/shaojiankui/iSimulator",
@@ -956,11 +1508,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/shaojiankui/iSimulator/master/demo.png"
       ],
-      "short_description" : "iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go.",
+      "short_description" : "iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/KnuffApp/Knuff",
@@ -968,11 +1520,11 @@
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/499192/12481271/36b610e0-c048-11e5-9be6-ee9e996036a2.png"
       ],
-      "short_description" : "The debug application for Apple Push Notification Service (APNs).",
+      "short_description" : "The debug application for Apple Push Notification Service (APNs). ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/yuhua-chen/LayerX",
@@ -980,11 +1532,23 @@
       "screenshots" : [
         "http://img.youtube.com/vi/35KixjZBDjY/0.jpg"
       ],
-      "short_description" : "Intuitive app to display transparent images on screen.",
+      "short_description" : "Intuitive app to display transparent images on screen. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/ralcr/Localizable.strings",
+      "title" : "Localizable.strings",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Mac app to localize your iOS and macOS projects. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/athiercelin/Localizations",
@@ -992,23 +1556,47 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Localizations is an macOS app that manages your Xcode project localization files (.strings).",
+      "short_description" : "Localizations is an macOS app that manages your Xcode project localization files (.strings). ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/igorkulman/iOSLocalizationEditor",
+      "title" : "Localization Editor",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/nvzqz/Menubar-Colors",
+      "title" : "Menubar Colors",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/nvzqz/Menubar-Colors/master/./Example.jpg"
+      ],
+      "short_description" : "macOS app for convenient access to the system color panel. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/toxblh/MTMR",
       "title" : "MyTouchbarMyRules",
       "screenshots" : [
-        "https://telegram.org/img/t_logo.png"
+
       ],
-      "short_description" : "App to customize your Touch Bar as you want.",
+      "short_description" : "App to customize your Touch Bar as you want. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/kizitonwose/PodsUpdater",
@@ -1017,11 +1605,11 @@
         "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_1.png",
         "https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_2.png"
       ],
-      "short_description" : "macOS app which helps you manage dependency releases in your Podfile.",
+      "short_description" : "macOS app which helps you manage dependency releases in your Podfile. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/shaojiankui/ProfilesManager",
@@ -1029,11 +1617,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/shaojiankui/ProfilesManager/master/demo.jpg"
       ],
-      "short_description" : "Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac.",
+      "short_description" : "Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/onmyway133/PushNotifications",
@@ -1049,11 +1637,11 @@
         "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/AndroidServerKey.png",
         "https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Android.png"
       ],
-      "short_description" : "macOS app to test push notifications on iOS and Android.",
+      "short_description" : "macOS app to test push notifications on iOS and Android. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/InjoyDeng/ResignTool",
@@ -1061,11 +1649,11 @@
       "screenshots" : [
         "https://i.imgur.com/H8kRoPf.png"
       ],
-      "short_description" : "This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
+      "short_description" : "This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/shaojiankui/SmartPush",
@@ -1073,11 +1661,35 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/shaojiankui/SmartPush/master/demo.png"
       ],
-      "short_description" : "iOS Push Notification Debug App.",
+      "short_description" : "iOS Push Notification Debug App. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/touchbar/Touch-Bar-Preview",
+      "title" : "Touch Bar Preview",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Small application to display your designs on the Touch Bar of the new MacBook Pro. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/sindresorhus/touch-bar-simulator",
+      "title" : "Touch Bar Simulator",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Use the Touch Bar on any Mac. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/iseebi/TransporterPad",
@@ -1085,37 +1697,51 @@
       "screenshots" : [
 
       ],
-      "short_description" : "iOS/Android app deployment tool for macOS.",
+      "short_description" : "iOS/Android app deployment tool for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/insidegui/WWDC",
       "title" : "WWDC",
       "screenshots" : [
-        "https://raw.githubusercontent.com/insidegui/WWDC/master/./screenshots/v5/Schedule.png",
-        "https://raw.githubusercontent.com/insidegui/WWDC/master/./screenshots/v5/Transcript.png",
-        "https://raw.githubusercontent.com/insidegui/WWDC/master/./screenshots/v5/Video-Bookmark.png"
+
       ],
-      "short_description" : "Unofficial WWDC app for macOS.",
+      "short_description" : "Unofficial WWDC app for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/ssamadgh/WWDCsrt",
+      "title" : "WWDC.srt",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./WWDCSubGetter/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png",
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session01.png",
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session02.png",
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/VideoLink.png",
+        "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/TextFile.png"
+      ],
+      "short_description" : "Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/novemberfiveco/xib2Storyboard",
       "title" : "xib2Storyboard",
       "screenshots" : [
-        "https://raw.githubusercontent.com/novemberfiveco/xib2Storyboard/master/Screenshots/screenshot-app.png"
+
       ],
-      "short_description" : "Tool to convert Xcode .xib to .storyboard files.",
+      "short_description" : "Tool to convert Xcode .xib to .storyboard files. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "ios-macos-development"
+      "category" : "ios--macos"
     },
     {
       "repo_url" : "https://github.com/zadr/j2s",
@@ -1123,11 +1749,23 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).",
+      "short_description" : "macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "json-parsing-development"
+      "category" : "json-parsing"
+    },
+    {
+      "repo_url" : "https://github.com/AppCraft-LLC/json-mapper",
+      "title" : "JSON Mapper",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Simple macOS app to generate Swift Object Mapper classes from JSON. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "json-parsing"
     },
     {
       "repo_url" : "https://github.com/Ahmed-Ali/JSONExport",
@@ -1135,11 +1773,47 @@
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/5157350/5228493/72693010-7713-11e4-9e42-625a8590424a.png"
       ],
-      "short_description" : "Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.",
+      "short_description" : "Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "json-parsing-development"
+      "category" : "json-parsing"
+    },
+    {
+      "repo_url" : "https://github.com/RafalWilinski/s3-uploader",
+      "title" : "aws-s3-uploader",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/RafalWilinski/s3-uploader/master//upload_anim.gif"
+      ],
+      "short_description" : "Simple macOS app for uploading files to Amazon Web Services. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "web-development"
+    },
+    {
+      "repo_url" : "https://github.com/TheNewNormal/corectl.app",
+      "title" : "Corectl App for macOS",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/TheNewNormal/corectl.app/master/corectl_app.png"
+      ],
+      "short_description" : "Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "web-development"
+    },
+    {
+      "repo_url" : "https://github.com/TheNewNormal/coreos-osx",
+      "title" : "CoreOS VM",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/TheNewNormal/coreos-osx/master/coreos-osx.png"
+      ],
+      "short_description" : "CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "web-development"
     },
     {
       "repo_url" : "https://github.com/getinsomnia/insomnia",
@@ -1147,7 +1821,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png"
       ],
-      "short_description" : "Insomnia is a cross-platform REST client, built on top of Electron.",
+      "short_description" : "Insomnia is a cross-platform REST client, built on top of Electron. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1159,7 +1833,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS app to let you access iTunesConnect.",
+      "short_description" : "macOS app to let you access iTunesConnect. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1171,7 +1845,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/DanSanche/KubeMonitor/master/./Screenshot.png"
       ],
-      "short_description" : "KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.",
+      "short_description" : "KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1183,7 +1857,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Dedicated Mac app for website auditing and crawling.",
+      "short_description" : "Dedicated Mac app for website auditing and crawling. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1195,9 +1869,22 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).",
+      "short_description" : "Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "web-development"
+    },
+    {
+      "repo_url" : "https://github.com/andypotts/mockup-generator",
+      "title" : "Mockup Generator",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png",
+        "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png"
+      ],
+      "short_description" : "Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "web-development"
     },
@@ -1207,7 +1894,7 @@
       "screenshots" : [
         "http://i.imgur.com/6KL3pt7.png"
       ],
-      "short_description" : "Npm desktop GUI.",
+      "short_description" : "Npm desktop GUI. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1219,9 +1906,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Evaluate Nodejs/JS code snippets from Menubar.",
+      "short_description" : "Evaluate Nodejs/JS code snippets from Menubar. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "web-development"
+    },
+    {
+      "repo_url" : "https://github.com/zeit/now-desktop",
+      "title" : "Now Desktop",
+      "screenshots" : [
+        "https://assets.zeit.co/image/upload/v1537714691/repositories/now-desktop/now-desktop-repo-banner.png"
+      ],
+      "short_description" : "Create deployments right from the tray menu. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "web-development"
     },
@@ -1231,11 +1930,35 @@
       "screenshots" : [
         "https://i.imgur.com/OAK3hR0.png"
       ],
-      "short_description" : "macOS app for monitoring the status of cloud services.",
+      "short_description" : "macOS app for monitoring the status of cloud services. ",
       "languages" : [
         "swift_icon"
       ],
       "category" : "web-development"
+    },
+    {
+      "repo_url" : "https://github.com/Yasumoto/ChefInspector",
+      "title" : "ChefInspector",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/Yasumoto/ChefInspector/master/screenshot.png"
+      ],
+      "short_description" : "Node and Attribute viewer for Chef ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "other-development"
+    },
+    {
+      "repo_url" : "https://github.com/dcsch/macho-browser",
+      "title" : "macho-browser",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Browser for macOS Mach-O binaries.  ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "other-development"
     },
     {
       "repo_url" : "https://github.com/ant4g0nist/vegvisir",
@@ -1251,11 +1974,35 @@
         "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png",
         "https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png"
       ],
-      "short_description" : "Browser based GUI for **LLDB** Debugger.",
+      "short_description" : "Browser based GUI for **LLDB** Debugger. ",
       "languages" : [
         "javascript_icon"
       ],
       "category" : "other-development"
+    },
+    {
+      "repo_url" : "https://github.com/yep/app-downloader",
+      "title" : "App Downloader",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Easily search and download macOS apps from the huge `homebrew cask` app catalog. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "downloader"
+    },
+    {
+      "repo_url" : "https://github.com/Kevin-De-Koninck/Get-It",
+      "title" : "Get It",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "downloader"
     },
     {
       "repo_url" : "https://github.com/Pjirlip/Pillager",
@@ -1264,10 +2011,47 @@
         "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/pillagerpreview.png",
         "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/useffmpeg.gif"
       ],
-      "short_description" : "macOS Video Downloader written in Swift and Objective-C.",
+      "short_description" : "macOS Video Downloader written in Swift and Objective-C ![swift_icon] ",
       "languages" : [
         "swift_icon",
         "objective_c_icon"
+      ],
+      "category" : "downloader"
+    },
+    {
+      "repo_url" : "https://github.com/FaisalUmair/udemy-downloader-gui",
+      "title" : "udemy-downloader-gui",
+      "screenshots" : [
+
+      ],
+      "short_description" : "desktop application for downloading Udemy Courses. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "downloader"
+    },
+    {
+      "repo_url" : "https://github.com/onmyway133/YoutubeDownloader",
+      "title" : "Youtube Downloader",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png",
+        "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png"
+      ],
+      "short_description" : "macOS app to download Youtube videos. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "downloader"
+    },
+    {
+      "repo_url" : "https://github.com/DenBeke/YouTube-Downloader-for-macOS",
+      "title" : "YouTube Downloader for macOS",
+      "screenshots" : [
+        "https://denbeke.be/blog/wp-content/uploads/2017/11/Youtube-downloader-macOS-Swift.gif"
+      ],
+      "short_description" : "Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "downloader"
     },
@@ -1277,23 +2061,24 @@
       "screenshots" : [
 
       ],
-      "short_description" : "simple CSV editor for the macOS.",
+      "short_description" : "simple CSV editor for the macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "csv-editors"
+      "category" : "csv"
     },
     {
       "repo_url" : "https://github.com/wellsjo/JSON-Splora",
       "title" : "JSON-Splora",
       "screenshots" : [
-
+        "https://raw.githubusercontent.com/wellsjo/JSON-Splora/master/app/assets/logos/logo.png",
+        "http://i.imgur.com/CiXIrrg.gif"
       ],
-      "short_description" : "GUI for editing, visualizing, and manipulating JSON data.",
+      "short_description" : "GUI for editing, visualizing, and manipulating JSON data. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "json-editors"
+      "category" : "json"
     },
     {
       "repo_url" : "https://github.com/gingko/client",
@@ -1301,11 +2086,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/gingko/client/master/./docs/images/screenshot-alien-screenplay.png"
       ],
-      "short_description" : "Tree-structured markdown editor for macOS, Windows, and Linux.",
+      "short_description" : "Tree-structured markdown editor for macOS, Windows, and Linux. ",
       "languages" : [
         "elm_icon"
       ],
-      "category" : "markdown-editors"
+      "category" : "markdown"
     },
     {
       "repo_url" : "https://github.com/MacDownApp/macdown",
@@ -1313,23 +2098,23 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Markdown editor for macOS.",
+      "short_description" : "Markdown editor for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "markdown-editors"
+      "category" : "markdown"
     },
     {
-      "repo_url" : "https://github.com/marktext/marktext",
+      "repo_url" : "https://github.com/marktext/marktext/",
       "title" : "Mark Text",
       "screenshots" : [
 
       ],
-      "short_description" : "Realtime preview markdown editor for macOS Windows and Linux.",
+      "short_description" : "Realtime preview markdown editor for macOS Windows and Linux. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "markdown-editors"
+      "category" : "markdown"
     },
     {
       "repo_url" : "https://github.com/lukakerr/twig",
@@ -1338,23 +2123,25 @@
         "https://i.imgur.com/ptzSBmo.jpg",
         "https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png"
       ],
-      "short_description" : "A modern MacOS markdown editor.",
+      "short_description" : "A modern MacOS markdown editor. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "markdown-editors"
+      "category" : "markdown"
     },
     {
       "repo_url" : "https://github.com/qilin-editor/qilin-app",
       "title" : "Qilin Editor",
       "screenshots" : [
-        
+        "https://i.imgur.com/VOGLGv5.png",
+        "https://i.imgur.com/LYzVw99.png",
+        "https://i.imgur.com/utXxWLf.png"
       ],
-      "short_description" : "Text editor for exact sciences with built-in KaTeX/AsciiMath support.",
+      "short_description" : "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "tex-editors"
+      "category" : "tex"
     },
     {
       "repo_url" : "https://github.com/coteditor/CotEditor",
@@ -1362,11 +2149,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/coteditor/CotEditor/master/screenshot@2x.png"
       ],
-      "short_description" : "Lightweight Plain-Text Editor for macOS.",
+      "short_description" : "Lightweight Plain-Text Editor for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "text-editors"
+      "category" : "text"
     },
     {
       "repo_url" : "https://github.com/macvim-dev/macvim",
@@ -1374,11 +2161,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Text editor for macOS.",
+      "short_description" : "Text editor for macOS. ",
       "languages" : [
         "c_icon"
       ],
-      "category" : "text-editors"
+      "category" : "text"
     },
     {
       "repo_url" : "https://github.com/brunophilipe/noto",
@@ -1387,11 +2174,11 @@
         "http://i.imgur.com/BlqwbV7.png",
         "http://i.imgur.com/SXh8o7n.png"
       ],
-      "short_description" : "Plain text editor for macOS with customizable themes.",
+      "short_description" : "Plain text editor for macOS with customizable themes. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "text-editors"
+      "category" : "text"
     },
     {
       "repo_url" : "https://github.com/textmate/textmate",
@@ -1399,25 +2186,23 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/textmate/textmate/gh-pages/images/screenshot.png"
       ],
-      "short_description" : "TextMate is a graphical text editor for macOS.",
+      "short_description" : "TextMate is a graphical text editor for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "text-editors"
+      "category" : "text"
     },
     {
       "repo_url" : "https://github.com/qvacua/vimr",
       "title" : "VimR",
       "screenshots" : [
-        "https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot1.png",
-        "https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot0.png",
-        "https://raw.githubusercontent.com/qvacua/vimr/develop/resources/screenshot2.png"
+
       ],
-      "short_description" : "Refined Neovim experience for macOS.",
+      "short_description" : "Refined Neovim experience for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "text-editors"
+      "category" : "text"
     },
     {
       "repo_url" : "https://github.com/Capevace/BetterPiP",
@@ -1425,7 +2210,7 @@
       "screenshots" : [
         "https://media.giphy.com/media/3b7gn1cvDnjDk9Kngv/giphy-downsized-large.gif"
       ],
-      "short_description" : "Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.",
+      "short_description" : "Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1439,7 +2224,7 @@
         "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/demo.gif",
         "https://raw.githubusercontent.com/arnoappenzeller/PiPifier/master/macOS/Images/pipifier_ios_usage.gif"
       ],
-      "short_description" : "PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.",
+      "short_description" : "PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1451,7 +2236,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.",
+      "short_description" : "Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1464,7 +2249,19 @@
         "http://clipy-app.com/img/screenshot1.png",
         "https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png"
       ],
-      "short_description" : "Clipy is a Clipboard extension app for macOS.",
+      "short_description" : "Clipy is a Clipboard extension app for macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "finder"
+    },
+    {
+      "repo_url" : "https://github.com/onmyway133/FinderGo",
+      "title" : "Finder Go",
+      "screenshots" : [
+
+      ],
+      "short_description" : "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1477,7 +2274,7 @@
         "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/logo.png",
         "https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/landingNoText.png"
       ],
-      "short_description" : "Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.",
+      "short_description" : "Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1489,11 +2286,23 @@
       "screenshots" : [
         "http://i.imgur.com/F5ZrCmS.gif"
       ],
-      "short_description" : "Finder toolbar app to open current folder in Visual Studio Code.",
+      "short_description" : "Finder toolbar app to open current folder in Visual Studio Code. ",
       "languages" : [
         "objective_c_icon"
       ],
       "category" : "finder"
+    },
+    {
+      "repo_url" : "https://github.com/wesnoth/wesnoth",
+      "title" : "Battle for Wesnoth",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "games"
     },
     {
       "repo_url" : "https://github.com/alunbestor/Boxer",
@@ -1501,7 +2310,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "The DOS game emulator that’s fit for your Mac.",
+      "short_description" : "The DOS game emulator that’s fit for your Mac. ![objective_c_icon] ",
       "languages" : [
         "objective_c_icon",
         "cpp_icon"
@@ -1514,7 +2323,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Powerful emulator for Nintendo GameCube and Wii games.",
+      "short_description" : "Powerful emulator for Nintendo GameCube and Wii games. ",
       "languages" : [
         "cpp_icon"
       ],
@@ -1526,7 +2335,7 @@
       "screenshots" : [
         "http://openemu.org/img/intro-md.png"
       ],
-      "short_description" : "Retro video game emulation for macOS.",
+      "short_description" : "Retro video game emulation for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -1536,9 +2345,9 @@
       "repo_url" : "https://github.com/OpenRCT2/OpenRCT2",
       "title" : "OpenRCT2",
       "screenshots" : [
-        "https://i.imgur.com/e7CK5Sc.png"
+
       ],
-      "short_description" : "Re-implementation of RollerCoaster Tycoon 2.",
+      "short_description" : "Re-implementation of RollerCoaster Tycoon 2. ",
       "languages" : [
         "cpp_icon"
       ],
@@ -1550,7 +2359,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/AaronRandall/Screentendo/master/Screentendo/Screentendo.gif"
       ],
-      "short_description" : "Turn your screen into a playable level of Mario.",
+      "short_description" : "Turn your screen into a playable level of Mario. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -1562,7 +2371,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Beautiful, powerful chess application.",
+      "short_description" : "Beautiful, powerful chess application. ![cpp_icon] ",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -1575,7 +2384,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Animated sprite editor & pixel art tool (Windows, macOS, Linux).",
+      "short_description" : "Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![cpp_icon] ",
       "languages" : [
         "cpp_icon",
         "c_icon"
@@ -1588,7 +2397,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/gragrance/CaptuocrToy/master/screenshot.gif"
       ],
-      "short_description" : "Tool to capture screenshot and recognize text by online ocr apis.",
+      "short_description" : "Tool to capture screenshot and recognize text by online ocr apis. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1604,7 +2413,7 @@
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif",
         "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif"
       ],
-      "short_description" : "Gif capture app for macOS.",
+      "short_description" : "Gif capture app for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1617,7 +2426,7 @@
         "https://i.imgur.com/KFZyEqq.png",
         "https://i.imgur.com/ByyCNuk.gif"
       ],
-      "short_description" : "Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming.",
+      "short_description" : "Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ",
       "languages" : [
         "haskell_icon"
       ],
@@ -1631,7 +2440,7 @@
         "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg",
         "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg"
       ],
-      "short_description" : "Convert videos to high-quality GIFs.",
+      "short_description" : "Convert videos to high-quality GIFs. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1643,7 +2452,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/CleanCocoa/InfiniteCanvas/master/assets/title-sketch.png"
       ],
-      "short_description" : "Proof of concept Mac drawing application.",
+      "short_description" : "Proof of concept Mac drawing application. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1655,7 +2464,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Inkscape is professional quality vector graphics software.",
+      "short_description" : "Inkscape is professional quality vector graphics software. ",
       "languages" : [
         "cpp_icon"
       ],
@@ -1667,9 +2476,59 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/dsward2/macSVG/master/README_images/macsvg-screenshot.jpg"
       ],
-      "short_description" : "macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.",
+      "short_description" : "macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "graphics"
+    },
+    {
+      "repo_url" : "https://github.com/BafS/Material-Colors-native",
+      "title" : "Material Colors Native",
+      "screenshots" : [
+        "http://i.imgur.com/jIJ4Gcf.gif"
+      ],
+      "short_description" : "Choose your Material colours and copy the hex code. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "graphics"
+    },
+    {
+      "repo_url" : "https://github.com/pencil2d/pencil",
+      "title" : "Pencil2D Animation",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "graphics"
+    },
+    {
+      "repo_url" : "https://github.com/duyquoc/ScreenToLayers",
+      "title" : "ScreenToLayers for macOS",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/duyquoc/ScreenToLayers/master/./Others/presentation.png"
+      ],
+      "short_description" : "ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![objective_c_icon] ",
+      "languages" : [
+        "objective_c_icon",
+        "css_icon"
+      ],
+      "category" : "graphics"
+    },
+    {
+      "repo_url" : "https://github.com/buzzfeed/Sketch-Toolbox",
+      "title" : "Sketch Toolbox",
+      "screenshots" : [
+        "https://i.cloudup.com/XTLlL1-Stt-3000x3000.png"
+      ],
+      "short_description" : "Plugin manager for Sketch.app. ![objective_c_icon] ",
+      "languages" : [
+        "objective_c_icon",
+        "c_icon"
       ],
       "category" : "graphics"
     },
@@ -1679,7 +2538,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "The hackable text editor.",
+      "short_description" : "The hackable text editor. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1689,12 +2548,23 @@
       "repo_url" : "https://github.com/onivim/oni",
       "title" : "Oni",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/13532591/36127305-9c7b6b80-1011-11e8-85dd-0345788c0b56.png",
-        "https://raw.githubusercontent.com/onivim/oni/master/./assets/oni-header.png"
+
       ],
-      "short_description" : "Oni is a modern take on modal editing code editor focused on developer productivity.",
+      "short_description" : "Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon]",
       "languages" : [
         "javascript_icon",
+        "type_script_icon"
+      ],
+      "category" : "ide"
+    },
+    {
+      "repo_url" : "https://github.com/Microsoft/vscode",
+      "title" : "Visual Studio Code",
+      "screenshots" : [
+        "https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png"
+      ],
+      "short_description" : "Code editor developed by Microsoft. ",
+      "languages" : [
         "type_script_icon"
       ],
       "category" : "ide"
@@ -1705,7 +2575,7 @@
       "screenshots" : [
         "http://studio.zerobrane.com/images/debugging.png"
       ],
-      "short_description" : "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.",
+      "short_description" : "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ",
       "languages" : [
         "lua_icon"
       ],
@@ -1715,16 +2585,9 @@
       "repo_url" : "https://github.com/shgodoroja/APNGb",
       "title" : "APNGb",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/2619031/21511755/0dcd98dc-cca5-11e6-86bf-d5b07a477523.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534538/0464a1a4-cd69-11e6-8422-595f304cbefb.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534539/046583b2-cd69-11e6-82fb-a6d5bb5badda.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534540/0465b4b8-cd69-11e6-8c7d-d99f140a50d3.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534541/046616c4-cd69-11e6-8c61-d604cfe38e91.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534537/046473aa-cd69-11e6-8fde-35e7a79c307d.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534543/048288f4-cd69-11e6-9d65-0f5877309f78.png",
-        "https://cloud.githubusercontent.com/assets/2619031/21534542/0480acdc-cd69-11e6-97b0-aa7b25121990.png"
+
       ],
-      "short_description" : "macOS app which assembles and disassembles animated png files.",
+      "short_description" : "macOS app which assembles and disassembles animated png files. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1736,7 +2599,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Insane(ly slow but wicked good) PNG image optimization.",
+      "short_description" : "Insane(ly slow but wicked good) PNG image optimization. ",
       "languages" : [
         "python_icon"
       ],
@@ -1748,7 +2611,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/wddwycc/Freehand/master/_images/demo.png"
       ],
-      "short_description" : "macOS Status Bar App for quick sketch.",
+      "short_description" : "macOS Status Bar App for quick sketch. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1760,7 +2623,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Gimp is GNU Image Manipulation Program.",
+      "short_description" : "Gimp is GNU Image Manipulation Program. ",
       "languages" : [
         "c_icon"
       ],
@@ -1772,7 +2635,7 @@
       "screenshots" : [
         "https://pngmini.com/screenshot-1.3.png"
       ],
-      "short_description" : "Mac GUI for pngquant, pngnq and posterizer.",
+      "short_description" : "Mac GUI for pngquant, pngnq and posterizer. ![python_icon] ",
       "languages" : [
         "python_icon",
         "objective_c_icon"
@@ -1785,7 +2648,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.",
+      "short_description" : "Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ",
       "languages" : [
         "type_script_icon"
       ],
@@ -1797,7 +2660,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Katana is a simple screenshot utility for macOS that lives in your menubar.",
+      "short_description" : "Katana is a simple screenshot utility for macOS that lives in your menubar. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -1815,7 +2678,7 @@
         "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/06.png",
         "https://raw.githubusercontent.com/gergelysanta/photominer/master/AppStore/Screenshots/07.png"
       ],
-      "short_description" : "macOS app for finding and lost forgotten photos on your disks.",
+      "short_description" : "macOS app for finding and lost forgotten photos on your disks. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1827,7 +2690,7 @@
       "screenshots" : [
         "https://www.screenbar.net/assets/images/screenbar-window.png"
       ],
-      "short_description" : "macOS menubar app for automating screenshots.",
+      "short_description" : "macOS menubar app for automating screenshots. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1839,7 +2702,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP.",
+      "short_description" : "WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![c_icon] ",
       "languages" : [
         "c_icon",
         "swift_icon"
@@ -1847,12 +2710,24 @@
       "category" : "images"
     },
     {
+      "repo_url" : "https://github.com/msvisser/AnnePro-mac",
+      "title" : "AnnePro-mac",
+      "screenshots" : [
+
+      ],
+      "short_description" : "macOS application for controlling AnnePro keyboard over bluetooth. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "keyboard"
+    },
+    {
       "repo_url" : "https://github.com/Pyroh/Fluor",
       "title" : "Fluor",
       "screenshots" : [
 
       ],
-      "short_description" : "Handy tool for macOS allowing you to switch Fn keys' mode based on active application.",
+      "short_description" : "Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1864,7 +2739,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Karabiner-Elements configuration manager, rescue to bloated karabiner.json",
+      "short_description" : "Karabiner-Elements configuration manager, rescue to bloated karabiner.json ",
       "languages" : [
         "clojure_icon"
       ],
@@ -1876,7 +2751,20 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.",
+      "short_description" : "Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![cpp_icon] ",
+      "languages" : [
+        "cpp_icon",
+        "objective_c_icon"
+      ],
+      "category" : "keyboard"
+    },
+    {
+      "repo_url" : "https://github.com/tekezo/Karabiner-Elements",
+      "title" : "Karabiner-Elements",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -1890,7 +2778,7 @@
         "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
         "https://raw.githubusercontent.com/utatti/kawa/master/resource/png/logo.png"
       ],
-      "short_description" : "Better input source switcher for macOS.",
+      "short_description" : "Better input source switcher for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1903,7 +2791,7 @@
         "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png",
         "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png"
       ],
-      "short_description" : "Switch the right application ASAP.",
+      "short_description" : "Switch the right application ASAP. ",
       "languages" : [
         "swift_icon"
       ],
@@ -1913,11 +2801,9 @@
       "repo_url" : "https://github.com/amitmerchant1990/correo",
       "title" : "Correo",
       "screenshots" : [
-        "https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png",
-        "https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png",
-        "https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot2.png"
+
       ],
-      "short_description" : "Menubar/taskbar Gmail App for Windows and macOS.",
+      "short_description" : "Menubar/taskbar Gmail App for Windows and macOS. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1929,7 +2815,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/dinhviethoa/dejalu/master/screenshot.jpg"
       ],
-      "short_description" : "Fast and Simple Email Client.",
+      "short_description" : "Fast and Simple Email Client. ![cpp_icon] ",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -1940,11 +2826,9 @@
       "repo_url" : "https://github.com/denysdovhan/inboxer",
       "title" : "Inboxer",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/3459374/33760933-1c9b81b4-dc10-11e7-8e4b-22d81f98c138.png",
-        "https://raw.githubusercontent.com/denysdovhan/inboxer/master/./media/inboxer-mac.png",
-        "https://raw.githubusercontent.com/denysdovhan/inboxer/master/app/static/Icon.png"
+
       ],
-      "short_description" : "Unofficial Google Inbox Desktop App.",
+      "short_description" : "Unofficial Google Inbox Desktop App. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -1957,9 +2841,21 @@
       "screenshots" : [
         "http://i.imgur.com/ZxaChmj.png"
       ],
-      "short_description" : "Wrapper for Inbox by Gmail.",
+      "short_description" : "Wrapper for Inbox by Gmail. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "mail"
+    },
+    {
+      "repo_url" : "https://github.com/nylas/nylas-mail",
+      "title" : "Nylas Mail",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Extensible mail client. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "mail"
     },
@@ -1967,9 +2863,9 @@
       "repo_url" : "https://github.com/ramboxapp/community-edition",
       "title" : "Rambox",
       "screenshots" : [
-        "https://raw.githubusercontent.com/ramboxapp/community-edition/master/./resources/screenshots/mac.png"
+
       ],
-      "short_description" : "Cross Platform messaging and emailing app that combines common web applications into one.",
+      "short_description" : "Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -1980,9 +2876,9 @@
       "repo_url" : "https://github.com/alvesjtiago/airpass",
       "title" : "Airpass",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/407470/36247877-281b38a2-1268-11e8-8a11-016df1abd6e9.png"
+
       ],
-      "short_description" : "Status bar Mac application to overcome time constrained WiFi networks.",
+      "short_description" : "Status bar Mac application to overcome time constrained WiFi networks. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -1994,7 +2890,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS menubar status indicator.",
+      "short_description" : "macOS menubar status indicator. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2004,10 +2900,9 @@
       "repo_url" : "https://github.com/matryer/bitbar",
       "title" : "BitBar",
       "screenshots" : [
-        "https://raw.githubusercontent.com/matryer/bitbar/master/Docs/BitBar-Example-Menu.png",
-        "https://raw.githubusercontent.com/matryer/bitbar/master/Docs/BitBar-Example-Menu-Colors-Fonts.png"
+
       ],
-      "short_description" : "Put the output from any script or program in your macOS Menu Bar.",
+      "short_description" : "Put the output from any script or program in your macOS Menu Bar. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2019,7 +2914,7 @@
       "screenshots" : [
         "http://joshparnham.com/projects/cloudytabs/CloudyTabs.png"
       ],
-      "short_description" : "Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List.",
+      "short_description" : "Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2029,9 +2924,9 @@
       "repo_url" : "https://github.com/inderdhir/DatWeatherDoe",
       "title" : "DatWeatherDoe",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/2235307/46848653-16cd5780-cdb9-11e8-9240-a46632aa170b.png"
+
       ],
-      "short_description" : "Simple menu bar weather app for macOS written in Swift.",
+      "short_description" : "Simple menu bar weather app for macOS written in Swift. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2043,7 +2938,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Simple (bare-bones) macOS menubar extra to apply display presets.",
+      "short_description" : "Simple (bare-bones) macOS menubar extra to apply display presets. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2053,9 +2948,9 @@
       "repo_url" : "https://github.com/Mortennn/Dozer",
       "title" : "Dozer",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Mortennn/Dozer/master/Dozer/Resources/Assets.xcassets/AppIcon.appiconset/Icon_512x512%402x.png"
+
       ],
-      "short_description" : "Hide MacOS menubar items.",
+      "short_description" : "Hide MacOS menubar items. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2067,7 +2962,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS status bar app that allows control over the gpu on dual gpu macbooks.",
+      "short_description" : "macOS status bar app that allows control over the gpu on dual gpu macbooks. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2077,11 +2972,23 @@
       "repo_url" : "https://github.com/Moneypulation/iGlance",
       "title" : "iGlance",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Moneypulation/iGlance/master/gifs/iGlance2.gif"
+
       ],
-      "short_description" : "macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.",
+      "short_description" : "macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "menubar"
+    },
+    {
+      "repo_url" : "https://github.com/lucasbento/menubar-brightness",
+      "title" : "Menubar Brightness",
+      "screenshots" : [
+
+      ],
+      "short_description" : "macOS app to change the screen brightness on the menubar. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "menubar"
     },
@@ -2091,9 +2998,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "CPU, memory, disk, and network monitoring tools for macOS. ",
+      "short_description" : "CPU, memory, disk, and network monitoring tools for macOS.  ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "menubar"
+    },
+    {
+      "repo_url" : "https://github.com/isaiasmatewos/night-shift-control",
+      "title" : "Night Shift Control",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/isaiasmatewos/night-shift-control/master/screenshot.png"
+      ],
+      "short_description" : "Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "menubar"
     },
@@ -2103,7 +3022,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Quickly hacked up PSI macOS status bar app.",
+      "short_description" : "Quickly hacked up PSI macOS status bar app. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2115,7 +3034,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/alexrosenfeld10/Quickeys/master/Images/Quickeys.png"
       ],
-      "short_description" : "A mac menu bar app that provides note taking functionality though a quick dropdown menu.",
+      "short_description" : "A mac menu bar app that provides note taking functionality though a quick dropdown menu. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2127,7 +3046,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
+      "short_description" : "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![c_icon] ",
       "languages" : [
         "c_icon",
         "objective_c_icon"
@@ -2140,7 +3059,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/thompsonate/Shifty/master/docs/en/images/prefs-general-screenshot-shadow.png"
       ],
-      "short_description" : "macOS menu bar app that gives you more control over Night Shift.",
+      "short_description" : "macOS menu bar app that gives you more control over Night Shift. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2152,7 +3071,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "A minimal and beautiful lyrics app that stays in the menu bar of macOS.",
+      "short_description" : "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
       "languages" : [
         "c_sharp_icon"
       ],
@@ -2164,7 +3083,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!",
+      "short_description" : "Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ",
       "languages" : [
         "swift_icon"
       ],
@@ -2176,9 +3095,22 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Deezer Desktop app for Windows, Linux and macOS.",
+      "short_description" : "Deezer Desktop app for Windows, Linux and macOS. ",
       "languages" : [
         "coffee_script_icon"
+      ],
+      "category" : "music"
+    },
+    {
+      "repo_url" : "https://github.com/Zac-Garby/iTunes-Graphs",
+      "title" : "iTunes Graphs",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot.png",
+        "https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot2.png"
+      ],
+      "short_description" : "macOS app to visualise your iTunes library as graphs. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "music"
     },
@@ -2189,7 +3121,7 @@
         "https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/en.png",
         "https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/fa.png"
       ],
-      "short_description" : "Simple Spotify lyrics viewer menu bar app for macOS in Swift.",
+      "short_description" : "Simple Spotify lyrics viewer menu bar app for macOS in Swift. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2201,9 +3133,36 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/salomvary/soundcleod/master/screenshot.png"
       ],
-      "short_description" : "SoundCloud for macOS and Windows.",
+      "short_description" : "SoundCloud for macOS and Windows. ",
       "languages" : [
         "javascript_icon"
+      ],
+      "category" : "music"
+    },
+    {
+      "repo_url" : "https://github.com/ersel/spotify-cli-mac",
+      "title" : "Spotify-Cli-Mac",
+      "screenshots" : [
+        "https://asciinema.org/a/ejbbvaa8833wq4xn4d2xuc9jx.png"
+      ],
+      "short_description" : "Control Spotify without leaving your terminal. :notes: ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "music"
+    },
+    {
+      "repo_url" : "https://github.com/steve228uk/YouTube-Music",
+      "title" : "YouTube-Music",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-1.png",
+        "https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-2.png",
+        "https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-3.png",
+        "https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-4.png"
+      ],
+      "short_description" : "macOS wrapper for music.youtube.com. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "music"
     },
@@ -2213,9 +3172,21 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/ngquerol/Diurna/master/diurna.png"
       ],
-      "short_description" : "Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.",
+      "short_description" : "Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "news"
+    },
+    {
+      "repo_url" : "https://github.com/jingweno/hacker-menu",
+      "title" : "hacker-menu",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/jingweno/hacker-menu/master/images/screenshot.png"
+      ],
+      "short_description" : "Hacker News Delivered to Desktop. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "news"
     },
@@ -2225,7 +3196,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Feed reader for macOS.",
+      "short_description" : "Feed reader for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2237,7 +3208,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Vienna is a RSS/Atom newsreader for macOS.",
+      "short_description" : "Vienna is a RSS/Atom newsreader for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2249,7 +3220,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/BoostIO/Boostnote/master/./resources/repository/top.png"
       ],
-      "short_description" : "Note-taking application made for programmers just like you.",
+      "short_description" : "Note-taking application made for programmers just like you. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2261,7 +3232,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Little app that you can use as a quick note taking or todo app.",
+      "short_description" : "Little app that you can use as a quick note taking or todo app. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2275,7 +3246,7 @@
         "https://raw.githubusercontent.com/glushchenko/fsnotes/master/code.png",
         "https://f001.backblazeb2.com/file/og-files/ios.png"
       ],
-      "short_description" : "Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.",
+      "short_description" : "Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2285,12 +3256,39 @@
       "repo_url" : "https://github.com/laurent22/joplin",
       "title" : "joplin",
       "screenshots" : [
-        "https://joplin.cozic.net/images/AllClients.jpg",
-        "https://joplin.cozic.net/images/nextcloud-logo-background.png",
-        "https://joplin.cozic.net/images/SubNotebooks.png",
-        "https://joplin.cozic.net/images/Katex.png"
+
       ],
-      "short_description" : "Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.",
+      "short_description" : "Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "notes"
+    },
+    {
+      "repo_url" : "https://github.com/tuxu/nbviewer-app",
+      "title" : "Jupyter Notebook Viewer",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Notebook viewer for macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "notes"
+    },
+    {
+      "repo_url" : "https://github.com/jmcfarlane/notable",
+      "title" : "notable",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/notable.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/help.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/encrypted.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/search.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/unsaved-changes.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/edit.png",
+        "https://raw.githubusercontent.com/jmcfarlane/notable/master/docs/images/tabs.png"
+      ],
+      "short_description" : "Simple note taking application. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2302,7 +3300,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc.",
+      "short_description" : "Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2314,7 +3312,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/insidegui/NoteTaker/master/./screenshot.png"
       ],
-      "short_description" : "Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.",
+      "short_description" : "Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2326,9 +3324,22 @@
       "screenshots" : [
         "https://simplenoteblog.files.wordpress.com/2017/12/screen-shot-2017-12-22-at-9-05-33-am.png"
       ],
-      "short_description" : "Simplest way to keep notes.",
+      "short_description" : "Simplest way to keep notes. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "notes"
+    },
+    {
+      "repo_url" : "https://github.com/standardnotes/web",
+      "title" : "Standard Notes",
+      "screenshots" : [
+        "https://standardnotes.org/assets/homepage-hero.png"
+      ],
+      "short_description" : "Safe place for your notes, thoughts, and life's work. ![javascript_icon] ",
+      "languages" : [
+        "javascript_icon",
+        "css_icon"
       ],
       "category" : "notes"
     },
@@ -2338,7 +3349,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/buddax2/tmpNote/master/Resources/screenshot_new.png"
       ],
-      "short_description" : "Very simple macOS app to make temporary notes.",
+      "short_description" : "Very simple macOS app to make temporary notes. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2348,18 +3359,9 @@
       "repo_url" : "https://github.com/klauscfhq/tusk",
       "title" : "Tusk",
       "screenshots" : [
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/vibrant-dark-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/vibrant-light-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/logo.png",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/vibrant-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/note-navigation.gif",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/note-navigation.gif",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/print-note.gif",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/custom-shortcut-keys.gif",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/scalable-interface.gif",
-        "https://raw.githubusercontent.com/klauscfhq/tusk/master/media/export-notes.gif"
+
       ],
-      "short_description" : "Unofficial, third-party, community driven Evernote app with a handful of useful features.",
+      "short_description" : "Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2372,7 +3374,19 @@
       "screenshots" : [
         "https://www.cakebrew.com/assets/img/app-bg.png"
       ],
-      "short_description" : "Manage your Homebrew formulas with style using Cakebrew.",
+      "short_description" : "Manage your Homebrew formulas with style using Cakebrew. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/2ndalpha/gasmask",
+      "title" : "Gas Mask",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Hosts file manager for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2384,7 +3398,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cocoa GUI for /etc/hosts.",
+      "short_description" : "Cocoa GUI for /etc/hosts. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2396,9 +3410,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "GUI image optimizer for Mac.",
+      "short_description" : "GUI image optimizer for Mac. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/insidegui/KeyframesPlayer",
+      "title" : "Keyframes Player",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/insidegui/KeyframesPlayer/master/./screenshot.gif"
+      ],
+      "short_description" : "Simple macOS app to preview animations created with Facebook's keyframes framework. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "other"
     },
@@ -2406,14 +3432,9 @@
       "repo_url" : "https://github.com/hackjutsu/Lepton",
       "title" : "Lepton",
       "screenshots" : [
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/master/docs/img/portfolio/immersive.png",
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/master/docs/img/portfolio/dashboard.png",
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/dev/docs/img/portfolio/about.png",
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/master/docs/img/portfolio/search_bar.png",
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/master/./docs/img/new_logo.png",
-        "https://raw.githubusercontent.com/hackjutsu/Lepton/master/./docs/img/portfolio/stay_organized.png"
+
       ],
-      "short_description" : "Democratizing Code Snippets Management (macOS/Win/Linux).",
+      "short_description" : "Democratizing Code Snippets Management (macOS/Win/Linux). ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2423,10 +3444,9 @@
       "repo_url" : "https://github.com/Bunn/macGist",
       "title" : "macGist",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Bunn/macGist/master/./other/settings.png",
-        "https://raw.githubusercontent.com/Bunn/macGist/master/./other/gistList.png"
+
       ],
-      "short_description" : "Simple app to send pasteboard items to GitHub's Gist.",
+      "short_description" : "Simple app to send pasteboard items to GitHub's Gist. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2436,14 +3456,9 @@
       "repo_url" : "https://github.com/sveinbjornt/Platypus",
       "title" : "Platypus",
       "screenshots" : [
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/basic_interface.png",
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_progress_bar.png",
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_text_window.png",
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_web_view.png",
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_status_menu.png",
-        "https://raw.githubusercontent.com/sveinbjornt/Platypus/master/Documentation/images/interface_screenshot_droplet.png"
+
       ],
-      "short_description" : "Mac developer tool that creates application bundles from command line scripts.",
+      "short_description" : "Mac developer tool that creates application bundles from command line scripts. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2453,13 +3468,23 @@
       "repo_url" : "https://github.com/goktugyil/QorumLogs",
       "title" : "QorumLogs",
       "screenshots" : [
-        "http://i.imgur.com/SzxTXyv.png",
-        "http://i.imgur.com/TtYAHfW.png",
-        "http://i.imgur.com/0XyAAbD.png"
+
       ],
-      "short_description" : "Swift Logging Utility for Xcode & Google Docs.",
+      "short_description" : "Swift Logging Utility for Xcode & Google Docs. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/jhen0409/react-native-debugger",
+      "title" : "React Native Debugger",
+      "screenshots" : [
+        "https://user-images.githubusercontent.com/3001525/29451479-6621bf1a-83c8-11e7-8ebb-b4e98b1af91c.png"
+      ],
+      "short_description" : "Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "other"
     },
@@ -2467,9 +3492,9 @@
       "repo_url" : "https://github.com/infinitered/reactotron",
       "title" : "Reactotron",
       "screenshots" : [
-        "https://raw.githubusercontent.com/infinitered/reactotron/master/./docs/images/readme/reactotron-demo-app.gif"
+
       ],
-      "short_description" : "Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+      "short_description" : "Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2482,9 +3507,21 @@
         "https://raw.githubusercontent.com/woofwoofinc/rktmachine/master/docs/assets/title.png",
         "https://raw.githubusercontent.com/woofwoofinc/rktmachine/master/docs/assets/screenshot.png"
       ],
-      "short_description" : "Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM.",
+      "short_description" : "Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/gosu/ruby-app",
+      "title" : "Ruby.app",
+      "screenshots" : [
+
+      ],
+      "short_description" : "macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ",
+      "languages" : [
+        "ruby_icon"
       ],
       "category" : "other"
     },
@@ -2494,7 +3531,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/fitztrev/shuttle/gh-pages/images/how-shuttle-works.gif"
       ],
-      "short_description" : "Simple SSH shortcut menu for macOS.",
+      "short_description" : "Simple SSH shortcut menu for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2504,15 +3541,23 @@
       "repo_url" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
       "title" : "SwiftyBeaver",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/564725/19889302/73b1ee84-a034-11e6-8753-2d060502397c.jpg",
-        "https://cloud.githubusercontent.com/assets/564725/18608325/b7ecd4c2-7ce6-11e6-829b-7f8f9fe6ef2f.png",
-        "https://cloud.githubusercontent.com/assets/564725/14281408/38d6a6ba-fb39-11e5-9584-34e3679bb1c5.jpg",
-        "https://cloud.githubusercontent.com/assets/564725/14846071/218c0646-0c62-11e6-92cb-e6e963b68724.gif",
-        "https://user-images.githubusercontent.com/564725/34486363-dc501aec-efcf-11e7-92b2-1163cca9e7aa.jpg"
+
       ],
-      "short_description" : "Convenient logging during development & release in Swift.",
+      "short_description" : "Convenient logging during development & release in Swift. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/syncthing/syncthing-macos",
+      "title" : "syncthing-macosx",
+      "screenshots" : [
+        "https://user-images.githubusercontent.com/1050166/48157165-35970f00-e2cf-11e8-8009-10bfbf7fbce2.png"
+      ],
+      "short_description" : "Frugal nativemacOS macOS Syncthing application bundle. ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "other"
     },
@@ -2522,7 +3567,19 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Mac app for checking Xcode projects for unused resources. ",
+      "short_description" : "Mac app for checking Xcode projects for unused resources.  ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "other"
+    },
+    {
+      "repo_url" : "https://github.com/lanayotech/vagrant-manager",
+      "title" : "Vagrant Manager",
+      "screenshots" : [
+        "http://vagrantmanager.com/demo.gif"
+      ],
+      "short_description" : "Manage your vagrant machines in one place with Vagrant Manager for macOS.  ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2534,7 +3591,7 @@
       "screenshots" : [
         "https://i.imgur.com/S7K9wrr.png"
       ],
-      "short_description" : "Simple, beautiful podcast app.",
+      "short_description" : "Simple, beautiful podcast app. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2544,15 +3601,9 @@
       "repo_url" : "https://github.com/muammar/mkchromecast",
       "title" : "mkchromecast",
       "screenshots" : [
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/screencast.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/Gnome1.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/Gnome2.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/Kde5_1.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/Kde5_2.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/Awesome_BI.png",
-        "https://raw.githubusercontent.com/muammar/mkchromecast/master/images/mkchromecast_linux.gif"
+
       ],
-      "short_description" : "Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.",
+      "short_description" : "Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ",
       "languages" : [
         "python_icon"
       ],
@@ -2562,11 +3613,23 @@
       "repo_url" : "https://github.com/insidegui/PodcastMenu",
       "title" : "PodcastMenu",
       "screenshots" : [
-        "https://raw.githubusercontent.com/insidegui/PodcastMenu/master/screenshot2.png"
+
       ],
-      "short_description" : "PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.",
+      "short_description" : "PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "podcast"
+    },
+    {
+      "repo_url" : "https://github.com/phranck/podlive-macos",
+      "title" : "Podlive for macOS",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png"
+      ],
+      "short_description" : "macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de). ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "podcast"
     },
@@ -2587,7 +3650,7 @@
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/custom-shortcut-keys.gif",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif"
       ],
-      "short_description" : "Elegant Microsoft To-Do desktop app.",
+      "short_description" : "Elegant Microsoft To-Do desktop app. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2598,9 +3661,9 @@
       "repo_url" : "https://github.com/KELiON/cerebro",
       "title" : "Cerebro",
       "screenshots" : [
-        "https://cloud.githubusercontent.com/assets/594298/20180624/858a483a-a75b-11e6-94a1-ef1edc4d95c3.gif"
+
       ],
-      "short_description" : "Cross-platform launcher app.",
+      "short_description" : "Cross-platform launcher app. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2612,7 +3675,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/naotaka/ClipMenu/master/./screenshot.jpg"
       ],
-      "short_description" : "Clipboard manager for macOS.",
+      "short_description" : "Clipboard manager for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2622,9 +3685,9 @@
       "repo_url" : "https://github.com/abhishekbanthia/Clocker",
       "title" : "Clocker",
       "screenshots" : [
-        "https://raw.githubusercontent.com/Abhishaker17/Clocker/v1.2.1/GitHub.png"
+
       ],
-      "short_description" : "macOS app to plan and organize through timezones.",
+      "short_description" : "macOS app to plan and organize through timezones. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2636,7 +3699,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Automate running tasks based on where you are or what you do.",
+      "short_description" : "Automate running tasks based on where you are or what you do. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2648,7 +3711,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Clean and simple clipboard manager for developers.",
+      "short_description" : "Clean and simple clipboard manager for developers. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2660,7 +3723,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Record shortcuts in macOS, like Alfred.app.",
+      "short_description" : "Record shortcuts in macOS, like Alfred.app. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2672,7 +3735,19 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Kiwix for iOS and macOS, build on Swift.",
+      "short_description" : "Kiwix for iOS and macOS, build on Swift. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "productivity"
+    },
+    {
+      "repo_url" : "https://github.com/fespinoza/LinkedIdeas",
+      "title" : "Linked Ideas",
+      "screenshots" : [
+        "https://i.imgur.com/uqb1x43.png"
+      ],
+      "short_description" : "macOS application to write down and connect ideas. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2684,7 +3759,7 @@
       "screenshots" : [
         "https://user-images.githubusercontent.com/665846/36135303-8c4f80ae-10b4-11e8-9940-978e228cb6bd.gif"
       ],
-      "short_description" : "Lightweight search-as-you-type clipboard manager.",
+      "short_description" : "Lightweight search-as-you-type clipboard manager. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2696,7 +3771,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS app for organizing files or removing unnecessary files.",
+      "short_description" : "macOS app for organizing files or removing unnecessary files. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2708,9 +3783,34 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Flexible invoicing desktop app with beautiful & customizable templates.",
+      "short_description" : "Flexible invoicing desktop app with beautiful & customizable templates. ",
       "languages" : [
         "javascript_icon"
+      ],
+      "category" : "productivity"
+    },
+    {
+      "repo_url" : "https://github.com/thomasbrueggemann/paperless-desktop",
+      "title" : "Paperless Desktop",
+      "screenshots" : [
+        "https://i.imgur.com/F5GNK4X.png",
+        "http://i.imgur.com/FrgAptE.png"
+      ],
+      "short_description" : "Desktop app that uses the paperless API to manage your document scans. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "productivity"
+    },
+    {
+      "repo_url" : "https://github.com/PDF-Archiver/PDF-Archiver",
+      "title" : "PDF Archiver",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif"
+      ],
+      "short_description" : "Nice tool for tagging and archiving tasks. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "productivity"
     },
@@ -2720,7 +3820,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.",
+      "short_description" : "Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2732,7 +3832,7 @@
       "screenshots" : [
         "https://i.imgur.com/asCk1Ds.png"
       ],
-      "short_description" : "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.",
+      "short_description" : "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![javascript_icon]",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2745,9 +3845,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.",
+      "short_description" : "macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "productivity"
+    },
+    {
+      "repo_url" : "https://github.com/Onix-Systems/osx-status-bar-todo",
+      "title" : "status-bar-todo",
+      "screenshots" : [
+        "https://cloud.githubusercontent.com/assets/1434418/21689532/52b0c1ba-d379-11e6-882a-b16d4f8fce00.png"
+      ],
+      "short_description" : "Simple macOS app to keep TODO-list in status bar. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "productivity"
     },
@@ -2755,16 +3867,9 @@
       "repo_url" : "https://github.com/hovancik/stretchly",
       "title" : "stretchly",
       "screenshots" : [
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-microbreak.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-break.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-tray-1.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-tray-2.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-settings-website-1.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-settings-website-2.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-settings-website-3.png",
-        "https://raw.githubusercontent.com/hovancik/stretchly/master/stretchly-welcome.png"
+
       ],
-      "short_description" : "Cross-platform electron app that reminds you to take breaks when working with computer.",
+      "short_description" : "Cross-platform electron app that reminds you to take breaks when working with computer. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2776,7 +3881,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "The task timer for OS X.",
+      "short_description" : "The task timer for OS X. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2788,9 +3893,21 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/michaelvillar/timer-app/master//screenshots/timer.png"
       ],
-      "short_description" : "Simple Timer app for Mac.",
+      "short_description" : "Simple Timer app for Mac. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "productivity"
+    },
+    {
+      "repo_url" : "https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319",
+      "title" : "Toggl Desktop",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Toggl Desktop app for Windows, Mac and Linux. ",
+      "languages" : [
+        "cpp_icon"
       ],
       "category" : "productivity"
     },
@@ -2800,7 +3917,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial wrapper application for Trello.com written in Swift. This is almost a \"Hello World\" for a site specific browser.",
+      "short_description" : "Unofficial wrapper application for Trello.com written in Swift. This is almost a \"Hello World\" for a site specific browser. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2813,7 +3930,7 @@
         "https://tailordev.github.io/Watson/img/logo-watson-600px.png",
         "https://tailordev.github.io/Watson/img/watson-demo.gif"
       ],
-      "short_description" : "A CLI application for time tracking.",
+      "short_description" : "A CLI application for time tracking. ",
       "languages" : [
         "python_icon"
       ],
@@ -2825,7 +3942,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/1000ch/whale/master/demo.png"
       ],
-      "short_description" : "Unofficial Trello app.",
+      "short_description" : "Unofficial Trello app. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -2835,10 +3952,9 @@
       "repo_url" : "https://github.com/sendyhalim/Yomu",
       "title" : "Yomu",
       "screenshots" : [
-        "https://raw.githubusercontent.com/sendyhalim/Yomu/master/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-512%402x.png",
-        "https://raw.githubusercontent.com/sendyhalim/Yomu/master/Resources/screenshot.png"
+
       ],
-      "short_description" : "Manga reader app for macOS.",
+      "short_description" : "Manga reader app for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2855,7 +3971,19 @@
         "https://user-images.githubusercontent.com/37544189/47649974-1f76a980-db7f-11e8-8339-3f0424652b8c.png",
         "https://user-images.githubusercontent.com/37544189/47649975-200f4000-db7f-11e8-9e8b-f75c4a5ebde4.png"
       ],
-      "short_description" : "Apple TV Aerial Screensaver for macOS.",
+      "short_description" : "Apple TV Aerial Screensaver for macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "screensaver"
+    },
+    {
+      "repo_url" : "https://github.com/ved62/Image-As-Wallpaper",
+      "title" : "Image-As-Wallpaper",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2869,7 +3997,7 @@
         "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/2.png",
         "https://raw.githubusercontent.com/leonspok/Irvue-Screensaver/master/README_resources/3.png"
       ],
-      "short_description" : "Screensaver for macOS.",
+      "short_description" : "Screensaver for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2881,9 +4009,22 @@
       "screenshots" : [
         "http://i.imgur.com/OuF5nOe.jpg"
       ],
-      "short_description" : "iTunes Screensaver Clone for Spotify and Last.fm",
+      "short_description" : "iTunes Screensaver Clone for Spotify and Last.fm ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "screensaver"
+    },
+    {
+      "repo_url" : "https://github.com/winterbe/github-matrix-screensaver",
+      "title" : "The GitHub Matrix Screensaver",
+      "screenshots" : [
+        "http://winterbe.com/image/matrix-has-you.gif",
+        "http://winterbe.com/image/matrix.png"
+      ],
+      "short_description" : "The GitHub Matrix Screensaver for macOS. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "screensaver"
     },
@@ -2891,9 +4032,9 @@
       "repo_url" : "https://github.com/objective-see/LuLu",
       "title" : "LuLu",
       "screenshots" : [
-        "https://objective-see.com/images/LL/lulu.png"
+
       ],
-      "short_description" : "LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.",
+      "short_description" : "LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2906,7 +4047,7 @@
         "https://raw.githubusercontent.com/alichtman/stronghold/master/img/stronghold-logo-left.png",
         "https://raw.githubusercontent.com/alichtman/stronghold/master/img/demo.gif"
       ],
-      "short_description" : "Easily configure macOS security settings from the terminal.",
+      "short_description" : "Easily configure macOS security settings from the terminal. ",
       "languages" : [
         "python_icon"
       ],
@@ -2918,7 +4059,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Lightweight cross-platform BitTorrent client.",
+      "short_description" : "Lightweight cross-platform BitTorrent client. ",
       "languages" : [
         "python_icon"
       ],
@@ -2930,7 +4071,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.",
+      "short_description" : "Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ",
       "languages" : [
         "swift_icon"
       ],
@@ -2942,7 +4083,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "BitTorrent client in Qt.",
+      "short_description" : "BitTorrent client in Qt. ",
       "languages" : [
         "cpp_icon"
       ],
@@ -2954,7 +4095,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS status bar app for quickly sharing files and URLs.",
+      "short_description" : "macOS status bar app for quickly sharing files and URLs. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -2966,7 +4107,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Official Transmission BitTorrent client repository.",
+      "short_description" : "Official Transmission BitTorrent client repository. ![c_icon] ",
       "languages" : [
         "c_icon",
         "objective_c_icon"
@@ -2979,11 +4120,23 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Privacy enhanced BitTorrent client with P2P content discovery.",
+      "short_description" : "Privacy enhanced BitTorrent client with P2P content discovery. ",
       "languages" : [
         "python_icon"
       ],
       "category" : "sharing-files"
+    },
+    {
+      "repo_url" : "https://github.com/vitorgalvao/appear.in",
+      "title" : "appear.in",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Unofficial appear.in app. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/sindresorhus/caprine#features",
@@ -2991,7 +4144,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Elegant Facebook Messenger desktop app.",
+      "short_description" : "Elegant Facebook Messenger desktop app. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3004,7 +4157,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial Facebook Messenger client.",
+      "short_description" : "Unofficial Facebook Messenger client. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3016,7 +4169,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Leviathan is a iOS and macOS client application for the Mastodon social network.",
+      "short_description" : "Leviathan is a iOS and macOS client application for the Mastodon social network. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3028,9 +4181,21 @@
       "screenshots" : [
         "https://fbmacmessenger.rsms.me/screenshot.png"
       ],
-      "short_description" : "macOS app wrapping Facebook's Messenger for desktop.",
+      "short_description" : "macOS app wrapping Facebook's Messenger for desktop. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "social-networking"
+    },
+    {
+      "repo_url" : "https://github.com/producthunt/producthunt-osx) - Official Product Hunt app for macO",
+      "title" : "Product Hunt",
+      "screenshots" : [
+
+      ],
+      "short_description" : "share and discover your favorite new products and applications. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "social-networking"
     },
@@ -3040,7 +4205,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/1000ch/quail/master/demo.png"
       ],
-      "short_description" : "Unofficial [esa](https://esa.io) app.",
+      "short_description" : "Unofficial [esa](https://esa.io) app. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3052,7 +4217,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial Instagram Desktop App.",
+      "short_description" : "Unofficial Instagram Desktop App. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3067,7 +4232,7 @@
         "https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png",
         "https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png"
       ],
-      "short_description" : "macOS menubar app to post status quickly.",
+      "short_description" : "macOS menubar app to post status quickly. ",
       "languages" : [
         "ruby_icon"
       ],
@@ -3079,11 +4244,26 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Perpetual artwork streaming app.",
+      "short_description" : "Perpetual artwork streaming app. ",
       "languages" : [
         "javascript_icon"
       ],
       "category" : "streaming"
+    },
+    {
+      "repo_url" : "https://github.com/raphaelhanneken/apple-juice",
+      "title" : "Apple Juice",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_appmenu.png",
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_notifications.png",
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today.png",
+        "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png"
+      ],
+      "short_description" : "Advanced battery gauge for macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "system"
     },
     {
       "repo_url" : "https://github.com/fuyu/AppPolice",
@@ -3095,9 +4275,21 @@
         "https://cloud.githubusercontent.com/assets/1557716/12860558/11908a78-cc66-11e5-9998-b4bec11dbfeb.png",
         "https://cloud.githubusercontent.com/assets/1557716/12860559/1193fe42-cc66-11e5-9d4f-8b8af842ea72.png"
       ],
-      "short_description" : "App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.",
+      "short_description" : "App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "system"
+    },
+    {
+      "repo_url" : "https://github.com/Kevin-De-Koninck/Clean-Me",
+      "title" : "Clean-Me",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/ReadMe%20Resources/demo.gif"
+      ],
+      "short_description" : "Small macOS app that acts as a system cleaner (logs, cache, ...). ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "system"
     },
@@ -3107,7 +4299,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/macmade/Diagnostics/master/Resources/Screen.png"
       ],
-      "short_description" : "Diagnostics is an application displaying the diagnostic reports from applications on macOS.",
+      "short_description" : "Diagnostics is an application displaying the diagnostic reports from applications on macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3119,7 +4311,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Easily disable or enable a monitor on your Mac.",
+      "short_description" : "Easily disable or enable a monitor on your Mac. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3131,7 +4323,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard.",
+      "short_description" : "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3143,7 +4335,7 @@
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/10573489/26471886/ac78360e-4171-11e7-8b89-1e27fe6a582e.png"
       ],
-      "short_description" : "Monitor your Mac's fan speed and CPU temperature from your Notification Center.",
+      "short_description" : "Monitor your Mac's fan speed and CPU temperature from your Notification Center. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3156,7 +4348,7 @@
         "https://raw.githubusercontent.com/brianmichel/Juice/master//images/icon-readme.png",
         "https://raw.githubusercontent.com/brianmichel/Juice/master//images/cyle-post.png"
       ],
-      "short_description" : "Make your battery information a bit more interesting.",
+      "short_description" : "Make your battery information a bit more interesting. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3168,7 +4360,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/./Extras/Screenshot.jpg"
       ],
-      "short_description" : "Prevents your Mac from going to sleep.",
+      "short_description" : "Prevents your Mac from going to sleep. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3180,7 +4372,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/mangerlahn/Latest/master/./latest.png"
       ],
-      "short_description" : "Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
+      "short_description" : "Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3192,7 +4384,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/BonzaiThePenguin/Loading/master/README/en.jpg"
       ],
-      "short_description" : "Simple network activity monitor for macOS.",
+      "short_description" : "Simple network activity monitor for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3204,7 +4396,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Stop iTunes from opening when you connect your iPhone.",
+      "short_description" : "Stop iTunes from opening when you connect your iPhone. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3216,7 +4408,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/erikberglund/ProfileCreator/master/resources/screenshots/ProfileCreator.png"
       ],
-      "short_description" : "macOS Application to create standard or customized configuration profiles.",
+      "short_description" : "macOS Application to create standard or customized configuration profiles. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3230,7 +4422,19 @@
         "https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot1.jpg",
         "https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot2.jpg"
       ],
-      "short_description" : "Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.",
+      "short_description" : "Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system. ",
+      "languages" : [
+        "objective_c_icon"
+      ],
+      "category" : "system"
+    },
+    {
+      "repo_url" : "https://github.com/rugarciap/Turbo-Boost-Switcher",
+      "title" : "Turbo Boost Switcher",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3242,7 +4446,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/DeromirNeves/VerticalBar/master/img/screenshot.png"
       ],
-      "short_description" : "macOS application to add a vertical bar to Dock.",
+      "short_description" : "macOS application to add a vertical bar to Dock. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3254,9 +4458,21 @@
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png"
       ],
-      "short_description" : "Cross-platform, GPU-accelerated terminal emulator.",
+      "short_description" : "Cross-platform, GPU-accelerated terminal emulator. ",
       "languages" : [
         "rust_icon"
+      ],
+      "category" : "terminal"
+    },
+    {
+      "repo_url" : "https://github.com/ishuah/bifrost",
+      "title" : "Bifrost",
+      "screenshots" : [
+
+      ],
+      "short_description" : "A tiny terminal emulator for serial port communication (macOS/Linux). ",
+      "languages" : [
+        "go_icon"
       ],
       "category" : "terminal"
     },
@@ -3266,7 +4482,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/macmade/Console/master/Assets/MainWindow.png"
       ],
-      "short_description" : "macOS console application.",
+      "short_description" : "macOS console application. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3278,10 +4494,22 @@
       "screenshots" : [
         "https://assets.zeit.co/image/upload/v1537650716/repositories/hyper/hyper-repo-banner.png"
       ],
-      "short_description" : "Terminal built on web technologies.",
+      "short_description" : "Terminal built on web technologies. ![javascript_icon] ",
       "languages" : [
         "javascript_icon",
         "css_icon"
+      ],
+      "category" : "terminal"
+    },
+    {
+      "repo_url" : "https://github.com/gnachman/iTerm2",
+      "title" : "iTerm 2",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Terminal emulator for macOS that does amazing things. ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "terminal"
     },
@@ -3291,7 +4519,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cross-platform, fast, feature full, GPU based terminal emulator.",
+      "short_description" : "Cross-platform, fast, feature full, GPU based terminal emulator. ![c_icon] ",
       "languages" : [
         "c_icon",
         "python_icon"
@@ -3302,10 +4530,9 @@
       "repo_url" : "https://github.com/es-kumagai/OpenTerminal",
       "title" : "OpenTerminal",
       "screenshots" : [
-        "https://raw.githubusercontent.com/es-kumagai/OpenTerminal/master/Resources/OpenTerminal.png",
-        "https://raw.githubusercontent.com/es-kumagai/OpenTerminal/master/Resources/capture.png"
+
       ],
-      "short_description" : "App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.",
+      "short_description" : "App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3325,7 +4552,7 @@
         "https://raw.githubusercontent.com/railsware/upterm/master/README/htop.png",
         "https://raw.githubusercontent.com/railsware/upterm/master/README/cd.png"
       ],
-      "short_description" : "A terminal emulator for the 21st century (formerly Black Screen).",
+      "short_description" : "A terminal emulator for the 21st century (formerly Black Screen). ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3335,13 +4562,41 @@
       "repo_url" : "https://github.com/mczachurski/wallpapper",
       "title" : "wallpapper",
       "screenshots" : [
-        "https://raw.githubusercontent.com/mczachurski/wallpapper/master/Images/wallpaper.png"
+
       ],
-      "short_description" : "wallpapper is a console application for creating dynamic wallpapers for Mojave.",
+      "short_description" : "wallpapper is a console application for creating dynamic wallpapers for Mojave. ",
       "languages" : [
         "swift_icon"
       ],
       "category" : "terminal"
+    },
+    {
+      "repo_url" : "https://github.com/mortenjust/androidtool-mac",
+      "title" : "Android tool for Mac",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/plugging%20in.gif",
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/phonerecording.gif",
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/installapk.gif",
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/dualscreenshot.gif",
+        "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/scriptsfolder.gif"
+      ],
+      "short_description" : "One-click screenshots, video recordings, app installation for iOS and Android ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/ivoronin/ArchiveMounter",
+      "title" : "Archive Mounter",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Mounts archives like disk images ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "utilities"
     },
     {
       "repo_url" : "https://github.com/beardedspice/beardedspice",
@@ -3349,9 +4604,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Control web based media players with the media keys found on Mac keyboards.",
+      "short_description" : "Control web based media players with the media keys found on Mac keyboards. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/buttercup/buttercup-desktop",
+      "title" : "Buttercup Desktop",
+      "screenshots" : [
+        "https://user-images.githubusercontent.com/3869469/35880367-6bd58770-0b86-11e8-879f-d1f9136274a9.png"
+      ],
+      "short_description" : "Secure password manager for mac and other platforms. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "utilities"
     },
@@ -3361,7 +4628,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Catch: Broadcatching made easy.",
+      "short_description" : "Catch: Broadcatching made easy. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3373,7 +4640,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/ekreutz/CornerCal/master/screenshot-01.png"
       ],
-      "short_description" : "Simple, clean calendar and clock app for macOS.",
+      "short_description" : "Simple, clean calendar and clock app for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3388,7 +4655,7 @@
         "https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png",
         "https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png"
       ],
-      "short_description" : "Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.",
+      "short_description" : "Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3400,7 +4667,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Small tool to validate epub files for macOS.",
+      "short_description" : "Small tool to validate epub files for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3412,7 +4679,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Pick between the light appearance and the dark appearance on a per-app basis with the click of a button",
+      "short_description" : "Pick between the light appearance and the dark appearance on a per-app basis with the click of a button ",
       "languages" : [
         "swift_icon"
       ],
@@ -3425,7 +4692,7 @@
         "http://i.imgur.com/4zx0UvT.png",
         "http://i.imgur.com/0vEOyar.png"
       ],
-      "short_description" : "Cocoa application for semi-automated iOS app analysis and evaluation.",
+      "short_description" : "Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ",
       "languages" : [
         "objective_c_icon",
         "c_icon"
@@ -3438,7 +4705,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Screen recorder application built with web technology.",
+      "short_description" : "Screen recorder application built with web technology. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3450,7 +4717,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cross-platform community-driven port of the Windows application \"Keepass Password Safe\"",
+      "short_description" : "Cross-platform community-driven port of the Windows application \"Keepass Password Safe\" ",
       "languages" : [
         "cpp_icon"
       ],
@@ -3460,9 +4727,9 @@
       "repo_url" : "https://github.com/keeweb/keeweb",
       "title" : "KeeWeb",
       "screenshots" : [
-        "https://raw.githubusercontent.com/keeweb/keeweb/master/img/screenshot.png"
+
       ],
-      "short_description" : "Cross-platform password manager compatible with KeePass.",
+      "short_description" : "Cross-platform password manager compatible with KeePass. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3472,9 +4739,23 @@
       "repo_url" : "https://github.com/vishaltelangre/Kyapchar",
       "title" : "Kyapchar",
       "screenshots" : [
-        "https://user-images.githubusercontent.com/876195/42590994-f1416784-8562-11e8-820a-e1cd840a5a35.gif"
+
       ],
-      "short_description" : "Simple screen and microphone audio recorder for macOS.",
+      "short_description" : "Simple screen and microphone audio recorder for macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/wvdk/Life-Calendar",
+      "title" : "Life-Calendar",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%201.png",
+        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png",
+        "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%203.png"
+      ],
+      "short_description" : "Life Calendar. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3486,7 +4767,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/alin23/lunar/master/lunar.gif"
       ],
-      "short_description" : "Intelligent adaptive brightness for your external displays.",
+      "short_description" : "Intelligent adaptive brightness for your external displays. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3496,9 +4777,9 @@
       "repo_url" : "https://github.com/MacPass/MacPass",
       "title" : "MacPass",
       "screenshots" : [
-        "https://raw.githubusercontent.com/mstarke/MacPass/master/Assets/Screenshots/MacPass.png"
+
       ],
-      "short_description" : "Native macOS KeePass client.",
+      "short_description" : "Native macOS KeePass client. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3510,7 +4791,19 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS native app/widget for aria2 download tool.",
+      "short_description" : "macOS native app/widget for aria2 download tool. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/MemeMaker/Meme-Maker-Mac",
+      "title" : "Meme Maker",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Meme Maker macOS application for meme creation. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3522,7 +4815,7 @@
       "screenshots" : [
         "http://ingmarstein.github.io/Monolingual/images/Monolingual-1.6.7-en.png"
       ],
-      "short_description" : "Remove unnecessary language resources from macOS",
+      "short_description" : "Remove unnecessary language resources from macOS ",
       "languages" : [
         "swift_icon"
       ],
@@ -3534,7 +4827,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Smooth your mouse's scrolling and reverse the mouse scroll direction",
+      "short_description" : "Smooth your mouse's scrolling and reverse the mouse scroll direction ",
       "languages" : [
         "swift_icon"
       ],
@@ -3546,7 +4839,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Receive Android notifications on your mac (with PushBullet).",
+      "short_description" : "Receive Android notifications on your mac (with PushBullet). ",
       "languages" : [
         "swift_icon"
       ],
@@ -3558,7 +4851,22 @@
       "screenshots" : [
 
       ],
-      "short_description" : "A minimal, open source password manager for macOS.",
+      "short_description" : "A minimal, open source password manager for macOS. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/sidneys/pb-for-desktop",
+      "title" : "PB for Desktop",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/graphics/icon.png",
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-macos.png",
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-win32.png",
+        "https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-linux.png"
+      ],
+      "short_description" : "Receive native push notifications on macOS, Windows and Linux. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3570,7 +4878,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "A menu bar application that calculates parcents.",
+      "short_description" : "A menu bar application that calculates parcents. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3580,11 +4888,9 @@
       "repo_url" : "https://github.com/maxogden/screencat",
       "title" : "ScreenCat",
       "screenshots" : [
-        "https://raw.githubusercontent.com/maxogden/screencat/master/img/demo.png",
-        "https://raw.githubusercontent.com/maxogden/screencat/master/img/screenshot.png",
-        "https://raw.githubusercontent.com/maxogden/screencat/master/img/remote-control.gif"
+
       ],
-      "short_description" : "ScreenCat is a screen sharing + remote collaboration application.",
+      "short_description" : "ScreenCat is a screen sharing + remote collaboration application. ![css_icon] ",
       "languages" : [
         "css_icon",
         "javascript_icon"
@@ -3597,7 +4903,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Add a global delay to Command-Q to stop accidental app quits.",
+      "short_description" : "Add a global delay to Command-Q to stop accidental app quits. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3609,9 +4915,33 @@
       "screenshots" : [
 
       ],
-      "short_description" : "SIP softphone for Mac.",
+      "short_description" : "SIP softphone for Mac. ![swift_icon] ",
       "languages" : [
         "swift_icon",
+        "objective_c_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://github.com/blockstack/blockstack-browser",
+      "title" : "The Blockstack Browser",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ",
+      "languages" : [
+        "javascript_icon"
+      ],
+      "category" : "utilities"
+    },
+    {
+      "repo_url" : "https://bitbucket.org/kosovan/theunarchiver",
+      "title" : "The Unarchiver",
+      "screenshots" : [
+
+      ],
+      "short_description" : "The Unarchiver is an Objective-C application for uncompressing archive files. ",
+      "languages" : [
         "objective_c_icon"
       ],
       "category" : "utilities"
@@ -3622,7 +4952,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Small macOS application to help you scroll to the top.",
+      "short_description" : "Small macOS application to help you scroll to the top. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3634,7 +4964,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Keep an eye on what's happening on your machine and in the world.",
+      "short_description" : "Keep an eye on what's happening on your machine and in the world. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3646,11 +4976,35 @@
       "screenshots" : [
 
       ],
-      "short_description" : "A rule based custom proxy with GUI for Mac base on clash.",
+      "short_description" : "A rule based custom proxy with GUI for Mac base on clash. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "vpn & proxy"
+      "category" : "vpn--proxy"
+    },
+    {
+      "repo_url" : "https://github.com/riboseinc/rvc-mac",
+      "title" : "rvc-mac",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Ribose VPN Client macOS Menu App. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "vpn--proxy"
+    },
+    {
+      "repo_url" : "https://github.com/shadowsocks/ShadowsocksX-NG",
+      "title" : "ShadowsocksX-NG",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Next Generation of ShadowsocksX. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "vpn--proxy"
     },
     {
       "repo_url" : "https://github.com/zhuhaow/Specht",
@@ -3658,23 +5012,23 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/zhuhaow/Specht/master/imgs/splash.png"
       ],
-      "short_description" : "Rule-based proxy app built with Network Extension for macOS.",
+      "short_description" : "Rule-based proxy app built with Network Extension for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "vpn & proxy"
+      "category" : "vpn--proxy"
     },
     {
       "repo_url" : "https://github.com/zhuhaow/SpechtLite",
       "title" : "SpechtLite",
       "screenshots" : [
-        "https://raw.githubusercontent.com/zhuhaow/SpechtLite/master/imgs/splash.png"
+
       ],
-      "short_description" : "Rule-based proxy app for macOS.",
+      "short_description" : "Rule-based proxy app for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "vpn & proxy"
+      "category" : "vpn--proxy"
     },
     {
       "repo_url" : "https://github.com/Tunnelblick/Tunnelblick",
@@ -3682,20 +5036,31 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Tunnelblick is a graphic user interface for OpenVPN on macOS.",
+      "short_description" : "Tunnelblick is a graphic user interface for OpenVPN on macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "vpn & proxy"
+      "category" : "vpn--proxy"
+    },
+    {
+      "repo_url" : "https://github.com/lostjared/Acid.Cam.v2.OSX",
+      "title" : "Acid.Cam.v2.OSX",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Acid Cam v2 for macOS distorts video to create art. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "video"
     },
     {
       "repo_url" : "https://github.com/insidegui/AppleEvents",
       "title" : "AppleEvents",
       "screenshots" : [
-        "https://raw.githubusercontent.com/insidegui/AppleEvents/master/screenshot_sep_2018.png",
-        "https://raw.githubusercontent.com/insidegui/AppleEvents/master/screenshot2.png"
+
       ],
-      "short_description" : "Unofficial Apple Events app for macOS.",
+      "short_description" : "Unofficial Apple Events app for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3707,7 +5072,20 @@
       "screenshots" : [
         "https://media.giphy.com/media/13bMkBsTQ7mh32/giphy.gif"
       ],
-      "short_description" : "Datamosh your videos on macOS.",
+      "short_description" : "Datamosh your videos on macOS. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "video"
+    },
+    {
+      "repo_url" : "https://github.com/xiaohk/FaceData",
+      "title" : "Face Data",
+      "screenshots" : [
+        "https://i.imgur.com/FEVY2Pu.png",
+        "https://raw.githubusercontent.com/xiaohk/FaceData/master/./result.gif"
+      ],
+      "short_description" : "macOS application used to auto-annotate landmarks from a video. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3719,7 +5097,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Turn any short video into an animated GIF quickly and easily.",
+      "short_description" : "Turn any short video into an animated GIF quickly and easily. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3731,7 +5109,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "HandBrake is a video transcoder available for Linux, Mac, and Windows.",
+      "short_description" : "HandBrake is a video transcoder available for Linux, Mac, and Windows. ",
       "languages" : [
         "c_icon"
       ],
@@ -3743,7 +5121,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Catch YouTube into your macOS menu bar!",
+      "short_description" : "Catch YouTube into your macOS menu bar! ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3755,9 +5133,21 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Easy to use, quick to learn, and surprisingly powerful video editor.",
+      "short_description" : "Easy to use, quick to learn, and surprisingly powerful video editor. ",
       "languages" : [
         "python_icon"
+      ],
+      "category" : "video"
+    },
+    {
+      "repo_url" : "https://github.com/Marginal/QLVideo",
+      "title" : "QuickLook Video",
+      "screenshots" : [
+
+      ],
+      "short_description" : "This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "video"
     },
@@ -3767,9 +5157,35 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Subler is an macOS app created to mux and tag mp4 files.",
+      "short_description" : "Subler is an macOS app created to mux and tag mp4 files. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "video"
+    },
+    {
+      "repo_url" : "https://github.com/sahil-a/vidquizcreator",
+      "title" : "Vid Quiz Creator",
+      "screenshots" : [
+
+      ],
+      "short_description" : "macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "video"
+    },
+    {
+      "repo_url" : "https://github.com/webtorrent/webtorrent-desktop",
+      "title" : "WebTorrent Desktop",
+      "screenshots" : [
+        "https://webtorrent.io/img/WebTorrent.png",
+        "https://webtorrent.io/img/screenshot-player3.png",
+        "https://webtorrent.io/img/screenshot-main.png"
+      ],
+      "short_description" : "Streaming torrent app. For Mac, Windows, and Linux. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "video"
     },
@@ -3779,7 +5195,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Nifty macOS application which enables you to browse and download videos from YouTube.",
+      "short_description" : "Nifty macOS application which enables you to browse and download videos from YouTube. ",
       "languages" : [
         "javascript_icon"
       ],
@@ -3791,7 +5207,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Modern video player for macOS.",
+      "short_description" : "Modern video player for macOS. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3803,9 +5219,22 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/emoRaivis/MacMorpheus/master/wiring_diagram.png"
       ],
-      "short_description" : "3D 180/360 video player for macOS for PSVR with head tracking.",
+      "short_description" : "3D 180/360 video player for macOS for PSVR with head tracking. ",
       "languages" : [
         "objective_c_icon"
+      ],
+      "category" : "player"
+    },
+    {
+      "repo_url" : "https://github.com/lettier/movie-monad",
+      "title" : "Movie Monad",
+      "screenshots" : [
+        "https://i.imgur.com/gdsyIMv.png",
+        "https://i.imgur.com/r1btBMF.gif"
+      ],
+      "short_description" : "Desktop video player built with Haskell that uses GStreamer and GTK+. ",
+      "languages" : [
+        "haskell_icon"
       ],
       "category" : "player"
     },
@@ -3815,7 +5244,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Media player on macOS.",
+      "short_description" : "Media player on macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3827,7 +5256,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Video player based on MPlayer/mplayer2.",
+      "short_description" : "Video player based on MPlayer/mplayer2. ",
       "languages" : [
         "c_icon"
       ],
@@ -3839,9 +5268,21 @@
       "screenshots" : [
         "https://gielcobben.com/github/caption/github_cover.png"
       ],
-      "short_description" : "Caption takes the effort out of finding and setting up the right subtitles.",
+      "short_description" : "Caption takes the effort out of finding and setting up the right subtitles. ",
       "languages" : [
         "javascript_icon"
+      ],
+      "category" : "subtitles"
+    },
+    {
+      "repo_url" : "https://github.com/Kevin-De-Koninck/Sub-It",
+      "title" : "Sub-It",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Small macOS application to download subtitles. ",
+      "languages" : [
+        "swift_icon"
       ],
       "category" : "subtitles"
     },
@@ -3851,11 +5292,23 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Subtitlr is macOS application used to find and download subtitles easily.",
+      "short_description" : "Subtitlr is macOS application used to find and download subtitles easily. ",
       "languages" : [
         "swift_icon"
       ],
       "category" : "subtitles"
+    },
+    {
+      "repo_url" : "https://github.com/cuddlecheek/500-mac-wallpaper",
+      "title" : "500-mac-wallpaper",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "wallpaper"
     },
     {
       "repo_url" : "https://github.com/NghiaTranUIT/artify-macos",
@@ -3866,7 +5319,7 @@
         "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/the-starry-night.jpg",
         "https://raw.githubusercontent.com/NghiaTranUIT/artify-macos/master/images/1440_900_the_wanderer_above_the_sea_of_fog.jpg"
       ],
-      "short_description" : "A macOS application for bringing dedicatedly 18th century Arts to everyone",
+      "short_description" : "A macOS application for bringing dedicatedly 18th century Arts to everyone ",
       "languages" : [
         "swift_icon"
       ],
@@ -3878,7 +5331,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss).",
+      "short_description" : "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ",
       "languages" : [
         "objective_c_icon"
       ],
@@ -3891,9 +5344,33 @@
         "https://raw.githubusercontent.com/pengsrc/BingPaper/master/Screenshots/BingPaper_v0.9.7_en_US.jpg",
         "https://raw.githubusercontent.com/pengsrc/BingPaper/master/Screenshots/BingPaper_v0.9.7_zh_CN.jpg"
       ],
-      "short_description" : "Use Bing daily photo as your wallpaper on macOS.",
+      "short_description" : "Use Bing daily photo as your wallpaper on macOS. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "wallpaper"
+    },
+    {
+      "repo_url" : "https://github.com/VioletGiraffe/desktop-wallpaper-switcher",
+      "title" : "Desktop Wallpaper Switcher",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Win / Linux / macOS tool for managing and cycling desktop wallpapers. ",
+      "languages" : [
+        "cpp_icon"
+      ],
+      "category" : "wallpaper"
+    },
+    {
+      "repo_url" : "https://github.com/viatsko/earth-wallpapers",
+      "title" : "earth-wallpapers",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Simple macOS menubar app which fetches latest photos from a subreddit. ",
+      "languages" : [
+        "javascript_icon"
       ],
       "category" : "wallpaper"
     },
@@ -3903,7 +5380,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "pyDailyChanger is a program that changes your wallpaper daily.",
+      "short_description" : "pyDailyChanger is a program that changes your wallpaper daily. ",
       "languages" : [
         "python_icon"
       ],
@@ -3913,13 +5390,23 @@
       "repo_url" : "https://github.com/naman14/Muzei-macOS",
       "title" : "Muzei",
       "screenshots" : [
-        "https://raw.githubusercontent.com/naman14/Muzei-macOS/master/screenshots/screen1.png",
-        "https://raw.githubusercontent.com/naman14/Muzei-macOS/master/screenshots/screen2.png",
-        "https://raw.githubusercontent.com/naman14/Muzei-macOS/master/screenshots/screen3.png"
+
       ],
-      "short_description" : "Muzei wallpaper app for macOS.",
+      "short_description" : "Muzei wallpaper app for macOS. ",
       "languages" : [
         "swift_icon"
+      ],
+      "category" : "wallpaper"
+    },
+    {
+      "repo_url" : "https://github.com/tomtaylor/satellite-eyes",
+      "title" : "Satellite Eyes",
+      "screenshots" : [
+        "https://user-images.githubusercontent.com/836375/31194770-0950b980-a8fd-11e7-8108-9a08555a0832.png"
+      ],
+      "short_description" : "macOS app to automatically set your desktop wallpaper to the satellite view overhead. ",
+      "languages" : [
+        "objective_c_icon"
       ],
       "category" : "wallpaper"
     },
@@ -3929,7 +5416,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/davidcelis/Sunscreen/master//images/icon.png"
       ],
-      "short_description" : "Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset.",
+      "short_description" : "Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ",
       "languages" : [
         "swift_icon"
       ],
@@ -3941,7 +5428,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image.",
+      "short_description" : "macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. ",
       "languages" : [
         "ruby_icon"
       ],
@@ -3955,11 +5442,11 @@
         "http://ianyh.com/amethyst/images/accessibility-window.png",
         "http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png"
       ],
-      "short_description" : "Automatic tiling window manager for macOS.",
+      "short_description" : "Automatic tiling window manager for macOS. ",
       "languages" : [
         "swift_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/sdegutis/AppGrid",
@@ -3968,11 +5455,11 @@
         "https://raw.githubusercontent.com/sdegutis/AppGrid/master/sshot.png",
         "https://raw.githubusercontent.com/sdegutis/AppGrid/master/grid.gif"
       ],
-      "short_description" : "Grid-based keyboard window manager for macOS.",
+      "short_description" : "Grid-based keyboard window manager for macOS. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/koekeishiya/chunkwm",
@@ -3980,11 +5467,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Tiling window manager for macOS that uses a plugin architecture.",
+      "short_description" : "Tiling window manager for macOS that uses a plugin architecture. ",
       "languages" : [
         "cpp_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/Hammerspoon/hammerspoon",
@@ -3992,12 +5479,12 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Staggeringly powerful macOS desktop automation with Lua.",
+      "short_description" : "Staggeringly powerful macOS desktop automation with Lua. ![objective_c_icon] ",
       "languages" : [
         "objective_c_icon",
         "lua_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/kasper/phoenix",
@@ -4005,11 +5492,11 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/kasper/phoenix/master/assets/screenshot.gif"
       ],
-      "short_description" : "Lightweight macOS window and app manager scriptable with JavaScript.",
+      "short_description" : "Lightweight macOS window and app manager scriptable with JavaScript. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/fikovnik/ShiftIt",
@@ -4019,11 +5506,11 @@
         "https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/docs/schreenshot-menu.png",
         "https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/ShiftIt/AccessibilitySettingsMaverick.png"
       ],
-      "short_description" : "Managing windows size and position.",
+      "short_description" : "Managing windows size and position. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/jigish/slate",
@@ -4031,11 +5518,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Window management application (replacement for Divvy/SizeUp/ShiftIt).",
+      "short_description" : "Window management application (replacement for Divvy/SizeUp/ShiftIt). ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     },
     {
       "repo_url" : "https://github.com/eczarny/spectacle",
@@ -4043,11 +5530,11 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Spectacle allows you to organize your windows without using a mouse.",
+      "short_description" : "Spectacle allows you to organize your windows without using a mouse. ",
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "window management"
+      "category" : "window-management"
     }
   ]
 }

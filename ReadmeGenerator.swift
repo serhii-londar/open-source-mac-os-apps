@@ -247,8 +247,7 @@ class ReadmeGenerator {
             }
         }
         readmeString.append(footer)
-        print(readmeString)
-        try? readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.newReadme.rawValue))
+        try? readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.readme.rawValue))
         print("Finish")
     }
 }
