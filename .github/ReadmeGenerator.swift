@@ -200,7 +200,7 @@ class ReadmeGenerator {
     
     func generateReadme() {
         print("Start")
-        guard let applicationsData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.apps  .rawValue)) else { return }
+        guard let applicationsData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.applications.rawValue)) else { return }
         guard let categoriesData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.categories.rawValue)) else { return }
         let jsonDecoder = JSONDecoder()
         guard let applicationsObject = try? jsonDecoder.decode(JSONApplications.self, from: applicationsData) else { return }
@@ -284,11 +284,9 @@ extension JSONApplication {
 }
 
 enum FilePaths: String {
-    case readme = "./README.md"
-    case newReadme = "./NEWREADME.md"
-    case apps = "./apps.json"
-    case applications = "./applications.json"
-    case categories = "./categories.json"
+    case readme = "./../README.md"
+    case applications = "./../applications.json"
+    case categories = "./../categories.json"
 }
 
 struct Constants {
