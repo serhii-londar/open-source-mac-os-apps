@@ -134,7 +134,6 @@ You can see in which language an app is written. Currently there are following l
 ### Development
 
 #### Git
-
 - [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![c_icon] ![objective_c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/stylekit/img/master/Element210-01.png' width="400"/>  </p></details> 
@@ -149,16 +148,13 @@ You can see in which language an app is written. Currently there are following l
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  </p></details> 
 
 #### JSON Parsing
-
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/5157350/5228493/72693010-7713-11e4-9e42-625a8590424a.png' width="400"/>  </p></details> 
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).  ![swift_icon] 
 
 #### Other
-
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  </p></details> 
 
 #### Web Development
-
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png' width="400"/>  </p></details> 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/DanSanche/KubeMonitor/master/./Screenshot.png' width="400"/>  </p></details> 
 - [Lantern](https://github.com/BurntCaramel/Lantern) - Dedicated Mac app for website auditing and crawling.  ![swift_icon] 
@@ -169,7 +165,6 @@ You can see in which language an app is written. Currently there are following l
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/OAK3hR0.png' width="400"/>  </p></details> 
 
 #### iOS / macOS
-
 - [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your ios-macos-development apps development more easier.  ![objective_c_icon] 
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective_c_icon] 
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/kuyawa/Gallery/master/AppIcons/appicons.png' width="400"/>  </p></details> 
@@ -204,26 +199,21 @@ You can see in which language an app is written. Currently there are following l
 ### Editors
 
 #### CSV
-
 - [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS.  ![objective_c_icon] 
 
 #### JSON
-
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![javascript_icon] 
 
 #### Markdown
-
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.  ![elm_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/gingko/client/master/./docs/images/screenshot-alien-screenplay.png' width="400"/>  </p></details> 
 - [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.  ![objective_c_icon] 
 - [Mark Text](https://github.com/marktext/marktext) - Realtime preview markdown editor for macOS Windows and Linux. ![javascript_icon] 
 - [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/ptzSBmo.jpg' width="400"/>  <bt><img src='https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png' width="400"/>  </p></details> 
 
 #### TeX
-
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.  ![javascript_icon] 
 
 #### Text
-
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/coteditor/CotEditor/master/screenshot@2x.png' width="400"/>  </p></details> 
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS.  ![c_icon] 
 - [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/BlqwbV7.png' width="400"/>  <bt><img src='http://i.imgur.com/SXh8o7n.png' width="400"/>  </p></details> 
