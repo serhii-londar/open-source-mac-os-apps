@@ -2922,7 +2922,7 @@
       "languages" : [
         "python_icon"
       ],
-      "category" : "sharing files"
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/mileswd/mac2imgur",
@@ -2934,7 +2934,7 @@
       "languages" : [
         "swift_icon"
       ],
-      "category" : "sharing files"
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/qbittorrent/qBittorrent",
@@ -2946,7 +2946,7 @@
       "languages" : [
         "cpp_icon"
       ],
-      "category" : "sharing files"
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/timonus/Rhea",
@@ -2958,7 +2958,6 @@
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "sharing files"
     },
     {
       "repo_url" : "https://github.com/transmission/transmission",
@@ -2971,7 +2970,7 @@
         "c_icon",
         "objective_c_icon"
       ],
-      "category" : "sharing files"
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/Tribler/tribler",
@@ -2983,7 +2982,7 @@
       "languages" : [
         "python_icon"
       ],
-      "category" : "sharing files"
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/sindresorhus/caprine#features",
@@ -2996,7 +2995,7 @@
         "javascript_icon",
         "css_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/danielbuechele/goofy",
@@ -3008,7 +3007,7 @@
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/Swiftodon/Leviathan",
@@ -3020,7 +3019,7 @@
       "languages" : [
         "swift_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/rsms/fb-mac-messenger",
@@ -3032,7 +3031,7 @@
       "languages" : [
         "objective_c_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/1000ch/quail",
@@ -3044,7 +3043,7 @@
       "languages" : [
         "javascript_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/terkelg/ramme",
@@ -3057,7 +3056,7 @@
         "javascript_icon",
         "css_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/KeliCheng/Simpo",
@@ -3071,7 +3070,7 @@
       "languages" : [
         "ruby_icon"
       ],
-      "category" : "social networking"
+      "category" : "social-networking"
     },
     {
       "repo_url" : "https://github.com/michealparks/galeri",
