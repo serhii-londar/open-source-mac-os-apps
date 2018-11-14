@@ -2,8 +2,9 @@
 
 set -e
 
-if [[ $TRAVIS_BRANCH != 'redme-generation' ]]
+if [[ $TRAVIS_BRANCH != 'readme-generation' ]]
 then
+  echo 'exit'
   exit
 fi
 
