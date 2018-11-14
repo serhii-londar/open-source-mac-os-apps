@@ -221,6 +221,7 @@ class ReadmeGenerator {
         applications = applications.sorted(by: { $0.category < $1.category })
         
         readmeString.append(header)
+        print("Start iteration....")
         
         for category in categories {
             readmeString.append(String.enter + String.section + String.space + category.title + String.enter)
@@ -246,6 +247,7 @@ class ReadmeGenerator {
                 }
             }
         }
+        print("Finish iteration...")
         readmeString.append(footer)
         try? readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.readme.rawValue))
         print("Finish")

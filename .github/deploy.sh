@@ -13,6 +13,8 @@ git checkout readme-generation
 git config user.name "serhii-londar"
 git config user.email "serhii.londar@gmail.com"
 
+git status
+
 echo add readme
 git add README.md
 
