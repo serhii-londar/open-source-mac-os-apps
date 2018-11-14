@@ -286,9 +286,9 @@ extension JSONApplication {
 }
 
 enum FilePaths: String {
-    case readme = "./../README.md"
-    case applications = "./../applications.json"
-    case categories = "./../categories.json"
+    case readme = "./README.md"
+    case applications = "./applications.json"
+    case categories = "./categories.json"
 }
 
 struct Constants {
