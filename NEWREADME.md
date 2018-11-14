@@ -381,13 +381,20 @@ You can see in which language an app is written. Currently there are following l
 
 ### Sharing Files
 - [Deluge](https://git.deluge-torrent.org/deluge) - Lightweight cross-platform BitTorrent client.  ![python_icon] 
-- [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing-files and URLs.  ![objective_c_icon] 
+- [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.  ![objective_c_icon] 
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![c_icon] ![objective_c_icon] 
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.  ![python_icon] 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.  ![swift_icon] 
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt.  ![cpp_icon] 
 
 ### Social Networking
+- [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![javascript_icon] ![css_icon] 
+- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.  ![javascript_icon] 
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.  ![swift_icon] 
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://fbmacmessenger.rsms.me/screenshot.png' width="400"/>  </p></details> 
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/1000ch/quail/master/demo.png' width="400"/>  </p></details> 
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon] 
+- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.  ![ruby_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/preview.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/KeliCheng/Simpo/master/donate.png' width="400"/>  </p></details> 
 
 ### Streaming
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.  ![javascript_icon] 
