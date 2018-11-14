@@ -2,7 +2,7 @@
 
 set -e
 
-if [[ $TRAVIS_BRANCH != 'master' ]]
+if [[ $TRAVIS_BRANCH != 'redme-generation' ]]
 then
   exit
 fi
@@ -19,4 +19,4 @@ echo commit
 git commit -m "Generate README"
 
 echo push
-git push --quiet "https://${GITHUB_TOKEN}@github.com/serhii-londar/open-source-mac-os-apps.git" master:master > /dev/null 2>&1
+git push --quiet "https://${DANGER_GITHUB_API_TOKEN}@github.com/serhii-londar/open-source-mac-os-apps.git" master:master > /dev/null 2>&1
