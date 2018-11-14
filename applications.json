@@ -2958,6 +2958,7 @@
       "languages" : [
         "objective_c_icon"
       ],
+      "category" : "sharing-files"
     },
     {
       "repo_url" : "https://github.com/transmission/transmission",
