@@ -316,7 +316,7 @@
       "repo_url" : "https://github.com/alichtman/shallow-backup",
       "title" : "shallow-backup",
       "screenshots" : [
-        "https://raw.githubusercontent.com/alichtman/shallow-backup/master/img/demo_faster.gif"
+        "https://github.com/alichtman/shallow-backup/blob/master/img/shallow-backup-demo.gif"
       ],
       "short_description" : "Easily create lightweight documentation of installed applications, dotfiles, and more. ",
       "languages" : [
@@ -2005,7 +2005,7 @@
       "title" : "Clipy",
       "screenshots" : [
         "https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png",
-        "http://clipy-app.com/img/screenshot1.png"
+        "https://clipy-app.com/img/screenshot1.png"
       ],
       "short_description" : "Clipy is a Clipboard extension app for macOS. ",
       "languages" : [
@@ -2331,7 +2331,7 @@
       "repo_url" : "https://github.com/pkulchenko/ZeroBraneStudio",
       "title" : "ZeroBraneStudio",
       "screenshots" : [
-        "http://studio.zerobrane.com/images/debugging.png"
+        "https://studio.zerobrane.com/images/debugging.png"
       ],
       "short_description" : "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ",
       "languages" : [
@@ -2876,8 +2876,8 @@
       "repo_url" : "https://github.com/mamal72/lyricsify-mac",
       "title" : "lyricsify",
       "screenshots" : [
-        "https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/en.png",
-        "https://cdn.rawgit.com/mamal72/lyricsify-mac/master/screenshots/fa.png"
+        "https://raw.githubusercontent.com/mamal72/lyricsify-mac/master/screenshots/en.png",
+        "https://raw.githubusercontent.com/mamal72/lyricsify-mac/master/screenshots/fa.png"
       ],
       "short_description" : "Simple Spotify lyrics viewer menu bar app for macOS in Swift. ",
       "languages" : [
@@ -3335,7 +3335,7 @@
       "repo_url" : "https://github.com/lanayotech/vagrant-manager",
       "title" : "Vagrant Manager",
       "screenshots" : [
-        "http://vagrantmanager.com/demo.gif"
+        "https://i.imgur.com/1NTsz6S.gif"
       ],
       "short_description" : "Manage your vagrant machines in one place with Vagrant Manager for macOS.  ",
       "languages" : [
@@ -3397,14 +3397,14 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/compact-mode.png",
-        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-dark-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/55af062e/media/vibrant-dark-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/ao-vibrant.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/black-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/sepia-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/custom-shortcut-keys.gif",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/dark-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif",
-        "https://cdn.rawgit.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
+        "https://raw.githubusercontent.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/logo.png"
       ],
       "short_description" : "Elegant Microsoft To-Do desktop app. ![javascript_icon] ",
@@ -3776,8 +3776,8 @@
       "repo_url" : "https://github.com/winterbe/github-matrix-screensaver",
       "title" : "The GitHub Matrix Screensaver",
       "screenshots" : [
-        "http://winterbe.com/image/matrix-has-you.gif",
-        "http://winterbe.com/image/matrix.png"
+        "https://winterbe.com/image/matrix-has-you.gif",
+        "https://winterbe.com/image/matrix.png"
       ],
       "short_description" : "The GitHub Matrix Screensaver for macOS. ",
       "languages" : [
@@ -4569,7 +4569,7 @@
       "repo_url" : "https://github.com/IngmarStein/Monolingual",
       "title" : "Monolingual",
       "screenshots" : [
-        "http://ingmarstein.github.io/Monolingual/images/Monolingual-1.6.7-en.png"
+        "https://ingmarstein.github.io/Monolingual/images/Monolingual-1.6.7-en.png"
       ],
       "short_description" : "Remove unnecessary language resources from macOS ",
       "languages" : [
@@ -4739,7 +4739,7 @@
       "category" : "vpn--proxy"
     },
     {
-      "repo_url" : "https://github.com/riboseinc/rvc-mac",
+      "repo_url" : "https://github.com/riboseinc/cryptode-mac",
       "title" : "rvc-mac",
       "screenshots" : [
 
