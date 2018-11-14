@@ -5279,18 +5279,6 @@
         "objective_c_icon"
       ],
       "category" : "window-management"
-    },
-    {
-      "repo_url" : "https://github.com/eczarny/spectacle",
-      "title" : "Spectacle",
-      "screenshots" : [
-
-      ],
-      "short_description" : "Spectacle allows you to organize your windows without using a mouse. ",
-      "languages" : [
-        "objective_c_icon"
-      ],
-      "category" : "window-management"
     }
   ]
 }
