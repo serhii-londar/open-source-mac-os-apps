@@ -2,9 +2,9 @@
 
 set -e
 
-echo ${TRAVIS_BRANCH}
+echo ${TRAVIS_EVENT_TYPE}
 
-if [[ ${TRAVIS_BRANCH} != 'master' ]]
+if [[ ${TRAVIS_EVENT_TYPE} != 'push' ]]
 then
   exit
 fi
