@@ -5291,6 +5291,21 @@
         "objective_c_icon"
       ],
       "category" : "window-management"
-    }
+    },
+     {
+       "repo_url" : "https://github.com/klaaspieter/letters",
+       "title" : "Letters",
+       "screenshots" : [
+         "https://camo.githubusercontent.com/9a6e15d41e4976c204add53b0ee9ac95e97ad86f/687474703a2f2f692e67697068792e636f6d2f336f365a73536b78743056326e37396b546d2e676966",
+         "https://user-images.githubusercontent.com/98880/35166585-a81ed35e-fd52-11e7-87e1-9e82a03cc36d.jpg",
+         "https://user-images.githubusercontent.com/98880/35166588-a90e5c12-fd52-11e7-8fcc-45679328392c.jpg",
+         "https://user-images.githubusercontent.com/98880/35166586-a85293c4-fd52-11e7-80d9-ea13dd5e8038.jpg"
+       ],
+       "short_description" : "Teach your kids the alphabet and how to type.",
+       "languages" : [
+         "swift_icon"
+       ],
+       "category" : "other"
+     }
   ]
 }
