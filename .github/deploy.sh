@@ -6,6 +6,7 @@ echo ${TRAVIS_EVENT_TYPE}
 
 if [[ ${TRAVIS_EVENT_TYPE} != 'push' ]]
 then
+  echo 'exit' 
   exit
 fi
 
