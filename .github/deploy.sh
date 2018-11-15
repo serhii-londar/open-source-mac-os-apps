@@ -3,10 +3,15 @@
 set -e
 
 echo ${TRAVIS_EVENT_TYPE}
+echo ${TRAVIS_BRANCH}
 
 if [[ ${TRAVIS_EVENT_TYPE} != 'push' ]]
 then
-  echo 'exit' 
+  exit
+fi
+
+if [[ ${TRAVIS_BRANCH} != 'master' ]]
+then
   exit
 fi
 
