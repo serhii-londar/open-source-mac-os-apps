@@ -295,6 +295,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://openemu.org/img/intro-md.png' width="400"/>  </p></details> 
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2.  ![cpp_icon] 
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/AaronRandall/Screentendo/master/Screentendo/Screentendo.gif' width="400"/>  </p></details> 
+- [Spine](https://github.com/maxgribov/Spine) - Unofficial Spine runtime library. Allows you to play animations created in the Spine app. ![swift_icon] <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/maxgribov/Spine/master/images/spine_readme_hero.png' width="400"/>  </p></details>
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![cpp_icon]  ![cpp_icon] ![objective_c_icon] 
 
 ### Graphics
