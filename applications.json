@@ -137,10 +137,10 @@
         "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-07-21%20at%204.34.33%20PM.jpg",
         "https://raw.githubusercontent.com/lyc2345/Lyricism/master/screenshot/Screen%20Shot%202016-09-20%20at%209.22.59%20AM.jpg"
       ],
-      "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing. ![swift_icon] ",
+      "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing. ",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "audio"
     },
@@ -230,10 +230,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Spotify and iTunes in your menu bar. ![swift_icon] ",
+      "short_description" : "Spotify and iTunes in your menu bar.",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "audio"
     },
@@ -281,10 +281,10 @@
       "screenshots" : [
         "https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif"
       ],
-      "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. ![c_icon] ",
+      "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.",
       "languages" : [
-        "c_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "c_icon"
       ],
       "category" : "audio"
     },
@@ -330,10 +330,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "UrBackup is Client/Server network backup for Windows, macOS and Linux. ![c_icon] ",
+      "short_description" : "UrBackup is Client/Server network backup for Windows, macOS and Linux.",
       "languages" : [
-        "c_icon",
-        "cpp_icon"
+        "cpp_icon",
+        "c_icon"
       ],
       "category" : "backup"
     },
@@ -380,10 +380,10 @@
       "screenshots" : [
         "http://heliumfloats.com/screenshot.png"
       ],
-      "short_description" : "Floating browser window for macOS. ![swift_icon] ",
+      "short_description" : "Floating browser window for macOS.",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "browser"
     },
@@ -503,7 +503,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png"
       ],
-      "short_description" : "Unofficial GroupMe App. ![javascript_icon] ",
+      "short_description" : "Unofficial GroupMe App.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -795,10 +795,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cashew macOS Github Issue Tracker. ![c_icon] ![objective_c_icon] ",
+      "short_description" : "Cashew macOS Github Issue Tracker.",
       "languages" : [
-        "c_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "c_icon"
       ],
       "category" : "git"
     },
@@ -821,10 +821,10 @@
         "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_notification.png",
         "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/vc_settings.png"
       ],
-      "short_description" : "Gitee, macOS status bar application for Github. ![swift_icon] ",
+      "short_description" : "Gitee, macOS status bar application for Github.",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "git"
     },
@@ -1058,7 +1058,7 @@
         "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot_themestore.png",
         "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/./quicklook_thumb.png"
       ],
-      "short_description" : "App that lets you open .car files and browse/extract their images. ![objective_c_icon] ",
+      "short_description" : "App that lets you open .car files and browse/extract their images.",
       "languages" : [
         "objective_c_icon",
         "swift_icon"
@@ -1229,7 +1229,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "overdue Swift rewrite of Injection. ![objective_c_icon] ",
+      "short_description" : "overdue Swift rewrite of Injection.",
       "languages" : [
         "objective_c_icon",
         "swift_icon"
@@ -1769,10 +1769,10 @@
         "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/pillagerpreview.png",
         "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/useffmpeg.gif"
       ],
-      "short_description" : "macOS Video Downloader written in Swift and Objective-C ![swift_icon] ",
+      "short_description" : "macOS Video Downloader written in Swift and Objective-C.",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "downloader"
     },
@@ -2068,10 +2068,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "The DOS game emulator that’s fit for your Mac. ![objective_c_icon] ",
+      "short_description" : "The DOS game emulator that’s fit for your Mac.",
       "languages" : [
-        "objective_c_icon",
-        "cpp_icon"
+        "cpp_icon",
+        "objective_c_icon"
       ],
       "category" : "games"
     },
@@ -2129,7 +2129,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Beautiful, powerful chess application. ![cpp_icon] ",
+      "short_description" : "Beautiful, powerful chess application.",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -2142,7 +2142,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![cpp_icon] ",
+      "short_description" : "Animated sprite editor & pixel art tool (Windows, macOS, Linux).",
       "languages" : [
         "cpp_icon",
         "c_icon"
@@ -2270,7 +2270,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/duyquoc/ScreenToLayers/master/./Others/presentation.png"
       ],
-      "short_description" : "ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![objective_c_icon] ",
+      "short_description" : "ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.",
       "languages" : [
         "objective_c_icon",
         "css_icon"
@@ -2283,7 +2283,7 @@
       "screenshots" : [
         "https://i.cloudup.com/XTLlL1-Stt-3000x3000.png"
       ],
-      "short_description" : "Plugin manager for Sketch.app. ![objective_c_icon] ",
+      "short_description" : "Plugin manager for Sketch.app.",
       "languages" : [
         "objective_c_icon",
         "c_icon"
@@ -2393,10 +2393,10 @@
       "screenshots" : [
         "https://pngmini.com/screenshot-1.3.png"
       ],
-      "short_description" : "Mac GUI for pngquant, pngnq and posterizer. ![python_icon] ",
+      "short_description" : "Mac GUI for pngquant, pngnq and posterizer.",
       "languages" : [
-        "python_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "python_icon"
       ],
       "category" : "images"
     },
@@ -2418,7 +2418,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Katana is a simple screenshot utility for macOS that lives in your menubar. ![javascript_icon] ",
+      "short_description" : "Katana is a simple screenshot utility for macOS that lives in your menubar.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2460,10 +2460,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![c_icon] ",
+      "short_description" : "WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP.",
       "languages" : [
-        "c_icon",
-        "swift_icon"
+        "swift_icon",
+        "c_icon"
       ],
       "category" : "images"
     },
@@ -2509,7 +2509,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![cpp_icon] ",
+      "short_description" : "Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -2522,7 +2522,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ",
+      "short_description" : "Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -2573,7 +2573,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/dinhviethoa/dejalu/master/screenshot.jpg"
       ],
-      "short_description" : "Fast and Simple Email Client. ![cpp_icon] ",
+      "short_description" : "Fast and Simple Email Client.",
       "languages" : [
         "cpp_icon",
         "objective_c_icon"
@@ -2586,7 +2586,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial Google Inbox Desktop App. ![javascript_icon] ",
+      "short_description" : "Unofficial Google Inbox Desktop App.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2623,7 +2623,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ",
+      "short_description" : "Cross Platform messaging and emailing app that combines common web applications into one.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -2804,10 +2804,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![c_icon] ",
+      "short_description" : "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
       "languages" : [
-        "c_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "c_icon"
       ],
       "category" : "menubar"
     },
@@ -2990,7 +2990,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Little app that you can use as a quick note taking or todo app. ![javascript_icon] ",
+      "short_description" : "Little app that you can use as a quick note taking or todo app.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3094,7 +3094,7 @@
       "screenshots" : [
         "https://standardnotes.org/assets/homepage-hero.png"
       ],
-      "short_description" : "Safe place for your notes, thoughts, and life's work. ![javascript_icon] ",
+      "short_description" : "Safe place for your notes, thoughts, and life's work.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3114,12 +3114,12 @@
       "category" : "notes"
     },
     {
-      "repo_url" : "https://github.com/klauscfhq/tusk",
+      "repo_url" : "https://github.com/klaussinani/tusk",
       "title" : "Tusk",
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ",
+      "short_description" : "Unofficial, third-party, community driven Evernote app with a handful of useful features.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3392,7 +3392,7 @@
       "category" : "podcast"
     },
     {
-      "repo_url" : "https://github.com/klauscfhq/ao",
+      "repo_url" : "https://github.com/klaussinani/ao",
       "title" : "Ao",
       "screenshots" : [
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
@@ -3407,7 +3407,7 @@
         "https://raw.githubusercontent.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
         "https://raw.githubusercontent.com/klauscfhq/ao/master/media/logo.png"
       ],
-      "short_description" : "Elegant Microsoft To-Do desktop app. ![javascript_icon] ",
+      "short_description" : "Elegant Microsoft To-Do desktop app.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3864,10 +3864,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Official Transmission BitTorrent client repository. ![c_icon] ",
+      "short_description" : "Official Transmission BitTorrent client repository.",
       "languages" : [
-        "c_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "c_icon"
       ],
       "category" : "sharing-files"
     },
@@ -3901,7 +3901,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Elegant Facebook Messenger desktop app. ![javascript_icon] ",
+      "short_description" : "Elegant Facebook Messenger desktop app.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -3974,7 +3974,7 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Unofficial Instagram Desktop App. ![javascript_icon] ",
+      "short_description" : "Unofficial Instagram Desktop App.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -4250,7 +4250,7 @@
       "screenshots" : [
         "https://assets.zeit.co/image/upload/v1537650716/repositories/hyper/hyper-repo-banner.png"
       ],
-      "short_description" : "Terminal built on web technologies. ![javascript_icon] ",
+      "short_description" : "Terminal built on web technologies.",
       "languages" : [
         "javascript_icon",
         "css_icon"
@@ -4275,10 +4275,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Cross-platform, fast, feature full, GPU based terminal emulator. ![c_icon] ",
+      "short_description" : "Cross-platform, fast, feature full, GPU based terminal emulator.",
       "languages" : [
-        "c_icon",
-        "python_icon"
+        "python_icon",
+        "c_icon"
       ],
       "category" : "terminal"
     },
@@ -4448,7 +4448,7 @@
         "http://i.imgur.com/4zx0UvT.png",
         "http://i.imgur.com/0vEOyar.png"
       ],
-      "short_description" : "Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ",
+      "short_description" : "Cocoa application for semi-automated iOS app analysis and evaluation.",
       "languages" : [
         "objective_c_icon",
         "c_icon"
@@ -4646,10 +4646,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "ScreenCat is a screen sharing + remote collaboration application. ![css_icon] ",
+      "short_description" : "ScreenCat is a screen sharing + remote collaboration application.",
       "languages" : [
-        "css_icon",
-        "javascript_icon"
+        "javascript_icon",
+        "css_icon"
       ],
       "category" : "utilities"
     },
@@ -4671,10 +4671,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "SIP softphone for Mac. ![swift_icon] ",
+      "short_description" : "SIP softphone for macOS.",
       "languages" : [
-        "swift_icon",
-        "objective_c_icon"
+        "objective_c_icon",
+        "swift_icon"
       ],
       "category" : "utilities"
     },
@@ -5235,10 +5235,10 @@
       "screenshots" : [
 
       ],
-      "short_description" : "Staggeringly powerful macOS desktop automation with Lua. ![objective_c_icon] ",
+      "short_description" : "Staggeringly powerful macOS desktop automation with Lua.",
       "languages" : [
-        "objective_c_icon",
-        "lua_icon"
+        "lua_icon",
+        "objective_c_icon"
       ],
       "category" : "window-management"
     },
@@ -5292,20 +5292,20 @@
       ],
       "category" : "window-management"
     },
-     {
-       "repo_url" : "https://github.com/klaaspieter/letters",
-       "title" : "Letters",
-       "screenshots" : [
-         "https://camo.githubusercontent.com/9a6e15d41e4976c204add53b0ee9ac95e97ad86f/687474703a2f2f692e67697068792e636f6d2f336f365a73536b78743056326e37396b546d2e676966",
-         "https://user-images.githubusercontent.com/98880/35166585-a81ed35e-fd52-11e7-87e1-9e82a03cc36d.jpg",
-         "https://user-images.githubusercontent.com/98880/35166588-a90e5c12-fd52-11e7-8fcc-45679328392c.jpg",
-         "https://user-images.githubusercontent.com/98880/35166586-a85293c4-fd52-11e7-80d9-ea13dd5e8038.jpg"
-       ],
-       "short_description" : "Teach your kids the alphabet and how to type.",
-       "languages" : [
-         "swift_icon"
-       ],
-       "category" : "other"
-     }
+    {
+      "repo_url" : "https://github.com/klaaspieter/letters",
+      "title" : "Letters",
+      "screenshots" : [
+        "https://camo.githubusercontent.com/9a6e15d41e4976c204add53b0ee9ac95e97ad86f/687474703a2f2f692e67697068792e636f6d2f336f365a73536b78743056326e37396b546d2e676966",
+        "https://user-images.githubusercontent.com/98880/35166585-a81ed35e-fd52-11e7-87e1-9e82a03cc36d.jpg",
+        "https://user-images.githubusercontent.com/98880/35166588-a90e5c12-fd52-11e7-8fcc-45679328392c.jpg",
+        "https://user-images.githubusercontent.com/98880/35166586-a85293c4-fd52-11e7-80d9-ea13dd5e8038.jpg"
+      ],
+      "short_description" : "Teach your kids the alphabet and how to type.",
+      "languages" : [
+        "swift_icon"
+      ],
+      "category" : "other"
+    }
   ]
 }
