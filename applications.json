@@ -228,7 +228,7 @@
       "repo_url" : "https://github.com/kmikiy/SpotMenu",
       "title" : "SpotMenu",
       "screenshots" : [
-
+        "https://raw.githubusercontent.com/kmikiy/SpotMenu/master/Demo/demo.gif"
       ],
       "short_description" : "Spotify and iTunes in your menu bar.",
       "languages" : [
@@ -718,7 +718,7 @@
       "repo_url" : "https://github.com/sqlitebrowser/sqlitebrowser",
       "title" : "DB Browser for SQLite",
       "screenshots" : [
-
+        "https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png"
       ],
       "short_description" : "SQLite database management GUI. ",
       "languages" : [
@@ -969,7 +969,8 @@
       "repo_url" : "https://github.com/ptsochantaris/trailer",
       "title" : "Trailer",
       "screenshots" : [
-
+        "http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png",
+        "http://ptsochantaris.github.io/trailer/images/background-2400.png"
       ],
       "short_description" : "Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ",
       "languages" : [
@@ -2103,7 +2104,7 @@
       "repo_url" : "https://github.com/OpenRCT2/OpenRCT2",
       "title" : "OpenRCT2",
       "screenshots" : [
-
+        "https://camo.githubusercontent.com/888d993a9716208446bd0d5a762977d6b7993058/68747470733a2f2f692e696d6775722e636f6d2f6537434b3553632e706e67"
       ],
       "short_description" : "Re-implementation of RollerCoaster Tycoon 2. ",
       "languages" : [
