@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
 <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fserhii-londar%2Fopen-source-mac-os-apps?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fserhii-londar%2Fopen-source-mac-os-apps.svg?type=shield"/></a>
 </p>
 
 ## Support
@@ -610,3 +611,6 @@ Thanks to all the people who contribute:
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fserhii-londar%2Fopen-source-mac-os-apps.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fserhii-londar%2Fopen-source-mac-os-apps?ref=badge_large)
