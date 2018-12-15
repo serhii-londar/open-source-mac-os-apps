@@ -273,7 +273,8 @@ You can see in which language an app is written. Currently there are following l
 #### Text
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/coteditor/CotEditor/master/screenshot@2x.png' width="400"/>  </p></details> 
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS.  ![c_icon] 
-- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/BlqwbV7.png' width="400"/>  <bt><img src='http://i.imgur.com/SXh8o7n.png' width="400"/>  </p></details> 
+- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='http://i.imgur.com/BlqwbV7.png' width="400"/>  <bt><img src='http://i.imgur.com/SXh8o7n.png' width="400"/>  </p></details>
+- [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature. ![objective_c_icon] 
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/textmate/textmate/gh-pages/images/screenshot.png' width="400"/>  </p></details> 
 - [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS.  ![swift_icon] 
 
