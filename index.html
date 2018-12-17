@@ -7,56 +7,160 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Awesome macOS open source applications.</title>
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
   <style>
     body {
-      min-height: 2000px;
-      padding-top: 70px;
       font-family: Helvetica, sans-serif;
     }
+    header, footer {
+      background-color: #fa664c;
+      height: 50px;
+      z-index: 100;
+    }
+    header {
+      border-bottom: 2px solid #fff;
+      top: 0;
+    }
+    footer {
+      border-top: 2px solid #fff;
+    }
+
     #content {
       max-width: 1024px;
+      min-height: calc(100vh - 100px);
       margin: 0 auto;
       padding: 0 10px;
       display: block;
+      transform: scaleY(0);
+      opacity: 0;
+      transform-origin: top;
+      transition: transform .5s ease, opacity 1s cubic-bezier(0.96, 0, 0.96, 0.59);
     }
-
+    #content.loaded {
+      transform: scaleY(1);
+      opacity: 1;
+    }
     p > img {
       width: 100%;
+    }
+
+    .scroll-top {
+      padding: 10px;
+      font-size: 60px;
+      position: sticky;
+      bottom: 0;
+      display: flex;
+      justify-content: flex-end;
+      line-height: 60px;
+      color: #fc6545;
+      opacity: 0.3;
+      transition: opacity .15s linear;
+      cursor: pointer;
+    }
+    .scroll-top:hover {
+      opacity: 1;
+    }
+
+    .whirly-loader:not(:required) {
+      transform: translate(-50%, -50%);
+      top: 50vh;
+      left: 50vw;
+      overflow: hidden;
+      position: absolute;
+      text-indent: -9999px;
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: transparent;
+      -moz-border-radius: 100%;
+      -webkit-border-radius: 100%;
+      border-radius: 100%;
+      -moz-box-shadow: #fa664c 0px 26px 0 6px, #fa664c 0.90971px 26.05079px 0 5.93333px, #fa664c 1.82297px 26.06967px 0 5.86667px, #fa664c 2.73865px 26.05647px 0 5.8px, #fa664c 3.65561px 26.01104px 0 5.73333px, #fa664c 4.57274px 25.93327px 0 5.66667px, #fa664c 5.48887px 25.8231px 0 5.6px, #fa664c 6.40287px 25.68049px 0 5.53333px, #fa664c 7.31358px 25.50548px 0 5.46667px, #fa664c 8.21985px 25.2981px 0 5.4px, #fa664c 9.12054px 25.05847px 0 5.33333px, #fa664c 10.01448px 24.78672px 0 5.26667px, #fa664c 10.90054px 24.48302px 0 5.2px, #fa664c 11.77757px 24.1476px 0 5.13333px, #fa664c 12.64443px 23.78072px 0 5.06667px, #fa664c 13.5px 23.38269px 0 5px, #fa664c 14.34315px 22.95384px 0 4.93333px, #fa664c 15.17277px 22.49455px 0 4.86667px, #fa664c 15.98776px 22.00526px 0 4.8px, #fa664c 16.78704px 21.48643px 0 4.73333px, #fa664c 17.56953px 20.93855px 0 4.66667px, #fa664c 18.33418px 20.36217px 0 4.6px, #fa664c 19.07995px 19.75787px 0 4.53333px, #fa664c 19.80582px 19.12626px 0 4.46667px, #fa664c 20.5108px 18.468px 0 4.4px, #fa664c 21.1939px 17.78379px 0 4.33333px, #fa664c 21.85416px 17.07434px 0 4.26667px, #fa664c 22.49067px 16.34043px 0 4.2px, #fa664c 23.10251px 15.58284px 0 4.13333px, #fa664c 23.68881px 14.80241px 0 4.06667px, #fa664c 24.24871px 14.0px 0 4px, #fa664c 24.7814px 13.1765px 0 3.93333px, #fa664c 25.28607px 12.33284px 0 3.86667px, #fa664c 25.76198px 11.46997px 0 3.8px, #fa664c 26.2084px 10.58888px 0 3.73333px, #fa664c 26.62462px 9.69057px 0 3.66667px, #fa664c 27.01001px 8.77608px 0 3.6px, #fa664c 27.36392px 7.84648px 0 3.53333px, #fa664c 27.68577px 6.90284px 0 3.46667px, #fa664c 27.97502px 5.94627px 0 3.4px, #fa664c 28.23116px 4.97791px 0 3.33333px, #fa664c 28.4537px 3.99891px 0 3.26667px, #fa664c 28.64223px 3.01042px 0 3.2px, #fa664c 28.79635px 2.01364px 0 3.13333px, #fa664c 28.91571px 1.00976px 0 3.06667px, #fa664c 29px 0.0px 0 3px, #fa664c 29.04896px -1.01441px 0 2.93333px, #fa664c 29.06237px -2.03224px 0 2.86667px, #fa664c 29.04004px -3.05223px 0 2.8px, #fa664c 28.98185px -4.07313px 0 2.73333px, #fa664c 28.88769px -5.09368px 0 2.66667px, #fa664c 28.75754px -6.1126px 0 2.6px, #fa664c 28.59138px -7.12863px 0 2.53333px, #fa664c 28.38926px -8.14049px 0 2.46667px, #fa664c 28.15127px -9.1469px 0 2.4px, #fa664c 27.87755px -10.1466px 0 2.33333px, #fa664c 27.56827px -11.1383px 0 2.26667px, #fa664c 27.22365px -12.12075px 0 2.2px, #fa664c 26.84398px -13.09268px 0 2.13333px, #fa664c 26.42956px -14.05285px 0 2.06667px, #fa664c 25.98076px -15.0px 0 2px, #fa664c 25.49798px -15.93291px 0 1.93333px, #fa664c 24.98167px -16.85035px 0 1.86667px, #fa664c 24.43231px -17.75111px 0 1.8px, #fa664c 23.85046px -18.63402px 0 1.73333px, #fa664c 23.23668px -19.49789px 0 1.66667px, #fa664c 22.5916px -20.34157px 0 1.6px, #fa664c 21.91589px -21.16393px 0 1.53333px, #fa664c 21.21024px -21.96384px 0 1.46667px, #fa664c 20.4754px -22.74023px 0 1.4px, #fa664c 19.71215px -23.49203px 0 1.33333px, #fa664c 18.92133px -24.2182px 0 1.26667px, #fa664c 18.10379px -24.91772px 0 1.2px, #fa664c 17.26042px -25.58963px 0 1.13333px, #fa664c 16.39217px -26.23295px 0 1.06667px, #fa664c 15.5px -26.84679px 0 1px, #fa664c 14.58492px -27.43024px 0 0.93333px, #fa664c 13.64796px -27.98245px 0 0.86667px, #fa664c 12.69018px -28.50262px 0 0.8px, #fa664c 11.7127px -28.98995px 0 0.73333px, #fa664c 10.71663px -29.4437px 0 0.66667px, #fa664c 9.70313px -29.86317px 0 0.6px, #fa664c 8.67339px -30.2477px 0 0.53333px, #fa664c 7.6286px -30.59666px 0 0.46667px, #fa664c 6.57001px -30.90946px 0 0.4px, #fa664c 5.49886px -31.18558px 0 0.33333px, #fa664c 4.41643px -31.42451px 0 0.26667px, #fa664c 3.32401px -31.6258px 0 0.2px, #fa664c 2.22291px -31.78904px 0 0.13333px, #fa664c 1.11446px -31.91388px 0 0.06667px, #fa664c 0.0px -32px 0 0px, #fa664c -1.11911px -32.04713px 0 -0.06667px, #fa664c -2.24151px -32.05506px 0 -0.13333px, #fa664c -3.36582px -32.02361px 0 -0.2px, #fa664c -4.49065px -31.95265px 0 -0.26667px, #fa664c -5.61462px -31.84212px 0 -0.33333px, #fa664c -6.73634px -31.69198px 0 -0.4px, #fa664c -7.8544px -31.50227px 0 -0.46667px, #fa664c -8.9674px -31.27305px 0 -0.53333px, #fa664c -10.07395px -31.00444px 0 -0.6px, #fa664c -11.17266px -30.69663px 0 -0.66667px, #fa664c -12.26212px -30.34982px 0 -0.73333px, #fa664c -13.34096px -29.96429px 0 -0.8px, #fa664c -14.4078px -29.54036px 0 -0.86667px, #fa664c -15.46126px -29.07841px 0 -0.93333px, #fa664c -16.5px -28.57884px 0 -1px, #fa664c -17.52266px -28.04212px 0 -1.06667px, #fa664c -18.52792px -27.46878px 0 -1.13333px, #fa664c -19.51447px -26.85936px 0 -1.2px, #fa664c -20.48101px -26.21449px 0 -1.26667px, #fa664c -21.42625px -25.53481px 0 -1.33333px, #fa664c -22.34896px -24.82104px 0 -1.4px, #fa664c -23.2479px -24.07391px 0 -1.46667px, #fa664c -24.12186px -23.29421px 0 -1.53333px, #fa664c -24.96967px -22.48279px 0 -1.6px, #fa664c -25.79016px -21.64052px 0 -1.66667px, #fa664c -26.58223px -20.76831px 0 -1.73333px, #fa664c -27.34477px -19.86714px 0 -1.8px, #fa664c -28.07674px -18.938px 0 -1.86667px, #fa664c -28.7771px -17.98193px 0 -1.93333px, #fa664c -29.44486px -17.0px 0 -2px, #fa664c -30.07908px -15.99333px 0 -2.06667px, #fa664c -30.67884px -14.96307px 0 -2.13333px, #fa664c -31.24325px -13.91039px 0 -2.2px, #fa664c -31.7715px -12.83652px 0 -2.26667px, #fa664c -32.26278px -11.74269px 0 -2.33333px, #fa664c -32.71634px -10.63018px 0 -2.4px, #fa664c -33.13149px -9.5003px 0 -2.46667px, #fa664c -33.50755px -8.35437px 0 -2.53333px, #fa664c -33.84391px -7.19374px 0 -2.6px, #fa664c -34.14px -6.0198px 0 -2.66667px, #fa664c -34.39531px -4.83395px 0 -2.73333px, #fa664c -34.60936px -3.63759px 0 -2.8px, #fa664c -34.78173px -2.43218px 0 -2.86667px, #fa664c -34.91205px -1.21916px 0 -2.93333px, #fa664c -35px 0.0px 0 -3px, #fa664c -35.04531px 1.22381px 0 -3.06667px, #fa664c -35.04775px 2.45078px 0 -3.13333px, #fa664c -35.00717px 3.6794px 0 -3.2px, #fa664c -34.92345px 4.90817px 0 -3.26667px, #fa664c -34.79654px 6.13557px 0 -3.33333px, #fa664c -34.62643px 7.36007px 0 -3.4px, #fa664c -34.41316px 8.58016px 0 -3.46667px, #fa664c -34.15683px 9.79431px 0 -3.53333px, #fa664c -33.85761px 11.001px 0 -3.6px, #fa664c -33.5157px 12.19872px 0 -3.66667px, #fa664c -33.13137px 13.38594px 0 -3.73333px, #fa664c -32.70493px 14.56117px 0 -3.8px, #fa664c -32.23675px 15.72291px 0 -3.86667px, #fa664c -31.72725px 16.86968px 0 -3.93333px, #fa664c -31.17691px 18px 0 -4px, #fa664c -30.58627px 19.11242px 0 -4.06667px, #fa664c -29.95589px 20.2055px 0 -4.13333px, #fa664c -29.28642px 21.27783px 0 -4.2px, #fa664c -28.57852px 22.32799px 0 -4.26667px, #fa664c -27.83295px 23.35462px 0 -4.33333px, #fa664c -27.05047px 24.35635px 0 -4.4px, #fa664c -26.23192px 25.33188px 0 -4.46667px, #fa664c -25.37819px 26.27988px 0 -4.53333px, #fa664c -24.49018px 27.1991px 0 -4.6px, #fa664c -23.56888px 28.0883px 0 -4.66667px, #fa664c -22.6153px 28.94626px 0 -4.73333px, #fa664c -21.6305px 29.77183px 0 -4.8px, #fa664c -20.61558px 30.56385px 0 -4.86667px, #fa664c -19.57168px 31.32124px 0 -4.93333px, #fa664c -18.5px 32.04294px 0 -5px, #fa664c -17.40175px 32.72792px 0 -5.06667px, #fa664c -16.27818px 33.37522px 0 -5.13333px, #fa664c -15.1306px 33.98389px 0 -5.2px, #fa664c -13.96034px 34.55305px 0 -5.26667px, #fa664c -12.76875px 35.08186px 0 -5.33333px, #fa664c -11.55724px 35.56951px 0 -5.4px, #fa664c -10.32721px 36.01527px 0 -5.46667px, #fa664c -9.08014px 36.41843px 0 -5.53333px, #fa664c -7.81748px 36.77835px 0 -5.6px, #fa664c -6.54075px 37.09443px 0 -5.66667px, #fa664c -5.25147px 37.36612px 0 -5.73333px, #fa664c -3.95118px 37.59293px 0 -5.8px, #fa664c -2.64145px 37.77443px 0 -5.86667px, #fa664c -1.32385px 37.91023px 0 -5.93333px;
+      -webkit-box-shadow: #fa664c 0px 26px 0 6px, #fa664c 0.90971px 26.05079px 0 5.93333px, #fa664c 1.82297px 26.06967px 0 5.86667px, #fa664c 2.73865px 26.05647px 0 5.8px, #fa664c 3.65561px 26.01104px 0 5.73333px, #fa664c 4.57274px 25.93327px 0 5.66667px, #fa664c 5.48887px 25.8231px 0 5.6px, #fa664c 6.40287px 25.68049px 0 5.53333px, #fa664c 7.31358px 25.50548px 0 5.46667px, #fa664c 8.21985px 25.2981px 0 5.4px, #fa664c 9.12054px 25.05847px 0 5.33333px, #fa664c 10.01448px 24.78672px 0 5.26667px, #fa664c 10.90054px 24.48302px 0 5.2px, #fa664c 11.77757px 24.1476px 0 5.13333px, #fa664c 12.64443px 23.78072px 0 5.06667px, #fa664c 13.5px 23.38269px 0 5px, #fa664c 14.34315px 22.95384px 0 4.93333px, #fa664c 15.17277px 22.49455px 0 4.86667px, #fa664c 15.98776px 22.00526px 0 4.8px, #fa664c 16.78704px 21.48643px 0 4.73333px, #fa664c 17.56953px 20.93855px 0 4.66667px, #fa664c 18.33418px 20.36217px 0 4.6px, #fa664c 19.07995px 19.75787px 0 4.53333px, #fa664c 19.80582px 19.12626px 0 4.46667px, #fa664c 20.5108px 18.468px 0 4.4px, #fa664c 21.1939px 17.78379px 0 4.33333px, #fa664c 21.85416px 17.07434px 0 4.26667px, #fa664c 22.49067px 16.34043px 0 4.2px, #fa664c 23.10251px 15.58284px 0 4.13333px, #fa664c 23.68881px 14.80241px 0 4.06667px, #fa664c 24.24871px 14.0px 0 4px, #fa664c 24.7814px 13.1765px 0 3.93333px, #fa664c 25.28607px 12.33284px 0 3.86667px, #fa664c 25.76198px 11.46997px 0 3.8px, #fa664c 26.2084px 10.58888px 0 3.73333px, #fa664c 26.62462px 9.69057px 0 3.66667px, #fa664c 27.01001px 8.77608px 0 3.6px, #fa664c 27.36392px 7.84648px 0 3.53333px, #fa664c 27.68577px 6.90284px 0 3.46667px, #fa664c 27.97502px 5.94627px 0 3.4px, #fa664c 28.23116px 4.97791px 0 3.33333px, #fa664c 28.4537px 3.99891px 0 3.26667px, #fa664c 28.64223px 3.01042px 0 3.2px, #fa664c 28.79635px 2.01364px 0 3.13333px, #fa664c 28.91571px 1.00976px 0 3.06667px, #fa664c 29px 0.0px 0 3px, #fa664c 29.04896px -1.01441px 0 2.93333px, #fa664c 29.06237px -2.03224px 0 2.86667px, #fa664c 29.04004px -3.05223px 0 2.8px, #fa664c 28.98185px -4.07313px 0 2.73333px, #fa664c 28.88769px -5.09368px 0 2.66667px, #fa664c 28.75754px -6.1126px 0 2.6px, #fa664c 28.59138px -7.12863px 0 2.53333px, #fa664c 28.38926px -8.14049px 0 2.46667px, #fa664c 28.15127px -9.1469px 0 2.4px, #fa664c 27.87755px -10.1466px 0 2.33333px, #fa664c 27.56827px -11.1383px 0 2.26667px, #fa664c 27.22365px -12.12075px 0 2.2px, #fa664c 26.84398px -13.09268px 0 2.13333px, #fa664c 26.42956px -14.05285px 0 2.06667px, #fa664c 25.98076px -15.0px 0 2px, #fa664c 25.49798px -15.93291px 0 1.93333px, #fa664c 24.98167px -16.85035px 0 1.86667px, #fa664c 24.43231px -17.75111px 0 1.8px, #fa664c 23.85046px -18.63402px 0 1.73333px, #fa664c 23.23668px -19.49789px 0 1.66667px, #fa664c 22.5916px -20.34157px 0 1.6px, #fa664c 21.91589px -21.16393px 0 1.53333px, #fa664c 21.21024px -21.96384px 0 1.46667px, #fa664c 20.4754px -22.74023px 0 1.4px, #fa664c 19.71215px -23.49203px 0 1.33333px, #fa664c 18.92133px -24.2182px 0 1.26667px, #fa664c 18.10379px -24.91772px 0 1.2px, #fa664c 17.26042px -25.58963px 0 1.13333px, #fa664c 16.39217px -26.23295px 0 1.06667px, #fa664c 15.5px -26.84679px 0 1px, #fa664c 14.58492px -27.43024px 0 0.93333px, #fa664c 13.64796px -27.98245px 0 0.86667px, #fa664c 12.69018px -28.50262px 0 0.8px, #fa664c 11.7127px -28.98995px 0 0.73333px, #fa664c 10.71663px -29.4437px 0 0.66667px, #fa664c 9.70313px -29.86317px 0 0.6px, #fa664c 8.67339px -30.2477px 0 0.53333px, #fa664c 7.6286px -30.59666px 0 0.46667px, #fa664c 6.57001px -30.90946px 0 0.4px, #fa664c 5.49886px -31.18558px 0 0.33333px, #fa664c 4.41643px -31.42451px 0 0.26667px, #fa664c 3.32401px -31.6258px 0 0.2px, #fa664c 2.22291px -31.78904px 0 0.13333px, #fa664c 1.11446px -31.91388px 0 0.06667px, #fa664c 0.0px -32px 0 0px, #fa664c -1.11911px -32.04713px 0 -0.06667px, #fa664c -2.24151px -32.05506px 0 -0.13333px, #fa664c -3.36582px -32.02361px 0 -0.2px, #fa664c -4.49065px -31.95265px 0 -0.26667px, #fa664c -5.61462px -31.84212px 0 -0.33333px, #fa664c -6.73634px -31.69198px 0 -0.4px, #fa664c -7.8544px -31.50227px 0 -0.46667px, #fa664c -8.9674px -31.27305px 0 -0.53333px, #fa664c -10.07395px -31.00444px 0 -0.6px, #fa664c -11.17266px -30.69663px 0 -0.66667px, #fa664c -12.26212px -30.34982px 0 -0.73333px, #fa664c -13.34096px -29.96429px 0 -0.8px, #fa664c -14.4078px -29.54036px 0 -0.86667px, #fa664c -15.46126px -29.07841px 0 -0.93333px, #fa664c -16.5px -28.57884px 0 -1px, #fa664c -17.52266px -28.04212px 0 -1.06667px, #fa664c -18.52792px -27.46878px 0 -1.13333px, #fa664c -19.51447px -26.85936px 0 -1.2px, #fa664c -20.48101px -26.21449px 0 -1.26667px, #fa664c -21.42625px -25.53481px 0 -1.33333px, #fa664c -22.34896px -24.82104px 0 -1.4px, #fa664c -23.2479px -24.07391px 0 -1.46667px, #fa664c -24.12186px -23.29421px 0 -1.53333px, #fa664c -24.96967px -22.48279px 0 -1.6px, #fa664c -25.79016px -21.64052px 0 -1.66667px, #fa664c -26.58223px -20.76831px 0 -1.73333px, #fa664c -27.34477px -19.86714px 0 -1.8px, #fa664c -28.07674px -18.938px 0 -1.86667px, #fa664c -28.7771px -17.98193px 0 -1.93333px, #fa664c -29.44486px -17.0px 0 -2px, #fa664c -30.07908px -15.99333px 0 -2.06667px, #fa664c -30.67884px -14.96307px 0 -2.13333px, #fa664c -31.24325px -13.91039px 0 -2.2px, #fa664c -31.7715px -12.83652px 0 -2.26667px, #fa664c -32.26278px -11.74269px 0 -2.33333px, #fa664c -32.71634px -10.63018px 0 -2.4px, #fa664c -33.13149px -9.5003px 0 -2.46667px, #fa664c -33.50755px -8.35437px 0 -2.53333px, #fa664c -33.84391px -7.19374px 0 -2.6px, #fa664c -34.14px -6.0198px 0 -2.66667px, #fa664c -34.39531px -4.83395px 0 -2.73333px, #fa664c -34.60936px -3.63759px 0 -2.8px, #fa664c -34.78173px -2.43218px 0 -2.86667px, #fa664c -34.91205px -1.21916px 0 -2.93333px, #fa664c -35px 0.0px 0 -3px, #fa664c -35.04531px 1.22381px 0 -3.06667px, #fa664c -35.04775px 2.45078px 0 -3.13333px, #fa664c -35.00717px 3.6794px 0 -3.2px, #fa664c -34.92345px 4.90817px 0 -3.26667px, #fa664c -34.79654px 6.13557px 0 -3.33333px, #fa664c -34.62643px 7.36007px 0 -3.4px, #fa664c -34.41316px 8.58016px 0 -3.46667px, #fa664c -34.15683px 9.79431px 0 -3.53333px, #fa664c -33.85761px 11.001px 0 -3.6px, #fa664c -33.5157px 12.19872px 0 -3.66667px, #fa664c -33.13137px 13.38594px 0 -3.73333px, #fa664c -32.70493px 14.56117px 0 -3.8px, #fa664c -32.23675px 15.72291px 0 -3.86667px, #fa664c -31.72725px 16.86968px 0 -3.93333px, #fa664c -31.17691px 18px 0 -4px, #fa664c -30.58627px 19.11242px 0 -4.06667px, #fa664c -29.95589px 20.2055px 0 -4.13333px, #fa664c -29.28642px 21.27783px 0 -4.2px, #fa664c -28.57852px 22.32799px 0 -4.26667px, #fa664c -27.83295px 23.35462px 0 -4.33333px, #fa664c -27.05047px 24.35635px 0 -4.4px, #fa664c -26.23192px 25.33188px 0 -4.46667px, #fa664c -25.37819px 26.27988px 0 -4.53333px, #fa664c -24.49018px 27.1991px 0 -4.6px, #fa664c -23.56888px 28.0883px 0 -4.66667px, #fa664c -22.6153px 28.94626px 0 -4.73333px, #fa664c -21.6305px 29.77183px 0 -4.8px, #fa664c -20.61558px 30.56385px 0 -4.86667px, #fa664c -19.57168px 31.32124px 0 -4.93333px, #fa664c -18.5px 32.04294px 0 -5px, #fa664c -17.40175px 32.72792px 0 -5.06667px, #fa664c -16.27818px 33.37522px 0 -5.13333px, #fa664c -15.1306px 33.98389px 0 -5.2px, #fa664c -13.96034px 34.55305px 0 -5.26667px, #fa664c -12.76875px 35.08186px 0 -5.33333px, #fa664c -11.55724px 35.56951px 0 -5.4px, #fa664c -10.32721px 36.01527px 0 -5.46667px, #fa664c -9.08014px 36.41843px 0 -5.53333px, #fa664c -7.81748px 36.77835px 0 -5.6px, #fa664c -6.54075px 37.09443px 0 -5.66667px, #fa664c -5.25147px 37.36612px 0 -5.73333px, #fa664c -3.95118px 37.59293px 0 -5.8px, #fa664c -2.64145px 37.77443px 0 -5.86667px, #fa664c -1.32385px 37.91023px 0 -5.93333px;
+      box-shadow: #fa664c 0px 26px 0 6px, #fa664c 0.90971px 26.05079px 0 5.93333px, #fa664c 1.82297px 26.06967px 0 5.86667px, #fa664c 2.73865px 26.05647px 0 5.8px, #fa664c 3.65561px 26.01104px 0 5.73333px, #fa664c 4.57274px 25.93327px 0 5.66667px, #fa664c 5.48887px 25.8231px 0 5.6px, #fa664c 6.40287px 25.68049px 0 5.53333px, #fa664c 7.31358px 25.50548px 0 5.46667px, #fa664c 8.21985px 25.2981px 0 5.4px, #fa664c 9.12054px 25.05847px 0 5.33333px, #fa664c 10.01448px 24.78672px 0 5.26667px, #fa664c 10.90054px 24.48302px 0 5.2px, #fa664c 11.77757px 24.1476px 0 5.13333px, #fa664c 12.64443px 23.78072px 0 5.06667px, #fa664c 13.5px 23.38269px 0 5px, #fa664c 14.34315px 22.95384px 0 4.93333px, #fa664c 15.17277px 22.49455px 0 4.86667px, #fa664c 15.98776px 22.00526px 0 4.8px, #fa664c 16.78704px 21.48643px 0 4.73333px, #fa664c 17.56953px 20.93855px 0 4.66667px, #fa664c 18.33418px 20.36217px 0 4.6px, #fa664c 19.07995px 19.75787px 0 4.53333px, #fa664c 19.80582px 19.12626px 0 4.46667px, #fa664c 20.5108px 18.468px 0 4.4px, #fa664c 21.1939px 17.78379px 0 4.33333px, #fa664c 21.85416px 17.07434px 0 4.26667px, #fa664c 22.49067px 16.34043px 0 4.2px, #fa664c 23.10251px 15.58284px 0 4.13333px, #fa664c 23.68881px 14.80241px 0 4.06667px, #fa664c 24.24871px 14.0px 0 4px, #fa664c 24.7814px 13.1765px 0 3.93333px, #fa664c 25.28607px 12.33284px 0 3.86667px, #fa664c 25.76198px 11.46997px 0 3.8px, #fa664c 26.2084px 10.58888px 0 3.73333px, #fa664c 26.62462px 9.69057px 0 3.66667px, #fa664c 27.01001px 8.77608px 0 3.6px, #fa664c 27.36392px 7.84648px 0 3.53333px, #fa664c 27.68577px 6.90284px 0 3.46667px, #fa664c 27.97502px 5.94627px 0 3.4px, #fa664c 28.23116px 4.97791px 0 3.33333px, #fa664c 28.4537px 3.99891px 0 3.26667px, #fa664c 28.64223px 3.01042px 0 3.2px, #fa664c 28.79635px 2.01364px 0 3.13333px, #fa664c 28.91571px 1.00976px 0 3.06667px, #fa664c 29px 0.0px 0 3px, #fa664c 29.04896px -1.01441px 0 2.93333px, #fa664c 29.06237px -2.03224px 0 2.86667px, #fa664c 29.04004px -3.05223px 0 2.8px, #fa664c 28.98185px -4.07313px 0 2.73333px, #fa664c 28.88769px -5.09368px 0 2.66667px, #fa664c 28.75754px -6.1126px 0 2.6px, #fa664c 28.59138px -7.12863px 0 2.53333px, #fa664c 28.38926px -8.14049px 0 2.46667px, #fa664c 28.15127px -9.1469px 0 2.4px, #fa664c 27.87755px -10.1466px 0 2.33333px, #fa664c 27.56827px -11.1383px 0 2.26667px, #fa664c 27.22365px -12.12075px 0 2.2px, #fa664c 26.84398px -13.09268px 0 2.13333px, #fa664c 26.42956px -14.05285px 0 2.06667px, #fa664c 25.98076px -15.0px 0 2px, #fa664c 25.49798px -15.93291px 0 1.93333px, #fa664c 24.98167px -16.85035px 0 1.86667px, #fa664c 24.43231px -17.75111px 0 1.8px, #fa664c 23.85046px -18.63402px 0 1.73333px, #fa664c 23.23668px -19.49789px 0 1.66667px, #fa664c 22.5916px -20.34157px 0 1.6px, #fa664c 21.91589px -21.16393px 0 1.53333px, #fa664c 21.21024px -21.96384px 0 1.46667px, #fa664c 20.4754px -22.74023px 0 1.4px, #fa664c 19.71215px -23.49203px 0 1.33333px, #fa664c 18.92133px -24.2182px 0 1.26667px, #fa664c 18.10379px -24.91772px 0 1.2px, #fa664c 17.26042px -25.58963px 0 1.13333px, #fa664c 16.39217px -26.23295px 0 1.06667px, #fa664c 15.5px -26.84679px 0 1px, #fa664c 14.58492px -27.43024px 0 0.93333px, #fa664c 13.64796px -27.98245px 0 0.86667px, #fa664c 12.69018px -28.50262px 0 0.8px, #fa664c 11.7127px -28.98995px 0 0.73333px, #fa664c 10.71663px -29.4437px 0 0.66667px, #fa664c 9.70313px -29.86317px 0 0.6px, #fa664c 8.67339px -30.2477px 0 0.53333px, #fa664c 7.6286px -30.59666px 0 0.46667px, #fa664c 6.57001px -30.90946px 0 0.4px, #fa664c 5.49886px -31.18558px 0 0.33333px, #fa664c 4.41643px -31.42451px 0 0.26667px, #fa664c 3.32401px -31.6258px 0 0.2px, #fa664c 2.22291px -31.78904px 0 0.13333px, #fa664c 1.11446px -31.91388px 0 0.06667px, #fa664c 0.0px -32px 0 0px, #fa664c -1.11911px -32.04713px 0 -0.06667px, #fa664c -2.24151px -32.05506px 0 -0.13333px, #fa664c -3.36582px -32.02361px 0 -0.2px, #fa664c -4.49065px -31.95265px 0 -0.26667px, #fa664c -5.61462px -31.84212px 0 -0.33333px, #fa664c -6.73634px -31.69198px 0 -0.4px, #fa664c -7.8544px -31.50227px 0 -0.46667px, #fa664c -8.9674px -31.27305px 0 -0.53333px, #fa664c -10.07395px -31.00444px 0 -0.6px, #fa664c -11.17266px -30.69663px 0 -0.66667px, #fa664c -12.26212px -30.34982px 0 -0.73333px, #fa664c -13.34096px -29.96429px 0 -0.8px, #fa664c -14.4078px -29.54036px 0 -0.86667px, #fa664c -15.46126px -29.07841px 0 -0.93333px, #fa664c -16.5px -28.57884px 0 -1px, #fa664c -17.52266px -28.04212px 0 -1.06667px, #fa664c -18.52792px -27.46878px 0 -1.13333px, #fa664c -19.51447px -26.85936px 0 -1.2px, #fa664c -20.48101px -26.21449px 0 -1.26667px, #fa664c -21.42625px -25.53481px 0 -1.33333px, #fa664c -22.34896px -24.82104px 0 -1.4px, #fa664c -23.2479px -24.07391px 0 -1.46667px, #fa664c -24.12186px -23.29421px 0 -1.53333px, #fa664c -24.96967px -22.48279px 0 -1.6px, #fa664c -25.79016px -21.64052px 0 -1.66667px, #fa664c -26.58223px -20.76831px 0 -1.73333px, #fa664c -27.34477px -19.86714px 0 -1.8px, #fa664c -28.07674px -18.938px 0 -1.86667px, #fa664c -28.7771px -17.98193px 0 -1.93333px, #fa664c -29.44486px -17.0px 0 -2px, #fa664c -30.07908px -15.99333px 0 -2.06667px, #fa664c -30.67884px -14.96307px 0 -2.13333px, #fa664c -31.24325px -13.91039px 0 -2.2px, #fa664c -31.7715px -12.83652px 0 -2.26667px, #fa664c -32.26278px -11.74269px 0 -2.33333px, #fa664c -32.71634px -10.63018px 0 -2.4px, #fa664c -33.13149px -9.5003px 0 -2.46667px, #fa664c -33.50755px -8.35437px 0 -2.53333px, #fa664c -33.84391px -7.19374px 0 -2.6px, #fa664c -34.14px -6.0198px 0 -2.66667px, #fa664c -34.39531px -4.83395px 0 -2.73333px, #fa664c -34.60936px -3.63759px 0 -2.8px, #fa664c -34.78173px -2.43218px 0 -2.86667px, #fa664c -34.91205px -1.21916px 0 -2.93333px, #fa664c -35px 0.0px 0 -3px, #fa664c -35.04531px 1.22381px 0 -3.06667px, #fa664c -35.04775px 2.45078px 0 -3.13333px, #fa664c -35.00717px 3.6794px 0 -3.2px, #fa664c -34.92345px 4.90817px 0 -3.26667px, #fa664c -34.79654px 6.13557px 0 -3.33333px, #fa664c -34.62643px 7.36007px 0 -3.4px, #fa664c -34.41316px 8.58016px 0 -3.46667px, #fa664c -34.15683px 9.79431px 0 -3.53333px, #fa664c -33.85761px 11.001px 0 -3.6px, #fa664c -33.5157px 12.19872px 0 -3.66667px, #fa664c -33.13137px 13.38594px 0 -3.73333px, #fa664c -32.70493px 14.56117px 0 -3.8px, #fa664c -32.23675px 15.72291px 0 -3.86667px, #fa664c -31.72725px 16.86968px 0 -3.93333px, #fa664c -31.17691px 18px 0 -4px, #fa664c -30.58627px 19.11242px 0 -4.06667px, #fa664c -29.95589px 20.2055px 0 -4.13333px, #fa664c -29.28642px 21.27783px 0 -4.2px, #fa664c -28.57852px 22.32799px 0 -4.26667px, #fa664c -27.83295px 23.35462px 0 -4.33333px, #fa664c -27.05047px 24.35635px 0 -4.4px, #fa664c -26.23192px 25.33188px 0 -4.46667px, #fa664c -25.37819px 26.27988px 0 -4.53333px, #fa664c -24.49018px 27.1991px 0 -4.6px, #fa664c -23.56888px 28.0883px 0 -4.66667px, #fa664c -22.6153px 28.94626px 0 -4.73333px, #fa664c -21.6305px 29.77183px 0 -4.8px, #fa664c -20.61558px 30.56385px 0 -4.86667px, #fa664c -19.57168px 31.32124px 0 -4.93333px, #fa664c -18.5px 32.04294px 0 -5px, #fa664c -17.40175px 32.72792px 0 -5.06667px, #fa664c -16.27818px 33.37522px 0 -5.13333px, #fa664c -15.1306px 33.98389px 0 -5.2px, #fa664c -13.96034px 34.55305px 0 -5.26667px, #fa664c -12.76875px 35.08186px 0 -5.33333px, #fa664c -11.55724px 35.56951px 0 -5.4px, #fa664c -10.32721px 36.01527px 0 -5.46667px, #fa664c -9.08014px 36.41843px 0 -5.53333px, #fa664c -7.81748px 36.77835px 0 -5.6px, #fa664c -6.54075px 37.09443px 0 -5.66667px, #fa664c -5.25147px 37.36612px 0 -5.73333px, #fa664c -3.95118px 37.59293px 0 -5.8px, #fa664c -2.64145px 37.77443px 0 -5.86667px, #fa664c -1.32385px 37.91023px 0 -5.93333px;
+      -moz-animation: whirly-loader 1.25s infinite linear;
+      -webkit-animation: whirly-loader 1.25s infinite linear;
+      animation: whirly-loader 1.25s infinite linear;
+      -moz-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+      -webkit-transform-origin: 50% 50%;
+      transform-origin: 50% 50%;
+    }
+    @-moz-keyframes whirly-loader {
+      0% {
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+      100% {
+        -moz-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+    @-webkit-keyframes whirly-loader {
+      0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+      100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+    @keyframes whirly-loader {
+      0% {
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+      }
+      100% {
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
     }
   </style>
 </head>
 
 <body>
-  <div id="content"></div>
+  <header></header>
+  <div class="whirly-loader"></div>
+  <main class="content-wrapper">
+    <div id="content"></div>
+    <div class="scroll-top">
+      <i class="fas fa-chevron-circle-up scroll-button"></i>
+    </div>
+  </main>
+  <footer></footer>
+
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"></script>
 
   <script>
-    var getFileData = function (url) {
-      $.ajax({
-        url: url,
-        headers: {
-          "Accept": "application/vnd.github.v3.raw"
-        }
-      }).done(function (data) {
-        var converter = new showdown.Converter({ literalMidWordUnderscores: true });
-        var html = converter.makeHtml(data);
-        $("#content").html(html)
-      })
-    };
-
     $(document).ready(function () {
-      $.getJSON("https://api.github.com/repos/serhii-londar/open-source-mac-os-apps/git/trees/HEAD").
-        done(function (data) {
-          for (var i = data.tree.length - 1; i >= 0; i--) {
-            if (data.tree[i].path == "README.md") {
-              getFileData(data.tree[i].url);
-              break;
-            }
-          };
-        });
+      const url = null;
+      const loader = $('.whirly-loader');
+      const content = $('#content');
+
+      $('.scroll-button').click(() => window.scrollTo(0,0));
+
+      $.ajax({
+        url: url || './README.md',
+        headers: {
+          'Accept': 'application/vnd.github.v3.raw'
+        }
+      }).done( data => {
+        const converter = new showdown.Converter({ literalMidWordUnderscores: true });
+        const html = converter.makeHtml(data);
+
+        content.html(html);
+        content.addClass('loaded');
+
+        loader.hide('slow');
+      })
     });
   </script>
 </body>
