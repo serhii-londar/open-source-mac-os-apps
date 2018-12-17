@@ -1,0 +1,200 @@
+{
+"categories": 
+[
+{
+    "title": "Audio",
+    "id": "audio",
+    "description": ""
+}, {
+    "title": "Backup",
+    "id": "backup",
+    "description": ""
+}, {
+    "title": "Browser",
+    "id": "browser",
+    "description": ""
+}, {
+    "title": "Chat",
+    "id": "chat",
+    "description": ""
+}, {
+    "title": "Cryptocurrency",
+    "id": "cryptocurrency",
+    "description": ""
+}, {
+    "title": "Database",
+    "id": "database",
+    "description": ""
+}, {
+    "title": "Development",
+    "id": "development",
+    "description": ""
+}, {
+    "title": "Downloader",
+    "id": "downloader",
+    "description": ""
+}, {
+    "title": "Editors",
+    "id": "editors",
+    "description": ""
+}, {
+    "title": "Extensions",
+    "id": "extensions",
+    "description": ""
+}, {
+    "title": "Finder",
+    "id": "finder",
+    "description": ""
+}, {
+    "title": "Games",
+    "id": "games",
+    "description": ""
+}, {
+    "title": "Graphics",
+    "id": "graphics",
+    "description": ""
+}, {
+    "title": "IDE",
+    "id": "ide",
+    "description": ""
+}, {
+    "title": "Images",
+    "id": "images",
+    "description": ""
+}, {
+    "title": "Keyboard",
+    "id": "keyboard",
+    "description": ""
+}, {
+    "title": "Mail",
+    "id": "mail",
+    "description": ""
+}, {
+    "title": "Menubar",
+    "id": "menubar",
+    "description": ""
+}, {
+    "title": "Music",
+    "id": "music",
+    "description": ""
+}, {
+    "title": "News",
+    "id": "news",
+    "description": ""
+}, {
+    "title": "Notes",
+    "id": "notes",
+    "description": ""
+}, {
+    "title": "Other",
+    "id": "other",
+    "description": ""
+}, {
+    "title": "Podcast",
+    "id": "podcast",
+    "description": ""
+}, {
+    "title": "Productivity",
+    "id": "productivity",
+    "description": ""
+}, {
+    "title": "Screensaver",
+    "id": "screensaver",
+    "description": ""
+}, {
+    "title": "Security",
+    "id": "security",
+    "description": ""
+}, {
+    "title": "Sharing Files",
+    "id": "sharing-files",
+    "description": ""
+}, {
+    "title": "Social Networking",
+    "id": "social-networking",
+    "description": ""
+}, {
+    "title": "Streaming",
+    "id": "streaming",
+    "description": ""
+}, {
+    "title": "System",
+    "id": "system",
+    "description": ""
+}, {
+    "title": "Terminal",
+    "id": "terminal",
+    "description": ""
+}, {
+    "title": "Utilities",
+    "id": "utilities",
+    "description": ""
+}, {
+    "title": "VPN & Proxy",
+    "id": "vpn-proxy",
+    "description": ""
+}, {
+    "title": "Video",
+    "id": "video",
+    "description": ""
+}, {
+    "title": "Wallpaper",
+    "id": "wallpaper",
+    "description": ""
+}, {
+    "title": "Window Management",
+    "id": "window-management",
+    "description": ""
+}, {
+    "title": "Git",
+    "id": "git",
+    "parent": "development",
+    "description": ""
+}, {
+    "title": "iOS / macOS",
+    "id": "ios--macos",
+    "parent": "development",
+    "description": ""
+}, {
+    "title": "JSON Parsing",
+    "id": "json-parsing",
+    "parent": "development",
+    "description": ""
+}, {
+    "title": "Web Development",
+    "id": "web-development",
+    "parent": "development",
+    "description": ""
+}, {
+    "title": "Other Development",
+    "id": "other-development",
+    "parent": "development",
+    "description": ""
+}, {
+    "title": "CSV",
+    "id": "csv",
+    "parent": "editors",
+    "description": ""
+}, {
+    "title": "JSON",
+    "id": "json",
+    "parent": "editors",
+    "description": ""
+}, {
+    "title": "Markdown",
+    "id": "markdown",
+    "parent": "editors",
+    "description": ""
+}, {
+    "title": "TeX",
+    "id": "tex",
+    "parent": "editors",
+    "description": ""
+}, {
+    "title": "Text",
+    "id": "text",
+    "parent": "editors",
+    "description": ""
+}
+]
+}
