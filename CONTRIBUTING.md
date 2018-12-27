@@ -6,7 +6,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Edit applications.json instead of README.md.
 - Use the following format: 
-{
+```json
+     {
       "repo_url" : "Link to repository",
       "title" : "Name of application",
       "screenshots" : [
@@ -19,6 +20,7 @@ Please ensure your pull request adheres to the following guidelines:
       ],
       "category" : "Application category"
     }
+```
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
