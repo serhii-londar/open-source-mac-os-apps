@@ -10,7 +10,7 @@
       ],
       "short_description" : "Application which hosts AudioUnits v3 using AVFoundation API. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -34,7 +34,7 @@
       ],
       "short_description" : "Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -46,7 +46,7 @@
       ],
       "short_description" : "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "audio"
     },
@@ -61,7 +61,7 @@
       ],
       "short_description" : "macOS camera recording using ffmpeg ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "audio"
     },
@@ -74,7 +74,7 @@
       ],
       "short_description" : "System-Wide Equalizer for the Mac. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "audio"
     },
@@ -86,7 +86,7 @@
       ],
       "short_description" : "The fre:ac audio converter project. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "audio"
     },
@@ -101,7 +101,7 @@
       ],
       "short_description" : "jmc is new macOS media organizer. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -113,7 +113,7 @@
       ],
       "short_description" : "This app allows you to control the iTunes volume using volume up and volume down hotkeys. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "audio"
     },
@@ -125,7 +125,7 @@
       ],
       "short_description" : "LocalRadio is software for listening to \"Software-Defined Radio\" on your Mac and mobile devices. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "audio"
     },
@@ -139,8 +139,8 @@
       ],
       "short_description" : "macOS app to show you lyric what currently iTunes or Spotify is playing. ",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "audio"
     },
@@ -155,7 +155,7 @@
       ],
       "short_description" : "Lyrics for iTunes, Spotify and Vox. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -171,7 +171,7 @@
       ],
       "short_description" : "Simple yet powerful audio player for BSD/Linux/macOS. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "audio"
     },
@@ -183,7 +183,7 @@
       ],
       "short_description" : "Spotify controller with TouchBar support. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -196,7 +196,7 @@
       ],
       "short_description" : "SBPlayer is a beautiful and powerful media player base on VLCKit. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "audio"
     },
@@ -208,7 +208,7 @@
       ],
       "short_description" : "Scrobble vinyl, radios, movies to Last.fm. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "audio"
     },
@@ -220,7 +220,7 @@
       ],
       "short_description" : "Minimal, beautifully designed music player for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "audio"
     },
@@ -232,8 +232,8 @@
       ],
       "short_description" : "Spotify and iTunes in your menu bar.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "audio"
     },
@@ -245,7 +245,7 @@
       ],
       "short_description" : "Spotify mini-player for macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "audio"
     },
@@ -257,7 +257,7 @@
       ],
       "short_description" : "Audio input/output source lock for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -271,7 +271,7 @@
       ],
       "short_description" : "Instant audio feedback for typing. macOS version. ",
       "languages" : [
-        "rust_icon"
+        "rust"
       ],
       "category" : "audio"
     },
@@ -283,8 +283,8 @@
       ],
       "short_description" : "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "audio"
     },
@@ -296,7 +296,7 @@
       ],
       "short_description" : "macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "audio"
     },
@@ -308,7 +308,7 @@
       ],
       "short_description" : "Keep your application settings in sync (macOS/Linux). ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "backup"
     },
@@ -320,7 +320,7 @@
       ],
       "short_description" : "Easily create lightweight documentation of installed applications, dotfiles, and more. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "backup"
     },
@@ -332,8 +332,8 @@
       ],
       "short_description" : "UrBackup is Client/Server network backup for Windows, macOS and Linux.",
       "languages" : [
-        "cpp_icon",
-        "c_icon"
+        "cpp",
+        "c"
       ],
       "category" : "backup"
     },
@@ -346,7 +346,7 @@
       ],
       "short_description" : "Beaker is an experimental peer-to-peer Web browser.  ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "browser"
     },
@@ -358,7 +358,7 @@
       ],
       "short_description" : "Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "browser"
     },
@@ -370,7 +370,7 @@
       ],
       "short_description" : "macOS tool that prompts you to choose a browser when opening a link. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "browser"
     },
@@ -382,8 +382,8 @@
       ],
       "short_description" : "Floating browser window for macOS.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "browser"
     },
@@ -395,7 +395,7 @@
       ],
       "short_description" : "Always opens the right browser. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "browser"
     },
@@ -409,7 +409,7 @@
       ],
       "short_description" : "Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "browser"
     },
@@ -421,7 +421,7 @@
       ],
       "short_description" : "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "browser"
     },
@@ -433,7 +433,7 @@
       ],
       "short_description" : "Safe Exam Browser for macOS and iOS. ",
       "languages" : [
-        "c_icon"
+        "c"
       ],
       "category" : "browser"
     },
@@ -445,7 +445,7 @@
       ],
       "short_description" : " Mac app wrapper around Google's stand-alone Android Messenger. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -457,7 +457,7 @@
       ],
       "short_description" : "Native Mac app wrapper for WhatsApp Web. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "chat"
     },
@@ -469,7 +469,7 @@
       ],
       "short_description" : "Better WeChat on macOS and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -481,7 +481,7 @@
       ],
       "short_description" : "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -493,7 +493,7 @@
       ],
       "short_description" : "Native macOS & Windows desktop app for Google Allo. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -505,8 +505,8 @@
       ],
       "short_description" : "Unofficial GroupMe App.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "chat"
     },
@@ -518,7 +518,7 @@
       ],
       "short_description" : "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -530,7 +530,7 @@
       ],
       "short_description" : "A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "chat"
     },
@@ -542,7 +542,7 @@
       ],
       "short_description" : "Electron app that links with your Signal Android or Signal iOS app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -554,7 +554,7 @@
       ],
       "short_description" : "Source code of Telegram for macOS on Swift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "chat"
     },
@@ -566,7 +566,7 @@
       ],
       "short_description" : "Source code of deprecated Telegram for macOS version. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "chat"
     },
@@ -578,7 +578,7 @@
       ],
       "short_description" : "Telegram Desktop messaging app. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "chat"
     },
@@ -593,7 +593,7 @@
       ],
       "short_description" : "Textual is an IRC client for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "chat"
     },
@@ -605,7 +605,7 @@
       ],
       "short_description" : "TorChat for Mac is a macOS native and unofficial port of torchat. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "chat"
     },
@@ -619,7 +619,7 @@
       ],
       "short_description" : "Send WhatsApp message from menu bar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "chat"
     },
@@ -631,7 +631,7 @@
       ],
       "short_description" : "Standalone Electron app for the chatapp Wire. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "chat"
     },
@@ -644,7 +644,7 @@
       ],
       "short_description" : "macOS app to safely generate cryptocurrency address. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "cryptocurrency"
     },
@@ -656,7 +656,7 @@
       ],
       "short_description" : "App for all the world’s currencies. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "cryptocurrency"
     },
@@ -671,7 +671,7 @@
       ],
       "short_description" : "macOS menu bar application for tracking crypto coin prices. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "cryptocurrency"
     },
@@ -683,7 +683,7 @@
       ],
       "short_description" : "macOS menu bar application built with Electron. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "cryptocurrency"
     },
@@ -695,7 +695,7 @@
       ],
       "short_description" : "Native menu bar app with floating window and support for many Exchanges. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "cryptocurrency"
     },
@@ -710,7 +710,7 @@
       ],
       "short_description" : "Universal database tool and SQL client. ",
       "languages" : [
-        "java_icon"
+        "java"
       ],
       "category" : "database"
     },
@@ -722,7 +722,7 @@
       ],
       "short_description" : "SQLite database management GUI. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "database"
     },
@@ -734,7 +734,7 @@
       ],
       "short_description" : "The easiest way to get started with mongoDB on the Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "database"
     },
@@ -748,7 +748,7 @@
       ],
       "short_description" : "PostgreSQL GUI client for macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "database"
     },
@@ -760,7 +760,7 @@
       ],
       "short_description" : "The easiest way to get started with PostgreSQL on the Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "database"
     },
@@ -772,7 +772,7 @@
       ],
       "short_description" : "The easiest way to get started with Redis on the Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "database"
     },
@@ -785,7 +785,7 @@
       ],
       "short_description" : "MySQL/MariaDB database management for macOS.  ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "database"
     },
@@ -797,8 +797,8 @@
       ],
       "short_description" : "Cashew macOS Github Issue Tracker.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "git"
     },
@@ -823,8 +823,8 @@
       ],
       "short_description" : "Gitee, macOS status bar application for Github.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "git"
     },
@@ -836,7 +836,7 @@
       ],
       "short_description" : "GitHub contributions app, for iOS, WatchOS, and macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -848,7 +848,7 @@
       ],
       "short_description" : "Simple collaboration from your desktop. ",
       "languages" : [
-        "type_script_icon"
+        "type_script"
       ],
       "category" : "git"
     },
@@ -860,7 +860,7 @@
       ],
       "short_description" : "Simple app that will notify about new commits to watched repositories. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -872,7 +872,7 @@
       ],
       "short_description" : "Simple macOS app to alert you when you have unread GitHub notifications. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -884,7 +884,7 @@
       ],
       "short_description" : "Minimalistic Git client for Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -900,7 +900,7 @@
       ],
       "short_description" : "The Git interface you've been missing all your life has finally arrived. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "git"
     },
@@ -912,7 +912,7 @@
       ],
       "short_description" : "Graphical client for the git version control system. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "git"
     },
@@ -924,7 +924,7 @@
       ],
       "short_description" : "macOS application for easily operating GitHub Projects. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -936,7 +936,7 @@
       ],
       "short_description" : "macOS application to comfortably browse and search through your Messages.app history. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -949,7 +949,7 @@
       ],
       "short_description" : "GitHub contribution streak tracking menubar app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "git"
     },
@@ -961,7 +961,7 @@
       ],
       "short_description" : "macOS status bar application for tracking code review process within the team. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -974,7 +974,7 @@
       ],
       "short_description" : "Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -986,7 +986,7 @@
       ],
       "short_description" : "Xit is a graphical tool for working with git repositories. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "git"
     },
@@ -998,7 +998,7 @@
       ],
       "short_description" : "Simple toolkit that makes your iOS / macOS apps development more easier. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1010,7 +1010,7 @@
       ],
       "short_description" : "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1022,7 +1022,7 @@
       ],
       "short_description" : "Tool for generating icons in all sizes as required by macOS and iOS apps. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1034,7 +1034,7 @@
       ],
       "short_description" : "Trace tool for iOS/macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1047,7 +1047,7 @@
       ],
       "short_description" : "Gives you indication about the average iOS / macOS app stores review times. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1061,8 +1061,8 @@
       ],
       "short_description" : "App that lets you open .car files and browse/extract their images.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1074,7 +1074,7 @@
       ],
       "short_description" : "Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1088,7 +1088,7 @@
       ],
       "short_description" : "Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1100,7 +1100,7 @@
       ],
       "short_description" : "Takes path for your assets images and creates appiconset and imageset for you in just one click. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1114,7 +1114,7 @@
       ],
       "short_description" : "Small application to monitor your GitHub project web page in a native macOS app :octocat:! ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1127,7 +1127,7 @@
       ],
       "short_description" : "macOS app for submitting radars. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1143,7 +1143,7 @@
       ],
       "short_description" : "iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1155,7 +1155,7 @@
       ],
       "short_description" : "Cleaner for Xcode.app built with react-native-macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1171,7 +1171,7 @@
       ],
       "short_description" : "Native Apple macOS app for testing HTTP/REST endpoints. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1183,7 +1183,7 @@
       ],
       "short_description" : "macOS App to explore CoreImage Filters. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1196,7 +1196,7 @@
       ],
       "short_description" : "macOS app to generate app icons. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "ios--macos"
     },
@@ -1208,7 +1208,7 @@
       ],
       "short_description" : "Create Xcode image catalogs (xcassets) on the fly. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1220,7 +1220,7 @@
       ],
       "short_description" : "App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1232,8 +1232,8 @@
       ],
       "short_description" : "overdue Swift rewrite of Injection.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1246,7 +1246,7 @@
       ],
       "short_description" : "iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1258,7 +1258,7 @@
       ],
       "short_description" : "iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1270,7 +1270,7 @@
       ],
       "short_description" : "iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1282,7 +1282,7 @@
       ],
       "short_description" : "The debug application for Apple Push Notification Service (APNs). ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1294,7 +1294,7 @@
       ],
       "short_description" : "Intuitive app to display transparent images on screen. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1306,7 +1306,7 @@
       ],
       "short_description" : "Mac app to localize your iOS and macOS projects. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1318,7 +1318,7 @@
       ],
       "short_description" : "Localizations is an macOS app that manages your Xcode project localization files (.strings). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1330,7 +1330,7 @@
       ],
       "short_description" : "Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1342,7 +1342,7 @@
       ],
       "short_description" : "macOS app for convenient access to the system color panel. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1354,7 +1354,7 @@
       ],
       "short_description" : "App to customize your Touch Bar as you want. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1367,7 +1367,7 @@
       ],
       "short_description" : "macOS app which helps you manage dependency releases in your Podfile. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1379,7 +1379,7 @@
       ],
       "short_description" : "Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1399,7 +1399,7 @@
       ],
       "short_description" : "macOS app to test push notifications on iOS and Android. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "ios--macos"
     },
@@ -1411,7 +1411,7 @@
       ],
       "short_description" : "This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1423,7 +1423,7 @@
       ],
       "short_description" : "iOS Push Notification Debug App. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1435,7 +1435,7 @@
       ],
       "short_description" : "Small application to display your designs on the Touch Bar of the new MacBook Pro. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1447,7 +1447,7 @@
       ],
       "short_description" : "Use the Touch Bar on any Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1459,7 +1459,7 @@
       ],
       "short_description" : "iOS/Android app deployment tool for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1471,7 +1471,7 @@
       ],
       "short_description" : "Unofficial WWDC app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1487,7 +1487,7 @@
       ],
       "short_description" : "Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "ios--macos"
     },
@@ -1499,7 +1499,7 @@
       ],
       "short_description" : "Tool to convert Xcode .xib to .storyboard files. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "ios--macos"
     },
@@ -1511,7 +1511,7 @@
       ],
       "short_description" : "macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "json-parsing"
     },
@@ -1523,7 +1523,7 @@
       ],
       "short_description" : "Simple macOS app to generate Swift Object Mapper classes from JSON. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "json-parsing"
     },
@@ -1535,7 +1535,7 @@
       ],
       "short_description" : "Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "json-parsing"
     },
@@ -1547,7 +1547,7 @@
       ],
       "short_description" : "Simple macOS app for uploading files to Amazon Web Services. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "web-development"
     },
@@ -1559,7 +1559,7 @@
       ],
       "short_description" : "Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1571,7 +1571,7 @@
       ],
       "short_description" : "CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "web-development"
     },
@@ -1583,7 +1583,7 @@
       ],
       "short_description" : "Insomnia is a cross-platform REST client, built on top of Electron. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "web-development"
     },
@@ -1595,7 +1595,7 @@
       ],
       "short_description" : "macOS app to let you access iTunesConnect. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1607,7 +1607,7 @@
       ],
       "short_description" : "KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1619,7 +1619,7 @@
       ],
       "short_description" : "Dedicated Mac app for website auditing and crawling. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1631,7 +1631,7 @@
       ],
       "short_description" : "Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1644,7 +1644,7 @@
       ],
       "short_description" : "Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "web-development"
     },
@@ -1656,7 +1656,7 @@
       ],
       "short_description" : "Npm desktop GUI. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "web-development"
     },
@@ -1668,7 +1668,7 @@
       ],
       "short_description" : "Evaluate Nodejs/JS code snippets from Menubar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1680,7 +1680,7 @@
       ],
       "short_description" : "Create deployments right from the tray menu. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "web-development"
     },
@@ -1692,7 +1692,7 @@
       ],
       "short_description" : "macOS app for monitoring the status of cloud services. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "web-development"
     },
@@ -1704,7 +1704,7 @@
       ],
       "short_description" : "Node and Attribute viewer for Chef ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other-development"
     },
@@ -1716,7 +1716,7 @@
       ],
       "short_description" : "Browser for macOS Mach-O binaries.  ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other-development"
     },
@@ -1735,7 +1735,7 @@
       ],
       "short_description" : "Browser based GUI for **LLDB** Debugger. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "other-development"
     },
@@ -1747,7 +1747,7 @@
       ],
       "short_description" : "Easily search and download macOS apps from the huge `homebrew cask` app catalog. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "downloader"
     },
@@ -1759,7 +1759,7 @@
       ],
       "short_description" : "Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "downloader"
     },
@@ -1772,8 +1772,8 @@
       ],
       "short_description" : "macOS Video Downloader written in Swift and Objective-C.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "downloader"
     },
@@ -1785,7 +1785,7 @@
       ],
       "short_description" : "desktop application for downloading Udemy Courses. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "downloader"
     },
@@ -1798,7 +1798,7 @@
       ],
       "short_description" : "macOS app to download Youtube videos. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "downloader"
     },
@@ -1810,7 +1810,7 @@
       ],
       "short_description" : "Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "downloader"
     },
@@ -1822,7 +1822,7 @@
       ],
       "short_description" : "simple CSV editor for the macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "csv"
     },
@@ -1835,7 +1835,7 @@
       ],
       "short_description" : "GUI for editing, visualizing, and manipulating JSON data. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "json"
     },
@@ -1847,7 +1847,7 @@
       ],
       "short_description" : "Tree-structured markdown editor for macOS, Windows, and Linux. ",
       "languages" : [
-        "elm_icon"
+        "elm"
       ],
       "category" : "markdown"
     },
@@ -1859,7 +1859,7 @@
       ],
       "short_description" : "Markdown editor for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "markdown"
     },
@@ -1871,7 +1871,7 @@
       ],
       "short_description" : "Realtime preview markdown editor for macOS Windows and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "markdown"
     },
@@ -1884,7 +1884,7 @@
       ],
       "short_description" : "A modern MacOS markdown editor. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "markdown"
     },
@@ -1898,7 +1898,7 @@
       ],
       "short_description" : "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "tex"
     },
@@ -1910,7 +1910,7 @@
       ],
       "short_description" : "Lightweight Plain-Text Editor for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "text"
     },
@@ -1922,7 +1922,7 @@
       ],
       "short_description" : "Text editor for macOS. ",
       "languages" : [
-        "c_icon"
+        "c"
       ],
       "category" : "text"
     },
@@ -1935,7 +1935,7 @@
       ],
       "short_description" : "Plain text editor for macOS with customizable themes. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "text"
     },
@@ -1947,7 +1947,7 @@
       ],
       "short_description" : "TextMate is a graphical text editor for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "text"
     },
@@ -1959,7 +1959,7 @@
       ],
       "short_description" : "Refined Neovim experience for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "text"
     },
@@ -1971,7 +1971,7 @@
       ],
       "short_description" : "Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "extensions"
     },
@@ -1985,7 +1985,7 @@
       ],
       "short_description" : "PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "extensions"
     },
@@ -1997,7 +1997,7 @@
       ],
       "short_description" : "Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "extensions"
     },
@@ -2010,7 +2010,7 @@
       ],
       "short_description" : "Clipy is a Clipboard extension app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "finder"
     },
@@ -2022,7 +2022,7 @@
       ],
       "short_description" : "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "finder"
     },
@@ -2035,7 +2035,7 @@
       ],
       "short_description" : "Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "finder"
     },
@@ -2047,7 +2047,7 @@
       ],
       "short_description" : "Finder toolbar app to open current folder in Visual Studio Code. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "finder"
     },
@@ -2059,7 +2059,7 @@
       ],
       "short_description" : "Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "games"
     },
@@ -2071,8 +2071,8 @@
       ],
       "short_description" : "The DOS game emulator that’s fit for your Mac.",
       "languages" : [
-        "cpp_icon",
-        "objective_c_icon"
+        "cpp",
+        "objective_c"
       ],
       "category" : "games"
     },
@@ -2084,7 +2084,7 @@
       ],
       "short_description" : "Powerful emulator for Nintendo GameCube and Wii games. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "games"
     },
@@ -2096,7 +2096,7 @@
       ],
       "short_description" : "Retro video game emulation for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "games"
     },
@@ -2108,7 +2108,7 @@
       ],
       "short_description" : "Re-implementation of RollerCoaster Tycoon 2. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "games"
     },
@@ -2120,7 +2120,7 @@
       ],
       "short_description" : "Turn your screen into a playable level of Mario. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "games"
     },
@@ -2132,8 +2132,8 @@
       ],
       "short_description" : "Beautiful, powerful chess application.",
       "languages" : [
-        "cpp_icon",
-        "objective_c_icon"
+        "cpp",
+        "objective_c"
       ],
       "category" : "games"
     },
@@ -2145,8 +2145,8 @@
       ],
       "short_description" : "Animated sprite editor & pixel art tool (Windows, macOS, Linux).",
       "languages" : [
-        "cpp_icon",
-        "c_icon"
+        "cpp",
+        "c"
       ],
       "category" : "graphics"
     },
@@ -2158,7 +2158,7 @@
       ],
       "short_description" : "Tool to capture screenshot and recognize text by online ocr apis. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "graphics"
     },
@@ -2174,7 +2174,7 @@
       ],
       "short_description" : "Gif capture app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "graphics"
     },
@@ -2187,7 +2187,7 @@
       ],
       "short_description" : "Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ",
       "languages" : [
-        "haskell_icon"
+        "haskell"
       ],
       "category" : "graphics"
     },
@@ -2201,7 +2201,7 @@
       ],
       "short_description" : "Convert videos to high-quality GIFs. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "graphics"
     },
@@ -2213,7 +2213,7 @@
       ],
       "short_description" : "Proof of concept Mac drawing application. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "graphics"
     },
@@ -2225,7 +2225,7 @@
       ],
       "short_description" : "Inkscape is professional quality vector graphics software. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "graphics"
     },
@@ -2237,7 +2237,7 @@
       ],
       "short_description" : "macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "graphics"
     },
@@ -2249,7 +2249,7 @@
       ],
       "short_description" : "Choose your Material colours and copy the hex code. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "graphics"
     },
@@ -2261,7 +2261,7 @@
       ],
       "short_description" : "Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "graphics"
     },
@@ -2273,8 +2273,8 @@
       ],
       "short_description" : "ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.",
       "languages" : [
-        "objective_c_icon",
-        "css_icon"
+        "objective_c",
+        "css"
       ],
       "category" : "graphics"
     },
@@ -2286,8 +2286,8 @@
       ],
       "short_description" : "Plugin manager for Sketch.app.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "graphics"
     },
@@ -2299,7 +2299,7 @@
       ],
       "short_description" : "The hackable text editor. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "ide"
     },
@@ -2311,8 +2311,8 @@
       ],
       "short_description" : "Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon]",
       "languages" : [
-        "javascript_icon",
-        "type_script_icon"
+        "javascript",
+        "type_script"
       ],
       "category" : "ide"
     },
@@ -2324,7 +2324,7 @@
       ],
       "short_description" : "Code editor developed by Microsoft. ",
       "languages" : [
-        "type_script_icon"
+        "type_script"
       ],
       "category" : "ide"
     },
@@ -2336,7 +2336,7 @@
       ],
       "short_description" : "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ",
       "languages" : [
-        "lua_icon"
+        "lua"
       ],
       "category" : "ide"
     },
@@ -2348,7 +2348,7 @@
       ],
       "short_description" : "macOS app which assembles and disassembles animated png files. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "images"
     },
@@ -2360,7 +2360,7 @@
       ],
       "short_description" : "Insane(ly slow but wicked good) PNG image optimization. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "images"
     },
@@ -2372,7 +2372,7 @@
       ],
       "short_description" : "macOS Status Bar App for quick sketch. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "images"
     },
@@ -2384,7 +2384,7 @@
       ],
       "short_description" : "Gimp is GNU Image Manipulation Program. ",
       "languages" : [
-        "c_icon"
+        "c"
       ],
       "category" : "images"
     },
@@ -2396,8 +2396,8 @@
       ],
       "short_description" : "Mac GUI for pngquant, pngnq and posterizer.",
       "languages" : [
-        "objective_c_icon",
-        "python_icon"
+        "objective_c",
+        "python"
       ],
       "category" : "images"
     },
@@ -2409,7 +2409,7 @@
       ],
       "short_description" : "Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ",
       "languages" : [
-        "type_script_icon"
+        "type_script"
       ],
       "category" : "images"
     },
@@ -2421,8 +2421,8 @@
       ],
       "short_description" : "Katana is a simple screenshot utility for macOS that lives in your menubar.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "images"
     },
@@ -2439,7 +2439,7 @@
       ],
       "short_description" : "macOS app for finding and lost forgotten photos on your disks. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "images"
     },
@@ -2451,7 +2451,7 @@
       ],
       "short_description" : "macOS menubar app for automating screenshots. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "images"
     },
@@ -2463,8 +2463,8 @@
       ],
       "short_description" : "WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP.",
       "languages" : [
-        "swift_icon",
-        "c_icon"
+        "swift",
+        "c"
       ],
       "category" : "images"
     },
@@ -2476,7 +2476,7 @@
       ],
       "short_description" : "macOS application for controlling AnnePro keyboard over bluetooth. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "keyboard"
     },
@@ -2488,7 +2488,7 @@
       ],
       "short_description" : "Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "keyboard"
     },
@@ -2500,7 +2500,7 @@
       ],
       "short_description" : "Karabiner-Elements configuration manager, rescue to bloated karabiner.json ",
       "languages" : [
-        "clojure_icon"
+        "clojure"
       ],
       "category" : "keyboard"
     },
@@ -2512,8 +2512,8 @@
       ],
       "short_description" : "Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.",
       "languages" : [
-        "cpp_icon",
-        "objective_c_icon"
+        "cpp",
+        "objective_c"
       ],
       "category" : "keyboard"
     },
@@ -2525,8 +2525,8 @@
       ],
       "short_description" : "Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.",
       "languages" : [
-        "cpp_icon",
-        "objective_c_icon"
+        "cpp",
+        "objective_c"
       ],
       "category" : "keyboard"
     },
@@ -2539,7 +2539,7 @@
       ],
       "short_description" : "Better input source switcher for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "keyboard"
     },
@@ -2552,7 +2552,7 @@
       ],
       "short_description" : "Switch the right application ASAP. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "keyboard"
     },
@@ -2564,7 +2564,7 @@
       ],
       "short_description" : "Menubar/taskbar Gmail App for Windows and macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "mail"
     },
@@ -2576,8 +2576,8 @@
       ],
       "short_description" : "Fast and Simple Email Client.",
       "languages" : [
-        "cpp_icon",
-        "objective_c_icon"
+        "cpp",
+        "objective_c"
       ],
       "category" : "mail"
     },
@@ -2589,8 +2589,8 @@
       ],
       "short_description" : "Unofficial Google Inbox Desktop App.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "mail"
     },
@@ -2602,7 +2602,7 @@
       ],
       "short_description" : "Wrapper for Inbox by Gmail. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "mail"
     },
@@ -2614,7 +2614,7 @@
       ],
       "short_description" : "Extensible mail client. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "mail"
     },
@@ -2626,8 +2626,8 @@
       ],
       "short_description" : "Cross Platform messaging and emailing app that combines common web applications into one.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "mail"
     },
@@ -2639,7 +2639,7 @@
       ],
       "short_description" : "Status bar Mac application to overcome time constrained WiFi networks. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "menubar"
     },
@@ -2651,7 +2651,7 @@
       ],
       "short_description" : "macOS menubar status indicator. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "menubar"
     },
@@ -2663,7 +2663,7 @@
       ],
       "short_description" : "Put the output from any script or program in your macOS Menu Bar. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "menubar"
     },
@@ -2675,7 +2675,7 @@
       ],
       "short_description" : "Simple menu bar macOS application for displaing lists of your iCloud Tabs and Reading List. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2687,7 +2687,7 @@
       ],
       "short_description" : "Simple menu bar weather app for macOS written in Swift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2699,7 +2699,7 @@
       ],
       "short_description" : "Simple (bare-bones) macOS menubar extra to apply display presets. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2711,7 +2711,7 @@
       ],
       "short_description" : "Hide MacOS menubar items. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2723,7 +2723,7 @@
       ],
       "short_description" : "macOS status bar app that allows control over the gpu on dual gpu macbooks. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2735,7 +2735,7 @@
       ],
       "short_description" : "macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2747,7 +2747,7 @@
       ],
       "short_description" : "macOS app to change the screen brightness on the menubar. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "menubar"
     },
@@ -2759,7 +2759,7 @@
       ],
       "short_description" : "CPU, memory, disk, and network monitoring tools for macOS.  ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "menubar"
     },
@@ -2771,7 +2771,7 @@
       ],
       "short_description" : "Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2783,7 +2783,7 @@
       ],
       "short_description" : "Quickly hacked up PSI macOS status bar app. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2795,7 +2795,7 @@
       ],
       "short_description" : "A mac menu bar app that provides note taking functionality though a quick dropdown menu. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2807,8 +2807,8 @@
       ],
       "short_description" : "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "menubar"
     },
@@ -2820,7 +2820,7 @@
       ],
       "short_description" : "macOS menu bar app that gives you more control over Night Shift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "menubar"
     },
@@ -2832,7 +2832,7 @@
       ],
       "short_description" : "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
       "languages" : [
-        "c_sharp_icon"
+        "c_sharp"
       ],
       "category" : "music"
     },
@@ -2844,7 +2844,7 @@
       ],
       "short_description" : "Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "music"
     },
@@ -2856,7 +2856,7 @@
       ],
       "short_description" : "Deezer Desktop app for Windows, Linux and macOS. ",
       "languages" : [
-        "coffee_script_icon"
+        "coffee_script"
       ],
       "category" : "music"
     },
@@ -2869,7 +2869,7 @@
       ],
       "short_description" : "macOS app to visualise your iTunes library as graphs. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "music"
     },
@@ -2882,7 +2882,7 @@
       ],
       "short_description" : "Simple Spotify lyrics viewer menu bar app for macOS in Swift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "music"
     },
@@ -2894,7 +2894,7 @@
       ],
       "short_description" : "SoundCloud for macOS and Windows. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "music"
     },
@@ -2906,7 +2906,7 @@
       ],
       "short_description" : "Control Spotify without leaving your terminal. :notes: ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "music"
     },
@@ -2921,7 +2921,7 @@
       ],
       "short_description" : "macOS wrapper for music.youtube.com. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "music"
     },
@@ -2933,7 +2933,7 @@
       ],
       "short_description" : "Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "news"
     },
@@ -2945,7 +2945,7 @@
       ],
       "short_description" : "Hacker News Delivered to Desktop. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "news"
     },
@@ -2957,7 +2957,7 @@
       ],
       "short_description" : "Feed reader for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "news"
     },
@@ -2969,7 +2969,7 @@
       ],
       "short_description" : "Vienna is a RSS/Atom newsreader for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "news"
     },
@@ -2981,7 +2981,7 @@
       ],
       "short_description" : "Note-taking application made for programmers just like you. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "notes"
     },
@@ -2993,8 +2993,8 @@
       ],
       "short_description" : "Little app that you can use as a quick note taking or todo app.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "notes"
     },
@@ -3007,7 +3007,7 @@
       ],
       "short_description" : "Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "notes"
     },
@@ -3019,7 +3019,7 @@
       ],
       "short_description" : "Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "notes"
     },
@@ -3031,7 +3031,7 @@
       ],
       "short_description" : "Notebook viewer for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "notes"
     },
@@ -3049,7 +3049,7 @@
       ],
       "short_description" : "Simple note taking application. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "notes"
     },
@@ -3061,7 +3061,7 @@
       ],
       "short_description" : "Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "notes"
     },
@@ -3073,7 +3073,7 @@
       ],
       "short_description" : "Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "notes"
     },
@@ -3085,7 +3085,7 @@
       ],
       "short_description" : "Simplest way to keep notes. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "notes"
     },
@@ -3097,8 +3097,8 @@
       ],
       "short_description" : "Safe place for your notes, thoughts, and life's work.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "notes"
     },
@@ -3110,7 +3110,7 @@
       ],
       "short_description" : "Very simple macOS app to make temporary notes. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "notes"
     },
@@ -3122,8 +3122,8 @@
       ],
       "short_description" : "Unofficial, third-party, community driven Evernote app with a handful of useful features.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "notes"
     },
@@ -3135,7 +3135,7 @@
       ],
       "short_description" : "Manage your Homebrew formulas with style using Cakebrew. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3147,7 +3147,7 @@
       ],
       "short_description" : "Hosts file manager for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3159,7 +3159,7 @@
       ],
       "short_description" : "Cocoa GUI for /etc/hosts. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3171,7 +3171,7 @@
       ],
       "short_description" : "GUI image optimizer for Mac. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3183,7 +3183,7 @@
       ],
       "short_description" : "Simple macOS app to preview animations created with Facebook's keyframes framework. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     },
@@ -3195,7 +3195,7 @@
       ],
       "short_description" : "Democratizing Code Snippets Management (macOS/Win/Linux). ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "other"
     },
@@ -3207,7 +3207,7 @@
       ],
       "short_description" : "Simple app to send pasteboard items to GitHub's Gist. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     },
@@ -3219,7 +3219,7 @@
       ],
       "short_description" : "Mac developer tool that creates application bundles from command line scripts. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3231,7 +3231,7 @@
       ],
       "short_description" : "Swift Logging Utility for Xcode & Google Docs. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     },
@@ -3243,7 +3243,7 @@
       ],
       "short_description" : "Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "other"
     },
@@ -3255,7 +3255,7 @@
       ],
       "short_description" : "Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "other"
     },
@@ -3268,7 +3268,7 @@
       ],
       "short_description" : "Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     },
@@ -3280,7 +3280,7 @@
       ],
       "short_description" : "macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ",
       "languages" : [
-        "ruby_icon"
+        "ruby"
       ],
       "category" : "other"
     },
@@ -3292,7 +3292,7 @@
       ],
       "short_description" : "Simple SSH shortcut menu for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3304,7 +3304,7 @@
       ],
       "short_description" : "Convenient logging during development & release in Swift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     },
@@ -3316,7 +3316,7 @@
       ],
       "short_description" : "Frugal nativemacOS macOS Syncthing application bundle. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3328,7 +3328,7 @@
       ],
       "short_description" : "Mac app for checking Xcode projects for unused resources.  ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3340,7 +3340,7 @@
       ],
       "short_description" : "Manage your vagrant machines in one place with Vagrant Manager for macOS.  ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "other"
     },
@@ -3352,7 +3352,7 @@
       ],
       "short_description" : "Simple, beautiful podcast app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "podcast"
     },
@@ -3364,7 +3364,7 @@
       ],
       "short_description" : "Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "podcast"
     },
@@ -3376,7 +3376,7 @@
       ],
       "short_description" : "PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "podcast"
     },
@@ -3388,7 +3388,7 @@
       ],
       "short_description" : "macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de). ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "podcast"
     },
@@ -3410,8 +3410,8 @@
       ],
       "short_description" : "Elegant Microsoft To-Do desktop app.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "productivity"
     },
@@ -3423,7 +3423,7 @@
       ],
       "short_description" : "Cross-platform launcher app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "productivity"
     },
@@ -3435,7 +3435,7 @@
       ],
       "short_description" : "Clipboard manager for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3447,7 +3447,7 @@
       ],
       "short_description" : "macOS app to plan and organize through timezones. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3459,7 +3459,7 @@
       ],
       "short_description" : "Automate running tasks based on where you are or what you do. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3471,7 +3471,7 @@
       ],
       "short_description" : "Clean and simple clipboard manager for developers. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3483,7 +3483,7 @@
       ],
       "short_description" : "Record shortcuts in macOS, like Alfred.app. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3495,7 +3495,7 @@
       ],
       "short_description" : "Kiwix for iOS and macOS, build on Swift. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3507,7 +3507,7 @@
       ],
       "short_description" : "macOS application to write down and connect ideas. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3519,7 +3519,7 @@
       ],
       "short_description" : "Lightweight search-as-you-type clipboard manager. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3531,7 +3531,7 @@
       ],
       "short_description" : "macOS app for organizing files or removing unnecessary files. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3543,7 +3543,7 @@
       ],
       "short_description" : "Flexible invoicing desktop app with beautiful & customizable templates. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "productivity"
     },
@@ -3556,7 +3556,7 @@
       ],
       "short_description" : "Desktop app that uses the paperless API to manage your document scans. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "productivity"
     },
@@ -3568,7 +3568,7 @@
       ],
       "short_description" : "Nice tool for tagging and archiving tasks. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3580,7 +3580,7 @@
       ],
       "short_description" : "Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3592,8 +3592,8 @@
       ],
       "short_description" : "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![javascript_icon]",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "productivity"
     },
@@ -3605,7 +3605,7 @@
       ],
       "short_description" : "macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3617,7 +3617,7 @@
       ],
       "short_description" : "Simple macOS app to keep TODO-list in status bar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3629,7 +3629,7 @@
       ],
       "short_description" : "Cross-platform electron app that reminds you to take breaks when working with computer. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "productivity"
     },
@@ -3641,7 +3641,7 @@
       ],
       "short_description" : "The task timer for OS X. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "productivity"
     },
@@ -3653,7 +3653,7 @@
       ],
       "short_description" : "Simple Timer app for Mac. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3665,7 +3665,7 @@
       ],
       "short_description" : "Toggl Desktop app for Windows, Mac and Linux. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "productivity"
     },
@@ -3677,7 +3677,7 @@
       ],
       "short_description" : "Unofficial wrapper application for Trello.com written in Swift. This is almost a \"Hello World\" for a site specific browser. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3690,7 +3690,7 @@
       ],
       "short_description" : "A CLI application for time tracking. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "productivity"
     },
@@ -3702,7 +3702,7 @@
       ],
       "short_description" : "Unofficial Trello app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "productivity"
     },
@@ -3714,7 +3714,7 @@
       ],
       "short_description" : "Manga reader app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "productivity"
     },
@@ -3731,7 +3731,7 @@
       ],
       "short_description" : "Apple TV Aerial Screensaver for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "screensaver"
     },
@@ -3743,7 +3743,7 @@
       ],
       "short_description" : "Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "screensaver"
     },
@@ -3757,7 +3757,7 @@
       ],
       "short_description" : "Screensaver for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "screensaver"
     },
@@ -3769,7 +3769,7 @@
       ],
       "short_description" : "iTunes Screensaver Clone for Spotify and Last.fm ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "screensaver"
     },
@@ -3782,7 +3782,7 @@
       ],
       "short_description" : "The GitHub Matrix Screensaver for macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "screensaver"
     },
@@ -3794,7 +3794,7 @@
       ],
       "short_description" : "LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "security"
     },
@@ -3807,7 +3807,7 @@
       ],
       "short_description" : "Easily configure macOS security settings from the terminal. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "security"
     },
@@ -3819,7 +3819,7 @@
       ],
       "short_description" : "Lightweight cross-platform BitTorrent client. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "sharing-files"
     },
@@ -3831,7 +3831,7 @@
       ],
       "short_description" : "Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "sharing-files"
     },
@@ -3843,7 +3843,7 @@
       ],
       "short_description" : "BitTorrent client in Qt. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "sharing-files"
     },
@@ -3855,7 +3855,7 @@
       ],
       "short_description" : "macOS status bar app for quickly sharing files and URLs. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "sharing-files"
     },
@@ -3867,8 +3867,8 @@
       ],
       "short_description" : "Official Transmission BitTorrent client repository.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "sharing-files"
     },
@@ -3880,7 +3880,7 @@
       ],
       "short_description" : "Privacy enhanced BitTorrent client with P2P content discovery. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "sharing-files"
     },
@@ -3892,7 +3892,7 @@
       ],
       "short_description" : "Unofficial appear.in app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "social-networking"
     },
@@ -3904,8 +3904,8 @@
       ],
       "short_description" : "Elegant Facebook Messenger desktop app.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "social-networking"
     },
@@ -3917,7 +3917,7 @@
       ],
       "short_description" : "Unofficial Facebook Messenger client. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "social-networking"
     },
@@ -3929,7 +3929,7 @@
       ],
       "short_description" : "Leviathan is a iOS and macOS client application for the Mastodon social network. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "social-networking"
     },
@@ -3941,7 +3941,7 @@
       ],
       "short_description" : "macOS app wrapping Facebook's Messenger for desktop. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "social-networking"
     },
@@ -3953,7 +3953,7 @@
       ],
       "short_description" : "share and discover your favorite new products and applications. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "social-networking"
     },
@@ -3965,7 +3965,7 @@
       ],
       "short_description" : "Unofficial [esa](https://esa.io) app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "social-networking"
     },
@@ -3977,8 +3977,8 @@
       ],
       "short_description" : "Unofficial Instagram Desktop App.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "social-networking"
     },
@@ -3991,7 +3991,7 @@
       ],
       "short_description" : "macOS menubar app to post status quickly. ",
       "languages" : [
-        "ruby_icon"
+        "ruby"
       ],
       "category" : "social-networking"
     },
@@ -4003,7 +4003,7 @@
       ],
       "short_description" : "Perpetual artwork streaming app. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "streaming"
     },
@@ -4018,7 +4018,7 @@
       ],
       "short_description" : "Advanced battery gauge for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4034,7 +4034,7 @@
       ],
       "short_description" : "App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4046,7 +4046,7 @@
       ],
       "short_description" : "Small macOS app that acts as a system cleaner (logs, cache, ...). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4058,7 +4058,7 @@
       ],
       "short_description" : "Diagnostics is an application displaying the diagnostic reports from applications on macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4070,7 +4070,7 @@
       ],
       "short_description" : "Easily disable or enable a monitor on your Mac. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4082,7 +4082,7 @@
       ],
       "short_description" : "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4094,7 +4094,7 @@
       ],
       "short_description" : "Monitor your Mac's fan speed and CPU temperature from your Notification Center. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4107,7 +4107,7 @@
       ],
       "short_description" : "Make your battery information a bit more interesting. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4119,7 +4119,7 @@
       ],
       "short_description" : "Prevents your Mac from going to sleep. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4131,7 +4131,7 @@
       ],
       "short_description" : "Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4143,7 +4143,7 @@
       ],
       "short_description" : "Simple network activity monitor for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4155,7 +4155,7 @@
       ],
       "short_description" : "Stop iTunes from opening when you connect your iPhone. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4167,7 +4167,7 @@
       ],
       "short_description" : "macOS Application to create standard or customized configuration profiles. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4181,7 +4181,7 @@
       ],
       "short_description" : "Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4193,7 +4193,7 @@
       ],
       "short_description" : "Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "system"
     },
@@ -4205,7 +4205,7 @@
       ],
       "short_description" : "macOS application to add a vertical bar to Dock. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "system"
     },
@@ -4217,7 +4217,7 @@
       ],
       "short_description" : "Cross-platform, GPU-accelerated terminal emulator. ",
       "languages" : [
-        "rust_icon"
+        "rust"
       ],
       "category" : "terminal"
     },
@@ -4229,7 +4229,7 @@
       ],
       "short_description" : "A tiny terminal emulator for serial port communication (macOS/Linux). ",
       "languages" : [
-        "go_icon"
+        "go"
       ],
       "category" : "terminal"
     },
@@ -4241,7 +4241,7 @@
       ],
       "short_description" : "macOS console application. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "terminal"
     },
@@ -4253,8 +4253,8 @@
       ],
       "short_description" : "Terminal built on web technologies.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "terminal"
     },
@@ -4266,7 +4266,7 @@
       ],
       "short_description" : "Terminal emulator for macOS that does amazing things. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "terminal"
     },
@@ -4278,8 +4278,8 @@
       ],
       "short_description" : "Cross-platform, fast, feature full, GPU based terminal emulator.",
       "languages" : [
-        "python_icon",
-        "c_icon"
+        "python",
+        "c"
       ],
       "category" : "terminal"
     },
@@ -4291,7 +4291,7 @@
       ],
       "short_description" : "App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "terminal"
     },
@@ -4311,7 +4311,7 @@
       ],
       "short_description" : "A terminal emulator for the 21st century (formerly Black Screen). ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "terminal"
     },
@@ -4323,7 +4323,7 @@
       ],
       "short_description" : "wallpapper is a console application for creating dynamic wallpapers for Mojave. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "terminal"
     },
@@ -4339,7 +4339,7 @@
       ],
       "short_description" : "One-click screenshots, video recordings, app installation for iOS and Android ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4351,7 +4351,7 @@
       ],
       "short_description" : "Mounts archives like disk images ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4363,7 +4363,7 @@
       ],
       "short_description" : "Control web based media players with the media keys found on Mac keyboards. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "utilities"
     },
@@ -4375,7 +4375,7 @@
       ],
       "short_description" : "Secure password manager for mac and other platforms. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4387,7 +4387,7 @@
       ],
       "short_description" : "Catch: Broadcatching made easy. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4399,7 +4399,7 @@
       ],
       "short_description" : "Simple, clean calendar and clock app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4414,7 +4414,7 @@
       ],
       "short_description" : "Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4426,7 +4426,7 @@
       ],
       "short_description" : "Small tool to validate epub files for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4438,7 +4438,7 @@
       ],
       "short_description" : "Pick between the light appearance and the dark appearance on a per-app basis with the click of a button ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4451,8 +4451,8 @@
       ],
       "short_description" : "Cocoa application for semi-automated iOS app analysis and evaluation.",
       "languages" : [
-        "objective_c_icon",
-        "c_icon"
+        "objective_c",
+        "c"
       ],
       "category" : "utilities"
     },
@@ -4464,7 +4464,7 @@
       ],
       "short_description" : "Screen recorder application built with web technology. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4476,7 +4476,7 @@
       ],
       "short_description" : "Cross-platform community-driven port of the Windows application \"Keepass Password Safe\" ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "utilities"
     },
@@ -4488,7 +4488,7 @@
       ],
       "short_description" : "Cross-platform password manager compatible with KeePass. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4500,7 +4500,7 @@
       ],
       "short_description" : "Simple screen and microphone audio recorder for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4514,7 +4514,7 @@
       ],
       "short_description" : "Life Calendar. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4526,7 +4526,7 @@
       ],
       "short_description" : "Intelligent adaptive brightness for your external displays. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4538,7 +4538,7 @@
       ],
       "short_description" : "Native macOS KeePass client. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "utilities"
     },
@@ -4550,7 +4550,7 @@
       ],
       "short_description" : "macOS native app/widget for aria2 download tool. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4562,7 +4562,7 @@
       ],
       "short_description" : "Meme Maker macOS application for meme creation. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4574,7 +4574,7 @@
       ],
       "short_description" : "Remove unnecessary language resources from macOS ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4586,7 +4586,7 @@
       ],
       "short_description" : "Smooth your mouse's scrolling and reverse the mouse scroll direction ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4598,7 +4598,7 @@
       ],
       "short_description" : "Receive Android notifications on your mac (with PushBullet). ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4610,7 +4610,7 @@
       ],
       "short_description" : "A minimal, open source password manager for macOS. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4625,7 +4625,7 @@
       ],
       "short_description" : "Receive native push notifications on macOS, Windows and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4637,7 +4637,7 @@
       ],
       "short_description" : "A menu bar application that calculates parcents. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4649,8 +4649,8 @@
       ],
       "short_description" : "ScreenCat is a screen sharing + remote collaboration application.",
       "languages" : [
-        "javascript_icon",
-        "css_icon"
+        "javascript",
+        "css"
       ],
       "category" : "utilities"
     },
@@ -4662,7 +4662,7 @@
       ],
       "short_description" : "Add a global delay to Command-Q to stop accidental app quits. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "utilities"
     },
@@ -4674,8 +4674,8 @@
       ],
       "short_description" : "SIP softphone for macOS.",
       "languages" : [
-        "objective_c_icon",
-        "swift_icon"
+        "objective_c",
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4687,7 +4687,7 @@
       ],
       "short_description" : "Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "utilities"
     },
@@ -4699,7 +4699,7 @@
       ],
       "short_description" : "The Unarchiver is an Objective-C application for uncompressing archive files. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "utilities"
     },
@@ -4711,7 +4711,7 @@
       ],
       "short_description" : "Small macOS application to help you scroll to the top. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "utilities"
     },
@@ -4723,7 +4723,7 @@
       ],
       "short_description" : "Keep an eye on what's happening on your machine and in the world. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "utilities"
     },
@@ -4735,7 +4735,7 @@
       ],
       "short_description" : "A rule based custom proxy with GUI for Mac base on clash. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "vpn--proxy"
     },
@@ -4747,7 +4747,7 @@
       ],
       "short_description" : "Ribose VPN Client macOS Menu App. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "vpn--proxy"
     },
@@ -4759,7 +4759,7 @@
       ],
       "short_description" : "Next Generation of ShadowsocksX. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "vpn--proxy"
     },
@@ -4771,7 +4771,7 @@
       ],
       "short_description" : "Rule-based proxy app built with Network Extension for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "vpn--proxy"
     },
@@ -4783,7 +4783,7 @@
       ],
       "short_description" : "Rule-based proxy app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "vpn--proxy"
     },
@@ -4795,7 +4795,7 @@
       ],
       "short_description" : "Tunnelblick is a graphic user interface for OpenVPN on macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "vpn--proxy"
     },
@@ -4807,7 +4807,7 @@
       ],
       "short_description" : "Acid Cam v2 for macOS distorts video to create art. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "video"
     },
@@ -4819,7 +4819,7 @@
       ],
       "short_description" : "Unofficial Apple Events app for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "video"
     },
@@ -4831,7 +4831,7 @@
       ],
       "short_description" : "Datamosh your videos on macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "video"
     },
@@ -4844,7 +4844,7 @@
       ],
       "short_description" : "macOS application used to auto-annotate landmarks from a video. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "video"
     },
@@ -4856,7 +4856,7 @@
       ],
       "short_description" : "Turn any short video into an animated GIF quickly and easily. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "video"
     },
@@ -4868,7 +4868,7 @@
       ],
       "short_description" : "HandBrake is a video transcoder available for Linux, Mac, and Windows. ",
       "languages" : [
-        "c_icon"
+        "c"
       ],
       "category" : "video"
     },
@@ -4880,7 +4880,7 @@
       ],
       "short_description" : "Catch YouTube into your macOS menu bar! ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "video"
     },
@@ -4892,7 +4892,7 @@
       ],
       "short_description" : "Easy to use, quick to learn, and surprisingly powerful video editor. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "video"
     },
@@ -4904,7 +4904,7 @@
       ],
       "short_description" : "This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "video"
     },
@@ -4916,7 +4916,7 @@
       ],
       "short_description" : "Subler is an macOS app created to mux and tag mp4 files. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "video"
     },
@@ -4928,7 +4928,7 @@
       ],
       "short_description" : "macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "video"
     },
@@ -4942,7 +4942,7 @@
       ],
       "short_description" : "Streaming torrent app. For Mac, Windows, and Linux. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "video"
     },
@@ -4954,7 +4954,7 @@
       ],
       "short_description" : "Nifty macOS application which enables you to browse and download videos from YouTube. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "video"
     },
@@ -4966,7 +4966,7 @@
       ],
       "short_description" : "Modern video player for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "player"
     },
@@ -4978,7 +4978,7 @@
       ],
       "short_description" : "3D 180/360 video player for macOS for PSVR with head tracking. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "player"
     },
@@ -4991,7 +4991,7 @@
       ],
       "short_description" : "Desktop video player built with Haskell that uses GStreamer and GTK+. ",
       "languages" : [
-        "haskell_icon"
+        "haskell"
       ],
       "category" : "player"
     },
@@ -5003,7 +5003,7 @@
       ],
       "short_description" : "Media player on macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "player"
     },
@@ -5015,7 +5015,7 @@
       ],
       "short_description" : "Video player based on MPlayer/mplayer2. ",
       "languages" : [
-        "c_icon"
+        "c"
       ],
       "category" : "player"
     },
@@ -5027,7 +5027,7 @@
       ],
       "short_description" : "Caption takes the effort out of finding and setting up the right subtitles. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "subtitles"
     },
@@ -5039,7 +5039,7 @@
       ],
       "short_description" : "Small macOS application to download subtitles. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "subtitles"
     },
@@ -5051,7 +5051,7 @@
       ],
       "short_description" : "Subtitlr is macOS application used to find and download subtitles easily. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "subtitles"
     },
@@ -5063,7 +5063,7 @@
       ],
       "short_description" : "Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "wallpaper"
     },
@@ -5078,7 +5078,7 @@
       ],
       "short_description" : "A macOS application for bringing dedicatedly 18th century Arts to everyone ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "wallpaper"
     },
@@ -5090,7 +5090,7 @@
       ],
       "short_description" : "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "wallpaper"
     },
@@ -5103,7 +5103,7 @@
       ],
       "short_description" : "Use Bing daily photo as your wallpaper on macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "wallpaper"
     },
@@ -5115,7 +5115,7 @@
       ],
       "short_description" : "Win / Linux / macOS tool for managing and cycling desktop wallpapers. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "wallpaper"
     },
@@ -5127,7 +5127,7 @@
       ],
       "short_description" : "Simple macOS menubar app which fetches latest photos from a subreddit. ",
       "languages" : [
-        "javascript_icon"
+        "javascript"
       ],
       "category" : "wallpaper"
     },
@@ -5139,7 +5139,7 @@
       ],
       "short_description" : "pyDailyChanger is a program that changes your wallpaper daily. ",
       "languages" : [
-        "python_icon"
+        "python"
       ],
       "category" : "wallpaper"
     },
@@ -5151,7 +5151,7 @@
       ],
       "short_description" : "Muzei wallpaper app for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "wallpaper"
     },
@@ -5163,7 +5163,7 @@
       ],
       "short_description" : "macOS app to automatically set your desktop wallpaper to the satellite view overhead. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "wallpaper"
     },
@@ -5175,7 +5175,7 @@
       ],
       "short_description" : "Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "wallpaper"
     },
@@ -5187,7 +5187,7 @@
       ],
       "short_description" : "macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. ",
       "languages" : [
-        "ruby_icon"
+        "ruby"
       ],
       "category" : "wallpaper"
     },
@@ -5201,7 +5201,7 @@
       ],
       "short_description" : "Automatic tiling window manager for macOS. ",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "window-management"
     },
@@ -5214,7 +5214,7 @@
       ],
       "short_description" : "Grid-based keyboard window manager for macOS. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5226,7 +5226,7 @@
       ],
       "short_description" : "Tiling window manager for macOS that uses a plugin architecture. ",
       "languages" : [
-        "cpp_icon"
+        "cpp"
       ],
       "category" : "window-management"
     },
@@ -5238,8 +5238,8 @@
       ],
       "short_description" : "Staggeringly powerful macOS desktop automation with Lua.",
       "languages" : [
-        "lua_icon",
-        "objective_c_icon"
+        "lua",
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5251,7 +5251,7 @@
       ],
       "short_description" : "Lightweight macOS window and app manager scriptable with JavaScript. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5265,7 +5265,7 @@
       ],
       "short_description" : "Managing windows size and position. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5277,7 +5277,7 @@
       ],
       "short_description" : "Window management application (replacement for Divvy/SizeUp/ShiftIt). ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5289,7 +5289,7 @@
       ],
       "short_description" : "Spectacle allows you to organize your windows without using a mouse. ",
       "languages" : [
-        "objective_c_icon"
+        "objective_c"
       ],
       "category" : "window-management"
     },
@@ -5304,7 +5304,7 @@
       ],
       "short_description" : "Teach your kids the alphabet and how to type.",
       "languages" : [
-        "swift_icon"
+        "swift"
       ],
       "category" : "other"
     }
