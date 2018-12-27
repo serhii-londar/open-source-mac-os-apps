@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
       "category" : "Application category"
     }
 ```
-- New categories, or improvements to the existing categorization are welcome.
+- New categories, or improvements to the existing categorization are welcome. List of all categories can be found in [categories.json](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/categories.json).
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
