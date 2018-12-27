@@ -260,6 +260,7 @@ extension String {
     static let enter = "\n"
     static let section = "###"
     static let subsection = "####"
+	static let iconPrefix = "_icon"
 }
 
 extension JSONApplication {
@@ -267,7 +268,7 @@ extension JSONApplication {
         var markdownDescription = String.empty
         var languages: String = String.empty
         for lang in self.languages {
-            languages.append("![\(lang)] ")
+            languages.append("![\(lang)\(String.iconPrefix)] ")
         }
         
         markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription) \(languages)")
