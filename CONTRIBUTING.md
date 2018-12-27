@@ -4,7 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Edit applications.json instead of README.md.
+- Edit [applications.json](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/applications.json) instead of [README.md](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md).
 - Use the following format: 
 ```json
      {
