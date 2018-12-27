@@ -3396,17 +3396,15 @@
       "repo_url" : "https://github.com/klaussinani/ao",
       "title" : "Ao",
       "screenshots" : [
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/list-navigation.gif",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/compact-mode.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/55af062e/media/vibrant-dark-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/ao-vibrant.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/black-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/sepia-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/custom-shortcut-keys.gif",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/dark-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/scalable-interface.gif",
-        "https://raw.githubusercontent.com/klauscfhq/ao/55af062e/media/vibrant-theme.png",
-        "https://raw.githubusercontent.com/klauscfhq/ao/master/media/logo.png"
+        "https://klaussinani.github.io/ao/media/list-navigation.gif",
+        "https://klaussinani.github.io/ao/media/header.png",
+        "https://klaussinani.github.io/ao/media/sepia-theme.png",
+        "https://klaussinani.github.io/ao/media/black-theme.png",
+        "https://klaussinani.github.io/ao/media/dark-theme.png",
+        "https://klaussinani.github.io/ao/media/compact-mode.png",
+        "https://klaussinani.github.io/ao/media/list-navigation.gif",
+        "https://klaussinani.github.io/ao/media/custom-shortcut-keys.gif",
+        "https://klaussinani.github.io/ao/media/scalable-interface.gif"
       ],
       "short_description" : "Elegant Microsoft To-Do desktop app.",
       "languages" : [
@@ -5023,7 +5021,7 @@
       "repo_url" : "https://github.com/gielcobben/caption",
       "title" : "Caption",
       "screenshots" : [
-        "https://gielcobben.com/github/caption/github_cover.png"
+        "https://camo.githubusercontent.com/be0c821b4a653eae2a039484841338d3b035cf17/68747470733a2f2f6769656c636f6262656e2e636f6d2f6769746875622f63617074696f6e2f6769746875625f636f7665722e706e67"
       ],
       "short_description" : "Caption takes the effort out of finding and setting up the right subtitles. ",
       "languages" : [
