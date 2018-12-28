@@ -14,4 +14,4 @@ after_success:
   - chmod +x ./.github/deploy.sh
   - ./.github/deploy.sh
 notifications:
-  email: false
+  email: true
