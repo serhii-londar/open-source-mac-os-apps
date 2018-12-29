@@ -396,6 +396,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Other
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://www.cakebrew.com/assets/img/app-bg.png' width="400"/>  </p></details> 
+- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer. ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/dteoh/devdocs-macos/master/img/screenshot.png' width="400"/>  </p></details> 
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS.  ![objective_c_icon] 
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts.  ![objective_c_icon] 
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.  ![objective_c_icon] 
@@ -520,6 +521,7 @@ You can see in which language an app is written. Currently there are following l
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ekreutz/CornerCal/master/screenshot-01.png' width="400"/>  </p></details> 
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/Welcome_screen.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/Crypter_main_screen.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png' width="400"/>  </p></details> 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
+- [Funky](https://github.com/thecatalinstan/Funky) - Easily toggle the function key on your Mac on a per app basis. ![objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button  ![swift_icon] 
 - [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology.  ![javascript_icon] 
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"  ![cpp_icon] 
