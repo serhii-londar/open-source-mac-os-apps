@@ -3140,6 +3140,18 @@
       "category" : "other"
     },
     {
+      "repo_url" : "https://github.com/dteoh/devdocs-macos",
+      "title" : "DevDocs for macOS",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/dteoh/devdocs-macos/master/img/screenshot.png"
+      ],
+      "short_description" : "An unofficial DevDocs API documentation viewer.",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "other"
+    },
+    {
       "repo_url" : "https://github.com/2ndalpha/gasmask",
       "title" : "Gas Mask",
       "screenshots" : [
