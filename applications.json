@@ -5329,5 +5329,18 @@
       ],
       "category" : "utilities"
     },
+    {
+      "repo_url" : "https://github.com/subethaedit/SubEthaEdit",
+      "title" : "SubEthaEdit",
+      "screenshots" : [
+        "https://subethaedit.net/images/screenshots/en-contribute-bright-thumb.png",
+        "https://subethaedit.net/images/screenshots/en-find-bright-thumb.png"
+      ],
+      "short_description" : "General purpose plain text editor for macOS. Widely known for its live collaboration feature.",
+      "languages" : [
+        "objective_c"
+      ],
+      "category" : "text"
+    }
   ]
 }
