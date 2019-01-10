@@ -797,7 +797,7 @@
       ],
       "short_description" : "Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts. ",
       "languages" : [
-        "c++"
+        "cpp"
       ],
       "category" : "database"
     },
