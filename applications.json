@@ -945,7 +945,7 @@
       "title" : "Streaker",
       "screenshots" : [
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png",
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/./screenshot.png"
+        "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menubar.png"
       ],
       "short_description" : "GitHub contribution streak tracking menubar app. ",
       "languages" : [
