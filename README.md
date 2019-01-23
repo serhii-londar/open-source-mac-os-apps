@@ -539,7 +539,7 @@ You can see in which language an app is written. Currently there are following l
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-linux.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/graphics/icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-macos.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-win32.png' width="400"/>  </p></details> 
 - [Padlock](https://github.com/padlock/padlock) - A minimal, open source password manager for macOS.  ![javascript_icon] 
-- [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percentages.  ![swift_icon] 
+- [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![javascript_icon] ![css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.  ![objective_c_icon] 
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for macOS. ![objective_c_icon] ![swift_icon] 
