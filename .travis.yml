@@ -5,6 +5,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
+  - gem install bundler
   - gem install danger
 script:
   - awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com
