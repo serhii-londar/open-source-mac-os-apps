@@ -790,6 +790,18 @@
       "category" : "database"
     },
     {
+      "repo_url" : "https://github.com/Studio3T/robomongo",
+      "title" : "Robo 3T",
+      "screenshots" : [
+        "https://robomongo.org/static/screens-transparent-6e2a44fd.png"
+      ],
+      "short_description" : "Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts. ",
+      "languages" : [
+        "cpp"
+      ],
+      "category" : "database"
+    },
+    {
       "repo_url" : "https://github.com/simplerocket-llc/OpenCashew",
       "title" : "Cashew",
       "screenshots" : [
