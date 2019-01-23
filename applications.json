@@ -1006,9 +1006,9 @@
       "repo_url" : "https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation",
       "title" : "AppBox",
       "screenshots" : [
-        "https://github.com/getappbox/Home/raw/master/Images/UploadIPA-Dark.png?raw=true",
-        "https://github.com/getappbox/Home/raw/master/Images/Dashboard-Dark.png?raw=true",
-        "https://github.com/getappbox/Home/raw/master/Images/AppURL.png?raw=true"
+        "https://raw.githubusercontent.com/getappbox/Home/master/Images/UploadIPA-Dark.png",
+        "https://raw.githubusercontent.com/getappbox/Home/master/Images/Dashboard-Dark.png",
+        "https://raw.githubusercontent.com/getappbox/Home/master/Images/AppURL.png"
       ],
       "short_description" : "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ",
       "languages" : [
