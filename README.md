@@ -324,6 +324,7 @@ You can see in which language an app is written. Currently there are following l
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.  ![python_icon] 
 - [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/wddwycc/Freehand/master/_images/demo.png' width="400"/>  </p></details> 
 - [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program.  ![c_icon] 
+- [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes. ![swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![objective_c_icon] ![python_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://pngmini.com/screenshot-1.3.png' width="400"/>  </p></details> 
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![type_script_icon] 
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar. ![javascript_icon] ![css_icon] 
@@ -364,7 +365,7 @@ You can see in which language an app is written. Currently there are following l
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![objective_c_icon] ![c_icon] 
 - [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/thompsonate/Shifty/master/docs/en/images/prefs-general-screenshot-shadow.png' width="400"/>  </p></details> 
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.  ![swift_icon] 
-- [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.  ![swift_icon] 
+- [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.  ![swift_icon] 
 
 ### Music
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
