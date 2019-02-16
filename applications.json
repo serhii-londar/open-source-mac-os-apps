@@ -5257,8 +5257,8 @@
       "repo_url" : "https://github.com/mamiksik/Desktop-Profiles",
       "title" : "Desktop Profiles",
       "screenshots" : [
-        "https://github.com/mamiksik/Desktop-Profiles/blob/master/doc_assets/Themes.gif?raw=true",
-        "https://github.com/mamiksik/Desktop-Profiles/blob/master/doc_assets/iTerm.gif?raw=true"
+        "https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/Themes.gif",
+        "https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/iTerm.gif"
       ],
       "short_description" : "An innovative desktop/window manager for macOS",
       "languages" : [
