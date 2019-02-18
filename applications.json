@@ -5253,6 +5253,19 @@
       ],
       "category" : "window-management"
     },
+     {
+      "repo_url" : "https://github.com/mamiksik/Desktop-Profiles",
+      "title" : "Desktop Profiles",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/Themes.gif",
+        "https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/iTerm.gif"
+      ],
+      "short_description" : "An innovative desktop/window manager for macOS",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "window-management"
+    },
     {
       "repo_url" : "https://github.com/koekeishiya/chunkwm",
       "title" : "chunkwm",
