@@ -4134,6 +4134,18 @@
       "category" : "system"
     },
     {
+      "repo_url" : "https://github.com/jwise/HoRNDIS",
+      "title" : "HoRNDIS",
+      "screenshots" : [
+
+      ],
+      "short_description" : "Android USB tethering driver for macOS. ",
+      "languages" : [
+        "cpp"
+      ],
+      "category" : "system"
+    },
+    {
       "repo_url" : "https://github.com/brianmichel/Juice",
       "title" : "Juice",
       "screenshots" : [
