@@ -2233,18 +2233,6 @@
       "category" : "graphics"
     },
     {
-      "repo_url" : "https://gitlab.com/inkscape/inkscape",
-      "title" : "Inkscape",
-      "screenshots" : [
-
-      ],
-      "short_description" : "Inkscape is professional quality vector graphics software. ",
-      "languages" : [
-        "cpp"
-      ],
-      "category" : "graphics"
-    },
-    {
       "repo_url" : "https://github.com/dsward2/macSVG",
       "title" : "macSVG",
       "screenshots" : [
