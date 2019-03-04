@@ -5381,6 +5381,18 @@
         "objective_c"
       ],
       "category" : "text"
+    },
+    {
+      "repo_url" : "https://github.com/zagahr/Conferences.digital",
+      "title" : "Conferences.digital",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/zagahr/Conferences.digital/master/.github/screenshot.png"
+      ],
+      "short_description" : "Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "video"
     }
   ]
 }
