@@ -555,6 +555,7 @@ You can see in which language an app is written. Currently there are following l
 ### Video
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.  ![cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.  ![objective_c_icon] 
+- [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac. ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/zagahr/Conferences.digital/master/.github/screenshot.png' width="400"/>  </p></details> 
 - [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://media.giphy.com/media/13bMkBsTQ7mh32/giphy.gif' width="400"/>  </p></details> 
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/FEVY2Pu.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/xiaohk/FaceData/master/./result.gif' width="400"/>  </p></details> 
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
