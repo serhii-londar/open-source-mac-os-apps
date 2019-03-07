@@ -956,7 +956,6 @@
       "repo_url" : "https://github.com/jamieweavis/streaker",
       "title" : "Streaker",
       "screenshots" : [
-        "https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png",
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menu-bar.png",
         "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences-window.png"
       ],
