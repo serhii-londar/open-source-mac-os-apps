@@ -2682,6 +2682,18 @@
       "category" : "menubar"
     },
     {
+      "repo_url" : "https://github.com/cerpow/catapult",
+      "title" : "Catapult",
+      "screenshots" : [
+        "https://github.com/cerpow/catapult/raw/master/src/_data/Screenshot.png"
+      ],
+      "short_description" : "Access your workspace on the fly.",
+      "languages" : [
+        "javascript"
+      ],
+      "category" : "menubar"
+    },
+    {
       "repo_url" : "https://github.com/josh-/CloudyTabs",
       "title" : "CloudyTabs",
       "screenshots" : [
