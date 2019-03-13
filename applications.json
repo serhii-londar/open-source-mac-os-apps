@@ -802,7 +802,7 @@
       "category" : "database"
     },
     {
-      "repo_url" : "https://github.com/simplerocket-llc/OpenCashew",
+      "repo_url" : "https://github.com/jensteichert/OpenCashew",
       "title" : "Cashew",
       "screenshots" : [
 
@@ -1890,11 +1890,11 @@
       "category" : "markdown"
     },
     {
-      "repo_url" : "https://github.com/lukakerr/twig",
-      "title" : "Twig",
+      "repo_url" : "https://github.com/lukakerr/Pine",
+      "title" : "Pine",
       "screenshots" : [
         "https://i.imgur.com/ptzSBmo.jpg",
-        "https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png"
+        "https://raw.githubusercontent.com/lukakerr/Pine/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png"
       ],
       "short_description" : "A modern MacOS markdown editor. ",
       "languages" : [
