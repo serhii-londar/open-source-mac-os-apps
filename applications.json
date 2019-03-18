@@ -3413,7 +3413,7 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png"
       ],
-      "short_description" : "macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de). ",
+      "short_description" : "macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). ",
       "languages" : [
         "objective_c"
       ],
