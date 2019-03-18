@@ -163,7 +163,7 @@ You can see in which language an app is written. Currently there are following l
 ### Development
 
 #### Git
-- [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
+- [Cashew](https://github.com/jensteichert/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![type_script_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png' width="400"/>  </p></details> 
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/stylekit/img/master/Element210-01.png' width="400"/>  </p></details> 
@@ -266,7 +266,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.  ![elm_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/gingko/client/master/./docs/images/screenshot-alien-screenplay.png' width="400"/>  </p></details> 
 - [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.  ![objective_c_icon] 
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.  ![javascript_icon] 
-- [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/ptzSBmo.jpg' width="400"/>  <bt><img src='https://raw.githubusercontent.com/lukakerr/twig/master/./Twig/Assets.xcassets/AppIcon.appiconset/twig-512.png' width="400"/>  </p></details> 
+- [Pine](https://github.com/lukakerr/Pine) - A modern MacOS markdown editor.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/ptzSBmo.jpg' width="400"/>  <bt><img src='https://camo.githubusercontent.com/14fd8828c4ab0e59f62cd7457fff295fe8113f26/68747470733a2f2f692e696d6775722e636f6d2f767841614e65582e706e67' width="400"/>  <bt><img src='https://camo.githubusercontent.com/77b139742c8d23e154de89331b5fcfd3672878bf/68747470733a2f2f692e696d6775722e636f6d2f354c51314c6c342e706e67' width="400"/>  </p></details> 
 
 #### TeX
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/VOGLGv5.png' width="400"/>  <bt><img src='https://i.imgur.com/LYzVw99.png' width="400"/>  <bt><img src='https://i.imgur.com/utXxWLf.png' width="400"/>  </p></details> 
@@ -421,7 +421,7 @@ You can see in which language an app is written. Currently there are following l
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/S7K9wrr.png' width="400"/>  </p></details> 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
-- [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm) with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png' width="400"/>  </p></details> 
+- [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/phranck/podlive-macos/master/screenshot1.png' width="400"/>  </p></details> 
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
 
 ### Productivity
