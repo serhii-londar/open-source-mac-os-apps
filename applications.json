@@ -1430,6 +1430,18 @@
       "category" : "ios--macos"
     },
     {
+      "repo_url" : "https://github.com/onurgenes/Resizr",
+      "title" : "Resizr",
+      "screenshots" : [
+        
+      ],
+      "short_description" : "MacOS application for creating AppIcon for iOS and Android apps.",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "ios--macos"
+    },
+    {
       "repo_url" : "https://github.com/shaojiankui/SmartPush",
       "title" : "SmartPush",
       "screenshots" : [
