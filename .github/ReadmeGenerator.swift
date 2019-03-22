@@ -272,7 +272,7 @@ extension JSONApplication {
         }
         
         markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription) \(languages)")
-        
+        /*
         if self.screenshots.count > 0 {
             var screenshotsString = String.empty
             screenshotsString += (String.space + Constants.detailsBeginString + String.space)
@@ -282,6 +282,7 @@ extension JSONApplication {
             screenshotsString += (String.space + Constants.detailsEndString + String.space)
             markdownDescription.append(screenshotsString)
         }
+        */
         return markdownDescription
     }
 }
