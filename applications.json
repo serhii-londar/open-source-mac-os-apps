@@ -5405,6 +5405,19 @@
         "swift"
       ],
       "category" : "video"
+    },
+    {
+      "repo_url" : "https://github.com/vladimiry/ElectronMail",
+      "title" : "ElectronMail",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/vladimiry/ElectronMail/master/images/search.gif",
+        "https://raw.githubusercontent.com/vladimiry/ElectronMail/master/images/export.gif"
+      ],
+      "short_description" : "Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers.",
+      "languages" : [
+        "typescript"
+      ],
+      "category" : "mail"
     }
   ]
 }
