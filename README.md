@@ -343,6 +343,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Mail
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.  ![javascript_icon] 
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![typescript_icon] 
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox Desktop App. ![javascript_icon] ![css_icon] 
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Extensible mail client.  ![javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
