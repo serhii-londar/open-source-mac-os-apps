@@ -553,6 +553,12 @@ You can see in which language an app is written. Currently there are following l
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
 
 ### VPN & Proxy
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.  ![swift_icon] 
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.  ![swift_icon] 
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  ![swift_icon] 
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.  ![objective_c_icon] 
+- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.  ![swift_icon] 
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client macOS Menu App.  ![swift_icon] 
 
 ### Video
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.  ![cpp_icon] 
