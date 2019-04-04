@@ -5418,6 +5418,18 @@
         "typescript"
       ],
       "category" : "mail"
+    },
+    {
+      "repo_url" : "https://github.com/onmyway133/Simulator",
+      "title" : "Simulator",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/onmyway133/Simulator/master/Screenshots/simulator.png"
+      ],
+      "short_description" : "📱 Navigate to your app folders quickly.",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "ios--macos"
     }
   ]
 }
