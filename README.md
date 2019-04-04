@@ -235,6 +235,7 @@ You can see in which language an app is written. Currently there are following l
 - [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android.  ![javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
+- [Simulator](https://github.com/onmyway133/Simulator) - 📱 Navigate to your app folders quickly. ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
