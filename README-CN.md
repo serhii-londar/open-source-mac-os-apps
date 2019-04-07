@@ -136,23 +136,23 @@
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - OS X原生和Windows桌面端的Google Allo应用。
 - [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的GroupMe应用。 ![JavascriptIcon] ![CSSIcon]
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im是一个基于[Matrix](https://matrix.org/blog/home/)协议的合作应用（现阶段为Electron）。 ![JavascriptIcon]
-- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. ![JavascriptIcon]
-- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop. ![ObjectiveCIcon]
-- [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. ![SwiftIcon]
-- [Telegram [Deprecated]](https://github.com/overtake/telegram) - Source code of deprecated Telegram for macOS version. ![ObjectiveCIcon]
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
-- [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
-- [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. ![ObjectiveCIcon]
-- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. ![SwiftIcon]
-- [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. ![JavascriptIcon]
+- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - 一个链接安卓/iOS系统Signal app的桌面应用，使用Electron编写。![JavascriptIcon]
+- [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS端的FB Messenger应用。![ObjectiveCIcon]
+- [Telegram](https://github.com/overtake/TelegramSwift) - 用swift编写的macOS端的Telegram源码。![SwiftIcon]
+- [Telegram [已废弃]](https://github.com/overtake/telegram) - 用swift变细的macOS端的Telegram（已废弃）源码。![ObjectiveCIcon]
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - 桌面端的telegram app。![CppIcon]
+- [Textual](https://github.com/Codeux-Software/Textual) - 一个OS X上的IRC客户端。![ObjectiveCIcon]
+- [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac是一个macOS上的非官方torchat客户端。![ObjectiveCIcon]
+- [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - 从菜单栏发送WhatsApp消息。![SwiftIcon]
+- [Wire Desktop](https://github.com/wireapp/wire-desktop) - 聊天应用Wire的独立客户端，使用Electron编写。![JavascriptIcon]
 
 ### Cryptocurrency
 
-- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address. ![SwiftIcon]
-- [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. ![SwiftIcon]
-- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. ![SwiftIcon]
-- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron. ![JavascriptIcon]
-- [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges. ![SwiftIcon]
+- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - 一个可以安全生成加密货币地址的macOS应用。![SwiftIcon]
+- [Balance Open](https://github.com/balance-io/balance-open) - 一个支持所有货币的macOS菜单栏应用。![SwiftIcon]
+- [CoinBar](https://github.com/adamwaite/CoinBar) - 追踪加密货币价格的macOS菜单栏应用。![SwiftIcon]
+- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - 实时追踪加密货币价格的macOS菜单栏应用, 使用Electron编写。![JavascriptIcon]
+- [Float coin](https://github.com/kaunteya/FloatCoin) - 显示加密货币价格的菜单栏应用。![SwiftIcon]
 
 ### Database
 
