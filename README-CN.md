@@ -139,7 +139,7 @@
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - 一个链接安卓/iOS系统Signal app的桌面应用，使用Electron编写。![JavascriptIcon]
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS端的FB Messenger应用。![ObjectiveCIcon]
 - [Telegram](https://github.com/overtake/TelegramSwift) - 用swift编写的macOS端的Telegram源码。![SwiftIcon]
-- [Telegram [已废弃]](https://github.com/overtake/telegram) - 用swift变细的macOS端的Telegram（已废弃）源码。![ObjectiveCIcon]
+- [Telegram [已废弃]](https://github.com/overtake/telegram) - 用swift编写的macOS端的Telegram（已废弃）源码。![ObjectiveCIcon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - 桌面端的telegram app。![CppIcon]
 - [Textual](https://github.com/Codeux-Software/Textual) - 一个OS X上的IRC客户端。![ObjectiveCIcon]
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac是一个macOS上的非官方torchat客户端。![ObjectiveCIcon]
@@ -156,31 +156,31 @@
 
 ### Database
 
-- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI. ![CppIcon]
-- [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. ![SwiftIcon]
-- [Postbird](https://github.com/Paxa/postbird) - Open source PostgreSQL GUI client for macOS. ![JavascriptIcon]
-- [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac. ![SwiftIcon]
-- [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac. ![SwiftIcon]
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.  ![ObjectiveCIcon]
+- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite数据库管理软件。![CppIcon]
+- [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - 在macOS上上手mongoDB最简单的方式。![SwiftIcon]
+- [Postbird](https://github.com/Paxa/postbird) - macOS上开源的PostgreSQL客户端。![JavascriptIcon]
+- [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 在macOS上上手PostgreSQL最简单的方式。![SwiftIcon]
+- [Redis.app](https://github.com/jpadilla/redisapp) -  在macOS上上手Redis最简单的方式。![SwiftIcon]
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - macOS上的MySQL/MariaDB数据库管理软件。![ObjectiveCIcon]
 
 ### Development
 
 #### Git
 
-- [Cashew](https://github.com/simplerocket-llc/OpenCashew) - Cashew macOS Github Issue Tracker. ![CIcon] ![ObjectiveCIcon] ![AppStore]
-- [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. ![SwiftIcon] ![ObjectiveCIcon]
-- [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and OSX. ![SwiftIcon]
-- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop. ![TypescriptIcon]
-- [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories. ![SwiftIcon]
-- [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications. ![SwiftIcon]
-- [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac. ![SwiftIcon]
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. ![ObjectiveCIcon]
-- [GitX](https://github.com/gitx/gitx) - Graphical client for the git version control system. ![ObjectiveCIcon]
-- [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. ![SwiftIcon]
-- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS/OSX app to comfortably browse and search through your Messages.app history. ![SwiftIcon]
-- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![JavascriptIcon]
-- [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team. ![SwiftIcon]
-- [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories. ![SwiftIcon]
+- [Cashew](https://github.com/simplerocket-llc/OpenCashew) - macOS上的GitHub Issue追踪工具。![CIcon] ![ObjectiveCIcon] ![AppStore]
+- [Gitee](https://github.com/Nightonke/Gitee) - OS X上的状态栏GitHub软件。![SwiftIcon] ![ObjectiveCIcon]
+- [Github contributions](https://github.com/remirobert/Github-contributions) - 追踪GitHub贡献的app，支持iOS、watchOS和OSX。![SwiftIcon]
+- [GitHub Desktop](https://github.com/desktop/desktop) - 在桌面端进行快速协作。![TypescriptIcon]
+- [GithubListener](https://github.com/ad/GithubListener) - 支持为关注的仓库通知最新提交的app。![SwiftIcon]
+- [GithubNotify](https://github.com/erik/github-notify) - 提醒你GitHub未读通知的macOS应用。![SwiftIcon]
+- [GitSync](https://github.com/eonist/GitSync) - mac上极简风格的Git客户端。![SwiftIcon]
+- [GitUp](https://github.com/git-up/GitUp) - 错过一时却不能错过一世的Git界面！![ObjectiveCIcon]
+- [GitX](https://github.com/gitx/gitx) - Git版本管理系统的图形化客户端。![ObjectiveCIcon]
+- [GPM](https://github.com/mtgto/GPM) - 轻松操作GitHub项目的macOS应用。![SwiftIcon]
+- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - 浏览和搜索“信息”软件的macOS/OSX应用。![SwiftIcon]
+- [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献轨迹追踪软件。![JavascriptIcon]
+- [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - 追踪团队code review进度的macOS状态栏工具。![SwiftIcon]
+- [Xit](https://github.com/Uncommon/Xit) - 管理git仓库的图形化工具。![SwiftIcon]
 
 #### iOS / macOS
 
