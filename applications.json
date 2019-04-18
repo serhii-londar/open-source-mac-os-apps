@@ -5430,6 +5430,18 @@
         "swift"
       ],
       "category" : "ios--macos"
+    },
+    {
+      "repo_url" : "https://github.com/luin/medis",
+      "title" : "Medis",
+      "screenshots" : [
+        "https://camo.githubusercontent.com/94bf1d9f514351e5064e6bf9245fc3a48e2a5a8c/687474703a2f2f6765746d656469732e636f6d2f73637265656e2e706e67"
+      ],
+      "short_description" : "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+      "languages" : [
+        "javascript"
+      ],
+      "category" : "database"
     }
   ]
 }
