@@ -5415,7 +5415,7 @@
       ],
       "short_description" : "Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers.",
       "languages" : [
-        "typescript"
+        "type_script"
       ],
       "category" : "mail"
     },
