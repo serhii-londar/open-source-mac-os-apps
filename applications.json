@@ -5442,6 +5442,19 @@
         "javascript"
       ],
       "category" : "database"
+    },
+    {
+      "repo_url" : "https://github.com/lm-a/touch-emoji",
+      "title" : "Touch Emoji",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/lm-a/touch-emoji/master/touch-emoji-icon-screenshot.png",
+        "https://raw.githubusercontent.com/lm-a/touch-emoji/master/touch-emoji-recent-screenshot.png"
+      ],
+      "short_description" : "Emoji picker for MacBook Pro Touch Bar. ",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "utilities"
     }
   ]
 }
