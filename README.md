@@ -290,6 +290,7 @@ You can see in which language an app is written. Currently there are following l
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.  ![swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.  ![cpp_icon] 
@@ -510,8 +511,10 @@ You can see in which language an app is written. Currently there are following l
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.  ![rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).  ![go_icon] 
 - [Console](https://github.com/macmade/Console) - macOS console application.  ![swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![javascript_icon] ![css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![python_icon] ![c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.  ![swift_icon] 
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen).  ![javascript_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
