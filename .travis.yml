@@ -11,7 +11,7 @@ script:
   - awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com
   - danger
 after_success:
-  - swift ./.github/ReadmeGenerator.swift
+  - swift ./.github/main.swift
   - chmod +x ./.github/deploy.sh
   - ./.github/deploy.sh
 notifications:
