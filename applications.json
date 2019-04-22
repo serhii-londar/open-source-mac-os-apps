@@ -1669,22 +1669,6 @@
       ]
     },
     {
-      "short_description" : "iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ",
-      "categories" : [
-        "ios--macos"
-      ],
-      "repo_url" : "https://github.com/shaojiankui/iSimulator",
-      "title" : "iSimulator",
-      "icon_url" : "",
-      "screenshots" : [
-        "https://raw.githubusercontent.com/shaojiankui/iSimulator/master/demo.png"
-      ],
-      "official_site" : "",
-      "languages" : [
-        "objective_c"
-      ]
-    },
-    {
       "short_description" : "The debug application for Apple Push Notification Service (APNs). ",
       "categories" : [
         "ios--macos"
