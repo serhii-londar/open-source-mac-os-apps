@@ -185,7 +185,7 @@
       "languages" : [
         "swift"
       ],
-      "category" : "audio"
+      "category" : "touch-bar"
     },
     {
       "repo_url" : "https://github.com/shibiao/SBPlayerClient",
@@ -1370,7 +1370,7 @@
       "languages" : [
         "swift"
       ],
-      "category" : "ios--macos"
+      "category" : "touch-bar"
     },
     {
       "repo_url" : "https://github.com/kizitonwose/PodsUpdater",
@@ -1463,7 +1463,7 @@
       "languages" : [
         "swift"
       ],
-      "category" : "ios--macos"
+      "category" : "touch-bar"
     },
     {
       "repo_url" : "https://github.com/sindresorhus/touch-bar-simulator",
@@ -1475,7 +1475,7 @@
       "languages" : [
         "swift"
       ],
-      "category" : "ios--macos"
+      "category" : "touch-bar"
     },
     {
       "repo_url" : "https://github.com/iseebi/TransporterPad",
@@ -5454,7 +5454,7 @@
       "languages" : [
         "swift"
       ],
-      "category" : "utilities"
+      "category" : "touch-bar"
     }
   ]
 }

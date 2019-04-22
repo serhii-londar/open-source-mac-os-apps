@@ -126,6 +126,10 @@
     "id": "terminal",
     "description": ""
 }, {
+    "title": "Touch Bar",
+    "id": "touch-bar",
+    "description": ""
+}, {
     "title": "Utilities",
     "id": "utilities",
     "description": ""
