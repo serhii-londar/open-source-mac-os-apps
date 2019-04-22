@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildLocationStyle</key>
+	<string>UseAppPreferences</string>
+	<key>CustomBuildIntermediatesPath</key>
+	<string>Build/Intermediates.noindex</string>
+	<key>CustomBuildLocationType</key>
+	<string>RelativeToWorkspace</string>
+	<key>CustomBuildProductsPath</key>
+	<string>Build/Products</string>
+	<key>CustomIndexStorePath</key>
+	<string>Index/DataStore</string>
+	<key>DerivedDataLocationStyle</key>
+	<string>Default</string>
+	<key>EnabledFullIndexStoreVisibility</key>
+	<false/>
+	<key>IssueFilterStyle</key>
+	<string>ShowActiveSchemeOnly</string>
+	<key>LiveSourceIssuesEnabled</key>
+	<true/>
+	<key>SharedBuildFolderName</key>
+	<string>Build</string>
+</dict>
+</plist>
