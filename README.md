@@ -10,10 +10,13 @@
 </p>
 
 ## Support
+
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
+
+## Languages
 
 You can see in which language an app is written. Currently there are following languages:
 
@@ -44,18 +47,18 @@ You can see in which language an app is written. Currently there are following l
 - [Cryptocurrency](#cryptocurrency)
 - [Database](#database)
 - [Development](#development)
-    - [Git](#git)
-    - [iOS / macOS](#ios--macos)
-    - [JSON Parsing](#json-parsing)
-    - [Web development](#web-development)
-    - [Other](#other)
+- [Git](#git)
+- [iOS / macOS](#ios--macos)
+- [JSON Parsing](#json-parsing)
+- [Web development](#web-development)
+- [Other](#other)
 - [Downloader](#downloader)
 - [Editors](#editors)
-    - [CSV](#csv)
-    - [JSON](#json)
-    - [Markdown](#markdown)
-    - [TeX](#tex)
-    - [Text](#text)
+- [CSV](#csv)
+- [JSON](#json)
+- [Markdown](#markdown)
+- [TeX](#tex)
+- [Text](#text)
 - [Extensions](#extensions)
 - [Finder](#finder)
 - [Games](#games)
@@ -241,8 +244,8 @@ You can see in which language an app is written. Currently there are following l
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format.  ![swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac.  ![swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps.  ![objective_c_icon] 
-- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.  ![objective_c_icon] 
 - [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go.  ![objective_c_icon] 
+- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.  ![objective_c_icon] 
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files.  ![objective_c_icon] 
 
 ### Downloader
