@@ -2664,7 +2664,8 @@
     {
       "short_description" : "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
       "categories" : [
-        "finder"
+        "finder",
+        "terminal"
       ],
       "repo_url" : "https://github.com/onmyway133/FinderGo",
       "title" : "Finder Go",
@@ -7166,6 +7167,25 @@
       "screenshots" : [
         "https://raw.githubusercontent.com/lm-a/touch-emoji/master/touch-emoji-icon-screenshot.png",
         "https://raw.githubusercontent.com/lm-a/touch-emoji/master/touch-emoji-recent-screenshot.png"
+      ],
+      "official_site" : "",
+      "languages" : [
+        "swift"
+      ]
+    },
+    {
+      "short_description" : "✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.",
+      "categories" : [
+        "finder",
+        "terminal"
+      ],
+      "repo_url" : "https://github.com/Ji4n1ng/OpenInTerminal",
+      "title" : "OpenInTerminal",
+      "icon_url" : "",
+      "screenshots" : [
+        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/run.gif",
+        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/run2.gif",
+        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/selector.png"
       ],
       "official_site" : "",
       "languages" : [
