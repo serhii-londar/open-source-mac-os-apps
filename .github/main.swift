@@ -70,6 +70,7 @@ You can see in which language an app is written. Currently there are following l
 - [Markdown](#markdown)
 - [TeX](#tex)
 - [Text](#text)
+- [Touch Bar](#touch-bar)
 - [Extensions](#extensions)
 - [Finder](#finder)
 - [Games](#games)
