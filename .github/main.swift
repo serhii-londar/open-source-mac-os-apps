@@ -92,6 +92,7 @@ You can see in which language an app is written. Currently there are following l
 - [Streaming](#streaming)
 - [System](#system)
 - [Terminal](#terminal)
+- [Touch Bar](#touch-bar)
 - [Utilities](#utilities)
 - [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
