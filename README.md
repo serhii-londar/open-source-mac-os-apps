@@ -524,6 +524,7 @@ You can see in which language an app is written. Currently there are following l
 ### Touch Bar
 - [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.  ![swift_icon] 
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want.  ![swift_icon] 
+- [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar. ![swift_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
 - [Touch Emoji](https://github.com/lm-a/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
@@ -602,7 +603,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Window Management
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS.  ![swift_icon] 
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS.  ![objective_c_icon] 
+- [AppGrid](https://github.com/mjolnirapp/AppGrid) - Grid-based keyboard window manager for macOS.  ![objective_c_icon] 
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS ![swift_icon] 
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. ![lua_icon] ![objective_c_icon] 
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript.  ![objective_c_icon] 
