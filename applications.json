@@ -6911,7 +6911,7 @@
       "categories" : [
         "window-management"
       ],
-      "repo_url" : "https://github.com/sdegutis/AppGrid",
+      "repo_url" : "https://github.com/mjolnirapp/AppGrid",
       "title" : "AppGrid",
       "icon_url" : "",
       "screenshots" : [
@@ -7188,6 +7188,22 @@
         "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/selector.png"
       ],
       "official_site" : "",
+      "languages" : [
+        "swift"
+      ]
+    },
+    {
+      "short_description" : "Display macOS Dock in Touch Bar.",
+      "categories" : [
+        "touch-bar",
+      ],
+      "repo_url" : "https://github.com/pigigaldi/Pock",
+      "title" : "Pock",
+      "icon_url" : "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_logo_b.png",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_preview.png"
+      ],
+      "official_site" : "https://pock.pigigaldi.com",
       "languages" : [
         "swift"
       ]

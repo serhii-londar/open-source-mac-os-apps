@@ -8,7 +8,7 @@ before_script:
   - gem install bundler
   - gem install danger
 script:
-  - awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com
+  - awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com 
   - danger
 after_success:
   - swift ./.github/main.swift
