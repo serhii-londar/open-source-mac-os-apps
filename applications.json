@@ -2330,6 +2330,25 @@
       ]
     },
     {
+      "short_description" : "A full-featured download manager. ",
+      "categories" : [
+        "downloader"
+      ],
+      "repo_url" : "https://github.com/agalwood/Motrix",
+      "title" : "Motrix",
+      "icon_url" : "https://github.com/agalwood/Motrix/blob/master/build/256x256.png",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/motrix-task-list-empty-light%402x.png",
+        "https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/motrix-task-list-downloading-light%402x.png",
+        "https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/motrix-task-list-empty-dark%402x.png",
+        "https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/motrix-task-list-downloading-dark%402x.png"
+      ],
+      "official_site" : "https://motrix.app/",
+      "languages" : [
+        "javascript"
+      ]
+    },
+    {
       "short_description" : "macOS Video Downloader written in Swift and Objective-C.",
       "categories" : [
         "downloader"
@@ -7195,7 +7214,7 @@
     {
       "short_description" : "Display macOS Dock in Touch Bar.",
       "categories" : [
-        "touch-bar",
+        "touch-bar"
       ],
       "repo_url" : "https://github.com/pigigaldi/Pock",
       "title" : "Pock",
