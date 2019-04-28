@@ -7195,7 +7195,7 @@
     {
       "short_description" : "Display macOS Dock in Touch Bar.",
       "categories" : [
-        "touch-bar",
+        "touch-bar"
       ],
       "repo_url" : "https://github.com/pigigaldi/Pock",
       "title" : "Pock",
