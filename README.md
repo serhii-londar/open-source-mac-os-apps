@@ -251,6 +251,7 @@ You can see in which language an app is written. Currently there are following l
 ### Downloader
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.  ![swift_icon] 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.  ![swift_icon] 
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.  ![javascript_icon] 
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C. ![objective_c_icon] ![swift_icon] 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.  ![swift_icon] 
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos.  ![swift_icon] 
