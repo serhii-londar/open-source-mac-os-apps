@@ -6248,13 +6248,13 @@
       "categories" : [
         "utilities"
       ],
-      "repo_url" : "https://bitbucket.org/kosovan/theunarchiver",
+      "repo_url" : "https://bitbucket.org/kosovan/theunarchiver/src ",
       "title" : "The Unarchiver",
-      "icon_url" : "",
+      "icon_url" : "http://wakaba.c3.cx/images/unarchiver_icon.png",
       "screenshots" : [
 
       ],
-      "official_site" : "",
+      "official_site" : "https://theunarchiver.com",
       "languages" : [
         "objective_c"
       ]
@@ -6537,13 +6537,13 @@
       "categories" : [
         "video"
       ],
-      "repo_url" : "https://bitbucket.org/galad87/subler/overview",
+      "repo_url" : "https://bitbucket.org/galad87/subler/src",
       "title" : "Subler",
-      "icon_url" : "",
+      "icon_url" : "https://subler.org/images/Subler.png",
       "screenshots" : [
 
       ],
-      "official_site" : "",
+      "official_site" : "https://subler.org",
       "languages" : [
         "objective_c"
       ]
