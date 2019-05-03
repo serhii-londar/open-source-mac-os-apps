@@ -1,6 +1,23 @@
 {
   "applications" : [
     {
+      "short_description" : "LICEcap simple animated screen capture tool for Windows and OS X .",
+      "categories" : [
+        "Images"
+      ],
+      "repo_url" : "https://github.com/justinfrankel/licecap",
+      "title" : "licecap",
+      "icon_url" : "",
+      "screenshots" : [
+        "https://www.cockos.com/licecap/demo2.gif",
+        "https://www.cockos.com/licecap/how_to_licecap.gif"
+      ],
+      "official_site" : "",
+      "languages" : [
+        "cpp"
+      ]
+    },
+    {
       "short_description" : "cross platform e-book manager.",
       "categories" : [
         "Utilities"
