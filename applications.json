@@ -12,7 +12,7 @@
         "https://www.cockos.com/licecap/demo2.gif",
         "https://www.cockos.com/licecap/how_to_licecap.gif"
       ],
-      "official_site" : "",
+      "official_site" : "http://www.cockos.com/licecap",
       "languages" : [
         "cpp"
       ]
