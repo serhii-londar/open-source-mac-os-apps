@@ -7,11 +7,11 @@
       ],
       "repo_url" : "https://github.com/kovidgoyal/calibre",
       "title" : "calibre",
-      "icon_url" : "",
+      "icon_url" : "https://github.com/kovidgoyal/calibre/blob/master/resources/images/lt.png ",
       "screenshots" : [
         "https://github.com/kovidgoyal/calibre/blob/master/resources/images/lt.png"
       ],
-      "official_site" : "",
+      "official_site" : "https://calibre-ebook.com",
       "languages" : [
         "python"
       ]
