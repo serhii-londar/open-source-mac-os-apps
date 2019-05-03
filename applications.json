@@ -3,7 +3,7 @@
     {
       "short_description" : "LICEcap simple animated screen capture tool for Windows and OS X .",
       "categories" : [
-        "Images"
+        "images"
       ],
       "repo_url" : "https://github.com/justinfrankel/licecap",
       "title" : "licecap",
