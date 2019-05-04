@@ -240,23 +240,6 @@
       ]
     },
     {
-      "short_description" : "SBPlayer is a beautiful and powerful media player base on VLCKit. ",
-      "categories" : [
-        "audio"
-      ],
-      "repo_url" : "https://github.com/shibiao/SBPlayerClient",
-      "title" : "SBPlayer",
-      "icon_url" : "",
-      "screenshots" : [
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss1.jpg",
-        "https://raw.githubusercontent.com/shibiao/SBPlayerClient/master/images/0x0ss.jpg"
-      ],
-      "official_site" : "",
-      "languages" : [
-        "objective_c"
-      ]
-    },
-    {
       "short_description" : "Scrobble vinyl, radios, movies to Last.fm. ",
       "categories" : [
         "audio"
