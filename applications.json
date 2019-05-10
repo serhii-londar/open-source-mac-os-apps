@@ -7224,6 +7224,18 @@
       "languages" : [
         "swift"
       ]
+    },
+    {
+      "repo_url" : "https://github.com/macmade/Notarize",
+      "title" : "Notarize",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/macmade/Notarize/master/Assets/MainWindow.png"
+      ],
+      "short_description" : "Notarization status monitoring tool for macOS, supporting multiple developer accounts",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "Development"
     }
   ]
 }
