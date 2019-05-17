@@ -2128,6 +2128,22 @@
       ]
     },
     {
+      "short_description" : "KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar. ",
+      "categories" : [
+        "web-development"
+      ],
+      "repo_url" : "http://github.com/nsriram/KubeSwitch",
+      "title" : "KubeSwitch",
+      "icon_url" : "",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/nsriram/KubeSwitch/master/screenshot.png"
+      ],
+      "official_site" : "",
+      "languages" : [
+        "swift"
+      ]
+    },
+    {
       "short_description" : "Dedicated Mac app for website auditing and crawling. ",
       "categories" : [
         "web-development"
