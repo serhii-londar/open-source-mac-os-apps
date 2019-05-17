@@ -2128,7 +2128,7 @@
       ]
     },
     {
-      "short_description" : "KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar. ",
+      "short_description" : "KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar.",
       "categories" : [
         "web-development"
       ],
