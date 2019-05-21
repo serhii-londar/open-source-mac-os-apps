@@ -7252,6 +7252,19 @@
         "swift"
       ],
       "category" : "Development"
-    }
+    },
+    {
+      "repo_url" : "https://github.com/vpeschenkov/Predator",
+      "title" : "Predator",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/vpeschenkov/Predator/master/Screenshots/preview.png",
+        "https://raw.githubusercontent.com/vpeschenkov/Predator/master/Screenshots/settings.png"
+      ],
+      "short_description" : "A predator-inspired clock screensaver for macOS",
+      "languages" : [
+        "swift"
+      ],
+      "category" : "screensaver"
+     }
   ]
 }
