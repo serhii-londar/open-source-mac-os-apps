@@ -7251,7 +7251,11 @@
       "languages" : [
         "swift"
       ],
-      "category" : "Development"
+      "categories" : [
+          "ios--macos"
+      ],
+      "icon_url" : "",
+      "official_site" : ""
     },
     {
       "repo_url" : "https://github.com/vpeschenkov/Predator",
@@ -7264,7 +7268,11 @@
       "languages" : [
         "swift"
       ],
-      "category" : "screensaver"
+      "categories" : [
+          "screensaver"
+      ],
+      "icon_url" : "",
+      "official_site" : ""
      }
   ]
 }
