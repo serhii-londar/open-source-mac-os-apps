@@ -1,6 +1,22 @@
 {
   "applications" : [
     {
+      "short_description" : "manage bluetooth connections with your keyboard.",
+      "categories" : [
+        "Utilities"
+      ],
+      "repo_url" : "https://github.com/friedrichweise/wechsel",
+      "title" : "wechsel",
+      "icon_url" : "https://github.com/friedrichweise/wechsel/blob/master/wechsel/Assets.xcassets/AppIcon.appiconset/Artboard-2.png ",
+      "screenshots" : [
+        "https://github.com/friedrichweise/wechsel/blob/master/screenshot.png"
+      ],
+      "official_site" : "https://wechsel.weise.io",
+      "languages" : [
+        "swift"
+      ]
+    },
+    {
       "short_description" : "cross platform e-book manager.",
       "categories" : [
         "Utilities"
