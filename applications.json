@@ -3,7 +3,7 @@
     {
       "short_description" : "manage bluetooth connections with your keyboard.",
       "categories" : [
-        "Utilities"
+        "utilities"
       ],
       "repo_url" : "https://github.com/friedrichweise/wechsel",
       "title" : "wechsel",
@@ -19,7 +19,7 @@
     {
       "short_description" : "cross platform e-book manager.",
       "categories" : [
-        "Utilities"
+        "utilities"
       ],
       "repo_url" : "https://github.com/kovidgoyal/calibre",
       "title" : "calibre",
