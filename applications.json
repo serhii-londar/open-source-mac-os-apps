@@ -4567,6 +4567,22 @@
       ]
     },
     {
+      "repo_url" : "https://github.com/CD1212/Doughnut",
+      "title" : "Doughnut",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/CD1212/Doughnut/master/screenshot.png"
+      ],
+      "short_description" : "Podcast player and library for mac",
+      "languages" : [
+        "swift"
+      ],
+      "categories" : [
+          "podcast"
+      ],
+      "icon_url" : "",
+      "official_site" : ""
+    },
+    {
       "short_description" : "Elegant Microsoft To-Do desktop app.",
       "categories" : [
         "productivity"
