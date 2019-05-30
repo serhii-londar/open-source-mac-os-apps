@@ -7249,9 +7249,9 @@
       "title" : "OpenInTerminal",
       "icon_url" : "",
       "screenshots" : [
-        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/main-open-in-terminal.gif",
-        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/main-open-in-editor.gif",
-        "https://github.com/Ji4n1ng/OpenInTerminal/blob/master/screenshots/main-copy-path-to-clipboard.gif"
+        "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-open-in-terminal.gif",
+        "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-open-in-editor.gif",
+        "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-copy-path-to-clipboard.gif"
       ],
       "official_site" : "",
       "languages" : [
