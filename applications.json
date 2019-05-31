@@ -7334,7 +7334,9 @@
       "languages" : [
         "swift"
       ],
-      "category" : "screensaver"
+      "category" : [
+        "screensaver"
+      ]
      }
   ]
 }
