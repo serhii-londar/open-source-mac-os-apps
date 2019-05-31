@@ -7322,6 +7322,21 @@
       ],
       "icon_url" : "",
       "official_site" : ""
-     }
+    },
+    {
+      "repo_url" : "https://github.com/amiantos/lifesaver",
+      "official_site" : "https://amiantos.net/lifesaver/",
+      "title" : "Life Saver",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/lifesaver-screenshots.png"
+      ],
+      "short_description" : "An abstract screensaver based on Conway's Game of Life implemented with SpriteKit",
+      "languages" : [
+        "swift"
+      ],
+      "categories" : [
+        "screensaver"
+      ]
+    }
   ]
 }
