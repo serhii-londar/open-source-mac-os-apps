@@ -7337,6 +7337,21 @@
       "categories" : [
         "screensaver"
       ]
+    },
+    {
+      "repo_url" : "https://github.com/LumingYin/macOSLucidaGrande",
+      "official_site" : "https://github.com/LumingYin/macOSLucidaGrande/releases",
+      "title" : "macOSLucidaGrande",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
+      ],
+      "short_description" : "A small utility to set Lucida Grande as your Mac's system UI font.",
+      "languages" : [
+        "objective_c"
+      ],
+      "categories" : [
+        "system"
+      ]
     }
   ]
 }
