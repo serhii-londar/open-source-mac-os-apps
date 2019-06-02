@@ -7337,6 +7337,21 @@
       "categories" : [
         "screensaver"
       ]
+    },
+    {
+      "repo_url" : "https://github.com/LumingYin/SpeedReader",
+      "official_site" : "https://itunes.apple.com/app/speed-reader/id1258448209?mt=12",
+      "title" : "Speed Reader",
+      "screenshots" : [
+        "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif?raw=true"
+      ],
+      "short_description" : "Read faster with the power of silencing vocalization with SpeedReader.",
+      "languages" : [
+        "swift"
+      ],
+      "categories" : [
+        "productivity"
+      ]
     }
   ]
 }
