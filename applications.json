@@ -6944,6 +6944,7 @@
           "repo_url" : "https://github.com/LumingYin/SpeedReader",
           "official_site" : "https://itunes.apple.com/app/speed-reader/id1258448209?mt=12",
           "title" : "Speed Reader",
+          "icon_url": "",
           "screenshots" : [
             "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif?raw=true"
           ],
