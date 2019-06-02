@@ -7338,5 +7338,20 @@
         "screensaver"
       ]
     }
+    {
+      "repo_url" : "https://github.com/LumingYin/ClipboardClear",
+      "official_site" : "https://itunes.apple.com/app/clear-clipboard-text-format/id1322855232",
+      "title" : "Clear Clipboard Text Format",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
+      ],
+      "short_description" : "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
+      "languages" : [
+        "objective_c"
+      ],
+      "categories" : [
+        "utilities"
+      ]
+    }
   ]
 }
