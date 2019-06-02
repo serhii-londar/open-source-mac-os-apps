@@ -7337,6 +7337,21 @@
       "categories" : [
         "screensaver"
       ]
+    },
+    {
+      "repo_url" : "https://github.com/LumingYin/StickyNotes",
+      "official_site" : "https://github.com/LumingYin/StickyNotes/releases",
+      "title" : "StickyNotes",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
+      ],
+      "short_description" : "A Windows 10-esque Sticky Notes app implemented in AppKit.",
+      "languages" : [
+        "swift"
+      ],
+      "categories" : [
+        "productivity"
+      ]
     }
   ]
 }
