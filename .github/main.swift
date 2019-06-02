@@ -212,55 +212,59 @@ class ReadmeGenerator {
     
     func generateReadme() {
         print("Start")
-        guard let applicationsData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.applications.rawValue)) else { return }
-        guard let categoriesData = try? Data(contentsOf: URL(fileURLWithPath: FilePaths.categories.rawValue)) else { return }
-        let jsonDecoder = JSONDecoder()
-        guard let applicationsObject = try? jsonDecoder.decode(JSONApplications.self, from: applicationsData) else { return }
-        guard let categoriesObject = try? jsonDecoder.decode(Categories.self, from: categoriesData) else { return }
-        
-        var categories = categoriesObject.categories
-        let subcategories = categories.filter({ $0.parent != nil && !$0.parent!.isEmpty })
-        let applications = applicationsObject.applications
-        
-        for subcategory in subcategories {
-            if let index = categories.lastIndex(where: { $0.parent != subcategory.id }) {
-                categories.remove(at: index)
-            }
-        }
-        
-        categories = categories.sorted(by: { $0.title < $1.title })
-        
-        readmeString.append(header)
-        print("Start iteration....")
-        
-        for category in categories {
-            readmeString.append(String.enter + String.section + String.space + category.title + String.enter)
-            var categoryApplications = applications.filter({ $0.categories.contains(category.id) })
-            categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+        do {
+            let applicationsData = try Data(contentsOf: URL(fileURLWithPath: FilePaths.applications.rawValue))
+            let categoriesData = try Data(contentsOf: URL(fileURLWithPath: FilePaths.categories.rawValue))
+            let jsonDecoder = JSONDecoder()
+            let applicationsObject = try jsonDecoder.decode(JSONApplications.self, from: applicationsData)
+            let categoriesObject = try jsonDecoder.decode(Categories.self, from: categoriesData)
             
-            for application in categoryApplications {
-                readmeString.append(application.markdownDescription())
-                readmeString.append(String.enter)
-            }
+            var categories = categoriesObject.categories
+            let subcategories = categories.filter({ $0.parent != nil && !$0.parent!.isEmpty })
+            let applications = applicationsObject.applications
             
-            var subcategories = subcategories.filter({ $0.parent == category.id })
-            guard subcategories.count > 0 else { continue }
-            subcategories = subcategories.sorted(by: { $0.title < $1.title })
             for subcategory in subcategories {
-                readmeString.append(String.enter + String.subsection + String.space + subcategory.title + String.enter)
-                var categoryApplications = applications.filter({ $0.categories.contains(subcategory.id) })
+                if let index = categories.lastIndex(where: { $0.parent != subcategory.id }) {
+                    categories.remove(at: index)
+                }
+            }
+            
+            categories = categories.sorted(by: { $0.title < $1.title })
+            
+            readmeString.append(header)
+            print("Start iteration....")
+            
+            for category in categories {
+                readmeString.append(String.enter + String.section + String.space + category.title + String.enter)
+                var categoryApplications = applications.filter({ $0.categories.contains(category.id) })
                 categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
                 
                 for application in categoryApplications {
                     readmeString.append(application.markdownDescription())
                     readmeString.append(String.enter)
                 }
+                
+                var subcategories = subcategories.filter({ $0.parent == category.id })
+                guard subcategories.count > 0 else { continue }
+                subcategories = subcategories.sorted(by: { $0.title < $1.title })
+                for subcategory in subcategories {
+                    readmeString.append(String.enter + String.subsection + String.space + subcategory.title + String.enter)
+                    var categoryApplications = applications.filter({ $0.categories.contains(subcategory.id) })
+                    categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+                    
+                    for application in categoryApplications {
+                        readmeString.append(application.markdownDescription())
+                        readmeString.append(String.enter)
+                    }
+                }
             }
+            print("Finish iteration...")
+            readmeString.append(footer)
+            try readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.readme.rawValue))
+            print("Finish")
+        } catch {
+            print(error)
         }
-        print("Finish iteration...")
-        readmeString.append(footer)
-        try? readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.readme.rawValue))
-        print("Finish")
     }
 }
 
