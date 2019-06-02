@@ -7337,6 +7337,21 @@
       "categories" : [
         "screensaver"
       ]
+    },
+    {
+      "repo_url" : "https://github.com/LumingYin/Caption",
+      "official_site" : "https://itunes.apple.com/app/quick-caption/id1363610340",
+      "title" : "Quick Caption",
+      "screenshots" : [
+        "https://raw.githubusercontent.com/LumingYin/Caption/master/screenshot.jpg"
+      ],
+      "short_description" : "Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes.",
+      "languages" : [
+        "swift"
+      ],
+      "categories" : [
+        "video"
+      ]
     }
   ]
 }
