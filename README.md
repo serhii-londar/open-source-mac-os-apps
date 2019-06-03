@@ -542,6 +542,7 @@ You can see in which language an app is written. Currently there are following l
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Secure password manager for mac and other platforms.  ![javascript_icon] 
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.  ![swift_icon] 
+- [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format. ![objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.  ![javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
