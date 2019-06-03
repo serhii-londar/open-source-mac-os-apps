@@ -617,6 +617,22 @@
             ]
         },
         {
+            "repo_url" : "https://github.com/LumingYin/StickyNotes",
+            "official_site" : "https://github.com/LumingYin/StickyNotes/releases",
+            "title" : "StickyNotes",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
+            ],
+            "short_description" : "A Windows 10-esque Sticky Notes app implemented in AppKit.",
+            "languages" : [
+              "swift"
+            ],
+            "categories" : [
+              "productivity"
+            ]
+        },
+        {
             "short_description": "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
             "categories": [
                 "chat"
