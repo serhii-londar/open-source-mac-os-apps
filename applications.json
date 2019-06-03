@@ -215,6 +215,22 @@
             ]
         },
         {
+            "repo_url" : "https://github.com/LumingYin/macOSLucidaGrande",
+            "official_site" : "https://github.com/LumingYin/macOSLucidaGrande/releases",
+            "title" : "macOSLucidaGrande",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
+            ],
+            "short_description" : "A small utility to set Lucida Grande as your Mac's system UI font.",
+            "languages" : [
+              "objective_c"
+            ],
+            "categories" : [
+              "system"
+            ]
+        },
+        {
             "short_description": "Lyrics for iTunes, Spotify and Vox. ",
             "categories": [
                 "audio"
