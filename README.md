@@ -536,7 +536,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar. ![swift_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
-- [Touch Emoji](https://github.com/lm-a/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
+- [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
 
 ### Utilities
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
