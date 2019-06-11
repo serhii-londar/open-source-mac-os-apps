@@ -171,8 +171,7 @@
             "repo_url": "https://github.com/alberti42/iTunes-Volume-Control",
             "title": "iTunes-Volume-Control",
             "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/alberti42/iTunes-Volume-Control/master/screenshot.png"
+            "screenshots": [ "https://camo.githubusercontent.com/0e72c553e7a1078295948921350e923e03f9a8f4/68747470733a2f2f7261772e6769746875622e636f6d2f616c626572746934322f6954756e65732d566f6c756d652d436f6e74726f6c2f6d61737465722f6954756e6573253230566f6c756d65253230436f6e74726f6c2f496d616765732f73637265656e73686f742e706e67"
             ],
             "official_site": "",
             "languages": [
@@ -6860,7 +6859,7 @@
             "categories": [
                 "touch-bar"
             ],
-            "repo_url": "https://github.com/lm-a/touch-emoji",
+            "repo_url": "https://github.com/lessmess-dev/touch-emoji",
             "title": "Touch Emoji",
             "icon_url": "",
             "screenshots": [
