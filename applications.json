@@ -6873,7 +6873,7 @@
         },
         {
             "repo_url" : "https://github.com/LumingYin/ClipboardClear",
-            "official_site" : "https://itunes.apple.com/app/clear-clipboard-text-format/id1322855232",
+            "official_site" : "https://apps.apple.com/app/clear-clipboard-text-format/id1322855232",
             "title" : "Clear Clipboard Text Format",
             "icon_url": "",
             "screenshots" : [
@@ -6974,7 +6974,7 @@
         {
             "repo_url": "https://github.com/LumingYin/Caption",
             "icon_url": "",
-            "official_site": "https://itunes.apple.com/app/quick-caption/id1363610340",
+            "official_site": "https://apps.apple.com/app/quick-caption/id1363610340",
             "title": "Quick Caption",
             "screenshots": [
                 "https://raw.githubusercontent.com/LumingYin/Caption/master/screenshot.jpg"
@@ -6989,7 +6989,7 @@
         },
         {
           "repo_url" : "https://github.com/LumingYin/SpeedReader",
-          "official_site" : "https://itunes.apple.com/app/speed-reader/id1258448209?mt=12",
+          "official_site" : "https://apps.apple.com/app/speed-reader/id1258448209",
           "title" : "Speed Reader",
           "icon_url": "",
           "screenshots" : [
