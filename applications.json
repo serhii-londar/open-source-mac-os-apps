@@ -3485,20 +3485,6 @@
             ]
         },
         {
-            "short_description": "Hide MacOS menubar items. ",
-            "categories": [
-                "menubar"
-            ],
-            "repo_url": "https://github.com/Mortennn/Dozer",
-            "title": "Dozer",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "macOS status bar app that allows control over the gpu on dual gpu macbooks. ",
             "categories": [
                 "menubar"
