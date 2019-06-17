@@ -126,6 +126,7 @@ You can see in which language an app is written. Currently there are following l
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.  ![javascript_icon] 
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.   ![cpp_icon] 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
+- [Wexond](https://github.com/wexond/wexond) - Innovative, privacy-focused, and extensible macOS browser that can also support native apps in tabs.  ![javascript_icon] 
 
 ### Chat
 - [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
