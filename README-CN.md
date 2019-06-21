@@ -2,7 +2,7 @@
   <img src="./icons/icon.png">
 </p>
 
-# macOS上好用的开源应用.
+# macOS上好用的开源应用。
 
 <p align="left">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
@@ -185,42 +185,42 @@
 #### iOS / macOS
 
 - [Alloy](https://github.com/alexlee002/alloy) - 简单的工具包，使iOS/OS X开发变得更容易。![ObjectiveCIcon]
-- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - 可以让你直接通过Dropbox账号构建和部署开发、Ad-Hoc与In-house（企业用户）应用的工具。 ![ObjectiveCIcon]
-- [AppIcons](https://github.com/kuyawa/AppIcons) - 用来生成全尺寸macOS与iOS应用图标的工具。 ![SwiftIcon]
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - iOS与macOS的性能分析共工具。
-- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
-- [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
-- [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
-- [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code. ![SwiftIcon]
-- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:! ![ObjectiveCIcon]
-- [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. ![SwiftIcon]
-- [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. ![SwiftIcon]
-- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macOS. ![ObjectiveCIcon]
-- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - Free, native Apple macOS app for testing HTTP/REST endpoints. ![ObjectiveCIcon]
-- [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. ![SwiftIcon]
-- [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons. ![JavascriptIcon]
-- [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly. ![SwiftIcon]
-- [Icons.app](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc. ![ObjectiveCIcon]
-- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps. ![ObjectiveCIcon]
-- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator. ![ObjectiveCIcon]
-- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go. ![ObjectiveCIcon]
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). ![ObjectiveCIcon]
-- [LayerX](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen. ![SwiftIcon]
-- [Localizable.strings](https://github.com/ralcr/Localizable.strings) - Mac app to localize your iOS and macOS projects. ![SwiftIcon]
-- [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an OS X app that manages your Xcode project localization files (.strings). ![SwiftIcon]
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel. ![SwiftIcon]
-- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want. ![SwiftIcon]
-- [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. ![SwiftIcon]
-- [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. ![ObjectiveCIcon]
-- [PushNotitication](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. ![JavascriptIcon]
-- [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. ![ObjectiveCIcon]
-- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App. ![ObjectiveCIcon]
-- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small open source app to display your designs on the Touch Bar of the new MacBook Pro. ![SwiftIcon]
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![SwiftIcon]
-- [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS. ![SwiftIcon]
-- [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS. ![SwiftIcon]
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format. ![SwiftIcon]
-- [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. ![ObjectiveCIcon]
+- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - 可以让你直接通过Dropbox账号构建和部署开发、Ad-Hoc与In-house（企业用户）应用的工具。![ObjectiveCIcon]
+- [AppIcons](https://github.com/kuyawa/AppIcons) - 用来生成全尺寸macOS与iOS应用图标的工具。![SwiftIcon]
+- [AppleTrace](https://github.com/everettjf/AppleTrace) - iOS与macOS的性能分析工具。
+- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - 一款为你提供iOS/macOS应用平均审核时间的开源应用。![SwiftIcon]
+- [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - 一款能够打开.car文件，并提供浏览、解压其中图片功能的应用。![ObjectiveCIcon] ![SwiftIcon]
+- [Assets](https://github.com/athiercelin/Assets) - Assets是一款为你管理应用资源（Xcode、网站等等）的macOS应用。![SwiftIcon]
+- [Attabench](https://github.com/attaswift/Attabench) - Attabench是一款macOS平台上的微基准测试应用，可以用来衡量与可视化swift代码的性能。![SwiftIcon]
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - 一款可以用来监视你的GitHub项目网站的原生macOS应用。:octocat:! ![ObjectiveCIcon]
+- [Brisk](https://github.com/br1sk/brisk) - 一款用来向Apple提交问题的应用。![SwiftIcon]
+- [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher是一款可以帮助你运行与管理Calabash测试的macOS应用。![SwiftIcon]
+- [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - 使用react-native-macOS构建的Xcode清理工具。![ObjectiveCIcon]
+- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - 用来测试HTTP/REST路径的免费原生macOS应用。![ObjectiveCIcon]
+- [FilterShop](https://github.com/KrisYu/FilterShop) - 用来探索CoreImage Filters的macOS应用。![SwiftIcon]
+- [IconGenerator](https://github.com/onmyway133/IconGenerator) - 用来生成应用图标的macOS应用。![JavascriptIcon]
+- [Iconizer](https://github.com/raphaelhanneken/iconizer) - 飞速创建Xcode图片目录（xcassets）。![SwiftIcon]
+- [Icons.app](https://github.com/SAP/macos-icon-generator) - 一个用来创建特定大小下不同状态的图标的应用，例如生成卸载时的抖动图标等。![ObjectiveCIcon]
+- [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor是一个从iOS应用中解析出图片的macOS应用。![ObjectiveCIcon]
+- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator是一个GUI工具，可以用来控制模拟器并管理模拟器上的应用。![ObjectiveCIcon]
+- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS模拟器沙盒, 类似simpholders, 一个查找模拟器沙盒并运行的macOS应用。![ObjectiveCIcon]
+- [Knuff](https://github.com/KnuffApp/Knuff) - 用来debug Apple Push Notification Service (APNs)的应用。 ![ObjectiveCIcon]
+- [LayerX](https://github.com/yuhua-chen/LayerX) - 用来在屏幕上展示透明图片的简单应用。![SwiftIcon]
+- [Localizable.strings](https://github.com/ralcr/Localizable.strings) - 本地化你的iOS与macOS项目的Mac应用。![SwiftIcon]
+- [Localizations](https://github.com/athiercelin/Localizations) - Localizations是一款管理你Xcode项目内本地化文件的OS X应用。![SwiftIcon]
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - 为系统颜色板提供便捷访问的macOS应用。![SwiftIcon]
+- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - 可以随意定制化Touch Bar的应用。![SwiftIcon]
+- [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - 帮助你管理Podfile中的依赖的macOS应用。![SwiftIcon]
+- [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Mac上的.provisionprofile、.mobileprovision文件管理器。![ObjectiveCIcon]
+- [PushNotitication](https://github.com/onmyway133/PushNotifications) - 用来测试iOS与Android推送消息的macOS应用。![JavascriptIcon]
+- [ResignTool](https://github.com/InjoyDeng/ResignTool) - 这是macOS上一款可以（再）签名并打包生成可安装的ipa文件的应用。![ObjectiveCIcon]
+- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS推送消息Debug应用。 ![ObjectiveCIcon]
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - 用来在Touch Bar上显示你的设计的开源应用。![SwiftIcon]
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - 在任何Mac上使用Touch Bar。![SwiftIcon]
+- [TransporterPad](https://github.com/iseebi/TransporterPad) - macOS上的iOS/Android应用开发工具。 ![SwiftIcon]
+- [WWDC](https://github.com/insidegui/WWDC) - macOS上的非官方WWDC应用。![SwiftIcon]
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - 可以下载自2013年起每个WWDC视频的srt格式字幕文件的强大应用。![SwiftIcon]
+- [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - .xib至.storyboard的转换工具。![ObjectiveCIcon]
 
 #### JSON Parsing
 
