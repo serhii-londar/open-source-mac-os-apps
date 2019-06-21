@@ -224,9 +224,9 @@
 
 #### JSON Parsing
 
-- [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ![SwiftIcon]
-- [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - Simple macOS app to generate Swift Object Mapper classes from JSON. ![SwiftIcon]
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. ![SwiftIcon]
+- [j2s](https://github.com/zadr/j2s) - 用来将JSON对象转换为swift structs结构的macOS应用（暂时支持swift 4与Codable）。![SwiftIcon]
+- [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - 从JSON生成swift Object Mapper类的macOS应用。![SwiftIcon]
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 支持以你喜欢的语言，将JSON对象作为model类导出，并携带上关联的constructors、utility methods、setters与getters的macOS上的桌面端应用。![SwiftIcon]
 
 #### Web development
 
