@@ -184,10 +184,10 @@
 
 #### iOS / macOS
 
-- [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / OS X apps development more easier. ![ObjectiveCIcon]
-- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ![ObjectiveCIcon]
-- [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. ![SwiftIcon]
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
+- [Alloy](https://github.com/alexlee002/alloy) - 简单的工具包，使iOS/OS X开发变得更容易。![ObjectiveCIcon]
+- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - 可以让你直接通过Dropbox账号构建和部署开发、Ad-Hoc与In-house（企业用户）应用的工具。 ![ObjectiveCIcon]
+- [AppIcons](https://github.com/kuyawa/AppIcons) - 用来生成全尺寸macOS与iOS应用图标的工具。 ![SwiftIcon]
+- [AppleTrace](https://github.com/everettjf/AppleTrace) - iOS与macOS的性能分析共工具。
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - iOS open source project for the great site that gives you indication about the average iOS / macOS app stores review times. ![SwiftIcon]
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![ObjectiveCIcon] ![SwiftIcon]
 - [Assets](https://github.com/athiercelin/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc). ![SwiftIcon]
