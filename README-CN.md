@@ -246,8 +246,8 @@
 
 ### Other
 
-- [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.  ![ObjectiveCIcon]
-- [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. ![JavascriptIcon]
+- [macho-browser](https://github.com/dcsch/macho-browser) - macOS上的Mach-O binary文件的浏览器.  ![ObjectiveCIcon]
+- [vegvisir](https://github.com/ant4g0nist/vegvisir) - 以浏览器为基础的**LLDB**的GUI调试工具。![JavascriptIcon]
 
 ### Downloader
 
