@@ -275,7 +275,7 @@
 
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - 为精确实验而生的文本编辑器，内置KaTeX/AsciiMath支持。![JavascriptIcon]
 
-#### Text
+#### 文本
 
 - [CotEditor](https://github.com/coteditor/CotEditor) - macOS上轻量级的纯文本编辑器。![SwiftIcon]
 - [MacVim](https://github.com/macvim-dev/macvim) - macOS上的文本编辑器。 ![CIcon]
@@ -283,7 +283,7 @@
 - [TextMate](https://github.com/textmate/textmate) - TextMate是macOS上一款图形华的文本编辑器。![ObjectiveCIcon]
 - [VimR](https://github.com/qvacua/vimr) - macOS上重新定义Neovim体验的编辑器。![SwiftIcon]
 
-### Extensions
+### 扩展
 
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - 为浏览器中的HTML5视频启用原生画中画功能的macOS应用。![SwiftIcon]
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier是macOS 10.12上一款原生的Safari扩展，可以为HTML5视频提供画中画模式。![SwiftIcon]
@@ -295,7 +295,7 @@
 - [Finder Go](https://github.com/onmyway133/FinderGo) - Finder同步扩展，支持从Finder中打开终端、iTerm、Hyper。![SwiftIcon]
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder工具栏应用，支持在VSCode中打开当前文件夹。![ObjectiveCIcon]
 
-### Games
+### 游戏
 
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - 回合制战术策略游戏，支持单人和多人模式。![CppIcon]
 - [Boxer](https://github.com/alunbestor/Boxer) - macOS上的DOS游戏模拟器。![ObjectiveCIcon] ![CppIcon]
@@ -305,7 +305,7 @@
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - 把你的屏幕转换为Mario游戏地图。![ObjectiveCIcon]
 - [Stockfish](https://github.com/daylen/stockfish-mac) - 漂亮且强大的国际象棋应用。![CppIcon] ![ObjectiveCIcon]
 
-### Graphics
+### 图形
 
 - [Aseprite](https://github.com/aseprite/aseprite) - 动画雪碧图与像素艺术编辑工具（Windows、macOS、Linux）。 ![CppIcon] ![CIcon]
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - 捕捉屏幕截图并依靠在线ocr API识别文本的工具。![SwiftIcon]
@@ -327,54 +327,54 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft开发的文本编辑器。![TypescriptIcon]
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio是一个轻量级跨平台的Lua IDE，提供代码提示、文本高亮、远程调试、代码分析、实时编码与多款Lua引擎的调试支持。![LuaIcon]
 
-### Images
+### 图片
 
-- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. ![SwiftIcon]
-- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
-- [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch. ![SwiftIcon]
-- [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. ![CIcon]
-- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![PythonIcon] ![ObjectiveCIcon]
-- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![TypescriptIcon]
-- [Katana](https://github.com/bluegill/katana) - Katana is a simple, open source screenshot utility for macOS that lives in your menubar. ![JavascriptIcon] ![CSSIcon]
-- [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks. ![SwiftIcon]
-- [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots. ![SwiftIcon]
-- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. ![CIcon] ![SwiftIcon]
+- [APNGb](https://github.com/shgodoroja/APNGb) - 集合与打散动画png图片组的macOS应用。![SwiftIcon]
+- [Crunch](https://github.com/chrissimpkins/Crunch) - 疯狂的PNG图片优化应用。
+- [Freehand](https://github.com/wddwycc/Freehand) - macOS状态栏速描应用。![SwiftIcon]
+- [Gimp](https://github.com/GNOME/gimp) - Gimp是一个GNU图片操作软件。![CIcon]
+- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - pngquant, pngnq and posterizer的Mac GUI工具。![PythonIcon] ![ObjectiveCIcon]
+- [Imagine](https://github.com/meowtec/Imagine) - Imagine是一款桌面端具有现代化友好界面的PNG/JPEG压缩软件。![TypescriptIcon]
+- [Katana](https://github.com/bluegill/katana) - Katana是macOS上一款开源的截图工具。![JavascriptIcon] ![CSSIcon]
+- [PhotoMiner](https://github.com/gergelysanta/photominer) - 发现磁盘上被遗忘的图片的macOS应用。![SwiftIcon]
+- [Screenbar](https://github.com/crilleengvall/Screenbar) - 自动化截图的macOS状态栏应用。![SwiftIcon]
+- [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize是一款可将PNG、JPEG、GIF转换为WebP格式的macOS应用。![CIcon] ![SwiftIcon]
 
-### Keyboard
+### 键盘
 
-- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
-- [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. ![SwiftIcon]
-- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![CppIcon] ![ObjectiveCIcon]
-- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![CppIcon] ![ObjectiveCIcon]
-- [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. ![SwiftIcon]
-- [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. ![SwiftIcon]
+- [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - 通过蓝牙控制AnnePro键盘的macOS应用。
+- [Fluor](https://github.com/Pyroh/Fluor) - 支持为单个应用切换Fn键模式的macOS工具。![SwiftIcon]
+- [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner （KeyRemap4MacBook）是一款定制化键盘的强大工具。![CppIcon] ![ObjectiveCIcon]
+- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements是一款定制化键盘的强大工具，支持macOS Sierra（10.12）及以上。![CppIcon] ![ObjectiveCIcon]
+- [Kawa](https://github.com/utatti/kawa) - OS X上更好的输入源切换器。![SwiftIcon]
+- [Thor](https://github.com/gbammc/Thor) - 快捷切换应用工具。![SwiftIcon]
 
-### Mail
+### 邮件
 
-- [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS. ![JavascriptIcon]
-- [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![CppIcon] ![ObjectiveCIcon]
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open source Google Inbox Desktop App. ![JavascriptIcon] ![CSSIcon]
-- [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail. ![SwiftIcon]
-- [Nylas Mail](https://github.com/nylas/nylas-mail) - Open source, extensible mail client. ![JavascriptIcon]
-- [Rambox](https://github.com/saenzramiro/rambox) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. ![JavascriptIcon] ![CSSIcon]
+- [Correo](https://github.com/amitmerchant1990/correo) - Windows与macOS上的菜单栏/任务栏Gmail应用。![JavascriptIcon]
+- [dejalu](https://github.com/dinhviethoa/dejalu) - 方便快捷的电子邮件客户端。![CppIcon] ![ObjectiveCIcon]
+- [Inboxer](https://github.com/denysdovhan/inboxer) - 非官方的免费开源的Google Inbox桌面应用。![JavascriptIcon] ![CSSIcon]
+- [gInbox](https://github.com/chenasraf/gInbox) - Gmail版的Inbox封装。![SwiftIcon]
+- [Nylas Mail](https://github.com/nylas/nylas-mail) - 开源、可扩展的邮件客户端。![JavascriptIcon]
+- [Rambox](https://github.com/saenzramiro/rambox) - 免费、开源且跨平台的消息与邮件二合一应用。![JavascriptIcon] ![CSSIcon]
 
-### Menubar
+### 菜单栏
 
-- [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac app to overcome time constrained WiFi networks. ![JavascriptIcon]
-- [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![ObjectiveCIcon]
-- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar. ![ObjectiveCIcon]
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar application that lists your iCloud Tabs and Reading List. ![SwiftIcon]
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. ![SwiftIcon]
-- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. ![SwiftIcon]
-- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus is an open source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand. ![ObjectiveCIcon]
-- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. ![JavascriptIcon]
-- [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.  ![ObjectiveCIcon]
-- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ![SwiftIcon]
-- [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI OS X status bar app. ![SwiftIcon]
-- [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![CIcon] ![ObjectiveCIcon]
-- [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that gives you more control over Night Shift. ![SwiftIcon]
+- [Airpass](https://github.com/alvesjtiago/airpass) - 突破有时间限制的Wi-Fi网络的macOS状态栏应用。![JavascriptIcon]
+- [AnyBar](https://github.com/tonsky/AnyBar) - macOS菜单栏状态指示器。![ObjectiveCIcon]
+- [BitBar](https://github.com/matryer/bitbar) - 将任何脚本或成都的输出显示在macOS菜单栏的应用。![ObjectiveCIcon]
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - 展示你的iCloud标签与阅读列表的菜单栏应用。![SwiftIcon]
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - 使用swift编写的菜单栏天气应用。![SwiftIcon]
+- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - 应用显示预设的macOS菜单栏应用。![SwiftIcon]
+- [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) - gfxCardStatus是一款开源的菜单栏应用，支持追踪多GPU MacBook Pro当前正在使用的显卡，并允许进行切换操作。![ObjectiveCIcon]
+- [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - 调整屏幕亮度的macOS菜单栏应用。![JavascriptIcon]
+- [MenuMeters](https://github.com/yujitach/MenuMeters) - macOS上的监控CPU、内存、磁盘与网络的工具。![ObjectiveCIcon]
+- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control是一款控制Night Shift的macOS菜单栏应用。致力于支持f.lux的为单个应用禁用Night Shift的功能。![SwiftIcon]
+- [PSIBar](https://github.com/nikhilsh/PSIBar) - OS X上的PSI状态栏应用。![SwiftIcon]
+- [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - 允许你使用第三方鼠标的侧边按键切换应用的菜单栏应用。![CIcon] ![ObjectiveCIcon]
+- [Shifty](https://github.com/thompsonate/Shifty) - 为Night Shift提供更多操作功能的macOS菜单栏应用。![SwiftIcon]
 
-### Music
+### 音乐
 
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. ![CSharpIcon]
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
@@ -385,13 +385,13 @@
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes: ![JavascriptIcon]
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. ![SwiftIcon]
 
-### News
+### 新闻
 
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
 - [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
 
-### Notes
+### 笔记
 
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Open source note-taking app made for programmers just like you. ![JavascriptIcon]
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
@@ -406,7 +406,7 @@
 - [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
 - [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
 
-### Other
+### 其它
 
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
