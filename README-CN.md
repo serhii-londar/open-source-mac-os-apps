@@ -285,47 +285,47 @@
 
 ### Extensions
 
-- [BetterPiP](https://github.com/Capevace/BetterPiP) - macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos. ![SwiftIcon]
-- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![SwiftIcon]
-- [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS. ![JavascriptIcon]
+- [BetterPiP](https://github.com/Capevace/BetterPiP) - 为浏览器中的HTML5视频启用原生画中画功能的macOS应用。![SwiftIcon]
+- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier是macOS 10.12上一款原生的Safari扩展，可以为HTML5视频提供画中画模式。![SwiftIcon]
+- [PiPTool](https://github.com/bfmatei/PiPTool) - 在macOS上为YouTube、Netflix、Plex等视频广播服务提供画中画功能。![JavascriptIcon]
 
 ### Finder
 
-- [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. ![SwiftIcon]
-- [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ![SwiftIcon]
-- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![ObjectiveCIcon]
+- [Clipy](https://github.com/Clipy/Clipy) - Clipy是macOS上一款粘贴板扩展。![SwiftIcon]
+- [Finder Go](https://github.com/onmyway133/FinderGo) - Finder同步扩展，支持从Finder中打开终端、iTerm、Hyper。![SwiftIcon]
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder工具栏应用，支持在VSCode中打开当前文件夹。![ObjectiveCIcon]
 
 ### Games
 
-- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ![CppIcon]
-- [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![ObjectiveCIcon] ![CppIcon]
-- [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful, Open Source emulator for Nintendo GameCube and Wii games. ![CppIcon]
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS. ![ObjectiveCIcon]
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2. ![CppIcon]
-- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario. ![ObjectiveCIcon]
-- [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application. ![CppIcon] ![ObjectiveCIcon]
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - 回合制战术策略游戏，支持单人和多人模式。![CppIcon]
+- [Boxer](https://github.com/alunbestor/Boxer) - macOS上的DOS游戏模拟器。![ObjectiveCIcon] ![CppIcon]
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - Nintendo GameCube与Wii游戏的开源模拟器。![CppIcon]
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - macOS上的复古视频游戏模拟器。![ObjectiveCIcon]
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - RollerCoaster Tycoon 2的开源实现。![CppIcon]
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - 把你的屏幕转换为Mario游戏地图。![ObjectiveCIcon]
+- [Stockfish](https://github.com/daylen/stockfish-mac) - 漂亮且强大的国际象棋应用。![CppIcon] ![ObjectiveCIcon]
 
 ### Graphics
 
-- [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
-- [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. ![SwiftIcon]
-- [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
-- [Gifcurry](https://github.com/lettier/gifcurry) - Open source video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. ![HaskellIcon]
-- [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![SwiftIcon]
-- [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. ![SwiftIcon]
-- [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is professional quality vector graphics software. ![CppIcon]
-- [macSVG](https://github.com/dsward2/macSVG) - Open source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ![ObjectiveCIcon]
-- [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code. ![ObjectiveCIcon]
-- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source. ![CppIcon]
-- [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file. ![ObjectiveCIcon] ![CSSIcon]
-- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - Plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
+- [Aseprite](https://github.com/aseprite/aseprite) - 动画雪碧图与像素艺术编辑工具（Windows、macOS、Linux）。 ![CppIcon] ![CIcon]
+- [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - 捕捉屏幕截图并依靠在线ocr API识别文本的工具。![SwiftIcon]
+- [GifCapture](https://github.com/onmyway133/GifCapture) - macOS上的Gif捕捉工具。![SwiftIcon]
+- [Gifcurry](https://github.com/lettier/gifcurry) - 开源的video转GIF工具，提供图形化界面，支持裁剪、添加文本与裁切功能。![HaskellIcon]
+- [Gifski](https://github.com/sindresorhus/gifski-app) - 将视频转换为高质量GIF。![SwiftIcon]
+- [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Mac上的概念验证绘画工具。![SwiftIcon]
+- [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape是专业的向量图形软件。![CppIcon]
+- [macSVG](https://github.com/dsward2/macSVG) - macOS上使用webkit web view制作HTML5 SVG与动画的开源应用，。![ObjectiveCIcon]
+- [Material Colors Native](https://github.com/BafS/Material-Colors-native) - 选择颜色并拷贝hex颜色码。![ObjectiveCIcon]
+- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D是一款动画/绘画软件，支持macOS、Windows与Linux。支持通过bitmap或向量图形创建传统的手绘动画（卡通）。Pencil2D是免费且开源的。![CppIcon]
+- [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers是一款支持以图层化PSD格式快捷捕捉屏幕截图的macOS应用。![ObjectiveCIcon] ![CSSIcon]
+- [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - Sketch.app的插件管理工具。![ObjectiveCIcon] ![CIcon]
 
 ### IDE
 
-- [Atom](https://github.com/atom/atom) - The hackable text editor. ![JavascriptIcon]
-- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing - code editor focused on developer productivity - powered by Neovim ![JavascriptIcon]![TypescriptIcon]
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft. ![TypescriptIcon]
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ![LuaIcon]
+- [Atom](https://github.com/atom/atom) - “黑客”文本编辑器。![JavascriptIcon]
+- [Oni](https://github.com/onivim/oni) - Oni是一次弹窗编辑的现代尝试 - 专注于开发者效率的代码编辑器 - 使用neovim搭建。![JavascriptIcon]![TypescriptIcon]
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft开发的文本编辑器。![TypescriptIcon]
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio是一个轻量级跨平台的Lua IDE，提供代码提示、文本高亮、远程调试、代码分析、实时编码与多款Lua引擎的调试支持。![LuaIcon]
 
 ### Images
 
