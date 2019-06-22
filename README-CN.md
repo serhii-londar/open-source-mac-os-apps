@@ -354,7 +354,7 @@
 - [Correo](https://github.com/amitmerchant1990/correo) - Windows与macOS上的菜单栏/任务栏Gmail应用。![JavascriptIcon]
 - [dejalu](https://github.com/dinhviethoa/dejalu) - 方便快捷的电子邮件客户端。![CppIcon] ![ObjectiveCIcon]
 - [Inboxer](https://github.com/denysdovhan/inboxer) - 非官方的免费开源的Google Inbox桌面应用。![JavascriptIcon] ![CSSIcon]
-- [gInbox](https://github.com/chenasraf/gInbox) - Gmail版的Inbox封装。![SwiftIcon]
+- [gInbox](https://github.com/chenasraf/gInbox) - Gmail版的Inbox封装层。![SwiftIcon]
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - 开源、可扩展的邮件客户端。![JavascriptIcon]
 - [Rambox](https://github.com/saenzramiro/rambox) - 免费、开源且跨平台的消息与邮件二合一应用。![JavascriptIcon] ![CSSIcon]
 
@@ -376,62 +376,62 @@
 
 ### 音乐
 
-- [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. ![CSharpIcon]
-- [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! ![SwiftIcon]
-- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. ![CoffeescriptIcon]
-- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs. ![SwiftIcon]
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift. ![SwiftIcon]
-- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows. ![JavascriptIcon]
-- [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes: ![JavascriptIcon]
-- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. ![SwiftIcon]
+- [Carol](https://github.com/AnaghSharma/Carol) - 一个小而精致的macOS菜单栏歌词应用。![CSharpIcon]
+- [ChordDetector](https://github.com/cemolcay/ChordDetector) - 监听iTunes与Spotify并检测歌曲的菜单栏应用。![SwiftIcon]
+- [DeezPlayer](https://github.com/imanel/deezplayer) - Windows、Linux与macOS上的Deezer桌面端应用。![CoffeescriptIcon]
+- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - 将iTunes库变为图标的macOS应用。![SwiftIcon]
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) - 使用swift编写的macOS菜单栏上的Spotify歌词查看器。![SwiftIcon]
+- [SoundCleod](https://github.com/salomvary/soundcleod) - macOS与Windows上的SoundCloud![JavascriptIcon]
+- [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - 在你的终端内控制Spotify。:notes: ![JavascriptIcon]
+- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS上music.youtube.com的封装层。![SwiftIcon]
 
 ### 新闻
 
-- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ![SwiftIcon]
-- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop. ![JavascriptIcon]
-- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open source RSS/Atom newsreader for macOS. ![ObjectiveCIcon]
+- [Diurna](https://github.com/ngquerol/Diurna) - 基础/经典的Hacker News应用，可以用来学习Cocoa与swift。![SwiftIcon]
+- [hacker-menu](https://github.com/jingweno/hacker-menu) - 桌面端的Hacker News应用。![JavascriptIcon]
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna是macOS上一款免费且开源的RSS/Atom新闻阅读器。![ObjectiveCIcon]
 
 ### 笔记
 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Open source note-taking app made for programmers just like you. ![JavascriptIcon]
-- [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![JavascriptIcon] ![CSSIcon]
-- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ![SwiftIcon]
-- [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ![JavascriptIcon]
-- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS. ![SwiftIcon]
-- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.
-- [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ![SwiftIcon]
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ![SwiftIcon]
-- [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes. ![ObjectiveCIcon]
-- [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![JavascriptIcon] ![CSSIcon]
-- [tmpNote](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes. ![SwiftIcon]
-- [Tusk](https://github.com/klauscfhq/tusk) - Unofficial, open source, third-party, community driven, free Evernote app with a handful of useful features. ![JavascriptIcon] ![CSSIcon]
+- [Boostnote](https://github.com/BoostIO/Boostnote) - 为编程人员而制作的笔记应用。![JavascriptIcon]
+- [FromScratch](https://github.com/Kilian/fromscratch) - 可以用来记笔记或todo的小应用。![JavascriptIcon] ![CSSIcon]
+- [FSNotes](https://github.com/glushchenko/fsnotes) - macOS/iOS的笔记管理器。![SwiftIcon]
+- [joplin](https://github.com/laurent22/joplin) - 支持同步功能的笔记和todo软件，支持Windows、macOS、Linux、Android与iOS。![JavascriptIcon]
+- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - macOS上的笔记本查看器。![SwiftIcon]
+- [notable](https://github.com/jmcfarlane/notable) - 简单的笔记应用。
+- [Notes](https://github.com/SauvageP/Notes) - Notes是用来创建笔记的macOS应用，支持插入图片、视频、通讯录等等。![SwiftIcon]
+- [NoteTaker](https://github.com/insidegui/NoteTaker) - 使用Realm和CloudKit进行同步的macOS与iOS上的笔记软件。![SwiftIcon]
+- [Simplenote](https://github.com/Automattic/simplenote-macos) - 记笔记的最简单的方式。![ObjectiveCIcon]
+- [Standard Notes](https://github.com/standardnotes/web) - 你的笔记、想法与生活的安全屋。![JavascriptIcon] ![CSSIcon]
+- [tmpNote](https://github.com/buddax2/tmpNote) - 非常简单的创建临时笔记的macOS应用。![SwiftIcon]
+- [Tusk](https://github.com/klauscfhq/tusk) - 非官方的、开源的、免费的、由社区驱动的开源Evernote应用，拥有许多有用的特性。![JavascriptIcon] ![CSSIcon]
 
 ### 其它
 
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew. ![ObjectiveCIcon]
-- [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X. ![ObjectiveCIcon]
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. ![ObjectiveCIcon]
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac. ![ObjectiveCIcon]
-- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework. ![SwiftIcon]
-- [Lepton](https://github.com/hackjutsu/Lepton) - Democratizing Code Snippets Management (macOS/Win/Linux). ![JavascriptIcon]
-- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. ![SwiftIcon]
-- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts. ![ObjectiveCIcon]
-- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. ![SwiftIcon]
-- [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
-- [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. ![JavascriptIcon]
-- [RktMachine](https://github.com/woofwoofinc/rktmachine) - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. ![SwiftIcon]
-- [Ruby.app](https://github.com/gosu/ruby-app) - macOS app that contains a full Ruby installation (for use with Ruby/Gosu). ![RubyIcon]
-- [Shuttle](https://github.com/fitztrev/shuttle) - Simple SSH shortcut menu for macOS. ![ObjectiveCIcon]
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift. ![SwiftIcon]
-- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - Frugal native Mac OS X Syncthing application bundle. ![ObjectiveCIcon]
-- [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources.  ![ObjectiveCIcon]
-- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS.  ![ObjectiveCIcon]
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - 使用CakeBrew管理你的Homebrew配方。![ObjectiveCIcon]
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - OS X的Hosts文件管理器。![ObjectiveCIcon]
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - hosts文件的Cocoa GUI工具。![ObjectiveCIcon]
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - Mac上的图片优化工具。![ObjectiveCIcon]
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - 预览使用Facebook的keyframes框架创建的动画的工具。![SwiftIcon]
+- [Lepton](https://github.com/hackjutsu/Lepton) - 代码片段管理，支持macOS/Win/Linux。 ![JavascriptIcon]
+- [macGist](https://github.com/Bunn/macGist) - 发送粘贴板到GitHub的Gist的应用。![SwiftIcon]
+- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac上从命令行脚本创建应用bundle的开发者工具。![ObjectiveCIcon]
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - 使用swift编写的Xcode与Google Docs的日志工具。![SwiftIcon]
+- [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - 审查你的React Native项目的桌面端应用，支持macOS、Linux与Windows。![JavascriptIcon]
+- [Reactotron](https://github.com/infinitered/reactotron) - 审查你的React JS与React Native的桌面端应用，支持macOS、Linux与Windows。![JavascriptIcon]
+- [RktMachine](https://github.com/woofwoofinc/rktmachine) - 在macOS虚拟机器监视器的CoreOS VM内运行rkt的macOS状态栏应用。![SwiftIcon]
+- [Ruby.app](https://github.com/gosu/ruby-app) - 内置完整Ruby的macOS应用，配合Ruby/Gosu使用。![RubyIcon]
+- [Shuttle](https://github.com/fitztrev/shuttle) - macOS的SSH快捷菜单。![ObjectiveCIcon]
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - swift开发与发布的便捷日志工具。![SwiftIcon]
+- [syncthing-macosx](https://github.com/xor-gate/syncthing-macosx) - OS X上精简的原生Syncthing应用。![ObjectiveCIcon]
+- [Unused](https://github.com/jeffhodnett/Unused) - 检测Xcode项目中未使用资源的Mac应用。![ObjectiveCIcon]
+- [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - 在macOS上使用Vagrant Manager管理你的vagrant机器。![ObjectiveCIcon]
 
-### Podcast
+### 播客
 
-- [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. ![JavascriptIcon]
-- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices. ![PythonIcon]
-- [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via [Ultraschall](https://ultraschall.fm/) with [Studio Link On Air](https://studio-link.de/). ![ObjectiveCIcon]
+- [Cumulonimbus](https://github.com/z-------------/CPod) - 精致的播客应用。![JavascriptIcon]
+- [mkchromecast](https://github.com/muammar/mkchromecast) - 将macOS和Linux的音视频投放至Google Cast和Sonos设备。![PythonIcon]
+- [Podlive for macOS](https://github.com/phranck/podlive-macos) - 收听播客直播的macOS客户端。当前支持[Ultraschall](https://ultraschall.fm/)与[Studio Link On Air](https://studio-link.de/)的所有直播流。![ObjectiveCIcon]
 
 ### Productivity
 
