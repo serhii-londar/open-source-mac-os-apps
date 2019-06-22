@@ -515,7 +515,7 @@
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher是一款允许你启用或金庸Turbo Boost特性的Mac应用。![ObjectiveCIcon]
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - 为Dock栏增加一个纵线的应用。![SwiftIcon]
 
-### Terminal
+### 终端
 
 - [Alacritty](https://github.com/jwilm/alacritty) - 跨平台、GPU加速的终端模拟器。![RustIcon]
 - [Console](https://github.com/macmade/Console) - macOS上的console应用。![SwiftIcon]
@@ -524,45 +524,45 @@
 - [Kitty](https://github.com/kovidgoyal/kitty) - 快速、多特性的跨平台的GPU终端模拟器。![CIcon] ![PythonIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - 从Finder中打开一个终端窗口，并将工作目录切换到当前文件夹的macOS应用。![SwiftIcon]
 
-### Utilities
+### 实用工具
 
-- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android ![SwiftIcon]
-- [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images ![SwiftIcon]
-- [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. ![ObjectiveCIcon]
-- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Free, open-source and secure password manager for mac and other platforms. ![JavascriptIcon]
+- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - 一键截图、视频录制与应用安装，支持iOS和安卓。![SwiftIcon]
+- [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - 像挂载磁盘一样挂载压归档文件。![SwiftIcon]
+- [BeardedSpice](https://github.com/beardedspice/beardedspice) - 使用Mac键盘提供的媒体按键控制web媒体播放器。![ObjectiveCIcon]
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 免费、开源且安全的密码管理器，支持Mac与其它平台。![JavascriptIcon]
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
-- [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. ![SwiftIcon]
-- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass. ![JavascriptIcon]
-- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. ![SwiftIcon]
+- [CornerCal](https://github.com/ekreutz/CornerCal) - macOS上简介的日历与时钟应用。![SwiftIcon]
+- [Crypter](https://github.com/HR/Crypter) - Crypter是一款创新的、便捷的、安全且开源的跨平台加密应用，简化了密码生成与管理，而你只需要记住MasterPass。![JavascriptIcon]
+- [ECheck](https://github.com/josejuanqm/ECheck) - macOS上验证epub文件的工具。![SwiftIcon]
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
 - [Kap](https://github.com/wulkano/kap) - Open source screen recorder built with web technology. ![JavascriptIcon]
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe" ![CppIcon]
-- [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. ![JavascriptIcon]
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - 跨平台的由社区驱动的Windows应用“Keepass Password Safe”的移植。![CppIcon]
+- [KeeWeb](https://github.com/keeweb/keeweb) - 与KeePass兼容的免费跨平台密码管理器。![JavascriptIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
-- [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. ![SwiftIcon]
-- [MacPass](https://github.com/MacPass/MacPass) - Native OS X KeePass client. ![ObjectiveCIcon]
-- [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. ![SwiftIcon]
-- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker open source macOS app made in Swift. ![SwiftIcon]
-- [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS ![SwiftIcon]
-- [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction ![SwiftIcon]
-- [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). ![SwiftIcon]
-- [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux. ![JavascriptIcon]
-- [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents. ![SwiftIcon]
-- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is an open source screen sharing + remote collaboration application. ![CSSIcon] ![JavascriptIcon]
-- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits. ![ObjectiveCIcon]
-- [Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac. ![SwiftIcon] ![ObjectiveCIcon]
-- [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. ![JavascriptIcon]
-- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver is an Objective-C application for uncompressing archive files. ![ObjectiveCIcon]
-- [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. ![SwiftIcon]
-- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. ![ObjectiveCIcon]
+- [Lunar](https://github.com/alin23/lunar) - 使你的外置显示器智能适应亮度。![SwiftIcon]
+- [MacPass](https://github.com/MacPass/MacPass) - OS X原生KeePass客户端。![ObjectiveCIcon]
+- [Maria](https://github.com/shincurry/Maria) - macOS上aria2下载工具的原生应用/小部件。![SwiftIcon]
+- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - macOS上使用swift编写的开源Meme制作工具。![SwiftIcon]
+- [Monolingual](https://github.com/IngmarStein/Monolingual) - 为macOS移除不必要的语言资源。![SwiftIcon]
+- [Mos](https://github.com/Caldis/Mos) - 使你的鼠标滚动更加流畅与反转鼠标滚动方向的应用。![SwiftIcon]
+- [Noti](https://github.com/jariz/Noti/) - 在Mac上接收Android通知（通过PushBullet）。![SwiftIcon]
+- [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - 在macOS、Windows与Linux上接收原生推动通知。![JavascriptIcon]
+- [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - 计算百分比的菜单栏应用。![SwiftIcon]
+- [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat是一款开源的屏幕分享与远程协作的应用。![CSSIcon] ![JavascriptIcon]
+- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - 为Command-Q添加一个全局延迟，防止意外退出。![ObjectiveCIcon]
+- [Telephone](https://github.com/64characters/Telephone) - Mac上的SIP softphone。![SwiftIcon] ![ObjectiveCIcon]
+- [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack是一个去中心化应用的网络，在Blockstack上用户才是他们的数据的拥有者。Blockstack浏览器允许你探索Blockstack网络。![JavascriptIcon]
+- [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver) - The Unarchiver是一款解压缩文件的Objective-C应用。![ObjectiveCIcon]
+- [ToTheTop](https://github.com/zenangst/ToTheTop) - 帮助你滚动到顶部的macOS应用。![SwiftIcon]
+- [Übersicht](https://github.com/felixhageloh/uebersicht) - 帮你盯着正在你的机器和世界上正在发生的事情。![ObjectiveCIcon]
 
-### VPN & Proxy
+### VPN与代理
 
-- [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN Client macOS Menu App. ![SwiftIcon]
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX. ![SwiftIcon]
-- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS. ![SwiftIcon]
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS. ![SwiftIcon]
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. ![ObjectiveCIcon]
+- [rvc-mac](https://github.com/riboseinc/rvc-mac) - Ribose VPN的macOS菜单栏应用。![SwiftIcon]
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代的ShadowsocksX. ![SwiftIcon]
+- [Specht](https://github.com/zhuhaow/Specht) - macOS上使用Network Extension构建的支持规则配置的代理应用。![SwiftIcon]
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - macOS上支持规则配置的代理应用。![SwiftIcon]
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick是OS X上一个免费、开源的拥有图形化界面的OpenVPN工具。![ObjectiveCIcon]
 
 ### Video
 
