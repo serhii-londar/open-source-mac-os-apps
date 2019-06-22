@@ -146,7 +146,7 @@
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - 从菜单栏发送WhatsApp消息。![SwiftIcon]
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - 聊天应用Wire的独立客户端，使用Electron编写。![JavascriptIcon]
 
-### Cryptocurrency
+### 加密货币
 
 - [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - 一个可以安全生成加密货币地址的macOS应用。![SwiftIcon]
 - [Balance Open](https://github.com/balance-io/balance-open) - 一个支持所有货币的macOS菜单栏应用。![SwiftIcon]
@@ -154,7 +154,7 @@
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - 实时追踪加密货币价格的macOS菜单栏应用, 使用Electron编写。![JavascriptIcon]
 - [Float coin](https://github.com/kaunteya/FloatCoin) - 显示加密货币价格的菜单栏应用。![SwiftIcon]
 
-### Database
+### 数据库
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite数据库管理软件。![CppIcon]
 - [mongoDB.app](http://gcollazo.github.io/mongodbapp/) - 在macOS上上手mongoDB最简单的方式。![SwiftIcon]
@@ -163,7 +163,7 @@
 - [Redis.app](https://github.com/jpadilla/redisapp) -  在macOS上上手Redis最简单的方式。![SwiftIcon]
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - macOS上的MySQL/MariaDB数据库管理软件。![ObjectiveCIcon]
 
-### Development
+### 开发
 
 #### Git
 
@@ -222,66 +222,66 @@
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - 可以下载自2013年起每个WWDC视频的srt格式字幕文件的强大应用。![SwiftIcon]
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - .xib至.storyboard的转换工具。![ObjectiveCIcon]
 
-#### JSON Parsing
+#### JSON解析
 
 - [j2s](https://github.com/zadr/j2s) - 用来将JSON对象转换为swift structs结构的macOS应用（暂时支持swift 4与Codable）。![SwiftIcon]
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) - 从JSON生成swift Object Mapper类的macOS应用。![SwiftIcon]
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 支持以你喜欢的语言，将JSON对象作为model类导出，并携带上关联的constructors、utility methods、setters与getters的macOS上的桌面端应用。![SwiftIcon]
 
-#### Web development
+#### Web开发
 
-- [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. ![JavascriptIcon]
-- [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. ![SwiftIcon]
-- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. ![ObjectiveCIcon]
-- [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron. ![JavascriptIcon]
-- [iTunesConnect](https://github.com/ronakdev/itunesconnect) - macOS app to let you access iTunesConnect. ![SwiftIcon]
-- [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar. ![SwiftIcon]
-- [Lantern](https://github.com/BurntCaramel/Lantern) - Dedicated Mac app for website auditing and crawling. ![SwiftIcon]
-- [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ![SwiftIcon]
-- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ![JavascriptIcon]
-- [ndm](https://github.com/720kb/ndm) - The Open Source npm desktop GUI. ![JavascriptIcon]
-- [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar. ![SwiftIcon]
-- [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu. ![JavascriptIcon]
-- [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. ![SwiftIcon]
+- [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - 将文件上传至Amazon Web Services的macOS应用。![JavascriptIcon]
+- [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App是一个封装了corectl命令行工具corectld的macOS状态栏应用。![SwiftIcon]
+- [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM是一个允许你控制CoreOS VM的macOS状态栏应用。![ObjectiveCIcon]
+- [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia是一个使用Electron构建的跨平台REST客户端。![JavascriptIcon]
+- [iTunesConnect](https://github.com/ronakdev/itunesconnect) - 可以访问iTunesConnect的macOS应用。![SwiftIcon]
+- [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor是一个用来在菜单栏展示活跃Kubernetes集群信息的应用。![SwiftIcon]
+- [Lantern](https://github.com/BurntCaramel/Lantern) - 专门用来审查和抓取网站的Mac应用。![SwiftIcon]
+- [LocalSites](https://github.com/plan44/localSites) - 列出本地Bonjour网站（因为Safari 11取消了Bonjour）的macOS状态栏应用。![SwiftIcon]
+- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator是一个允许你以特定机型的方式捕捉网站屏幕截图的macOS状态栏应用，使用AngularJS/Electron构建。![JavascriptIcon]
+- [ndm](https://github.com/720kb/ndm) - 开源的npm桌面GUI工具。![JavascriptIcon]
+- [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - 在菜单栏运行Nodejs/JS代码片段的应用。![SwiftIcon]
+- [Now Desktop](https://github.com/zeit/now-desktop) - 从托盘菜单直接部署的应用。![JavascriptIcon]
+- [stts](https://github.com/inket/stts) - 监控云服务状态的macOS应用。![SwiftIcon]
 
-### Other
+### 其它
 
 - [macho-browser](https://github.com/dcsch/macho-browser) - macOS上的Mach-O binary文件的浏览器.  ![ObjectiveCIcon]
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - 以浏览器为基础的**LLDB**的GUI调试工具。![JavascriptIcon]
 
-### Downloader
+### 下载器
 
-- [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. ![SwiftIcon]
-- [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. ![SwiftIcon]
-- [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C ![SwiftIcon] ![ObjectiveCIcon]
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
-- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos. ![SwiftIcon]
-- [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ![SwiftIcon]
+- [App Downloader](https://github.com/yep/app-downloader) - 从巨大的 `homebrew cask` 目录搜索并下载macOS应用的应用。![SwiftIcon]
+- [Get It](https://github.com/Kevin-De-Koninck/Get-It) - macOS上的视频/音频下载器。支持下载YouTube等网站。![SwiftIcon]
+- [Pillager](https://github.com/Pjirlip/Pillager) - 使用Swift and Objective-C编写的macOS视频下载器。![SwiftIcon] ![ObjectiveCIcon]
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - 下载Udemy课程的桌面端应用。
+- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - 下载YouTube视频的macOS应用。![SwiftIcon]
+- [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - 下载YouTube电影的macOS状态栏应用。我写这个只是用来学习macOS应用开发。![SwiftIcon]
 
-### Editors
+### 编辑器
 
 #### JSON
 
-- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. ![JavascriptIcon]
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - 编辑、显示与操作JSON数据的GUI应用。![JavascriptIcon]
 
 #### Markdown
 
-- [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. ![ElmIcon]
-- [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS. ![ObjectiveCIcon]
-- [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux. ![JavascriptIcon]
-- [Twig](https://github.com/lukakerr/twig) - A modern MacOS markdown editor. ![SwiftIcon]
+- [Gingko](https://github.com/gingko/client) - 支持macOS、Windows与Linux的树形markdown编辑器。![ElmIcon]
+- [MacDown](https://github.com/MacDownApp/macdown) - macOS上的开源markdown编辑器。![ObjectiveCIcon]
+- [Mark Text](https://github.com/marktext/marktext/) - macOS、Windows与Linux上支持实时预览的markdown编辑器。![JavascriptIcon]
+- [Twig](https://github.com/lukakerr/twig) - macOS上一款现代的markdown编辑器。![SwiftIcon]
 
 #### TeX
 
-- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. ![JavascriptIcon]
+- [Qilin Editor](https://github.com/qilin-editor/qilin-app) - 为精确实验而生的文本编辑器，内置KaTeX/AsciiMath支持。![JavascriptIcon]
 
 #### Text
 
-- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. ![SwiftIcon]
-- [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. ![CIcon]
-- [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes. ![SwiftIcon]
-- [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS. ![ObjectiveCIcon]
-- [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS. ![SwiftIcon]
+- [CotEditor](https://github.com/coteditor/CotEditor) - macOS上轻量级的纯文本编辑器。![SwiftIcon]
+- [MacVim](https://github.com/macvim-dev/macvim) - macOS上的文本编辑器。 ![CIcon]
+- [Noto](https://github.com/brunophilipe/noto) - macOS上支持主题的纯文本编辑器。![SwiftIcon]
+- [TextMate](https://github.com/textmate/textmate) - TextMate是macOS上一款图形华的文本编辑器。![ObjectiveCIcon]
+- [VimR](https://github.com/qvacua/vimr) - macOS上重新定义Neovim体验的编辑器。![SwiftIcon]
 
 ### Extensions
 
@@ -619,18 +619,18 @@
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
 
 [AppStore]: ./icons/app_store-16.png "App Store."
-[CIcon]: ./icons/c-16.png "C language."
-[CppIcon]: ./icons/cpp-16.png "C++ language."
-[CSharpIcon]: ./icons/csharp-16.png "C# Language"
-[CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript language."
-[CSSIcon]: ./icons/css-16.png "CSS language."
-[ElmIcon]: ./icons/elm-16.png "Elm Language"
-[HaskellIcon]: ./icons/haskell-16.png "Haskell language."
-[JavascriptIcon]: ./icons/javascript-16.png "JavaScript language."
-[LuaIcon]: ./icons/Lua-16.png "Lua language."
-[ObjectiveCIcon]: ./icons/objective-c-16.png "Objective-C language."
-[PythonIcon]: ./icons/python-16.png "Python language."
-[RubyIcon]: ./icons/ruby-16.png "Ruby language."
-[RustIcon]: ./icons/rust-16.png "Rust language."
-[SwiftIcon]: ./icons/swift-16.png "Swift language."
-[TypescriptIcon]: ./icons/typescript-16.png "TypeScript language."
+[CIcon]: ./icons/c-16.png "C 语言."
+[CppIcon]: ./icons/cpp-16.png "C++ 语言."
+[CSharpIcon]: ./icons/csharp-16.png "C# 语言"
+[CoffeescriptIcon]: ./icons/coffeescript-16.png "CoffeeScript 语言."
+[CSSIcon]: ./icons/css-16.png "CSS 语言."
+[ElmIcon]: ./icons/elm-16.png "Elm 语言"
+[HaskellIcon]: ./icons/haskell-16.png "Haskell 语言."
+[JavascriptIcon]: ./icons/javascript-16.png "JavaScript 语言."
+[LuaIcon]: ./icons/Lua-16.png "Lua 语言."
+[ObjectiveCIcon]: ./icons/objective-c-16.png "Objective-C 语言."
+[PythonIcon]: ./icons/python-16.png "Python 语言."
+[RubyIcon]: ./icons/ruby-16.png "Ruby 语言."
+[RustIcon]: ./icons/rust-16.png "Rust 语言."
+[SwiftIcon]: ./icons/swift-16.png "Swift 语言."
+[TypescriptIcon]: ./icons/typescript-16.png "TypeScript 语言."
