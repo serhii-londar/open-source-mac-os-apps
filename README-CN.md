@@ -433,96 +433,96 @@
 - [mkchromecast](https://github.com/muammar/mkchromecast) - 将macOS和Linux的音视频投放至Google Cast和Sonos设备。![PythonIcon]
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - 收听播客直播的macOS客户端。当前支持[Ultraschall](https://ultraschall.fm/)与[Studio Link On Air](https://studio-link.de/)的所有直播流。![ObjectiveCIcon]
 
-### Productivity
+### 生产效率
 
-- [Ao](https://github.com/klauscfhq/ao) - Elegant Microsoft To-Do desktop app. ![JavascriptIcon] ![CSSIcon]
-- [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app. ![JavascriptIcon]
-- [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS. ![ObjectiveCIcon]
-- [Clocker](https://github.com/abhishekbanthia/Clocker) - macOS app to plan and organize through timezones. ![ObjectiveCIcon]
-- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. ![ObjectiveCIcon]
-- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. ![ObjectiveCIcon]
-- [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app. ![SwiftIcon]
-- [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift. ![SwiftIcon]
-- [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas. ![SwiftIcon]
-- [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager. ![SwiftIcon]
-- [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files. ![SwiftIcon]
-- [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. ![JavascriptIcon]
-- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. ![JavascriptIcon]
-- [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks. ![SwiftIcon]
-- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast and free macOS productivity application that gives you the power to control your Mac quickly and elegantly. ![ObjectiveCIcon]
-- [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![JavascriptIcon]![CSSIcon]
-- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ![ObjectiveCIcon]
-- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. ![SwiftIcon]
-- [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. ![JavascriptIcon]
-- [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. ![SwiftIcon]
-- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux. ![CppIcon]
-- [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser. ![SwiftIcon]
-- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. ![JavascriptIcon]
-- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. ![SwiftIcon]
+- [Ao](https://github.com/klauscfhq/ao) - 优雅的Microsoft To-Do桌面端应用。![JavascriptIcon] ![CSSIcon]
+- [Cerebro](https://github.com/KELiON/cerebro) - 跨平台的启动器。![JavascriptIcon]
+- [ClipMenu](https://github.com/naotaka/ClipMenu) - macOS的剪贴板管理工具。![ObjectiveCIcon]
+- [Clocker](https://github.com/abhishekbanthia/Clocker) - 在不同时区下做计划和安排的macOS应用。![ObjectiveCIcon]
+- [ControlPlane](https://github.com/dustinrue/ControlPlane) - 根据你的位置和你当前的工作自动运行任务。![ObjectiveCIcon]
+- [Flycut](https://github.com/TermiT/flycut) - 为开发者设计的简洁的剪贴板管理工具。![ObjectiveCIcon]
+- [KeyHolder](https://github.com/Clipy/KeyHolder) - 在macOS上记录快捷键，与Alfred类似。![SwiftIcon]
+- [Kiwix](https://github.com/kiwix/apple) - 使用swift编写的Kiwix，支持iOS与macOS。![SwiftIcon]
+- [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) -记录和连接想法的macOS应用。![SwiftIcon]
+- [Maccy](https://github.com/p0deje/Maccy) - 轻量级的即时搜索剪贴板管理工具。![SwiftIcon]
+- [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - 用来组织文件或移除不必要文件的macOS应用。![SwiftIcon]
+- [Manta](https://github.com/hql287/Manta) - 提供漂亮和可定制模版的桌面端发票应用。![JavascriptIcon]
+- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - 使用paperless API帮助你管理扫描文档的桌面端应用。![JavascriptIcon]
+- [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - 对PDF进行标记和存档的工具。![SwiftIcon]
+- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver是macOS上一款让你更快更优雅地管理Mac的免费应用。![ObjectiveCIcon]
+- [Quickwords](https://github.com/quickwords/quickwords) - 生产效率工具。几次按键就可以替换文本、短语或段落。![JavascriptIcon]![CSSIcon]
+- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - 能够在预设的一段时间内屏蔽让你分心的网站的macOS应用。屏蔽不可以被解除，即使是重启 - 你必须等待时间结束。![ObjectiveCIcon]
+- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - 在状态栏保持TODO列表的macOS应用。![SwiftIcon]
+- [stretchly](https://github.com/hovancik/stretchly) - 提醒你定时离开电脑休息的应用，跨平台，使用Electron构建。![JavascriptIcon]
+- [Timer](https://github.com/michaelvillar/timer-app) - Mac上的定时器应用。![SwiftIcon]
+- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Windows、Mac、Linux上的Toggl桌面端应用。![CppIcon]
+- [TrelloApp](https://github.com/jlong/TrelloApp) - 使用swift编写的非官方的封装了Trello的应用。几乎就是一个特定网站浏览器（site specific browser）的“Hello World”。![SwiftIcon]
+- [Whale](https://github.com/1000ch/whale) - 非官方的Trello应用。![JavascriptIcon]
+- [Yomu](https://github.com/sendyhalim/Yomu) - macOS上的日漫阅读应用。![SwiftIcon]
 
-### Screensaver
+### 屏幕保护程序
 
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![SwiftIcon]
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Utility application helps with selection of images for using as desktop wallpaper or in screensaver on Mac computers. ![SwiftIcon]
-- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS. ![ObjectiveCIcon]
-- [MusaicFM](https://github.com/docterd/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm ![ObjectiveCIcon]
-- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS. ![JavascriptIcon]
+- [Aerial](https://github.com/JohnCoates/Aerial) - macOS上的Apple TV Aerial Screensaver。![SwiftIcon]
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Mac电脑上辅助选择图片作为桌面壁纸或屏保的工具应用。![SwiftIcon]
+- [Irvue](https://github.com/leonspok/Irvue-Screensaver) - macOS上的屏幕保护程序。![ObjectiveCIcon]
+- [MusaicFM](https://github.com/docterd/MusaicFM) - 类似iTunes屏幕保护程序展示Spotify和Last.fm信息的应用。![ObjectiveCIcon]
+- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - macOS上的The GitHub Matrix Screensaver。![JavascriptIcon]
 
-### Security
+### 安全
 
-- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open source macOS firewall that aims to block unauthorized (outgoing) network traffic. ![ObjectiveCIcon]
-- [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. ![PythonIcon]
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu是用来阻止无授权（出口）网络流量的免费开源macOS防火墙。![ObjectiveCIcon]
+- [stronghold](https://github.com/alichtman/stronghold) - 从终端配置macOS安全设置。![PythonIcon]
 
-### Sharing Files
+### 文件分享
 
-- [Deluge](https://git.deluge-torrent.org/deluge) - lightweight, Free Software, cross-platform BitTorrent client. ![PythonIcon]
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. ![SwiftIcon]
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. ![CppIcon]
-- [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. ![ObjectiveCIcon]
-- [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![CIcon] ![ObjectiveCIcon]
-- [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery. ![PythonIcon]
+- [Deluge](https://git.deluge-torrent.org/deluge) - 轻量级、跨平台且免费的BitTorrent客户端。![PythonIcon]
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - 轻松快读上传图片或屏幕截图到Imgur的macOS应用。![SwiftIcon]
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - 使用Qt构建的BitTorrent客户端。![CppIcon]
+- [Rhea](https://github.com/timonus/Rhea) - 快捷分享文件和链接的macOS状态栏应用。![ObjectiveCIcon]
+- [Transmission](https://github.com/transmission/transmission) - Transmission BitTorrent客户端的官方仓库。![CIcon] ![ObjectiveCIcon]
+- [Tribler](https://github.com/Tribler/tribler) - 支持P2P、注重隐私的BitTorrent客户端。![PythonIcon]
 
-### Social Networking
+### 社交网络
 
-- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app. ![JavascriptIcon]
-- [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app. ![JavascriptIcon] ![CSSIcon]
-- [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client. ![JavascriptIcon]
-- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app. ![JavascriptIcon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![JavascriptIcon] ![CSSIcon]
-- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly. ![RubyIcon]
+- [appear.in](https://github.com/vitorgalvao/appear.in) - 非官方的appear.in应用。![JavascriptIcon]
+- [Caprine](https://github.com/sindresorhus/caprine#features) - 优雅的Facebook Messenger桌面端应用。![JavascriptIcon] ![CSSIcon]
+- [Goofy](https://github.com/danielbuechele/goofy) - 非官方的Facebook Messenger客户端。![JavascriptIcon]
+- [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan是一款为Mastodon打造的iOS与macOS客户端。
+- [Quail](https://github.com/1000ch/quail) - 非官方的[esa](https://esa.io)应用。![JavascriptIcon]
+- [Ramme](https://github.com/terkelg/ramme) - 非官方的Instagram桌面端应用。![JavascriptIcon] ![CSSIcon]
+- [Simpo](https://github.com/KeliCheng/Simpo) - 快速发帖的macOS状态栏应用。![RubyIcon]
 
 ### Streaming
 
-- [Galeri](https://github.com/michealparks/galeri-www) - Perpetual artwork streaming app.
+- [Galeri](https://github.com/michealparks/galeri-www) - 播放艺术作品的应用。
 
-### System
+### 系统
 
-- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. ![SwiftIcon]
-- [AppPolice](https://github.com/fuyu/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process. ![ObjectiveCIcon]
-- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...). ![SwiftIcon]
-- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. ![SwiftIcon]
-- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. ![ObjectiveCIcon]
-- [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ![ObjectiveCIcon]
-- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. ![ObjectiveCIcon]
-- [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. ![SwiftIcon]
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![ObjectiveCIcon]
-- [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ![SwiftIcon]
-- [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for OS X. ![ObjectiveCIcon]
-- [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. ![SwiftIcon]
-- [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles. ![ObjectiveCIcon]
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an OS X application that displays a list of all open files and sockets in use by all running applications on your system. ![ObjectiveCIcon]
-- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. ![ObjectiveCIcon]
-- [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - macOS application to add a vertical bar to Dock. ![SwiftIcon]
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - macOS上先进的电池测量工具。![SwiftIcon]
+- [AppPolice](https://github.com/fuyu/AppPolice) - 可以让你快速降低任何进程CPU使用率的应用。![ObjectiveCIcon]
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - macOS上的系统清洁工具（日志、缓存等等）。![SwiftIcon]
+- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics是macOS上一款展示应用诊断报告的应用。![SwiftIcon]
+- [DisableMonitor](https://github.com/Eun/DisableMonitor) - 在Mac上简单禁用或启用显示器的应用。![ObjectiveCIcon]
+- [EtreCheck](https://github.com/etresoft/EtreCheck) - EtreCheck是一款易上手的展示系统配置信息并允许你拷贝到剪贴板的应用。![ObjectiveCIcon]
+- [Fanny](https://github.com/DanielStormApps/Fanny) - 监控你的Mac的风扇速度和CPU温度，并在通知中心展示的应用。![ObjectiveCIcon]
+- [Juice](https://github.com/brianmichel/Juice) - 更有趣地展示你的电池信息。![SwiftIcon]
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 阻止Mac进入休眠。![ObjectiveCIcon]
+- [Latest](https://github.com/mangerlahn/Latest) - 保证你了解你的应用的所有更新的工具应用。![SwiftIcon]
+- [Loading](https://github.com/BonzaiThePenguin/Loading) - OS X上的网络状态监控器。![ObjectiveCIcon]
+- [Overkill](https://github.com/KrauseFx/overkill-for-mac) - 在你连接iPhone到Mac时阻止iTunes打开。![SwiftIcon]
+- [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - 创建标准或自定义配置文件的macOS应用。![ObjectiveCIcon]
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth是OS X上一款展示当前被任何应用正在使用的文件和socket进程列表的应用。![ObjectiveCIcon]
+- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher是一款允许你启用或金庸Turbo Boost特性的Mac应用。![ObjectiveCIcon]
+- [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - 为Dock栏增加一个纵线的应用。![SwiftIcon]
 
 ### Terminal
 
-- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
-- [Console](https://github.com/macmade/Console) - macOS console application. ![SwiftIcon]
-- [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![JavascriptIcon] ![CSSIcon]
-- [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things. ![ObjectiveCIcon]
-- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![CIcon] ![PythonIcon]
-- [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. ![SwiftIcon]
+- [Alacritty](https://github.com/jwilm/alacritty) - 跨平台、GPU加速的终端模拟器。![RustIcon]
+- [Console](https://github.com/macmade/Console) - macOS上的console应用。![SwiftIcon]
+- [Hyper](https://github.com/zeit/hyper) -使用web技术构建的终端。![JavascriptIcon] ![CSSIcon]
+- [iTerm 2](https://github.com/gnachman/iTerm2) - macOS上的终端模拟器，可以做很多神奇的事情。![ObjectiveCIcon]
+- [Kitty](https://github.com/kovidgoyal/kitty) - 快速、多特性的跨平台的GPU终端模拟器。![CIcon] ![PythonIcon]
+- [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - 从Finder中打开一个终端窗口，并将工作目录切换到当前文件夹的macOS应用。![SwiftIcon]
 
 ### Utilities
 
