@@ -69,11 +69,11 @@
 - [其它](#other-1)
 - [播客](#podcast)
 - [生产效率](#productivity)
-- [截屏工具](#screensaver)
+- [屏幕保护程序](#screensaver)
 - [安全](#security)
 - [文件分享](#sharing-files)
 - [社交网络](#social-networking)
-- [流](#streaming)
+- [Streaming](#streaming)
 - [系统](#system)
 - [终端](#terminal)
 - [实用工具](#utilities)
@@ -463,7 +463,7 @@
 ### 屏幕保护程序
 
 - [Aerial](https://github.com/JohnCoates/Aerial) - macOS上的Apple TV Aerial Screensaver。![SwiftIcon]
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Mac电脑上辅助选择图片作为桌面壁纸或屏保的工具应用。![SwiftIcon]
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper) - Mac电脑上辅助选择图片作为桌面墙纸或屏保的工具应用。![SwiftIcon]
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver) - macOS上的屏幕保护程序。![ObjectiveCIcon]
 - [MusaicFM](https://github.com/docterd/MusaicFM) - 类似iTunes屏幕保护程序展示Spotify和Last.fm信息的应用。![ObjectiveCIcon]
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - macOS上的The GitHub Matrix Screensaver。![JavascriptIcon]
@@ -530,12 +530,12 @@
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - 像挂载磁盘一样挂载压归档文件。![SwiftIcon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - 使用Mac键盘提供的媒体按键控制web媒体播放器。![ObjectiveCIcon]
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 免费、开源且安全的密码管理器，支持Mac与其它平台。![JavascriptIcon]
-- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. ![SwiftIcon]
+- [Catch](https://github.com/mipstian/catch/) - Catch: 使Broadcatching变得更简单。![SwiftIcon]
 - [CornerCal](https://github.com/ekreutz/CornerCal) - macOS上简介的日历与时钟应用。![SwiftIcon]
 - [Crypter](https://github.com/HR/Crypter) - Crypter是一款创新的、便捷的、安全且开源的跨平台加密应用，简化了密码生成与管理，而你只需要记住MasterPass。![JavascriptIcon]
 - [ECheck](https://github.com/josejuanqm/ECheck) - macOS上验证epub文件的工具。![SwiftIcon]
-- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![ObjectiveCIcon] ![CIcon]
-- [Kap](https://github.com/wulkano/kap) - Open source screen recorder built with web technology. ![JavascriptIcon]
+- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - 半自动化iOS应用分析与运行的Cocoa应用。![ObjectiveCIcon] ![CIcon]
+- [Kap](https://github.com/wulkano/kap) - 使用web技术构建的开源屏幕录制工具。![JavascriptIcon]
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - 跨平台的由社区驱动的Windows应用“Keepass Password Safe”的移植。![CppIcon]
 - [KeeWeb](https://github.com/keeweb/keeweb) - 与KeePass兼容的免费跨平台密码管理器。![JavascriptIcon]
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar. ![SwiftIcon]
@@ -564,59 +564,59 @@
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - macOS上支持规则配置的代理应用。![SwiftIcon]
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick是OS X上一个免费、开源的拥有图形化界面的OpenVPN工具。![ObjectiveCIcon]
 
-### Video
+### 视频
 
-- [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. ![CppIcon]
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. ![ObjectiveCIcon]
-- [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS. ![SwiftICon]
-- [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. ![SwiftIcon]
-- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. ![ObjectiveCIcon]
-- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is an open source video transcoder available for Linux, Mac, and Windows. ![CIcon]
-- [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! ![JavascriptIcon]
-- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. ![ObjectiveCIcon]
-- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler is an macOS app created to mux and tag mp4 files. ![ObjectiveCIcon]
-- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. ![SwiftIcon]
-- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux. ![JavascriptIcon]
-- [Yoda](https://github.com/whoisandy/yoda) - Nifty osx application which enables you to browse and download videos from YouTube. ![JavascriptIcon]
+- [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - macOS上的Acid Cam v2，从视频创建艺术。![CppIcon]
+- [AppleEvents](https://github.com/insidegui/AppleEvents) - macOS上非官方的Apple Events应用。![ObjectiveCIcon]
+- [Datamosh](https://github.com/roecrew/Datamosh) - 在macOS上为你的视频做像素破损效果。![SwiftICon]
+- [Face Data](https://github.com/xiaohk/FaceData) - 从视频中自动提取脸部特征点的macOS应用。![SwiftIcon]
+- [Gifted](https://github.com/vdel26/gifted) - 简单快速把短视频转换为动画GIF。![ObjectiveCIcon]
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake是一款开源的视频转码应用，支持Linux、Mac、Windows。![CIcon]
+- [MenuTube](https://github.com/edanchenkov/MenuTube) - 在macOS菜单栏中使用YouTube的应用。![JavascriptIcon]
+- [QuickLook Video](https://github.com/Marginal/QLVideo) - 这个包使Finder可以为大部分格式的视频展示缩略图、QuickLook预览、封面和元数据。![ObjectiveCIcon]
+- [Subler](https://bitbucket.org/galad87/subler/overview) - Subler是一个为多路复用和标记mp4文件而生的macOS应用。![ObjectiveCIcon]
+- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - 在视频播放中插入测验并使用LISNR API将视频播放到接收设备上的macOS应用。![SwiftIcon]
+- [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - 播放torrent的应用，支持Mac、Windows与Linux。![JavascriptIcon]
+- [Yoda](https://github.com/whoisandy/yoda) - osx上允许你浏览和播放YouTube视频的精致应用。![JavascriptIcon]
 
-#### Player
+#### 播放器
 
-- [IINA](https://github.com/lhc70000/iina) - Modern video player for macOS. ![SwiftIcon]
-- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking. ![ObjectiveCIcon]
-- [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. ![HaskellIcon]
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. ![ObjectiveCIcon]
-- [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2. ![CIcon]
+- [IINA](https://github.com/lhc70000/iina) - macOS上的现代视频播放器。![SwiftIcon]
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - macOS上支持头部追踪的3D 180/360 PSVR视频播放器。![ObjectiveCIcon]
+- [Movie Monad](https://github.com/lettier/movie-monad) - 使用Haskell构建，基于GStreamer和GTK+的桌面视频播放器。![HaskellIcon]
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - macOS上的媒体播放器。![ObjectiveCIcon]
+- [mpv](https://github.com/mpv-player/mpv) - 基于MPlayer/mplayer2的视频播放器。![CIcon]
 
-#### Subtitles
+#### 字幕
 
-- [Caption](https://github.com/gielcobben/caption) - Caption takes the effort out of finding and setting up the right subtitles. ![JavascriptIcon]
-- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles.
-- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr is an open source OS X app used to find and download subtitles easily. ![SwiftIcon]
+- [Caption](https://github.com/gielcobben/caption) - Caption取代了查找和设置正确字幕的工作。![JavascriptIcon]
+- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - 下载字幕的macOS应用。
+- [Subtitlr](https://github.com/spilja/Subtitlr/tree/master) - Subtitlr是一款使你更容易查找和下载字幕的开源OS X应用。![SwiftIcon]
 
-### Wallpaper
+### 墙纸
 
-- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ![SwiftIcon]
-- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS X application for bringing dedicatedly 18th century Arts to everyone ![SwiftIcon]
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/artwork.rss). ![ObjectiveCIcon]
-- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. ![SwiftIcon]
-- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. ![CppIcon]
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit. ![JavascriptIcon]
-- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. ![PythonIcon]
-- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. ![SwiftIcon]
-- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead. ![ObjectiveCIcon]
-- [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. ![SwiftIcon]
-- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application that navigates through beautiful pictures on the web and set them up as your desktop image. ![RubyIcon]
+- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - 自动从500px.com下载图片至本地文件夹，并可设置为墙纸的macOS状态栏应用。![SwiftIcon]
+- [Artify](https://github.com/NghiaTranUIT/artify-macos) - 把18世纪的艺术带给所有人的macOS应用。![SwiftIcon]
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - 使用[artwork.rss](https://www.artstation.com/artwork.rss)把ArtStation设置为墙纸。![ObjectiveCIcon]
+- [BingPaper](https://github.com/pengsrc/BingPaper) - 在macOS上使用Bing每日图片作为墙纸。![SwiftIcon]
+- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win/Linux/macOS上管理和切换墙纸的工具。![CppIcon]
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - 从/r/EarthPorn/获取最新图片的macOS菜单栏应用。![JavascriptIcon]
+- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger是一个每天为你更换墙纸的程序。![PythonIcon]
+- [Muzei](https://github.com/naman14/Muzei-macOS) - macOS上的Muzei墙纸应用。![SwiftIcon]
+- [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - 自动将卫星拍摄的图片设置为桌面墙纸的macOS应用。![ObjectiveCIcon]
+- [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen是一个有趣的、轻量级的根据日出和日落切换桌面墙纸的应用。![SwiftIcon]
+- [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - 浏览网络上的漂亮图片并将其设置为你的桌面图片的macOS菜单栏应用。![RubyIcon]
 
-### Window Management
+### 窗口管理
 
-- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. ![SwiftIcon]
-- [AppGrid](https://github.com/sdegutis/AppGrid) - Grid-based keyboard window manager for macOS. ![ObjectiveCIcon]
-- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture. ![CppIcon]
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua. ![ObjectiveCIcon] ![LuaIcon]
-- [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. ![ObjectiveCIcon]
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. ![ObjectiveCIcon]
-- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).
-- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. ![ObjectiveCIcon]
+- [Amethyst](https://github.com/ianyh/Amethyst) - macOS上的自动为窗口进行瓷砖式布局的工具。![SwiftIcon]
+- [AppGrid](https://github.com/sdegutis/AppGrid) - macOS上基于Grid的窗口管理工具，支持Vim风格的热键。![ObjectiveCIcon]
+- [chunkwm](https://github.com/koekeishiya/chunkwm) - 使用插件架构的瓷砖式窗口布局管理器。![CppIcon]
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - 支持Lua脚本的异常强大的OS X桌面自动化工具。![ObjectiveCIcon] ![LuaIcon]
+- [Phoenix](https://github.com/kasper/phoenix) - 支持JavaScript脚本的轻量级macOS窗口与应用管理器。![ObjectiveCIcon]
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - 管理窗口尺寸与位置。![ObjectiveCIcon]
+- [Slate](https://github.com/jigish/slate) - 窗口管理工具（Divvy/SizeUp/ShiftIt的替代品）。
+- [Spectacle](https://github.com/eczarny/spectacle) - Spectacle允许你不使用鼠标就可以进行窗口管理。![ObjectiveCIcon]
 
 [AppStore]: ./icons/app_store-16.png "App Store."
 [CIcon]: ./icons/c-16.png "C 语言."
