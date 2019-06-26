@@ -2861,7 +2861,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/sindresorhus/gifski-app",
+            "repo_url": "https://github.com/sindresorhus/Gifski ",
             "title": "Gifski",
             "icon_url": "",
             "screenshots": [
@@ -5333,7 +5333,7 @@
             "categories": [
                 "system"
             ],
-            "repo_url": "https://github.com/erikberglund/ProfileCreator",
+            "repo_url": "https://github.com/ProfileCreator/ProfileCreator",
             "title": "ProfileCreator",
             "icon_url": "",
             "screenshots": [
@@ -6899,9 +6899,9 @@
             ],
             "repo_url": "https://github.com/pigigaldi/Pock",
             "title": "Pock",
-            "icon_url": "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_logo_b.png",
+            "icon_url": "https://camo.githubusercontent.com/bfb3abeb24e585e9121ce6440167ac2c9f06aeca/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f6272616e642f7765622d69636f6e2d626c61636b2e706e67",
             "screenshots": [
-                "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_preview.png"
+                "https://camo.githubusercontent.com/51a17fe9599c84dddda6aa5540e8cdbebedfce83/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f707265766965772f706f636b5f776964676574732e706e67"
             ],
             "official_site": "https://pock.pigigaldi.com",
             "languages": [
