@@ -513,7 +513,7 @@
             "title": "Helium",
             "icon_url": "",
             "screenshots": [
-                "http://heliumfloats.com/screenshot.png"
+                "https://heliumfloats.com/screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -6947,7 +6947,9 @@
             "official_site": "https://amiantos.net/lifesaver/",
             "title": "Life Saver",
             "screenshots": [
-                "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/lifesaver-screenshots.png"
+                "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/screensaver/lifesaver-screenshots-1.1.png",
+                "https://github.com/amiantos/lifesaver/blob/master/Design/tvos/tvos-ss-1.png",
+                "https://github.com/amiantos/lifesaver/blob/master/Design/tvos/tvos-ss-2.png"
             ],
             "short_description": "An abstract screensaver based on Conway's Game of Life implemented with SpriteKit",
             "languages": [
