@@ -6990,6 +6990,22 @@
           "categories" : [
             "productivity"
           ]
+        },
+        {
+            "short_description": "Rectangle is a window manager heavily based on Spectacle, written in Swift.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/rxhanson/Rectangle",
+            "title": "Rectangle",
+            "icon_url": "https://rectangleapp.com/images/appIconNoShadow512.png",
+            "screenshots": [
+                "https://rectangleapp.com/images/ScreenShot.png"
+            ],
+            "official_site": "https://rectangleapp.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
