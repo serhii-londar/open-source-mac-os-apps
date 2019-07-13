@@ -7006,6 +7006,17 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "repo_url" : "https://github.com/iina/iina",
+            "title" : "IINA",
+            "icon_url": "https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
+            "short_description" : "The modern video player for macOS.",
+            "languages" : [
+                "swift"
+            ],
+            "official_site": "https://iina.io",
+            "categories" : ["video"]
         }
     ]
 }
