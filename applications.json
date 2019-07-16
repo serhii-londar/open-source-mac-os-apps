@@ -6304,9 +6304,10 @@
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "icon_url": "",
+            "short_description" : "The modern video player for macOS.",
+            "icon_url": "https://github.com/iina/iina/raw/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://iina.io",
             "languages": [
                 "swift"
             ]
