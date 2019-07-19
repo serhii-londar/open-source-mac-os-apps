@@ -5802,6 +5802,22 @@
             ]
         },
         {
+            "short_description": "Mac Sound Re-Enabler. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dragstor/mac-sound-fix",
+            "title": "mac-sound-fix",
+            "icon_url": "",
+            "screenshots": [
+                "https://camo.githubusercontent.com/2ec00a08b476bb6b62b64b1813e0b608dd819d6d/68747470733a2f2f692e696d6775722e636f6d2f483338735073662e706e67"
+            ],
+            "official_site": "https://stojkovic.dev/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS native app/widget for aria2 download tool. ",
             "categories": [
                 "utilities"
