@@ -415,6 +415,21 @@
             ]
         },
         {
+            "short_description": "macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/mikebrady/shairport-sync",
+            "title": "shairport-sync",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c",
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Keep your application settings in sync (macOS/Linux). ",
             "categories": [
                 "backup"
