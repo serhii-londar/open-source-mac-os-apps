@@ -110,6 +110,7 @@ You can see in which language an app is written. Currently there are following l
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project.  ![cpp_icon] 
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.  ![objective_c_icon] 
 - [jmc](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.  ![swift_icon] 
+- [shairport-sync](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver. ![c_icon] ![cpp_icon] 
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.  ![swift_icon] 
 
 ### Backup
