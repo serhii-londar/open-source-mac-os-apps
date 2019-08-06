@@ -6925,6 +6925,30 @@
             ]
         },
         {
+            "short_description" : "List of useful Quick Look plugins for developers.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url" : "https://github.com/sindresorhus/quick-look-plugins",
+            "title" : "Quick Look plugins",
+            "icon_url": "",
+            "screenshots" : [
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookJSON.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookASE.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLVideo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c",
+                "c"
+            ]
+        },
+        {
             "short_description": "Display macOS Dock in Touch Bar.",
             "categories": [
                 "touch-bar"
