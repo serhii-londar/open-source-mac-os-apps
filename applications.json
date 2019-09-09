@@ -925,7 +925,6 @@
             "title": "Crypto Bar",
             "icon_url": "",
             "screenshots": [
-                "https://s3.amazonaws.com/cryptobar/newgif.gif"
             ],
             "official_site": "",
             "languages": [
@@ -1104,7 +1103,7 @@
             "title": "Gitee",
             "icon_url": "",
             "screenshots": [
-                "https://img.shields.io/github/release/nightonke/gitee.svg",
+                "https://img.shields.io/github/v/release/nightonke/gitee.svg",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
@@ -2361,23 +2360,6 @@
             "official_site": "",
             "languages": [
                 "javascript"
-            ]
-        },
-        {
-            "short_description": "macOS app to download Youtube videos. ",
-            "categories": [
-                "downloader"
-            ],
-            "repo_url": "https://github.com/onmyway133/YoutubeDownloader",
-            "title": "Youtube Downloader",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png",
-                "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
             ]
         },
         {
@@ -4372,7 +4354,7 @@
             ]
         },
         {
-            "repo_url": "https://github.com/CD1212/Doughnut",
+            "repo_url": "https://github.com/dyerc/Doughnut",
             "title": "Doughnut",
             "screenshots": [
                 "https://raw.githubusercontent.com/CD1212/Doughnut/master/screenshot.png"
@@ -5145,7 +5127,6 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today.png",
-                "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png",
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_appmenu.png",
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_notifications.png"
             ],
@@ -5909,7 +5890,7 @@
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/padlock/padlock",
+            "repo_url": "https://github.com/padloc/padloc",
             "title": "Padlock",
             "icon_url": "",
             "screenshots": [],
@@ -6623,9 +6604,9 @@
             "title": "Amethyst",
             "icon_url": "",
             "screenshots": [
-                "http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png",
-                "http://ianyh.com/amethyst/images/accessibility-window.png",
-                "http://ianyh.com/amethyst/images/windows.png"
+                "https://ianyh.com/amethyst/images/missioncontrol-shortcuts.png",
+                "https://ianyh.com/amethyst/images/accessibility-window.png",
+                "https://ianyh.com/amethyst/images/windows.png"
             ],
             "official_site": "",
             "languages": [
