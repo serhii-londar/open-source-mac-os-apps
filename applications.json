@@ -865,23 +865,6 @@
             ]
         },
         {
-            "short_description": "macOS app to safely generate cryptocurrency address. ",
-            "categories": [
-                "cryptocurrency"
-            ],
-            "repo_url": "https://github.com/onmyway133/AddressGenerator",
-            "title": "AddressGenerator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png",
-                "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "App for all the world’s currencies. ",
             "categories": [
                 "cryptocurrency"
@@ -6819,22 +6802,6 @@
             "official_site": "",
             "languages": [
                 "type_script"
-            ]
-        },
-        {
-            "short_description": "📱 Navigate to your app folders quickly.",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/onmyway133/Simulator",
-            "title": "Simulator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/Simulator/master/Screenshots/simulator.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
             ]
         },
         {
