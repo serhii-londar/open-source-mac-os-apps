@@ -448,6 +448,7 @@ You can see in which language an app is written. Currently there are following l
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.  ![objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.  ![swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.  ![swift_icon] 
+- [LibreOffice](https://github.com/LibreOffice) - A full suite of Microsoft Office-alternaive software.  ![javascript_icon] ![python_icon]  
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.  ![swift_icon] 
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.  ![swift_icon] 
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.  ![javascript_icon] 
