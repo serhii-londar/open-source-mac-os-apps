@@ -415,6 +415,21 @@
             ]
         },
         {
+            "short_description": "macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/mikebrady/shairport-sync",
+            "title": "shairport-sync",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c",
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Keep your application settings in sync (macOS/Linux). ",
             "categories": [
                 "backup"
@@ -513,7 +528,7 @@
             "title": "Helium",
             "icon_url": "",
             "screenshots": [
-                "http://heliumfloats.com/screenshot.png"
+                "https://heliumfloats.com/screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -562,7 +577,7 @@
             "title": "otter-browser",
             "icon_url": "",
             "screenshots": [
-                "https://otter-browser.org/screenshots/1.png"
+                "https://camo.githubusercontent.com/050724a64db6ea50c8dd28144b26942b76883752/68747470733a2f2f6f747465722d62726f777365722e6f72672f73637265656e73686f74732f312e706e67"
             ],
             "official_site": "",
             "languages": [
@@ -850,23 +865,6 @@
             ]
         },
         {
-            "short_description": "macOS app to safely generate cryptocurrency address. ",
-            "categories": [
-                "cryptocurrency"
-            ],
-            "repo_url": "https://github.com/onmyway133/AddressGenerator",
-            "title": "AddressGenerator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/demo.png",
-                "https://raw.githubusercontent.com/onmyway133/AddressGenerator/master/Screenshots/Artboard.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "App for all the world’s currencies. ",
             "categories": [
                 "cryptocurrency"
@@ -910,7 +908,6 @@
             "title": "Crypto Bar",
             "icon_url": "",
             "screenshots": [
-                "https://s3.amazonaws.com/cryptobar/newgif.gif"
             ],
             "official_site": "",
             "languages": [
@@ -1089,7 +1086,7 @@
             "title": "Gitee",
             "icon_url": "",
             "screenshots": [
-                "https://img.shields.io/github/release/nightonke/gitee.svg",
+                "https://img.shields.io/github/v/release/nightonke/gitee.svg",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/notification_1.png",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_pie_1.png",
                 "https://raw.githubusercontent.com/Nightonke/Gitee/master/Pictures/tab_profile.png",
@@ -2349,23 +2346,6 @@
             ]
         },
         {
-            "short_description": "macOS app to download Youtube videos. ",
-            "categories": [
-                "downloader"
-            ],
-            "repo_url": "https://github.com/onmyway133/YoutubeDownloader",
-            "title": "Youtube Downloader",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/screenshot1.png",
-                "https://raw.githubusercontent.com/onmyway133/YoutubeDownloader/master/Images/Icon.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. ",
             "categories": [
                 "downloader"
@@ -2861,7 +2841,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/sindresorhus/gifski-app",
+            "repo_url": "https://github.com/sindresorhus/Gifski ",
             "title": "Gifski",
             "icon_url": "",
             "screenshots": [
@@ -4357,7 +4337,7 @@
             ]
         },
         {
-            "repo_url": "https://github.com/CD1212/Doughnut",
+            "repo_url": "https://github.com/dyerc/Doughnut",
             "title": "Doughnut",
             "screenshots": [
                 "https://raw.githubusercontent.com/CD1212/Doughnut/master/screenshot.png"
@@ -4381,14 +4361,14 @@
             "title": "Ao",
             "icon_url": "",
             "screenshots": [
-                "https://klaussinani.github.io/ao/media/list-navigation.gif",
-                "https://klaussinani.github.io/ao/media/header.png",
-                "https://klaussinani.github.io/ao/media/sepia-theme.png",
-                "https://klaussinani.github.io/ao/media/black-theme.png",
-                "https://klaussinani.github.io/ao/media/dark-theme.png",
-                "https://klaussinani.github.io/ao/media/compact-mode.png",
-                "https://klaussinani.github.io/ao/media/custom-shortcut-keys.gif",
-                "https://klaussinani.github.io/ao/media/scalable-interface.gif"
+                "https://klaussinani.tech/ao/media/list-navigation.gif",
+                "https://klaussinani.tech/ao/media/header.png",
+                "https://klaussinani.tech/ao/media/sepia-theme.png",
+                "https://klaussinani.tech/ao/media/black-theme.png",
+                "https://klaussinani.tech/ao/media/dark-theme.png",
+                "https://klaussinani.tech/ao/media/compact-mode.png",
+                "https://klaussinani.tech/ao/media/custom-shortcut-keys.gif",
+                "https://klaussinani.tech/ao/media/scalable-interface.gif"
             ],
             "official_site": "",
             "languages": [
@@ -5130,7 +5110,6 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today.png",
-                "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_today_all.png",
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_appmenu.png",
                 "https://raw.githubusercontent.com/raphaelhanneken/apple-juice/master/screenshot_notifications.png"
             ],
@@ -5144,7 +5123,7 @@
             "categories": [
                 "system"
             ],
-            "repo_url": "https://github.com/fuyu/AppPolice",
+            "repo_url": "https://github.com/AppPolice/AppPolice",
             "title": "AppPolice",
             "icon_url": "",
             "screenshots": [
@@ -5333,7 +5312,7 @@
             "categories": [
                 "system"
             ],
-            "repo_url": "https://github.com/erikberglund/ProfileCreator",
+            "repo_url": "https://github.com/ProfileCreator/ProfileCreator",
             "title": "ProfileCreator",
             "icon_url": "",
             "screenshots": [
@@ -5802,6 +5781,22 @@
             ]
         },
         {
+            "short_description": "Mac Sound Re-Enabler. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dragstor/mac-sound-fix",
+            "title": "mac-sound-fix",
+            "icon_url": "",
+            "screenshots": [
+                "https://camo.githubusercontent.com/2ec00a08b476bb6b62b64b1813e0b608dd819d6d/68747470733a2f2f692e696d6775722e636f6d2f483338735073662e706e67"
+            ],
+            "official_site": "https://stojkovic.dev/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS native app/widget for aria2 download tool. ",
             "categories": [
                 "utilities"
@@ -5878,7 +5873,7 @@
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/padlock/padlock",
+            "repo_url": "https://github.com/padloc/padloc",
             "title": "Padlock",
             "icon_url": "",
             "screenshots": [],
@@ -6139,7 +6134,7 @@
             "categories": [
                 "video"
             ],
-            "repo_url": "https://github.com/roecrew/Datamosh",
+            "repo_url": "https://github.com/maelswarm/Datamosh",
             "title": "Datamosh",
             "icon_url": "",
             "screenshots": [
@@ -6304,9 +6299,10 @@
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "icon_url": "",
+            "short_description" : "The modern video player for macOS.",
+            "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://iina.io",
             "languages": [
                 "swift"
             ]
@@ -6591,9 +6587,9 @@
             "title": "Amethyst",
             "icon_url": "",
             "screenshots": [
-                "http://ianyh.com/amethyst/images/missioncontrol-shortcuts.png",
-                "http://ianyh.com/amethyst/images/accessibility-window.png",
-                "http://ianyh.com/amethyst/images/windows.png"
+                "https://ianyh.com/amethyst/images/missioncontrol-shortcuts.png",
+                "https://ianyh.com/amethyst/images/accessibility-window.png",
+                "https://ianyh.com/amethyst/images/windows.png"
             ],
             "official_site": "",
             "languages": [
@@ -6809,22 +6805,6 @@
             ]
         },
         {
-            "short_description": "📱 Navigate to your app folders quickly.",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/onmyway133/Simulator",
-            "title": "Simulator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/onmyway133/Simulator/master/Screenshots/simulator.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
             "categories": [
                 "database"
@@ -6893,15 +6873,39 @@
             ]
         },
         {
+            "short_description" : "List of useful Quick Look plugins for developers.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url" : "https://github.com/sindresorhus/quick-look-plugins",
+            "title" : "Quick Look plugins",
+            "icon_url": "",
+            "screenshots" : [
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookJSON.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookASE.png",
+                "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLVideo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c",
+                "c"
+            ]
+        },
+        {
             "short_description": "Display macOS Dock in Touch Bar.",
             "categories": [
                 "touch-bar"
             ],
             "repo_url": "https://github.com/pigigaldi/Pock",
             "title": "Pock",
-            "icon_url": "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_logo_b.png",
+            "icon_url": "https://camo.githubusercontent.com/bfb3abeb24e585e9121ce6440167ac2c9f06aeca/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f6272616e642f7765622d69636f6e2d626c61636b2e706e67",
             "screenshots": [
-                "https://raw.githubusercontent.com/pigigaldi/Pock/master/Resources/pock_preview.png"
+                "https://camo.githubusercontent.com/51a17fe9599c84dddda6aa5540e8cdbebedfce83/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f707265766965772f706f636b5f776964676574732e706e67"
             ],
             "official_site": "https://pock.pigigaldi.com",
             "languages": [
@@ -6947,7 +6951,9 @@
             "official_site": "https://amiantos.net/lifesaver/",
             "title": "Life Saver",
             "screenshots": [
-                "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/lifesaver-screenshots.png"
+                "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/screensaver/lifesaver-screenshots-1.1.png",
+                "https://github.com/amiantos/lifesaver/blob/master/Design/tvos/tvos-ss-1.png",
+                "https://github.com/amiantos/lifesaver/blob/master/Design/tvos/tvos-ss-2.png"
             ],
             "short_description": "An abstract screensaver based on Conway's Game of Life implemented with SpriteKit",
             "languages": [
@@ -6988,6 +6994,38 @@
           "categories" : [
             "productivity"
           ]
+        },
+        {
+            "short_description": "Rectangle is a window manager heavily based on Spectacle, written in Swift.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/rxhanson/Rectangle",
+            "title": "Rectangle",
+            "icon_url": "https://rectangleapp.com/images/appIconNoShadow512.png",
+            "screenshots": [
+                "https://rectangleapp.com/images/ScreenShot.png"
+            ],
+            "official_site": "https://rectangleapp.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Hide MacOS menubar items.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Mortennn/Dozer",
+            "title": "Dozer",
+            "icon_url": "https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/demo.gif"
+            ],
+            "official_site": "https://dozermac.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }

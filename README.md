@@ -110,6 +110,7 @@ You can see in which language an app is written. Currently there are following l
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project.  ![cpp_icon] 
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.  ![objective_c_icon] 
 - [jmc](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.  ![swift_icon] 
+- [shairport-sync](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver. ![c_icon] ![cpp_icon] 
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.  ![swift_icon] 
 
 ### Backup
@@ -147,7 +148,6 @@ You can see in which language an app is written. Currently there are following l
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire.  ![javascript_icon] 
 
 ### Cryptocurrency
-- [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - macOS app to safely generate cryptocurrency address.  ![swift_icon] 
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies.  ![swift_icon] 
 - [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.  ![swift_icon] 
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.  ![javascript_icon] 
@@ -240,7 +240,6 @@ You can see in which language an app is written. Currently there are following l
 - [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android.  ![javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
-- [Simulator](https://github.com/onmyway133/Simulator) - 📱 Navigate to your app folders quickly. ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.  ![swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.  ![swift_icon] 
@@ -256,7 +255,6 @@ You can see in which language an app is written. Currently there are following l
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.  ![javascript_icon] 
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C. ![objective_c_icon] ![swift_icon] 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.  ![swift_icon] 
-- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader) - macOS app to download Youtube videos.  ![swift_icon] 
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.  ![javascript_icon] 
 
 ### Editors
@@ -295,6 +293,7 @@ You can see in which language an app is written. Currently there are following l
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers. ![objective_c_icon] ![c_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.  ![cpp_icon] 
@@ -310,7 +309,7 @@ You can see in which language an app is written. Currently there are following l
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis.  ![swift_icon] 
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.  ![swift_icon] 
 - [Gifcurry](https://github.com/lettier/gifcurry) - Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming.  ![haskell_icon] 
-- [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs.  ![swift_icon] 
+- [Gifski](https://github.com/sindresorhus/Gifski ) - Convert videos to high-quality GIFs.  ![swift_icon] 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.  ![swift_icon] 
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code.  ![objective_c_icon] 
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.  ![cpp_icon] 
@@ -362,6 +361,7 @@ You can see in which language an app is written. Currently there are following l
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.  ![swift_icon] 
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.  ![swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.  ![javascript_icon] 
@@ -425,9 +425,16 @@ You can see in which language an app is written. Currently there are following l
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.  ![swift_icon] 
 - [syncthing-macosx](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.  ![objective_c_icon] 
 
+### Player
+- [IINA](https://github.com/iina/iina) - Modern video player for macOS.  ![swift_icon] 
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS.  ![objective_c_icon] 
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking.  ![objective_c_icon] 
+- [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+.  ![haskell_icon] 
+- [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.  ![c_icon] 
+
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.  ![javascript_icon] 
-- [Doughnut](https://github.com/CD1212/Doughnut) - Podcast player and library for mac ![swift_icon] 
+- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast player and library for mac ![swift_icon] 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
@@ -498,7 +505,7 @@ You can see in which language an app is written. Currently there are following l
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.  ![javascript_icon] 
 
 ### System
-- [AppPolice](https://github.com/fuyu/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.  ![objective_c_icon] 
+- [AppPolice](https://github.com/AppPolice/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.  ![objective_c_icon] 
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.  ![swift_icon] 
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...).  ![swift_icon] 
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.  ![swift_icon] 
@@ -511,7 +518,7 @@ You can see in which language an app is written. Currently there are following l
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.  ![swift_icon] 
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS.  ![objective_c_icon] 
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.  ![swift_icon] 
-- [ProfileCreator](https://github.com/erikberglund/ProfileCreator) - macOS Application to create standard or customized configuration profiles.  ![objective_c_icon] 
+- [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles.  ![objective_c_icon] 
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.  ![objective_c_icon] 
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.  ![objective_c_icon] 
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar) - macOS application to add a vertical bar to Dock.  ![swift_icon] 
@@ -563,7 +570,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction  ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon] 
-- [Padlock](https://github.com/padlock/padlock) - A minimal, open source password manager for macOS.  ![javascript_icon] 
+- [Padlock](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.  ![javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![javascript_icon] ![css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.  ![objective_c_icon] 
@@ -573,6 +580,7 @@ You can see in which language an app is written. Currently there are following l
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.  ![swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon] 
+- [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
 
@@ -588,7 +596,7 @@ You can see in which language an app is written. Currently there are following l
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.  ![cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.  ![objective_c_icon] 
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac. ![swift_icon] 
-- [Datamosh](https://github.com/roecrew/Datamosh) - Datamosh your videos on macOS.  ![swift_icon] 
+- [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.  ![swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.  ![swift_icon] 
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.  ![c_icon] 
@@ -620,6 +628,7 @@ You can see in which language an app is written. Currently there are following l
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS ![swift_icon] 
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. ![lua_icon] ![objective_c_icon] 
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript.  ![objective_c_icon] 
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift. ![swift_icon] 
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.  ![objective_c_icon] 
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 

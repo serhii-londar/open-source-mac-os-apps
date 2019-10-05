@@ -90,6 +90,10 @@
     "id": "other",
     "description": ""
 }, {
+    "title": "Player",
+    "id": "player",
+    "description": ""
+}, {
     "title": "Podcast",
     "id": "podcast",
     "description": ""
