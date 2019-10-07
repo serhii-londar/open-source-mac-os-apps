@@ -4449,6 +4449,21 @@
             ]
         },
         {
+            "short_description": "Cross-platform Text Expander, a powerful replacement for Alfred Snippets",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/federico-terzi/espanso",
+            "title": "espanso",
+            "screenshots": [
+                "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
+            ],
+            "official_site": "https://espanso.org",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "Record shortcuts in macOS, like Alfred.app. ",
             "categories": [
                 "productivity"
