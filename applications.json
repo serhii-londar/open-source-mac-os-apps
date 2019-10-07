@@ -1236,7 +1236,7 @@
         {
             "short_description": "macOS application to comfortably browse and search through your Messages.app history. ",
             "categories": [
-                "git"
+                "chat"
             ],
             "repo_url": "https://github.com/glaurent/MessagesHistoryBrowser",
             "title": "MessagesHistoryBrowser",
