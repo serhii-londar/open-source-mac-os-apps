@@ -7026,6 +7026,15 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "repo_url" : "https://github.com/jhspetersson/fselect",
+            "title" : "fselect",
+            "short_description" : "Command-line tool to search files with SQL syntax.",
+            "languages" : [
+                "Rust"
+            ],
+            "category" : "utilities"
         }
     ]
 }
