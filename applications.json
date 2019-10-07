@@ -1314,6 +1314,22 @@
             ]
         },
         {
+            "short_description": "Full feature terminal based sequence editor for interactive rebase.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/MitMaro/git-interactive-rebase-tool",
+            "title": "Git Interactive Rebase Tool",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif"
+            ],
+            "official_site": "https://gitrebasetool.mitmaro.ca/",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "Simple toolkit that makes your iOS / macOS apps development more easier. ",
             "categories": [
                 "ios--macos"
