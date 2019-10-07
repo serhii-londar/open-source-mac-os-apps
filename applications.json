@@ -7026,6 +7026,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/yonilevy/automute",
+            "title": "AutoMute",
+            "icon_url": "https://raw.githubusercontent.com/yonilevy/automute/master/automute/Assets.xcassets/AppIcon.appiconset/icon256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/31284/49688097-ac653900-fb15-11e8-9c48-3db96df5dcbf.png",
+                "https://user-images.githubusercontent.com/31284/49688098-ae2efc80-fb15-11e8-8034-14c67fb69d90.png"
+            ],
+            "official_site": "https://yoni.ninja/automute",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
