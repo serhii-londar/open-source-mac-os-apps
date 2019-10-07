@@ -2045,6 +2045,24 @@
             ]
         },
         {
+            "short_description": "HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP. ",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/httptoolkit/httptoolkit-desktop",
+            "title": "HTTP Toolkit",
+            "icon_url": "https://httptoolkit.tech/icon-600.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"                
+            ],
+            "official_site": "https://httptoolkit.tech",
+            "languages": [
+                "typescript"
+            ]
+        },        
+        {
             "short_description": "Insomnia is a cross-platform REST client, built on top of Electron. ",
             "categories": [
                 "web-development"
