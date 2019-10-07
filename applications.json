@@ -7042,6 +7042,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "repo_url": "https://github.com/ribtoks/xpiks",
+            "icon_url": "",
+            "official_site": "https://xpiksapp.com",
+            "title": "Xpiks",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ribtoks/xpiks/master/assets/xpiks-main-window.png"
+            ],
+            "short_description": "Xpiks is a keywording and uploading tool for microstock photographers, illustrators and videographers",
+            "languages": [
+                "cpp"
+            ],
+            "categories": [
+                "Productivity",
+                "Images",
+                "Video"
+            ]
         }
     ]
 }
