@@ -603,7 +603,7 @@
             "categories": [
                 "chat"
             ],
-            "repo_url": "https://github.com/jake-101/android-messenger-mac",
+            "repo_url": "https://github.com/larson-carter/android-messenger-mac",
             "title": "Android Messenger Mac",
             "icon_url": "",
             "screenshots": [
@@ -1257,7 +1257,7 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menu-bar.png",
-                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences-window.png"
+                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences.png"
             ],
             "official_site": "",
             "languages": [
