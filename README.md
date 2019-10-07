@@ -129,7 +129,7 @@ You can see in which language an app is written. Currently there are following l
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
 
 ### Chat
-- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
+- [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.  ![objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.  ![javascript_icon] 
 - [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more.  ![javascript_icon] 
@@ -168,6 +168,7 @@ You can see in which language an app is written. Currently there are following l
 #### Git
 - [Cashew](https://github.com/jensteichert/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
+- [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase. ![rust_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![type_script_icon] 
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.  ![swift_icon] 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.  ![objective_c_icon] 
