@@ -3379,6 +3379,25 @@
             ]
         },
         {
+            "short_description": "3D medical imaging reconstruction software",
+            "categories": [
+                "medical",
+                "images"
+            ],
+            "repo_url": "https://github.com/invesalius/invesalius3/",
+            "title": "InVesalius",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_1.png",
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_2.png",
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_3.png"
+            ],
+            "official_site": "http://www.cti.gov.br/invesalius/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Status bar Mac application to overcome time constrained WiFi networks. ",
             "categories": [
                 "menubar"
