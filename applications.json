@@ -5883,6 +5883,24 @@
             ]
         },
         {
+            "short_description": "Cross-platform password management solutions for individuals, teams, and business organizations. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/bitwarden/desktop",
+            "title": "Bitwarden",
+            "icon_url": "https://raw.githubusercontent.com/bitwarden/brand/master/icons/256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/desktop-macos-vault.png",
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png",
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/cli-macos.png"
+            ],
+            "official_site": "https://bitwarden.com/",
+            "languages": [
+                "type_script"
+            ]
+        },
+        {
             "short_description": "Receive native push notifications on macOS, Windows and Linux. ",
             "categories": [
                 "utilities"
