@@ -7099,6 +7099,22 @@
             ]
         },
         {
+            "short_description": "Extend pages with your own CSS and JS files.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/fphilipe/PageExtender.app",
+            "title": "PageExtender",
+            "icon_url": "https://raw.githubusercontent.com/fphilipe/PageExtender.app/master/Source/Host/Assets.xcassets/AppIcon.appiconset/256%402x.png",
+            "screenshots": [
+                "https://phili.pe/posts/introducing-page-extender-for-safari/app.png"
+            ],
+            "official_site": "https://github.com/fphilipe/PageExtender.app",
+            "languages": [
+                "swift",
+                "javascript"
+         },
+         {
             "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
             "categories": [
                 "audio"
