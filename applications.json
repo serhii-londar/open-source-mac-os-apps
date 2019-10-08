@@ -7028,13 +7028,18 @@
             ]
         },
         {
+            "short_description" : "Command-line tool to search files with SQL syntax.",
+            "categories" : [
+                "utilities"
+            ],
             "repo_url" : "https://github.com/jhspetersson/fselect",
             "title" : "fselect",
-            "short_description" : "Command-line tool to search files with SQL syntax.",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site" : "",
             "languages" : [
-                "Rust"
-            ],
-            "category" : "utilities"
+                "rust"
+            ]            
         }
     ]
 }
