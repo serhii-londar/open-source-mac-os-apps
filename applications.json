@@ -603,7 +603,7 @@
             "categories": [
                 "chat"
             ],
-            "repo_url": "https://github.com/jake-101/android-messenger-mac",
+            "repo_url": "https://github.com/larson-carter/android-messenger-mac",
             "title": "Android Messenger Mac",
             "icon_url": "",
             "screenshots": [
@@ -1236,7 +1236,7 @@
         {
             "short_description": "macOS application to comfortably browse and search through your Messages.app history. ",
             "categories": [
-                "git"
+                "chat"
             ],
             "repo_url": "https://github.com/glaurent/MessagesHistoryBrowser",
             "title": "MessagesHistoryBrowser",
@@ -1257,7 +1257,7 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menu-bar.png",
-                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences-window.png"
+                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences.png"
             ],
             "official_site": "",
             "languages": [
@@ -1311,6 +1311,22 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Full feature terminal based sequence editor for interactive rebase.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/MitMaro/git-interactive-rebase-tool",
+            "title": "Git Interactive Rebase Tool",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif"
+            ],
+            "official_site": "https://gitrebasetool.mitmaro.ca/",
+            "languages": [
+                "rust"
             ]
         },
         {
@@ -2044,6 +2060,24 @@
                 "objective_c"
             ]
         },
+        {
+            "short_description": "HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP. ",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/httptoolkit/httptoolkit-desktop",
+            "title": "HTTP Toolkit",
+            "icon_url": "https://httptoolkit.tech/icon-600.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"                
+            ],
+            "official_site": "https://httptoolkit.tech/mock/",
+            "languages": [
+                "typescript"
+            ]
+        },        
         {
             "short_description": "Insomnia is a cross-platform REST client, built on top of Electron. ",
             "categories": [
@@ -3376,6 +3410,25 @@
             "languages": [
                 "javascript",
                 "css"
+            ]
+        },
+        {
+            "short_description": "3D medical imaging reconstruction software",
+            "categories": [
+                "medical",
+                "images"
+            ],
+            "repo_url": "https://github.com/invesalius/invesalius3/",
+            "title": "InVesalius",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_1.png",
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_2.png",
+                "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_3.png"
+            ],
+            "official_site": "https://www.cti.gov.br/pt-br/invesalius",
+            "languages": [
+                "python"
             ]
         },
         {
@@ -5029,7 +5082,7 @@
             "categories": [
                 "social-networking"
             ],
-            "repo_url": "https://github.com/producthunt/producthunt-osx) - Official Product Hunt app for macO",
+            "repo_url": "https://github.com/producthunt/producthunt-osx",
             "title": "Product Hunt",
             "icon_url": "",
             "screenshots": [],
@@ -5880,6 +5933,24 @@
             "official_site": "",
             "languages": [
                 "javascript"
+            ]
+        },
+        {
+            "short_description": "Cross-platform password management solutions for individuals, teams, and business organizations. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/bitwarden/desktop",
+            "title": "Bitwarden",
+            "icon_url": "https://raw.githubusercontent.com/bitwarden/brand/master/icons/256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/desktop-macos-vault.png",
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png",
+                "https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/cli-macos.png"
+            ],
+            "official_site": "https://bitwarden.com/",
+            "languages": [
+                "type_script"
             ]
         },
         {
@@ -7042,6 +7113,50 @@
             "languages": [
                 "swift",
                 "javascript"
+         },
+         {
+            "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/yonilevy/automute",
+            "title": "AutoMute",
+            "icon_url": "https://raw.githubusercontent.com/yonilevy/automute/master/automute/Assets.xcassets/AppIcon.appiconset/icon256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/31284/49688097-ac653900-fb15-11e8-9c48-3db96df5dcbf.png",
+                "https://user-images.githubusercontent.com/31284/49688098-ae2efc80-fb15-11e8-8034-14c67fb69d90.png"
+            ],
+            "official_site": "https://yoni.ninja/automute",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
+            "short_description": "BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/ExistentialAudio/BlackHole",
+            "title": "BlackHole",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c"
+            ]
+        },
+        {
+            "short_description" : "Command-line tool to search files with SQL syntax.",
+            "categories" : [
+                "utilities"
+            ],
+            "repo_url" : "https://github.com/jhspetersson/fselect",
+            "title" : "fselect",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site" : "",
+            "languages" : [
+                "rust"
             ]
         }
     ]
