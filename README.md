@@ -270,6 +270,7 @@ You can see in which language an app is written. Currently there are following l
 - [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.  ![objective_c_icon] 
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.  ![javascript_icon] 
 - [Pine](https://github.com/lukakerr/Pine) - A modern MacOS markdown editor.  ![swift_icon] 
+- [Typora](https://typora.io/) - A wysiwyg markdown editor with myriads of output options.  ![swift_icon] 
 
 #### TeX
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.  ![javascript_icon] 
