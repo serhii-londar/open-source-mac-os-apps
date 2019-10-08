@@ -2073,7 +2073,7 @@
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"                
             ],
-            "official_site": "https://httptoolkit.tech/mock",
+            "official_site": "https://httptoolkit.tech/mock/",
             "languages": [
                 "typescript"
             ]
