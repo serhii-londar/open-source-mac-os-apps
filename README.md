@@ -93,7 +93,9 @@ You can see in which language an app is written. Currently there are following l
 ### Audio
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.  ![swift_icon] 
 - [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift_icon] 
+- [AutoMute](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep. ![objective_c_icon] 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.  ![cpp_icon] 
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. ![c_icon] 
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg  ![javascript_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.  ![objective_c_icon] 
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.  ![objective_c_icon] ![swift_icon] 
@@ -129,12 +131,13 @@ You can see in which language an app is written. Currently there are following l
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
 
 ### Chat
-- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
+- [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.  ![objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.  ![javascript_icon] 
 - [Franz](https://github.com/meetfranz/franz) - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more.  ![javascript_icon] 
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.  ![javascript_icon] 
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe App. ![javascript_icon] ![css_icon] 
+- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.  ![swift_icon] 
 - [Riot.im](https://github.com/vector-im/riot-web) - Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol.  ![javascript_icon] 
 - [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.  ![swift_icon] 
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app.  ![javascript_icon] 
@@ -168,6 +171,7 @@ You can see in which language an app is written. Currently there are following l
 #### Git
 - [Cashew](https://github.com/jensteichert/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
+- [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase. ![rust_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![type_script_icon] 
 - [GitSync](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.  ![swift_icon] 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.  ![objective_c_icon] 
@@ -176,7 +180,6 @@ You can see in which language an app is written. Currently there are following l
 - [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.  ![swift_icon] 
 - [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories.  ![swift_icon] 
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications.  ![swift_icon] 
-- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.  ![swift_icon] 
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.  ![javascript_icon] 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team.  ![swift_icon] 
 - [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.  ![swift_icon] 
@@ -195,6 +198,7 @@ You can see in which language an app is written. Currently there are following l
 #### Web Development
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.  ![objective_c_icon] 
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process.  ![swift_icon] 
+- [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![typescript_icon] 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.  ![javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.  ![swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch) - KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar. ![swift_icon] 
@@ -283,6 +287,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Extensions
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
+- [PageExtender](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files. ![swift_icon] ![javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.  ![javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.  ![swift_icon] 
 
@@ -330,6 +335,7 @@ You can see in which language an app is written. Currently there are following l
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes. ![swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![objective_c_icon] ![python_icon] 
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![type_script_icon] 
+- [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software ![python_icon] 
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar. ![javascript_icon] ![css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.  ![swift_icon] 
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots.  ![swift_icon] 
@@ -352,6 +358,9 @@ You can see in which language an app is written. Currently there are following l
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 - [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail.  ![swift_icon] 
+
+### Medical
+- [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software ![python_icon] 
 
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
@@ -464,6 +473,7 @@ You can see in which language an app is written. Currently there are following l
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.  ![javascript_icon] 
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
+- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.  ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
@@ -494,7 +504,7 @@ You can see in which language an app is written. Currently there are following l
 - [Goofy](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.  ![javascript_icon] 
 - [Leviathan](https://github.com/Swiftodon/Leviathan) - Leviathan is a iOS and macOS client application for the Mastodon social network.  ![swift_icon] 
 - [Messenger](https://github.com/rsms/fb-mac-messenger) - macOS app wrapping Facebook's Messenger for desktop.  ![objective_c_icon] 
-- [Product Hunt](https://github.com/producthunt/producthunt-osx) - Official Product Hunt app for macO) - share and discover your favorite new products and applications.  ![swift_icon] 
+- [Product Hunt](https://github.com/producthunt/producthunt-osx) - share and discover your favorite new products and applications.  ![swift_icon] 
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.  ![javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.  ![ruby_icon] 
@@ -548,6 +558,7 @@ You can see in which language an app is written. Currently there are following l
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images  ![swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 
+- [Bitwarden](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![type_script_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Secure password manager for mac and other platforms.  ![javascript_icon] 
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.  ![swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format. ![objective_c_icon] 
@@ -578,6 +589,7 @@ You can see in which language an app is written. Currently there are following l
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src ) - The Unarchiver is an Objective-C application for uncompressing archive files.  ![objective_c_icon] 
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.  ![swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
+- [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax. ![rust_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon] 
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
