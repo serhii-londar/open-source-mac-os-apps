@@ -473,6 +473,7 @@ You can see in which language an app is written. Currently there are following l
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.  ![javascript_icon] 
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
+- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.  ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
