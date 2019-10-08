@@ -7111,6 +7111,20 @@
             "languages" : [
                 "rust"
             ]            
+        },
+        {
+            "short_description": "Cross-platform development IDE",
+            "categories": [
+                "IDE"
+            ],
+            "repo_url": "https://https://github.com/livecode/livecode",
+            "title": "LiveCode",
+            "icon_url": "https://livecode.com/wp-content/uploads/2016/05/newdarklogo.png",
+            "screenshots": [],
+            "official_site": "https://livecode.org/",
+            "languages": [
+                "c"
+            ]
         }
     ]
 }
