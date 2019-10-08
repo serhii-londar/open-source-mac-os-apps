@@ -7079,6 +7079,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description" : "Command-line tool to search files with SQL syntax.",
+            "categories" : [
+                "utilities"
+            ],
+            "repo_url" : "https://github.com/jhspetersson/fselect",
+            "title" : "fselect",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site" : "",
+            "languages" : [
+                "rust"
+            ]            
         }
     ]
 }
