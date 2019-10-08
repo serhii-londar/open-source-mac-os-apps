@@ -7113,6 +7113,7 @@
             "languages": [
                 "swift",
                 "javascript"
+            ]
          },
          {
             "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
