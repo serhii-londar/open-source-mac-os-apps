@@ -7115,6 +7115,22 @@
             ]
         },
         {
+            "short_description": "Create beautiful musical scores with LilyPond",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/doches/lilypond-ui",
+            "title": "Lilypond UI",
+            "icon_url": "https://raw.githubusercontent.com/doches/lilypond-ui/develop/artwork/icons.iconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/doches/lilypond-ui/develop/docs/lilypond-ide.png"
+            ],
+            "official_site": "https://github.com/doches/lilypond-ui",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Extend pages with your own CSS and JS files.",
             "categories": [
                 "extensions"
