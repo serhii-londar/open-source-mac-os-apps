@@ -4458,6 +4458,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
             ],
+            "icon_url": "",
             "official_site": "https://espanso.org",
             "languages": [
                 "rust"
