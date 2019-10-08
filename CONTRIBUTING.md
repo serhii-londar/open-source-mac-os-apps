@@ -7,19 +7,24 @@ Please ensure your pull request adheres to the following guidelines:
 - Edit [applications.json](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/applications.json) instead of [README.md](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md).
 - Use the following format: 
 ```json
-     {
-      "repo_url" : "Link to repository",
-      "title" : "Name of application",
-      "screenshots" : [
-        "Screenshot url 1",
-        "Screenshot url 2"
-      ],
-      "short_description" : "Description of repository",
-      "languages" : [
-        "Language name"
-      ],
-      "category" : "Application category"
-    }
+    {
+            "short_description": "Description of repository",
+            "categories": [
+                "Application category 1",
+                "Application category 2"
+            ],
+            "repo_url": "Link to repository",
+            "title": "Name of application",
+            "icon_url": "URL to application icon",
+            "screenshots": [
+               "Screenshot url 1",
+               "Screenshot url 2"
+            ],
+            "official_site": "Official site link",
+            "languages": [
+                "Language name"
+            ]
+        }
 ```
 - New categories, or improvements to the existing categorization are welcome. List of all categories can be found in [categories.json](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/categories.json).
 - Keep descriptions short and simple, but descriptive.
