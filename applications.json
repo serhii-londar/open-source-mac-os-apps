@@ -7257,7 +7257,7 @@
         {
             "short_description": "A handy calculator with natural language parsing",
             "categories": [
-                "Utilities"
+                "utilities"
             ],
             "repo_url": "https://github.com/nikolaeu/Numi",
             "title": "Numi",
@@ -7265,7 +7265,7 @@
             "screenshots": [],
             "official_site": "https://numi.app",
             "languages": [
-                "Javascript"
+                "javascript"
             ]
         }
     ]
