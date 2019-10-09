@@ -900,6 +900,22 @@
             ]
         },
         {
+            "short_description": "A secure bitcoin wallet platform for both desktop and mobile devices. ",
+            "categories": [
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/bitpay/copay",
+            "title": "Copay",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitpay/copay/master/resources/copay/windows/icon/Wide310x150Logo.scale-100.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "type_script"
+            ]
+        },
+        {
             "short_description": "macOS menu bar application built with Electron. ",
             "categories": [
                 "cryptocurrency"
