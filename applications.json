@@ -3369,21 +3369,6 @@
             ]
         },
         {
-            "short_description": "Unofficial Google Inbox Desktop App.",
-            "categories": [
-                "mail"
-            ],
-            "repo_url": "https://github.com/denysdovhan/inboxer",
-            "title": "Inboxer",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "javascript",
-                "css"
-            ]
-        },
-        {
             "short_description": "Wrapper for Inbox by Gmail. ",
             "categories": [
                 "mail"
