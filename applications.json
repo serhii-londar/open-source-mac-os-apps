@@ -5635,20 +5635,6 @@
             ]
         },
         {
-            "short_description": "Mounts archives like disk images ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/ivoronin/ArchiveMounter",
-            "title": "Archive Mounter",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Control web based media players with the media keys found on Mac keyboards. ",
             "categories": [
                 "utilities"
