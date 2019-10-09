@@ -7191,6 +7191,20 @@
             "languages" : [
                 "rust"
             ]
+        },
+        {
+            "short_description": "Pomodoro Technique Timer for macOS with Touch Bar support.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/ivoronin/TomatoBar",
+            "title": "TomatoBar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
