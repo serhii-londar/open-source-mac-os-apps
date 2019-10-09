@@ -7253,6 +7253,20 @@
                 "Images",
                 "Video"
               ]
+        },
+        {
+            "short_description": "A handy calculator with natural language parsing",
+            "categories": [
+                "Utilities"
+            ],
+            "repo_url": "https://github.com/nikolaeu/Numi",
+            "title": "Numi",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://numi.app",
+            "languages": [
+                "Javascript"
+            ]
         }
     ]
 }
