@@ -7223,6 +7223,20 @@
             ]
         },
         {
+            "short_description": "Mounts archives like disk images.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ivoronin/ArchiveMounter",
+            "title": "ArchiveMounter",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "repo_url": "https://github.com/ribtoks/xpiks",
             "icon_url": "",
             "official_site": "https://xpiksapp.com",
