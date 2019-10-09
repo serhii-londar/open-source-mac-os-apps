@@ -5186,6 +5186,20 @@
             ]
         },
         {
+            "short_description": "Free and open source software for live streaming and screen recording. ",
+            "categories": [
+                "streaming"
+            ],
+            "repo_url": "https://github.com/obsproject/obs-studio",
+            "title": "OBS Studio",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://obsproject.com/",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Advanced battery gauge for macOS. ",
             "categories": [
                 "system"
