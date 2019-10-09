@@ -152,6 +152,7 @@ You can see in which language an app is written. Currently there are following l
 ### Cryptocurrency
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies.  ![swift_icon] 
 - [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.  ![swift_icon] 
+- [Copay](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![type_script_icon] 
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.  ![javascript_icon] 
 - [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges.  ![swift_icon] 
 
