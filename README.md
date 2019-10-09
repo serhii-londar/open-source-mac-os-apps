@@ -51,7 +51,7 @@ You can see in which language an app is written. Currently there are following l
 - [iOS / macOS](#ios--macos)
 - [JSON Parsing](#json-parsing)
 - [Web development](#web-development)
-- [Other](#other)
+- [Other development](#other-development)
 - [Downloader](#downloader)
 - [Editors](#editors)
 - [CSV](#csv)
@@ -71,7 +71,7 @@ You can see in which language an app is written. Currently there are following l
 - [Music](#music)
 - [News](#news)
 - [Notes](#notes)
-- [Other](#other-1)
+- [Other](#other)
 - [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Screensaver](#screensaver)
@@ -152,6 +152,7 @@ You can see in which language an app is written. Currently there are following l
 ### Cryptocurrency
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies.  ![swift_icon] 
 - [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.  ![swift_icon] 
+- [Copay](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![type_script_icon] 
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.  ![javascript_icon] 
 - [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges.  ![swift_icon] 
 
@@ -513,6 +514,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Streaming
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.  ![javascript_icon] 
+- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.  ![cpp_icon] 
 
 ### System
 - [AppPolice](https://github.com/AppPolice/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.  ![objective_c_icon] 
