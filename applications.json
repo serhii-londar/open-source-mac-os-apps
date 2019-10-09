@@ -900,6 +900,22 @@
             ]
         },
         {
+            "short_description": "A secure bitcoin wallet platform for both desktop and mobile devices. ",
+            "categories": [
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/bitpay/copay",
+            "title": "Copay",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitpay/copay/master/resources/copay/windows/icon/Wide310x150Logo.scale-100.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "type_script"
+            ]
+        },
+        {
             "short_description": "macOS menu bar application built with Electron. ",
             "categories": [
                 "cryptocurrency"
@@ -5170,6 +5186,20 @@
             ]
         },
         {
+            "short_description": "Free and open source software for live streaming and screen recording. ",
+            "categories": [
+                "streaming"
+            ],
+            "repo_url": "https://github.com/obsproject/obs-studio",
+            "title": "OBS Studio",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://obsproject.com/",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Advanced battery gauge for macOS. ",
             "categories": [
                 "system"
@@ -7205,6 +7235,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "repo_url": "https://github.com/ribtoks/xpiks",
+            "icon_url": "",
+            "official_site": "https://xpiksapp.com",
+            "title": "Xpiks",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ribtoks/xpiks/master/assets/xpiks-main-window.png"
+            ],
+            "short_description": "Xpiks is a keywording and uploading tool for microstock photographers, illustrators and videographers",
+            "languages": [
+                "cpp"
+            ],
+            "categories": [
+                "Productivity",
+                "Images",
+                "Video"
+              ]
         }
     ]
 }
