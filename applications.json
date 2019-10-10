@@ -615,6 +615,22 @@
             ]
         },
         {
+            "short_description": "Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/tigase/beagle-im",
+            "title": "Beagle IM",
+            "icon_url": "https://raw.githubusercontent.com/tigase/beagle-im/master/BeagleIM/Assets.xcassets/AppIcon.appiconset/IMG_0720_32.png",
+            "screenshots": [
+                "https://beagle.im/img/services/darkOrLight.png"
+            ],
+            "official_site": "https://beagle.im/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Native Mac app wrapper for WhatsApp Web. ",
             "categories": [
                 "chat"
