@@ -7187,13 +7187,13 @@
             "categories": [
                 "audio"
             ],
-            "repo_url": "https://kode54.net/cog/",
+            "repo_url": "https://bitbucket.org/losnoco/cog/src",
             "title": "Cog",
             "icon_url": "",
             "screenshots": [],
             "official_site": "http://cogx.org/",
             "languages": [
-                "Objective-C"
+                "objective_c"
             ]
         },
         {
