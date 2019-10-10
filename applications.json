@@ -48,6 +48,25 @@
                 "swift"
             ]
         },
+         {
+            "short_description": "Clementine is a modern music player and library organizer for Windows, Linux and macOS. ",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/clementine-player/Clementine",
+            "title": "Clementine",
+            "icon_url": "https://raw.githubusercontent.com/clementine-player/Clementine/master/dist/clementine_128.png",
+            "screenshots": [
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-1.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-2.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-3.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-4.png"
+            ],
+            "official_site": "http://www.clementine-player.org/",
+            "languages": [
+                "cpp"
+            ]
+        },
         {
             "short_description": "Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. ",
             "categories": [
