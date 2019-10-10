@@ -358,7 +358,6 @@ You can see in which language an app is written. Currently there are following l
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - Extensible mail client.  ![javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
-- [gInbox](https://github.com/chenasraf/gInbox) - Wrapper for Inbox by Gmail.  ![swift_icon] 
 
 ### Medical
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software ![python_icon] 
