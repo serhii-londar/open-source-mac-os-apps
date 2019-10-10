@@ -2106,13 +2106,13 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
-                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"                
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"
             ],
             "official_site": "https://httptoolkit.tech/mock/",
             "languages": [
                 "typescript"
             ]
-        },        
+        },
         {
             "short_description": "Insomnia is a cross-platform REST client, built on top of Electron. ",
             "categories": [
@@ -7216,14 +7216,14 @@
                  "productivity"
             ],
             "repo_url": "https://github.com/ivoronin/TomatoBar",
-            "title": "TomatoBar", 
+            "title": "TomatoBar",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
             ]
-        },         
+        },
         {
             "short_description": "Mounts archives like disk images.",
             "categories": [
@@ -7268,6 +7268,20 @@
             "official_site": "https://numi.app",
             "languages": [
                 "javascript"
+            ]
+        },
+        {
+            "short_description": "PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/powershell/powershell",
+            "title": "PowerShell",
+            "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
+            "screenshots": [],
+            "official_site": "https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
+            "languages": [
+                "c_sharp"
             ]
         }
     ]
