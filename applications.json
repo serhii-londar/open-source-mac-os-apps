@@ -3388,22 +3388,6 @@
             ]
         },
         {
-            "short_description": "Wrapper for Inbox by Gmail. ",
-            "categories": [
-                "mail"
-            ],
-            "repo_url": "https://github.com/chenasraf/gInbox",
-            "title": "gInbox",
-            "icon_url": "",
-            "screenshots": [
-                "http://i.imgur.com/ZxaChmj.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Extensible mail client. ",
             "categories": [
                 "mail"
