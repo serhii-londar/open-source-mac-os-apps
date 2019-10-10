@@ -7182,6 +7182,20 @@
                 "c"
             ]
         },
+              {
+            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://bitbucket.org/losnoco/cog/src",
+            "title": "Cog",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "http://cogx.org/",
+            "languages": [
+                "objective_c"
+            ]
+        },
         {
             "short_description" : "Command-line tool to search files with SQL syntax.",
             "categories" : [
