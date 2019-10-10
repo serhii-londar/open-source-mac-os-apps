@@ -70,6 +70,10 @@
     "id": "mail",
     "description": ""
 }, {
+    "title": "Medical",
+    "id": "medical",
+    "description": ""
+}, {
     "title": "Menubar",
     "id": "menubar",
     "description": ""
@@ -88,6 +92,10 @@
 }, {
     "title": "Other",
     "id": "other",
+    "description": ""
+}, {
+    "title": "Player",
+    "id": "player",
     "description": ""
 }, {
     "title": "Podcast",
@@ -126,12 +134,16 @@
     "id": "terminal",
     "description": ""
 }, {
+    "title": "Touch Bar",
+    "id": "touch-bar",
+    "description": ""
+}, {
     "title": "Utilities",
     "id": "utilities",
     "description": ""
 }, {
     "title": "VPN & Proxy",
-    "id": "vpn-proxy",
+    "id": "vpn--proxy",
     "description": ""
 }, {
     "title": "Video",
