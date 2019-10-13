@@ -6270,6 +6270,20 @@
             ]
         },
         {
+            "short_description": "Video conferencing server for H.323 terminals. ",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/willamowius/gnugk",
+            "title": "GNU Gatekeeper",
+            "icon_url": "https://avatars2.githubusercontent.com/u/6840544?s=460&v=4",
+            "screenshots": [],
+            "official_site": "https://www.gnugk.org",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Turn any short video into an animated GIF quickly and easily. ",
             "categories": [
                 "video"
