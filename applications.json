@@ -7299,6 +7299,25 @@
             "languages": [
                 "c_sharp"
             ]
+        },
+        {
+            "short_description": "Multi-platform transparent client-side encryption of your files in the cloud.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/cryptomator/cryptomator",
+            "title": "Cryptomator",
+            "icon_url": "https://cryptomator.org/resources/presskit/cryptomator-logo.png",
+            "screenshots": [
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-1.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-2.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-3.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-4.png"
+            ],
+            "official_site": "https://cryptomator.org/",
+            "languages": [
+                "java"
+            ]
         }
     ]
 }
