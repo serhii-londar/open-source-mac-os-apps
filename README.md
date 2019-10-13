@@ -492,6 +492,7 @@ You can see in which language an app is written. Currently there are following l
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.  ![javascript_icon] 
 
 ### Security
+- [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. ![java_icon] 
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.  ![objective_c_icon] 
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.  ![python_icon] 
 
@@ -616,6 +617,7 @@ You can see in which language an app is written. Currently there are following l
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac. ![swift_icon] 
 - [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.  ![swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.  ![swift_icon] 
+- [GNU Gatekeeper](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals.  ![cpp_icon] 
 - [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.  ![c_icon] 
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar!  ![javascript_icon] 
