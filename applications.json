@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "simple drag-and-drop, password-based file encryption.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/spieglt/cloaker",
+            "title": "Cloaker",
+            "icon_url": "https://raw.githubusercontent.com/spieglt/Cloaker/master/gui/cloaker/cloaker.ico",
+            "screenshots": [
+                "https://github.com/spieglt/Cloaker/blob/master/demo.gif"
+            ],
+            "official_site": "https://adequate.systems/",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "manage bluetooth connections with your keyboard.",
             "categories": [
                 "utilities"
