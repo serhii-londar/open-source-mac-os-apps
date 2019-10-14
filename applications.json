@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/spieglt/flyingcarpet",
+            "title": "Flying Carpet",
+            "icon_url": "https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/icons/Windows/fc.ico",
+            "screenshots": [
+                "https://github.com/spieglt/FlyingCarpet/blob/master/pictures/macDemo.png"
+            ],
+            "official_site": "https://adequate.systems/",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "manage bluetooth connections with your keyboard.",
             "categories": [
                 "utilities"
