@@ -7149,6 +7149,22 @@
             ]
         },
         {
+            "short_description": "Free, open source, cross-platform audio software",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/audacity/audacity",
+            "title": "Audacity",
+            "icon_url": "https://avatars3.githubusercontent.com/u/11648186?s=200&v=4",
+            "screenshots": [
+                "https://www.audacityteam.org/wp-content/uploads/2017/12/Audacity-220-Mac-normal.png"
+            ],
+            "official_site": "https://www.audacityteam.org/",
+            "languages": [
+                "c"
+            ]
+        },
+         {
             "short_description": "Create beautiful musical scores with LilyPond",
             "categories": [
                 "music"
