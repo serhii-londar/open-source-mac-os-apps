@@ -31,6 +31,22 @@
             ]
         },
         {
+            "short_description": "A CLI workflow for the administration of macOS applications distributed as binaries",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Homebrew/homebrew-cask",
+            "title": "homebrew-cask",
+            "icon_url": "https://brew.sh/assets/img/homebrew-256x256.png",
+            "screenshots": [
+                "https://camo.githubusercontent.com/e0232f054269f4da8df572c3dea4f08def189df3/68747470733a2f2f692e696d6775722e636f6d2f626a723855785a2e676966"
+            ],
+            "official_site": "https://brew.sh/",
+            "languages": [
+                "ruby"
+            ]
+        },
+        {
             "short_description": "Application which hosts AudioUnits v3 using AVFoundation API. ",
             "categories": [
                 "audio"
