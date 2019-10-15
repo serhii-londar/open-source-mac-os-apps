@@ -571,6 +571,7 @@ You can see in which language an app is written. Currently there are following l
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.  ![javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
+- [Flying Carpet](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux. ![go_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky) - Easily toggle the function key on your Mac on a per app basis. ![objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button  ![swift_icon] 
 - [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology.  ![javascript_icon] 
