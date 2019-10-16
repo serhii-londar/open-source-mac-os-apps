@@ -601,6 +601,7 @@ You can see in which language an app is written. Currently there are following l
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.  ![swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
 - [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax. ![rust_icon] 
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries ![ruby_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon] 
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
