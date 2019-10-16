@@ -17,6 +17,22 @@
             ]
         },
         {
+            "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/spieglt/flyingcarpet",
+            "title": "Flying Carpet",
+            "icon_url": "https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/icons/Windows/fc.ico",
+            "screenshots": [
+                "https://github.com/spieglt/FlyingCarpet/blob/master/pictures/macDemo.png"
+            ],
+            "official_site": "https://adequate.systems/",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "manage bluetooth connections with your keyboard.",
             "categories": [
                 "utilities"
@@ -44,6 +60,22 @@
             "official_site": "https://calibre-ebook.com",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "short_description": "A CLI workflow for the administration of macOS applications distributed as binaries",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Homebrew/homebrew-cask",
+            "title": "homebrew-cask",
+            "icon_url": "https://brew.sh/assets/img/homebrew-256x256.png",
+            "screenshots": [
+                "https://camo.githubusercontent.com/e0232f054269f4da8df572c3dea4f08def189df3/68747470733a2f2f692e696d6775722e636f6d2f626a723855785a2e676966"
+            ],
+            "official_site": "https://brew.sh/",
+            "languages": [
+                "ruby"
             ]
         },
         {
@@ -7165,6 +7197,22 @@
             ]
         },
         {
+            "short_description": "Free, open source, cross-platform audio software",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/audacity/audacity",
+            "title": "Audacity",
+            "icon_url": "https://avatars3.githubusercontent.com/u/11648186?s=200&v=4",
+            "screenshots": [
+                "https://www.audacityteam.org/wp-content/uploads/2017/12/Audacity-220-Mac-normal.png"
+            ],
+            "official_site": "https://www.audacityteam.org/",
+            "languages": [
+                "c"
+            ]
+        },
+         {
             "short_description": "Create beautiful musical scores with LilyPond",
             "categories": [
                 "music"
@@ -7297,9 +7345,9 @@
                 "cpp"
             ],
             "categories": [
-                "Productivity",
-                "Images",
-                "Video"
+                "productivity",
+                "images",
+                "video"
               ]
         },
         {
@@ -7347,6 +7395,26 @@
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Free to do list & time tracker for programmers & designers with Jira integration.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/johannesjo/super-productivity",
+            "title": "Super Productivity",
+            "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_daily-summary.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_worklog.png"
+            ],
+            "official_site": "http://super-productivity.com",
+            "languages": [
+                "typescript",
+                "javascript"
             ]
         }
     ]
