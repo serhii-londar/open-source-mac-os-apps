@@ -385,6 +385,7 @@ You can see in which language an app is written. Currently there are following l
 - [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.  ![swift_icon] 
 
 ### Music
+- [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software ![c_icon] 
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!  ![swift_icon] 
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.  ![coffee_script_icon] 
