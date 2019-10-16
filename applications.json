@@ -7380,6 +7380,26 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "Free to do list & time tracker for programmers & designers with Jira integration.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/johannesjo/super-productivity",
+            "title": "Super Productivity",
+            "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_daily-summary.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_worklog.png"
+            ],
+            "official_site": "http://super-productivity.com",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
         }
     ]
 }
