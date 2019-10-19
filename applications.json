@@ -6877,20 +6877,6 @@
             ]
         },
         {
-            "short_description": "Spectacle allows you to organize your windows without using a mouse. ",
-            "categories": [
-                "window-management"
-            ],
-            "repo_url": "https://github.com/eczarny/spectacle",
-            "title": "Spectacle",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Teach your kids the alphabet and how to type.",
             "categories": [
                 "other"
