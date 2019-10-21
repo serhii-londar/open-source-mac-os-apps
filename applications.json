@@ -3421,6 +3421,23 @@
             ]
         },
         {
+            "short_description": "A software attempt to address the \"double key press\" issue on Apple's butterfly keyboard ",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/aahung/Unshaky",
+            "title": "Unshaky",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/aahung/Unshaky/blob/master/README/menubar.png?raw=true",
+                "https://github.com/aahung/Unshaky/blob/master/README/how-unshaky-works.png?raw=true"
+            ],
+            "official_site": "https://unshaky.nestederror.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Menubar/taskbar Gmail App for Windows and macOS. ",
             "categories": [
                 "mail"
