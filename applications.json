@@ -1,6 +1,38 @@
 {
     "applications": [
         {
+            "short_description": "simple drag-and-drop, password-based file encryption.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/spieglt/cloaker",
+            "title": "Cloaker",
+            "icon_url": "https://raw.githubusercontent.com/spieglt/Cloaker/master/gui/cloaker/cloaker.ico",
+            "screenshots": [
+                "https://github.com/spieglt/Cloaker/blob/master/demo.gif"
+            ],
+            "official_site": "https://adequate.systems/",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/spieglt/flyingcarpet",
+            "title": "Flying Carpet",
+            "icon_url": "https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/icons/Windows/fc.ico",
+            "screenshots": [
+                "https://github.com/spieglt/FlyingCarpet/blob/master/pictures/macDemo.png"
+            ],
+            "official_site": "https://adequate.systems/",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "manage bluetooth connections with your keyboard.",
             "categories": [
                 "utilities"
@@ -31,6 +63,22 @@
             ]
         },
         {
+            "short_description": "A CLI workflow for the administration of macOS applications distributed as binaries",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Homebrew/homebrew-cask",
+            "title": "homebrew-cask",
+            "icon_url": "https://brew.sh/assets/img/homebrew-256x256.png",
+            "screenshots": [
+                "https://camo.githubusercontent.com/e0232f054269f4da8df572c3dea4f08def189df3/68747470733a2f2f692e696d6775722e636f6d2f626a723855785a2e676966"
+            ],
+            "official_site": "https://brew.sh/",
+            "languages": [
+                "ruby"
+            ]
+        },
+        {
             "short_description": "Application which hosts AudioUnits v3 using AVFoundation API. ",
             "categories": [
                 "audio"
@@ -46,6 +94,25 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+         {
+            "short_description": "Clementine is a modern music player and library organizer for Windows, Linux and macOS. ",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/clementine-player/Clementine",
+            "title": "Clementine",
+            "icon_url": "https://raw.githubusercontent.com/clementine-player/Clementine/master/dist/clementine_128.png",
+            "screenshots": [
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-1.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-2.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-3.png",
+                "https://clementine-player.github.io/pages/images/screenshots/clementine-1.2-4.png"
+            ],
+            "official_site": "https://www.clementine-player.org/",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -496,7 +563,7 @@
             "categories": [
                 "browser"
             ],
-            "repo_url": "https://github.com/brave/browser-laptop",
+            "repo_url": "https://github.com/brave/brave-browser",
             "title": "Brave Browser",
             "icon_url": "",
             "screenshots": [],
@@ -612,6 +679,22 @@
             "official_site": "",
             "languages": [
                 "javascript"
+            ]
+        },
+        {
+            "short_description": "Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/tigase/beagle-im",
+            "title": "Beagle IM",
+            "icon_url": "https://raw.githubusercontent.com/tigase/beagle-im/master/BeagleIM/Assets.xcassets/AppIcon.appiconset/IMG_0720_32.png",
+            "screenshots": [
+                "https://beagle.im/img/services/darkOrLight.png"
+            ],
+            "official_site": "https://beagle.im/",
+            "languages": [
+                "swift"
             ]
         },
         {
@@ -897,6 +980,22 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "A secure bitcoin wallet platform for both desktop and mobile devices. ",
+            "categories": [
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/bitpay/copay",
+            "title": "Copay",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitpay/copay/master/resources/copay/windows/icon/Wide310x150Logo.scale-100.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "type_script"
             ]
         },
         {
@@ -2071,13 +2170,13 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
-                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"                
+                "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"
             ],
             "official_site": "https://httptoolkit.tech/mock/",
             "languages": [
                 "typescript"
             ]
-        },        
+        },
         {
             "short_description": "Insomnia is a cross-platform REST client, built on top of Electron. ",
             "categories": [
@@ -3322,6 +3421,23 @@
             ]
         },
         {
+            "short_description": "A software attempt to address the \"double key press\" issue on Apple's butterfly keyboard ",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/aahung/Unshaky",
+            "title": "Unshaky",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/aahung/Unshaky/blob/master/README/menubar.png",
+                "https://github.com/aahung/Unshaky/blob/master/README/how-unshaky-works.png"
+            ],
+            "official_site": "https://unshaky.nestederror.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Menubar/taskbar Gmail App for Windows and macOS. ",
             "categories": [
                 "mail"
@@ -3350,37 +3466,6 @@
             "languages": [
                 "cpp",
                 "objective_c"
-            ]
-        },
-        {
-            "short_description": "Unofficial Google Inbox Desktop App.",
-            "categories": [
-                "mail"
-            ],
-            "repo_url": "https://github.com/denysdovhan/inboxer",
-            "title": "Inboxer",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "javascript",
-                "css"
-            ]
-        },
-        {
-            "short_description": "Wrapper for Inbox by Gmail. ",
-            "categories": [
-                "mail"
-            ],
-            "repo_url": "https://github.com/chenasraf/gInbox",
-            "title": "gInbox",
-            "icon_url": "",
-            "screenshots": [
-                "http://i.imgur.com/ZxaChmj.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
             ]
         },
         {
@@ -4502,6 +4587,22 @@
             ]
         },
         {
+            "short_description": "Cross-platform Text Expander, a powerful replacement for Alfred Snippets",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/federico-terzi/espanso",
+            "title": "espanso",
+            "screenshots": [
+                "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
+            ],
+            "icon_url": "",
+            "official_site": "https://espanso.org",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "Record shortcuts in macOS, like Alfred.app. ",
             "categories": [
                 "productivity"
@@ -5082,7 +5183,7 @@
             "categories": [
                 "social-networking"
             ],
-            "repo_url": "https://github.com/producthunt/producthunt-osx) - Official Product Hunt app for macOS”,
+            "repo_url": "https://github.com/producthunt/producthunt-osx",
             "title": "Product Hunt",
             "icon_url": "",
             "screenshots": [],
@@ -5151,6 +5252,20 @@
             "official_site": "",
             "languages": [
                 "javascript"
+            ]
+        },
+        {
+            "short_description": "Free and open source software for live streaming and screen recording. ",
+            "categories": [
+                "streaming"
+            ],
+            "repo_url": "https://github.com/obsproject/obs-studio",
+            "title": "OBS Studio",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://obsproject.com/",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -5583,20 +5698,6 @@
                 "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/scriptsfolder.gif",
                 "https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/dualscreenshot.gif"
             ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "short_description": "Mounts archives like disk images ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/ivoronin/ArchiveMounter",
-            "title": "Archive Mounter",
-            "icon_url": "",
-            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6231,6 +6332,20 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Video conferencing server for H.323 terminals. ",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/willamowius/gnugk",
+            "title": "GNU Gatekeeper",
+            "icon_url": "https://avatars2.githubusercontent.com/u/6840544?s=460&v=4",
+            "screenshots": [],
+            "official_site": "https://www.gnugk.org",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -7099,6 +7214,100 @@
             ]
         },
         {
+            "short_description": "Free, open source, cross-platform audio software",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/audacity/audacity",
+            "title": "Audacity",
+            "icon_url": "https://avatars3.githubusercontent.com/u/11648186?s=200&v=4",
+            "screenshots": [
+                "https://www.audacityteam.org/wp-content/uploads/2017/12/Audacity-220-Mac-normal.png"
+            ],
+            "official_site": "https://www.audacityteam.org/",
+            "languages": [
+                "c"
+            ]
+        },
+         {
+            "short_description": "Create beautiful musical scores with LilyPond",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "",
+            "title": "Lilypond UI",
+            "icon_url": "https://raw.githubusercontent.com/doches/lilypond-ui/develop/artwork/icons.iconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/doches/lilypond-ui/develop/docs/lilypond-ide.png"
+            ],
+            "official_site": "https://github.com/doches/lilypond-ui",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Extend pages with your own CSS and JS files.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/fphilipe/PageExtender.app",
+            "title": "PageExtender",
+            "icon_url": "https://raw.githubusercontent.com/fphilipe/PageExtender.app/master/Source/Host/Assets.xcassets/AppIcon.appiconset/256%402x.png",
+            "screenshots": [
+                "https://phili.pe/posts/introducing-page-extender-for-safari/app.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+         },
+         {
+            "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/yonilevy/automute",
+            "title": "AutoMute",
+            "icon_url": "https://raw.githubusercontent.com/yonilevy/automute/master/automute/Assets.xcassets/AppIcon.appiconset/icon256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/31284/49688097-ac653900-fb15-11e8-9c48-3db96df5dcbf.png",
+                "https://user-images.githubusercontent.com/31284/49688098-ae2efc80-fb15-11e8-8034-14c67fb69d90.png"
+            ],
+            "official_site": "https://yoni.ninja/automute/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
+            "short_description": "BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/ExistentialAudio/BlackHole",
+            "title": "BlackHole",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c"
+            ]
+        },
+              {
+            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://bitbucket.org/losnoco/cog/src",
+            "title": "Cog",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "http://cogx.org/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description" : "Command-line tool to search files with SQL syntax.",
             "categories" : [
                 "utilities"
@@ -7115,7 +7324,7 @@
         {
             "short_description": "Cross-platform development IDE",
             "categories": [
-                "IDE"
+                "ide"
             ],
             "repo_url": "https://https://github.com/livecode/livecode",
             "title": "LiveCode",
@@ -7124,6 +7333,119 @@
             "official_site": "https://livecode.org/",
             "languages": [
                 "c"
+            ]
+        },
+        {
+            "short_description": "Pomodoro Technique Timer for macOS with Touch Bar support.",
+            "categories": [
+                 "productivity"
+            ],
+            "repo_url": "https://github.com/ivoronin/TomatoBar",
+            "title": "TomatoBar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Mounts archives like disk images.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ivoronin/ArchiveMounter",
+            "title": "ArchiveMounter",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "repo_url": "https://github.com/ribtoks/xpiks",
+            "icon_url": "",
+            "official_site": "https://xpiksapp.com",
+            "title": "Xpiks",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ribtoks/xpiks/master/assets/xpiks-main-window.png"
+            ],
+            "short_description": "Xpiks is a keywording and uploading tool for microstock photographers, illustrators and videographers",
+            "languages": [
+                "cpp"
+            ],
+            "categories": [
+                "productivity",
+                "images",
+                "video"
+              ]
+        },
+        {
+            "short_description": "A handy calculator with natural language parsing",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nikolaeu/Numi",
+            "title": "Numi",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://numi.app",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/powershell/powershell",
+            "title": "PowerShell",
+            "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
+            "screenshots": [],
+            "official_site": "https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
+            "languages": [
+                "c_sharp"
+            ]
+        },
+        {
+            "short_description": "Multi-platform transparent client-side encryption of your files in the cloud.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/cryptomator/cryptomator",
+            "title": "Cryptomator",
+            "icon_url": "https://cryptomator.org/resources/presskit/cryptomator-logo.png",
+            "screenshots": [
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-1.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-2.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-3.png",
+                "https://cryptomator.org/resources/presskit/en/mac-screenshot-4.png"
+            ],
+            "official_site": "https://cryptomator.org/",
+            "languages": [
+                "java"
+            ]
+        },
+        {
+            "short_description": "Free to do list & time tracker for programmers & designers with Jira integration.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/johannesjo/super-productivity",
+            "title": "Super Productivity",
+            "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_daily-summary.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_worklog.png"
+            ],
+            "official_site": "https://super-productivity.com",
+            "languages": [
+                "typescript",
+                "javascript"
             ]
         }
     ]
