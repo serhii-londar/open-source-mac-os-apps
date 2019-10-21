@@ -354,6 +354,7 @@ You can see in which language an app is written. Currently there are following l
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ![objective_c_icon] 
 - [Kawa](https://github.com/utatti/kawa) - Better input source switcher for macOS.  ![swift_icon] 
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.  ![swift_icon] 
+- [Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard  ![swift_icon] 
 
 ### Mail
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.  ![javascript_icon] 
