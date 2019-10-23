@@ -7461,7 +7461,20 @@
             "languages": [
                 "c"
             ]
+        },
+{
+            "short_description": "modern video player for macOS",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/iina/iina",
+            "title": "IINA",
+            "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
+            "screenshots": [],
+            "official_site": "https://iina.io/",
+            "languages": [
+                "c"
+            ]
         }
-
     ]
 }
