@@ -1,6 +1,5 @@
 {
-    "applications": [
-        {
+    "applications": [{
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
@@ -96,7 +95,7 @@
                 "swift"
             ]
         },
-         {
+        {
             "short_description": "Clementine is a modern music player and library organizer for Windows, Linux and macOS. ",
             "categories": [
                 "audio"
@@ -238,8 +237,7 @@
             "repo_url": "https://github.com/alberti42/iTunes-Volume-Control",
             "title": "iTunes-Volume-Control",
             "icon_url": "",
-            "screenshots": [ "https://camo.githubusercontent.com/0e72c553e7a1078295948921350e923e03f9a8f4/68747470733a2f2f7261772e6769746875622e636f6d2f616c626572746934322f6954756e65732d566f6c756d652d436f6e74726f6c2f6d61737465722f6954756e6573253230566f6c756d65253230436f6e74726f6c2f496d616765732f73637265656e73686f742e706e67"
-            ],
+            "screenshots": ["https://camo.githubusercontent.com/0e72c553e7a1078295948921350e923e03f9a8f4/68747470733a2f2f7261772e6769746875622e636f6d2f616c626572746934322f6954756e65732d566f6c756d652d436f6e74726f6c2f6d61737465722f6954756e6573253230566f6c756d65253230436f6e74726f6c2f496d616765732f73637265656e73686f742e706e67"],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -281,19 +279,19 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/macOSLucidaGrande",
-            "official_site" : "https://github.com/LumingYin/macOSLucidaGrande/releases",
-            "title" : "macOSLucidaGrande",
+            "repo_url": "https://github.com/LumingYin/macOSLucidaGrande",
+            "official_site": "https://github.com/LumingYin/macOSLucidaGrande/releases",
+            "title": "macOSLucidaGrande",
             "icon_url": "",
-            "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
+            "screenshots": [
+                "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
             ],
-            "short_description" : "A small utility to set Lucida Grande as your Mac's system UI font.",
-            "languages" : [
-              "objective_c"
+            "short_description": "A small utility to set Lucida Grande as your Mac's system UI font.",
+            "languages": [
+                "objective_c"
             ],
-            "categories" : [
-              "system"
+            "categories": [
+                "system"
             ]
         },
         {
@@ -730,19 +728,19 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/StickyNotes",
-            "official_site" : "https://github.com/LumingYin/StickyNotes/releases",
-            "title" : "StickyNotes",
+            "repo_url": "https://github.com/LumingYin/StickyNotes",
+            "official_site": "https://github.com/LumingYin/StickyNotes/releases",
+            "title": "StickyNotes",
             "icon_url": "",
-            "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
+            "screenshots": [
+                "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
             ],
-            "short_description" : "A Windows 10-esque Sticky Notes app implemented in AppKit.",
-            "languages" : [
-              "swift"
+            "short_description": "A Windows 10-esque Sticky Notes app implemented in AppKit.",
+            "languages": [
+                "swift"
             ],
-            "categories" : [
-              "productivity"
+            "categories": [
+                "productivity"
             ]
         },
         {
@@ -1006,8 +1004,7 @@
             "repo_url": "https://github.com/geraldoramos/crypto-bar",
             "title": "Crypto Bar",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -3098,7 +3095,7 @@
             ]
         },
         {
-            "short_description": "Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon]",
+            "short_description": "Oni is a modern take on modal editing code editor focused on developer productivity. ",
             "categories": [
                 "ide"
             ],
@@ -4738,7 +4735,7 @@
             ]
         },
         {
-            "short_description": "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![javascript_icon]",
+            "short_description": "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ",
             "categories": [
                 "productivity"
             ],
@@ -6485,7 +6482,7 @@
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "short_description" : "The modern video player for macOS.",
+            "short_description": "The modern video player for macOS.",
             "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
             "screenshots": [],
             "official_site": "https://iina.io",
@@ -7024,19 +7021,19 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/ClipboardClear",
-            "official_site" : "https://apps.apple.com/app/clear-clipboard-text-format/id1322855232",
-            "title" : "Clear Clipboard Text Format",
+            "repo_url": "https://github.com/LumingYin/ClipboardClear",
+            "official_site": "https://apps.apple.com/app/clear-clipboard-text-format/id1322855232",
+            "title": "Clear Clipboard Text Format",
             "icon_url": "",
-            "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
+            "screenshots": [
+                "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
             ],
-            "short_description" : "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
-            "languages" : [
-              "objective_c"
+            "short_description": "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
+            "languages": [
+                "objective_c"
             ],
-            "categories" : [
-              "utilities"
+            "categories": [
+                "utilities"
             ]
         },
         {
@@ -7059,14 +7056,14 @@
             ]
         },
         {
-            "short_description" : "List of useful Quick Look plugins for developers.",
+            "short_description": "List of useful Quick Look plugins for developers.",
             "categories": [
                 "finder"
             ],
-            "repo_url" : "https://github.com/sindresorhus/quick-look-plugins",
-            "title" : "Quick Look plugins",
+            "repo_url": "https://github.com/sindresorhus/quick-look-plugins",
+            "title": "Quick Look plugins",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png",
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png",
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png",
@@ -7166,20 +7163,20 @@
             ]
         },
         {
-          "repo_url" : "https://github.com/LumingYin/SpeedReader",
-          "official_site" : "https://apps.apple.com/app/speed-reader/id1258448209",
-          "title" : "Speed Reader",
-          "icon_url": "",
-          "screenshots" : [
-            "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif"
-          ],
-          "short_description" : "Read faster with the power of silencing vocalization with SpeedReader.",
-          "languages" : [
-            "swift"
-          ],
-          "categories" : [
-            "productivity"
-          ]
+            "repo_url": "https://github.com/LumingYin/SpeedReader",
+            "official_site": "https://apps.apple.com/app/speed-reader/id1258448209",
+            "title": "Speed Reader",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif"
+            ],
+            "short_description": "Read faster with the power of silencing vocalization with SpeedReader.",
+            "languages": [
+                "swift"
+            ],
+            "categories": [
+                "productivity"
+            ]
         },
         {
             "short_description": "Rectangle is a window manager heavily based on Spectacle, written in Swift.",
@@ -7229,7 +7226,7 @@
                 "c"
             ]
         },
-         {
+        {
             "short_description": "Create beautiful musical scores with LilyPond",
             "categories": [
                 "music"
@@ -7261,8 +7258,8 @@
                 "swift",
                 "javascript"
             ]
-         },
-         {
+        },
+        {
             "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
             "categories": [
                 "audio"
@@ -7293,7 +7290,7 @@
                 "c"
             ]
         },
-              {
+        {
             "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
             "categories": [
                 "audio"
@@ -7308,18 +7305,18 @@
             ]
         },
         {
-            "short_description" : "Command-line tool to search files with SQL syntax.",
-            "categories" : [
+            "short_description": "Command-line tool to search files with SQL syntax.",
+            "categories": [
                 "utilities"
             ],
-            "repo_url" : "https://github.com/jhspetersson/fselect",
-            "title" : "fselect",
+            "repo_url": "https://github.com/jhspetersson/fselect",
+            "title": "fselect",
             "icon_url": "",
             "screenshots": [],
-            "official_site" : "",
-            "languages" : [
+            "official_site": "",
+            "languages": [
                 "rust"
-            ]            
+            ]
         },
         {
             "short_description": "Cross-platform development IDE",
@@ -7338,7 +7335,7 @@
         {
             "short_description": "Pomodoro Technique Timer for macOS with Touch Bar support.",
             "categories": [
-                 "productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/ivoronin/TomatoBar",
             "title": "TomatoBar",
@@ -7379,7 +7376,7 @@
                 "productivity",
                 "images",
                 "video"
-              ]
+            ]
         },
         {
             "short_description": "A handy calculator with natural language parsing",
