@@ -666,22 +666,6 @@
             ]
         },
         {
-            "short_description": " Mac app wrapper around Google's stand-alone Android Messenger. ",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/larson-carter/android-messenger-mac",
-            "title": "Android Messenger Mac",
-            "icon_url": "",
-            "screenshots": [
-                "https://i.imgur.com/GQiLntX.jpg"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.",
             "categories": [
                 "chat"
