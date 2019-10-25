@@ -3098,7 +3098,7 @@
             ]
         },
         {
-            "short_description": "Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon]",
+            "short_description": "Oni is a modern take on modal editing code editor focused on developer productivity. ",
             "categories": [
                 "ide"
             ],
@@ -4738,7 +4738,7 @@
             ]
         },
         {
-            "short_description": "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![javascript_icon]",
+            "short_description": "Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ",
             "categories": [
                 "productivity"
             ],
@@ -7319,7 +7319,7 @@
             "official_site" : "",
             "languages" : [
                 "rust"
-            ]            
+            ]
         },
         {
             "short_description": "Cross-platform development IDE",
