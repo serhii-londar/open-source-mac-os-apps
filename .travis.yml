@@ -1,8 +1,6 @@
 sudo: required
 language: swift
-osx_image: xcode10
-rvm:
-  - 2.4.1
+osx_image: xcode11
 before_script:
   - gem install awesome_bot
   - gem install bundler
