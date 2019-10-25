@@ -441,7 +441,7 @@ You can see in which language an app is written. Currently there are following l
 - [syncthing-macosx](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.  ![objective_c_icon] 
 
 ### Player
-- [IINA](https://github.com/iina/iina) - Modern video player for macOS.  ![swift_icon] 
+- [IINA](https://github.com/iina/iina) - The modern video player for macOS.  ![swift_icon] 
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS.  ![objective_c_icon] 
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking.  ![objective_c_icon] 
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+.  ![haskell_icon] 
