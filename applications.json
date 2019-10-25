@@ -6479,13 +6479,12 @@
             ]
         },
         {
-            "short_description": "Modern video player for macOS. ",
+            "short_description" : "The modern video player for macOS. ",
             "categories": [
                 "player"
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "short_description" : "The modern video player for macOS.",
             "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
             "screenshots": [],
             "official_site": "https://iina.io",
