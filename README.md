@@ -133,7 +133,6 @@ You can see in which language an app is written. Currently there are following l
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
 
 ### Chat
-- [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac) -  Mac app wrapper around Google's stand-alone Android Messenger.  ![javascript_icon] 
 - [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption. ![swift_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.  ![objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.  ![javascript_icon] 
@@ -202,7 +201,7 @@ You can see in which language an app is written. Currently there are following l
 #### Web Development
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.  ![objective_c_icon] 
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process.  ![swift_icon] 
-- [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![typescript_icon] 
+- [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![type_script_icon] 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.  ![javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.  ![swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch) - KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar. ![swift_icon] 
@@ -473,7 +472,7 @@ You can see in which language an app is written. Currently there are following l
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.  ![objective_c_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 
-- [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript_icon] ![javascript_icon] 
+- [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
@@ -600,7 +599,7 @@ You can see in which language an app is written. Currently there are following l
 - [PowerShell](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools. ![c_sharp_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. ![javascript_icon] ![css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.  ![objective_c_icon] 
-- [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript_icon] ![javascript_icon] 
+- [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for macOS. ![objective_c_icon] ![swift_icon] 
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.  ![javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src ) - The Unarchiver is an Objective-C application for uncompressing archive files.  ![objective_c_icon] 
