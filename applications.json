@@ -2715,6 +2715,23 @@
             ]
         },
         {
+            "short_description": "This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/bow-swift/nef-plugin",
+            "title": "nef",
+            "icon_url": "https://raw.githubusercontent.com/bow-swift/bow-art/master/assets/nef-brand-xcode-shadow.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-export.png",
+                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-snippet.png"
+            ],
+            "official_site": "https://nef.bow-swift.io/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipy is a Clipboard extension app for macOS. ",
             "categories": [
                 "finder"
