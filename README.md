@@ -293,6 +293,7 @@ You can see in which language an app is written. Currently there are following l
 - [PageExtender](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files. ![swift_icon] ![javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.  ![javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.  ![swift_icon] 
+- [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore. ![swift_icon] 
 
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.  ![swift_icon] 
