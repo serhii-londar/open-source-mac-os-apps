@@ -205,7 +205,7 @@ You can see in which language an app is written. Currently there are following l
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron.  ![javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.  ![swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch) - KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar. ![swift_icon] 
-- [Lantern](https://github.com/BurntCaramel/Lantern) - Dedicated Mac app for website auditing and crawling.  ![swift_icon] 
+- [Lantern](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.  ![swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).  ![swift_icon] 
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.  ![javascript_icon] 
 - [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu.  ![javascript_icon] 
@@ -456,6 +456,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Productivity
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app. ![javascript_icon] ![css_icon] 
+- [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar. ![swift_icon] 
 - [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app.  ![javascript_icon] 
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS.  ![objective_c_icon] 
 - [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.  ![objective_c_icon] 
@@ -573,6 +574,7 @@ You can see in which language an app is written. Currently there are following l
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 
 - [Bitwarden](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![type_script_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Secure password manager for mac and other platforms.  ![javascript_icon] 
+- [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar. ![swift_icon] 
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.  ![swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format. ![objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
