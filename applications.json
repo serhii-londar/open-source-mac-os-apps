@@ -7447,6 +7447,26 @@
                 "type_script",
                 "javascript"
             ]
+        },
+                {
+            "short_description": "Calculator for macOS which working on statusbar.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/varol/Calculeta",
+            "title": "Calculeta",
+            "icon_url": "",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
+
     ]
 }
