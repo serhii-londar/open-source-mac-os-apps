@@ -25,7 +25,7 @@
             "title": "Flying Carpet",
             "icon_url": "https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/icons/Windows/fc.ico",
             "screenshots": [
-                "https://github.com/spieglt/FlyingCarpet/blob/master/pictures/macDemo.png"
+                "https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/pictures/macDemo.png"
             ],
             "official_site": "https://adequate.systems/",
             "languages": [
@@ -5946,7 +5946,7 @@
             "screenshots": [
                 "https://camo.githubusercontent.com/2ec00a08b476bb6b62b64b1813e0b608dd819d6d/68747470733a2f2f692e696d6775722e636f6d2f483338735073662e706e67"
             ],
-            "official_site": "https://stojkovic.dev/",
+            "official_site": "",
             "languages": [
                 "swift"
             ]
