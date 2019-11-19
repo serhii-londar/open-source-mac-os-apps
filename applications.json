@@ -5050,6 +5050,20 @@
             ]
         },
         {
+            "short_description": "Transferring files from one device to another",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/nitroshare/nitroshare-desktop",
+            "title": "NitroShare",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nitroshare.net",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "BitTorrent client in Qt. ",
             "categories": [
                 "sharing-files"
