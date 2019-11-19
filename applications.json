@@ -7448,7 +7448,7 @@
                 "javascript"
             ]
         },
-                {
+        {
             "short_description": "Calculator for macOS which working on statusbar.",
             "categories": [
                 "productivity",
@@ -7466,7 +7466,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "No-Fuss Time Management",
+            "categories": [
+                "Productivity"
+            ],
+            "repo_url": "https://github.com/khrykin/StrategrDesktop",
+            "title": "Strategr",
+            "icon_url": "https://khrykin.github.io/strategr/resources/Strategr.png",
+            "screenshots": [
+               "https://camo.githubusercontent.com/0aab0a8a9be68c3f98628a5c7dc2a09da176ea7a/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f6d61696e5f6f726967696e616c2e706e67",
+               "https://camo.githubusercontent.com/1e9cc6df1bafd86c7f619cca3d4b3c30f9917398/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f626c61636b5f6d61696e2e706e67"
+            ],
+            "official_site": "https://khrykin.github.io/strategr",
+            "languages": [
+                "cpp",
+                "objective_c"
+            ]
         }
-
     ]
 }
