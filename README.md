@@ -506,6 +506,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Sharing Files
 - [Deluge](https://git.deluge-torrent.org/deluge) - Lightweight cross-platform BitTorrent client.  ![python_icon] 
+- [NitroShare](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another ![cpp_icon] 
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.  ![objective_c_icon] 
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. ![objective_c_icon] ![c_icon] 
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.  ![python_icon] 
