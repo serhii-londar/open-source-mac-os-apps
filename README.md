@@ -666,7 +666,8 @@ You can see in which language an app is written. Currently there are following l
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.  ![objective_c_icon] 
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 
-- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture.  ![cpp_icon] 
+- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture.  ![cpp_icon]
+- [yabai](https://github.com/koekeishiya/yabai) - Old chunkwm, born from a rewrite, self-describes as tiling window manager for macOS based on binary space partitioning.  [c_icon]
 
 ## Contributors
 
