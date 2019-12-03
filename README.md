@@ -477,7 +477,7 @@ You can see in which language an app is written. Currently there are following l
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
-- [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
+- [Toggl Desktop]() - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support. ![swift_icon] 
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.  ![swift_icon] 
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
