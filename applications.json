@@ -7497,6 +7497,25 @@
                 "cpp",
                 "objective_c"
             ]
+        },
+        {
+            "short_description": "Quickly share pasteboard to Gist, and files via iCloud or Dropbox",
+            "categories": [
+                "Productivity"
+            ],
+            "repo_url": "https://github.com/msztech/AirPasteboardOpen",
+            "title": "Air Pasteboard",
+            "icon_url": "https://github.com/msztech/AirPasteboardOpen/blob/master/AirPasteBoard/Assets.xcassets/StatusBarButtonImage.imageset/bar32w.png?raw=true",
+            "screenshots": [
+               "https://github.com/msztech/AirPasteboardOpen/raw/master/demo.gif",
+               "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/89/e9/4d/89e94d16-b39f-e726-685b-4e45fb39d915/pr_source.png/626x0w.png",
+               "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/61/24/82612431-1249-606d-6edb-2bc4981bf54d/pr_source.png/626x0w.png",
+               "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/9a/2f/ec9a2f94-85cb-96f3-0df8-738c901b98d3/pr_source.png/626x0w.png"
+            ],
+            "official_site": "https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
