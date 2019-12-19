@@ -3160,6 +3160,24 @@
             ]
         },
         {
+            "short_description": "Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/szTheory/exifcleaner",
+            "title": "ExifCleaner",
+                "icon_url": "https://exifcleaner.com/images/icon.png",
+            "screenshots": [
+                "https://exifcleaner.com/images/screenshot.png",
+                "https://exifcleaner.com/images/batchprocessing.png",
+                "https://exifcleaner.com/images/darkmode.png"
+            ],
+            "official_site": "https://exifcleaner.com",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Insane(ly slow but wicked good) PNG image optimization. ",
             "categories": [
                 "images"
