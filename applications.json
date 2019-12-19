@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/musa11971/Music-Bar/",
+            "title": "Music Bar",
+            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
+            "screenshots": [
+               "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
+            ],
+            "official_site": "https://musa11971.github.io/Music-Bar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
