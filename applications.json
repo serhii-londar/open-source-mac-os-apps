@@ -7507,9 +7507,9 @@
             ],
             "repo_url": "https://github.com/AlexPerathoner/Sessions",
             "title": "Sessions",
-            "icon_url": "https://github.com/AlexPerathoner/Sessions/blob/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
             "screenshots": [
-               "https://github.com/AlexPerathoner/Sessions/blob/master/screenExample.png"
+               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/screenExample.png"
             ],
             "official_site": "",
             "languages": [
