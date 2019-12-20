@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/musa11971/Music-Bar/",
+            "title": "Music Bar",
+            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
+            "screenshots": [
+               "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
+            ],
+            "official_site": "https://musa11971.github.io/Music-Bar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
@@ -3157,6 +3176,24 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/szTheory/exifcleaner",
+            "title": "ExifCleaner",
+                "icon_url": "https://exifcleaner.com/images/icon.png",
+            "screenshots": [
+                "https://exifcleaner.com/images/screenshot.png",
+                "https://exifcleaner.com/images/batchprocessing.png",
+                "https://exifcleaner.com/images/darkmode.png"
+            ],
+            "official_site": "https://exifcleaner.com",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -7478,6 +7515,23 @@
             "languages": [
                 "cpp",
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Safari extension to save your working sessions",
+            "categories": [
+                "productivity",
+                "extensions"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/Sessions",
+            "title": "Sessions",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/screenExample.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
             ]
         }
     ]
