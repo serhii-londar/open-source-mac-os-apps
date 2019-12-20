@@ -7534,6 +7534,23 @@
                 "cpp",
                 "objective_c"
             ]
+        },
+        {
+            "short_description": "Safari extension to save your working sessions",
+            "categories": [
+                "productivity",
+                "extensions"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/Sessions",
+            "title": "Sessions",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/screenExample.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
