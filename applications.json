@@ -7109,6 +7109,21 @@
             ]
         },
         {
+            "short_description": "Finder Toolbar app to open the current directory in the Terminal",
+            "categories": [
+                "finder",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/jbtule/cdto",
+            "title": "cd to... ",
+            "icon_url": "https://camo.githubusercontent.com/6bb146cdbf2dc86f51291252a023706f54187374/68747470733a2f2f7261772e6769746875622e636f6d2f6a6274756c652f6364746f2f6d61737465722f67726170686963732f6c696f6e2e706e67",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description" : "List of useful Quick Look plugins for developers.",
             "categories": [
                 "finder"
