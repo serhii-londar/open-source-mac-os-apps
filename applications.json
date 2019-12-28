@@ -1432,20 +1432,6 @@
             ]
         },
         {
-            "short_description": "Simple toolkit that makes your iOS / macOS apps development more easier. ",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/alexlee002/alloy",
-            "title": "Alloy",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ",
             "categories": [
                 "ios--macos"
