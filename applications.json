@@ -6930,20 +6930,6 @@
             ]
         },
         {
-            "short_description": "Spectacle allows you to organize your windows without using a mouse.",
-            "categories": [
-                "window-management"
-            ],
-            "repo_url": "https://github.com/rxhanson/Rectangle",
-            "title": "Rectangle",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://rectangleapp.com",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Spectacle allows you to organize your windows without using a mouse. ",
             "categories": [
                 "window-management"
