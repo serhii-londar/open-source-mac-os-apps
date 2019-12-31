@@ -3493,15 +3493,15 @@
             ]
         },
         {
-            "short_description": "Extensible mail client. ",
+            "short_description": "💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
             "categories": [
                 "mail"
             ],
-            "repo_url": "https://github.com/nylas/nylas-mail",
-            "title": "Nylas Mail",
+            "repo_url": "https://github.com/Foundry376/Mailspring",
+            "title": "Mailspring",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://getmailspring.com/",
             "languages": [
                 "javascript"
             ]
