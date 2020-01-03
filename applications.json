@@ -6400,6 +6400,20 @@
             ]
         },
         {
+            "short_description": " VLC is a free and open source cross-platform multimedia player",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/videolan/vlc",
+            "title": "VLC",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.videolan.org/vlc/",
+            "languages": [
+                "c"
+            ]
+        },
+        {
             "short_description": "HandBrake is a video transcoder available for Linux, Mac, and Windows. ",
             "categories": [
                 "video"
