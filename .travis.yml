@@ -1,11 +1,17 @@
-language: ruby
-rvm:
-  - 2.2
+sudo: required
+language: swift
+osx_image: xcode11
+rvm: 2.6.3
 before_script:
   - gem install awesome_bot
+  - gem install bundler
   - gem install danger
 script:
-  - awesome_bot README.md
+  - awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/
   - danger
+after_success:
+  - swift ./.github/main.swift
+  - chmod +x ./.github/deploy.sh
+  - ./.github/deploy.sh
 notifications:
-  email: false
+  email: true
