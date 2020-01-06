@@ -2,21 +2,21 @@
   "object": {
     "pins": [
       {
-        "package": "OctoKit",
-        "repositoryURL": "https://github.com/nerdishbynature/octokit.swift",
+        "package": "BaseAPI",
+        "repositoryURL": "https://github.com/serhii-londar/BaseAPI.git",
         "state": {
           "branch": null,
-          "revision": "9ad4d6eff94ad1d9873d3b410a47c663c820d4bd",
-          "version": "0.10.0"
+          "revision": "b1d3fe62e37ceb2b59d5596890e98399b93f31ca",
+          "version": "0.1.7"
         }
       },
       {
-        "package": "RequestKit",
-        "repositoryURL": "https://github.com/nerdishbynature/RequestKit.git",
+        "package": "GithubAPI",
+        "repositoryURL": "https://github.com/serhii-londar/GithubAPI",
         "state": {
           "branch": null,
-          "revision": "fd5e9e99aada7432170366c9e95967011ce13bad",
-          "version": "2.4.0"
+          "revision": "3b354a068942dddda4a6a2f0fe988ac04ebd7734",
+          "version": "0.0.6"
         }
       }
     ]

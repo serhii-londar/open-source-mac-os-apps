@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E630E9523C3D7EE0045B24E /* OctoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 4E630E9423C3D7EE0045B24E /* OctoKit */; };
+		4EE30EB323C3EF4E00FE2B03 /* GithubAPI in Frameworks */ = {isa = PBXBuildFile; productRef = 4EE30EB223C3EF4E00FE2B03 /* GithubAPI */; };
 		E8FDFD7F226E769900FE80E7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8FDFD7E226E769900FE80E7 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E630E9523C3D7EE0045B24E /* OctoKit in Frameworks */,
+				4EE30EB323C3EF4E00FE2B03 /* GithubAPI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,7 +81,7 @@
 			);
 			name = ReadmeGenerator;
 			packageProductDependencies = (
-				4E630E9423C3D7EE0045B24E /* OctoKit */,
+				4EE30EB223C3EF4E00FE2B03 /* GithubAPI */,
 			);
 			productName = ReadmeGenerator;
 			productReference = E8FDFD72226E74F400FE80E7 /* ReadmeGenerator */;
@@ -113,7 +113,7 @@
 			);
 			mainGroup = E8FDFD69226E74F400FE80E7;
 			packageReferences = (
-				4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */,
+				4EE30EB123C3EF4E00FE2B03 /* XCRemoteSwiftPackageReference "GithubAPI" */,
 			);
 			productRefGroup = E8FDFD73226E74F400FE80E7 /* Products */;
 			projectDirPath = "";
@@ -308,21 +308,21 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */ = {
+		4EE30EB123C3EF4E00FE2B03 /* XCRemoteSwiftPackageReference "GithubAPI" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/nerdishbynature/octokit.swift";
+			repositoryURL = "https://github.com/serhii-londar/GithubAPI";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 0.10.0;
+				minimumVersion = 0.0.6;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		4E630E9423C3D7EE0045B24E /* OctoKit */ = {
+		4EE30EB223C3EF4E00FE2B03 /* GithubAPI */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */;
-			productName = OctoKit;
+			package = 4EE30EB123C3EF4E00FE2B03 /* XCRemoteSwiftPackageReference "GithubAPI" */;
+			productName = GithubAPI;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

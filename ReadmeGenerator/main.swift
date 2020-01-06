@@ -8,6 +8,8 @@
 
 import Foundation
 
+import GithubAPI
+
 let header = """
 <p align="center">
 <img src="./icons/icon.png">
@@ -217,7 +219,7 @@ class ReadmeGenerator {
             let thisFilePath:String = #file
             var url = URL(fileURLWithPath: thisFilePath)
 
-            //cd ../ to the root folder: (delete `.github/main.swift`
+            //cd ../ to the root folder:
             url = url.deletingLastPathComponent().deletingLastPathComponent()
 
             let applicationsUrl = url.appendingPathComponent(FilePaths.applications.rawValue)
@@ -313,6 +315,8 @@ enum FilePaths: String {
     case readme = "./README.md"
     case applications = "./applications.json"
     case categories = "./categories.json"
+    case github_token = ".github_token"
+    
 }
 
 struct Constants {
@@ -331,5 +335,36 @@ struct Constants {
     }
 }
 
-ReadmeGenerator().generateReadme()
+class GithubFetcher {
+    class func getStarsForUrl(url: String){
+        do {
+            let thisFilePath:String = #file
+            let url = URL(fileURLWithPath: thisFilePath).deletingLastPathComponent().appendingPathComponent(FilePaths.github_token.rawValue)
+
+            let data = try Data(contentsOf: url)
+            let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
+            print(GITHUB_TOKEN)
+           let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
+            UserAPI(authentication: authentication).getUser(username: "serhii-londar") { (response, error) in
+                if let response = response {
+                    print(response)
+                } else {
+                    print(error ?? "")
+                }
+            }
+            
+        }
+        catch {
+            print("cant fetch token")
+            print(error)
+        }
+            
+    }
+    
+}
+    
+
+GithubFetcher.getStarsForUrl(url: "testurl");
+
+//ReadmeGenerator().generateReadme()
 

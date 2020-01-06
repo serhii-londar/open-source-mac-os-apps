@@ -60,6 +60,13 @@
             ReferencedContainer = "container:ReadmeGenerator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "GITHUB_TOKEN"
+            value = "22d2ec710f1d9e5bba564f07b37194b790c7115c"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
