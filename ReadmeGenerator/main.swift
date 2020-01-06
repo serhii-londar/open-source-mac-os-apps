@@ -343,22 +343,27 @@ class GithubFetcher {
 
             let data = try Data(contentsOf: url)
             let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
-            print(GITHUB_TOKEN)
-           let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
-            
-            URLSession.shared.dataTask(with: url)
             
             let sema = DispatchSemaphore( value: 0 )
             
-            UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
-                if let response = response {
-                    print(response)
+            let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
+            RepositoriesAPI(authentication: authentication).repositories(user: "skywinder", type: .all) { (response, error) in
+                if response != nil {
+                    print(response!)
                 } else {
-                    print(error ?? "")
-                    
+                    print(error ?? "empty response")
                 }
                 sema.signal()
             }
+//
+//            UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
+//                if let response = response {
+//                    print(response)
+//                } else {
+//                    print(error ?? "")
+//
+//                }
+//            }
           
             sema.wait()
             
