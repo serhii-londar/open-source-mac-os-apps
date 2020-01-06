@@ -213,8 +213,16 @@ class ReadmeGenerator {
     func generateReadme() {
         print("Start")
         do {
-            let applicationsData = try Data(contentsOf: URL(fileURLWithPath: FilePaths.applications.rawValue))
-            let categoriesData = try Data(contentsOf: URL(fileURLWithPath: FilePaths.categories.rawValue))
+            // get current file path:
+            let thisFilePath:String = #file
+            var url = URL(fileURLWithPath: thisFilePath)
+
+            //cd ../ to the root folder: (delete `.github/main.swift`
+            url = url.deletingLastPathComponent().deletingLastPathComponent()
+
+            let applicationsUrl = url.appendingPathComponent(FilePaths.applications.rawValue)
+            let applicationsData = try Data(contentsOf: applicationsUrl)
+            let categoriesData = try Data(contentsOf: url.appendingPathComponent(FilePaths.categories.rawValue))
             let jsonDecoder = JSONDecoder()
             let applicationsObject = try jsonDecoder.decode(JSONApplications.self, from: applicationsData)
             let categoriesObject = try jsonDecoder.decode(Categories.self, from: categoriesData)
@@ -260,7 +268,7 @@ class ReadmeGenerator {
             }
             print("Finish iteration...")
             readmeString.append(footer)
-            try readmeString.data(using: .utf8)?.write(to: URL(fileURLWithPath: FilePaths.readme.rawValue))
+            try readmeString.data(using: .utf8)?.write(to: url.appendingPathComponent(FilePaths.readme.rawValue))
             print("Finish")
         } catch {
             print(error)

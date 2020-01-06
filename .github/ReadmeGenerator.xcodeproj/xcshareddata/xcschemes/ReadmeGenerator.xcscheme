@@ -44,7 +44,7 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
-      useCustomWorkingDirectory = "YES"
+      useCustomWorkingDirectory = "NO"
       customWorkingDirectory = "/Users/serhii-londar/Documents/GitHub/open-source-mac-os-apps"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
