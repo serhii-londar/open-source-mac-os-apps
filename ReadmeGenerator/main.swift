@@ -345,13 +345,27 @@ class GithubFetcher {
             let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
             print(GITHUB_TOKEN)
            let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
-            UserAPI(authentication: authentication).getUser(username: "serhii-londar") { (response, error) in
+            
+            URLSession.shared.dataTask(with: url)
+            
+            let dispatchGroup = DispatchGroup()
+
+                          dispatchGroup.enter()
+                              dispatchGroup.leave()
+                      
+            UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
                 if let response = response {
                     print(response)
                 } else {
                     print(error ?? "")
+                    
+                }
+                dispatchGroup.notify(queue: DispatchQueue.main) {
+                    exit(EXIT_SUCCESS)
                 }
             }
+          
+            dispatchMain()
             
         }
         catch {
