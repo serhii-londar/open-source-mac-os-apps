@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E630E9523C3D7EE0045B24E /* OctoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 4E630E9423C3D7EE0045B24E /* OctoKit */; };
 		E8FDFD7F226E769900FE80E7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8FDFD7E226E769900FE80E7 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E630E9523C3D7EE0045B24E /* OctoKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +80,9 @@
 			dependencies = (
 			);
 			name = ReadmeGenerator;
+			packageProductDependencies = (
+				4E630E9423C3D7EE0045B24E /* OctoKit */,
+			);
 			productName = ReadmeGenerator;
 			productReference = E8FDFD72226E74F400FE80E7 /* ReadmeGenerator */;
 			productType = "com.apple.product-type.tool";
@@ -106,6 +111,9 @@
 				en,
 			);
 			mainGroup = E8FDFD69226E74F400FE80E7;
+			packageReferences = (
+				4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */,
+			);
 			productRefGroup = E8FDFD73226E74F400FE80E7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -295,6 +303,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/nerdishbynature/octokit.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.10.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4E630E9423C3D7EE0045B24E /* OctoKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4E630E9323C3D7ED0045B24E /* XCRemoteSwiftPackageReference "octokit" */;
+			productName = OctoKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E8FDFD6A226E74F400FE80E7 /* Project object */;
 }
