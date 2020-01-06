@@ -348,11 +348,8 @@ class GithubFetcher {
             
             URLSession.shared.dataTask(with: url)
             
-            let dispatchGroup = DispatchGroup()
-
-                          dispatchGroup.enter()
-                              dispatchGroup.leave()
-                      
+            let sema = DispatchSemaphore( value: 0 )
+            
             UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
                 if let response = response {
                     print(response)
@@ -360,12 +357,10 @@ class GithubFetcher {
                     print(error ?? "")
                     
                 }
-                dispatchGroup.notify(queue: DispatchQueue.main) {
-                    exit(EXIT_SUCCESS)
-                }
+                sema.signal()
             }
           
-            dispatchMain()
+            sema.wait()
             
         }
         catch {
