@@ -4173,6 +4173,24 @@
             ]
         },
         {
+            "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+            "categories": [
+                "markdown",
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pbek/QOwnNotes",
+            "title": "QOwnNotes",
+            "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
+            "screenshots": [
+               "https://www.qownnotes.org/var/bekerle/storage/images/_aliases/frontpage_slider_full2/qownnotes/frontpage-slider/qownnotes-main-screen-minimal-linux/4706-1-eng-GB/QOwnNotes-Main-Screen-Minimal-Linux.png"
+            ],
+            "official_site": "https://www.qownnotes.org/",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Manage your Homebrew formulas with style using Cakebrew. ",
             "categories": [
                 "other"
