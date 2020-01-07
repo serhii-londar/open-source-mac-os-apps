@@ -18,6 +18,7 @@
                 "swift"
             ]
         },
+        {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
                 "audio",
