@@ -336,7 +336,7 @@ struct Constants {
 }
 
 class GithubFetcher {
-    class func getStarsForUrl(url: String){
+    class func getStarsForUrl(gh_link: String){
         do {
             let thisFilePath:String = #file
             let url = URL(fileURLWithPath: thisFilePath).deletingLastPathComponent().appendingPathComponent(FilePaths.github_token.rawValue)
@@ -346,15 +346,23 @@ class GithubFetcher {
             
             let sema = DispatchSemaphore( value: 0 )
             
+            let gh_url = NSURL(string: gh_link)
+            let comp = gh_url?.pathComponents
+            let owner = comp![1]
+            let name = comp![2]
+                        
             let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
-            RepositoriesAPI(authentication: authentication).repositories(user: "skywinder", type: .all) { (response, error) in
+            
+            let ghapi = RepositoriesAPI(authentication: authentication)
+            ghapi.get(owner: owner, repo: name, completion:
+                { (response, error) in
                 if response != nil {
                     print(response!)
                 } else {
                     print(error ?? "empty response")
                 }
                 sema.signal()
-            }
+            })
 //
 //            UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
 //                if let response = response {
@@ -378,7 +386,6 @@ class GithubFetcher {
 }
     
 
-GithubFetcher.getStarsForUrl(url: "testurl");
-
+print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")
 //ReadmeGenerator().generateReadme()
 
