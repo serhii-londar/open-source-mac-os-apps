@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nbolar/PlayStatus",
+            "title": "PlayStatus",
+            "icon_url": "https://user-images.githubusercontent.com/45484873/56880861-09cb3980-6a67-11e9-9d45-037a9165b212.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
                 "audio",
@@ -1429,20 +1448,6 @@
             "official_site": "https://gitrebasetool.mitmaro.ca/",
             "languages": [
                 "rust"
-            ]
-        },
-        {
-            "short_description": "Simple toolkit that makes your iOS / macOS apps development more easier. ",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/alexlee002/alloy",
-            "title": "Alloy",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
             ]
         },
         {
@@ -3508,15 +3513,15 @@
             ]
         },
         {
-            "short_description": "Extensible mail client. ",
+            "short_description": "💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
             "categories": [
                 "mail"
             ],
-            "repo_url": "https://github.com/nylas/nylas-mail",
-            "title": "Nylas Mail",
+            "repo_url": "https://github.com/Foundry376/Mailspring",
+            "title": "Mailspring",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://getmailspring.com/",
             "languages": [
                 "javascript"
             ]
@@ -3955,7 +3960,7 @@
             "categories": [
                 "news"
             ],
-            "repo_url": "https://github.com/brentsimmons/NetNewsWire",
+            "repo_url": "https://github.com/Ranchero-Software/NetNewsWire",
             "title": "NetNewsWire",
             "icon_url": "",
             "screenshots": [],
@@ -4168,6 +4173,24 @@
             "languages": [
                 "javascript",
                 "css"
+            ]
+        },
+        {
+            "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+            "categories": [
+                "markdown",
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pbek/QOwnNotes",
+            "title": "QOwnNotes",
+            "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
+            "screenshots": [
+               "https://www.qownnotes.org/var/bekerle/storage/images/_aliases/frontpage_slider_full2/qownnotes/frontpage-slider/qownnotes-main-screen-minimal-linux/4706-1-eng-GB/QOwnNotes-Main-Screen-Minimal-Linux.png"
+            ],
+            "official_site": "https://www.qownnotes.org/",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -6415,6 +6438,20 @@
             ]
         },
         {
+            "short_description": " VLC is a free and open source cross-platform multimedia player",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/videolan/vlc",
+            "title": "VLC",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.videolan.org/vlc/",
+            "languages": [
+                "c"
+            ]
+        },
+        {
             "short_description": "HandBrake is a video transcoder available for Linux, Mac, and Windows. ",
             "categories": [
                 "video"
@@ -7110,6 +7147,21 @@
             ]
         },
         {
+            "short_description": "Finder Toolbar app to open the current directory in the Terminal",
+            "categories": [
+                "finder",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/jbtule/cdto",
+            "title": "cd to... ",
+            "icon_url": "https://camo.githubusercontent.com/6bb146cdbf2dc86f51291252a023706f54187374/68747470733a2f2f7261772e6769746875622e636f6d2f6a6274756c652f6364746f2f6d61737465722f67726170686963732f6c696f6e2e706e67",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description" : "List of useful Quick Look plugins for developers.",
             "categories": [
                 "finder"
@@ -7528,7 +7580,7 @@
             "title": "Sessions",
             "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/screenExample.png"
+               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Screens/Registrazione%20schermo%202019-11-26%20alle%2001.14.21.mov"
             ],
             "official_site": "",
             "languages": [
