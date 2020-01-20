@@ -875,20 +875,6 @@
             ]
         },
         {
-            "short_description": "Source code of deprecated Telegram for macOS version. ",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/overtake/telegram",
-            "title": "Telegram [Deprecated]",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Telegram Desktop messaging app. ",
             "categories": [
                 "chat"
