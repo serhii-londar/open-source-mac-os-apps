@@ -3093,23 +3093,6 @@
             ]
         },
         {
-            "short_description": "Plugin manager for Sketch.app.",
-            "categories": [
-                "graphics"
-            ],
-            "repo_url": "https://github.com/buzzfeed/Sketch-Toolbox",
-            "title": "Sketch Toolbox",
-            "icon_url": "",
-            "screenshots": [
-                "https://i.cloudup.com/XTLlL1-Stt-3000x3000.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "objective_c",
-                "c"
-            ]
-        },
-        {
             "short_description": "The hackable text editor. ",
             "categories": [
                 "ide"
