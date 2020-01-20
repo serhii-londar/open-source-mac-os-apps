@@ -321,7 +321,7 @@ You can see in which language an app is written. Currently there are following l
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis.  ![swift_icon] 
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.  ![swift_icon] 
 - [Gifcurry](https://github.com/lettier/gifcurry) - Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming.  ![haskell_icon] 
-- [Gifski](https://github.com/sindresorhus/Gifski ) - Convert videos to high-quality GIFs.  ![swift_icon] 
+- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs.  ![swift_icon] 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.  ![swift_icon] 
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colours and copy the hex code.  ![objective_c_icon] 
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.  ![cpp_icon] 
@@ -559,7 +559,7 @@ You can see in which language an app is written. Currently there are following l
 - [macOSLucidaGrande](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font. ![objective_c_icon] 
 
 ### Terminal
-- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.  ![rust_icon] 
+- [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator.  ![rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).  ![go_icon] 
 - [Console](https://github.com/macmade/Console) - macOS console application.  ![swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
