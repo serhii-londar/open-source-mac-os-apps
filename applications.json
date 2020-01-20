@@ -2994,13 +2994,14 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/sindresorhus/Gifski ",
+            "repo_url": "https://github.com/sindresorhus/Gifski",
             "title": "Gifski",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/AppIcon-readme.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/AppIcon-readme.png"
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot2.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot1.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot3.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot4.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -5596,9 +5597,9 @@
             "categories": [
                 "terminal"
             ],
-            "repo_url": "https://github.com/jwilm/alacritty",
+            "repo_url": "https://github.com/alacritty/alacritty",
             "title": "Alacritty",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png",
             "screenshots": [
                 "https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png"
             ],
