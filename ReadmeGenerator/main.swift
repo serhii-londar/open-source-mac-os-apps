@@ -8,8 +8,6 @@
 
 import Foundation
 
-import GithubAPI
-
 let header = """
 <p align="center">
 <img src="./icons/icon.png">
@@ -336,7 +334,8 @@ struct Constants {
 }
 
 class GithubFetcher {
-    class func getStarsForUrl(gh_link: String){
+    class func getStarsForUrl(gh_link: String) -> String {
+        var name : String = ""
         do {
             let thisFilePath:String = #file
             let url = URL(fileURLWithPath: thisFilePath).deletingLastPathComponent().appendingPathComponent(FilePaths.github_token.rawValue)
@@ -349,37 +348,16 @@ class GithubFetcher {
             let gh_url = NSURL(string: gh_link)
             let comp = gh_url?.pathComponents
             let owner = comp![1]
-            let name = comp![2]
+            name = comp![2]
                         
-            let authentication = AccessTokenAuthentication(access_token: GITHUB_TOKEN)
-            
-            let ghapi = RepositoriesAPI(authentication: authentication)
-            ghapi.get(owner: owner, repo: name, completion:
-                { (response, error) in
-                if response != nil {
-                    print(response!)
-                } else {
-                    print(error ?? "empty response")
-                }
-                sema.signal()
-            })
-//
-//            UserAPI(authentication: authentication).getUser(username: "skywinder") { (response, error) in
-//                if let response = response {
-//                    print(response)
-//                } else {
-//                    print(error ?? "")
-//
-//                }
-//            }
-          
-            sema.wait()
             
         }
         catch {
             print("cant fetch token")
             print(error)
         }
+        
+        return name
             
     }
     
