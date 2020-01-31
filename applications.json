@@ -1,6 +1,44 @@
 {
     "applications": [
         {
+            "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nbolar/PlayStatus",
+            "title": "PlayStatus",
+            "icon_url": "https://user-images.githubusercontent.com/45484873/56880861-09cb3980-6a67-11e9-9d45-037a9165b212.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/musa11971/Music-Bar/",
+            "title": "Music Bar",
+            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
+            "screenshots": [
+               "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
+            ],
+            "official_site": "https://musa11971.github.io/Music-Bar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
@@ -837,20 +875,6 @@
             ]
         },
         {
-            "short_description": "Source code of deprecated Telegram for macOS version. ",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/overtake/telegram",
-            "title": "Telegram [Deprecated]",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Telegram Desktop messaging app. ",
             "categories": [
                 "chat"
@@ -1413,20 +1437,6 @@
             ]
         },
         {
-            "short_description": "Simple toolkit that makes your iOS / macOS apps development more easier. ",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/alexlee002/alloy",
-            "title": "Alloy",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. ",
             "categories": [
                 "ios--macos"
@@ -1515,7 +1525,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/athiercelin/Assets",
+            "repo_url": "https://github.com/e7711bbear/Assets",
             "title": "Assets",
             "icon_url": "",
             "screenshots": [],
@@ -1805,7 +1815,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/athiercelin/Localizations",
+            "repo_url": "https://github.com/e7711bbear/Localizations",
             "title": "Localizations",
             "icon_url": "",
             "screenshots": [],
@@ -2166,7 +2176,7 @@
             "categories": [
                 "web-development"
             ],
-            "repo_url": "https://github.com/getinsomnia/insomnia",
+            "repo_url": "https://github.com/Kong/insomnia",
             "title": "Insomnia",
             "icon_url": "",
             "screenshots": [
@@ -2975,13 +2985,14 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/sindresorhus/Gifski ",
+            "repo_url": "https://github.com/sindresorhus/Gifski",
             "title": "Gifski",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/AppIcon-readme.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/AppIcon-readme.png"
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot2.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot1.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot3.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot4.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -3068,23 +3079,6 @@
             ]
         },
         {
-            "short_description": "Plugin manager for Sketch.app.",
-            "categories": [
-                "graphics"
-            ],
-            "repo_url": "https://github.com/buzzfeed/Sketch-Toolbox",
-            "title": "Sketch Toolbox",
-            "icon_url": "",
-            "screenshots": [
-                "https://i.cloudup.com/XTLlL1-Stt-3000x3000.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "objective_c",
-                "c"
-            ]
-        },
-        {
             "short_description": "The hackable text editor. ",
             "categories": [
                 "ide"
@@ -3157,6 +3151,24 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/szTheory/exifcleaner",
+            "title": "ExifCleaner",
+                "icon_url": "https://exifcleaner.com/images/icon.png",
+            "screenshots": [
+                "https://exifcleaner.com/images/screenshot.png",
+                "https://exifcleaner.com/images/batchprocessing.png",
+                "https://exifcleaner.com/images/darkmode.png"
+            ],
+            "official_site": "https://exifcleaner.com",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -3470,15 +3482,15 @@
             ]
         },
         {
-            "short_description": "Extensible mail client. ",
+            "short_description": "💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
             "categories": [
                 "mail"
             ],
-            "repo_url": "https://github.com/nylas/nylas-mail",
-            "title": "Nylas Mail",
+            "repo_url": "https://github.com/Foundry376/Mailspring",
+            "title": "Mailspring",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://getmailspring.com/",
             "languages": [
                 "javascript"
             ]
@@ -3917,7 +3929,7 @@
             "categories": [
                 "news"
             ],
-            "repo_url": "https://github.com/brentsimmons/NetNewsWire",
+            "repo_url": "https://github.com/Ranchero-Software/NetNewsWire",
             "title": "NetNewsWire",
             "icon_url": "",
             "screenshots": [],
@@ -4130,6 +4142,24 @@
             "languages": [
                 "javascript",
                 "css"
+            ]
+        },
+        {
+            "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+            "categories": [
+                "markdown",
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pbek/QOwnNotes",
+            "title": "QOwnNotes",
+            "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
+            "screenshots": [
+               "https://www.qownnotes.org/var/bekerle/storage/images/_aliases/frontpage_slider_full2/qownnotes/frontpage-slider/qownnotes-main-screen-minimal-linux/4706-1-eng-GB/QOwnNotes-Main-Screen-Minimal-Linux.png"
+            ],
+            "official_site": "https://www.qownnotes.org/",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -4834,7 +4864,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319",
+            "repo_url": "",
             "title": "Toggl Desktop",
             "icon_url": "",
             "screenshots": [],
@@ -5047,6 +5077,20 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Transferring files from one device to another",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/nitroshare/nitroshare-desktop",
+            "title": "NitroShare",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nitroshare.net",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -5545,9 +5589,9 @@
             "categories": [
                 "terminal"
             ],
-            "repo_url": "https://github.com/jwilm/alacritty",
+            "repo_url": "https://github.com/alacritty/alacritty",
             "title": "Alacritty",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png",
             "screenshots": [
                 "https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png"
             ],
@@ -5912,7 +5956,6 @@
             "title": "Lunar",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/alin23/lunar/master/lunar.gif"
             ],
             "official_site": "",
             "languages": [
@@ -6361,6 +6404,20 @@
             "official_site": "",
             "languages": [
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": " VLC is a free and open source cross-platform multimedia player",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/videolan/vlc",
+            "title": "VLC",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.videolan.org/vlc/",
+            "languages": [
+                "c"
             ]
         },
         {
@@ -7059,6 +7116,21 @@
             ]
         },
         {
+            "short_description": "Finder Toolbar app to open the current directory in the Terminal",
+            "categories": [
+                "finder",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/jbtule/cdto",
+            "title": "cd to... ",
+            "icon_url": "https://camo.githubusercontent.com/6bb146cdbf2dc86f51291252a023706f54187374/68747470733a2f2f7261772e6769746875622e636f6d2f6a6274756c652f6364746f2f6d61737465722f67726170686963732f6c696f6e2e706e67",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description" : "List of useful Quick Look plugins for developers.",
             "categories": [
                 "finder"
@@ -7364,24 +7436,6 @@
             ]
         },
         {
-            "repo_url": "https://github.com/ribtoks/xpiks",
-            "icon_url": "",
-            "official_site": "https://xpiksapp.com",
-            "title": "Xpiks",
-            "screenshots": [
-                "https://raw.githubusercontent.com/Ribtoks/xpiks/master/assets/xpiks-main-window.png"
-            ],
-            "short_description": "Xpiks is a keywording and uploading tool for microstock photographers, illustrators and videographers",
-            "languages": [
-                "cpp"
-            ],
-            "categories": [
-                "productivity",
-                "images",
-                "video"
-              ]
-        },
-        {
             "short_description": "A handy calculator with natural language parsing",
             "categories": [
                 "utilities"
@@ -7468,9 +7522,9 @@
             ]
         },
         {
-            "short_description": "No-Fuss Time Management",
+            "short_description": "No-fuss time management",
             "categories": [
-                "Productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/khrykin/StrategrDesktop",
             "title": "Strategr",
@@ -7479,10 +7533,27 @@
                "https://camo.githubusercontent.com/0aab0a8a9be68c3f98628a5c7dc2a09da176ea7a/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f6d61696e5f6f726967696e616c2e706e67",
                "https://camo.githubusercontent.com/1e9cc6df1bafd86c7f619cca3d4b3c30f9917398/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f626c61636b5f6d61696e2e706e67"
             ],
-            "official_site": "https://khrykin.github.io/strategr",
+            "official_site": "https://khrykin.github.io/strategr/",
             "languages": [
                 "cpp",
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Safari extension to save your working sessions",
+            "categories": [
+                "productivity",
+                "extensions"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/Sessions",
+            "title": "Sessions",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Screens/Registrazione%20schermo%202019-11-26%20alle%2001.14.21.mov"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
             ]
         }
     ]
