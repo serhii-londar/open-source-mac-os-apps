@@ -483,6 +483,7 @@ You can see in which language an app is written. Currently there are following l
 - [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 
+- [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management ![cpp_icon] ![objective_c_icon] 
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
