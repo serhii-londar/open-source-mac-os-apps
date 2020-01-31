@@ -7524,7 +7524,7 @@
         {
             "short_description": "No-fuss time management",
             "categories": [
-                "Productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/khrykin/StrategrDesktop",
             "title": "Strategr",
