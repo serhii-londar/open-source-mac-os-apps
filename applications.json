@@ -7555,6 +7555,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A simple command line notebook with multi-device sync and web interface.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/dnote/dnote",
+            "title": "Dnote",
+            "icon_url": "https://raw.githubusercontent.com/dnote/dnote/master/assets/logo.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif"
+            ],
+            "official_site": "https://www.getdnote.com/",
+            "languages": [
+                "go",
+                "type_script"
+            ]
         }
     ]
 }
