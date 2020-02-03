@@ -7302,7 +7302,7 @@
             ]
         },
          {
-            "short_description": "Create beautiful musical scores with LilyPond",
+            "short_description": "Create beautiful musical scores with LilyPond.",
             "categories": [
                 "music"
             ],
@@ -7366,7 +7366,7 @@
             ]
         },
               {
-            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
+            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.",
             "categories": [
                 "audio"
             ],
@@ -7394,7 +7394,7 @@
             ]
         },
         {
-            "short_description": "Cross-platform development IDE",
+            "short_description": "Cross-platform development IDE.",
             "categories": [
                 "ide"
             ],
@@ -7436,7 +7436,7 @@
             ]
         },
         {
-            "short_description": "A handy calculator with natural language parsing",
+            "short_description": "A handy calculator with natural language parsing.",
             "categories": [
                 "utilities"
             ],
@@ -7522,7 +7522,7 @@
             ]
         },
         {
-            "short_description": "No-fuss time management",
+            "short_description": "No-fuss time management.",
             "categories": [
                 "productivity"
             ],
@@ -7540,7 +7540,7 @@
             ]
         },
         {
-            "short_description": "Safari extension to save your working sessions",
+            "short_description": "Safari extension to save your working sessions.",
             "categories": [
                 "productivity",
                 "extensions"
