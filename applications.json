@@ -7555,6 +7555,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
+            "categories": [
+                "productivity",
+                "extensions",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "title": "Middleclick",
+            "icon_url": "https://github.com/DaFuqtor/MiddleClick-Catalina/raw/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
+            "screenshots": [
+               "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+            ],
+            "official_site": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "languages": [
+                "c"
+            ]
         }
     ]
 }
