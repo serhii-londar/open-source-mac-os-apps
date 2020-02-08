@@ -7565,7 +7565,7 @@
             ],
             "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
             "title": "Middleclick",
-            "icon_url": "https://github.com/DaFuqtor/MiddleClick-Catalina/raw/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
+            "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
             ],
