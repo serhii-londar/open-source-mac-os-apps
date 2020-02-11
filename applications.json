@@ -7540,6 +7540,23 @@
             ]
         },
         {
+            "short_description": "Add another lightweight MongoDB client.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
+            "title": "Light weight Mac Native Mongodb Client",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c",
+                "c"
+            ]
+        },
+        {
             "short_description": "Safari extension to save your working sessions",
             "categories": [
                 "productivity",
