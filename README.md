@@ -167,6 +167,7 @@ You can see in which language an app is written. Currently there are following l
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.  ![swift_icon] 
 - [Redis.app](https://github.com/jpadilla/redisapp) - The easiest way to get started with Redis on the Mac.  ![swift_icon] 
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.  ![cpp_icon] 
+- [Mongo Hub](https://github.com/jeromelebel/MongoHub-Mac) - Light weight Mac Native Mongodb Client
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.   ![objective_c_icon] 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.  ![swift_icon] 
 
