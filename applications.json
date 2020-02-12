@@ -4400,6 +4400,23 @@
             ]
         },
         {
+            "short_description": "Free and offline password manager. ",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/swiftyapp/swifty",
+            "title": "Swifty",
+            "icon_url": "https://getswifty.pro/images/brand@2x.png",
+            "screenshots": [
+                "https://alchaplinsky.com/images/misc/swifty_screen_01.png",
+                "https://alchaplinsky.com/images/misc/swifty_screen_02.png"
+            ],
+            "official_site": "https://getswifty.pro",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Frugal nativemacOS macOS Syncthing application bundle. ",
             "categories": [
                 "other"
