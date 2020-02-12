@@ -2759,6 +2759,21 @@
             ]
         },
         {
+            "short_description": "Clipboard manager with advanced features",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/hluk/CopyQ",
+            "title": "CopyQ",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
             "categories": [
                 "finder",

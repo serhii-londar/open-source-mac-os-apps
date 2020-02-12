@@ -299,6 +299,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.  ![swift_icon] 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features ![cpp_icon] 
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.  ![swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
