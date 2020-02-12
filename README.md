@@ -98,7 +98,7 @@ You can see in which language an app is written. Currently there are following l
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. ![c_icon] 
 - [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg  ![javascript_icon] 
 - [Clementine](https://github.com/clementine-player/Clementine) - Clementine is a modern music player and library organizer for Windows, Linux and macOS.  ![cpp_icon] 
-- [Cog](https://bitbucket.org/losnoco/cog/src) - Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate ![objective_c_icon] 
+- [Cog](https://bitbucket.org/losnoco/cog/src) - Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate. ![objective_c_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.  ![objective_c_icon] 
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.  ![objective_c_icon] ![swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox.  ![swift_icon] 
@@ -130,6 +130,7 @@ You can see in which language an app is written. Currently there are following l
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser.  ![swift_icon] 
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![objective_c_icon] ![swift_icon] 
 - [Kaktus Browser](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux.  ![javascript_icon] 
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. ![javascript_icon] 
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.  ![javascript_icon] 
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.   ![cpp_icon] 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
@@ -291,10 +292,11 @@ You can see in which language an app is written. Currently there are following l
 
 ### Extensions
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
+- [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
 - [PageExtender](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files. ![swift_icon] ![javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.  ![javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.  ![swift_icon] 
-- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
+- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions. ![swift_icon] 
 - [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore. ![swift_icon] 
 
 ### Finder
@@ -330,7 +332,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### IDE
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
-- [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE ![c_icon] 
+- [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.  ![lua_icon] 
@@ -396,7 +398,7 @@ You can see in which language an app is written. Currently there are following l
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!  ![swift_icon] 
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.  ![coffee_script_icon] 
-- [Lilypond UI]() - Create beautiful musical scores with LilyPond ![javascript_icon] 
+- [Lilypond UI]() - Create beautiful musical scores with LilyPond. ![javascript_icon] 
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. ![swift_icon] 
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.  ![javascript_icon] 
@@ -413,6 +415,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Notes
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Note-taking application made for programmers just like you.  ![javascript_icon] 
+- [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface. ![go_icon] ![type_script_icon] 
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.  ![swift_icon] 
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![javascript_icon] ![css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.  ![swift_icon] 
@@ -475,16 +478,18 @@ You can see in which language an app is written. Currently there are following l
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.  ![swift_icon] 
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.  ![swift_icon] 
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.  ![javascript_icon] 
+- [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.  ![swift_icon] 
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.  ![javascript_icon] 
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. ![javascript_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration. ![cpp_icon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.  ![objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.  ![javascript_icon] ![css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.  ![objective_c_icon] 
-- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
+- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions. ![swift_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 
-- [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management ![cpp_icon] ![objective_c_icon] 
+- [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management. ![cpp_icon] ![objective_c_icon] 
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
@@ -604,11 +609,12 @@ You can see in which language an app is written. Currently there are following l
 - [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client.  ![objective_c_icon] 
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.  ![swift_icon] 
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker macOS application for meme creation.  ![swift_icon] 
+- [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS  ![swift_icon] 
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction  ![swift_icon] 
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
-- [Numi](https://github.com/nikolaeu/Numi) - A handy calculator with natural language parsing ![javascript_icon] 
+- [Numi](https://github.com/nikolaeu/Numi) - A handy calculator with natural language parsing. ![javascript_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon] 
 - [Padlock](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.  ![javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift_icon] 
@@ -628,7 +634,6 @@ You can see in which language an app is written. Currently there are following l
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
-- [Middleclick] (https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse. ![c_icon]
 
 ### VPN & Proxy
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.  ![swift_icon] 
