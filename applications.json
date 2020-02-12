@@ -7572,6 +7572,23 @@
             ]
         },
         {
+            "short_description": "Make any website your desktop wallpaper.",
+            "categories": [
+                "wallpaper",
+                "browser"
+            ],
+            "repo_url": "https://github.com/sindresorhus/Plash",
+            "title": "Plash",
+            "icon_url": "https://user-images.githubusercontent.com/170270/74323095-8d1c0880-4db7-11ea-9c07-3003fb9c3125.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/170270/74323375-0287d900-4db8-11ea-8b26-5566565fa8a1.jpg"
+            ],
+            "official_site": "https://sindresorhus.com/plash",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
             "categories": [
                 "browser",
