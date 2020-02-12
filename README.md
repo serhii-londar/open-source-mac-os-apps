@@ -299,6 +299,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.  ![swift_icon] 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features ![cpp_icon] 
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.  ![swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
@@ -627,6 +628,7 @@ You can see in which language an app is written. Currently there are following l
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
+- [Middleclick] (https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse. ![c_icon]
 
 ### VPN & Proxy
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.  ![swift_icon] 

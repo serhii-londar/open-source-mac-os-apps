@@ -2759,6 +2759,21 @@
             ]
         },
         {
+            "short_description": "Clipboard manager with advanced features",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/hluk/CopyQ",
+            "title": "CopyQ",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
             "categories": [
                 "finder",
@@ -7280,7 +7295,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/demo.gif"
             ],
-            "official_site": "https://dozermac.com",
+            "official_site": "",
             "languages": [
                 "swift"
             ]
@@ -7302,7 +7317,7 @@
             ]
         },
          {
-            "short_description": "Create beautiful musical scores with LilyPond",
+            "short_description": "Create beautiful musical scores with LilyPond.",
             "categories": [
                 "music"
             ],
@@ -7366,7 +7381,7 @@
             ]
         },
               {
-            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
+            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.",
             "categories": [
                 "audio"
             ],
@@ -7394,7 +7409,7 @@
             ]
         },
         {
-            "short_description": "Cross-platform development IDE",
+            "short_description": "Cross-platform development IDE.",
             "categories": [
                 "ide"
             ],
@@ -7436,7 +7451,7 @@
             ]
         },
         {
-            "short_description": "A handy calculator with natural language parsing",
+            "short_description": "A handy calculator with natural language parsing.",
             "categories": [
                 "utilities"
             ],
@@ -7522,7 +7537,7 @@
             ]
         },
         {
-            "short_description": "No-fuss time management",
+            "short_description": "No-fuss time management.",
             "categories": [
                 "productivity"
             ],
@@ -7540,7 +7555,7 @@
             ]
         },
         {
-            "short_description": "Safari extension to save your working sessions",
+            "short_description": "Safari extension to save your working sessions.",
             "categories": [
                 "productivity",
                 "extensions"
@@ -7574,6 +7589,41 @@
             "official_site": "",
             "languages": [
                 "javascript"
+            ]
+        },
+        {
+            "short_description": "A simple command line notebook with multi-device sync and web interface.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/dnote/dnote",
+            "title": "Dnote",
+            "icon_url": "https://raw.githubusercontent.com/dnote/dnote/master/assets/logo.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif"
+            ],
+            "official_site": "https://www.getdnote.com/",
+            "languages": [
+                "go",
+                "type_script"
+            ]
+        },
+        {
+            "short_description": "Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
+            "categories": [
+                "productivity",
+                "extensions",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "title": "Middleclick",
+            "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
+            "screenshots": [
+               "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "c"
             ]
         }
     ]
