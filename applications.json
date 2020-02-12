@@ -7555,6 +7555,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Make any website your desktop wallpaper.",
+            "categories": [
+                "wallpaper",
+                "browser"
+            ],
+            "repo_url": "https://github.com/sindresorhus/Plash",
+            "title": "Plash",
+            "icon_url": "https://github.com/sindresorhus/Plash/raw/master/Plash/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+               "https://github.com/sindresorhus/Plash/raw/master/Stuff/screenshot1.jpg"
+            ],
+            "official_site": "https://sindresorhus.com/plash",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
