@@ -7572,6 +7572,26 @@
             ]
         },
         {
+            "short_description": "Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
+            "categories": [
+                "browser",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/kamranahmedse/pennywise",
+            "title": "Pennywise",
+            "icon_url": "",
+            "screenshots": [
+               "https://camo.githubusercontent.com/275d176aeaab2b9cf09701a091c8fb7ecfe6256a/68747470733a2f2f692e696d6775722e636f6d2f753766415439392e706e67",
+               "https://camo.githubusercontent.com/71ba8a4a28624f1f102272685f72a80fe70a2c03/68747470733a2f2f692e696d6775722e636f6d2f43654c596f75782e706e673f31",
+               "https://camo.githubusercontent.com/601c0dc538bad004c231201e8fe86e16ed3729d0/68747470733a2f2f692e696d6775722e636f6d2f4262715a6d634b2e706e67",
+               "https://camo.githubusercontent.com/26049b84b4b5d62b95e841d225a493992c78e62f/68747470733a2f2f692e696d6775722e636f6d2f586137696e54592e706e67"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "A simple command line notebook with multi-device sync and web interface.",
             "categories": [
                 "notes"
