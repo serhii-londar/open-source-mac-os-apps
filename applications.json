@@ -7512,9 +7512,6 @@
             "title": "Calculeta",
             "icon_url": "",
             "screenshots": [
-                "",
-                "",
-                ""
             ],
             "official_site": "",
             "languages": [
@@ -7547,9 +7544,7 @@
             "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
             "title": "Light weight Mac Native Mongodb Client",
             "icon_url": "",
-            "screenshots": [
-                ""
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "objective_c",
