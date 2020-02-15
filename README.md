@@ -164,6 +164,7 @@ You can see in which language an app is written. Currently there are following l
 ### Database
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.  ![cpp_icon] 
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.  ![java_icon] 
+- [Light weight Mac Native Mongodb Client](https://github.com/jeromelebel/MongoHub-Mac) - Add another lightweight MongoDB client. ![objective_c_icon] ![c_icon] 
 - [Medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis. ![javascript_icon] 
 - [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS.  ![javascript_icon] 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.  ![swift_icon] 
@@ -198,6 +199,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### Other Development
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef  ![swift_icon] 
+- [MQTTX](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript_icon] ![type_script_icon] 
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.   ![objective_c_icon] 
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon] 
 
@@ -297,7 +299,7 @@ You can see in which language an app is written. Currently there are following l
 - [PageExtender](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files. ![swift_icon] ![javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.  ![javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.  ![swift_icon] 
-- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions. ![swift_icon] 
+- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
 - [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore. ![swift_icon] 
 
 ### Finder
@@ -487,7 +489,7 @@ You can see in which language an app is written. Currently there are following l
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.  ![objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.  ![javascript_icon] ![css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.  ![objective_c_icon] 
-- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions. ![swift_icon] 
+- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 
 - [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management. ![cpp_icon] ![objective_c_icon] 
@@ -518,6 +520,7 @@ You can see in which language an app is written. Currently there are following l
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption. ![rust_icon] 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. ![java_icon] 
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.  ![objective_c_icon] 
+- [Swifty](https://github.com/swiftyapp/swifty) - Free and offline password manager.  ![javascript_icon] 
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.  ![python_icon] 
 
 ### Sharing Files
@@ -607,6 +610,7 @@ You can see in which language an app is written. Currently there are following l
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS.  ![swift_icon] 
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar.  ![swift_icon] 
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays.  ![swift_icon] 
+- [MQTTX](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript_icon] ![type_script_icon] 
 - [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client.  ![objective_c_icon] 
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.  ![swift_icon] 
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker macOS application for meme creation.  ![swift_icon] 
