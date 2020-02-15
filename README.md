@@ -485,6 +485,7 @@ You can see in which language an app is written. Currently there are following l
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.  ![swift_icon] 
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.  ![javascript_icon] 
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. ![javascript_icon] 
+- [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro Cycle for macOS ![type_script_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration. ![cpp_icon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.  ![objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.  ![javascript_icon] ![css_icon] 
