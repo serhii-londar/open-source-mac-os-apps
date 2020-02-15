@@ -7676,9 +7676,9 @@
             "repo_url" : "https://github.com/jet8a/pomodoro-cycle-app",
             "official_site" : "https://github.com/jet8a/pomodoro-cycle-app/releases",
             "title" : "Pomodoro Cycle",
-            "icon_url": "https://github.com/jet8a/pomodoro-cycle-app/raw/master/src/favicon.png",
+            "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots" : [
-              "https://github.com/jet8a/pomodoro-cycle-app/raw/master/screenshots/1.png"
+              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/1.png"
             ],
             "short_description" : "Pomodoro Cycle for macOS",
             "languages" : [
