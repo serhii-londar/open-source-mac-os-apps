@@ -7673,6 +7673,22 @@
             ]
         },
         {
+            "repo_url" : "https://github.com/jet8a/pomodoro-cycle-app",
+            "official_site" : "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "title" : "Pomodoro Cycle",
+            "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/1.png"
+            ],
+            "short_description" : "Pomodoro Cycle for macOS",
+            "languages" : [
+              "type_script"
+            ],
+            "categories" : [
+              "productivity"
+            ]
+        },
+        {
             "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
             "categories": [
                 "other-development",
