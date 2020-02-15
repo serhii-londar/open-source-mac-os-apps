@@ -7685,7 +7685,7 @@
                 "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-gif.gif",
                 "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-preview.png"
             ],
-            "official_site": "https://mqttx.app",
+            "official_site": "",
             "languages": [
                 "javascript",
                 "type_script"
