@@ -206,10 +206,10 @@
             "title": "CAM",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png"
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/1.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/2.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/3.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/4.png"
             ],
             "official_site": "",
             "languages": [
@@ -4415,6 +4415,23 @@
             ]
         },
         {
+            "short_description": "Free and offline password manager. ",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/swiftyapp/swifty",
+            "title": "Swifty",
+            "icon_url": "https://getswifty.pro/images/brand@2x.png",
+            "screenshots": [
+                "https://alchaplinsky.com/images/misc/swifty_screen_01.png",
+                "https://alchaplinsky.com/images/misc/swifty_screen_02.png"
+            ],
+            "official_site": "https://getswifty.pro",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Frugal nativemacOS macOS Syncthing application bundle. ",
             "categories": [
                 "other"
@@ -7527,9 +7544,6 @@
             "title": "Calculeta",
             "icon_url": "",
             "screenshots": [
-                "",
-                "",
-                ""
             ],
             "official_site": "",
             "languages": [
@@ -7555,7 +7569,22 @@
             ]
         },
         {
-            "short_description": "Safari extension to save your working sessions.",
+            "short_description": "Add another lightweight MongoDB client.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
+            "title": "Light weight Mac Native Mongodb Client",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "objective_c",
+                "c"
+            ]
+        },
+        {
+            "short_description": "Safari extension to save your working sessions",
             "categories": [
                 "productivity",
                 "extensions"
@@ -7657,6 +7686,25 @@
             ],
             "categories" : [
               "productivity"
+            ]
+        },
+        {
+            "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/emqx/MQTTX",
+            "title": "MQTTX",
+            "icon_url": "https://user-images.githubusercontent.com/21299158/74506578-f83f1980-4f34-11ea-834a-694aff07c9d1.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-gif.gif",
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-preview.png"
+            ],
+            "official_site": "https://mqttx.app",
+            "languages": [
+                "javascript",
+                "type_script"
             ]
         }
     ]
