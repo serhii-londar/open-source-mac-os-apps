@@ -7654,6 +7654,25 @@
             "languages": [
                 "c"
             ]
+        },
+        {
+            "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/emqx/MQTTX",
+            "title": "MQTTX",
+            "icon_url": "https://user-images.githubusercontent.com/21299158/74506578-f83f1980-4f34-11ea-834a-694aff07c9d1.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-gif.gif",
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-preview.png"
+            ],
+            "official_site": "https://mqttx.app",
+            "languages": [
+                "javascript",
+                "type_script"
+            ]
         }
     ]
 }
