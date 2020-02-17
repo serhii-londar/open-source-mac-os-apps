@@ -7569,12 +7569,12 @@
             ]
         },
         {
-            "short_description": "Add another lightweight MongoDB client.",
+            "short_description": "Add another lightweight Mac Native MongoDB client.",
             "categories": [
                 "database"
             ],
             "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
-            "title": "Light weight Mac Native Mongodb Client",
+            "title": "MongoHub",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
