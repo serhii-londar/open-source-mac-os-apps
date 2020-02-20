@@ -342,5 +342,3 @@ struct Constants {
 }
 
 ReadmeGenerator().generateReadme()
-
-//print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")
