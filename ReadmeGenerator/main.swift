@@ -333,37 +333,6 @@ struct Constants {
     }
 }
 
-class GithubFetcher {
-    class func getStarsForUrl(gh_link: String) -> String {
-        var name : String = ""
-        do {
-            let thisFilePath:String = #file
-            let url = URL(fileURLWithPath: thisFilePath).deletingLastPathComponent().appendingPathComponent(FilePaths.github_token.rawValue)
-
-            let data = try Data(contentsOf: url)
-            let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
-            
-            let sema = DispatchSemaphore( value: 0 )
-            
-            let gh_url = NSURL(string: gh_link)
-            let comp = gh_url?.pathComponents
-            let owner = comp![1]
-            name = comp![2]
-                        
-            
-        }
-        catch {
-            print("cant fetch token")
-            print(error)
-        }
-        
-        return name
-            
-    }
-    
-}
-    
-
-print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")
 //ReadmeGenerator().generateReadme()
 
+print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")
