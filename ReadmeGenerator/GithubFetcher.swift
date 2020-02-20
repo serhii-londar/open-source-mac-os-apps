@@ -7,60 +7,49 @@
 //
 
 import Foundation
+import GithubAPI
 
 class GithubFetcher {
-    class func getStarsForUrl(gh_link: String) -> String {
-        var name : String = ""
+    class func getStarsForUrl(gh_link: String) -> Int {
+        var stars: Int = 0
+
         do {
-            let thisFilePath:String = #file
+            let thisFilePath: String = #file
             let url = URL(fileURLWithPath: thisFilePath).deletingLastPathComponent().appendingPathComponent(FilePaths.github_token.rawValue)
 
-            let data = try Data(contentsOf: url)
-            
-            
-            let sema = DispatchSemaphore( value: 0 )
-            
-            let gh_url = NSURL(string: gh_link)
-            let comp = gh_url?.pathComponents
-            if let comp = comp {
-                let owner = comp[1]
-                name = comp[2]
-                let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
-                
-                let config = TokenConfiguration(GITHUB_TOKEN)
-                         let gh = Octokit(config)
-                         gh.repository(owner: owner, name: name) { response in
-                           switch response {
-                           case .success(let repository):
-                             stars = repository.stargazersCount
-                             if let unwrapped = stars {
-                                 print("\(name) : \(unwrapped)⭐️")
-                             }
-                             break
-                           case .failure(let error):
-                             print(error)
-                             break
-                
-                           }
+            do {
 
-            } else {
-                print("cant parse url: \(gh_url?.absoluteString)")
+                let data = try Data(contentsOf: url)
+
+                let semaphore = DispatchSemaphore(value: 0)
+
+                let gh_url = NSURL(string: gh_link)
+                let comp = gh_url?.pathComponents
+                if let comp = comp {
+                    let owner = comp[1]
+                    let name = comp[2]
+                    let GITHUB_TOKEN = String(decoding: data, as: UTF8.self)
+                    let authentication = TokenAuthentication(token: GITHUB_TOKEN)
+                    let api = RepositoriesAPI(authentication: authentication)
+                    //                  RepositoriesAPI.init().get(owner: owner, repo: name) { (response, error) in
+                    api.get(owner: owner, repo: name) { (response, error) in
+
+                        if let starz = response?.stargazersCount {
+                            stars = starz
+                        } else {
+                            print(error ?? "nil error")
+                        }
+                        semaphore.signal()
+                    }
+                }
+
+                _ = semaphore.wait(wallTimeout: .distantFuture)
+            } catch {
+                print(error)
             }
-            
-            
-            
-                        
-            
         }
-        catch {
-            print("cant fetch token")
-            print(error)
-        }
-        
-        return name
-            
+        return stars
+
     }
-    
 }
-    
 
