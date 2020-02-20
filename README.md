@@ -262,10 +262,10 @@ You can see in which language an app is written. Currently there are following l
 ### Downloader
 - [App Downloader](https://github.com/yep/app-downloader) (117⭐️) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.  ![swift_icon] 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) (357⭐️) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.  ![swift_icon] 
-- [Motrix](https://github.com/agalwood/Motrix) (18233⭐️) - A full-featured download manager.  ![javascript_icon] 
+- [Motrix](https://github.com/agalwood/Motrix) (18234⭐️) - A full-featured download manager.  ![javascript_icon] 
 - [Pillager](https://github.com/Pjirlip/Pillager) (43⭐️) - macOS Video Downloader written in Swift and Objective-C. ![objective_c_icon] ![swift_icon] 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) (117⭐️) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.  ![swift_icon] 
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) (3093⭐️) - desktop application for downloading Udemy Courses.  ![javascript_icon] 
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) (3094⭐️) - desktop application for downloading Udemy Courses.  ![javascript_icon] 
 
 ### Editors
 
@@ -334,7 +334,7 @@ You can see in which language an app is written. Currently there are following l
 - [macSVG](https://github.com/dsward2/macSVG) (575⭐️) - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.  ![objective_c_icon] 
 
 ### IDE
-- [Atom](https://github.com/atom/atom) (51179⭐️) - The hackable text editor.  ![javascript_icon] 
+- [Atom](https://github.com/atom/atom) (51180⭐️) - The hackable text editor.  ![javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode) (269⭐️) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) (11452⭐️) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) (91738⭐️) - Code editor developed by Microsoft.  ![type_script_icon] 
@@ -428,7 +428,7 @@ You can see in which language an app is written. Currently there are following l
 - [Simplenote](https://github.com/Automattic/simplenote-macos) (994⭐️) - Simplest way to keep notes.  ![objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web) (1773⭐️) - Safe place for your notes, thoughts, and life's work. ![javascript_icon] ![css_icon] 
 - [Tusk](https://github.com/klaussinani/tusk) (2586⭐️) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ![css_icon] 
-- [joplin](https://github.com/laurent22/joplin) (13105⭐️) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.  ![javascript_icon] 
+- [joplin](https://github.com/laurent22/joplin) (13107⭐️) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.  ![javascript_icon] 
 - [notable](https://github.com/jmcfarlane/notable) (166⭐️) - Simple note taking application.  ![javascript_icon] 
 - [tmpNote](https://github.com/buddax2/tmpNote) (56⭐️) - Very simple macOS app to make temporary notes.  ![swift_icon] 
 
