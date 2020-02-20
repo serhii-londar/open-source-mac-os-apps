@@ -38,9 +38,6 @@ class GithubFetcher {
 
     func getStarsForUrl(gh_link: String) -> Int? {
         var stars: Int? = nil
-
-        do {
-            
             let gh_url = NSURL(string: gh_link)
             let comp = gh_url?.pathComponents
             if let comp = comp {
@@ -61,10 +58,6 @@ class GithubFetcher {
                 _ = semaphore.wait(wallTimeout: .distantFuture)
             }
 
-            
-        } catch {
-            print(error)
-        }
         return stars
     }
 }

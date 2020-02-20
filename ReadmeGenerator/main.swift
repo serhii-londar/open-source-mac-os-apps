@@ -296,7 +296,7 @@ extension JSONApplication {
 
         if let stars = GithubFetcher.shared.getStarsForUrl(gh_link: self.repoURL) {
             markdownDescription.append(" (\(stars)⭐️)")
-            print(" (\(markdownDescription))")
+            print("\(self.title) - \(stars)⭐️")
         }
 
         markdownDescription.append(" - \(self.shortDescription) \(languages)")
