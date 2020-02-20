@@ -217,7 +217,7 @@ class ReadmeGenerator {
             let thisFilePath:String = #file
             var url = URL(fileURLWithPath: thisFilePath)
 
-            //cd ../ to the root folder:
+            //cd ../ to the root folder: (delete `.github/main.swift`
             url = url.deletingLastPathComponent().deletingLastPathComponent()
 
             let applicationsUrl = url.appendingPathComponent(FilePaths.applications.rawValue)
@@ -293,15 +293,15 @@ extension JSONApplication {
             languages.append("![\(lang)\(String.iconPrefix)] ")
         }
         markdownDescription.append("- [\(self.title)](\(self.repoURL))")
-        
+
         if let stars = GithubFetcher.shared.getStarsForUrl(gh_link: self.repoURL) {
             markdownDescription.append(" (\(stars)⭐️)")
             print(" (\(markdownDescription))")
         }
-        
+
         markdownDescription.append(" - \(self.shortDescription) \(languages)")
-        
-        
+
+
         /*
          if self.screenshots.count > 0 {
          var screenshotsString = String.empty
@@ -322,7 +322,7 @@ enum FilePaths: String {
     case applications = "./applications.json"
     case categories = "./categories.json"
     case github_token = ".github_token"
-    
+
 }
 
 struct Constants {

@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nbolar/PlayStatus",
+            "title": "PlayStatus",
+            "icon_url": "https://user-images.githubusercontent.com/45484873/56880861-09cb3980-6a67-11e9-9d45-037a9165b212.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
                 "audio",
@@ -187,10 +206,10 @@
             "title": "CAM",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/3.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/4.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/1.png",
-                "https://raw.githubusercontent.com/hanayik/CAM/master/./gh-screenshots/2.png"
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/1.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/2.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/3.png",
+                "https://raw.githubusercontent.com/hanayik/CAM/master/gh-screenshots/4.png"
             ],
             "official_site": "",
             "languages": [
@@ -856,20 +875,6 @@
             ]
         },
         {
-            "short_description": "Source code of deprecated Telegram for macOS version. ",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/overtake/telegram",
-            "title": "Telegram [Deprecated]",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Telegram Desktop messaging app. ",
             "categories": [
                 "chat"
@@ -1520,7 +1525,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/athiercelin/Assets",
+            "repo_url": "https://github.com/e7711bbear/Assets",
             "title": "Assets",
             "icon_url": "",
             "screenshots": [],
@@ -1810,7 +1815,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/athiercelin/Localizations",
+            "repo_url": "https://github.com/e7711bbear/Localizations",
             "title": "Localizations",
             "icon_url": "",
             "screenshots": [],
@@ -2754,6 +2759,21 @@
             ]
         },
         {
+            "short_description": "Clipboard manager with advanced features",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/hluk/CopyQ",
+            "title": "CopyQ",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. ",
             "categories": [
                 "finder",
@@ -2980,13 +3000,14 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/sindresorhus/Gifski ",
+            "repo_url": "https://github.com/sindresorhus/Gifski",
             "title": "Gifski",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/AppIcon-readme.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot2.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/screenshot.jpg",
-                "https://raw.githubusercontent.com/sindresorhus/gifski-app/master/Stuff/AppIcon-readme.png"
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot2.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot1.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot3.jpg",
+                "https://raw.githubusercontent.com/sindresorhus/Gifski/master/Stuff/screenshot4.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -3070,23 +3091,6 @@
             "languages": [
                 "objective_c",
                 "css"
-            ]
-        },
-        {
-            "short_description": "Plugin manager for Sketch.app.",
-            "categories": [
-                "graphics"
-            ],
-            "repo_url": "https://github.com/buzzfeed/Sketch-Toolbox",
-            "title": "Sketch Toolbox",
-            "icon_url": "",
-            "screenshots": [
-                "https://i.cloudup.com/XTLlL1-Stt-3000x3000.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "objective_c",
-                "c"
             ]
         },
         {
@@ -3940,7 +3944,7 @@
             "categories": [
                 "news"
             ],
-            "repo_url": "https://github.com/brentsimmons/NetNewsWire",
+            "repo_url": "https://github.com/Ranchero-Software/NetNewsWire",
             "title": "NetNewsWire",
             "icon_url": "",
             "screenshots": [],
@@ -4153,6 +4157,24 @@
             "languages": [
                 "javascript",
                 "css"
+            ]
+        },
+        {
+            "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+            "categories": [
+                "markdown",
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pbek/QOwnNotes",
+            "title": "QOwnNotes",
+            "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
+            "screenshots": [
+               "https://www.qownnotes.org/var/bekerle/storage/images/_aliases/frontpage_slider_full2/qownnotes/frontpage-slider/qownnotes-main-screen-minimal-linux/4706-1-eng-GB/QOwnNotes-Main-Screen-Minimal-Linux.png"
+            ],
+            "official_site": "https://www.qownnotes.org/",
+            "languages": [
+                "cpp"
             ]
         },
         {
@@ -4390,6 +4412,23 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Free and offline password manager. ",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/swiftyapp/swifty",
+            "title": "Swifty",
+            "icon_url": "https://getswifty.pro/images/brand@2x.png",
+            "screenshots": [
+                "https://alchaplinsky.com/images/misc/swifty_screen_01.png",
+                "https://alchaplinsky.com/images/misc/swifty_screen_02.png"
+            ],
+            "official_site": "https://getswifty.pro",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -5582,9 +5621,9 @@
             "categories": [
                 "terminal"
             ],
-            "repo_url": "https://github.com/jwilm/alacritty",
+            "repo_url": "https://github.com/alacritty/alacritty",
             "title": "Alacritty",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png",
             "screenshots": [
                 "https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png"
             ],
@@ -7273,7 +7312,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/demo.gif"
             ],
-            "official_site": "https://dozermac.com",
+            "official_site": "",
             "languages": [
                 "swift"
             ]
@@ -7295,7 +7334,7 @@
             ]
         },
          {
-            "short_description": "Create beautiful musical scores with LilyPond",
+            "short_description": "Create beautiful musical scores with LilyPond.",
             "categories": [
                 "music"
             ],
@@ -7359,7 +7398,7 @@
             ]
         },
               {
-            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate",
+            "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.",
             "categories": [
                 "audio"
             ],
@@ -7387,7 +7426,7 @@
             ]
         },
         {
-            "short_description": "Cross-platform development IDE",
+            "short_description": "Cross-platform development IDE.",
             "categories": [
                 "ide"
             ],
@@ -7429,7 +7468,7 @@
             ]
         },
         {
-            "short_description": "A handy calculator with natural language parsing",
+            "short_description": "A handy calculator with natural language parsing.",
             "categories": [
                 "utilities"
             ],
@@ -7505,9 +7544,6 @@
             "title": "Calculeta",
             "icon_url": "",
             "screenshots": [
-                "",
-                "",
-                ""
             ],
             "official_site": "",
             "languages": [
@@ -7515,9 +7551,9 @@
             ]
         },
         {
-            "short_description": "No-fuss time management",
+            "short_description": "No-fuss time management.",
             "categories": [
-                "Productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/khrykin/StrategrDesktop",
             "title": "Strategr",
@@ -7530,6 +7566,21 @@
             "languages": [
                 "cpp",
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Add another lightweight Mac Native MongoDB client.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
+            "title": "MongoHub",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "objective_c",
+                "c"
             ]
         },
         {
@@ -7547,6 +7598,113 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Make any website your desktop wallpaper.",
+            "categories": [
+                "wallpaper",
+                "browser"
+            ],
+            "repo_url": "https://github.com/sindresorhus/Plash",
+            "title": "Plash",
+            "icon_url": "https://user-images.githubusercontent.com/170270/74323095-8d1c0880-4db7-11ea-9c07-3003fb9c3125.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/170270/74323375-0287d900-4db8-11ea-8b26-5566565fa8a1.jpg"
+            ],
+            "official_site": "https://sindresorhus.com/plash",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
+            "categories": [
+                "browser",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/kamranahmedse/pennywise",
+            "title": "Pennywise",
+            "icon_url": "",
+            "screenshots": [
+               "https://camo.githubusercontent.com/275d176aeaab2b9cf09701a091c8fb7ecfe6256a/68747470733a2f2f692e696d6775722e636f6d2f753766415439392e706e67",
+               "https://camo.githubusercontent.com/71ba8a4a28624f1f102272685f72a80fe70a2c03/68747470733a2f2f692e696d6775722e636f6d2f43654c596f75782e706e673f31",
+               "https://camo.githubusercontent.com/601c0dc538bad004c231201e8fe86e16ed3729d0/68747470733a2f2f692e696d6775722e636f6d2f4262715a6d634b2e706e67",
+               "https://camo.githubusercontent.com/26049b84b4b5d62b95e841d225a493992c78e62f/68747470733a2f2f692e696d6775722e636f6d2f586137696e54592e706e67"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "A simple command line notebook with multi-device sync and web interface.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/dnote/dnote",
+            "title": "Dnote",
+            "icon_url": "https://raw.githubusercontent.com/dnote/dnote/master/assets/logo.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif"
+            ],
+            "official_site": "https://www.getdnote.com/",
+            "languages": [
+                "go",
+                "type_script"
+            ]
+        },
+        {
+            "short_description": "Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
+            "categories": [
+                "productivity",
+                "extensions",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "title": "Middleclick",
+            "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
+            "screenshots": [
+               "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "c"
+            ]
+        },
+        {
+            "repo_url" : "https://github.com/jet8a/pomodoro-cycle-app",
+            "official_site" : "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "title" : "Pomodoro Cycle",
+            "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/1.png"
+            ],
+            "short_description" : "Pomodoro Cycle for macOS",
+            "languages" : [
+              "type_script"
+            ],
+            "categories" : [
+              "productivity"
+            ]
+        },
+        {
+            "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/emqx/MQTTX",
+            "title": "MQTTX",
+            "icon_url": "https://user-images.githubusercontent.com/21299158/74506578-f83f1980-4f34-11ea-834a-694aff07c9d1.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-gif.gif",
+                "https://raw.githubusercontent.com/emqx/MQTTX/master/assets/mqttx-preview.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript",
+                "type_script"
             ]
         }
     ]
