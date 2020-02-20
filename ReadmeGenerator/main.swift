@@ -292,8 +292,15 @@ extension JSONApplication {
         for lang in self.languages {
             languages.append("![\(lang)\(String.iconPrefix)] ")
         }
+        markdownDescription.append("- [\(self.title)](\(self.repoURL))")
         
-        markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription) \(languages)")
+        if let stars = GithubFetcher.getStarsForUrl(gh_link: self.repoURL) {
+            markdownDescription.append(" (\(stars)⭐️)")
+        }
+        
+        markdownDescription.append(" - \(self.shortDescription) \(languages)")
+        
+        
         /*
          if self.screenshots.count > 0 {
          var screenshotsString = String.empty
@@ -333,6 +340,6 @@ struct Constants {
     }
 }
 
-//ReadmeGenerator().generateReadme()
+ReadmeGenerator().generateReadme()
 
-print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")
+//print("ret: \(GithubFetcher.getStarsForUrl(gh_link: "https://github.com/serhii-londar/open-source-mac-os-apps") as Any)")

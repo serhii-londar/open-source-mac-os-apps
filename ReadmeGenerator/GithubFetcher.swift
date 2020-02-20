@@ -10,8 +10,8 @@ import Foundation
 import GithubAPI
 
 class GithubFetcher {
-    class func getStarsForUrl(gh_link: String) -> Int {
-        var stars: Int = 0
+    class func getStarsForUrl(gh_link: String) -> Int? {
+        var stars: Int? = nil
 
         do {
             let thisFilePath: String = #file
@@ -37,7 +37,8 @@ class GithubFetcher {
                         if let starz = response?.stargazersCount {
                             stars = starz
                         } else {
-                            print(error ?? "nil error")
+                            print(error ?? "nil error for \(gh_url)")
+                            
                         }
                         semaphore.signal()
                     }
