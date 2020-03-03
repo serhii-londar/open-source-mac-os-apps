@@ -7706,6 +7706,23 @@
                 "javascript",
                 "type_script"
             ]
+        },
+        {
+            "short_description": "An open source, free and hackable screenshot tracker. Re-watch what you've been working on!",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/instance01/mac-screenshot-tracker",
+            "title": "Mac Screenshot Tracker",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/instance01/mac-screenshot-tracker/master/.github/screen1.png",
+                "https://raw.githubusercontent.com/instance01/mac-screenshot-tracker/master/.github/screen2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
