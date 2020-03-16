@@ -123,6 +123,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).  ![python_icon] 
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. ![cpp_icon] ![c_icon] 
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more.  ![python_icon] 
+- [Syncalicious](https://github.com/zenangst/Syncalicious) (83⭐️)- Keeping multiple macOS preferences in sync can be painful, but it shouldn't be. ![swift_icon]
 
 ### Browser
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.   ![javascript_icon] 
