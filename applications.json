@@ -7706,6 +7706,25 @@
                 "javascript",
                 "type_script"
             ]
+        },
+        {
+            "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
+            "categories": [
+                "Menubar",
+                "System",
+                "Utilities"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/SlimHUD",
+            "title": "SlimHUD - Cyanocitta",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/IconFull.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif",
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
