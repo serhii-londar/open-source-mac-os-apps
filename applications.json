@@ -7706,6 +7706,23 @@
                 "javascript",
                 "type_script"
             ]
+        },
+        {
+            "short_description": "Coronavirus tracker app for iOS & macOS with maps & charts",
+            "categories": [
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/MhdHejazi/CoronaTracker",
+            "title": "Corona Tracker",
+            "icon_url": "https://coronatracker.samabox.com/images/icon.svg",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/121827/77247007-03751b80-6c3e-11ea-91fc-b3d535fda6a2.png",
+                "https://user-images.githubusercontent.com/121827/77246699-e25efb80-6c3a-11ea-8a49-30bd87ff33c0.png"
+            ],
+            "official_site": "https://coronatracker.samabox.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
