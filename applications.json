@@ -6264,20 +6264,6 @@
             ]
         },
         {
-            "short_description": "A rule based custom proxy with GUI for Mac base on clash. ",
-            "categories": [
-                "vpn--proxy"
-            ],
-            "repo_url": "https://github.com/yichengchen/clashX",
-            "title": "clashX",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Ribose VPN Client macOS Menu App. ",
             "categories": [
                 "vpn--proxy"
