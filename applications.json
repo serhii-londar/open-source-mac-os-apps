@@ -2106,6 +2106,22 @@
             ]
         },
         {
+          "short_description": "Template based highly customizable macOS app to generate classes from JSON string, supports many languages. ",
+          "categories": [
+            "json-parsing"
+          ],
+          "repo_url": "https://github.com/chanonly123/Json-Model-Generator",
+          "title": "JSON to Model class",
+          "icon_url": "",
+          "screenshots": [
+            "https://github.com/chanonly123/Json-Model-Generator/raw/master/demo1.png"
+          ],
+          "official_site": "",
+          "languages": [
+            "swift"
+          ]
+        },
+        {
             "short_description": "Simple macOS app for uploading files to Amazon Web Services. ",
             "categories": [
                 "web-development"
