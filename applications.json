@@ -2112,7 +2112,7 @@
             "title": "aws-s3-uploader",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/RafalWilinski/s3-uploader/master//upload_anim.gif"
+                "https://raw.githubusercontent.com/RafalWilinski/s3-uploader/master/upload_anim.gif"
             ],
             "official_site": "",
             "languages": [
@@ -2447,8 +2447,8 @@
             "title": "Pillager",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/pillagerpreview.png",
-                "https://raw.githubusercontent.com/Pjirlip/Pillager/master//docu/useffmpeg.gif"
+                "https://raw.githubusercontent.com/Pjirlip/Pillager/master/docu/pillagerpreview.png",
+                "https://raw.githubusercontent.com/Pjirlip/Pillager/master/docu/useffmpeg.gif"
             ],
             "official_site": "",
             "languages": [
@@ -3537,7 +3537,7 @@
                 "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_2.png",
                 "https://raw.githubusercontent.com/wiki/invesalius/invesalius3/figures/screen_3.png"
             ],
-            "official_site": "https://www.cti.gov.br/pt-br/invesalius",
+            "official_site": "",
             "languages": [
                 "python"
             ]
@@ -4882,7 +4882,7 @@
             "title": "Timer",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/michaelvillar/timer-app/master//screenshots/timer.png"
+                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/timer.png"
             ],
             "official_site": "",
             "languages": [
@@ -5480,8 +5480,8 @@
             "title": "Juice",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/brianmichel/Juice/master//images/cyle-post.png",
-                "https://raw.githubusercontent.com/brianmichel/Juice/master//images/icon-readme.png"
+                "https://raw.githubusercontent.com/brianmichel/Juice/master/images/cyle-post.png",
+                "https://raw.githubusercontent.com/brianmichel/Juice/master/images/icon-readme.png"
             ],
             "official_site": "",
             "languages": [
@@ -5847,10 +5847,10 @@
             "title": "Crypter",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/HR/Crypter/master//.github/Welcome_screen.png",
-                "https://raw.githubusercontent.com/HR/Crypter/master//.github/Settings_screen.png",
-                "https://raw.githubusercontent.com/HR/Crypter/master//.github/Crypter_main_screen.png",
-                "https://raw.githubusercontent.com/HR/Crypter/master//.github/MasterPass_screen.png"
+                "https://raw.githubusercontent.com/HR/Crypter/master/.github/Welcome_screen.png",
+                "https://raw.githubusercontent.com/HR/Crypter/master/.github/Settings_screen.png",
+                "https://raw.githubusercontent.com/HR/Crypter/master/.github/Crypter_main_screen.png",
+                "https://raw.githubusercontent.com/HR/Crypter/master/.github/MasterPass_screen.png"
             ],
             "official_site": "",
             "languages": [
@@ -6830,7 +6830,7 @@
             "title": "Sunscreen",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/davidcelis/Sunscreen/master//images/icon.png"
+                "https://raw.githubusercontent.com/davidcelis/Sunscreen/master/images/icon.png"
             ],
             "official_site": "",
             "languages": [
@@ -7136,9 +7136,8 @@
             "title": "OpenInTerminal",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-open-in-terminal.gif",
-                "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-open-in-editor.gif",
-                "https://raw.githubusercontent.com/Ji4n1ng/OpenInTerminal/master/Resources/screenshots/main-copy-path-to-clipboard.gif"
+                "hhttps://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
+                "hhttps://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif",
             ],
             "official_site": "",
             "languages": [
