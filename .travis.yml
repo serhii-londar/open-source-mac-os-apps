@@ -7,7 +7,7 @@ before_script:
   - gem install bundler
   - gem install danger
 script:
-  - awesome_bot applications.json -d 0.5 -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/
+  - awesome_bot applications.json -d 1 -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/
   - danger
 after_success:
   - swift ./.github/main.swift
