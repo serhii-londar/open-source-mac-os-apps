@@ -125,8 +125,6 @@
             "title": "AUHost",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-Attenuator.png",
-                "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MediaLibrary.png",
                 "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png"
             ],
             "official_site": "",
@@ -162,19 +160,19 @@
             "title": "Aural Player",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Compact.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Delay.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Preferences-Playback.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/SegmentLoop.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Default.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Demos/mainDemo.gif",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetailedInfo.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Filter.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Search.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DockedLeft.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/DetachedPlaylist.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Time.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master//Documentation/Screenshots/Sort.png"
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Compact.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Delay.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Preferences-Playback.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/SegmentLoop.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Default.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/mainDemo.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DetailedInfo.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Filter.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Search.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DockedLeft.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DetachedPlaylist.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Time.png",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Sort.png"
             ],
             "official_site": "",
             "languages": [
@@ -221,7 +219,7 @@
             "categories": [
                 "audio"
             ],
-            "repo_url": "https://github.com/nodeful/eqMac2",
+            "repo_url": "https://github.com/bitgapp/eqMac",
             "title": "eqMac2",
             "icon_url": "",
             "screenshots": [
@@ -776,7 +774,7 @@
             "title": "Franz",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/meetfranz/franz/master/./build-helpers/images/icon.png"
+                "https://raw.githubusercontent.com/meetfranz/franz/master/build-helpers/images/icon.png"
             ],
             "official_site": "",
             "languages": [
@@ -817,7 +815,7 @@
             ]
         },
         {
-            "short_description": "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/blog/home/) protocol. ",
+            "short_description": "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.",
             "categories": [
                 "chat"
             ],
@@ -1030,7 +1028,7 @@
             "title": "Float coin",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/kaunteya/FloatCoin/master//Images/Banner.png"
+                "https://raw.githubusercontent.com/kaunteya/FloatCoin/master/Images/Banner.png"
             ],
             "official_site": "",
             "languages": [
@@ -1512,7 +1510,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot.png",
                 "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/screenshot_themestore.png",
-                "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/./quicklook_thumb.png"
+                "https://raw.githubusercontent.com/insidegui/AssetCatalogTinkerer/master/quicklook_thumb.png"
             ],
             "official_site": "",
             "languages": [
@@ -1543,8 +1541,8 @@
             "title": "Attabench",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Attabench-screenshot.png",
-                "https://raw.githubusercontent.com/attaswift/Attabench/master/./Images/Header.png",
+                "https://raw.githubusercontent.com/attaswift/Attabench/master/Images/Attabench-screenshot.png",
+                "https://raw.githubusercontent.com/attaswift/Attabench/master/Images/Header.png",
                 "https://raw.githubusercontent.com/attaswift/Attabench/master/Images/SampleBenchmark.png"
             ],
             "official_site": "",
@@ -1847,7 +1845,7 @@
             "title": "Menubar Colors",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/nvzqz/Menubar-Colors/master/./Example.jpg"
+                "https://raw.githubusercontent.com/nvzqz/Menubar-Colors/master/Example.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -2036,11 +2034,11 @@
             "title": "WWDC.srt",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./WWDCSubGetter/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png",
-                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session02.png",
-                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/VideoLink.png",
-                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/TextFile.png",
-                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/./ScreenShots/Session01.png"
+                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/WWDCSubGetter/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png",
+                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/ScreenShots/Session02.png",
+                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/ScreenShots/VideoLink.png",
+                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/ScreenShots/TextFile.png",
+                "https://raw.githubusercontent.com/ssamadgh/WWDCsrt/master/ScreenShots/Session01.png"
             ],
             "official_site": "",
             "languages": [
@@ -2210,7 +2208,7 @@
             "title": "KubeMonitor",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/DanSanche/KubeMonitor/master/./Screenshot.png"
+                "https://raw.githubusercontent.com/DanSanche/KubeMonitor/master/Screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -2528,7 +2526,7 @@
             "title": "Gingko",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/gingko/client/master/./docs/images/screenshot-alien-screenplay.png"
+                "https://raw.githubusercontent.com/gingko/client/master/docs/images/screenshot-alien-screenplay.png"
             ],
             "official_site": "",
             "languages": [
@@ -2750,7 +2748,7 @@
             "title": "Clipy",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/Clipy/Clipy/master/./Resources/clipy_logo.png",
+                "https://raw.githubusercontent.com/Clipy/Clipy/master/Resources/clipy_logo.png",
                 "https://clipy-app.com/img/screenshot1.png"
             ],
             "official_site": "",
@@ -3085,7 +3083,7 @@
             "title": "ScreenToLayers for macOS",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/duyquoc/ScreenToLayers/master/./Others/presentation.png"
+                "https://raw.githubusercontent.com/duyquoc/ScreenToLayers/master/Others/presentation.png"
             ],
             "official_site": "",
             "languages": [
@@ -3440,8 +3438,8 @@
             "title": "Thor",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png",
-                "https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png"
+                "https://raw.githubusercontent.com/gbammc/Thor/master/screenshot_settings.png",
+                "https://raw.githubusercontent.com/gbammc/Thor/master/screenshot_list.png"
             ],
             "official_site": "",
             "languages": [
@@ -3595,7 +3593,7 @@
             "title": "CloudyTabs",
             "icon_url": "",
             "screenshots": [
-                "http://joshparnham.com/projects/cloudytabs/CloudyTabs.png"
+                "https://joshparnham.com/projects/cloudytabs/CloudyTabs.png"
             ],
             "official_site": "",
             "languages": [
@@ -3976,7 +3974,7 @@
             "title": "Boostnote",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/BoostIO/Boostnote/master/./resources/repository/top.png"
+                "https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/repository/top.png"
             ],
             "official_site": "",
             "languages": [
@@ -4088,7 +4086,7 @@
             "title": "NoteTaker",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/insidegui/NoteTaker/master/./screenshot.png"
+                "https://raw.githubusercontent.com/insidegui/NoteTaker/master/screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -4260,7 +4258,7 @@
             "title": "Keyframes Player",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/insidegui/KeyframesPlayer/master/./screenshot.gif"
+                "https://raw.githubusercontent.com/insidegui/KeyframesPlayer/master/screenshot.gif"
             ],
             "official_site": "",
             "languages": [
@@ -4600,7 +4598,7 @@
             "title": "ClipMenu",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/naotaka/ClipMenu/master/./screenshot.jpg"
+                "https://raw.githubusercontent.com/naotaka/ClipMenu/master/screenshot.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -5499,7 +5497,7 @@
             "title": "KeepingYouAwake",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/./Extras/Screenshot.jpg"
+                "https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/Extras/Screenshot.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -5515,7 +5513,7 @@
             "title": "Latest",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/mangerlahn/Latest/master/./latest.png"
+                "https://raw.githubusercontent.com/mangerlahn/Latest/master/latest.png"
             ],
             "official_site": "",
             "languages": [
@@ -5970,9 +5968,9 @@
             "title": "Life-Calendar",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%203.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockups%201.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/./Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png"
+                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%203.png",
+                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%201.png",
+                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png"
             ],
             "official_site": "",
             "languages": [
@@ -6403,7 +6401,7 @@
             "icon_url": "",
             "screenshots": [
                 "https://i.imgur.com/FEVY2Pu.png",
-                "https://raw.githubusercontent.com/xiaohk/FaceData/master/./result.gif"
+                "https://raw.githubusercontent.com/xiaohk/FaceData/master/result.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7197,7 +7195,7 @@
             "screenshots": [
                 "https://camo.githubusercontent.com/51a17fe9599c84dddda6aa5540e8cdbebedfce83/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f707265766965772f706f636b5f776964676574732e706e67"
             ],
-            "official_site": "https://pock.pigigaldi.com",
+            "official_site": "https://pock.dev/",
             "languages": [
                 "swift"
             ]
@@ -7490,7 +7488,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
+            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
             "languages": [
                 "c_sharp"
             ]
