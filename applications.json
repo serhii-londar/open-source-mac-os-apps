@@ -2966,7 +2966,6 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/gifcapture.png",
-                "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g1.gif",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/Icon.png",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif"
@@ -7136,8 +7135,8 @@
             "title": "OpenInTerminal",
             "icon_url": "",
             "screenshots": [
-                "hhttps://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
-                "hhttps://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif",
+                "https://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
+                "https://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif",
             ],
             "official_site": "",
             "languages": [
