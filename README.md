@@ -300,6 +300,7 @@ You can see in which language an app is written. Currently there are following l
 - [PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS.  ![javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.  ![swift_icon] 
 - [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions ![swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari ![swift_icon] 
 - [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore. ![swift_icon] 
 
 ### Finder
@@ -500,6 +501,7 @@ You can see in which language an app is written. Currently there are following l
 - [Toggl Desktop]() - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support. ![swift_icon] 
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.  ![swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari ![swift_icon] 
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.  ![javascript_icon] 
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
@@ -633,6 +635,7 @@ You can see in which language an app is written. Currently there are following l
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.  ![javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src ) - The Unarchiver is an Objective-C application for uncompressing archive files.  ![objective_c_icon] 
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.  ![swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari ![swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
 - [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax. ![rust_icon] 
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries ![ruby_icon] 
