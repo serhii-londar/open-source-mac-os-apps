@@ -20,6 +20,25 @@
             ]
         },
         {
+           "short_description": "Ultra TabSaver is an open-source Tab Manager for Safari",
+           "categories": [
+               "extensions",
+               "productivity",
+               "utilities"
+           ],
+           "repo_url": "https://github.com/morsamatias/UltraTabSaver",
+           "title": "Ultra TabSaver",
+           "icon_url": "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Ultra%20TabSaver/Assets.xcassets/AppIcon.appiconset/unnamed-1.png",
+           "screenshots": [
+              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-1.png",
+              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-2.png"
+           ],
+           "official_site": "",
+           "languages": [
+               "swift"
+           ]
+       },
+        {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
                 "audio",
