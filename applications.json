@@ -4900,7 +4900,8 @@
             "title": "Timer",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/timer.png"
+                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/light-mode.png",
+                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/dark-mode.png"
             ],
             "official_site": "",
             "languages": [
