@@ -7710,9 +7710,9 @@
         {
             "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
             "categories": [
-                "Menubar",
-                "System",
-                "Utilities"
+                "menubar",
+                "system",
+                "utilities"
             ],
             "repo_url": "https://github.com/AlexPerathoner/SlimHUD",
             "title": "SlimHUD - Cyanocitta",
