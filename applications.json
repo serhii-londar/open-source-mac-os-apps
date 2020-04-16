@@ -7518,13 +7518,8 @@
             ],
             "repo_url": "https://github.com/cryptomator/cryptomator",
             "title": "Cryptomator",
-            "icon_url": "https://cryptomator.org/resources/presskit/cryptomator-logo.png",
-            "screenshots": [
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-1.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-2.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-3.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-4.png"
-            ],
+            "icon_url": "https://github.com/cryptomator/cryptomator/raw/develop/cryptomator.png",
+            "screenshots": [],
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
