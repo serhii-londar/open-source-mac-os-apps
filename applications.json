@@ -7735,5 +7735,23 @@
                 "python"
             ]
         }
+        {
+            "short_description": "Musical Instrument Tuner",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/billthefarmer/ctuner",
+            "title": "Tuner",
+            "icon_url": "https://github.com/billthefarmer/ctuner/raw/master/swift/Tuner.png",
+            "screenshots": [
+                "https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/ctuner/Tuner-swift.png",
+                "https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/ctuner/Tuner-preferences.png",
+                "https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/ctuner/Note-filter.png"
+            ],
+            "official_site": "https://billthefarmer.github.io/ctuner",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
