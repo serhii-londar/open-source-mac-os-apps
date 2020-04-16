@@ -7716,6 +7716,24 @@
             ]
         },
         {
+            "short_description": "Manage grayscale mode from menu bar.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rkbhochalya/grayscale-mode",
+            "title": "Grayscale Mode",
+            "icon_url": "https://user-images.githubusercontent.com/12229032/78544116-48d94180-7817-11ea-9612-7a596f897e02.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/12229032/78544215-6b6b5a80-7817-11ea-8b80-12bbbfc16053.jpg",
+                "https://user-images.githubusercontent.com/12229032/78544289-84740b80-7817-11ea-9092-e76fcb027702.jpg"
+            ],
+            "official_site": "https://grayscalemode.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
             "categories": [
                 "other-development",
