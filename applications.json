@@ -7753,6 +7753,26 @@
             ]
         },
         {
+            "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/SlimHUD",
+            "title": "SlimHUD - Cyanocitta",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/IconFull.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif",
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png"
+            ],
+            "official_site": "",
+            "languages": [
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Coronavirus tracker app for iOS & macOS with maps & charts.",
             "categories": [
                 "ios--macos"
