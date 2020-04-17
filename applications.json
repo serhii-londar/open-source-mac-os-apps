@@ -2239,7 +2239,7 @@
             "categories": [
                 "web-development"
             ],
-            "repo_url": "https://github.com/DanSanche/KubeMonitor",
+            "repo_url": "https://github.com/Daniel-Sanche/KubeMonitor",
             "title": "KubeMonitor",
             "icon_url": "",
             "screenshots": [
@@ -7172,7 +7172,7 @@
             "icon_url": "",
             "screenshots": [
                 "https://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
-                "https://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif",
+                "https://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7785,7 +7785,7 @@
             "languages": [
                 "python"
             ]
-        }
+        },
         {
             "short_description": "Musical Instrument Tuner",
             "categories": [
