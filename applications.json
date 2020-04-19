@@ -7823,6 +7823,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Email Alias solution: protect your real email address.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/simple-login/mac-app",
+            "title": "SimpleLogin",
+            "icon_url": "https://simplelogin.io/logo.svg",
+            "screenshots": [
+                "https://static.simplelogin.io/open-source-mac-apps.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
