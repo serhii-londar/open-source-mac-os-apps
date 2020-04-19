@@ -7823,6 +7823,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Audio Oscilloscope",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/billthefarmer/audiotools/tree/master/Scope/swift",
+            "title": "Scope",
+            "icon_url": "https://raw.githubusercontent.com/billthefarmer/audiotools/master/Scope/swift/Scope.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/audiotools/Scope-swift.png"
+            ],
+            "official_site": "https://billthefarmer.github.io/audiotools",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
