@@ -292,8 +292,16 @@ extension JSONApplication {
         for lang in self.languages {
             languages.append("![\(lang)\(String.iconPrefix)] ")
         }
-        
-        markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription) \(languages)")
+        markdownDescription.append("- [\(self.title)](\(self.repoURL))")
+
+        if let stars = GithubFetcher.shared.getStarsForUrl(gh_link: self.repoURL) {
+            markdownDescription.append(" (\(stars)⭐️)")
+            print("\(self.title) - \(stars)⭐️")
+        }
+
+        markdownDescription.append(" - \(self.shortDescription) \(languages)")
+
+
         /*
          if self.screenshots.count > 0 {
          var screenshotsString = String.empty
@@ -313,6 +321,8 @@ enum FilePaths: String {
     case readme = "./README.md"
     case applications = "./applications.json"
     case categories = "./categories.json"
+    case github_token = ".github_token"
+
 }
 
 struct Constants {
@@ -332,4 +342,3 @@ struct Constants {
 }
 
 ReadmeGenerator().generateReadme()
-
