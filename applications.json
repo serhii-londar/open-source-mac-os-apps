@@ -7365,6 +7365,20 @@
                 "c"
             ]
         },
+        {
+            "short_description": "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/kyleneideck/BackgroundMusic",
+            "title": "Background Music",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/kyleneideck/BackgroundMusic",
+            "languages": [
+                "c"
+            ]
+        },
          {
             "short_description": "Create beautiful musical scores with LilyPond.",
             "categories": [
