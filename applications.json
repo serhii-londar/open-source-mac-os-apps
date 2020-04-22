@@ -7823,6 +7823,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Your GitHub notifications on your menu bar.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/manosim/gitify",
+            "title": "Gitify",
+            "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
+            "screenshots": [
+                "https://github.com/manosim/gitify/blob/master/assets/images/press.png?raw=true"
+            ],
+            "official_site": "https://www.gitify.io/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
