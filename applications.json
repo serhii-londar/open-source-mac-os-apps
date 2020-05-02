@@ -7822,6 +7822,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Protect your email with aliases and more. Its Safari Extension helps you create aliases on the fly without leaving Safari.",
+            "categories": [
+                "extensions",
+                "productivity",
+                "security"
+            ],
+            "repo_url": "https://github.com/simple-login/mac-app",
+            "title": "SimpleLogin",
+            "icon_url": "https://raw.githubusercontent.com/simple-login/mac-app/development/Simple%20Login/Simple%20Login/Assets.xcassets/AppIcon.appiconset/1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL-macOS/raw/sl-home.png",
+                "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL-macOS/raw/sl-safari-extension.png"
+            ],
+            "official_site": "https://simplelogin.io/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
