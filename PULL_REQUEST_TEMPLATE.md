@@ -2,18 +2,15 @@
 
 ## Project URL
 <!--- The project URL -->
-[upterm](https://github.com/railsware/upterm)
+
 ## Category
 <!--- Category in Awesome macOS open source applications where the project will be added -->
-Terminal
 
 ## Description
 <!--- Describe your changes in detail -->
- Project has been depreciated
-
+ 
 ## Why it should be included to `Awesome macOS open source applications ` (optional)
 
- Project should not be included because it will no longer be updated. 
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
