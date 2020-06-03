@@ -5756,30 +5756,6 @@
             ]
         },
         {
-            "short_description": "A terminal emulator for the 21st century (formerly Black Screen). ",
-            "categories": [
-                "terminal"
-            ],
-            "repo_url": "https://github.com/railsware/upterm",
-            "title": "Upterm",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/top_autocompletion.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/error.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/emacs.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/htop.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/main.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/npm_autocompletion.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/json_prettyfier.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/vim.png",
-                "https://raw.githubusercontent.com/railsware/upterm/master/README/cd.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "wallpapper is a console application for creating dynamic wallpapers for Mojave. ",
             "categories": [
                 "terminal"
