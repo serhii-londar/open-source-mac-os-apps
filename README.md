@@ -177,7 +177,7 @@ You can see in which language an app is written. Currently there are following l
 ### Development
 
 #### Git
-- [Cashew](https://github.com/jensteichert/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
+- [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase. ![rust_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![type_script_icon] 
