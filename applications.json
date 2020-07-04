@@ -179,18 +179,14 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Default.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Compact.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Delay.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Preferences-Playback.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/SegmentLoop.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/mainDemo.gif",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/DetailedInfo.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Filter.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Search.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/DockedLeft.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/DetachedPlaylist.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/Time.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Sort.png"
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ChangingColorScheme.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/playerView.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ABLoop.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/UsingFXUnit.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/DetailedInfo.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/WindowLayout.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/PlaylistSearch.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ChaptersDemo.gif"
             ],
             "official_site": "",
             "languages": [
