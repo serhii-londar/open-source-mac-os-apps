@@ -13,7 +13,6 @@
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
-
 <a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
 <img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
 
