@@ -9,15 +9,16 @@
 <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
+List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
+
 ## Support
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 <a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
 <img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
+<br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">GitAds</a> </i> </br>
 
-
-List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
 ## Languages
 
