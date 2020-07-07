@@ -7818,6 +7818,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Get the physical location of your device and prints it to standard output",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fulldecent/corelocationcli",
+            "title": "CoreLocationCLI",
+            "screenshots": [
+                "https://cloud.githubusercontent.com/assets/382183/25063655/52c11234-221d-11e7-81fb-0f8712dac393.gif"
+            ],
+            "official_site": "https://github.com/fulldecent/corelocationcli",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
