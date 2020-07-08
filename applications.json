@@ -1,6 +1,24 @@
 {
     "applications": [
-        {
+		{
+			"short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
+			"categories": [
+				"ide",
+				"development"
+			],
+			"repo_url": "https://github.com/apache/netbeans",
+			"title": "Apache Netbeans",
+			"icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
+			"screenshots": [
+				"https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
+				"https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
+			],
+			"official_site": "http://netbeans.apache.org",
+			"languages": [
+				"java"
+			]
+		},
+		{
             "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
             "categories": [
                 "audio",
