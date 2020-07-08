@@ -179,6 +179,7 @@ You can see in which language an app is written. Currently there are following l
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.  ![swift_icon] 
 
 ### Development
+- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 
 #### Git
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
@@ -342,6 +343,7 @@ You can see in which language an app is written. Currently there are following l
 - [macSVG](https://github.com/dsward2/macSVG) - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.  ![objective_c_icon] 
 
 ### IDE
+- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
@@ -378,6 +380,7 @@ You can see in which language an app is written. Currently there are following l
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![type_script_icon] 
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors ![javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
+- [SimpleLogin](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address. ![swift_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 
 ### Medical
