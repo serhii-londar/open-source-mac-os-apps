@@ -7035,6 +7035,23 @@
             ]
         },
         {
+          "short_description": "A tiling window manager for macOS based on binary space partitioning.",
+          "categories": [
+              "window-management"
+          ],
+          "repo_url": "https://github.com/koekeishiya/yabai",
+          "title": "Yabai",
+          "icon_url": "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/banner/banner.svg?sanitize=true",
+          "screenshots": [
+            "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/screenshot.png"
+          ],
+          "official_site": "",
+          "languages": [
+              "c",
+              "objective_c"
+          ]
+        },
+        {
             "short_description": "Teach your kids the alphabet and how to type.",
             "categories": [
                 "other"
