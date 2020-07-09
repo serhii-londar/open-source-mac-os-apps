@@ -559,7 +559,7 @@ You can see in which language an app is written. Currently there are following l
 - [Product Hunt](https://github.com/producthunt/producthunt-osx) - share and discover your favorite new products and applications.  ![swift_icon] 
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io) app.  ![javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon] 
-- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.  ![ruby_icon] 
+- [Simpo](https://github.com/KeliCheng/Simpo) - macOS menubar app to post status quickly.  ![swift_icon] 
 - [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.  ![javascript_icon] 
 
 ### Streaming
@@ -596,7 +596,6 @@ You can see in which language an app is written. Currently there are following l
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![python_icon] ![c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.  ![swift_icon] 
-- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen).  ![javascript_icon] 
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.  ![swift_icon] 
