@@ -7861,7 +7861,7 @@
             "title": "Gitify",
             "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
             "screenshots": [
-                "https://github.com/manosim/gitify/blob/master/assets/images/press.png?raw=true"
+                "https://github.com/manosim/gitify/blob/master/assets/images/press.png"
             ],
             "official_site": "https://www.gitify.io/",
             "languages": [
