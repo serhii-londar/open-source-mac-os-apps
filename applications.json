@@ -579,6 +579,21 @@
             ]
         },
         {
+            "short_description": "Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/zenangst/Syncalicious",
+            "title": "Syncalicious",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Easily create lightweight documentation of installed applications, dotfiles, and more. ",
             "categories": [
                 "backup"
