@@ -7846,6 +7846,23 @@
             ]
         },
         {
+            "short_description": "Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro. ",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/joshjon/nocturnal",
+            "title": "Nocturnal",
+            "icon_url": "https://raw.githubusercontent.com/joshjon/nocturnal/master/Nocturnal/Assets.xcassets/AppIcon.appiconset/Icon-App-256x256%401x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joshjon/nocturnal/master/Docs/Images/Nocturnal-Screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Menu bar app for your calendar meetings",
             "categories": [
                 "utilities",
