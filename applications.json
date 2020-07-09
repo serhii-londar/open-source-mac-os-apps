@@ -2374,7 +2374,7 @@
             "categories": [
                 "web-development"
             ],
-            "repo_url": "https://github.com/zeit/now-desktop",
+            "repo_url": "https://github.com/vercel/now-desktop",
             "title": "Now Desktop",
             "icon_url": "",
             "screenshots": [
@@ -7863,7 +7863,7 @@
             "screenshots": [
                "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/audiotools/Scope-swift.png"
             ],
-            "official_site": "https://billthefarmer.github.io/audiotools",
+            "official_site": "https://billthefarmer.github.io/audiotools/",
             "languages": [
                 "swift"
             ]
