@@ -195,6 +195,7 @@ You can see in which language an app is written. Currently there are following l
 - [Github contributions](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.  ![swift_icon] 
 - [GithubListener](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories.  ![swift_icon] 
 - [GithubNotify](https://github.com/erik/github-notify) - Simple macOS app to alert you when you have unread GitHub notifications.  ![swift_icon] 
+- [Gitify](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar. ![javascript_icon] 
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.  ![javascript_icon] 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team.  ![swift_icon] 
 - [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.  ![swift_icon] 
