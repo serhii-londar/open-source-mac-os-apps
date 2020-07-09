@@ -15,10 +15,13 @@ List of awesome open source applications for macOS. This list contains a lot of 
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
+You also can support this project by tapping on the banner below or on ![this link](https://tracking.gitads.io/?repo=open-source-mac-os-appss).
+
 <a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
 <img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
 
 <br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">GitAds</a> </i> </br>
+
 
 ## Languages
 
@@ -399,10 +402,12 @@ You can see in which language an app is written. Currently there are following l
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon] 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar. ![swift_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.  ![swift_icon] 
+- [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.  ![javascript_icon] 
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps.  ![swift_icon] 
+- [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.  ![swift_icon] 
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI macOS status bar app.  ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. ![swift_icon] 
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu.  ![swift_icon] 
@@ -498,6 +503,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mac Screenshot Tracker](https://github.com/instance01/mac-screenshot-tracker) - An open source, free and hackable screenshot tracker. Re-watch what you've been working on! ![python_icon] 
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.  ![swift_icon] 
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.  ![javascript_icon] 
+- [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.  ![swift_icon] 
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.  ![javascript_icon] 
@@ -617,6 +623,7 @@ You can see in which language an app is written. Currently there are following l
 - [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar. ![swift_icon] 
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.  ![swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format. ![objective_c_icon] 
+- [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output ![swift_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
 - [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.  ![javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
@@ -633,11 +640,13 @@ You can see in which language an app is written. Currently there are following l
 - [MQTTX](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript_icon] ![type_script_icon] 
 - [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client.  ![objective_c_icon] 
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.  ![swift_icon] 
+- [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - Meme Maker macOS application for meme creation.  ![swift_icon] 
 - [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS  ![swift_icon] 
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction  ![swift_icon] 
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
+- [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.  ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
 - [Numi](https://github.com/nikolaeu/Numi) - A handy calculator with natural language parsing. ![javascript_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon] 
@@ -713,6 +722,7 @@ You can see in which language an app is written. Currently there are following l
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.  ![objective_c_icon] 
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 
+- [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. ![c_icon] ![objective_c_icon] 
 - [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture.  ![cpp_icon] 
 
 ## Contributors
