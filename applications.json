@@ -1,6 +1,24 @@
 {
     "applications": [
-        {
+		{
+			"short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
+			"categories": [
+				"ide",
+				"development"
+			],
+			"repo_url": "https://github.com/apache/netbeans",
+			"title": "Apache Netbeans",
+			"icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
+			"screenshots": [
+				"https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
+				"https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
+			],
+			"official_site": "http://netbeans.apache.org",
+			"languages": [
+				"java"
+			]
+		},
+		{
             "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
             "categories": [
                 "audio",
@@ -28,14 +46,13 @@
            ],
            "repo_url": "https://github.com/Swift-open-source/UltraTabSaver",
            "title": "Ultra TabSaver",
-           "icon_url": "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Ultra%20TabSaver/Assets.xcassets/AppIcon.appiconset/unnamed-1.png",
+           "icon_url": "",
            "screenshots": [
-              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-1.png",
-              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-2.png"
+              "https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif"
            ],
            "official_site": "",
            "languages": [
-               "swift"
+               "swift"  
            ]
        },
         {
@@ -179,19 +196,15 @@
             "title": "Aural Player",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Compact.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Delay.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Preferences-Playback.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/SegmentLoop.png",
                 "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Default.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/mainDemo.gif",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DetailedInfo.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Filter.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Search.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DockedLeft.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/DetachedPlaylist.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Time.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Sort.png"
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ChangingColorScheme.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/playerView.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ABLoop.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/UsingFXUnit.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/DetailedInfo.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/WindowLayout.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/PlaylistSearch.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ChaptersDemo.gif"
             ],
             "official_site": "",
             "languages": [
@@ -563,6 +576,21 @@
             "official_site": "",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "short_description": "Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/zenangst/Syncalicious",
+            "title": "Syncalicious",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
             ]
         },
         {
@@ -1191,7 +1219,7 @@
             "categories": [
                 "git"
             ],
-            "repo_url": "https://github.com/jensteichert/OpenCashew",
+            "repo_url": "https://github.com/dhennessy/OpenCashew",
             "title": "Cashew",
             "icon_url": "",
             "screenshots": [],
@@ -2131,7 +2159,7 @@
           "title": "JSON to Model class",
           "icon_url": "",
           "screenshots": [
-            "https://raw.githubusercontent.com/chanonly123/Json-Model-Generator/master/demo1.png"
+            "https://raw.githubusercontent.com/chanonly123/Json-Model-Generator/master/demo1.jpg"
           ],
           "official_site": "",
           "languages": [
@@ -2346,7 +2374,7 @@
             "categories": [
                 "web-development"
             ],
-            "repo_url": "https://github.com/zeit/now-desktop",
+            "repo_url": "https://github.com/vercel/now-desktop",
             "title": "Now Desktop",
             "icon_url": "",
             "screenshots": [
@@ -3897,7 +3925,8 @@
             "title": "SoundCleod",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/salomvary/soundcleod/master/screenshot.png"
+                "https://camo.githubusercontent.com/a29d773a5a06dcca271d137ab82b46b8609bade4/68747470733a2f2f7261772e6769746875622e636f6d2f73616c6f6d766172792f736f756e64636c656f642f6d61737465722f73637265656e73686f742e6a7067s",
+                "https://camo.githubusercontent.com/8c4c858d36597bca72f9eea033f42f6882efc048/68747470733a2f2f7261772e6769746875622e636f6d2f73616c6f6d766172792f736f756e64636c656f642f6d61737465722f73637265656e73686f742d6461726b2e6a7067"
             ],
             "official_site": "",
             "languages": [
@@ -7705,7 +7734,7 @@
             "title" : "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots" : [
-              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/1.png"
+              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/preview.gif"
             ],
             "short_description" : "Pomodoro Cycle for macOS",
             "languages" : [
@@ -7838,6 +7867,54 @@
                 "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL-macOS/raw/sl-safari-extension.png"
             ],
             "official_site": "https://simplelogin.io/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Your GitHub notifications on your menu bar.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/manosim/gitify",
+            "title": "Gitify",
+            "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
+            "screenshots": [
+                "https://github.com/manosim/gitify/blob/master/assets/images/press.png"
+            ],
+            "official_site": "https://www.gitify.io/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Audio Oscilloscope",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/billthefarmer/audiotools/tree/master/Scope/swift",
+            "title": "Scope",
+            "icon_url": "https://raw.githubusercontent.com/billthefarmer/audiotools/master/Scope/swift/Scope.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/audiotools/Scope-swift.png"
+            ],
+            "official_site": "https://billthefarmer.github.io/audiotools/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Email Alias solution: protect your real email address.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/simple-login/mac-app",
+            "title": "SimpleLogin",
+            "icon_url": "https://simplelogin.io/logo.svg",
+            "screenshots": [
+                "https://static.simplelogin.io/open-source-mac-apps.png"
+            ],
+            "official_site": "",
             "languages": [
                 "swift"
             ]

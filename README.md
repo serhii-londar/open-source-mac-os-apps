@@ -9,12 +9,16 @@
 <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
+List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
+
 ## Support
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
+<a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
+<img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
+<br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">GitAds</a> </i> </br>
 
-List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
 ## Languages
 
@@ -105,6 +109,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS.  ![cpp_icon] 
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. ![swift_icon] 
+- [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope ![swift_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.  ![objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.  ![objective_c_icon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. ![objective_c_icon] ![swift_icon] 
@@ -122,6 +127,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Backup
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).  ![python_icon] 
+- [Syncalicious](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be. ![swift_icon] 
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. ![cpp_icon] ![c_icon] 
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more.  ![python_icon] 
 
@@ -175,9 +181,10 @@ You can see in which language an app is written. Currently there are following l
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.  ![swift_icon] 
 
 ### Development
+- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 
 #### Git
-- [Cashew](https://github.com/jensteichert/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
+- [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase. ![rust_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![type_script_icon] 
@@ -215,7 +222,7 @@ You can see in which language an app is written. Currently there are following l
 - [Lantern](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.  ![swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).  ![swift_icon] 
 - [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups.  ![javascript_icon] 
-- [Now Desktop](https://github.com/zeit/now-desktop) - Create deployments right from the tray menu.  ![javascript_icon] 
+- [Now Desktop](https://github.com/vercel/now-desktop) - Create deployments right from the tray menu.  ![javascript_icon] 
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.  ![javascript_icon] 
 - [iTunesConnect](https://github.com/trulyronak/itunesconnect) - macOS app to let you access iTunesConnect.  ![swift_icon] 
 - [ndm](https://github.com/720kb/ndm) - Npm desktop GUI.  ![javascript_icon] 
@@ -338,6 +345,7 @@ You can see in which language an app is written. Currently there are following l
 - [macSVG](https://github.com/dsward2/macSVG) - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.  ![objective_c_icon] 
 
 ### IDE
+- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
@@ -374,6 +382,7 @@ You can see in which language an app is written. Currently there are following l
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![type_script_icon] 
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors ![javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
+- [SimpleLogin](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address. ![swift_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 
 ### Medical
