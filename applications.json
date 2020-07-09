@@ -7829,6 +7829,24 @@
             ]
         },
         {
+            "short_description": "Menu bar app for your calendar meetings",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/leits/MeetingBar",
+            "title": "MeetingBar",
+            "icon_url": "https://raw.githubusercontent.com/leits/MeetingBar/master/MeetingBar/Assets.xcassets/AppIcon.appiconset/icon512.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/leits/MeetingBar/master/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Your GitHub notifications on your menu bar.",
             "categories": [
                 "git"
