@@ -28,6 +28,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
 <img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
+
 <br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">GitAds</a> </i> </br>
 
 
