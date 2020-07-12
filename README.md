@@ -723,7 +723,6 @@ You can see in which language an app is written. Currently there are following l
 - [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 
 - [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. ![c_icon] ![objective_c_icon] 
-- [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS that uses a plugin architecture.  ![cpp_icon] 
 
 ## Contributors
 
