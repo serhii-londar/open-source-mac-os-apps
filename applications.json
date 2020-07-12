@@ -6944,20 +6944,6 @@
             ]
         },
         {
-            "short_description": "Tiling window manager for macOS that uses a plugin architecture. ",
-            "categories": [
-                "window-management"
-            ],
-            "repo_url": "https://github.com/koekeishiya/chunkwm",
-            "title": "chunkwm",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "cpp"
-            ]
-        },
-        {
             "short_description": "Staggeringly powerful macOS desktop automation with Lua.",
             "categories": [
                 "window-management"
