@@ -7929,6 +7929,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Mac app that shows pull request last modified each line of a file",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/maoyama/GitBlamePR",
+            "title": "GitBlamePR",
+            "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
+            "screenshots": [
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif",
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
