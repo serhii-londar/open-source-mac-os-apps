@@ -272,6 +272,7 @@ You can see in which language an app is written. Currently there are following l
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps.  ![objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.  ![objective_c_icon] 
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files.  ![objective_c_icon] 
+- [LayoutDesigner for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - a simple but powerful tool that helps you to make complex layouts for UICollectionView.  ![swift_icon] 
 
 ### Downloader
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.  ![swift_icon] 
