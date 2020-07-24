@@ -5454,7 +5454,8 @@
             "title": "Clean-Me",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/ReadMe%20Resources/demo.gif"
+                "https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image1.png",
+                "https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image2.png"
             ],
             "official_site": "",
             "languages": [
@@ -7946,6 +7947,42 @@
             "official_site": "https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Mac app that shows pull request last modified each line of a file",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/maoyama/GitBlamePR",
+            "title": "GitBlamePR",
+            "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
+            "screenshots": [
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif",
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+	      {
+            "repo_url" : "https://github.com/wynioux/macOS-GateKeeper-Helper",
+            "official_site" : "",
+            "title" : "macOS GateKeeper Helper",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/wynioux/macOS-GateKeeper-Helper/master/screenshot.png"
+            ],
+            "short_description" : "Simple macOS GateKeeper script. It helps you to control your GateKeeper.",
+            "languages" : [
+              "shell"
+            ],
+            "categories" : [
+              "system",
+	            "utilities",
+	            "security",
+	            "terminal"
             ]
         }
     ]
