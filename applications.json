@@ -7930,6 +7930,25 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+	{
+            "repo_url" : "https://github.com/wynioux/macOS-GateKeeper-Helper",
+            "official_site" : "",
+            "title" : "macOS GateKeeper Helper",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/wynioux/macOS-GateKeeper-Helper/master/screenshot.png"
+            ],
+            "short_description" : "Simple macOS GateKeeper script. It helps you to control your GateKeeper.",
+            "languages" : [
+              "shell"
+            ],
+            "categories" : [
+              "system",
+	      "utilities",
+	      "security",
+	      "terminal"
+            ]
+        },
     ]
 }
