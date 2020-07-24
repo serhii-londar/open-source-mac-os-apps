@@ -7959,7 +7959,7 @@
             "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
             "screenshots": [
                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
-               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif",
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7983,6 +7983,23 @@
 	            "utilities",
 	            "security",
 	            "terminal"
+            ]
+        },
+	      {
+            "repo_url" : "https://github.com/bhj/karaoke-forever",
+            "official_site" : "https://www.karaoke-forever.com",
+            "title" : "Karaoke Forever",
+            "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
+            "screenshots" : [
+              "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+            ],
+            "short_description" : "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
+            "languages" : [
+              "javascript"
+            ],
+            "categories" : [
+              "audio",
+              "music"
             ]
         }
     ]
