@@ -7932,6 +7932,24 @@
             ]
         },
         {
+            "short_description": "A simple but powerful tool that helps you make complex layouts for UICollectionView.",
+            "categories": [
+                "development",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/amirdew/CollectionViewPagingLayout",
+            "title": "Layout Designer for UICollectionView",
+            "icon_url": "https://github.com/amirdew/CollectionViewPagingLayout/blob/master/Samples/PagingLayoutSamples/Assets.xcassets/AppIcon.appiconset/icon_40x40@3x.png?raw=true",
+            "screenshots": [
+                "https://amir.app/git/layout_designer_preview.gif"
+            ],
+            "official_site": "https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Mac app that shows pull request last modified each line of a file",
             "categories": [
                 "git"
