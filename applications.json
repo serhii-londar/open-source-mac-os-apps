@@ -7571,6 +7571,23 @@
             ]
         },
         {
+            "short_description": "Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/spotter-application/spotter",
+            "title": "Spotter",
+            "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/spotter-application/spotter",
+            "languages": [
+                "type_script",
+                "swift"
+            ]
+        },
+        {
             "short_description": "Calculator for macOS which working on statusbar.",
             "categories": [
                 "productivity",
