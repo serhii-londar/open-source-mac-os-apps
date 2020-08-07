@@ -3154,6 +3154,20 @@
             ]
         },
         {
+            "short_description": "Gaphor is the simple modeling tool for UML and SysML.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/gaphor/gaphor",
+            "title": "Gaphor",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://gaphor.org",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "The hackable text editor. ",
             "categories": [
                 "ide"
