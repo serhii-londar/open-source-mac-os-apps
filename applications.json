@@ -7971,7 +7971,24 @@
 	            "terminal"
             ]
         },
-	{
+        {
+            "short_description": "Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.",
+            "repo_url": "https://github.com/insidegui/NoiseBuddy",
+            "title": "NoiseBuddy",
+            "icon_url": "https://raw.githubusercontent.com/insidegui/NoiseBuddy/master/screenshots/NoiseBuddyIcon.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ],
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ]
+        },
+      	{
             "repo_url" : "https://github.com/bhj/karaoke-forever",
             "official_site" : "https://www.karaoke-forever.com",
             "title" : "Karaoke Forever",
