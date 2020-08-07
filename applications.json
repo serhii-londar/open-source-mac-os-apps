@@ -5245,20 +5245,6 @@
             ]
         },
         {
-            "short_description": "Unofficial appear.in app. ",
-            "categories": [
-                "social-networking"
-            ],
-            "repo_url": "https://github.com/vitorgalvao/appear.in",
-            "title": "appear.in",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Elegant Facebook Messenger desktop app.",
             "categories": [
                 "social-networking"
@@ -5730,7 +5716,7 @@
             "categories": [
                 "terminal"
             ],
-            "repo_url": "https://github.com/zeit/hyper",
+            "repo_url": "https://github.com/vercel/hyper",
             "title": "Hyper",
             "icon_url": "",
             "screenshots": [
