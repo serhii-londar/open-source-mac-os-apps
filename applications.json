@@ -866,7 +866,7 @@
             "categories": [
                 "chat"
             ],
-            "repo_url": "https://github.com/vector-im/riot-web",
+            "repo_url": "https://github.com/vector-im/element-web",
             "title": "Riot.im",
             "icon_url": "",
             "screenshots": [],
@@ -5245,20 +5245,6 @@
             ]
         },
         {
-            "short_description": "Unofficial appear.in app. ",
-            "categories": [
-                "social-networking"
-            ],
-            "repo_url": "https://github.com/vitorgalvao/appear.in",
-            "title": "appear.in",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Elegant Facebook Messenger desktop app.",
             "categories": [
                 "social-networking"
@@ -5730,7 +5716,7 @@
             "categories": [
                 "terminal"
             ],
-            "repo_url": "https://github.com/zeit/hyper",
+            "repo_url": "https://github.com/vercel/hyper",
             "title": "Hyper",
             "icon_url": "",
             "screenshots": [
@@ -6760,7 +6746,7 @@
             ]
         },
         {
-            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com). ",
+            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels). ",
             "categories": [
                 "wallpaper"
             ],
@@ -7959,7 +7945,7 @@
             "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
             "screenshots": [
                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
-               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif",
+               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7987,12 +7973,6 @@
         },
         {
             "short_description": "Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.",
-            "categories": [
-                "audio",
-                "music",
-                "menubar",
-                "utilities"
-            ],
             "repo_url": "https://github.com/insidegui/NoiseBuddy",
             "title": "NoiseBuddy",
             "icon_url": "https://raw.githubusercontent.com/insidegui/NoiseBuddy/master/screenshots/NoiseBuddyIcon.png",
@@ -8000,6 +7980,29 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ],
+            "categories": [
+                "audio",
+                "music",
+                "menubar",
+                "utilities"
+            ]
+        },
+      	{
+            "repo_url" : "https://github.com/bhj/karaoke-forever",
+            "official_site" : "https://www.karaoke-forever.com",
+            "title" : "Karaoke Forever",
+            "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
+            "screenshots" : [
+              "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+            ],
+            "short_description" : "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
+            "languages" : [
+              "javascript"
+            ],
+            "categories" : [
+              "audio",
+              "music"
             ]
         }
     ]
