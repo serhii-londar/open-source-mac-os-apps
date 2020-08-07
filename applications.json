@@ -866,7 +866,7 @@
             "categories": [
                 "chat"
             ],
-            "repo_url": "https://github.com/vector-im/riot-web",
+            "repo_url": "https://github.com/vector-im/element-web",
             "title": "Riot.im",
             "icon_url": "",
             "screenshots": [],
@@ -6760,7 +6760,7 @@
             ]
         },
         {
-            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com). ",
+            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels). ",
             "categories": [
                 "wallpaper"
             ],
