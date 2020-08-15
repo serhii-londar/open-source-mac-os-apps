@@ -3212,6 +3212,23 @@
                 "type_script"
             ]
         },
+	    {
+            "short_description": "ubiquitous text editor",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/vim/vim",
+            "title": "Vim",
+            "icon_url": "",
+            "screenshots": [
+		"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vim-search-copen-quickfix.png/640px-Vim-search-copen-quickfix.png"
+            ],
+            "official_site": "https://www.vim.org/",
+            "languages": [
+                "C",
+		"Vim script"
+            ]
+        },
         {
             "short_description": "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ",
             "categories": [
