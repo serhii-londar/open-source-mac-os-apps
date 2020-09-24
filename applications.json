@@ -4972,7 +4972,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "",
+            "repo_url": "https://github.com/toggl-open-source/toggldesktop",
             "title": "Toggl Desktop",
             "icon_url": "",
             "screenshots": [],
@@ -7379,13 +7379,13 @@
             "categories": [
                 "music"
             ],
-            "repo_url": "",
+            "repo_url": "https://github.com/doches/lilypond-ui",
             "title": "Lilypond UI",
             "icon_url": "https://raw.githubusercontent.com/doches/lilypond-ui/develop/artwork/icons.iconset/icon_512x512.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/doches/lilypond-ui/develop/docs/lilypond-ide.png"
             ],
-            "official_site": "https://github.com/doches/lilypond-ui",
+            "official_site": "",
             "languages": [
                 "javascript"
             ]
