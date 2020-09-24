@@ -6994,7 +6994,7 @@
             ]
         },
         {
-            "short_description": "Window management application (replacement for Divvy/SizeUp/ShiftIt). ",
+            "short_description": "Slate is a window management application similar to Divvy and SizeUp",
             "categories": [
                 "window-management"
             ],
