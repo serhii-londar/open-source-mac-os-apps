@@ -1,0 +1,15 @@
+@import './shared/css/colors.scss';
+
+.container {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  height: 100%;
+}
+
+.categories-list {
+  background-color: $grey;
+}
+
+.content {
+background-color: $white;
+}
