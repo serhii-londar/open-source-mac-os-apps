@@ -3175,7 +3175,10 @@
             "repo_url": "https://github.com/atom/atom",
             "title": "Atom",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+                "https://user-images.githubusercontent.com/378023/49132477-f4b77680-f31f-11e8-8357-ac6491761c6c.png",
+                "https://user-images.githubusercontent.com/378023/49132478-f4b77680-f31f-11e8-9e10-e8454d8d9b7e.png"
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -5164,7 +5167,7 @@
             "categories": [
                 "sharing-files"
             ],
-            "repo_url": "https://git.deluge-torrent.org/deluge",
+            "repo_url": "https://github.com/deluge-torrent/deluge",
             "title": "Deluge",
             "icon_url": "",
             "screenshots": [],
