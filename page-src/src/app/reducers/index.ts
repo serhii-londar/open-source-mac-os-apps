@@ -1,9 +1,13 @@
-import { combineReducers } from 'redux';
+import { combineReducers } from "redux";
 
-import {applications} from "./applications";
-import {categories} from "./categories";
+import { applications } from "./application";
+import { categories } from "./categories";
 
-export default combineReducers({
+const rootReducer = combineReducers({
   applications,
-  categories
-})
+  categories,
+});
+
+export type RootState = ReturnType<typeof rootReducer>;
+
+export default rootReducer;

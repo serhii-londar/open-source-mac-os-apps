@@ -1,0 +1,103 @@
+@import "../../shared/css/colors.scss";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+.title {
+  padding: 25px;
+  color: $white;
+  text-align: center;
+  font-size: 25px;
+
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .logo {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+  }
+
+  .top-text {
+    position: absolute;
+    top: 20px;
+    left: 70px;
+  }
+  .bottom-text {
+    position: absolute;
+    bottom: 20px;
+    right: 80px;
+    font-size: 14px;
+  }
+}
+
+.search {
+  padding: 0 15px;
+
+  .search-wrapper {
+    position: relative;
+  }
+
+  .search-icon {
+    color: $white;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+  }
+
+  .search-input {
+    width: 100%;
+    font-size: 16px;
+
+    background-color: rgba(255, 255, 255, 0.2);
+    color: $white;
+
+    border: 0;
+    box-sizing: border-box;
+
+    padding: 10px 10px 10px 35px;
+    border-radius: 5px;
+
+    outline: none;
+
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.2);
+    }
+  }
+}
+
+.list {
+  flex-grow: 1;
+  overflow: overlay;
+  list-style: none;
+  padding-left: 10px;
+
+  .item {
+    padding: 2px 0;
+  }
+
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  /* Track */
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Handle */
+  &::-webkit-scrollbar-thumb {
+    background: $white;
+  }
+
+  /* Handle on hover */
+  &::-webkit-scrollbar-thumb:hover {
+    background: darken($white, 10%);
+  }
+}

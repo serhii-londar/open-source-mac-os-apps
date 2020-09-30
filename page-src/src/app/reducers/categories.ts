@@ -1,10 +1,12 @@
-import { CategoriesAction, CategoriesActions, FetchCategoriesFailedPayload, FetchCategoriesSucceedPayload } from "../actions/categories";
-
-export type Category = {
-  id: string;
-  shortName: string;
-  name: string;
-};
+import {
+  CategoryActions,
+  FetchAllCategoriesAction,
+  FetchAllCategoriesFailedPayload,
+  FetchAllCategoriesSucceedAction,
+  FetchAllCategoriesSucceedPayload,
+  FetchAllCategoriesFaildAction,
+} from "../actions/category";
+import Category, { RawCategory } from "../models/category";
 
 export type CategoriesState = {
   loading: boolean;
@@ -18,31 +20,41 @@ export const InitialCategoriesState: CategoriesState = {
   data: [],
 };
 
-const LoadingCategories = (
-  state: CategoriesState,
-) => ({ ...state, loading: true });
+const FetchAllCategories = (state: CategoriesState) => ({ ...state, loading: true });
 
-const LoadingCategoriesSucceed = (
+const FetchAllCategoriesSucceed = (
   state: CategoriesState,
-  payload: FetchCategoriesSucceedPayload,
-) => ({ ...state, data: payload, error: null, loading: false });
+  payload: FetchAllCategoriesSucceedPayload,
+) => {
+  const categories = payload.map((rawCategory: RawCategory) => new Category(rawCategory));
 
-const LoadingCategoriesFailed = (
+  return { ...state, data: categories, error: null, loading: false };
+};
+
+const FetchAllCategoriesFailed = (
   state: CategoriesState,
-  payload: FetchCategoriesFailedPayload,
-) => ({ ...state, data: [], error: payload, loading: false });
+  payload: FetchAllCategoriesFailedPayload,
+) => ({
+  ...state,
+  data: [],
+  error: payload,
+  loading: false,
+});
 
 export const categories = (
   state: CategoriesState = InitialCategoriesState,
-  action: CategoriesAction,
+  action:
+    | FetchAllCategoriesAction
+    | FetchAllCategoriesSucceedAction
+    | FetchAllCategoriesFaildAction,
 ) => {
   switch (action.type) {
-    case CategoriesActions.FETCH:
-      return LoadingCategories(state);
-    case CategoriesActions.FETCH_SUCCEED:
-      return LoadingCategoriesSucceed(state, action.payload);
-    case CategoriesActions.FETCH_FAILD:
-      return LoadingCategoriesFailed(state, action.payload);
+    case CategoryActions.FETCH_ALL:
+      return FetchAllCategories(state);
+    case CategoryActions.FETCH_ALL_SUCCEED:
+      return FetchAllCategoriesSucceed(state, action.payload);
+    case CategoryActions.FETCH_ALL_FAILD:
+      return FetchAllCategoriesFailed(state, action.payload);
     default:
       return { ...state };
   }

@@ -4,16 +4,21 @@
   "homepage": "http://serhii-londar.github.io/open-source-mac-os-apps",
   "private": false,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "eslint-plugin-prettier": "^3.1.4",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
     "redux-saga": "^1.1.3",
     "typescript": "~3.7.2"
   },
@@ -42,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "@redux-saga/types": "^1.1.0",
     "@types/jest": "^24.0.0",
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
@@ -51,16 +55,15 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/redux-logger": "^3.0.8",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.10.0",
+    "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.12.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.21.2",
     "gh-pages": "^3.1.0",
-    "node-sass": "^4.14.1",
     "prettier": "^2.1.2",
-    "redux-devtools-extension": "^2.13.8",
-    "redux-logger": "^3.0.6"
+    "prettier-eslint": "^11.0.0"
   }
 }

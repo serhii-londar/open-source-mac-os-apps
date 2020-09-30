@@ -1,17 +1,7 @@
-import React, { FC, useContext } from 'react'
-import { useParams } from 'react-router-dom';
-import { AppContext } from '../../contexts/AppContext';
+import React, { FC } from "react";
 
 const Application: FC = () => {
-  const {state: {applications }} = useContext(AppContext);
-
-  console.log(applications);
-
-  return (
-    <div>
-      Application {applications.loading && <>Loading...</>}
-    </div>
-  )
-}
+  return <div>Application</div>;
+};
 
 export default Application;

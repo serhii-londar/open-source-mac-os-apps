@@ -1,15 +1,21 @@
-@import './shared/css/colors.scss';
+@import "./shared/css/colors.scss";
+
+$sidebar-width: 300px;
 
 .container {
-  display: grid;
-  grid-template-columns: 250px 1fr;
   height: 100%;
 }
 
 .categories-list {
-  background-color: $grey;
+  width: $sidebar-width;
+  background-color: $charcoal;
+  position: fixed;
+  height: 100%;
 }
 
 .content {
-background-color: $white;
+  background-color: $white;
+  margin-left: $sidebar-width;
+  height: 100%;
+  width: auto;
 }
