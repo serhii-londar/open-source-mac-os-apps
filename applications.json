@@ -8038,6 +8038,23 @@
               "audio",
               "music"
             ]
+        },
+        {
+            "short_description": "A tiny calendar for that lives in the Mac menu bar.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/sfsam/Itsycal",
+            "title": "Hidden Bar",
+            "icon_url": "",
+            "screenshots": [
+               "https://www.mowglii.com/itsycal/itsycalbanner2@2x.png"
+            ],
+            "official_site": "https://www.mowglii.com/itsycal/",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
