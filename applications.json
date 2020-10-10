@@ -5046,6 +5046,23 @@
             ]
         },
         {
+            "short_description": "Screensaver inspired by Apple's Event on October 30, 2018. ",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/pedrommcarrasco/Brooklyn",
+            "title": "Brooklyn",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pedrommcarrasco/Brooklyn/master/Design/showcase.gif",
+                "https://raw.githubusercontent.com/pedrommcarrasco/Brooklyn/master/Design/preferenceMenu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Apple TV Aerial Screensaver for macOS. ",
             "categories": [
                 "screensaver"
