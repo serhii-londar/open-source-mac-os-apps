@@ -1083,6 +1083,22 @@
             ]
         },
         {
+            "short_description": "Cross-platform, cross-blockchain wallet library. ",
+            "categories": [
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/trustwallet/wallet-core",
+            "title": "Trust Wallet",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/trustwallet/wallet-core/master/docs/banner.png"
+            ],
+            "official_site": "https://trustwallet.com/",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Universal database tool and SQL client. ",
             "categories": [
                 "database"
