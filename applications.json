@@ -1199,6 +1199,21 @@
             ]
         },
         {
+            "short_description": "Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/Sequel-Ace/Sequel-Ace",
+            "title": "Sequel Ace",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "https://sequel-ace.com/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts. ",
             "categories": [
                 "database"
