@@ -8047,6 +8047,22 @@
               "audio",
               "music"
             ]
+        },
+        {
+            "repo_url" : "https://github.com/robaho/seashore",
+            "official_site" : "https://github.com/robaho/seashore",
+            "title" : "Seashore",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png"
+            ],
+            "short_description" : "Easy to use macOS image editing application for the rest of us.",
+            "languages" : [
+              "objective_c"
+            ],
+            "categories" : [
+              "images"
+            ]
         }
     ]
 }
