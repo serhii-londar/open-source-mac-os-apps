@@ -862,12 +862,12 @@
             ]
         },
         {
-            "short_description": "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.",
+            "short_description": "Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.",
             "categories": [
                 "chat"
             ],
             "repo_url": "https://github.com/vector-im/element-web",
-            "title": "Riot.im",
+            "title": "Element",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
