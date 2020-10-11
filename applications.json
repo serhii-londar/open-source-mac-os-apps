@@ -8049,6 +8049,22 @@
             ]
         },
         {
+            "short_description": "An ultra-light MacOS utility that helps hide menu bar icons",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dwarvesf/hidden",
+            "title": "Hidden Bar",
+            "icon_url": "https://github.com/dwarvesf/hidden/blob/master/hidden/Assets.xcassets/AppIcon.appiconset/1024x1024.png?raw=true",
+            "screenshots": [
+               "https://github.com/dwarvesf/hidden/blob/develop/img/tutorial.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {     
             "repo_url" : "https://github.com/robaho/seashore",
             "official_site" : "https://github.com/robaho/seashore",
             "title" : "Seashore",
