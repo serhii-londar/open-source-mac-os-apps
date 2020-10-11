@@ -3340,15 +3340,18 @@
             ]
         },
         {
-            "short_description": "Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes.",
+            "short_description": "Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. ",
             "categories": [
-                "images"
+                "images",
+                "ios--macos"
             ],
             "repo_url": "https://github.com/liamrosenfeld/Iconology",
             "title": "Iconology",
             "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/master/demo.gif"
+            ],
+            "official_site": "https://apps.apple.com/us/app/iconology/id1463452867",
             "languages": [
                 "swift"
             ]
