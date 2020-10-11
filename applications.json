@@ -1199,6 +1199,21 @@
             ]
         },
         {
+            "short_description": "Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/Sequel-Ace/Sequel-Ace",
+            "title": "Sequel Ace",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "https://sequel-ace.com/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts. ",
             "categories": [
                 "database"
@@ -3215,6 +3230,23 @@
                 "type_script"
             ]
         },
+	    {
+            "short_description": "ubiquitous text editor",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/vim/vim",
+            "title": "Vim",
+            "icon_url": "",
+            "screenshots": [
+		"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vim-search-copen-quickfix.png/640px-Vim-search-copen-quickfix.png"
+            ],
+            "official_site": "https://www.vim.org/",
+            "languages": [
+                "C",
+		"Vim script"
+            ]
+        },
         {
             "short_description": "ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. ",
             "categories": [
@@ -4248,7 +4280,7 @@
             "title": "QOwnNotes",
             "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
             "screenshots": [
-               "https://www.qownnotes.org/var/bekerle/storage/images/_aliases/frontpage_slider_full2/qownnotes/frontpage-slider/qownnotes-main-screen-minimal-linux/4706-1-eng-GB/QOwnNotes-Main-Screen-Minimal-Linux.png"
+               "https://www.qownnotes.org/screenshots/screenshot.png"
             ],
             "official_site": "https://www.qownnotes.org/",
             "languages": [
@@ -4639,16 +4671,7 @@
             "repo_url": "https://github.com/klaussinani/ao",
             "title": "Ao",
             "icon_url": "",
-            "screenshots": [
-                "https://klaussinani.tech/ao/media/list-navigation.gif",
-                "https://klaussinani.tech/ao/media/header.png",
-                "https://klaussinani.tech/ao/media/sepia-theme.png",
-                "https://klaussinani.tech/ao/media/black-theme.png",
-                "https://klaussinani.tech/ao/media/dark-theme.png",
-                "https://klaussinani.tech/ao/media/compact-mode.png",
-                "https://klaussinani.tech/ao/media/custom-shortcut-keys.gif",
-                "https://klaussinani.tech/ao/media/scalable-interface.gif"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -5565,7 +5588,7 @@
             "title": "KeepingYouAwake",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/Extras/Screenshot.jpg"
+                "https://raw.githubusercontent.com/newmarcel/KeepingYouAwake/master/Extras/Screenshot@2x.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -6261,20 +6284,6 @@
             "official_site": "",
             "languages": [
                 "javascript"
-            ]
-        },
-        {
-            "short_description": "The Unarchiver is an Objective-C application for uncompressing archive files. ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://bitbucket.org/kosovan/theunarchiver/src ",
-            "title": "The Unarchiver",
-            "icon_url": "http://wakaba.c3.cx/images/unarchiver_icon.png",
-            "screenshots": [],
-            "official_site": "https://theunarchiver.com",
-            "languages": [
-                "objective_c"
             ]
         },
         {
@@ -7584,7 +7593,7 @@
             "title": "Spotter",
             "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
             "screenshots": [],
-            "official_site": "https://github.com/spotter-application/spotter",
+            "official_site": "",
             "languages": [
                 "type_script",
                 "swift"
@@ -7613,12 +7622,12 @@
             ],
             "repo_url": "https://github.com/khrykin/StrategrDesktop",
             "title": "Strategr",
-            "icon_url": "https://khrykin.github.io/strategr/resources/Strategr.png",
+            "icon_url": "https://khrykin.github.io/StrategrDesktop/assets/resources/Strategr.png",
             "screenshots": [
                "https://camo.githubusercontent.com/0aab0a8a9be68c3f98628a5c7dc2a09da176ea7a/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f6d61696e5f6f726967696e616c2e706e67",
                "https://camo.githubusercontent.com/1e9cc6df1bafd86c7f619cca3d4b3c30f9917398/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f626c61636b5f6d61696e2e706e67"
             ],
-            "official_site": "https://khrykin.github.io/strategr/",
+            "official_site": "https://khrykin.github.io/StrategrDesktop/",
             "languages": [
                 "cpp",
                 "objective_c"
@@ -8054,6 +8063,38 @@
             "official_site": "https://www.mowglii.com/itsycal/",
             "languages": [
                 "objective_c"
+            ]
+          },
+          {
+            "short_description": "An ultra-light MacOS utility that helps hide menu bar icons",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dwarvesf/hidden",
+            "title": "Hidden Bar",
+            "icon_url": "https://github.com/dwarvesf/hidden/blob/master/hidden/Assets.xcassets/AppIcon.appiconset/1024x1024.png?raw=true",
+            "screenshots": [
+               "https://github.com/dwarvesf/hidden/blob/develop/img/tutorial.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {     
+            "repo_url" : "https://github.com/robaho/seashore",
+            "official_site" : "https://github.com/robaho/seashore",
+            "title" : "Seashore",
+            "icon_url": "",
+            "screenshots" : [
+              "https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png"
+            ],
+            "short_description" : "Easy to use macOS image editing application for the rest of us.",
+            "languages" : [
+              "objective_c"
+            ],
+            "categories" : [
+              "images"
             ]
         }
     ]
