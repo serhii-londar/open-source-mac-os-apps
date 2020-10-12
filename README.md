@@ -396,7 +396,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors ![javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition) - Cross Platform messaging and emailing app that combines common web applications into one. ![javascript_icon] ![css_icon] 
 - [SimpleLogin](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address. ![swift_icon] 
-- [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
+- [dejalu](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client. ![cpp_icon] ![objective_c_icon] 
 
 ### Medical
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software ![python_icon] 
@@ -449,7 +449,7 @@ You can see in which language an app is written. Currently there are following l
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.  ![swift_icon] 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.  ![swift_icon] 
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS.  ![objective_c_icon] 
-- [hacker-menu](https://github.com/jingweno/hacker-menu) - Hacker News Delivered to Desktop.  ![javascript_icon] 
+- [hacker-menu](https://github.com/owenthereal/hacker-menu) - Hacker News Delivered to Desktop.  ![javascript_icon] 
 
 ### Notes
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Note-taking application made for programmers just like you.  ![javascript_icon] 
