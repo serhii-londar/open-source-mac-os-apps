@@ -723,7 +723,7 @@ You can see in which language an app is written. Currently there are following l
 - [Yoda](https://github.com/whoisandy/yoda) - Nifty macOS application which enables you to browse and download videos from YouTube.  ![javascript_icon] 
 
 ### Wallpaper
-- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift_icon] 
+- [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift_icon] 
 - [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels).  ![objective_c_icon] 
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone  ![swift_icon] 
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.  ![swift_icon] 
@@ -733,8 +733,7 @@ You can see in which language an app is written. Currently there are following l
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead.  ![objective_c_icon] 
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset.  ![swift_icon] 
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image.  ![ruby_icon] 
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit.  ![javascript_icon] 
-- [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.  ![python_icon] 
+- [pyDailyChanger](https://github.com/IngoMeyer441/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.  ![python_icon] 
 
 ### Window Management
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS.  ![swift_icon] 
