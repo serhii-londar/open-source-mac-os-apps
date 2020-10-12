@@ -862,12 +862,12 @@
             ]
         },
         {
-            "short_description": "Riot.im is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.",
+            "short_description": "Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.",
             "categories": [
                 "chat"
             ],
             "repo_url": "https://github.com/vector-im/element-web",
-            "title": "Riot.im",
+            "title": "Element",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
@@ -3340,15 +3340,18 @@
             ]
         },
         {
-            "short_description": "Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes.",
+            "short_description": "Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. ",
             "categories": [
-                "images"
+                "images",
+                "ios--macos"
             ],
             "repo_url": "https://github.com/liamrosenfeld/Iconology",
             "title": "Iconology",
             "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/master/demo.gif"
+            ],
+            "official_site": "https://apps.apple.com/us/app/iconology/id1463452867",
             "languages": [
                 "swift"
             ]
@@ -5063,6 +5066,23 @@
             "title": "Yomu",
             "icon_url": "",
             "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Screensaver inspired by Apple's Event on October 30, 2018. ",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/pedrommcarrasco/Brooklyn",
+            "title": "Brooklyn",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pedrommcarrasco/Brooklyn/master/Design/showcase.gif",
+                "https://raw.githubusercontent.com/pedrommcarrasco/Brooklyn/master/Design/preferenceMenu.png"
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8055,7 +8075,7 @@
                 "productivity"
             ],
             "repo_url": "https://github.com/sfsam/Itsycal",
-            "title": "Hidden Bar",
+            "title": "Itsycal",
             "icon_url": "",
             "screenshots": [
                "https://www.mowglii.com/itsycal/itsycalbanner2@2x.png"
