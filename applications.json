@@ -6763,7 +6763,7 @@
             "categories": [
                 "wallpaper"
             ],
-            "repo_url": "https://github.com/cuddlecheek/500-mac-wallpaper",
+            "repo_url": "https://github.com/markcheeky/500-mac-wallpaper",
             "title": "500-mac-wallpaper",
             "icon_url": "",
             "screenshots": [],
@@ -6837,25 +6837,11 @@
             ]
         },
         {
-            "short_description": "Simple macOS menubar app which fetches latest photos from a subreddit. ",
-            "categories": [
-                "wallpaper"
-            ],
-            "repo_url": "https://github.com/viatsko/earth-wallpapers",
-            "title": "earth-wallpapers",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "pyDailyChanger is a program that changes your wallpaper daily. ",
             "categories": [
                 "wallpaper"
             ],
-            "repo_url": "https://github.com/IngoHeimbach/pyDailyChanger",
+            "repo_url": "https://github.com/IngoMeyer441/pyDailyChanger",
             "title": "pyDailyChanger",
             "icon_url": "",
             "screenshots": [],
