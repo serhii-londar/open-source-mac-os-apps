@@ -8102,6 +8102,20 @@
             "categories" : [
               "images"
             ]
+        },
+        {
+            "short_description": "Plaintextify your clipboard",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hisaac/PlainPasta/",
+            "title": "Plain Pasta",
+            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/master/Assets/app-icon-512%402x.png",
+            "screenshots": [],
+            "official_site": "https://hisaac.github.io/PlainPasta/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
