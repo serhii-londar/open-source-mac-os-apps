@@ -2827,6 +2827,7 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/Jintin/Swimat/master/README/preview.gif"
+            ],
             "official_site": "https://jintin.github.io/swimat/",
             "languages": [
                 "swift"
