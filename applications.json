@@ -8135,6 +8135,25 @@
               "images"
             ]
         },
+	      {
+            "short_description": "ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.",
+            "categories": [
+                "development",
+		            "graphics"
+            ],
+            "repo_url": "https://github.com/DigiDNA/ColorSet",
+            "title": "ColorSet",
+            "icon_url": "https://imazing.com/img/colorset/colorset-icon-256x256.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/DigiDNA/ColorSet/master/Assets/ColorSet.png"
+            ],
+            "official_site": "https://imazing.com/colorset",
+            "languages": [
+                "swift",
+		            "c_sharp",
+		            "objective_c"
+              ]
+        },
         {
             "short_description": "Plaintextify your clipboard",
             "categories": [
