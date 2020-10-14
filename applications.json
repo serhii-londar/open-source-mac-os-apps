@@ -8113,7 +8113,7 @@
             "title": "ColorSet",
             "icon_url": "https://imazing.com/img/colorset/colorset-icon-256x256.png",
             "screenshots": [
-               "https://github.com/DigiDNA/ColorSet/raw/master/Assets/ColorSet.png"
+               "https://raw.githubusercontent.com/DigiDNA/ColorSet/master/Assets/ColorSet.png"
             ],
             "official_site": "https://imazing.com/colorset",
             "languages": [
