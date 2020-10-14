@@ -8118,6 +8118,23 @@
             "categories" : [
               "images"
             ]
+        },
+        {     
+            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
+            "official_site" : "",
+            "title" : "Duplicate Finder",
+            "icon_url": "",
+            "screenshots" : [
+              "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
+            ],
+            "short_description" : "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
+            "languages" : [
+              "swift"
+            ],
+            "categories" : [
+              "finder",
+              "utilities"
+            ]
         }
     ]
 }
