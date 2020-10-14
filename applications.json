@@ -52,7 +52,7 @@
            ],
            "official_site": "",
            "languages": [
-               "swift"  
+               "swift"
            ]
        },
         {
@@ -7379,7 +7379,7 @@
         {
             "short_description": "Free, open source, cross-platform audio software",
             "categories": [
-                "music"
+                "audio"
             ],
             "repo_url": "https://github.com/audacity/audacity",
             "title": "Audacity",
@@ -8087,7 +8087,7 @@
                 "swift"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/robaho/seashore",
             "official_site" : "",
             "title" : "Seashore",
