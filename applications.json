@@ -2818,6 +2818,22 @@
             ]
         },
         {
+            "short_description": "Swimat is an Xcode plug-in to format your Swift code.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/Jintin/Swimat",
+            "title": "Swimat",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Jintin/Swimat/master/README/preview.gif"
+            ],
+            "official_site": "https://jintin.github.io/Swimat/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipy is a Clipboard extension app for macOS. ",
             "categories": [
                 "finder"
@@ -5424,6 +5440,22 @@
             "languages": [
                 "swift"
             ]
+        },
+	{
+             "short_description": "A SwiftUI Reddit client for macOS. ",
+             "categories": [
+                 "social-networking"
+             ],
+             "repo_url": "https://github.com/Dimillian/RedditOS",
+             "title": "RedditOS",
+             "icon_url": "",
+             "screenshots": [
+                 "https://raw.githubusercontent.com/Dimillian/RedditOS/master/Images/image1.png"
+             ],
+             "official_site": "",
+             "languages": [
+                 "swift"
+             ]
         },
         {
             "short_description": "Perpetual artwork streaming app. ",
@@ -8115,6 +8147,23 @@
             "official_site": "https://hisaac.github.io/PlainPasta/",
             "languages": [
                 "swift"
+             ]
+        },
+        {     
+            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
+            "official_site" : "",
+            "title" : "Duplicate Finder",
+            "icon_url": "",
+            "screenshots" : [
+              "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
+            ],
+            "short_description" : "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
+            "languages" : [
+              "swift"
+            ],
+            "categories" : [
+              "finder",
+              "utilities"
             ]
         }
     ]
