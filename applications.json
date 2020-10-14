@@ -5425,6 +5425,22 @@
                 "swift"
             ]
         },
+	{
+             "short_description": "A SwiftUI Reddit client for macOS. ",
+             "categories": [
+                 "social-networking"
+             ],
+             "repo_url": "https://github.com/Dimillian/RedditOS",
+             "title": "RedditOS",
+             "icon_url": "",
+             "screenshots": [
+                 "https://raw.githubusercontent.com/Dimillian/RedditOS/master/Images/image1.png"
+             ],
+             "official_site": "",
+             "languages": [
+                 "swift"
+             ]
+        },
         {
             "short_description": "Perpetual artwork streaming app. ",
             "categories": [
