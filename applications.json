@@ -52,7 +52,7 @@
            ],
            "official_site": "",
            "languages": [
-               "swift"  
+               "swift"
            ]
        },
         {
@@ -2818,6 +2818,22 @@
             ]
         },
         {
+            "short_description": "Swimat is an Xcode plug-in to format your Swift code.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/Jintin/Swimat",
+            "title": "Swimat",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Jintin/Swimat/master/README/preview.gif"
+            ],
+            "official_site": "https://jintin.github.io/Swimat/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipy is a Clipboard extension app for macOS. ",
             "categories": [
                 "finder"
@@ -5425,6 +5441,22 @@
                 "swift"
             ]
         },
+	{
+             "short_description": "A SwiftUI Reddit client for macOS. ",
+             "categories": [
+                 "social-networking"
+             ],
+             "repo_url": "https://github.com/Dimillian/RedditOS",
+             "title": "RedditOS",
+             "icon_url": "",
+             "screenshots": [
+                 "https://raw.githubusercontent.com/Dimillian/RedditOS/master/Images/image1.png"
+             ],
+             "official_site": "",
+             "languages": [
+                 "swift"
+             ]
+        },
         {
             "short_description": "Perpetual artwork streaming app. ",
             "categories": [
@@ -7379,7 +7411,7 @@
         {
             "short_description": "Free, open source, cross-platform audio software",
             "categories": [
-                "music"
+                "audio"
             ],
             "repo_url": "https://github.com/audacity/audacity",
             "title": "Audacity",
@@ -8087,7 +8119,7 @@
                 "swift"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/robaho/seashore",
             "official_site" : "",
             "title" : "Seashore",
@@ -8103,11 +8135,11 @@
               "images"
             ]
         },
-	{
+	      {
             "short_description": "ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.",
             "categories": [
                 "development",
-		"graphics"
+		            "graphics"
             ],
             "repo_url": "https://github.com/DigiDNA/ColorSet",
             "title": "ColorSet",
@@ -8118,8 +8150,39 @@
             "official_site": "https://imazing.com/colorset",
             "languages": [
                 "swift",
-		"c_sharp",
-		"objective_c"
+		            "c_sharp",
+		            "objective_c"
+              ]
+        },
+        {
+            "short_description": "Plaintextify your clipboard",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hisaac/PlainPasta/",
+            "title": "Plain Pasta",
+            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/master/Assets/app-icon-512%402x.png",
+            "screenshots": [],
+            "official_site": "https://hisaac.github.io/PlainPasta/",
+            "languages": [
+                "swift"
+             ]
+        },
+        {     
+            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
+            "official_site" : "",
+            "title" : "Duplicate Finder",
+            "icon_url": "",
+            "screenshots" : [
+              "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
+            ],
+            "short_description" : "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
+            "languages" : [
+              "swift"
+            ],
+            "categories" : [
+              "finder",
+              "utilities"
             ]
         }
     ]
