@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+  grid-template-rows: 250px 1fr;
+}
+
+.header {
+  background-color: blue;
+}
+
+.applications {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}
+
+.item {
+  padding: 5px;
+  position: relative;
+}
