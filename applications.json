@@ -8155,6 +8155,22 @@
               ]
         },
         {
+            "repo_url" : "https://github.com/RocketChat/Rocket.Chat.Electron",
+            "official_site" : "https://rocket.chat/",
+            "title" : "RocketChat",
+            "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
+            "screenshots" : [
+              "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
+            ],
+            "short_description" : "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
+            "languages" : [
+              "javascript"
+            ],
+            "categories" : [
+              "chat"
+            ]
+        },
+        {
             "short_description": "Plaintextify your clipboard",
             "categories": [
                 "utilities"
