@@ -6248,6 +6248,22 @@
             ]
         },
         {
+            "short_description": "Bitwarden Passwort Manager in your menu bar",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jnsdrtlf/bitwarden-menubar",
+            "title": "Bitwarden Menu",
+            "icon_url": "https://github.com/jnsdrtlf/bitwarden-menubar/blob/main/Bitwarden/Assets.xcassets/AppIcon.appiconset/icon%40128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jnsdrtlf/bitwarden-menubar/main/artwork/screenshot.png"
+            ],
+            "languages": [
+                "type_script",
+		"swift"
+            ]
+        },
+        {
             "short_description": "Receive native push notifications on macOS, Windows and Linux. ",
             "categories": [
                 "utilities"
