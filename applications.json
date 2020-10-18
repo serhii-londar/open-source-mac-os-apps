@@ -2596,6 +2596,22 @@
             ]
         },
         {
+            "short_description": "Dead simple JSON editor using josdejong/jsoneditor",
+            "categories": [
+                "json"
+            ],
+            "repo_url": "https://github.com/fand/json-editor-app",
+            "title": "JSON Editor",
+            "icon_url": "https://user-images.githubusercontent.com/1403842/73547507-70f89d00-4482-11ea-9559-545e5f82459a.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/1403842/73547401-2ecf5b80-4482-11ea-8b03-753c1621c116.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Tree-structured markdown editor for macOS, Windows, and Linux. ",
             "categories": [
                 "markdown"
