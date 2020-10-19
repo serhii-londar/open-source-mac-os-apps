@@ -8184,6 +8184,23 @@
               "finder",
               "utilities"
             ]
+        },
+        {     
+            "repo_url" : "https://github.com/Gcenx/WineskinServer",
+            "official_site" : "https://www.codeweavers.com/",
+            "title" : "Wineskin Server",
+            "icon_url": "",
+            "screenshots" : [
+              "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
+            ],
+            "short_description" : "Wineskin Unofficial wrapper that gives you ability to run win32/win64 apps on macOS via built-in Wine.",
+            "languages" : [
+              "c",
+              "cpp"
+            ],
+            "categories" : [
+              "other"
+            ]
         }
     ]
 }
