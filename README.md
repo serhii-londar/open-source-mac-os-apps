@@ -17,14 +17,6 @@ To receive all new or popular applications you can join our [telegram chanel](ht
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
-List of awesome open source applications is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">here</a>
-
-<a href="https://tracking.gitads.io/?repo=open-source-mac-os-apps">
-<img src="https://images.gitads.io/open-source-mac-os-apps" alt="GitAds"/> </a>
-
-<br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=open-source-mac-os-appss" rel="gitads">GitAds</a> </i> </br>
-
-
 ## Languages
 
 You can see in which language an app is written. Currently there are following languages:
