@@ -8168,6 +8168,20 @@
                 "swift"
              ]
         },
+	    {
+            "short_description": "a powerful tool to increase download speeds up to 500%",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/subhra74/xdm",
+            "title": "Extream Download Manager",
+            "icon_url": "https://github.com/subhra74/xdm/blob/master/app/src/main/resources/icons/xhdpi/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/subhra74/xdm",
+            "languages": [
+                "java"
+             ]
+        },
         {     
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
             "official_site" : "",
