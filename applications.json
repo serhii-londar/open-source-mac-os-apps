@@ -8184,6 +8184,22 @@
               "finder",
               "utilities"
             ]
-        }
+        },
+    	{
+            "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://chromium.googlesource.com/chromium/src/",
+            "title": "Chromium",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.chromium.org/",
+            "languages": [
+                "javascript",
+                "cpp",
+                "c"
+            ]
+        },
     ]
 }
