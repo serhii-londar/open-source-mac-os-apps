@@ -8184,6 +8184,25 @@
               "finder",
               "utilities"
             ]
+        },
+        {     
+            "repo_url" : "https://github.com/mpv-player/mpv",
+            "official_site" : "https://mpv.io",
+            "title" : "MPV",
+            "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
+            "screenshots" : [
+              "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
+            ],
+            "short_description" : "Lightweight, highly configurable media player.",
+            "languages" : [
+              "c""
+            ],
+            "categories" : [
+              "audio",
+	      "player",
+	      "music",
+              "video"
+            ]
         }
     ]
 }
