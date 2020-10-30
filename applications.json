@@ -705,8 +705,8 @@
             "categories": [
                 "browser"
             ],
-            "repo_url": "https://github.com/kaktus/kaktus",
-            "title": "Kaktus Browser",
+            "repo_url": "https://github.com/fathomecat/fathomecat",
+            "title": "Fathomecat",
             "icon_url": "",
             "screenshots": [
                 "https://cldup.com/qsYAu0F-ja.png",
@@ -7611,8 +7611,6 @@
             "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_daily-summary.png",
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_worklog.png"
             ],
             "official_site": "https://super-productivity.com",
             "languages": [
@@ -8161,9 +8159,8 @@
             ],
             "repo_url": "https://github.com/hisaac/PlainPasta/",
             "title": "Plain Pasta",
-            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/master/Assets/app-icon-512%402x.png",
+            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/main/Assets/app-icon-512%402x.png",
             "screenshots": [],
-            "official_site": "https://hisaac.github.io/PlainPasta/",
             "languages": [
                 "swift"
              ]
