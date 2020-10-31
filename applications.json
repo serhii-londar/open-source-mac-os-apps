@@ -8184,6 +8184,22 @@
               "finder",
               "utilities"
             ]
+        },
+        {
+            "short_description": "Cross-platform open source database management tool for Redis ®",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/uglide/RedisDesktopManager",
+            "title": "Redis Desktop Manager",
+            "icon_url": "https://rdm.dev//static/css/favicon.png?v=2020",
+            "screenshots": [
+                "https://rdm.dev/static/img/features/all.png?v=20202"
+            ],
+            "official_site": "",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
