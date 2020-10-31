@@ -8184,6 +8184,23 @@
               "finder",
               "utilities"
             ]
+        },
+        {
+            "repo_url" : "https://github.com/DevUtilsApp/DevUtils-app",
+            "official_site" : "https://devutils.app",
+            "title" : "DevUtils.app",
+            "icon_url": "https://devutils.app/favicon.png",
+            "screenshots" : [
+              "https://devutils.app/screenshot-dark.png"
+            ],
+            "short_description" : "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
+            "languages" : [
+              "swift"
+            ],
+            "categories" : [
+              "utilities",
+              "productivity"
+            ]
         }
     ]
 }
