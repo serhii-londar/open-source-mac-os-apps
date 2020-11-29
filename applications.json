@@ -705,8 +705,8 @@
             "categories": [
                 "browser"
             ],
-            "repo_url": "https://github.com/kaktus/kaktus",
-            "title": "Kaktus Browser",
+            "repo_url": "https://github.com/fathomecat/fathomecat",
+            "title": "fathomecat",
             "icon_url": "",
             "screenshots": [
                 "https://cldup.com/qsYAu0F-ja.png",
@@ -1456,8 +1456,7 @@
             "title": "Trailer",
             "icon_url": "",
             "screenshots": [
-                "http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png",
-                "http://ptsochantaris.github.io/trailer/images/background-2400.png"
+                "http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png"
             ],
             "official_site": "",
             "languages": [
@@ -2810,7 +2809,7 @@
             "icon_url": "https://raw.githubusercontent.com/bow-swift/bow-art/master/assets/nef-brand-xcode-shadow.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-export.png",
-                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-snippet.png"
+                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-xcode-preferences.png"
             ],
             "official_site": "https://nef.bow-swift.io/",
             "languages": [
@@ -7351,7 +7350,7 @@
             ],
             "repo_url": "https://github.com/rxhanson/Rectangle",
             "title": "Rectangle",
-            "icon_url": "https://rectangleapp.com/images/appIconNoShadow512.png",
+            "icon_url": "",
             "screenshots": [
                 "https://rectangleapp.com/images/ScreenShot.png"
             ],
@@ -7549,7 +7548,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
+            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
             "languages": [
                 "c_sharp"
             ]
@@ -7578,9 +7577,7 @@
             "title": "Super Productivity",
             "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_daily-summary.png",
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_worklog.png"
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png"
             ],
             "official_site": "https://super-productivity.com",
             "languages": [
@@ -7909,7 +7906,7 @@
             ],
             "repo_url": "https://github.com/leits/MeetingBar",
             "title": "MeetingBar",
-            "icon_url": "https://raw.githubusercontent.com/leits/MeetingBar/master/MeetingBar/Assets.xcassets/AppIcon.appiconset/icon512.png",
+            "icon_url": "",
             "screenshots": [
                "https://raw.githubusercontent.com/leits/MeetingBar/master/screenshot.png"
             ],
