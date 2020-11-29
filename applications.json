@@ -7829,6 +7829,24 @@
             ]
         },
         {
+            "short_description": "A scriptable scratchpad for developers.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/IvanMathy/Boop",
+            "title": "Boop",
+            "icon_url": "https://raw.githubusercontent.com/IvanMathy/Boop/main/Boop/Boop/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/IvanMathy/Boop/main/Boop/Documentation/Images/UI.png",
+            ],
+            "official_site": "https://boop.okat.best",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
             "categories": [
                 "menubar",
