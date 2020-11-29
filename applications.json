@@ -90,6 +90,22 @@
                 "rust"
             ]
         },
+	{
+            "short_description": "Simple and elegant screensaver that displays the time.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/mattiarossini/MinimalClock",
+            "title": "MinimalClock",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/mattiarossini/MinimalClock/blob/master/Screenshot.gif"
+            ],
+            "official_site": "https://mattiarossini.github.io/MinimalClock/",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
             "categories": [
