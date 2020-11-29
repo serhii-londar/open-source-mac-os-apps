@@ -3909,6 +3909,23 @@
             ]
         },
         {
+            "short_description": "macOS app to visualize Pi-hole information.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Bunn/PiStats",
+            "title": "Pi Stats",
+            "icon_url": "https://raw.githubusercontent.com/Bunn/PiStats/master/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bunn/PiStats/master/images/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+		"objective_c"
+            ]
+        },
+        {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
                 "music"
