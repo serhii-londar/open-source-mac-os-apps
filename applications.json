@@ -8255,11 +8255,14 @@
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/hisaac/PlainPasta/",
+            "repo_url": "https://github.com/hisaac/PlainPasta",
             "title": "Plain Pasta",
-            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/master/Assets/app-icon-512%402x.png",
-            "screenshots": [],
-            "official_site": "https://hisaac.github.io/PlainPasta/",
+            "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/main/Assets/app-icon-512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/without-plain-pasta.gif",
+                "https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/with-plain-pasta.gif"
+            ],
+            "official_site": "https://hisaac.github.io/PlainPasta",
             "languages": [
                 "swift"
              ]
