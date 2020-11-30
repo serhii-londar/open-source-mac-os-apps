@@ -3953,7 +3953,7 @@
             "official_site": "",
             "languages": [
                 "swift",
-		"objective_c"
+		        "objective_c"
             ]
         },
         {
@@ -6306,9 +6306,10 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/jnsdrtlf/bitwarden-menubar/main/artwork/screenshot.png"
             ],
+            "official_site": "",
             "languages": [
                 "type_script",
-		"swift"
+		        "swift"
             ]
         },
         {
@@ -8236,7 +8237,7 @@
         },
         {
             "repo_url" : "https://github.com/RocketChat/Rocket.Chat.Electron",
-            "official_site" : "https://rocket.chat/",
+            "official_site": "https://rocket.chat/",
             "title" : "RocketChat",
             "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
             "screenshots" : [
@@ -8269,7 +8270,7 @@
         },
         {     
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
-            "official_site" : "",
+            "official_site": "",
             "title" : "Duplicate Finder",
             "icon_url": "",
             "screenshots" : [
