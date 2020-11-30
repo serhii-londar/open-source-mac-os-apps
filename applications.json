@@ -7285,7 +7285,7 @@
             ]
         },
         {
-            "short_description": "✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.",
+            "short_description": "Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.",
             "categories": [
                 "finder",
                 "terminal"
