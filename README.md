@@ -136,6 +136,7 @@ You can see in which language an app is written. Currently there are following l
 - [Brave Browser](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.  ![javascript_icon] 
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser.  ![swift_icon] 
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![objective_c_icon] ![swift_icon] 
+- [Fathomecat](https://github.com/fathomecat/fathomecat) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux.  ![javascript_icon] 
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. ![javascript_icon] 
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper. ![swift_icon] 
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link.  ![javascript_icon] 
