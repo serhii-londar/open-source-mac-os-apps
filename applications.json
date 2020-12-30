@@ -8315,6 +8315,24 @@
               "utilities"
             ]
         },
+      	{
+            "repo_url" : "https://github.com/MonitorControl/MonitorControl",
+            "official_site" : "https://github.com/MonitorControl/MonitorControl",
+            "title" : "MonitorControl",
+            "icon_url": "",
+            "screenshots" : [
+              "https://github.com/MonitorControl/MonitorControl/tree/master/.github"
+            ],
+            "short_description" : "Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
+            "languages" : [
+              "swift",
+	            "objective_c"
+            ],
+            "categories" : [
+              "audio",
+              "utilities"
+            ]
+        },
     	{
             "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
             "categories": [
@@ -8336,8 +8354,7 @@
             "official_site" : "",
             "title" : "osagitfilter",
             "icon_url": "",
-            "screenshots" : [
-            ],
+            "screenshots" : [],
             "short_description" : "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
             "languages" : [
                 "shell",
