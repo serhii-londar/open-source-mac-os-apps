@@ -6815,20 +6815,6 @@
             ]
         },
         {
-            "short_description": "Video player based on MPlayer/mplayer2. ",
-            "categories": [
-                "player"
-            ],
-            "repo_url": "https://github.com/mpv-player/mpv",
-            "title": "mpv",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "c"
-            ]
-        },
-        {
             "short_description": "Caption takes the effort out of finding and setting up the right subtitles. ",
             "categories": [
                 "subtitles"
