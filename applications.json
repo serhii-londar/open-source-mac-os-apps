@@ -1059,9 +1059,7 @@
             "repo_url": "https://github.com/bitpay/copay",
             "title": "Copay",
             "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/bitpay/copay/master/resources/copay/windows/icon/Wide310x150Logo.scale-100.png"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "type_script"
@@ -8208,9 +8206,9 @@
             ],
             "repo_url": "https://github.com/ffittschen/IsItPrivate",
             "title": "Is It Private?",
-            "icon_url": "https://github.com/ffittschen/IsItPrivate/raw/master/Assets/AppIcon.png",
+            "icon_url": "https://raw.githubusercontent.com/ffittschen/IsItPrivate/master/Assets/AppIcon.png",
             "screenshots": [
-               "https://github.com/ffittschen/IsItPrivate/raw/master/Assets/Screenshot.png"
+               "https://raw.githubusercontent.com/ffittschen/IsItPrivate/master/Assets/Screenshot.png"
             ],
             "official_site": "https://florian.codes/projects/is-it-private/",
             "languages": [
@@ -8310,7 +8308,7 @@
             "title": "Extream Download Manager",
             "icon_url": "https://github.com/subhra74/xdm/blob/master/app/src/main/resources/icons/xhdpi/icon.png",
             "screenshots": [],
-            "official_site": "https://subhra74.github.io/xdm",
+            "official_site": "https://subhra74.github.io/xdm/",
             "languages": [
                 "java"
              ]
@@ -8367,7 +8365,7 @@
         },
       	{
             "repo_url" : "https://github.com/MonitorControl/MonitorControl",
-            "official_site" : "https://github.com/MonitorControl/MonitorControl",
+            "official_site" : "",
             "title" : "MonitorControl",
             "icon_url": "",
             "screenshots" : [
