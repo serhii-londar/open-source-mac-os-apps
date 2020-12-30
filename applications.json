@@ -2689,6 +2689,23 @@
             ]
         },
         {
+            "short_description": "A Markdown Editor for the 21st century.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/Zettlr/Zettlr",
+            "title": "Zettlr",
+            "icon_url": "https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/512x512.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/Zettlr/Zettlr/develop/resources/screenshots/zettlr_view.png"
+            ],
+            "official_site": "https://www.zettlr.com/",
+            "languages": [
+                "javascript",
+                "type_script"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
@@ -8284,7 +8301,7 @@
                 "swift"
              ]
         },
-	    {
+	      {
             "short_description": "a powerful tool to increase download speeds up to 500%",
             "categories": [
                 "downloader"
