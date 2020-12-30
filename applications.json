@@ -90,6 +90,22 @@
                 "rust"
             ]
         },
+	{
+            "short_description": "Simple and elegant screensaver that displays the time.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/mattiarossini/MinimalClock",
+            "title": "MinimalClock",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/mattiarossini/MinimalClock/blob/master/Screenshot.gif"
+            ],
+            "official_site": "https://mattiarossini.github.io/MinimalClock/",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
             "categories": [
@@ -1456,8 +1472,7 @@
             "title": "Trailer",
             "icon_url": "",
             "screenshots": [
-                "http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png",
-                "http://ptsochantaris.github.io/trailer/images/background-2400.png"
+                "http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png"
             ],
             "official_site": "",
             "languages": [
@@ -2596,6 +2611,22 @@
             ]
         },
         {
+            "short_description": "Dead simple JSON editor using josdejong/jsoneditor",
+            "categories": [
+                "json"
+            ],
+            "repo_url": "https://github.com/fand/json-editor-app",
+            "title": "JSON Editor",
+            "icon_url": "https://user-images.githubusercontent.com/1403842/73547507-70f89d00-4482-11ea-9559-545e5f82459a.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/1403842/73547401-2ecf5b80-4482-11ea-8b03-753c1621c116.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Tree-structured markdown editor for macOS, Windows, and Linux. ",
             "categories": [
                 "markdown"
@@ -2810,7 +2841,7 @@
             "icon_url": "https://raw.githubusercontent.com/bow-swift/bow-art/master/assets/nef-brand-xcode-shadow.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-export.png",
-                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-plugin-action-snippet.png"
+                "https://raw.githubusercontent.com/bow-swift/nef-plugin/master/assets/nef-xcode-preferences.png"
             ],
             "official_site": "https://nef.bow-swift.io/",
             "languages": [
@@ -3906,6 +3937,23 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "macOS app to visualize Pi-hole information.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Bunn/PiStats",
+            "title": "Pi Stats",
+            "icon_url": "https://raw.githubusercontent.com/Bunn/PiStats/master/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bunn/PiStats/master/images/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+		        "objective_c"
             ]
         },
         {
@@ -6248,6 +6296,23 @@
             ]
         },
         {
+            "short_description": "Bitwarden Passwort Manager in your menu bar",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jnsdrtlf/bitwarden-menubar",
+            "title": "Bitwarden Menu",
+            "icon_url": "https://github.com/jnsdrtlf/bitwarden-menubar/blob/main/Bitwarden/Assets.xcassets/AppIcon.appiconset/icon%40128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jnsdrtlf/bitwarden-menubar/main/artwork/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "type_script",
+		        "swift"
+            ]
+        },
+        {
             "short_description": "Receive native push notifications on macOS, Windows and Linux. ",
             "categories": [
                 "utilities"
@@ -7221,7 +7286,7 @@
             ]
         },
         {
-            "short_description": "✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.",
+            "short_description": "Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.",
             "categories": [
                 "finder",
                 "terminal"
@@ -7383,7 +7448,7 @@
             ],
             "repo_url": "https://github.com/rxhanson/Rectangle",
             "title": "Rectangle",
-            "icon_url": "https://rectangleapp.com/images/appIconNoShadow512.png",
+            "icon_url": "",
             "screenshots": [
                 "https://rectangleapp.com/images/ScreenShot.png"
             ],
@@ -7581,7 +7646,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6",
+            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
             "languages": [
                 "c_sharp"
             ]
@@ -7610,7 +7675,7 @@
             "title": "Super Productivity",
             "icon_url": "https://raw.githubusercontent.com/johannesjo/super-productivity/master/build/icons/512x512.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png",
+                "https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png"
             ],
             "official_site": "https://super-productivity.com",
             "languages": [
@@ -7827,6 +7892,24 @@
             ]
         },
         {
+            "short_description": "A scriptable scratchpad for developers.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/IvanMathy/Boop",
+            "title": "Boop",
+            "icon_url": "https://raw.githubusercontent.com/IvanMathy/Boop/main/Boop/Boop/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/IvanMathy/Boop/main/Boop/Documentation/Images/UI.png"
+            ],
+            "official_site": "https://boop.okat.best",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
             "categories": [
                 "menubar",
@@ -7939,7 +8022,7 @@
             ],
             "repo_url": "https://github.com/leits/MeetingBar",
             "title": "MeetingBar",
-            "icon_url": "https://raw.githubusercontent.com/leits/MeetingBar/master/MeetingBar/Assets.xcassets/AppIcon.appiconset/icon512.png",
+            "icon_url": "",
             "screenshots": [
                "https://raw.githubusercontent.com/leits/MeetingBar/master/screenshot.png"
             ],
@@ -8102,6 +8185,22 @@
             ]
           },
           {
+            "short_description": "A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/ffittschen/IsItPrivate",
+            "title": "Is It Private?",
+            "icon_url": "https://github.com/ffittschen/IsItPrivate/raw/master/Assets/AppIcon.png",
+            "screenshots": [
+               "https://github.com/ffittschen/IsItPrivate/raw/master/Assets/Screenshot.png"
+            ],
+            "official_site": "https://florian.codes/projects/is-it-private/",
+            "languages": [
+                "swift"
+            ]
+          },
+          {
             "short_description": "An ultra-light MacOS utility that helps hide menu bar icons",
             "categories": [
                 "menubar"
@@ -8153,21 +8252,55 @@
               ]
         },
         {
+            "repo_url" : "https://github.com/RocketChat/Rocket.Chat.Electron",
+            "official_site": "https://rocket.chat/",
+            "title" : "RocketChat",
+            "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
+            "screenshots" : [
+              "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
+            ],
+            "short_description" : "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
+            "languages" : [
+              "javascript"
+            ],
+            "categories" : [
+              "chat"
+            ]
+        },
+        {
             "short_description": "Plaintextify your clipboard",
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/hisaac/PlainPasta/",
+            "repo_url": "https://github.com/hisaac/PlainPasta",
             "title": "Plain Pasta",
             "icon_url": "https://raw.githubusercontent.com/hisaac/PlainPasta/main/Assets/app-icon-512%402x.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/without-plain-pasta.gif",
+                "https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/with-plain-pasta.gif"
+            ],
+            "official_site": "",
             "languages": [
                 "swift"
              ]
         },
+	    {
+            "short_description": "a powerful tool to increase download speeds up to 500%",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/subhra74/xdm",
+            "title": "Extream Download Manager",
+            "icon_url": "https://github.com/subhra74/xdm/blob/master/app/src/main/resources/icons/xhdpi/icon.png",
+            "screenshots": [],
+            "official_site": "https://subhra74.github.io/xdm",
+            "languages": [
+                "java"
+             ]
+        },
         {     
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
-            "official_site" : "",
+            "official_site": "",
             "title" : "Duplicate Finder",
             "icon_url": "",
             "screenshots" : [
@@ -8180,6 +8313,38 @@
             "categories" : [
               "finder",
               "utilities"
+            ]
+        },
+    	{
+            "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://chromium.googlesource.com/chromium/src/",
+            "title": "Chromium",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.chromium.org/",
+            "languages": [
+                "javascript",
+                "cpp",
+                "c"
+            ]
+        },
+        {     
+            "repo_url" : "https://github.com/doekman/osagitfilter",
+            "official_site" : "",
+            "title" : "osagitfilter",
+            "icon_url": "",
+            "screenshots" : [
+            ],
+            "short_description" : "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
+            "languages" : [
+                "shell",
+                "applescript",
+            ],
+            "categories" : [
+              "git"
             ]
         }
     ]
