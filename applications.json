@@ -8298,6 +8298,22 @@
               "finder",
               "utilities"
             ]
+        },
+        {     
+            "repo_url" : "https://github.com/doekman/osagitfilter",
+            "official_site" : "",
+            "title" : "osagitfilter",
+            "icon_url": "",
+            "screenshots" : [
+            ],
+            "short_description" : "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
+            "languages" : [
+                "shell",
+                "applescript",
+            ],
+            "categories" : [
+              "git"
+            ]
         }
     ]
 }
