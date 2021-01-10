@@ -3971,6 +3971,20 @@
 		        "objective_c"
             ]
         },
+	{
+            "short_description": "Powerful macOS menu bar customization tool.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/swiftbar/SwiftBar",
+            "title": "SwiftBar",
+            "icon_url": "https://swiftbar.app/images/icon.png",
+            "screenshots": [],
+            "official_site": "https://swiftbar.app",
+            "languages": [
+                "swift"
+            ]
+        },    
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
