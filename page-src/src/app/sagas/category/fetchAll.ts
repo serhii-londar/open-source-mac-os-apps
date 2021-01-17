@@ -3,7 +3,7 @@ import { takeLatest, call, put } from "redux-saga/effects";
 import {
   CategoryActions,
   fetchAllCategoriesSucceedAction,
-  fetchCategoryFaildAction,
+  fetchCategoryFailedAction,
 } from "../../actions/category";
 import { RawCategory } from "../../models/category";
 
@@ -14,7 +14,7 @@ function* fetchAll() {
     const categoies: RawCategory[] = yield call(FetchAllCategories);
     yield put(fetchAllCategoriesSucceedAction(categoies));
   } catch (error) {
-    yield put(fetchCategoryFaildAction(error));
+    yield put(fetchCategoryFailedAction(error));
   }
 }
 

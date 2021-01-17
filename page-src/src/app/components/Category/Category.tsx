@@ -5,7 +5,7 @@ import { useParams } from "react-router";
 
 import styles from "./Category.module.scss";
 
-import ApplicatioinCard from "../../shared/components/ApplicatioinCard/ApplicatioinCard";
+import ApplicationCard from "../../shared/components/ApplicatioinCard/ApplicationCard";
 import Application from "../../models/application";
 import Category from "../../models/category";
 import { RootState } from "../../reducers";
@@ -37,7 +37,7 @@ const Categoty: FC = () => {
         {appsInCategory.map((app: Application) => {
           return (
             <div className={styles.item} key={app.id}>
-              <ApplicatioinCard />
+              <ApplicationCard application={app} />
             </div>
           );
         })}

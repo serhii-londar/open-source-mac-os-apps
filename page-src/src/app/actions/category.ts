@@ -3,7 +3,7 @@ import { RawCategory } from "../models/category";
 export enum CategoryActions {
   FETCH_ALL = "CATEGORY_FETCH_ALL",
   FETCH_ALL_SUCCEED = "CATEGORY_FETCH_ALL_SUCCEED",
-  FETCH_ALL_FAILD = "CATEGORY_FETCH_ALL_FAILD",
+  FETCH_ALL_FAILED = "CATEGORY_FETCH_ALL_FAILED",
 }
 
 export type CategoryAction<T = any> = {
@@ -34,11 +34,11 @@ export const fetchAllCategoriesSucceedAction = (
 // ---------------------------------
 
 export type FetchAllCategoriesFailedPayload = any;
-export type FetchAllCategoriesFaildAction = CategoryAction<FetchAllCategoriesFailedPayload>;
+export type FetchAllCategoriesFailedAction = CategoryAction<FetchAllCategoriesFailedPayload>;
 
-export const fetchCategoryFaildAction = (
+export const fetchCategoryFailedAction = (
   payload: FetchAllCategoriesFailedPayload,
 ): CategoryAction<FetchAllCategoriesFailedPayload> => ({
-  type: CategoryActions.FETCH_ALL_FAILD,
+  type: CategoryActions.FETCH_ALL_FAILED,
   payload,
 });

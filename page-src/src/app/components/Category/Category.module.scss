@@ -1,6 +1,7 @@
 .container {
   display: grid;
   grid-template-rows: 250px 1fr;
+  min-height: 100%;
 }
 
 .header {
@@ -12,6 +13,9 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 5px;
+  overflow: hidden;
+  box-sizing: border-box;
+  align-content: start;
 }
 
 .item {

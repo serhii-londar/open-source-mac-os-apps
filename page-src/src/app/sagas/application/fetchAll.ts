@@ -2,7 +2,7 @@ import { takeLatest, call, put } from "redux-saga/effects";
 
 import {
   ApplicationActions,
-  fetchAllApplicationsFaildAction,
+  fetchAllApplicationsFailedAction,
   fetchAllApplicationsSucceedAction,
 } from "../../actions/application";
 import { RawApplication } from "../../models/application";
@@ -14,7 +14,7 @@ function* fetchAll() {
     const applications: RawApplication[] = yield call(FetchAllApplications);
     yield put(fetchAllApplicationsSucceedAction(applications));
   } catch (error) {
-    yield put(fetchAllApplicationsFaildAction(error));
+    yield put(fetchAllApplicationsFailedAction(error));
   }
 }
 

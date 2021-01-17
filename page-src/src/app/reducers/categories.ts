@@ -4,7 +4,7 @@ import {
   FetchAllCategoriesFailedPayload,
   FetchAllCategoriesSucceedAction,
   FetchAllCategoriesSucceedPayload,
-  FetchAllCategoriesFaildAction,
+  FetchAllCategoriesFailedAction,
 } from "../actions/category";
 import Category, { RawCategory } from "../models/category";
 
@@ -46,14 +46,14 @@ export const categories = (
   action:
     | FetchAllCategoriesAction
     | FetchAllCategoriesSucceedAction
-    | FetchAllCategoriesFaildAction,
+    | FetchAllCategoriesFailedAction,
 ) => {
   switch (action.type) {
     case CategoryActions.FETCH_ALL:
       return FetchAllCategories(state);
     case CategoryActions.FETCH_ALL_SUCCEED:
       return FetchAllCategoriesSucceed(state, action.payload);
-    case CategoryActions.FETCH_ALL_FAILD:
+    case CategoryActions.FETCH_ALL_FAILED:
       return FetchAllCategoriesFailed(state, action.payload);
     default:
       return { ...state };

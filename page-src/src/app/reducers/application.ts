@@ -1,7 +1,7 @@
 import {
   ApplicationActions,
   FetchAllApplicationsAction,
-  FetchAllApplicationsFaildAction,
+  FetchAllApplicationsFailedAction,
   FetchAllApplicationsFailedPayload,
   FetchAllApplicationsSucceedAction,
   FetchAllApplicationsSucceedPayload,
@@ -40,14 +40,14 @@ export const applications = (
   action:
     | FetchAllApplicationsAction
     | FetchAllApplicationsSucceedAction
-    | FetchAllApplicationsFaildAction,
+    | FetchAllApplicationsFailedAction,
 ) => {
   switch (action.type) {
     case ApplicationActions.FETCH_ALL:
       return FetchAllApplications(state);
     case ApplicationActions.FETCH_ALL_SUCCEED:
       return FetchAllApplicationsSucceed(state, action.payload);
-    case ApplicationActions.FETCH_ALL_FAILD:
+    case ApplicationActions.FETCH_ALL_FAILED:
       return FetchAllApplicationsFailed(state, action.payload);
     default:
       return { ...state };

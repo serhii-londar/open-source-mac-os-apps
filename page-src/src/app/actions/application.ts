@@ -3,7 +3,7 @@ import { RawApplication } from "../models/application";
 export enum ApplicationActions {
   FETCH_ALL = "APPLICATIONS_FETCH_ALL",
   FETCH_ALL_SUCCEED = "APPLICATIONS_FETCH_ALL_SUCCEED",
-  FETCH_ALL_FAILD = "APPLICATIONS_FETCH_ALL_FAILD",
+  FETCH_ALL_FAILED = "APPLICATIONS_FETCH_ALL_FAILED",
 }
 
 export type ApplicationAction<T = any> = {
@@ -36,11 +36,11 @@ export const fetchAllApplicationsSucceedAction = (
 // ---------------------------------
 
 export type FetchAllApplicationsFailedPayload = any;
-export type FetchAllApplicationsFaildAction = ApplicationAction<FetchAllApplicationsFailedPayload>;
+export type FetchAllApplicationsFailedAction = ApplicationAction<FetchAllApplicationsFailedPayload>;
 
-export const fetchAllApplicationsFaildAction = (
+export const fetchAllApplicationsFailedAction = (
   payload: FetchAllApplicationsFailedPayload,
-): FetchAllApplicationsFaildAction => ({
-  type: ApplicationActions.FETCH_ALL_FAILD,
+): FetchAllApplicationsFailedAction => ({
+  type: ApplicationActions.FETCH_ALL_FAILED,
   payload,
 });

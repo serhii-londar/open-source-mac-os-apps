@@ -1,0 +1,95 @@
+@import "../../css/colors.scss";
+
+$height: 120px;
+$height-hover: 200px;
+
+.container {
+  position: relative;
+  box-sizing: border-box;
+  height: $height;
+
+  &:hover {
+    .wrapper {
+      z-index: 100;
+      height: $height-hover;
+      transform: scale(1.05);
+
+      .image {
+        border-radius: 0;
+        width: $height-hover;
+        height: $height-hover;
+      }
+    }
+  }
+
+  &.bottom {
+    .wrapper {
+      bottom: 0;
+    }
+  }
+
+  &.top {
+    .wrapper {
+      top: 0;
+    }
+  }
+}
+
+.wrapper {
+  height: $height;
+  width: 100%;
+
+  background-color: #fff;
+
+  position: absolute;
+  left: 0;
+
+  display: grid;
+  grid-template-columns: $height 1fr;
+
+  box-shadow: 0px 0px 10px -5px $charcoal;
+
+  border-radius: 0px;
+
+  transform: scale(1);
+  transition: all 0.15s linear;
+  z-index: 90;
+}
+
+.left,
+.right {
+  overflow: hidden;
+}
+
+.left {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.right {
+  padding: 10px;
+}
+
+.image {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+
+  transition: height 0.15s linear, border-radius 0.15s linear;
+
+  img {
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.description {
+  height: 60px;
+  overflow: hidden;
+}
