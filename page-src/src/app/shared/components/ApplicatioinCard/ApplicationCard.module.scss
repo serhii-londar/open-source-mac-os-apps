@@ -7,6 +7,7 @@ $height-hover: 200px;
   position: relative;
   box-sizing: border-box;
   height: $height;
+  cursor: pointer;
 
   &:hover {
     .wrapper {
@@ -40,16 +41,16 @@ $height-hover: 200px;
   width: 100%;
 
   background-color: #fff;
+  overflow: hidden;
 
   position: absolute;
   left: 0;
 
   display: grid;
   grid-template-columns: $height 1fr;
-
   box-shadow: 0px 0px 10px -5px $charcoal;
 
-  border-radius: 0px;
+  border-radius: 5px;
 
   transform: scale(1);
   transition: all 0.15s linear;
@@ -69,6 +70,10 @@ $height-hover: 200px;
 
 .right {
   padding: 10px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 30px 1fr 30px;
 }
 
 .image {
@@ -89,7 +94,31 @@ $height-hover: 200px;
   }
 }
 
-.description {
-  height: 60px;
+.header {
+  white-space: nowrap;
   overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.description {
+  height: 100%;
+  overflow: hidden;
+  font-size: 12px;
+  p {
+    margin: 0;
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  font-size: 14px;
+  justify-items: center;
+  align-items: center;
 }

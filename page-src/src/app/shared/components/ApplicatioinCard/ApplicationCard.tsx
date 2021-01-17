@@ -1,7 +1,11 @@
+import { faCodeBranch, faEye, faStar } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { FC, useCallback, useState } from "react";
 import Application from "../../../models/application";
 
 import styles from "./ApplicationCard.module.scss";
+
+const icon = require("../../../../assets/placeholdersvg.svg");
 
 type ApplicationCard = {
   application: Application;
@@ -9,8 +13,6 @@ type ApplicationCard = {
 
 const ApplicationCard: FC<ApplicationCard> = ({ application }) => {
   const { title } = application;
-
-  console.log(application);
 
   const [animationPosition, setAnimationPosition] = useState<string>("");
 
@@ -27,13 +29,14 @@ const ApplicationCard: FC<ApplicationCard> = ({ application }) => {
     }
   }, []);
 
+  const img = application.screenshots.length ? application.screenshots[0].url : icon;
+
   return (
     <div className={`${styles.container} ${animationPosition}`} ref={measuredRef}>
       <div className={styles.wrapper}>
         <div className={styles.left}>
           <div className={styles.image}>
-            <img src={application.screenshots[0]?.url} alt="img" />
-            {/* <img src={`https://picsum.photos/800/600?random=${Math.random()}`} alt="img" /> */}
+            <img src={img} alt="img" />
           </div>
         </div>
 
@@ -45,9 +48,15 @@ const ApplicationCard: FC<ApplicationCard> = ({ application }) => {
             <p>{application.description}</p>
           </div>
           <div className={styles.footer}>
-            <span>Start: {application.stars}</span>
-            <span>Forks: {application.forks}</span>
-            <span>Watchers: {application.watchers}</span>
+            <span>
+              <FontAwesomeIcon icon={faStar} /> {application.stars}
+            </span>
+            <span>
+              <FontAwesomeIcon icon={faCodeBranch} /> {application.forks}
+            </span>
+            <span>
+              <FontAwesomeIcon icon={faEye} /> {application.watchers}
+            </span>
           </div>
         </div>
       </div>

@@ -16,6 +16,13 @@
   overflow: hidden;
   box-sizing: border-box;
   align-content: start;
+
+  @media (max-width: 1600px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  @media (max-width: 1300px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .item {
