@@ -8416,6 +8416,22 @@
                 "music",
                 "video"
             ]
+        },
+        {
+            "repo_url": "https://github.com/RobotsAndPencils/XcodesApp",
+            "official_site": "https://github.com/RobotsAndPencils/XcodesApp",
+            "title": "Xcodes.app",
+            "short_description": "The easiest way to install and switch between multiple versions of Xcode.",
+            "icon_url": "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/screenshot.png"
+            ],
+            "categories": [
+                "ios--macos"
+            ],
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
