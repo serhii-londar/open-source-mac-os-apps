@@ -573,6 +573,7 @@ You can see in which language an app is written. Currently there are following l
 ### Security
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption. ![rust_icon] 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. ![java_icon] 
+- [Hat.sh](https://github.com/sh-dv/hat.sh) - Fast, Secure client-side File Encryption and Decryption. ![javascript_icon] 
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.  ![objective_c_icon] 
 - [Swifty](https://github.com/swiftyapp/swifty) - Free and offline password manager.  ![javascript_icon] 
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon] 
