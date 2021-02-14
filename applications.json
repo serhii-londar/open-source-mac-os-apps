@@ -8416,6 +8416,24 @@
  	      	"music",
                	"video"
              ]
-         }
+         },
+	 {     
+            "repo_url" : "https://github.com/b3z/reventlou",
+            "official_site" : "",
+            "title" : "reventlou",
+            "icon_url": "",
+            "screenshots" : [
+	      "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
+	    ],
+            "short_description" : "Personal database as an information management system.",
+            "languages" : [
+              "type_script"
+            ],
+            "categories" : [
+	      "database",
+	      "productivity",
+	      "text"
+            ]
+        }
     ]
 }
