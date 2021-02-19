@@ -239,6 +239,7 @@ You can see in which language an app is written. Currently there are following l
 - [ndm](https://github.com/720kb/ndm) - Npm desktop GUI.  ![javascript_icon] 
 - [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar.  ![swift_icon] 
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.  ![swift_icon] 
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift_icon] 
 
 #### iOS / macOS
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.  ![swift_icon] 
