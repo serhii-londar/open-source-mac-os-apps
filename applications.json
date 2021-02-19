@@ -184,6 +184,22 @@
                 "swift"
             ]
         },
+	    {
+            "short_description": "Open source tool for managing i18n keys in software projects.",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/simplelocalize/simplelocalize-cli",
+            "title": "SimpleLocalize CLI",
+            "icon_url": "",
+            "screenshots": [
+               
+            ],
+            "official_site": "https://simplelocalize.io",
+            "languages": [
+                "swift"
+            ]
+        },
          {
             "short_description": "Clementine is a modern music player and library organizer for Windows, Linux and macOS. ",
             "categories": [
