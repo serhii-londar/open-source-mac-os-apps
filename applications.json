@@ -8416,6 +8416,24 @@
  	      	"music",
                	"video"
              ]
-         }
+         },
+        {
+            "short_description" : "RSS & Atom feed reader that lives in the system status bar.",
+            "categories" : [
+                "menubar",
+                "news",
+                "utilities"
+            ],
+            "repo_url" : "https://github.com/relikd/barss",
+            "title" : "baRSS – Menu Bar RSS Reader",
+            "icon_url": "https://raw.githubusercontent.com/relikd/baRSS/main/baRSS/Artwork/application-icon.svg",
+            "screenshots" : [
+                "https://raw.githubusercontent.com/relikd/baRSS/main/screenshot.png"
+            ],
+            "official_site" : "",
+            "languages" : [
+                "objective_c"
+            ],
+        }
     ]
 }
