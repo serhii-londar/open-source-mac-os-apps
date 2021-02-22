@@ -1502,7 +1502,7 @@
             "title": "Git Interactive Rebase Tool",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif"
+                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/girt-demo.gif"
             ],
             "official_site": "https://gitrebasetool.mitmaro.ca/",
             "languages": [
@@ -1874,7 +1874,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/ralcr/Localizable.strings",
+            "repo_url": "https://github.com/cristibaluta/Localizable.strings",
             "title": "Localizable.strings",
             "icon_url": "",
             "screenshots": [],
@@ -4962,7 +4962,7 @@
             "title": "PDF Archiver",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif"
+                "https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/version-1/assets/example.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7563,7 +7563,7 @@
             "title": "Cog",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "http://cogx.org/",
+            "official_site": "https://cogx.org/",
             "languages": [
                 "objective_c"
             ]
