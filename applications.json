@@ -8420,8 +8420,8 @@
          {
             "short_description": "Note-taking app with many organizational options.",
             "categories": [
-                "Markdown",
-                "Notes"
+                "markdown",
+                "notes"
             ],
             "repo_url": "https://github.com/hbowie/notenik-swift",
             "title": "Notenik",
@@ -8431,7 +8431,7 @@
             ],
             "official_site": "https://notenik.net",
             "languages": [
-                "Swift"
+                "swift"
             ]
         }
     ]
