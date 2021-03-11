@@ -8444,7 +8444,25 @@
  	      	"music",
                	"video"
              ]
-         }
+         },
+         {
+            "repo_url" : "https://github.com/87kangsw/ThenGenerator",
+            "official_site" : "",
+            "title" : "ThenGenerator",
+            "icon_url": "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/icon_512x512.png",
+            "screenshots" : [
+                "https://github.com/87kangsw/ThenGenerator/raw/main/.github/images/property.png"
+            ],
+            "short_description" : "Xcode Source Editor Extension for 'Then'",
+            "languages" : [
+                "swift"
+            ],
+            "categories" : [
+                "extensions",
+                "productivity",
+                "utilities"
+            ]
+        },
          {
             "short_description": "Note-taking app with many organizational options.",
             "categories": [
