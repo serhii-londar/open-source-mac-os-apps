@@ -1,5 +1,19 @@
     {
     "applications": [
+    	{
+			"short_description": "Tiny stocks watcher for the menu bar.",
+			"categories": [
+				"menubar"
+			],
+			"repo_url": "https://github.com/manindaniil/market-bar",
+			"title": "Market Bar",
+			"icon_url": "",
+			"screenshots": [],
+			"official_site": "",
+			"languages": [
+				"swift"
+			]
+		},
 		{
 			"short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
 			"categories": [
@@ -3971,6 +3985,20 @@
 		        "objective_c"
             ]
         },
+	{
+            "short_description": "Powerful macOS menu bar customization tool.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/swiftbar/SwiftBar",
+            "title": "SwiftBar",
+            "icon_url": "https://swiftbar.app/images/icon.png",
+            "screenshots": [],
+            "official_site": "https://swiftbar.app",
+            "languages": [
+                "swift"
+            ]
+        },    
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
@@ -8408,7 +8436,7 @@
              ],
              "short_description" : "Lightweight, highly configurable media player.",
              "languages" : [
-               "c""
+               "c"
              ],
              "categories" : [
                	"audio",
@@ -8434,7 +8462,23 @@
                 "productivity",
                 "utilities"
             ]
+        },
+         {
+            "short_description": "Note-taking app with many organizational options.",
+            "categories": [
+                "markdown",
+                "notes"
+            ],
+            "repo_url": "https://github.com/hbowie/notenik-swift",
+            "title": "Notenik",
+            "icon_url": "https://notenik.net/images/notenik.png",
+            "screenshots": [
+               "https://notenik.net/images/notenik-list-and-display.jpg"
+            ],
+            "official_site": "https://notenik.net",
+            "languages": [
+                "swift"
+            ]
         }
-
     ]
 }
