@@ -3617,12 +3617,12 @@
             "categories": [
                 "keyboard"
             ],
-            "repo_url": "https://github.com/utatti/kawa",
+            "repo_url": "https://github.com/hatashiro/kawa",
             "title": "Kawa",
             "icon_url": "",
             "screenshots": [
                 "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
-                "https://raw.githubusercontent.com/utatti/kawa/master/resource/png/logo.png"
+                "https://raw.githubusercontent.com/hatashiro/kawa/master/resource/png/logo.png"
             ],
             "official_site": "",
             "languages": [
@@ -3771,12 +3771,12 @@
             ]
         },
         {
-            "short_description": "Put the output from any script or program in your macOS Menu Bar. ",
+            "short_description": "Put the output from any script or program into your macOS Menu Bar. ",
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/matryer/bitbar",
-            "title": "BitBar",
+            "repo_url": "https://github.com/matryer/xbar",
+            "title": "xbar",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
