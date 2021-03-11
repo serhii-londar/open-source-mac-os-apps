@@ -1467,8 +1467,7 @@
             "title": "Streaker",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menu-bar.png",
-                "https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/preferences.png"
+                "https://raw.githubusercontent.com/jamieweavis/streaker/main/.github/screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -1532,7 +1531,7 @@
             "title": "Git Interactive Rebase Tool",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif"
+                "https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/girt-demo.gif"
             ],
             "official_site": "https://gitrebasetool.mitmaro.ca/",
             "languages": [
@@ -1904,7 +1903,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/ralcr/Localizable.strings",
+            "repo_url": "https://github.com/cristibaluta/Localizable.strings",
             "title": "Localizable.strings",
             "icon_url": "",
             "screenshots": [],
@@ -5006,7 +5005,6 @@
             "title": "PDF Archiver",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7607,7 +7605,7 @@
             "title": "Cog",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "http://cogx.org/",
+            "official_site": "https://cogx.org/",
             "languages": [
                 "objective_c"
             ]
@@ -7912,7 +7910,7 @@
                 "https://user-images.githubusercontent.com/12229032/78544215-6b6b5a80-7817-11ea-8b80-12bbbfc16053.jpg",
                 "https://user-images.githubusercontent.com/12229032/78544289-84740b80-7817-11ea-9092-e76fcb027702.jpg"
             ],
-            "official_site": "https://grayscalemode.com",
+            "official_site": "",
             "languages": [
                 "swift"
             ]
@@ -8463,7 +8461,7 @@
         },
         {
             "repo_url": "https://github.com/RobotsAndPencils/XcodesApp",
-            "official_site": "https://github.com/RobotsAndPencils/XcodesApp",
+            "official_site": "",
             "title": "Xcodes.app",
             "short_description": "The easiest way to install and switch between multiple versions of Xcode.",
             "icon_url": "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/icon.png",
@@ -8477,25 +8475,6 @@
                 "swift"
             ]
         },
-	      {     
-             "repo_url" : "https://github.com/mpv-player/mpv",
-             "official_site" : "https://mpv.io",
-             "title" : "MPV",
-             "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
-             "screenshots" : [
-               "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
-             ],
-             "short_description" : "Lightweight, highly configurable media player.",
-             "languages" : [
-               "c"
-             ],
-             "categories" : [
-               	"audio",
- 	       	      "player",
- 	      	      "music",
-               	"video"
-             ]
-         },
     	   {     
             "repo_url" : "https://github.com/b3z/reventlou",
             "official_site" : "",
@@ -8559,7 +8538,7 @@
             "title" : "ThenGenerator",
             "icon_url": "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/icon_512x512.png",
             "screenshots" : [
-                "https://github.com/87kangsw/ThenGenerator/raw/main/.github/images/property.png"
+                "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/property.png"
             ],
             "short_description" : "Xcode Source Editor Extension for 'Then'",
             "languages" : [
