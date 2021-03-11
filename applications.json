@@ -1,5 +1,19 @@
     {
     "applications": [
+    	{
+			"short_description": "Tiny stocks watcher for the menu bar.",
+			"categories": [
+				"menubar"
+			],
+			"repo_url": "https://github.com/manindaniil/market-bar",
+			"title": "Market Bar",
+			"icon_url": "",
+			"screenshots": [],
+			"official_site": "",
+			"languages": [
+				"swift"
+			]
+		},
 		{
 			"short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
 			"categories": [
@@ -180,6 +194,22 @@
                 "https://raw.githubusercontent.com/vgorloff/AUHost/master/Media/Screenshot-MainWindow.png"
             ],
             "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+	    {
+            "short_description": "Open source tool for managing i18n keys in software projects.",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/simplelocalize/simplelocalize-cli",
+            "title": "SimpleLocalize CLI",
+            "icon_url": "",
+            "screenshots": [
+               
+            ],
+            "official_site": "https://simplelocalize.io",
             "languages": [
                 "swift"
             ]
@@ -3971,6 +4001,20 @@
 		        "objective_c"
             ]
         },
+	{
+            "short_description": "Powerful macOS menu bar customization tool.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/swiftbar/SwiftBar",
+            "title": "SwiftBar",
+            "icon_url": "https://swiftbar.app/images/icon.png",
+            "screenshots": [],
+            "official_site": "https://swiftbar.app",
+            "languages": [
+                "swift"
+            ]
+        },    
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
@@ -8398,7 +8442,42 @@
               "git"
             ]
         },
-	{     
+        {     
+            "repo_url" : "https://github.com/mpv-player/mpv",
+            "official_site" : "https://mpv.io",
+            "title" : "MPV",
+            "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
+            "screenshots" : [
+                "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
+            ],
+            "short_description" : "Lightweight, highly configurable media player.",
+            "languages" : [
+                "c"
+            ],
+            "categories" : [
+                "audio",
+                "player",
+                "music",
+                "video"
+            ]
+        },
+        {
+            "repo_url": "https://github.com/RobotsAndPencils/XcodesApp",
+            "official_site": "https://github.com/RobotsAndPencils/XcodesApp",
+            "title": "Xcodes.app",
+            "short_description": "The easiest way to install and switch between multiple versions of Xcode.",
+            "icon_url": "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/screenshot.png"
+            ],
+            "categories": [
+                "ios--macos"
+            ],
+            "languages": [
+                "swift"
+            ]
+        },
+	      {     
              "repo_url" : "https://github.com/mpv-player/mpv",
              "official_site" : "https://mpv.io",
              "title" : "MPV",
@@ -8408,31 +8487,105 @@
              ],
              "short_description" : "Lightweight, highly configurable media player.",
              "languages" : [
-               "c""
+               "c"
              ],
              "categories" : [
                	"audio",
- 	       	"player",
- 	      	"music",
+ 	       	      "player",
+ 	      	      "music",
                	"video"
              ]
          },
-	 {     
+    	   {     
             "repo_url" : "https://github.com/b3z/reventlou",
             "official_site" : "",
             "title" : "reventlou",
             "icon_url": "",
             "screenshots" : [
-	      "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
-	    ],
+	            "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
+	          ],
             "short_description" : "Personal database as an information management system.",
             "languages" : [
               "type_script"
             ],
             "categories" : [
-	      "database",
-	      "productivity",
-	      "text"
+	            "database",
+	            "productivity",
+	            "text"
+             ],
+           "languages": [
+                "swift"
+            ]
+         },
+         {
+            "short_description" : "RSS & Atom feed reader that lives in the system status bar.",
+            "categories" : [
+                "menubar",
+                "news",
+                "utilities"
+            ],
+            "repo_url" : "https://github.com/relikd/barss",
+            "title" : "baRSS – Menu Bar RSS Reader",
+            "icon_url": "https://raw.githubusercontent.com/relikd/baRSS/main/baRSS/Artwork/application-icon.svg",
+            "screenshots" : [
+                "https://raw.githubusercontent.com/relikd/baRSS/main/screenshot.png"
+            ],
+            "official_site" : "",
+            "languages" : [
+                "objective_c"
+            ]
+        },
+        {
+            "short_description": "macOS system monitor in your menu bar",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/exelban/stats",
+            "title": "Stats",
+            "icon_url": "https://raw.githubusercontent.com/exelban/stats/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://camo.githubusercontent.com/0e25eeb8b466356b0bcd847d064da3084baa5aed9bf53fab3bad2f0f0fbd1ee9/68747470733a2f2f7365726869792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f4769746875625f7265706f2f73746174732f706f7075707325334676322e332e322e706e673f7633"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+         {
+            "repo_url" : "https://github.com/87kangsw/ThenGenerator",
+            "official_site" : "",
+            "title" : "ThenGenerator",
+            "icon_url": "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/icon_512x512.png",
+            "screenshots" : [
+                "https://github.com/87kangsw/ThenGenerator/raw/main/.github/images/property.png"
+            ],
+            "short_description" : "Xcode Source Editor Extension for 'Then'",
+            "languages" : [
+                "swift"
+            ],
+            "categories" : [
+                "extensions",
+                "productivity",
+                "utilities"
+            ]
+        },
+         {
+            "short_description": "Note-taking app with many organizational options.",
+            "categories": [
+                "markdown",
+                "notes"
+            ],
+            "repo_url": "https://github.com/hbowie/notenik-swift",
+            "title": "Notenik",
+            "icon_url": "https://notenik.net/images/notenik.png",
+            "screenshots": [
+               "https://notenik.net/images/notenik-list-and-display.jpg"
+            ],
+            "official_site": "https://notenik.net",
+            "languages": [
+                "swift"
             ]
         }
     ]
