@@ -8408,7 +8408,7 @@
              ],
              "short_description" : "Lightweight, highly configurable media player.",
              "languages" : [
-               "c""
+               "c"
              ],
              "categories" : [
                	"audio",
@@ -8417,5 +8417,22 @@
                	"video"
              ]
          }
+         {
+            "short_description": "Note-taking app with many organizational options.",
+            "categories": [
+                "markdown",
+                "notes"
+            ],
+            "repo_url": "https://github.com/hbowie/notenik-swift",
+            "title": "Notenik",
+            "icon_url": "https://notenik.net/images/notenik.png",
+            "screenshots": [
+               "https://notenik.net/images/notenik-list-and-display.jpg"
+            ],
+            "official_site": "https://notenik.net",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
