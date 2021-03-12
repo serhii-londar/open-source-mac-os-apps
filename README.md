@@ -185,7 +185,7 @@ You can see in which language an app is written. Currently there are following l
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. ![objective_c_icon] 
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.   ![objective_c_icon] 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.  ![swift_icon] 
-- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] 
+- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 
 ### Development
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
@@ -322,7 +322,7 @@ You can see in which language an app is written. Currently there are following l
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature. ![objective_c_icon] 
 - [TextMate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS.  ![objective_c_icon] 
 - [VimR](https://github.com/qvacua/vimr) - Refined Neovim experience for macOS.  ![swift_icon] 
-- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] 
+- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 
 ### Extensions
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
@@ -402,7 +402,7 @@ You can see in which language an app is written. Currently there are following l
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json  ![clojure_icon] 
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. ![cpp_icon] ![objective_c_icon] 
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ![objective_c_icon] 
-- [Kawa](https://github.com/utatti/kawa) - Better input source switcher for macOS.  ![swift_icon] 
+- [Kawa](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.  ![swift_icon] 
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.  ![swift_icon] 
 - [Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard  ![swift_icon] 
 
@@ -420,7 +420,6 @@ You can see in which language an app is written. Currently there are following l
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.  ![objective_c_icon] 
-- [BitBar](https://github.com/matryer/bitbar) - Put the output from any script or program in your macOS Menu Bar.  ![objective_c_icon] 
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.  ![swift_icon] 
@@ -449,6 +448,7 @@ You can see in which language an app is written. Currently there are following l
 - [baRSS – Menu Bar RSS Reader](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective_c_icon] 
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.  ![swift_icon] 
 - [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.  ![swift_icon] 
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective_c_icon] 
 
 ### Music
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
@@ -571,7 +571,7 @@ You can see in which language an app is written. Currently there are following l
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.  ![swift_icon] 
-- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] 
+- [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
 
