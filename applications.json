@@ -1,38 +1,38 @@
-    {
+{
     "applications": [
-    	{
-			"short_description": "Tiny stocks watcher for the menu bar.",
-			"categories": [
-				"menubar"
-			],
-			"repo_url": "https://github.com/manindaniil/market-bar",
-			"title": "Market Bar",
-			"icon_url": "",
-			"screenshots": [],
-			"official_site": "",
-			"languages": [
-				"swift"
-			]
-		},
-		{
-			"short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
-			"categories": [
-				"ide",
-				"development"
-			],
-			"repo_url": "https://github.com/apache/netbeans",
-			"title": "Apache Netbeans",
-			"icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
-			"screenshots": [
-				"https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
-				"https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
-			],
-			"official_site": "http://netbeans.apache.org",
-			"languages": [
-				"java"
-			]
-		},
-		{
+        {
+            "short_description": "Tiny stocks watcher for the menu bar.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/manindaniil/market-bar",
+            "title": "Market Bar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/apache/netbeans",
+            "title": "Apache Netbeans",
+            "icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
+            "screenshots": [
+                "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
+                "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
+            ],
+            "official_site": "http://netbeans.apache.org",
+            "languages": [
+                "java"
+            ]
+        },
+        {
             "short_description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.",
             "categories": [
                 "audio",
@@ -44,7 +44,7 @@
             "title": "PlayStatus",
             "icon_url": "https://user-images.githubusercontent.com/45484873/56880861-09cb3980-6a67-11e9-9d45-037a9165b212.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif"
+                "https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif"
             ],
             "official_site": "",
             "languages": [
@@ -52,23 +52,23 @@
             ]
         },
         {
-           "short_description": "Ultra TabSaver is an open-source Tab Manager for Safari",
-           "categories": [
-               "extensions",
-               "productivity",
-               "utilities"
-           ],
-           "repo_url": "https://github.com/Swift-open-source/UltraTabSaver",
-           "title": "Ultra TabSaver",
-           "icon_url": "",
-           "screenshots": [
-              "https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif"
-           ],
-           "official_site": "",
-           "languages": [
-               "swift"
-           ]
-       },
+            "short_description": "Ultra TabSaver is an open-source Tab Manager for Safari",
+            "categories": [
+                "extensions",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Swift-open-source/UltraTabSaver",
+            "title": "Ultra TabSaver",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
@@ -81,7 +81,7 @@
             "title": "Music Bar",
             "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
             "screenshots": [
-               "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
+                "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
             ],
             "official_site": "https://musa11971.github.io/Music-Bar/",
             "languages": [
@@ -104,7 +104,7 @@
                 "rust"
             ]
         },
-	{
+        {
             "short_description": "Simple and elegant screensaver that displays the time.",
             "categories": [
                 "screensaver"
@@ -198,7 +198,7 @@
                 "swift"
             ]
         },
-	    {
+        {
             "short_description": "Open source tool for managing i18n keys in software projects.",
             "categories": [
                 "web-development"
@@ -206,15 +206,13 @@
             "repo_url": "https://github.com/simplelocalize/simplelocalize-cli",
             "title": "SimpleLocalize CLI",
             "icon_url": "",
-            "screenshots": [
-               
-            ],
+            "screenshots": [],
             "official_site": "https://simplelocalize.io",
             "languages": [
                 "swift"
             ]
         },
-         {
+        {
             "short_description": "Clementine is a modern music player and library organizer for Windows, Linux and macOS. ",
             "categories": [
                 "audio"
@@ -352,7 +350,8 @@
             "repo_url": "https://github.com/alberti42/iTunes-Volume-Control",
             "title": "iTunes-Volume-Control",
             "icon_url": "",
-            "screenshots": [ "https://camo.githubusercontent.com/0e72c553e7a1078295948921350e923e03f9a8f4/68747470733a2f2f7261772e6769746875622e636f6d2f616c626572746934322f6954756e65732d566f6c756d652d436f6e74726f6c2f6d61737465722f6954756e6573253230566f6c756d65253230436f6e74726f6c2f496d616765732f73637265656e73686f742e706e67"
+            "screenshots": [
+                "https://camo.githubusercontent.com/0e72c553e7a1078295948921350e923e03f9a8f4/68747470733a2f2f7261772e6769746875622e636f6d2f616c626572746934322f6954756e65732d566f6c756d652d436f6e74726f6c2f6d61737465722f6954756e6573253230566f6c756d65253230436f6e74726f6c2f496d616765732f73637265656e73686f742e706e67"
             ],
             "official_site": "",
             "languages": [
@@ -400,14 +399,14 @@
             "title" : "macOSLucidaGrande",
             "icon_url": "",
             "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
+                "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
             ],
             "short_description" : "A small utility to set Lucida Grande as your Mac's system UI font.",
             "languages" : [
-              "objective_c"
+                "objective_c"
             ],
             "categories" : [
-              "system"
+                "system"
             ]
         },
         {
@@ -632,8 +631,7 @@
             "repo_url": "https://github.com/zenangst/Syncalicious",
             "title": "Syncalicious",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -848,14 +846,14 @@
             "title" : "StickyNotes",
             "icon_url": "",
             "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
+                "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
             ],
             "short_description" : "A Windows 10-esque Sticky Notes app implemented in AppKit.",
             "languages" : [
-              "swift"
+                "swift"
             ],
             "categories" : [
-              "productivity"
+                "productivity"
             ]
         },
         {
@@ -1103,8 +1101,7 @@
             "repo_url": "https://github.com/geraldoramos/crypto-bar",
             "title": "Crypto Bar",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -1250,8 +1247,7 @@
             "repo_url": "https://github.com/Sequel-Ace/Sequel-Ace",
             "title": "Sequel Ace",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "https://sequel-ace.com/",
             "languages": [
                 "objective_c"
@@ -2208,20 +2204,20 @@
             ]
         },
         {
-          "short_description": "Template based highly customizable macOS app to generate classes from JSON string, supports many languages. ",
-          "categories": [
-            "json-parsing"
-          ],
-          "repo_url": "https://github.com/chanonly123/Json-Model-Generator",
-          "title": "JSON to Model class",
-          "icon_url": "",
-          "screenshots": [
-            "https://raw.githubusercontent.com/chanonly123/Json-Model-Generator/master/demo1.jpg"
-          ],
-          "official_site": "",
-          "languages": [
-            "swift"
-          ]
+            "short_description": "Template based highly customizable macOS app to generate classes from JSON string, supports many languages. ",
+            "categories": [
+                "json-parsing"
+            ],
+            "repo_url": "https://github.com/chanonly123/Json-Model-Generator",
+            "title": "JSON to Model class",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chanonly123/Json-Model-Generator/master/demo1.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "Simple macOS app for uploading files to Amazon Web Services. ",
@@ -2724,7 +2720,7 @@
             "title": "Zettlr",
             "icon_url": "https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/512x512.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/Zettlr/Zettlr/develop/resources/screenshots/zettlr_view.png"
+                "https://raw.githubusercontent.com/Zettlr/Zettlr/develop/resources/screenshots/zettlr_view.png"
             ],
             "official_site": "https://www.zettlr.com/",
             "languages": [
@@ -2933,8 +2929,7 @@
             "repo_url": "https://github.com/hluk/CopyQ",
             "title": "CopyQ",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -3321,7 +3316,7 @@
                 "type_script"
             ]
         },
-	    {
+        {
             "short_description": "ubiquitous text editor",
             "categories": [
                 "ide"
@@ -3330,12 +3325,12 @@
             "title": "Vim",
             "icon_url": "",
             "screenshots": [
-		"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vim-search-copen-quickfix.png/640px-Vim-search-copen-quickfix.png"
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vim-search-copen-quickfix.png/640px-Vim-search-copen-quickfix.png"
             ],
             "official_site": "https://www.vim.org/",
             "languages": [
                 "C",
-		"Vim script"
+                "Vim script"
             ]
         },
         {
@@ -3622,12 +3617,12 @@
             "categories": [
                 "keyboard"
             ],
-            "repo_url": "https://github.com/utatti/kawa",
+            "repo_url": "https://github.com/hatashiro/kawa",
             "title": "Kawa",
             "icon_url": "",
             "screenshots": [
                 "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
-                "https://raw.githubusercontent.com/utatti/kawa/master/resource/png/logo.png"
+                "https://raw.githubusercontent.com/hatashiro/kawa/master/resource/png/logo.png"
             ],
             "official_site": "",
             "languages": [
@@ -3776,12 +3771,12 @@
             ]
         },
         {
-            "short_description": "Put the output from any script or program in your macOS Menu Bar. ",
+            "short_description": "Put the output from any script or program into your macOS Menu Bar. ",
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/matryer/bitbar",
-            "title": "BitBar",
+            "repo_url": "https://github.com/matryer/xbar",
+            "title": "xbar",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
@@ -3997,10 +3992,10 @@
             "official_site": "",
             "languages": [
                 "swift",
-		        "objective_c"
+                "objective_c"
             ]
         },
-	{
+        {
             "short_description": "Powerful macOS menu bar customization tool.",
             "categories": [
                 "menubar"
@@ -4405,7 +4400,7 @@
             "title": "QOwnNotes",
             "icon_url": "https://raw.githubusercontent.com/pbek/QOwnNotes/develop/icons/icon.png",
             "screenshots": [
-               "https://www.qownnotes.org/screenshots/screenshot.png"
+                "https://www.qownnotes.org/screenshots/screenshot.png"
             ],
             "official_site": "https://www.qownnotes.org/",
             "languages": [
@@ -5004,8 +4999,7 @@
             "repo_url": "https://github.com/PDF-Archiver/PDF-Archiver",
             "title": "PDF Archiver",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5546,21 +5540,21 @@
                 "swift"
             ]
         },
-	{
-             "short_description": "A SwiftUI Reddit client for macOS. ",
-             "categories": [
-                 "social-networking"
-             ],
-             "repo_url": "https://github.com/Dimillian/RedditOS",
-             "title": "RedditOS",
-             "icon_url": "",
-             "screenshots": [
-                 "https://raw.githubusercontent.com/Dimillian/RedditOS/master/Images/image1.png"
-             ],
-             "official_site": "",
-             "languages": [
-                 "swift"
-             ]
+        {
+            "short_description": "A SwiftUI Reddit client for macOS. ",
+            "categories": [
+                "social-networking"
+            ],
+            "repo_url": "https://github.com/Dimillian/RedditOS",
+            "title": "RedditOS",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Dimillian/RedditOS/master/Images/image1.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "Perpetual artwork streaming app. ",
@@ -6209,8 +6203,7 @@
             "repo_url": "https://github.com/alin23/lunar",
             "title": "Lunar",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6366,7 +6359,7 @@
             "official_site": "",
             "languages": [
                 "type_script",
-		        "swift"
+                "swift"
             ]
         },
         {
@@ -7180,21 +7173,21 @@
             ]
         },
         {
-          "short_description": "A tiling window manager for macOS based on binary space partitioning.",
-          "categories": [
-              "window-management"
-          ],
-          "repo_url": "https://github.com/koekeishiya/yabai",
-          "title": "Yabai",
-          "icon_url": "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/banner/banner.svg?sanitize=true",
-          "screenshots": [
-            "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/screenshot.png"
-          ],
-          "official_site": "",
-          "languages": [
-              "c",
-              "objective_c"
-          ]
+            "short_description": "A tiling window manager for macOS based on binary space partitioning.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/koekeishiya/yabai",
+            "title": "Yabai",
+            "icon_url": "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/banner/banner.svg?sanitize=true",
+            "screenshots": [
+                "https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "c",
+                "objective_c"
+            ]
         },
         {
             "short_description": "Teach your kids the alphabet and how to type.",
@@ -7318,14 +7311,14 @@
             "title" : "Clear Clipboard Text Format",
             "icon_url": "",
             "screenshots" : [
-              "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
+                "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
             ],
             "short_description" : "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
             "languages" : [
-              "objective_c"
+                "objective_c"
             ],
             "categories" : [
-              "utilities"
+                "utilities"
             ]
         },
         {
@@ -7469,20 +7462,20 @@
             ]
         },
         {
-          "repo_url" : "https://github.com/LumingYin/SpeedReader",
-          "official_site" : "https://apps.apple.com/app/speed-reader/id1258448209",
-          "title" : "Speed Reader",
-          "icon_url": "",
-          "screenshots" : [
-            "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif"
-          ],
-          "short_description" : "Read faster with the power of silencing vocalization with SpeedReader.",
-          "languages" : [
-            "swift"
-          ],
-          "categories" : [
-            "productivity"
-          ]
+            "repo_url" : "https://github.com/LumingYin/SpeedReader",
+            "official_site" : "https://apps.apple.com/app/speed-reader/id1258448209",
+            "title" : "Speed Reader",
+            "icon_url": "",
+            "screenshots" : [
+                "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif"
+            ],
+            "short_description" : "Read faster with the power of silencing vocalization with SpeedReader.",
+            "languages" : [
+                "swift"
+            ],
+            "categories" : [
+                "productivity"
+            ]
         },
         {
             "short_description": "Rectangle is a window manager heavily based on Spectacle, written in Swift.",
@@ -7532,7 +7525,7 @@
                 "c"
             ]
         },
-         {
+        {
             "short_description": "Create beautiful musical scores with LilyPond.",
             "categories": [
                 "music"
@@ -7564,8 +7557,8 @@
                 "swift",
                 "javascript"
             ]
-         },
-         {
+        },
+        {
             "short_description": "Automatically mute the sound when headphones disconnect / Mac awake from sleep.",
             "categories": [
                 "audio"
@@ -7596,7 +7589,7 @@
                 "c"
             ]
         },
-              {
+        {
             "short_description": "Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.",
             "categories": [
                 "audio"
@@ -7641,7 +7634,7 @@
         {
             "short_description": "Pomodoro Technique Timer for macOS with Touch Bar support.",
             "categories": [
-                 "productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/ivoronin/TomatoBar",
             "title": "TomatoBar",
@@ -7752,8 +7745,7 @@
             "repo_url": "https://github.com/varol/Calculeta",
             "title": "Calculeta",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7768,8 +7760,8 @@
             "title": "Strategr",
             "icon_url": "https://khrykin.github.io/StrategrDesktop/assets/resources/Strategr.png",
             "screenshots": [
-               "https://camo.githubusercontent.com/0aab0a8a9be68c3f98628a5c7dc2a09da176ea7a/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f6d61696e5f6f726967696e616c2e706e67",
-               "https://camo.githubusercontent.com/1e9cc6df1bafd86c7f619cca3d4b3c30f9917398/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f626c61636b5f6d61696e2e706e67"
+                "https://camo.githubusercontent.com/0aab0a8a9be68c3f98628a5c7dc2a09da176ea7a/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f6d61696e5f6f726967696e616c2e706e67",
+                "https://camo.githubusercontent.com/1e9cc6df1bafd86c7f619cca3d4b3c30f9917398/68747470733a2f2f6b6872796b696e2e6769746875622e696f2f73747261746567722f7265736f75726365732f6d61635f626c61636b5f6d61696e2e706e67"
             ],
             "official_site": "https://khrykin.github.io/StrategrDesktop/",
             "languages": [
@@ -7802,7 +7794,7 @@
             "title": "Sessions",
             "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Screens/Registrazione%20schermo%202019-11-26%20alle%2001.14.21.mov"
+                "https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Screens/Registrazione%20schermo%202019-11-26%20alle%2001.14.21.mov"
             ],
             "official_site": "",
             "languages": [
@@ -7819,7 +7811,7 @@
             "title": "Plash",
             "icon_url": "https://user-images.githubusercontent.com/170270/74323095-8d1c0880-4db7-11ea-9c07-3003fb9c3125.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/170270/74323375-0287d900-4db8-11ea-8b26-5566565fa8a1.jpg"
+                "https://user-images.githubusercontent.com/170270/74323375-0287d900-4db8-11ea-8b26-5566565fa8a1.jpg"
             ],
             "official_site": "https://sindresorhus.com/plash",
             "languages": [
@@ -7836,10 +7828,10 @@
             "title": "Pennywise",
             "icon_url": "",
             "screenshots": [
-               "https://camo.githubusercontent.com/275d176aeaab2b9cf09701a091c8fb7ecfe6256a/68747470733a2f2f692e696d6775722e636f6d2f753766415439392e706e67",
-               "https://camo.githubusercontent.com/71ba8a4a28624f1f102272685f72a80fe70a2c03/68747470733a2f2f692e696d6775722e636f6d2f43654c596f75782e706e673f31",
-               "https://camo.githubusercontent.com/601c0dc538bad004c231201e8fe86e16ed3729d0/68747470733a2f2f692e696d6775722e636f6d2f4262715a6d634b2e706e67",
-               "https://camo.githubusercontent.com/26049b84b4b5d62b95e841d225a493992c78e62f/68747470733a2f2f692e696d6775722e636f6d2f586137696e54592e706e67"
+                "https://camo.githubusercontent.com/275d176aeaab2b9cf09701a091c8fb7ecfe6256a/68747470733a2f2f692e696d6775722e636f6d2f753766415439392e706e67",
+                "https://camo.githubusercontent.com/71ba8a4a28624f1f102272685f72a80fe70a2c03/68747470733a2f2f692e696d6775722e636f6d2f43654c596f75782e706e673f31",
+                "https://camo.githubusercontent.com/601c0dc538bad004c231201e8fe86e16ed3729d0/68747470733a2f2f692e696d6775722e636f6d2f4262715a6d634b2e706e67",
+                "https://camo.githubusercontent.com/26049b84b4b5d62b95e841d225a493992c78e62f/68747470733a2f2f692e696d6775722e636f6d2f586137696e54592e706e67"
             ],
             "official_site": "",
             "languages": [
@@ -7855,7 +7847,7 @@
             "title": "Dnote",
             "icon_url": "https://raw.githubusercontent.com/dnote/dnote/master/assets/logo.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif"
+                "https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif"
             ],
             "official_site": "https://www.getdnote.com/",
             "languages": [
@@ -7874,7 +7866,7 @@
             "title": "Middleclick",
             "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
-               "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
             ],
             "official_site": "",
             "languages": [
@@ -7887,14 +7879,14 @@
             "title" : "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots" : [
-              "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/preview.gif"
+                "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/preview.gif"
             ],
             "short_description" : "Pomodoro Cycle for macOS",
             "languages" : [
-              "type_script"
+                "type_script"
             ],
             "categories" : [
-              "productivity"
+                "productivity"
             ]
         },
         {
@@ -8067,7 +8059,7 @@
             "title": "MeetingBar",
             "icon_url": "",
             "screenshots": [
-               "https://raw.githubusercontent.com/leits/MeetingBar/master/screenshot.png"
+                "https://raw.githubusercontent.com/leits/MeetingBar/master/screenshot.png"
             ],
             "official_site": "",
             "languages": [
@@ -8099,7 +8091,7 @@
             "title": "Scope",
             "icon_url": "https://raw.githubusercontent.com/billthefarmer/audiotools/master/Scope/swift/Scope.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/audiotools/Scope-swift.png"
+                "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/audiotools/Scope-swift.png"
             ],
             "official_site": "https://billthefarmer.github.io/audiotools/",
             "languages": [
@@ -8149,31 +8141,31 @@
             "title": "GitBlamePR",
             "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
             "screenshots": [
-               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
-               "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
+                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
+                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
             ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
-	      {
+        {
             "repo_url" : "https://github.com/wynioux/macOS-GateKeeper-Helper",
             "official_site" : "",
             "title" : "macOS GateKeeper Helper",
             "icon_url": "",
             "screenshots" : [
-              "https://raw.githubusercontent.com/wynioux/macOS-GateKeeper-Helper/master/screenshot.png"
+                "https://raw.githubusercontent.com/wynioux/macOS-GateKeeper-Helper/master/screenshot.png"
             ],
             "short_description" : "Simple macOS GateKeeper script. It helps you to control your GateKeeper.",
             "languages" : [
-              "shell"
+                "shell"
             ],
             "categories" : [
-              "system",
-	            "utilities",
-	            "security",
-	            "terminal"
+                "system",
+                "utilities",
+                "security",
+                "terminal"
             ]
         },
         {
@@ -8193,21 +8185,21 @@
                 "utilities"
             ]
         },
-      	{
+        {
             "repo_url" : "https://github.com/bhj/karaoke-forever",
             "official_site" : "https://www.karaoke-forever.com",
             "title" : "Karaoke Forever",
             "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
             "screenshots" : [
-              "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+                "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
             ],
             "short_description" : "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
             "languages" : [
-              "javascript"
+                "javascript"
             ],
             "categories" : [
-              "audio",
-              "music"
+                "audio",
+                "music"
             ]
         },
         {
@@ -8220,14 +8212,14 @@
             "title": "Itsycal",
             "icon_url": "",
             "screenshots": [
-               "https://www.mowglii.com/itsycal/itsycalbanner2@2x.png"
+                "https://www.mowglii.com/itsycal/itsycalbanner2@2x.png"
             ],
             "official_site": "https://www.mowglii.com/itsycal/",
             "languages": [
                 "objective_c"
             ]
-          },
-          {
+        },
+        {
             "short_description": "A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.",
             "categories": [
                 "extensions"
@@ -8236,14 +8228,14 @@
             "title": "Is It Private?",
             "icon_url": "https://raw.githubusercontent.com/ffittschen/IsItPrivate/master/Assets/AppIcon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/ffittschen/IsItPrivate/master/Assets/Screenshot.png"
+                "https://raw.githubusercontent.com/ffittschen/IsItPrivate/master/Assets/Screenshot.png"
             ],
             "official_site": "https://florian.codes/projects/is-it-private/",
             "languages": [
                 "swift"
             ]
-          },
-          {
+        },
+        {
             "short_description": "An ultra-light MacOS utility that helps hide menu bar icons",
             "categories": [
                 "menubar"
@@ -8252,7 +8244,7 @@
             "title": "Hidden Bar",
             "icon_url": "https://github.com/dwarvesf/hidden/blob/master/hidden/Assets.xcassets/AppIcon.appiconset/1024x1024.png?raw=true",
             "screenshots": [
-               "https://github.com/dwarvesf/hidden/blob/develop/img/tutorial.gif"
+                "https://github.com/dwarvesf/hidden/blob/develop/img/tutorial.gif"
             ],
             "official_site": "",
             "languages": [
@@ -8265,34 +8257,34 @@
             "title" : "Seashore",
             "icon_url": "",
             "screenshots" : [
-              "https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png"
+                "https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png"
             ],
             "short_description" : "Easy to use macOS image editing application for the rest of us.",
             "languages" : [
-              "objective_c"
+                "objective_c"
             ],
             "categories" : [
-              "images"
+                "images"
             ]
         },
-	      {
+        {
             "short_description": "ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.",
             "categories": [
                 "development",
-		            "graphics"
+                "graphics"
             ],
             "repo_url": "https://github.com/DigiDNA/ColorSet",
             "title": "ColorSet",
             "icon_url": "https://imazing.com/img/colorset/colorset-icon-256x256.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/DigiDNA/ColorSet/master/Assets/ColorSet.png"
+                "https://raw.githubusercontent.com/DigiDNA/ColorSet/master/Assets/ColorSet.png"
             ],
             "official_site": "https://imazing.com/colorset",
             "languages": [
                 "swift",
-		            "c_sharp",
-		            "objective_c"
-              ]
+                "c_sharp",
+                "objective_c"
+            ]
         },
         {
             "repo_url" : "https://github.com/RocketChat/Rocket.Chat.Electron",
@@ -8300,14 +8292,14 @@
             "title" : "RocketChat",
             "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
             "screenshots" : [
-              "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
+                "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
             ],
             "short_description" : "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
             "languages" : [
-              "javascript"
+                "javascript"
             ],
             "categories" : [
-              "chat"
+                "chat"
             ]
         },
         {
@@ -8325,9 +8317,9 @@
             "official_site": "",
             "languages": [
                 "swift"
-             ]
+            ]
         },
-	      {
+        {
             "short_description": "a powerful tool to increase download speeds up to 500%",
             "categories": [
                 "downloader"
@@ -8339,7 +8331,7 @@
             "official_site": "https://subhra74.github.io/xdm/",
             "languages": [
                 "java"
-             ]
+            ]
         },
         {     
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
@@ -8347,15 +8339,15 @@
             "title" : "Duplicate Finder",
             "icon_url": "",
             "screenshots" : [
-              "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
+                "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
             ],
             "short_description" : "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
             "languages" : [
-              "swift"
+                "swift"
             ],
             "categories" : [
-              "finder",
-              "utilities"
+                "finder",
+                "utilities"
             ]
         },
         {
@@ -8364,16 +8356,16 @@
             "title" : "DevUtils.app",
             "icon_url": "https://devutils.app/favicon.png",
             "screenshots" : [
-              "https://devutils.app/screenshot-dark.png"
+                "https://devutils.app/screenshot-dark.png"
             ],
             "short_description" : "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
             "languages" : [
-              "swift"
+                "swift"
             ],
             "categories" : [
-              "utilities",
-              "productivity"
-              ]
+                "utilities",
+                "productivity"
+            ]
         },
         {
             "short_description": "Cross-platform open source database management tool for Redis ®",
@@ -8389,27 +8381,27 @@
             "official_site": "",
             "languages": [
                 "cpp"
-             ],
+            ]
         },
-      	{
+        {
             "repo_url" : "https://github.com/MonitorControl/MonitorControl",
             "official_site" : "",
             "title" : "MonitorControl",
             "icon_url": "",
             "screenshots" : [
-              "https://github.com/MonitorControl/MonitorControl/tree/master/.github"
+                "https://github.com/MonitorControl/MonitorControl/tree/master/.github"
             ],
             "short_description" : "Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
             "languages" : [
-              "swift",
-	            "objective_c"
+                "swift",
+                "objective_c"
             ],
             "categories" : [
-              "audio",
-              "utilities"
+                "audio",
+                "utilities"
             ]
         },
-    	  {
+        {
             "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
             "categories": [
                 "browser"
@@ -8434,10 +8426,10 @@
             "short_description" : "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
             "languages" : [
                 "shell",
-                "applescript",
+                "applescript"
             ],
             "categories" : [
-              "git"
+                "git"
             ]
         },
         {     
@@ -8466,7 +8458,7 @@
             "short_description": "The easiest way to install and switch between multiple versions of Xcode.",
             "icon_url": "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/icon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/screenshot.png"
+                "https://raw.githubusercontent.com/RobotsAndPencils/XcodesApp/main/screenshot.png"
             ],
             "categories": [
                 "ios--macos"
@@ -8475,28 +8467,26 @@
                 "swift"
             ]
         },
-    	   {     
+        {     
             "repo_url" : "https://github.com/b3z/reventlou",
             "official_site" : "",
             "title" : "reventlou",
             "icon_url": "",
             "screenshots" : [
-	            "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
-	          ],
-            "short_description" : "Personal database as an information management system.",
-            "languages" : [
-              "type_script"
+                "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
             ],
+            "short_description" : "Personal database as an information management system.",
             "categories" : [
-	            "database",
-	            "productivity",
-	            "text"
-             ],
-           "languages": [
+                "database",
+                "productivity",
+                "text"
+            ],
+            "languages": [
+                "type_script",
                 "swift"
             ]
-         },
-         {
+        },
+        {
             "short_description" : "RSS & Atom feed reader that lives in the system status bar.",
             "categories" : [
                 "menubar",
@@ -8532,7 +8522,7 @@
                 "swift"
             ]
         },
-         {
+        {
             "repo_url" : "https://github.com/87kangsw/ThenGenerator",
             "official_site" : "",
             "title" : "ThenGenerator",
@@ -8550,7 +8540,7 @@
                 "utilities"
             ]
         },
-         {
+        {
             "short_description": "Note-taking app with many organizational options.",
             "categories": [
                 "markdown",
@@ -8560,7 +8550,7 @@
             "title": "Notenik",
             "icon_url": "https://notenik.net/images/notenik.png",
             "screenshots": [
-               "https://notenik.net/images/notenik-list-and-display.jpg"
+                "https://notenik.net/images/notenik-list-and-display.jpg"
             ],
             "official_site": "https://notenik.net",
             "languages": [
