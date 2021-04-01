@@ -8556,6 +8556,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Your daily journal for linking thoughts.",
+            "categories": [
+                "productivity",
+                "notes",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/muc-dev/linked",
+            "title": "linked",
+            "icon_url": "https://github.com/muc-dev/linked/blob/master/appIcon/icon.png?raw=true",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+            ],
+            "official_site": "https://muc.dev/projects/linked",
+            "languages": [
+                "javascript", "vue", "css",
+            ]
         }
     ]
 }
