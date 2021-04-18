@@ -8556,6 +8556,25 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+        {
+            "short_description": "Discover and listen to music from Hype Machine.",
+            "categories": [
+                "music",
+                "audio",
+                "player",
+                "streaming"
+            ],
+            "repo_url": "https://github.com/wulkano/Plug",
+            "title": "Plug",
+            "icon_url": "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Plug/Images.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg"
+            ],
+            "official_site": "https://plugformac.com",
+            "languages": [
+                "swift"
+            ]
+        },
     ]
 }
