@@ -8558,7 +8558,7 @@
             ]
         },
         {
-            "short_description": "A keystroke launcher for macOS like Spotlight or Alfred.",
+            "short_description": "A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.",
             "categories": [
                 "productivity"
             ],
