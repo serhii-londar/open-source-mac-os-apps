@@ -8556,6 +8556,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A keystroke launcher for like Spotlight or Alfred.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/oliverschwendener/ueli",
+            "title": "Ueli",
+            "icon_url": "https://github.com/oliverschwendener/ueli/raw/dev/img/icons/mac/ueliTemplate.png",
+            "screenshots": [
+                "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
+            ],
+            "official_site": "https://ueli.app/#/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
