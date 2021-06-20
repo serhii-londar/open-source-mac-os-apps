@@ -8556,6 +8556,23 @@
             "languages": [
                 "swift"
             ]
+        },
+    {
+            "short_description": "Real-time strategy game of ancient warfare",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://svn.wildfiregames.com/public/ps/trunk/",
+            "title": "0 A.D.",
+            "icon_url": "https://play0ad.com/wp-content/themes/nova/images/logo.png",
+            "screenshots": [
+               "https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg",
+               "https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png"
+            ],
+            "official_site": "https://play0ad.com",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
