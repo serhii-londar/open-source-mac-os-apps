@@ -8557,5 +8557,21 @@
                 "swift"
             ]
         }
+                {
+            "short_description": "Create tasks, manage due dates, and filter with powerful perspectives.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Shabang-Systems/Condution",
+            "title": "Condution",
+            "icon_url": "https://www.condution.com/static/media/logo.457b66ae.png",
+            "screenshots": [
+                "https://www.condution.com/static/media/demo.528a92c2.png"
+            ],
+            "official_site": "https://www.condution.com",
+            "languages": [
+                "JavaScript"
+            ]
+        }
     ]
 }
