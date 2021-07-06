@@ -1,0 +1,40 @@
+@import "../../../shared/css/colors.scss";
+
+$top-bottom-padding: 2px;
+$left-padding: 9px;
+$right-padding: 15px;
+
+$height: 28px;
+
+.container {
+  color: $white;
+  padding: $top-bottom-padding $right-padding $top-bottom-padding $left-padding;
+  height: $height;
+  line-height: calc(#{$height} - #{2 * $top-bottom-padding});
+  box-sizing: border-box;
+
+  border-top-left-radius: 17px;
+  border-bottom-left-radius: 17px;
+
+  display: inline-flex;
+  width: 100%;
+  text-decoration: none;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.active {
+  background-color: red;
+}
+
+.badge {
+  display: inline-block;
+  background-color: $charcoal;
+  min-width: 24px;
+  height: 24px;
+  padding: 0 4px;
+  line-height: 24px;
+  text-align: center;
+  border-radius: 12px;
+}

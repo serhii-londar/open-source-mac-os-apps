@@ -1,0 +1,21 @@
+@import "./shared/css/colors.scss";
+
+$sidebar-width: 300px;
+
+.container {
+  height: 100%;
+}
+
+.categories-list {
+  width: $sidebar-width;
+  background-color: $charcoal;
+  position: fixed;
+  height: 100%;
+}
+
+.content {
+  background-color: $white;
+  margin-left: $sidebar-width;
+  height: 100%;
+  width: auto;
+}

@@ -1,0 +1,31 @@
+.container {
+  display: grid;
+  grid-template-rows: 250px 1fr;
+  min-height: 100%;
+}
+
+.header {
+  background-color: blue;
+}
+
+.applications {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  overflow: hidden;
+  box-sizing: border-box;
+  align-content: start;
+
+  @media (max-width: 1600px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  @media (max-width: 1300px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.item {
+  padding: 5px;
+  position: relative;
+}
