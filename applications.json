@@ -8575,6 +8575,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.",
+            "categories": [
+                "extensions",
+                "browser",
+                "security"
+            ],
+            "repo_url": "https://github.com/smmr-software/privacy-redirect-safari",
+            "title": "Privacy Redirect for Safari",
+            "icon_url": "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/Privacy%20Redirect%20for%20Safari%20Extension/assets/images/full/icon1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/1.jpg",
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/2.jpg",
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/3.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
