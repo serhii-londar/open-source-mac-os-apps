@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
+            "categories": [
+                "utilities",
+                "productivity",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/ihsanturk/mcal",
+            "title": "mcal",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
