@@ -394,18 +394,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/macOSLucidaGrande",
-            "official_site" : "https://github.com/LumingYin/macOSLucidaGrande/releases",
-            "title" : "macOSLucidaGrande",
+            "repo_url": "https://github.com/LumingYin/macOSLucidaGrande",
+            "official_site": "https://github.com/LumingYin/macOSLucidaGrande/releases",
+            "title": "macOSLucidaGrande",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png"
             ],
-            "short_description" : "A small utility to set Lucida Grande as your Mac's system UI font.",
-            "languages" : [
+            "short_description": "A small utility to set Lucida Grande as your Mac's system UI font.",
+            "languages": [
                 "objective_c"
             ],
-            "categories" : [
+            "categories": [
                 "system"
             ]
         },
@@ -841,18 +841,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/StickyNotes",
-            "official_site" : "https://github.com/LumingYin/StickyNotes/releases",
-            "title" : "StickyNotes",
+            "repo_url": "https://github.com/LumingYin/StickyNotes",
+            "official_site": "https://github.com/LumingYin/StickyNotes/releases",
+            "title": "StickyNotes",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/LumingYin/StickyNotes/master/images/screenshot.jpg"
             ],
-            "short_description" : "A Windows 10-esque Sticky Notes app implemented in AppKit.",
-            "languages" : [
+            "short_description": "A Windows 10-esque Sticky Notes app implemented in AppKit.",
+            "languages": [
                 "swift"
             ],
-            "categories" : [
+            "categories": [
                 "productivity"
             ]
         },
@@ -3370,7 +3370,7 @@
             ],
             "repo_url": "https://github.com/szTheory/exifcleaner",
             "title": "ExifCleaner",
-                "icon_url": "https://exifcleaner.com/images/icon.png",
+            "icon_url": "https://exifcleaner.com/images/icon.png",
             "screenshots": [
                 "https://exifcleaner.com/images/screenshot.png",
                 "https://exifcleaner.com/images/batchprocessing.png",
@@ -4008,7 +4008,7 @@
             "languages": [
                 "swift"
             ]
-        },    
+        },
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
@@ -6787,7 +6787,7 @@
             ]
         },
         {
-            "short_description" : "The modern video player for macOS. ",
+            "short_description": "The modern video player for macOS. ",
             "categories": [
                 "player"
             ],
@@ -7306,18 +7306,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/ClipboardClear",
-            "official_site" : "https://apps.apple.com/app/clear-clipboard-text-format/id1322855232",
-            "title" : "Clear Clipboard Text Format",
+            "repo_url": "https://github.com/LumingYin/ClipboardClear",
+            "official_site": "https://apps.apple.com/app/clear-clipboard-text-format/id1322855232",
+            "title": "Clear Clipboard Text Format",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg"
             ],
-            "short_description" : "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
-            "languages" : [
+            "short_description": "Easily clear the format of your clipboard text with Clear Clipboard Text Format.",
+            "languages": [
                 "objective_c"
             ],
-            "categories" : [
+            "categories": [
                 "utilities"
             ]
         },
@@ -7355,14 +7355,14 @@
             ]
         },
         {
-            "short_description" : "List of useful Quick Look plugins for developers.",
+            "short_description": "List of useful Quick Look plugins for developers.",
             "categories": [
                 "finder"
             ],
-            "repo_url" : "https://github.com/sindresorhus/quick-look-plugins",
-            "title" : "Quick Look plugins",
+            "repo_url": "https://github.com/sindresorhus/quick-look-plugins",
+            "title": "Quick Look plugins",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png",
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png",
                 "https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png",
@@ -7462,18 +7462,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/LumingYin/SpeedReader",
-            "official_site" : "https://apps.apple.com/app/speed-reader/id1258448209",
-            "title" : "Speed Reader",
+            "repo_url": "https://github.com/LumingYin/SpeedReader",
+            "official_site": "https://apps.apple.com/app/speed-reader/id1258448209",
+            "title": "Speed Reader",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://github.com/LumingYin/SpeedReader/blob/master/speedreader_dark.gif"
             ],
-            "short_description" : "Read faster with the power of silencing vocalization with SpeedReader.",
-            "languages" : [
+            "short_description": "Read faster with the power of silencing vocalization with SpeedReader.",
+            "languages": [
                 "swift"
             ],
-            "categories" : [
+            "categories": [
                 "productivity"
             ]
         },
@@ -7604,16 +7604,16 @@
             ]
         },
         {
-            "short_description" : "Command-line tool to search files with SQL syntax.",
-            "categories" : [
+            "short_description": "Command-line tool to search files with SQL syntax.",
+            "categories": [
                 "utilities"
             ],
-            "repo_url" : "https://github.com/jhspetersson/fselect",
-            "title" : "fselect",
+            "repo_url": "https://github.com/jhspetersson/fselect",
+            "title": "fselect",
             "icon_url": "",
             "screenshots": [],
-            "official_site" : "",
-            "languages" : [
+            "official_site": "",
+            "languages": [
                 "rust"
             ]
         },
@@ -7874,18 +7874,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/jet8a/pomodoro-cycle-app",
-            "official_site" : "https://github.com/jet8a/pomodoro-cycle-app/releases",
-            "title" : "Pomodoro Cycle",
+            "repo_url": "https://github.com/jet8a/pomodoro-cycle-app",
+            "official_site": "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "title": "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/preview.gif"
             ],
-            "short_description" : "Pomodoro Cycle for macOS",
-            "languages" : [
+            "short_description": "Pomodoro Cycle for macOS",
+            "languages": [
                 "type_script"
             ],
-            "categories" : [
+            "categories": [
                 "productivity"
             ]
         },
@@ -8150,18 +8150,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/wynioux/macOS-GateKeeper-Helper",
-            "official_site" : "",
-            "title" : "macOS GateKeeper Helper",
+            "repo_url": "https://github.com/wynioux/macOS-GateKeeper-Helper",
+            "official_site": "",
+            "title": "macOS GateKeeper Helper",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/wynioux/macOS-GateKeeper-Helper/master/screenshot.png"
             ],
-            "short_description" : "Simple macOS GateKeeper script. It helps you to control your GateKeeper.",
-            "languages" : [
+            "short_description": "Simple macOS GateKeeper script. It helps you to control your GateKeeper.",
+            "languages": [
                 "shell"
             ],
-            "categories" : [
+            "categories": [
                 "system",
                 "utilities",
                 "security",
@@ -8186,18 +8186,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/bhj/karaoke-forever",
-            "official_site" : "https://www.karaoke-forever.com",
-            "title" : "Karaoke Forever",
+            "repo_url": "https://github.com/bhj/karaoke-forever",
+            "official_site": "https://www.karaoke-forever.com",
+            "title": "Karaoke Forever",
             "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
-            "screenshots" : [
+            "screenshots": [
                 "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
             ],
-            "short_description" : "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
-            "languages" : [
+            "short_description": "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
+            "languages": [
                 "javascript"
             ],
-            "categories" : [
+            "categories": [
                 "audio",
                 "music"
             ]
@@ -8252,18 +8252,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/robaho/seashore",
-            "official_site" : "",
-            "title" : "Seashore",
+            "repo_url": "https://github.com/robaho/seashore",
+            "official_site": "",
+            "title": "Seashore",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png"
             ],
-            "short_description" : "Easy to use macOS image editing application for the rest of us.",
-            "languages" : [
+            "short_description": "Easy to use macOS image editing application for the rest of us.",
+            "languages": [
                 "objective_c"
             ],
-            "categories" : [
+            "categories": [
                 "images"
             ]
         },
@@ -8287,18 +8287,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/RocketChat/Rocket.Chat.Electron",
+            "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
             "official_site": "https://rocket.chat/",
-            "title" : "RocketChat",
+            "title": "RocketChat",
             "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
-            "screenshots" : [
+            "screenshots": [
                 "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
             ],
-            "short_description" : "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
-            "languages" : [
+            "short_description": "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
+            "languages": [
                 "javascript"
             ],
-            "categories" : [
+            "categories": [
                 "chat"
             ]
         },
@@ -8333,36 +8333,36 @@
                 "java"
             ]
         },
-        {     
-            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
+        {
+            "repo_url": "https://github.com/powerwolf543/DuplicateFinder",
             "official_site": "",
-            "title" : "Duplicate Finder",
+            "title": "Duplicate Finder",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://user-images.githubusercontent.com/16394562/94992308-bc3bf000-05bb-11eb-95a9-907ec334c660.png"
             ],
-            "short_description" : "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
-            "languages" : [
+            "short_description": "It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.",
+            "languages": [
                 "swift"
             ],
-            "categories" : [
+            "categories": [
                 "finder",
                 "utilities"
             ]
         },
         {
-            "repo_url" : "https://github.com/DevUtilsApp/DevUtils-app",
-            "official_site" : "https://devutils.app",
-            "title" : "DevUtils.app",
+            "repo_url": "https://github.com/DevUtilsApp/DevUtils-app",
+            "official_site": "https://devutils.app",
+            "title": "DevUtils.app",
             "icon_url": "https://devutils.app/favicon.png",
-            "screenshots" : [
+            "screenshots": [
                 "https://devutils.app/screenshot-dark.png"
             ],
-            "short_description" : "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
-            "languages" : [
+            "short_description": "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
+            "languages": [
                 "swift"
             ],
-            "categories" : [
+            "categories": [
                 "utilities",
                 "productivity"
             ]
@@ -8384,19 +8384,19 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/MonitorControl/MonitorControl",
-            "official_site" : "",
-            "title" : "MonitorControl",
+            "repo_url": "https://github.com/MonitorControl/MonitorControl",
+            "official_site": "",
+            "title": "MonitorControl",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://github.com/MonitorControl/MonitorControl/tree/master/.github"
             ],
-            "short_description" : "Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
-            "languages" : [
+            "short_description": "Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
+            "languages": [
                 "swift",
                 "objective_c"
             ],
-            "categories" : [
+            "categories": [
                 "audio",
                 "utilities"
             ]
@@ -8417,34 +8417,34 @@
                 "c"
             ]
         },
-        {     
-            "repo_url" : "https://github.com/doekman/osagitfilter",
-            "official_site" : "",
-            "title" : "osagitfilter",
+        {
+            "repo_url": "https://github.com/doekman/osagitfilter",
+            "official_site": "",
+            "title": "osagitfilter",
             "icon_url": "",
-            "screenshots" : [],
-            "short_description" : "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
-            "languages" : [
+            "screenshots": [],
+            "short_description": "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
+            "languages": [
                 "shell",
                 "applescript"
             ],
-            "categories" : [
+            "categories": [
                 "git"
             ]
         },
-        {     
-            "repo_url" : "https://github.com/mpv-player/mpv",
-            "official_site" : "https://mpv.io",
-            "title" : "MPV",
+        {
+            "repo_url": "https://github.com/mpv-player/mpv",
+            "official_site": "https://mpv.io",
+            "title": "MPV",
             "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
-            "screenshots" : [
+            "screenshots": [
                 "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
             ],
-            "short_description" : "Lightweight, highly configurable media player.",
-            "languages" : [
+            "short_description": "Lightweight, highly configurable media player.",
+            "languages": [
                 "c"
             ],
-            "categories" : [
+            "categories": [
                 "audio",
                 "player",
                 "music",
@@ -8467,16 +8467,16 @@
                 "swift"
             ]
         },
-        {     
-            "repo_url" : "https://github.com/b3z/reventlou",
-            "official_site" : "",
-            "title" : "reventlou",
+        {
+            "repo_url": "https://github.com/b3z/reventlou",
+            "official_site": "",
+            "title": "reventlou",
             "icon_url": "",
-            "screenshots" : [
+            "screenshots": [
                 "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
             ],
-            "short_description" : "Personal database as an information management system.",
-            "categories" : [
+            "short_description": "Personal database as an information management system.",
+            "categories": [
                 "database",
                 "productivity",
                 "text"
@@ -8487,20 +8487,20 @@
             ]
         },
         {
-            "short_description" : "RSS & Atom feed reader that lives in the system status bar.",
-            "categories" : [
+            "short_description": "RSS & Atom feed reader that lives in the system status bar.",
+            "categories": [
                 "menubar",
                 "news",
                 "utilities"
             ],
-            "repo_url" : "https://github.com/relikd/barss",
-            "title" : "baRSS – Menu Bar RSS Reader",
+            "repo_url": "https://github.com/relikd/barss",
+            "title": "baRSS – Menu Bar RSS Reader",
             "icon_url": "https://raw.githubusercontent.com/relikd/baRSS/main/baRSS/Artwork/application-icon.svg",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/relikd/baRSS/main/screenshot.png"
             ],
-            "official_site" : "",
-            "languages" : [
+            "official_site": "",
+            "languages": [
                 "objective_c"
             ]
         },
@@ -8523,18 +8523,18 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/87kangsw/ThenGenerator",
-            "official_site" : "",
-            "title" : "ThenGenerator",
+            "repo_url": "https://github.com/87kangsw/ThenGenerator",
+            "official_site": "",
+            "title": "ThenGenerator",
             "icon_url": "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/icon_512x512.png",
-            "screenshots" : [
+            "screenshots": [
                 "https://raw.githubusercontent.com/87kangsw/ThenGenerator/main/.github/images/property.png"
             ],
-            "short_description" : "Xcode Source Editor Extension for 'Then'",
-            "languages" : [
+            "short_description": "Xcode Source Editor Extension for 'Then'",
+            "languages": [
                 "swift"
             ],
-            "categories" : [
+            "categories": [
                 "extensions",
                 "productivity",
                 "utilities"
@@ -8574,6 +8574,20 @@
             "official_site": "https://plugformac.com",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/soduto/Soduto",
+            "title": "Soduto",
+            "icon_url": "https://soduto.com/images/site-logo.png",
+            "official_site": "https://soduto.com/",
+            "languages": [
+                "swift",
+                "objective_c"
             ]
         }
     ]
