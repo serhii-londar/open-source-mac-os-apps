@@ -1,4 +1,4 @@
-@import "../../css/colors.scss";
+@import "../css/colors.scss";
 
 $height: 120px;
 $height-hover: 200px;
@@ -19,6 +19,33 @@ $height-hover: 200px;
         border-radius: 0;
         width: $height-hover;
         height: $height-hover;
+      }
+
+      .right {
+        grid-template-rows: 30px 1fr 60px;
+      }
+
+      .footer {
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: none;
+        height: 60px;
+        justify-content: flex-end;
+
+        .label {
+          display: inline-block;
+        }
+
+        .stars,
+        .forks,
+        .watchers {
+          padding: 0;
+          display: grid;
+          grid-template-columns: 1fr 70px
+        }
+
+        .forks {
+          padding: 3px 0;
+        }
       }
     }
   }
@@ -104,8 +131,20 @@ $height-hover: 200px;
   height: 100%;
   overflow: hidden;
   font-size: 12px;
+  position: relative;
+
   p {
     margin: 0;
+  }
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
   }
 }
 
@@ -118,7 +157,33 @@ $height-hover: 200px;
   overflow: hidden;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  font-size: 14px;
-  justify-items: center;
+  font-size: 13px;
   align-items: center;
+  padding: 0 5px;
+  box-sizing: border-box;
+
+  .icon {
+    width: 15px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 3px;
+  }
+
+  .label {
+    display: none;
+    text-align: end;
+    padding-right: 5px;
+  }
+
+  .stars,
+  .forks,
+  .watchers {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .forks {
+    padding: 0 3px;
+  }
 }

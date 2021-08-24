@@ -10,7 +10,7 @@ import Application from "../models/application";
 
 export type ApplicationsState = {
   loading: boolean;
-  error: any;
+  error: unknown;
   data: Application[];
 };
 
@@ -41,7 +41,7 @@ export const applications = (
     | FetchAllApplicationsAction
     | FetchAllApplicationsSucceedAction
     | FetchAllApplicationsFailedAction,
-) => {
+): ApplicationsState => {
   switch (action.type) {
     case ApplicationActions.FETCH_ALL:
       return FetchAllApplications(state);

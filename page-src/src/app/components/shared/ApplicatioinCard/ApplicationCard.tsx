@@ -1,17 +1,19 @@
+import React, { FC, useCallback, useState } from "react";
 import { faCodeBranch, faEye, faStar } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React, { FC, useCallback, useState } from "react";
 import Application from "../../../models/application";
 
 import styles from "./ApplicationCard.module.scss";
 
-const icon = require("../../../../assets/placeholdersvg.svg");
+import icon from "../../../../assets/placeholder_svg.svg";
 
-type ApplicationCard = {
+type ApplicationCardProps = {
   application: Application;
 };
 
-const ApplicationCard: FC<ApplicationCard> = ({ application }) => {
+// TODO: split component
+
+const ApplicationCard: FC<ApplicationCardProps> = ({ application }) => {
   const { title } = application;
 
   const [animationPosition, setAnimationPosition] = useState<string>("");
@@ -48,14 +50,32 @@ const ApplicationCard: FC<ApplicationCard> = ({ application }) => {
             <p>{application.description}</p>
           </div>
           <div className={styles.footer}>
-            <span>
-              <FontAwesomeIcon icon={faStar} /> {application.stars}
+            <span className={styles.stars}>
+              <span className={styles.label}>Stars</span>
+              <span className={styles.data}>
+                <span className={styles.icon}>
+                  <FontAwesomeIcon icon={faStar} color="#ffca28" />
+                </span>
+                {application.stars || "-"}
+              </span>
             </span>
-            <span>
-              <FontAwesomeIcon icon={faCodeBranch} /> {application.forks}
+            <span className={styles.forks}>
+              <span className={styles.label}>Forks</span>
+              <span className={styles.data}>
+                <span className={styles.icon}>
+                  <FontAwesomeIcon icon={faCodeBranch} color="#aaa" />
+                </span>
+                {application.forks || "-"}
+              </span>
             </span>
-            <span>
-              <FontAwesomeIcon icon={faEye} /> {application.watchers}
+            <span className={styles.watchers}>
+              <span className={styles.label}>Watchers</span>
+              <span className={styles.data}>
+                <span className={styles.icon}>
+                  <FontAwesomeIcon icon={faEye} color="#007eff" />
+                </span>
+                {application.watchers || "-"}
+              </span>
             </span>
           </div>
         </div>

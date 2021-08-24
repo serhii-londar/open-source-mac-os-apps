@@ -5,19 +5,19 @@ import {
   fetchAllApplicationsFailedAction,
   fetchAllApplicationsSucceedAction,
 } from "../../actions/application";
-import { RawApplication } from "../../models/application";
+import Application from "../../models/application";
 
 import { FetchAllApplications } from "../../services/Api";
 
 function* fetchAll() {
   try {
-    const applications: RawApplication[] = yield call(FetchAllApplications);
+    const applications: Application[] = yield call(FetchAllApplications);
     yield put(fetchAllApplicationsSucceedAction(applications));
   } catch (error) {
     yield put(fetchAllApplicationsFailedAction(error));
   }
 }
 
-export default function* applicationWatchers() {
+export default function* applicationWatchers(): Generator {
   yield takeLatest(ApplicationActions.FETCH_ALL, fetchAll);
 }

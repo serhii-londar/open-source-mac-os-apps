@@ -6,7 +6,7 @@ import {
   FetchAllCategoriesSucceedPayload,
   FetchAllCategoriesFailedAction,
 } from "../actions/category";
-import Category, { RawCategory } from "../models/category";
+import Category from "../models/category";
 
 export type CategoriesState = {
   loading: boolean;
@@ -26,7 +26,7 @@ const FetchAllCategoriesSucceed = (
   state: CategoriesState,
   payload: FetchAllCategoriesSucceedPayload,
 ) => {
-  const categories = payload.map((rawCategory: RawCategory) => new Category(rawCategory));
+  const categories = payload;
 
   return { ...state, data: categories, error: null, loading: false };
 };
@@ -47,7 +47,7 @@ export const categories = (
     | FetchAllCategoriesAction
     | FetchAllCategoriesSucceedAction
     | FetchAllCategoriesFailedAction,
-) => {
+): CategoriesState => {
   switch (action.type) {
     case CategoryActions.FETCH_ALL:
       return FetchAllCategories(state);

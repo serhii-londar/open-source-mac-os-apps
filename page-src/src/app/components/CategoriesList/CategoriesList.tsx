@@ -14,7 +14,7 @@ import styles from "./CategoriesList.module.scss";
 import { ApplicationsState } from "../../reducers/application";
 import Application from "../../models/application";
 
-const icon = require("../../../assets/app-icon.png");
+import icon from "../../../assets/app_icon.png";
 
 const CategoriesList: FC = () => {
   const categoriesState = useSelector<RootState, CategoriesState>((state) => state.categories);
@@ -22,13 +22,12 @@ const CategoriesList: FC = () => {
     (state) => state.applications,
   );
 
-  const appsInCategory = (category: Category): number => {
-    return applicationsState.data.reduce(
+  const appsInCategory = (category: Category): number =>
+    applicationsState.data.reduce(
       (acc: number, application: Application) =>
         acc + application.categories.filter((c: Category) => c.id === category.id).length,
       0,
     );
-  };
 
   return (
     <div className={styles.container}>
@@ -47,18 +46,16 @@ const CategoriesList: FC = () => {
         <li className={styles.item}>
           <CategoryItem badge={false} path="/" label="Home" className={styles.link} />
         </li>
-        {categoriesState.data.map((category: Category) => {
-          return (
-            <li className={styles.item} key={category.id}>
-              <CategoryItem
-                path={`/${category.shortName}`}
-                label={category.name}
-                className={styles.link}
-                items={applicationsState.loading ? "..." : appsInCategory(category)}
-              />
-            </li>
-          );
-        })}
+        {categoriesState.data.map((category: Category) => (
+          <li className={styles.item} key={category.id}>
+            <CategoryItem
+              path={`/${category.shortName}`}
+              label={category.name}
+              className={styles.link}
+              items={applicationsState.loading ? "..." : appsInCategory(category)}
+            />
+          </li>
+        ))}
       </ul>
     </div>
   );

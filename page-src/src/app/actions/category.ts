@@ -1,4 +1,4 @@
-import { RawCategory } from "../models/category";
+import Category from "../models/category";
 
 export enum CategoryActions {
   FETCH_ALL = "CATEGORY_FETCH_ALL",
@@ -21,7 +21,7 @@ export const fetchAllCategoriesAction = (): FetchAllCategoriesAction => ({
 
 // ---------------------------------
 
-export type FetchAllCategoriesSucceedPayload = RawCategory[];
+export type FetchAllCategoriesSucceedPayload = Category[];
 export type FetchAllCategoriesSucceedAction = CategoryAction<FetchAllCategoriesSucceedPayload>;
 
 export const fetchAllCategoriesSucceedAction = (

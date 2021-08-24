@@ -19,18 +19,16 @@ const CategoryItem: FC<CategoryItemProps> = ({
   items = 0,
   className = "",
   badge = true,
-}) => {
-  return (
-    <NavLink
-      activeClassName={styles.active}
-      to={PathBuilder.build(path)}
-      className={`${styles.container} ${className}`}
-      exact
-    >
-      <span>{label}</span>
-      {badge && <span className={styles.badge}>{items}</span>}
-    </NavLink>
-  );
-};
+}) => (
+  <NavLink
+    activeClassName={styles.active}
+    to={PathBuilder.build(path)}
+    className={`${styles.container} ${className}`}
+    exact
+  >
+    <span>{label}</span>
+    {badge && <span className={styles.badge}>{items}</span>}
+  </NavLink>
+);
 
 export default CategoryItem;

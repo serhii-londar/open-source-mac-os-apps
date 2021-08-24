@@ -1,4 +1,5 @@
 import React, { FC, useEffect } from "react";
+
 import { useDispatch } from "react-redux";
 import { Redirect, Route, BrowserRouter as Router, Switch } from "react-router-dom";
 import { fetchAllCategoriesAction } from "./actions/category";
@@ -8,7 +9,7 @@ import styles from "./App.module.scss";
 
 import Application from "./components/Application/Application";
 import CategoriesList from "./components/CategoriesList/CategoriesList";
-import Categoty from "./components/Category/Category";
+import Category from "./components/Category/Category";
 import Home from "./components/Home/Home";
 import PathBuilder from "./services/PathBuilder";
 
@@ -17,6 +18,15 @@ enum APP_ROUTES {
   CATEGORY = "/:category",
   APPLICATION = "/:category/:application",
 }
+
+/* TODO:
+- [ ]: setup husky
+- [ ]: setup stylelint
+- [ ]: use redux toolkit
+- [ ]: revisit the API service. use axios
+- [ ]: prepare config for PATH alias (craco)
+- [ ]: prepare some model for errors
+*/
 
 const App: FC = () => {
   const dispatch = useDispatch();
@@ -35,7 +45,7 @@ const App: FC = () => {
         <section className={styles.content}>
           <Switch>
             <Route exact path={PathBuilder.build(APP_ROUTES.HOME)} component={Home} />
-            <Route exact path={PathBuilder.build(APP_ROUTES.CATEGORY)} component={Categoty} />
+            <Route exact path={PathBuilder.build(APP_ROUTES.CATEGORY)} component={Category} />
             <Route exact path={PathBuilder.build(APP_ROUTES.APPLICATION)} component={Application} />
 
             <Route path="*">

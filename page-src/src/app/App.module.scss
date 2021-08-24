@@ -1,21 +1,21 @@
-@import "./shared/css/colors.scss";
+@import "./components/shared/css/colors.scss";
 
 $sidebar-width: 300px;
 
 .container {
   height: 100%;
+  display: flex;
 }
 
 .categories-list {
   width: $sidebar-width;
   background-color: $charcoal;
-  position: fixed;
-  height: 100%;
+  position: sticky;
+  top: 0;
+  height: 100vh;
 }
 
 .content {
   background-color: $white;
-  margin-left: $sidebar-width;
-  height: 100%;
-  width: auto;
+  flex: 1;
 }

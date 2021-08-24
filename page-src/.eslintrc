@@ -1,26 +1,36 @@
 {
-  "extends": ["react-app", "airbnb", "prettier", "prettier/react"],
+  "extends": [
+    "react-app",
+    "airbnb",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended"
+  ],
   "plugins": ["prettier"],
   "rules": {
-    "max-len": ["error", { "code": 100 }],
-    "prefer-promise-reject-errors": ["off"],
-    "react/jsx-filename-extension": ["off"],
-    "react/prop-types": ["off"],
-    "no-return-assign": ["off"],
+    "no-undef": "off",
+    "no-use-before-define": "off",
+
     "camelcase": "off",
+
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": ["error"],
+
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["warn"],
+
+    "@typescript-eslint/no-explicit-any": "off", // FIXME: remove this rule
+
+    "react/prop-types": [0],
+    "react/jsx-filename-extension": [1, { "extensions": ["ts", "tsx"] }],
 
     "import/extensions": [
       "error",
       "ignorePackages",
       {
-        "js": "never",
-        "jsx": "never",
         "ts": "never",
         "tsx": "never"
       }
-    ],
-
-    "prettier/prettier": "error"
+    ]
   },
   "settings": {
     "import/resolver": {

@@ -3,5 +3,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll.stylelint": true
-  }
+  },
+  "cSpell.words": ["browserslist", "camelcase", "craco", "middlewares", "predeploy"]
 }

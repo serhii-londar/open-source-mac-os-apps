@@ -1,4 +1,4 @@
-import { RawApplication } from "../models/application";
+import Application from "../models/application";
 
 export enum ApplicationActions {
   FETCH_ALL = "APPLICATIONS_FETCH_ALL",
@@ -21,10 +21,9 @@ export const fetchAllApplicationsAction = (): FetchAllApplicationsAction => ({
 
 // ---------------------------------
 
-export type FetchAllApplicationsSucceedPayload = RawApplication[];
-export type FetchAllApplicationsSucceedAction = ApplicationAction<
-  FetchAllApplicationsSucceedPayload
->;
+export type FetchAllApplicationsSucceedPayload = Application[];
+export type FetchAllApplicationsSucceedAction =
+  ApplicationAction<FetchAllApplicationsSucceedPayload>;
 
 export const fetchAllApplicationsSucceedAction = (
   payload: FetchAllApplicationsSucceedPayload,
