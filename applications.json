@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "short_description": "Simple and Secure Offsite Backups",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/borgbase",
+            "title": "BorgBase/Vorta",
+            "icon_url": "URL to application icon",
+            "screenshots": [],
+            "official_site": "https://www.borgbase.com/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
@@ -4008,7 +4022,7 @@
             "languages": [
                 "swift"
             ]
-        },    
+        },
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
@@ -8333,7 +8347,7 @@
                 "java"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
             "official_site": "",
             "title" : "Duplicate Finder",
@@ -8417,7 +8431,7 @@
                 "c"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/doekman/osagitfilter",
             "official_site" : "",
             "title" : "osagitfilter",
@@ -8432,7 +8446,7 @@
                 "git"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/mpv-player/mpv",
             "official_site" : "https://mpv.io",
             "title" : "MPV",
@@ -8467,7 +8481,7 @@
                 "swift"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/b3z/reventlou",
             "official_site" : "",
             "title" : "reventlou",
