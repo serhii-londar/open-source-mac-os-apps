@@ -7660,20 +7660,6 @@
             ]
         },
         {
-            "short_description": "A handy calculator with natural language parsing.",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/nikolaeu/Numi",
-            "title": "Numi",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://numi.app",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
             "categories": [
                 "utilities"
