@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Windows alt-tab on macOS.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
@@ -4008,7 +4026,7 @@
             "languages": [
                 "swift"
             ]
-        },    
+        },
         {
             "short_description": "A minimal and beautiful lyrics app that stays in the menu bar of macOS. ",
             "categories": [
@@ -8333,7 +8351,7 @@
                 "java"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
             "official_site": "",
             "title" : "Duplicate Finder",
@@ -8417,7 +8435,7 @@
                 "c"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/doekman/osagitfilter",
             "official_site" : "",
             "title" : "osagitfilter",
@@ -8432,7 +8450,7 @@
                 "git"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/mpv-player/mpv",
             "official_site" : "https://mpv.io",
             "title" : "MPV",
@@ -8467,7 +8485,7 @@
                 "swift"
             ]
         },
-        {     
+        {
             "repo_url" : "https://github.com/b3z/reventlou",
             "official_site" : "",
             "title" : "reventlou",
