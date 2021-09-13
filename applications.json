@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "short_description": "A fast and efficient minimal web browser.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/minbrowser/min",
+            "title": "Min Browser",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
