@@ -8575,6 +8575,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A Beautiful Open Source RSS & Podcast App Powered by Getstream.io",
+            "categories": [
+                "news",
+                "podcast"
+            ],
+            "repo_url": "https://github.com/GetStream/Winds",
+            "title": "Winds",
+            "icon_url": "https://raw.githubusercontent.com/GetStream/Winds/23c0e6d44cf57d65960094c5b238820e502b16b1/app/public/favicons/favicon-256x256.png",
+            "screenshots": [
+                "https://camo.githubusercontent.com/a632526f284f114b74e16c393ce5ccac4ddefa48e168d7f81f5b3fa0be6abe5e/68747470733a2f2f692e696d6775722e636f6d2f573166706f77562e706e67",
+                "https://camo.githubusercontent.com/6041b4f4b94786f08926fb72b1a99c4f72031d104c3100bf1a360ff9dc90276d/68747470733a2f2f692e696d6775722e636f6d2f416c56674454672e706e67",
+                "https://camo.githubusercontent.com/2c483da82086b0b3b34ca830bef20c369bc2dad69cf821160139c6bc16cf62fb/68747470733a2f2f692e696d6775722e636f6d2f7a6157744e66562e706e67",
+                "https://camo.githubusercontent.com/22169746bd679f718abc946763175a2d7d9ee37dcab67289748a7cfb6f8aaae1/68747470733a2f2f692e696d6775722e636f6d2f746832343772412e706e67",
+                "https://camo.githubusercontent.com/cda2850aa41cf19f52977012b205864b713b8acd71e2de27fbce37bb37e36ecc/68747470733a2f2f692e696d6775722e636f6d2f443377743757332e706e67"
+            ],
+            "official_site": "https://getstream.io/winds/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
