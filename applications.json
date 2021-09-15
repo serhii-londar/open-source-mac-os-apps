@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
+            "categories": [
+                "utilities",
+                "productivity",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/ihsanturk/mcal",
+            "title": "mcal",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
@@ -762,6 +778,23 @@
                 "javascript"
             ]
         },
+        {
+            "short_description": "Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://hg.mozilla.org/mozilla-central/",
+            "title": "Firefox",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "https://www.mozilla.org/firefox/browsers/",
+            "languages": [
+                "javascript",
+                "rust",
+                "cpp"
+            ]
+        }, 
         {
             "short_description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
             "categories": [
@@ -7190,6 +7223,25 @@
             ]
         },
         {
+            "short_description": "AltTab brings the power of Windows alt-tab to macOS.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "https://raw.githubusercontent.com/lwouis/alt-tab-macos/44ac1e1012c677572397c1ab12955b9c54b6a175/resources/icons/app/app.svg",
+            "screenshots": [
+                "https://alt-tab-macos.netlify.app/public/demo/1-row.jpg",
+                "https://alt-tab-macos.netlify.app/public/demo/2-rows.jpg",
+                "https://alt-tab-macos.netlify.app/public/demo/windows-theme.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift",
+                "shell"
+            ]
+        },
+        {
             "short_description": "Teach your kids the alphabet and how to type.",
             "categories": [
                 "other"
@@ -7657,20 +7709,6 @@
             "official_site": "",
             "languages": [
                 "swift"
-            ]
-        },
-        {
-            "short_description": "A handy calculator with natural language parsing.",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/nikolaeu/Numi",
-            "title": "Numi",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://numi.app",
-            "languages": [
-                "javascript"
             ]
         },
         {
@@ -8558,6 +8596,110 @@
             ]
         },
         {
+            "short_description": "Spotify widget for Notification Center.",
+            "categories": [
+                "audio",
+            ],
+            "repo_url": "https://github.com/fabiusBile/Spotify4BigSur",
+            "title": "Spotify4BigSur",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/fabiusBile/Spotify4BigSur/blob/master/medium_light.png?raw=true"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+             ]
+        },
+        {
+            "short_description": "Real-time strategy game of ancient warfare",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://svn.wildfiregames.com/public/ps/trunk/",
+            "title": "0 A.D.",
+            "icon_url": "https://play0ad.com/wp-content/themes/nova/images/logo.png",
+            "screenshots": [
+               "https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg",
+               "https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png"
+            ],
+            "official_site": "https://play0ad.com",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
+            "short_description": "A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/oliverschwendener/ueli",
+            "title": "Ueli",
+            "icon_url": "https://github.com/oliverschwendener/ueli/raw/dev/img/icons/mac/ueliTemplate.png",
+            "screenshots": [
+                "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
+            ],
+            "official_site": "https://ueli.app/",
+            "languages": [
+                "typescript"]
+        },
+        {
+            "short_description": "Discover and listen to music from Hype Machine.",
+            "categories": [
+                "music",
+                "audio",
+                "player",
+                "streaming"
+            ],
+            "repo_url": "https://github.com/wulkano/Plug",
+            "title": "Plug",
+            "icon_url": "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Plug/Images.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg"
+            ],
+            "official_site": "https://plugformac.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "A MenuBar app to automatically audit your Mac for basic security hygiene.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/paretoSecurity/pareto-mac/",
+            "title": "Pareto Security",
+            "icon_url": "https://github.com/ParetoSecurity/pareto-mac/blob/main/assets/icon.png?raw=true",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
+            ],
+            "official_site": "https://paretosecurity.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.",
+            "categories": [
+                "extensions",
+                "browser",
+                "security"
+            ],
+            "repo_url": "https://github.com/smmr-software/privacy-redirect-safari",
+            "title": "Privacy Redirect for Safari",
+            "icon_url": "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/Privacy%20Redirect%20for%20Safari%20Extension/assets/images/full/icon1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/1.jpg",
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/2.jpg",
+                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/3.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+            ]
+        },
+	      {
             "short_description": "Discover and listen to music from Hype Machine.",
             "categories": [
                 "music",
@@ -8590,6 +8732,54 @@
             "official_site": "https://codingfriends.github.io/Tincta/",
             "languages": [
                 "objective_c"
+            ]
+       },
+       {
+            "short_description": "Redis management with SwiftUI.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/cmushroom/redis-pro",
+            "title": "redis-pro",
+            "icon_url": "https://github.com/cmushroom/redis-pro/blob/main/redis-pro/Assets.xcassets/AppIcon.appiconset/redis%40256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/2920167/125376778-4f614c00-e3be-11eb-8c11-7195e4cdb665.png"
+            ],
+            "official_site": "https://github.com/cmushroom/redis-pro",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Unix epoch timestamp flip clock screensaver.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver",
+            "title": "Epoch Flip Clock Screensaver",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chrstphrknwtn/epoch-flip-clock/master/epochFlipClock.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
+            "short_description": "Create tasks, manage due dates, and filter with powerful perspectives.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Shabang-Systems/Condution",
+            "title": "Condution",
+            "icon_url": "https://www.condution.com/static/media/logo.457b66ae.png",
+            "screenshots": [
+                "https://www.condution.com/static/media/demo.528a92c2.png"
+            ],
+            "official_site": "https://www.condution.com",
+            "languages": [
+                "javascript"
             ]
         }
     ]
