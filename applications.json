@@ -8580,6 +8580,22 @@
             ]
         },
         {
+            "short_description": "Spotify widget for Notification Center.",
+            "categories": [
+                "audio",
+            ],
+            "repo_url": "https://github.com/fabiusBile/Spotify4BigSur",
+            "title": "Spotify4BigSur",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/fabiusBile/Spotify4BigSur/blob/master/medium_light.png?raw=true"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+             ]
+        },
+        {
             "short_description": "Real-time strategy game of ancient warfare",
             "categories": [
                 "games"
