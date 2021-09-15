@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Windows alt-tab on macOS.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
             "categories": [
                 "utilities",
@@ -8372,6 +8390,7 @@
             ]
         },
         {
+            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
             "repo_url": "https://github.com/powerwolf543/DuplicateFinder",
             "official_site": "",
             "title": "Duplicate Finder",
@@ -8456,9 +8475,9 @@
             ]
         },
         {
-            "repo_url": "https://github.com/doekman/osagitfilter",
-            "official_site": "",
-            "title": "osagitfilter",
+            "repo_url" : "https://github.com/doekman/osagitfilter",
+            "official_site" : "",
+            "title" : "osagitfilter",
             "icon_url": "",
             "screenshots": [],
             "short_description": "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
@@ -8471,9 +8490,9 @@
             ]
         },
         {
-            "repo_url": "https://github.com/mpv-player/mpv",
-            "official_site": "https://mpv.io",
-            "title": "MPV",
+            "repo_url" : "https://github.com/mpv-player/mpv",
+            "official_site" : "https://mpv.io",
+            "title" : "MPV",
             "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
             "screenshots": [
                 "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
@@ -8506,9 +8525,9 @@
             ]
         },
         {
-            "repo_url": "https://github.com/b3z/reventlou",
-            "official_site": "",
-            "title": "reventlou",
+            "repo_url" : "https://github.com/b3z/reventlou",
+            "official_site" : "",
+            "title" : "reventlou",
             "icon_url": "",
             "screenshots": [
                 "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
