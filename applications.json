@@ -2393,23 +2393,6 @@
             ]
         },
         {
-            "short_description": "Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/andypotts/mockup-generator",
-            "title": "Mockup Generator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png",
-                "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Npm desktop GUI. ",
             "categories": [
                 "web-development"
