@@ -1,5 +1,24 @@
 {
     "applications": [
+           {
+            "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
+            "categories": [
+                "development",
+                "ios--macos",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mohakapt/Stringz",
+            "title": "Stringz",
+            "icon_url": "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/app_icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
+               "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
