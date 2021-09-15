@@ -8359,6 +8359,23 @@
             ]
         },
         {
+            "short_description": "SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/beekeeper-studio/beekeeper-studio",
+            "title": "Beekeeper Studio",
+            "icon_url": "https://raw.githubusercontent.com/beekeeper-studio/beekeeper-studio/master/apps/studio/public/icons/png/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/beekeeper-studio/beekeeper-studio/master/apps/studio/screenshots/beekeeper-studio-demo.gif",
+                "https://raw.githubusercontent.com/beekeeper-studio/beekeeper-studio/master/apps/studio/screenshots/main.png"
+            ],
+            "official_site": "https://www.beekeeperstudio.io",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Plaintextify your clipboard",
             "categories": [
                 "utilities"
