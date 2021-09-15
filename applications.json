@@ -8865,6 +8865,22 @@
             "languages": [
                 "javascript"
             ]
-        }
+        },
+		{
+			"short_description": "The chess app that comes with macOS.",
+			"categories": [
+				"games"
+			],
+			"repo_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/",
+			"title": "Chess",
+			"icon_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/MBChess/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
+			"screenshots": [
+			   "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
+			],
+			"official_site": "https://apple.com",
+			"languages": [
+				"objective-c"
+			]
+		}
     ]
 }
