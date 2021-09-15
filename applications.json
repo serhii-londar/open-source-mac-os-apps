@@ -7190,6 +7190,25 @@
             ]
         },
         {
+            "short_description": "AltTab brings the power of Windows alt-tab to macOS.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "https://raw.githubusercontent.com/lwouis/alt-tab-macos/44ac1e1012c677572397c1ab12955b9c54b6a175/resources/icons/app/app.svg",
+            "screenshots": [
+                "https://alt-tab-macos.netlify.app/public/demo/1-row.jpg",
+                "https://alt-tab-macos.netlify.app/public/demo/2-rows.jpg",
+                "https://alt-tab-macos.netlify.app/public/demo/windows-theme.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift",
+                "shell"
+            ]
+        },
+        {
             "short_description": "Teach your kids the alphabet and how to type.",
             "categories": [
                 "other"
