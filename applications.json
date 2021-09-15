@@ -8719,6 +8719,23 @@
             ]
         },
         {
+            "short_description": "macOS status monitoring app written in SwiftUI.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/gao-sun/eul",
+            "title": "eul",
+            "icon_url": "https://raw.githubusercontent.com/gao-sun/eul/master/Resource/Assets.xcassets/eul.imageset/eul%403x.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg",
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+        },
+        {
             "short_description": "One-window text editor with syntax highlighting.",
             "categories": [
                 "text"
