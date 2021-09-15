@@ -8580,6 +8580,21 @@
             ]
         },
         {
+            "short_description": "A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/oliverschwendener/ueli",
+            "title": "Ueli",
+            "icon_url": "https://github.com/oliverschwendener/ueli/raw/dev/img/icons/mac/ueliTemplate.png",
+            "screenshots": [
+                "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
+            ],
+            "official_site": "https://ueli.app/",
+            "languages": [
+                "typescript"]
+        },
+        {
             "short_description": "Discover and listen to music from Hype Machine.",
             "categories": [
                 "music",
@@ -8627,7 +8642,7 @@
             ],
             "official_site": "https://www.condution.com",
             "languages": [
-                "JavaScript"
+                "javascript"
             ]
         }
     ]
