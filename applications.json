@@ -8663,6 +8663,23 @@
             ]
         },
         {
+            "short_description": "A MenuBar app to automatically audit your Mac for basic security hygiene.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/paretoSecurity/pareto-mac/",
+            "title": "Pareto Security",
+            "icon_url": "https://github.com/ParetoSecurity/pareto-mac/blob/main/assets/icon.png?raw=true",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
+            ],
+            "official_site": "https://paretosecurity.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.",
             "categories": [
                 "extensions",
