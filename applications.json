@@ -8645,6 +8645,22 @@
             "languages": [
                 "swift"
             ]
+       },
+       {
+            "short_description": "Redis management with SwiftUI.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/cmushroom/redis-pro",
+            "title": "redis-pro",
+            "icon_url": "https://github.com/cmushroom/redis-pro/blob/main/redis-pro/Assets.xcassets/AppIcon.appiconset/redis%40256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/2920167/125376778-4f614c00-e3be-11eb-8c11-7195e4cdb665.png"
+            ],
+            "official_site": "https://github.com/cmushroom/redis-pro",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "Unix epoch timestamp flip clock screensaver.",
