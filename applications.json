@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
+            "categories": [
+                "utilities",
+                "productivity",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/ihsanturk/mcal",
+            "title": "mcal",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
@@ -8630,6 +8646,23 @@
             ]
         },
         {
+            "short_description": "A MenuBar app to automatically audit your Mac for basic security hygiene.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/paretoSecurity/pareto-mac/",
+            "title": "Pareto Security",
+            "icon_url": "https://github.com/ParetoSecurity/pareto-mac/blob/main/assets/icon.png?raw=true",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
+            ],
+            "official_site": "https://paretosecurity.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.",
             "categories": [
                 "extensions",
@@ -8666,6 +8699,39 @@
             "official_site": "https://plugformac.com",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "macOS status monitoring app written in SwiftUI.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/gao-sun/eul",
+            "title": "eul",
+            "icon_url": "https://raw.githubusercontent.com/gao-sun/eul/master/Resource/Assets.xcassets/eul.imageset/eul%403x.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg",
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+        },
+        {
+            "short_description": "One-window text editor with syntax highlighting.",
+            "categories": [
+                "text"
+            ],
+            "repo_url": "https://github.com/CodingFriends/Tincta",
+            "title": "Tincta",
+            "icon_url": "https://raw.githubusercontent.com/CodingFriends/Tincta/master/Source/app_icon.iconset/icon_512x512.png",
+            "screenshots": [
+                "https://ik.imagekit.io/codingFriends/img/tr:w-2880,q-90,pr-true/tincta/Screenshot.png"
+            ],
+            "official_site": "https://codingfriends.github.io/Tincta/",
+            "languages": [
+                "objective_c"
             ]
        },
        {
