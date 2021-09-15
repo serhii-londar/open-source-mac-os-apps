@@ -8597,6 +8597,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Unix epoch timestamp flip clock screensaver.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver",
+            "title": "Epoch Flip Clock Screensaver",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chrstphrknwtn/epoch-flip-clock/master/epochFlipClock.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
