@@ -763,6 +763,23 @@
             ]
         },
         {
+            "short_description": "Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://hg.mozilla.org/mozilla-central/",
+            "title": "Firefox",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "https://www.mozilla.org/firefox/browsers/",
+            "languages": [
+                "javascript",
+                "rust",
+                "cpp"
+            ]
+        }, 
+        {
             "short_description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
             "categories": [
                 "browser"
