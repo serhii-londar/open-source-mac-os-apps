@@ -8778,6 +8778,7 @@
             "repo_url": "https://github.com/soduto/Soduto",
             "title": "Soduto",
             "icon_url": "https://soduto.com/images/site-logo.png",
+            "screenshots": [],
             "official_site": "https://soduto.com/",
             "languages": [
                 "swift",
