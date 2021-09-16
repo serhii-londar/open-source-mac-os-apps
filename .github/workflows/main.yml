@@ -2,25 +2,24 @@ name: GitHub Actions Demo
 on: [push]
 jobs:
   setup:
-    - name: Setup
+    name: Setup
     runs-on: macos-latest
     steps:
-      - run: gem install awesome_bot
-      - run: gem install bundler
-      - run: gem install danger
+      run: gem install awesome_bot
+      run: gem install bundler
+      run: gem install danger
   awesome-bot:
-    - name: awesome-bot
+    name: awesome-bot
     needs: setup
     runs-on: macos-latest
-    - uses: actions/checkout@v2
-    - run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
-    - run: danger
+    uses: actions/checkout@v2
+    run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
+    run: danger
   generate-readme:
-    - name: generate-readme
+    name: generate-readme
     needs: awesome-bot
     runs-on: macos-latest
-    - uses: actions/checkout@v2
+    uses: actions/checkout@v2
     run: swift ./.github/main.swift
     run: chmod +x ./.github/deploy.sh
     run: ./.github/deploy.sh
-    
