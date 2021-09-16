@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Generate Readme
 on: 
   push:
     branches:    
