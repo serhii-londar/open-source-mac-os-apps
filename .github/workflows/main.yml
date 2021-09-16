@@ -2,7 +2,7 @@ name: Generate Readme
 on: 
   push:
     branches:    
-      - main
+      - master
 jobs:
   generate-readme:
     runs-on: macos-latest
