@@ -7,18 +7,14 @@ jobs:
       - run: gem install awesome_bot
       - run: gem install bundler
       - run: gem install danger
-  awesome-bot:
+      - uses: actions/checkout@v2
+      - run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
+      - run: danger
+  generate-readme:
     needs: setup
     runs-on: macos-latest
     steps:
-    - uses: actions/checkout@v2
-    - run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
-    - run: danger
-  generate-readme:
-    needs: awesome-bot
-    runs-on: macos-latest
-    steps:
-    - uses: actions/checkout@v2
-    - run: swift ./.github/main.swift
-    - run: chmod +x ./.github/deploy.sh
-    - run: ./.github/deploy.sh
+      - uses: actions/checkout@v2
+      - run: swift ./.github/main.swift
+      - run: chmod +x ./.github/deploy.sh
+      - run: ./.github/deploy.sh
