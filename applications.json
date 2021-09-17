@@ -11,8 +11,8 @@
             "title": "Stringz",
             "icon_url": "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/app_icon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
-               "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
             ],
             "official_site": "",
             "languages": [
@@ -848,15 +848,14 @@
             "repo_url": "https://hg.mozilla.org/mozilla-central/",
             "title": "Firefox",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "https://www.mozilla.org/en-US/firefox/browsers/",
             "languages": [
                 "javascript",
                 "rust",
                 "cpp"
             ]
-        }, 
+        },
         {
             "short_description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
             "categories": [
@@ -8534,9 +8533,9 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/doekman/osagitfilter",
-            "official_site" : "",
-            "title" : "osagitfilter",
+            "repo_url": "https://github.com/doekman/osagitfilter",
+            "official_site": "",
+            "title": "osagitfilter",
             "icon_url": "",
             "screenshots": [],
             "short_description": "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
@@ -8549,9 +8548,9 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/mpv-player/mpv",
-            "official_site" : "https://mpv.io",
-            "title" : "MPV",
+            "repo_url": "https://github.com/mpv-player/mpv",
+            "official_site": "https://mpv.io",
+            "title": "MPV",
             "icon_url": "https://mpv.io/images/mpv-logo-128-0baae5aa.png",
             "screenshots": [
                 "https://mpv.io/images/mpv-screenshot-34cd36ae.jpg"
@@ -8584,9 +8583,9 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/b3z/reventlou",
-            "official_site" : "",
-            "title" : "reventlou",
+            "repo_url": "https://github.com/b3z/reventlou",
+            "official_site": "",
+            "title": "reventlou",
             "icon_url": "",
             "screenshots": [
                 "https://github.com/b3z/reventlou/blob/master/assets/screenshot.png"
@@ -8687,7 +8686,7 @@
             "official_site": "",
             "languages": [
                 "swift"
-             ]
+            ]
         },
         {
             "short_description": "Real-time strategy game of ancient warfare",
@@ -8698,8 +8697,8 @@
             "title": "0 A.D.",
             "icon_url": "https://play0ad.com/wp-content/themes/nova/images/logo.png",
             "screenshots": [
-               "https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg",
-               "https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png"
+                "https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg",
+                "https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png"
             ],
             "official_site": "https://play0ad.com",
             "languages": [
@@ -8719,7 +8718,8 @@
             ],
             "official_site": "https://ueli.app/",
             "languages": [
-                "typescript"]
+                "typescript"
+            ]
         },
         {
             "short_description": "Discover and listen to music from Hype Machine.",
@@ -8750,7 +8750,7 @@
             "title": "Pareto Security",
             "icon_url": "https://github.com/ParetoSecurity/pareto-mac/blob/main/assets/icon.png?raw=true",
             "screenshots": [
-               "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
+                "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
             ],
             "official_site": "https://paretosecurity.app/",
             "languages": [
@@ -8846,8 +8846,8 @@
             "languages": [
                 "objective_c"
             ]
-       },
-       {
+        },
+        {
             "short_description": "Redis management with SwiftUI.",
             "categories": [
                 "database"
@@ -8912,7 +8912,7 @@
                 "javascript"
             ]
         },
-      {
+        {
             "short_description": "Inspect the system pasteboards.",
             "categories": [
                 "development"
@@ -8928,20 +8928,21 @@
                 "swift"
             ]
         },
-		{
-			"short_description": "The chess app that comes with macOS.",
-			"categories": [
-				"games"
-			],
-			"repo_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/",
-			"title": "Chess",
-			"icon_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/MBChess/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
-			"screenshots": [
-			   "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
-			],
-			"official_site": "https://apple.com",
-			"languages": [
-				"objective-c"
-			]
-		}
+        {
+            "short_description": "The chess app that comes with macOS.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/",
+            "title": "Chess",
+            "icon_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/MBChess/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
+            ],
+            "official_site": "https://apple.com",
+            "languages": [
+                "objective-c"
+            ]
+        }
+    ]
 }
