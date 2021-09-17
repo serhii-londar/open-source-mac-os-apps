@@ -8866,6 +8866,23 @@
             "languages": [
                 "javascript"
             ]
+        },
+        {
+            "short_description": "The swiss army knife of lossless video/audio editing without re-encoding.",
+            "categories": [
+                "audio",
+                "video"
+            ],
+            "repo_url": "https://github.com/mifi/lossless-cut",
+            "title": "LosslessCut",
+            "icon_url": "https://raw.githubusercontent.com/mifi/lossless-cut/master/src/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mifi/lossless-cut/master/main_screenshot.jpg"
+            ],
+            "official_site": "https://mifi.no/losslesscut/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
