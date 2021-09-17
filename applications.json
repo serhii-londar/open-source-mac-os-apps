@@ -1,6 +1,6 @@
 {
     "applications": [
-           {
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
@@ -32,8 +32,8 @@
             "languages": [
                 "javascript"
             ]
-      },
-      {
+        },
+        {
             "short_description": "Simple and Secure Offsite Backups",
             "categories": [
                 "backup"
@@ -8774,7 +8774,7 @@
             ],
             "official_site": "",
             "languages": [
-                "swift",
+                "swift"
             ]
         },
         {
@@ -8793,7 +8793,10 @@
                 "https://camo.githubusercontent.com/22169746bd679f718abc946763175a2d7d9ee37dcab67289748a7cfb6f8aaae1/68747470733a2f2f692e696d6775722e636f6d2f746832343772412e706e67",
                 "https://camo.githubusercontent.com/cda2850aa41cf19f52977012b205864b713b8acd71e2de27fbce37bb37e36ecc/68747470733a2f2f692e696d6775722e636f6d2f443377743757332e706e67"
             ],
-            "official_site": "https://getstream.io/winds/"
+            "official_site": "https://getstream.io/winds/",
+            "languages": [
+                "javascript"
+            ]
         },
         {
             "short_description": "Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.",
