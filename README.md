@@ -200,6 +200,7 @@ You can see in which language an app is written. Currently there are following l
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease. ![swift_icon] ![c_sharp_icon] ![objective_c_icon] 
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ![swift_icon] 
+- [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
 
 #### Git
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
@@ -284,6 +285,7 @@ You can see in which language an app is written. Currently there are following l
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
+- [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.  ![swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.  ![swift_icon] 
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format.  ![swift_icon] 
@@ -362,6 +364,7 @@ You can see in which language an app is written. Currently there are following l
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare ![cpp_icon] 
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.  ![cpp_icon] 
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![cpp_icon] ![objective_c_icon] 
+- [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS. ![objective-c_icon] 
 - [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games.  ![cpp_icon] 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.  ![objective_c_icon] 
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2.  ![cpp_icon] 
@@ -485,6 +488,7 @@ You can see in which language an app is written. Currently there are following l
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.  ![swift_icon] 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.  ![swift_icon] 
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS.  ![objective_c_icon] 
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ![javascript_icon] 
 - [baRSS – Menu Bar RSS Reader](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective_c_icon] 
 - [hacker-menu](https://github.com/owenthereal/hacker-menu) - Hacker News Delivered to Desktop.  ![javascript_icon] 
 
@@ -540,6 +544,7 @@ You can see in which language an app is written. Currently there are following l
 - [Doughnut](https://github.com/dyerc/Doughnut) - Podcast player and library for mac ![swift_icon] 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon] 
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ![javascript_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
 
 ### Productivity
@@ -743,6 +748,7 @@ You can see in which language an app is written. Currently there are following l
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.  ![objective_c_icon] 
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. ![type_script_icon] ![swift_icon] 
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift_icon] 
+- [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for macOS. ![objective_c_icon] ![swift_icon] 
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.  ![javascript_icon] 
