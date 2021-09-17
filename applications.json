@@ -8866,6 +8866,22 @@
             "languages": [
                 "javascript"
             ]
+        },
+        {
+            "short_description": "Inspect the system pasteboards.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/sindresorhus/Pasteboard-Viewer",
+            "title": "Pasteboard Viewer",
+            "icon_url": "https://github.com/sindresorhus/Pasteboard-Viewer/raw/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/AppIcon.png",
+            "screenshots": [
+                "https://github.com/sindresorhus/Pasteboard-Viewer/raw/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/screenshot1.jpg"
+            ],
+            "official_site": "https://sindresorhus.com/pasteboard-viewer",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
