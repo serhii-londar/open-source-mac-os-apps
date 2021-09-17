@@ -8673,6 +8673,27 @@
             ]
         },
         {
+            "short_description": "🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. ",
+            "categories": [
+                "productivity",
+                "notes",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/lostdesign/linked",
+            "title": "linked",
+            "icon_url": "https://github.com/lostdesign/linked/blob/master/appIcon/icon.png",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+            ],
+            "official_site": "https://uselinked.com",
+            "languages": [
+                "javascript", 
+                "vue",
+                "css"
+            ]
+        },
+        {
             "short_description": "Spotify widget for Notification Center.",
             "categories": [
                 "audio",
