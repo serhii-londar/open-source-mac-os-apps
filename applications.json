@@ -1,6 +1,38 @@
 {
     "applications": [
         {
+            "short_description": "Simple and Secure Offsite Backups",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/borgbase",
+            "title": "BorgBase/Vorta",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.borgbase.com/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "short_description": "Windows alt-tab on macOS.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
             "categories": [
                 "utilities",
