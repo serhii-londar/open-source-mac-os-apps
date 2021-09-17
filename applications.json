@@ -39,7 +39,7 @@
                 "productivity",
                 "terminal"
             ],
-            "repo_url": "https://github.com/ihsanturk/mcal",
+            "repo_url": "https://github.com/0ihsan/mcalau",
             "title": "mcal",
             "icon_url": "",
             "screenshots": [],
@@ -288,8 +288,7 @@
             "title": "Aural Player",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Screenshots/Default.png",
-                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ChangingColorScheme.gif",
+                "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/mainDemo.gif",
                 "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/playerView.gif",
                 "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/ABLoop.gif",
                 "https://raw.githubusercontent.com/maculateConception/aural-player/master/Documentation/Demos/UsingFXUnit.gif",
@@ -415,7 +414,7 @@
             "title": "LocalRadio",
             "icon_url": "",
             "screenshots": [
-                "https://cdn.rawgit.com/dsward2/LocalRadio/d3eb87c/Documents/LocalRadio-animation.svg"
+                "https://cdn.jsdelivr.net/gh/dsward2/LocalRadio@d3eb87c/Documents/LocalRadio-animation.svg"
             ],
             "official_site": "",
             "languages": [
@@ -769,9 +768,7 @@
             "repo_url": "https://github.com/JadenGeller/Helium",
             "title": "Helium",
             "icon_url": "",
-            "screenshots": [
-                "https://heliumfloats.com/screenshot.png"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -797,8 +794,8 @@
             "categories": [
                 "browser"
             ],
-            "repo_url": "https://github.com/fathomecat/fathomecat",
-            "title": "Fathomecat",
+            "repo_url": "https://github.com/kaktus/kaktus",
+            "title": "Kaktus",
             "icon_url": "",
             "screenshots": [
                 "https://cldup.com/qsYAu0F-ja.png",
@@ -820,7 +817,7 @@
             "icon_url": "",
             "screenshots": [
             ],
-            "official_site": "https://www.mozilla.org/firefox/browsers/",
+            "official_site": "https://www.mozilla.org/en-US/firefox/browsers/",
             "languages": [
                 "javascript",
                 "rust",
@@ -2454,23 +2451,6 @@
             "official_site": "",
             "languages": [
                 "swift"
-            ]
-        },
-        {
-            "short_description": "Mockup Generator is a macOS app built with AngularJS/Electron that sits in your menu bar allowing you to capture screenshots of your favourite websites and wrap them in device mock-ups. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/andypotts/mockup-generator",
-            "title": "Mockup Generator",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot2.png",
-                "https://raw.githubusercontent.com/andypotts/mockup-generator/master/screenshot1.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
             ]
         },
         {
@@ -4431,7 +4411,7 @@
             "title": "Standard Notes",
             "icon_url": "",
             "screenshots": [
-                "https://standardnotes.org/assets/homepage-hero.png"
+                "https://standardnotes.com/assets/homepage-hero.png"
             ],
             "official_site": "",
             "languages": [
@@ -7489,7 +7469,7 @@
             "screenshots": [
                 "https://camo.githubusercontent.com/51a17fe9599c84dddda6aa5540e8cdbebedfce83/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f707265766965772f706f636b5f776964676574732e706e67"
             ],
-            "official_site": "https://pock.dev/",
+            "official_site": "https://pock.app/",
             "languages": [
                 "swift"
             ]
@@ -8437,7 +8417,6 @@
             ]
         },
         {
-            "repo_url" : "https://github.com/powerwolf543/DuplicateFinder",
             "repo_url": "https://github.com/powerwolf543/DuplicateFinder",
             "official_site": "",
             "title": "Duplicate Finder",
@@ -8701,7 +8680,7 @@
             ],
             "repo_url": "https://github.com/oliverschwendener/ueli",
             "title": "Ueli",
-            "icon_url": "https://github.com/oliverschwendener/ueli/raw/dev/img/icons/mac/ueliTemplate.png",
+            "icon_url": "https://raw.githubusercontent.com/oliverschwendener/ueli/dev/img/icons/mac/ueliTemplate.png",
             "screenshots": [
                 "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
             ],
@@ -8719,11 +8698,11 @@
             ],
             "repo_url": "https://github.com/wulkano/Plug",
             "title": "Plug",
-            "icon_url": "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Plug/Images.xcassets/AppIcon.appiconset/256.png",
+            "icon_url": "https://raw.githubusercontent.com/wulkano/Plug/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Plug/Images.xcassets/AppIcon.appiconset/256.png",
             "screenshots": [
-                "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg"
+                "https://raw.githubusercontent.com/wulkano/Plug/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg"
             ],
-            "official_site": "https://plugformac.com",
+            "official_site": "https://www.plugformac.com/",
             "languages": [
                 "swift"
             ]
@@ -8763,25 +8742,6 @@
             "official_site": "",
             "languages": [
                 "swift",
-            ]
-        },
-	      {
-            "short_description": "Discover and listen to music from Hype Machine.",
-            "categories": [
-                "music",
-                "audio",
-                "player",
-                "streaming"
-            ],
-            "repo_url": "https://github.com/wulkano/Plug",
-            "title": "Plug",
-            "icon_url": "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Plug/Images.xcassets/AppIcon.appiconset/256.png",
-            "screenshots": [
-                "https://github.com/wulkano/Plug/raw/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg"
-            ],
-            "official_site": "https://plugformac.com",
-            "languages": [
-                "swift"
             ]
         },
         {
@@ -8844,7 +8804,7 @@
             "screenshots": [
                 "https://user-images.githubusercontent.com/2920167/125376778-4f614c00-e3be-11eb-8c11-7195e4cdb665.png"
             ],
-            "official_site": "https://github.com/cmushroom/redis-pro",
+            "official_site": "",
             "languages": [
                 "swift"
             ]
