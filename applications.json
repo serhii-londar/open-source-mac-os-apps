@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "short_description": "A fast and efficient minimal web browser.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/minbrowser/min",
+            "title": "Min Browser",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://minbrowser.org",
+            "languages": [
+                "javascript"
+            ]
+      },
+      {
             "short_description": "Simple and Secure Offsite Backups",
             "categories": [
                 "backup"
