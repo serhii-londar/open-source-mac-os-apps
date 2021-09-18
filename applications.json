@@ -8964,6 +8964,22 @@
             "languages": [
                 "objective-c"
             ]
+        },
+        {
+            "short_description": "Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/ApolloZhu/Dynamic-Dark-Mode",
+            "title": "Dynamic Dark Mode",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/10842684/54065701-b240e800-41f2-11e9-8f7a-5d502ab27c4e.png"
+            ],
+            "official_site": "https://apollozhu.github.io/Dynamic-Dark-Mode/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
