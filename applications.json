@@ -48,40 +48,6 @@
             ]
         },
         {
-            "short_description": "Windows alt-tab on macOS.",
-            "categories": [
-                "window-management",
-                "menubar",
-                "productivity"
-            ],
-            "repo_url": "https://github.com/lwouis/alt-tab-macos",
-            "title": "AltTab",
-            "icon_url": "",
-            "screenshots": [
-                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
-            ],
-            "official_site": "https://alt-tab-macos.netlify.app/",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "short_description": "CLI app that controls macOS built-in calendar app from terminal.",
-            "categories": [
-                "utilities",
-                "productivity",
-                "terminal"
-            ],
-            "repo_url": "https://github.com/0ihsan/mcalau",
-            "title": "mcal",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
@@ -4442,9 +4408,7 @@
             "repo_url": "https://github.com/standardnotes/web",
             "title": "Standard Notes",
             "icon_url": "",
-            "screenshots": [
-                "https://standardnotes.com/assets/homepage-hero.png"
-            ],
+            "screenshots": [    ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -8663,11 +8627,11 @@
             ],
             "repo_url": "https://github.com/hbowie/notenik-swift",
             "title": "Notenik",
-            "icon_url": "https://notenik.net/images/notenik.png",
+            "icon_url": "https://notenik.app/images/notenik.png",
             "screenshots": [
-                "https://notenik.net/images/notenik-list-and-display.jpg"
+                "https://notenik.app/images/notenik-list-and-display.jpg"
             ],
-            "official_site": "https://notenik.net",
+            "official_site": "https://notenik.app",
             "languages": [
                 "swift"
             ]
@@ -8940,9 +8904,9 @@
             ],
             "repo_url": "https://github.com/sindresorhus/Pasteboard-Viewer",
             "title": "Pasteboard Viewer",
-            "icon_url": "https://github.com/sindresorhus/Pasteboard-Viewer/raw/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/AppIcon.png",
+            "icon_url": "https://raw.githubusercontent.com/sindresorhus/Pasteboard-Viewer/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/AppIcon.png",
             "screenshots": [
-                "https://github.com/sindresorhus/Pasteboard-Viewer/raw/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/screenshot1.jpg"
+                "https://raw.githubusercontent.com/sindresorhus/Pasteboard-Viewer/3ab9545e24050a0ca60ab102e9c303345af8da10/Stuff/screenshot1.jpg"
             ],
             "official_site": "https://sindresorhus.com/pasteboard-viewer",
             "languages": [
@@ -8960,9 +8924,25 @@
             "screenshots": [
                 "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
             ],
-            "official_site": "https://apple.com",
+            "official_site": "https://www.apple.com/",
             "languages": [
                 "objective-c"
+            ]
+        },
+        {
+            "short_description": "Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/ApolloZhu/Dynamic-Dark-Mode",
+            "title": "Dynamic Dark Mode",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/10842684/54065701-b240e800-41f2-11e9-8f7a-5d502ab27c4e.png"
+            ],
+            "official_site": "https://apollozhu.github.io/Dynamic-Dark-Mode/",
+            "languages": [
+                "swift"
             ]
         }
     ]
