@@ -369,6 +369,7 @@ You can see in which language an app is written. Currently there are following l
 - [Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac. ![cpp_icon] ![objective_c_icon] 
 - [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS. ![objective-c_icon] 
 - [Dolphin](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games.  ![cpp_icon] 
+- [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond. ![swift_icon] 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.  ![objective_c_icon] 
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Re-implementation of RollerCoaster Tycoon 2.  ![cpp_icon] 
 - [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.  ![objective_c_icon] 
@@ -436,7 +437,6 @@ You can see in which language an app is written. Currently there are following l
 
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
-- [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS. ![swift_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.  ![objective_c_icon] 
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
@@ -552,7 +552,6 @@ You can see in which language an app is written. Currently there are following l
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
 
 ### Productivity
-- [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS. ![swift_icon] 
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app. ![javascript_icon] ![css_icon] 
 - [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar. ![swift_icon] 
 - [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app.  ![javascript_icon] 
@@ -600,7 +599,6 @@ You can see in which language an app is written. Currently there are following l
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust_icon] 
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.  ![javascript_icon] ![vue_icon] ![css_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.  ![swift_icon] 
-- [mcal](https://github.com/0ihsan/mcalau) - CLI app that controls macOS built-in calendar app from terminal. ![swift_icon] 
 - [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
@@ -690,7 +688,6 @@ You can see in which language an app is written. Currently there are following l
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon] 
-- [mcal](https://github.com/0ihsan/mcalau) - CLI app that controls macOS built-in calendar app from terminal. ![swift_icon] 
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.  ![swift_icon] 
 
 ### Touch Bar
@@ -768,7 +765,6 @@ You can see in which language an app is written. Currently there are following l
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon] 
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon] 
-- [mcal](https://github.com/0ihsan/mcalau) - CLI app that controls macOS built-in calendar app from terminal. ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
 
@@ -815,7 +811,6 @@ You can see in which language an app is written. Currently there are following l
 - [pyDailyChanger](https://github.com/IngoMeyer441/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily.  ![python_icon] 
 
 ### Window Management
-- [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS. ![swift_icon] 
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ![swift_icon] ![shell_icon] 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS.  ![swift_icon] 
 - [AppGrid](https://github.com/mjolnirapp/AppGrid) - Grid-based keyboard window manager for macOS.  ![objective_c_icon] 
