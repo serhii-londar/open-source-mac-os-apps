@@ -392,7 +392,7 @@ You can see in which language an app is written. Currently there are following l
 ### IDE
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
-- [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
+- [OpenXTalk](https://github.com/OpenXTalk-org) - Cross-platform development IDE originating from a Unix clone of Apple's long defunct HyperCard. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor ![C_icon] ![Vim script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![type_script_icon] 
