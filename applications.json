@@ -8930,6 +8930,22 @@
             ]
         },
         {
+            "short_description": "The most advanced ad blocking extension for Safari",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/adguardteam/adguardforsafari",
+            "title": "AdGuard for Safari",
+            "icon_url": "https://camo.githubusercontent.com/b615bb7db1b9bc94567aec6e80a120c6f0bff13d64cc48e962ddf785cc7b18fd/68747470733a2f2f63646e2e616467756172642e636f6d2f7075626c69632f416467756172642f436f6d6d6f6e2f616467756172645f7361666172692e737667",
+            "screenshots": [
+                "https://camo.githubusercontent.com/30d586bf934b280622aeac16949d86bb67184250b2b7902b9ea7fcf53e35ca39/68747470733a2f2f63646e2e616467756172642e636f6d2f7075626c69632f416467756172642f436f6d6d6f6e2f7361666172695f66696c746572732e706e673f"
+            ],
+            "official_site": "https://adguard.com/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.",
             "categories": [
                 "games"
