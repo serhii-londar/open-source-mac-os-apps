@@ -8944,6 +8944,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/iterate-ch/cyberduck",
+            "title": "Cyberduck",
+            "icon_url": "https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png",
+            "screenshots": [
+                "https://cdn.cyberduck.io/img/mac/browser-bookmarks.png",
+                "https://cdn.cyberduck.io/img/mac/browser.png"
+            ],
+            "official_site": "https://cyberduck.io",
+            "languages": [
+                "java"
+            ]
         }
     ]
 }
