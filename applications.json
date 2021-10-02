@@ -3548,6 +3548,20 @@
             ]
         },
         {
+            "short_description": "Krita, a natural painting toolbox, perfect for everyone from artists to cartoonists, and beyond.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://invent.kde.org/graphics/krita",
+            "title": "Krita",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://krita.org/",
+            "languages": [
+                "c"
+            ]
+        },
+        {
             "short_description": "macOS app for finding and lost forgotten photos on your disks. ",
             "categories": [
                 "images"
