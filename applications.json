@@ -3816,6 +3816,22 @@
             ]
         },
         {
+          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+          "categories": [
+              "menubar"
+          ],
+          "repo_url": "https://github.com/halo/LinkLiar",
+          "title": "LinkLiar",
+          "icon_url": "",
+          "screenshots": [
+             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+          ],
+          "official_site": "https://halo.github.io/LinkLiar",
+          "languages": [
+              "swift"
+          ]
+        },
+        {
             "short_description": "macOS menubar status indicator. ",
             "categories": [
                 "menubar"
@@ -8652,7 +8668,7 @@
             ],
             "official_site": "https://uselinked.com",
             "languages": [
-                "javascript", 
+                "javascript",
                 "vue",
                 "css"
             ]
