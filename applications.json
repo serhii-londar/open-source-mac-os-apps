@@ -5169,6 +5169,25 @@
             ]
         },
         {
+            "short_description": "Log work hours and get notified when it's time to leave the office and start to live.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/thamara/time-to-leave",
+            "title": "Time to Leave",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/3754225/94519528-4e549900-0248-11eb-8872-b6fb2d47f43c.jpg",
+                "https://user-images.githubusercontent.com/3754225/94762058-4e79a380-03c4-11eb-8f28-1c480dbf8b5c.png"
+            ],
+            "official_site": "https://timetoleave.app/",
+            "languages": [
+                "javascript",
+                "css",
+                "html"
+            ]
+        },
+        {
             "short_description": "Toggl Desktop app for Windows, Mac and Linux. ",
             "categories": [
                 "productivity"
