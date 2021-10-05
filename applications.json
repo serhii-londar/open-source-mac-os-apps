@@ -3816,6 +3816,24 @@
             ]
         },
         {
+            "short_description": "The missing macOS bluetooth headset battery indicator app.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jariz/Akku",
+            "title": "Akku",
+            "icon_url": "https://camo.githubusercontent.com/653ba2421bda421e22443d9e2d9a6b314c0ad0367e71305e6b2ae40efc3f9b51/68747470733a2f2f6a6172692e6c6f6c2f725237364a3559736e552e706e67",
+            "screenshots": [
+                "https://camo.githubusercontent.com/0f9f9231ff083edead13ad239d7a73566e7b1933c3f176e11ce04e7e624bb24a/68747470733a2f2f6a6172692e6c6f6c2f384f516d4c6e794b72752e706e67"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python",
+                "ruby"
+            ]
+        },
+        {
             "short_description": "macOS menubar status indicator. ",
             "categories": [
                 "menubar"
