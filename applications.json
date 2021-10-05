@@ -8948,8 +8948,7 @@
         {
             "short_description": "Jamulus enables musicians to perform real-time jam sessions over the internet.",
             "categories": [
-                "audio",
-                "music"
+                "audio"
             ],
             "repo_url": "https://github.com/jamulussoftware/jamulus",
             "title": "Jamulus - Internet Jam Session Software",
