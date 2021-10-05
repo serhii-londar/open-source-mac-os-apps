@@ -8944,6 +8944,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Jamulus enables musicians to perform real-time jam sessions over the internet.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/jamulussoftware/jamulus",
+            "title": "Jamulus - Internet Jam Session Software",
+            "icon_url": "https://jamulus.io/assets/img/jamulus-icon-2020.svg",
+            "screenshots": [
+               "https://jamulus.io/assets/img/en-screenshots/main-screen-medium.png"
+            ],
+            "official_site": "https://jamulus.io",
+            "languages": [
+                "c"
+            ]
         }
     ]
 }
