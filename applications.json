@@ -1,6 +1,32 @@
 {
     "applications": [
         {
+            "short_description": "An open source and easy to use tool for the creation of macOS usb installers.",
+            "categories": [
+                "system",
+                "utilities",
+                "other"
+            ],
+            "repo_url": "https://github.com/ITzTravelInTime/TINU",
+            "title": "TINU",
+            "icon_url": "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Assets.xcassets/AppIcon.appiconset/custom%20%E2%80%93%201-1024.png",
+            "screenshots": [
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/1.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/2.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/3.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/4.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/5.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/6.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/7.png",
+                "https://github.com/ITzTravelInTime/TINU/blob/development/TINU/Screenshots/8.png"
+            ],
+            "official_site": "https://github.com/ITzTravelInTime/TINU",
+            "languages": [
+                "English",
+                "Italian"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
