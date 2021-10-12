@@ -8944,6 +8944,23 @@
             "languages": [
                 "swift"
             ]
+        }, 
+        {
+            "short_description": "FreeCAD is an open-source 3D parametric modeler",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/FreeCAD/FreeCAD",
+            "title": "FreeCAD",
+            "icon_url": "",
+            "screenshots": [
+               "https://www.freecadweb.org/images/feature-03.jpg"
+            ],
+            "official_site": "https://www.freecadweb.org/",
+            "languages": [
+                "c++",
+                "python"
+            ]
         }
     ]
 }
