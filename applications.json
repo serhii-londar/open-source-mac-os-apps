@@ -8944,6 +8944,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "IntelliJ IDEA is an integrated development environment written in Java for developing computer software",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/JetBrains/intellij-community",
+            "title": "IntelliJ IDEA Community Edition",
+            "icon_url": "",
+            "screenshots": [
+               "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
+            ],
+            "official_site": "https://www.jetbrains.com/idea/",
+            "languages": [
+                "java"
+            ]
         }
     ]
 }
