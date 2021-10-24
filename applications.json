@@ -2836,6 +2836,32 @@
             ]
         },
         {
+            "short_description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.",
+            "categories": [
+                "text"
+            ],
+            "repo_url": "https://github.com/zyedidia/micro",
+            "title": "micro",
+            "icon_url": "https://raw.githubusercontent.com/zyedidia/micro/master/assets/micro-logo.svg",
+            "screenshots": [
+                "https://micro-editor.github.io/screenshots/micro-monokai.png",
+                "https://micro-editor.github.io/screenshots/micro-one-dark.png",
+                "https://micro-editor.github.io/screenshots/micro-darcula.png",
+                "https://micro-editor.github.io/screenshots/micro-twilight.png",
+                "https://micro-editor.github.io/screenshots/micro-railscast.png",
+                "https://micro-editor.github.io/screenshots/micro-solarized.png",
+                "https://micro-editor.github.io/screenshots/micro-atom-dark.png",
+                "https://micro-editor.github.io/screenshots/micro-gruvbox.png",
+                "https://micro-editor.github.io/screenshots/micro-material.png",
+                "https://micro-editor.github.io/screenshots/micro-gotham.png",
+                "https://micro-editor.github.io/screenshots/micro-zenburn.png"
+            ],
+            "official_site": "https://micro-editor.github.io",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "Plain text editor for macOS with customizable themes. ",
             "categories": [
                 "text"
