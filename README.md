@@ -397,6 +397,11 @@ You can see in which language an app is written. Currently there are following l
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor ![C_icon] ![Vim script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.  ![lua_icon] 
+- [Spyder] (https://github.com/spyder-ide/spyder) - Spyder is a Python development environment with tons of features
+- [CodeLite] (https://github.com/eranif/codelite) - CodeLite is a powerful open-source, cross platform IDE for the C/C++ programming languages.
+- [Codiad] (https://github.com/Codiad/Codiad) - Codiad is a web-based IDE framework with a small footprint and minimal requirements. Codiad was built with simplicity in mind, allowing for fast, interactive development without the massive overhead of some of the larger desktop editors.
+- [Gambas] (https://github.com/landv/gambas) - Gambas is designed to build graphical applications programs using the Qt toolkit or the GTK+ toolkit.
+- [MonoDevelop] (https://github.com/mono/monodevelop) - MonoDevelop is a free GNOME IDE primarily designed for C# and other .NET languages.
 
 ### Images
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.  ![swift_icon] 
