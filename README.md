@@ -36,6 +36,7 @@ You can see in which language an app is written. Currently there are following l
 - ![python_icon] - Python language.
 - ![ruby_icon] - Ruby language.
 - ![rust_icon] - Rust language.
+- ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![type_script_icon] - TypeScript language.
 
