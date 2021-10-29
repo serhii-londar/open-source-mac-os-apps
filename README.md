@@ -847,5 +847,6 @@ Thanks to all the people who contribute:
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
+[shell_icon]: ./icons/shell-16.png 'Shell language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
