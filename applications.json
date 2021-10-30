@@ -1,6 +1,87 @@
 {
     "applications": [
         {
+            "short_description": "MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and macOS. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and macOS maintaining a single code base for all platforms.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/mono/monodevelop",
+            "title": "MonoDevelop",
+            "icon_url": "https://www.monodevelop.com/images/md-logo.svg",
+            "screenshots": [],
+            "official_site": "https://www.monodevelop.com/",
+            "languages": [
+                "C#",
+                "F#",
+                "Visual Basic .NET",
+                "Vala"
+            ]
+        },
+        {
+            "short_description": "Gambas is the name of an object-oriented dialect of the BASIC programming language, as well as the integrated development environment that accompanies it. Designed to run on Linux and other Unix-like computer operating systems, its name is a recursive acronym for Gambas Almost Means Basic.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/landv/gambas",
+            "title": "Gambas",
+            "icon_url": "http://gambaswiki.org/wiki/logo3.png?v",
+            "screenshots": [],
+            "official_site": "http://gambas.sourceforge.net/en/main.html",
+            "languages": [
+                "not mentioned"
+            ]
+        },
+        {
+            "short_description": "Codiad is an open source, web-based, cloud IDE and code editor with minimal footprint and requirements.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/Codiad/Codiad",
+            "title": "Codiad",
+            "icon_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1487042821/fmcg4lvhnubm8gap9rg9.png",
+            "screenshots": [],
+            "official_site": "http://codiad.com/",
+            "languages": [
+                "Support for 40+ languages"
+            ]
+        },
+        {
+            "short_description": "CodeLite is an open source, free, cross platform IDE specialized in C, C++, PHP and JavaScript (mainly for backend developers using Node.js) programming languages which runs best on all major Platforms ( OSX, Windows and Linux )",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/eranif/codelite",
+            "title": "CodeLite",
+            "icon_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1487744972/c1b3vmylr0ei3odibwqw.png",
+            "screenshots": [],
+            "official_site": "https://codelite.org/",
+            "languages": [
+                "C",
+                "C++",
+                "PHP",
+                "JavaScript"
+            ]
+        },
+        {
+            "short_description": "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/spyder-ide/spyder",
+            "title": "Spyder",
+            "icon_url": "https://www.spyder-ide.org/static/images/spyder_logo.png?h=7f1693dc",
+            "screenshots": [],
+            "official_site": "https://www.spyder-ide.org/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
