@@ -11,7 +11,7 @@
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-To receive all new or popular applications you can join our [telegram chanel](https://t.me/opensourcemacosapps).
+To receive all new or popular applications you can join our [telegram channel](https://t.me/opensourcemacosapps).
 
 ## Support
 
@@ -36,6 +36,7 @@ You can see in which language an app is written. Currently there are following l
 - ![python_icon] - Python language.
 - ![ruby_icon] - Ruby language.
 - ![rust_icon] - Rust language.
+- ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![type_script_icon] - TypeScript language.
 
@@ -339,6 +340,7 @@ You can see in which language an app is written. Currently there are following l
 - [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 
 ### Extensions
+- [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari ![javascript_icon] 
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
 - [Is It Private?](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift_icon] 
 - [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
@@ -438,7 +440,7 @@ You can see in which language an app is written. Currently there are following l
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.  ![objective_c_icon] 
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![swift_icon] 
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![objective_c_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.  ![swift_icon] 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon] 
@@ -626,6 +628,7 @@ You can see in which language an app is written. Currently there are following l
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.  ![python_icon] 
 
 ### Sharing Files
+- [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java_icon] 
 - [Deluge](https://github.com/deluge-torrent/deluge) - Lightweight cross-platform BitTorrent client.  ![python_icon] 
 - [NitroShare](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another ![cpp_icon] 
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.  ![objective_c_icon] 
@@ -846,5 +849,6 @@ Thanks to all the people who contribute:
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
+[shell_icon]: ./icons/shell-16.png 'Shell language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
