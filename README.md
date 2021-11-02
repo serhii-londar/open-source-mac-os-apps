@@ -440,6 +440,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
+- [Akku](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app. ![swift_icon] ![python_icon] ![ruby_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.  ![objective_c_icon] 
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![objective_c_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
