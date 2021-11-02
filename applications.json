@@ -9050,6 +9050,29 @@
             ]
         },
         {
+            "short_description": "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://git.blender.org/blender.git",
+            "title": "Blender",
+            "icon_url": "https://download.blender.org/branding/blender_logo_socket.png",
+            "screenshots": [
+                "https://www.blender.org/wp-content/uploads/2019/07/blender_render-1280x720.jpg?x94097",
+                "https://www.blender.org/wp-content/uploads/2019/07/blender_vfx-1280x720.jpg?x94097",
+                "https://www.blender.org/wp-content/uploads/2019/07/modeling02-1280x720.jpg?x94097",
+                "https://www.blender.org/wp-content/uploads/2019/07/hero_p31_screenshot-1280x720.jpg?x94097",
+                "https://www.blender.org/wp-content/uploads/2019/07/vse_custom_grade-1280x720.jpg?x94097",
+                "https://www.blender.org/wp-content/uploads/2019/07/animation01-1280x720.jpg?x94097"
+            ],
+            "official_site": "https://www.blender.org",
+            "languages": [
+                "c",
+                "cpp",
+                "python"
+             ]
+        },
+        {
             "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
             "categories": [
                 "graphics",
