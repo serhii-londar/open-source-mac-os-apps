@@ -36,6 +36,7 @@ You can see in which language an app is written. Currently there are following l
 - ![python_icon] - Python language.
 - ![ruby_icon] - Ruby language.
 - ![rust_icon] - Rust language.
+- ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![type_script_icon] - TypeScript language.
 
@@ -200,6 +201,7 @@ You can see in which language an app is written. Currently there are following l
 ### Development
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease. ![swift_icon] ![c_sharp_icon] ![objective_c_icon] 
+- [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation. ![cpp_icon] ![c_icon] 
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ![swift_icon] 
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. ![swift_icon] 
 - [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
@@ -339,6 +341,7 @@ You can see in which language an app is written. Currently there are following l
 - [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![type_script_icon] ![swift_icon] 
 
 ### Extensions
+- [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari ![javascript_icon] 
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos.  ![swift_icon] 
 - [Is It Private?](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift_icon] 
 - [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c_icon] 
@@ -362,6 +365,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. ![swift_icon] 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers. ![objective_c_icon] ![c_icon] 
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
+- [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. ![objective_c_icon] 
 
 ### Games
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare ![cpp_icon] 
@@ -392,6 +396,7 @@ You can see in which language an app is written. Currently there are following l
 ### IDE
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
+- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java_icon] 
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor ![C_icon] ![Vim script_icon] 
@@ -408,6 +413,7 @@ You can see in which language an app is written. Currently there are following l
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![objective_c_icon] ![python_icon] 
 - [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![type_script_icon] 
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software ![python_icon] 
+- [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is a Free and open source vector graphics editor. ![c++_icon] 
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar. ![javascript_icon] ![css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.  ![swift_icon] 
 - [Screenbar](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots.  ![swift_icon] 
@@ -437,8 +443,9 @@ You can see in which language an app is written. Currently there are following l
 
 ### Menubar
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.  ![javascript_icon] 
+- [Akku](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app. ![swift_icon] ![python_icon] ![ruby_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.  ![objective_c_icon] 
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![swift_icon] 
+- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![objective_c_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.  ![swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.  ![swift_icon] 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. ![swift_icon] 
@@ -446,6 +453,7 @@ You can see in which language an app is written. Currently there are following l
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons ![swift_icon] 
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar. ![objective_c_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.  ![swift_icon] 
+- [LinkLiar](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig) ![swift_icon] 
 - [Market Bar](https://github.com/manindaniil/market-bar) - Tiny stocks watcher for the menu bar. ![swift_icon] 
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
@@ -457,6 +465,7 @@ You can see in which language an app is written. Currently there are following l
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI macOS status bar app.  ![swift_icon] 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene. ![swift_icon] 
 - [Pi Stats](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information. ![swift_icon] ![objective_c_icon] 
+- [Pika](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS. ![swift_icon] ![metal_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. ![swift_icon] 
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu.  ![swift_icon] 
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps. ![objective_c_icon] ![c_icon] 
@@ -561,6 +570,7 @@ You can see in which language an app is written. Currently there are following l
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do.  ![objective_c_icon] 
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift_icon] 
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.  ![objective_c_icon] 
+- [Informant](https://github.com/tyirvine/Informant) - Inspect files with a single click. ![swift_icon] 
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar. ![objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.  ![swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.  ![swift_icon] 
@@ -587,6 +597,7 @@ You can see in which language an app is written. Currently there are following l
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
+- [Time to Leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live. ![javascript_icon] ![css_icon] ![html_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
 - [Toggl Desktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support. ![swift_icon] 
@@ -626,6 +637,7 @@ You can see in which language an app is written. Currently there are following l
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.  ![python_icon] 
 
 ### Sharing Files
+- [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java_icon] 
 - [Deluge](https://github.com/deluge-torrent/deluge) - Lightweight cross-platform BitTorrent client.  ![python_icon] 
 - [NitroShare](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another ![cpp_icon] 
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs.  ![objective_c_icon] 
@@ -719,6 +731,7 @@ You can see in which language an app is written. Currently there are following l
 - [Funky](https://github.com/thecatalinstan/Funky) - Easily toggle the function key on your Mac on a per app basis. ![objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button  ![swift_icon] 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar. ![swift_icon] 
+- [Informant](https://github.com/tyirvine/Informant) - Inspect files with a single click. ![swift_icon] 
 - [Kap](https://github.com/wulkano/kap) - Screen recorder application built with web technology.  ![javascript_icon] 
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"  ![cpp_icon] 
 - [KeeWeb](https://github.com/keeweb/keeweb) - Cross-platform password manager compatible with KeePass.  ![javascript_icon] 
@@ -742,6 +755,7 @@ You can see in which language an app is written. Currently there are following l
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon] 
 - [Padlock](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.  ![javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift_icon] 
+- [Pika](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS. ![swift_icon] ![metal_icon] 
 - [Plain Pasta](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. ![swift_icon] 
 - [PowerShell](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools. ![c_sharp_icon] 
@@ -759,6 +773,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari ![swift_icon] 
 - [baRSS – Menu Bar RSS Reader](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective_c_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
+- [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. ![objective_c_icon] 
 - [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI. ![swift_icon] 
 - [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL syntax. ![rust_icon] 
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries ![ruby_icon] 
@@ -846,5 +861,6 @@ Thanks to all the people who contribute:
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
+[shell_icon]: ./icons/shell-16.png 'Shell language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
