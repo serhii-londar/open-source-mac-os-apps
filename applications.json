@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Inspect files with a single click.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tyirvine/Informant",
+            "title": "Informant",
+            "icon_url": "https://user-images.githubusercontent.com/39813066/130519018-d2faff43-45b0-4026-b313-cdbe0ce91e18.png",
+            "screenshots": [
+               "https://github.com/tyirvine/Informant-Site-Public/blob/main/assets/metaimage.png?raw=true"
+            ],
+            "official_site": "https://github.com/tyirvine/Informant",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
@@ -3816,6 +3833,40 @@
             ]
         },
         {
+            "short_description": "The missing macOS bluetooth headset battery indicator app.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jariz/Akku",
+            "title": "Akku",
+            "icon_url": "https://camo.githubusercontent.com/653ba2421bda421e22443d9e2d9a6b314c0ad0367e71305e6b2ae40efc3f9b51/68747470733a2f2f6a6172692e6c6f6c2f725237364a3559736e552e706e67",
+            "screenshots": [
+                "https://camo.githubusercontent.com/0f9f9231ff083edead13ad239d7a73566e7b1933c3f176e11ce04e7e624bb24a/68747470733a2f2f6a6172692e6c6f6c2f384f516d4c6e794b72752e706e67"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python",
+                "ruby"
+            ]
+        },
+        {
+          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+          "categories": [
+              "menubar"
+          ],
+          "repo_url": "https://github.com/halo/LinkLiar",
+          "title": "LinkLiar",
+          "icon_url": "",
+          "screenshots": [
+             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+          ],
+          "official_site": "https://halo.github.io/LinkLiar",
+          "languages": [
+              "swift"
+          ]
+        },
+        {
             "short_description": "macOS menubar status indicator. ",
             "categories": [
                 "menubar"
@@ -3856,7 +3907,7 @@
             ],
             "official_site": "",
             "languages": [
-                "swift"
+                "objective_c"
             ]
         },
         {
@@ -4035,6 +4086,24 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Is an easy to use, open-source, native colour picker for macOS.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/superhighfives/pika",
+            "title": "Pika",
+            "icon_url": "https://user-images.githubusercontent.com/449385/103492506-4dbd3700-4e23-11eb-97ca-44a959f171c6.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/449385/103492507-4e55cd80-4e23-11eb-9366-d31c2bb74030.png"
+            ],
+            "official_site": "https://superhighfives.com/pika",
+            "languages": [
+                "swift",
+                "metal"
             ]
         },
         {
@@ -5166,6 +5235,25 @@
             "official_site": "",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Log work hours and get notified when it's time to leave the office and start to live.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/thamara/time-to-leave",
+            "title": "Time to Leave",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/3754225/94519528-4e549900-0248-11eb-8872-b6fb2d47f43c.jpg",
+                "https://user-images.githubusercontent.com/3754225/94762058-4e79a380-03c4-11eb-8f28-1c480dbf8b5c.png"
+            ],
+            "official_site": "https://timetoleave.app/",
+            "languages": [
+                "javascript",
+                "css",
+                "html"
             ]
         },
         {
@@ -8652,7 +8740,7 @@
             ],
             "official_site": "https://uselinked.com",
             "languages": [
-                "javascript", 
+                "javascript",
                 "vue",
                 "css"
             ]
@@ -8660,7 +8748,7 @@
         {
             "short_description": "Spotify widget for Notification Center.",
             "categories": [
-                "audio",
+                "audio"
             ],
             "repo_url": "https://github.com/fabiusBile/Spotify4BigSur",
             "title": "Spotify4BigSur",
@@ -8809,7 +8897,7 @@
             "title": "eul",
             "icon_url": "https://raw.githubusercontent.com/gao-sun/eul/master/Resource/Assets.xcassets/eul.imageset/eul%403x.png",
             "screenshots": [
-                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg",
+                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -8922,11 +9010,27 @@
             "title": "Chess",
             "icon_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/MBChess/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
             "screenshots": [
-                "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
+                "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png"
             ],
             "official_site": "https://www.apple.com/",
             "languages": [
                 "objective-c"
+            ]
+        },
+        {
+            "short_description": "The most advanced ad blocking extension for Safari",
+            "categories": [
+                "extensions"
+            ],
+            "repo_url": "https://github.com/adguardteam/adguardforsafari",
+            "title": "AdGuard for Safari",
+            "icon_url": "https://camo.githubusercontent.com/b615bb7db1b9bc94567aec6e80a120c6f0bff13d64cc48e962ddf785cc7b18fd/68747470733a2f2f63646e2e616467756172642e636f6d2f7075626c69632f416467756172642f436f6d6d6f6e2f616467756172645f7361666172692e737667",
+            "screenshots": [
+                "https://camo.githubusercontent.com/30d586bf934b280622aeac16949d86bb67184250b2b7902b9ea7fcf53e35ca39/68747470733a2f2f63646e2e616467756172642e636f6d2f7075626c69632f416467756172642f436f6d6d6f6e2f7361666172695f66696c746572732e706e673f"
+            ],
+            "official_site": "https://adguard.com/en/welcome.html",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -8957,6 +9061,53 @@
                "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
             ],
             "official_site": "https://www.jetbrains.com/idea/",
+            "languages": [
+                "java"
+            ]
+        },
+        {
+            "short_description": "A software suite for electronic design automation.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://gitlab.com/kicad/code/kicad",
+            "title": "KiCad",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.kicad.org/",
+            "languages": [
+                "cpp",
+                "c"
+            ]
+        },
+        {
+            "short_description": "dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/arsenetar/dupeguru/",
+            "title": "dupeGuru",
+            "icon_url": "https://raw.githubusercontent.com/arsenetar/dupeguru/master/images/dgse_logo_128.png",
+            "screenshots": [],
+            "official_site": "https://dupeguru.voltaicideas.net/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
+            "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/iterate-ch/cyberduck",
+            "title": "Cyberduck",
+            "icon_url": "https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png",
+            "screenshots": [
+                "https://cdn.cyberduck.io/img/mac/browser-bookmarks.png",
+                "https://cdn.cyberduck.io/img/mac/browser.png"
+            ],
+            "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
             ]
