@@ -9050,6 +9050,25 @@
             ]
         },
         {
+            "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
+            "categories": [
+                "graphics",
+                "images"
+            ],
+            "repo_url": "https://invent.kde.org/graphics/krita",
+            "title": "Krita",
+            "icon_url": "https://invent.kde.org/graphics/krita/-/raw/master/pics/krita.png",
+            "screenshots": [
+                "https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png"
+            ],
+            "official_site": "https://krita.org",
+            "languages": [
+                "cpp",
+                "python",
+                "c"
+            ]
+        },
+        {
             "short_description": "Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.",
             "categories": [
                 "mail",
