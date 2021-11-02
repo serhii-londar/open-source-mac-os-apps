@@ -592,6 +592,7 @@ You can see in which language an app is written. Currently there are following l
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![type_script_icon] ![javascript_icon] 
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
+- [Time to Leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live. ![javascript_icon] ![css_icon] ![html_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
 - [Toggl Desktop](https://github.com/toggl-open-source/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support. ![swift_icon] 
