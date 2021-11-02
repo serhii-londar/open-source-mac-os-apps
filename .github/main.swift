@@ -49,7 +49,7 @@ You can see in which language an app is written. Currently there are following l
 - ![rust_icon] - Rust language.
 - ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
-- ![type_script_icon] - TypeScript language.
+- ![typescript_icon] - TypeScript language.
 
 
 ## Contents
@@ -132,7 +132,7 @@ Thanks to all the people who contribute:
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
 [shell_icon]: ./icons/shell-16.png 'Shell language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
-[type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
+[typescript_icon]: ./icons/typescript-16.png 'TypeScript language.'
 """
 
 class JSONApplications: Codable {

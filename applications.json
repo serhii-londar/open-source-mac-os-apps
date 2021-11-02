@@ -1183,7 +1183,7 @@
             "screenshots": [],
             "official_site": "",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -1436,7 +1436,7 @@
             ],
             "official_site": "",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -2375,7 +2375,7 @@
             ],
             "official_site": "https://httptoolkit.tech/",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -2801,7 +2801,7 @@
             "official_site": "https://www.zettlr.com/",
             "languages": [
                 "javascript",
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -3373,7 +3373,7 @@
             "official_site": "",
             "languages": [
                 "javascript",
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -3389,7 +3389,7 @@
             ],
             "official_site": "",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -3546,7 +3546,7 @@
             "screenshots": [],
             "official_site": "",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -6487,7 +6487,7 @@
             ],
             "official_site": "https://bitwarden.com/",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -6503,7 +6503,7 @@
             ],
             "official_site": "",
             "languages": [
-                "type_script",
+                "typescript",
                 "swift"
             ]
         },
@@ -7433,7 +7433,7 @@
             ],
             "official_site": "",
             "languages": [
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -7865,7 +7865,7 @@
             ],
             "official_site": "https://super-productivity.com",
             "languages": [
-                "type_script",
+                "typescript",
                 "javascript"
             ]
         },
@@ -7882,7 +7882,7 @@
             "screenshots": [],
             "official_site": "",
             "languages": [
-                "type_script",
+                "typescript",
                 "swift"
             ]
         },
@@ -8002,7 +8002,7 @@
             "official_site": "https://www.getdnote.com/",
             "languages": [
                 "go",
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -8033,7 +8033,7 @@
             ],
             "short_description": "Pomodoro Cycle for macOS",
             "languages": [
-                "type_script"
+                "typescript"
             ],
             "categories": [
                 "productivity"
@@ -8073,7 +8073,7 @@
             "official_site": "",
             "languages": [
                 "javascript",
-                "type_script"
+                "typescript"
             ]
         },
         {
@@ -8649,7 +8649,7 @@
                 "text"
             ],
             "languages": [
-                "type_script",
+                "typescript",
                 "swift"
             ]
         },
