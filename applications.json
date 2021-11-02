@@ -8731,7 +8731,7 @@
         {
             "short_description": "Spotify widget for Notification Center.",
             "categories": [
-                "audio",
+                "audio"
             ],
             "repo_url": "https://github.com/fabiusBile/Spotify4BigSur",
             "title": "Spotify4BigSur",
@@ -8880,7 +8880,7 @@
             "title": "eul",
             "icon_url": "https://raw.githubusercontent.com/gao-sun/eul/master/Resource/Assets.xcassets/eul.imageset/eul%403x.png",
             "screenshots": [
-                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg",
+                "https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg"
             ],
             "official_site": "",
             "languages": [
@@ -8993,7 +8993,7 @@
             "title": "Chess",
             "icon_url": "https://opensource.apple.com/source/Chess/Chess-410.4.1/MBChess/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
             "screenshots": [
-                "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png",
+                "https://upload.wikimedia.org/wikipedia/commons/8/83/Chess_screenshot.png"
             ],
             "official_site": "https://www.apple.com/",
             "languages": [
@@ -9030,6 +9030,21 @@
             "official_site": "https://apollozhu.github.io/Dynamic-Dark-Mode/",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "A software suite for electronic design automation.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://gitlab.com/kicad/code/kicad",
+            "title": "KiCad",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.kicad.org/",
+            "languages": [
+                "cpp",
+                "c"
             ]
         },
         {
