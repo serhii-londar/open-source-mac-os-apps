@@ -9050,6 +9050,22 @@
             ]
         },
         {
+            "short_description": "Inkscape is a Free and open source vector graphics editor.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://gitlab.com/inkscape/inkscape",
+            "title": "Inkscape",
+            "icon_url": "https://inkscape.org/",
+            "screenshots": [
+               "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
+            ],
+            "official_site": "https://inkscape.org/",
+            "languages": [
+                "c++"
+            ]
+        },
+        {
             "short_description": "IntelliJ IDEA is an integrated development environment written in Java for developing computer software",
             "categories": [
                 "ide"
