@@ -8962,6 +8962,21 @@
             ]
         },
         {
+            "short_description": "dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/arsenetar/dupeguru/",
+            "title": "dupeGuru",
+            "icon_url": "https://raw.githubusercontent.com/arsenetar/dupeguru/master/images/dgse_logo_128.png",
+            "screenshots": [],
+            "official_site": "https://dupeguru.voltaicideas.net/",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
             "categories": [
                 "sharing-files"
