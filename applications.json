@@ -4054,6 +4054,24 @@
             ]
         },
         {
+            "short_description": "Is an easy to use, open-source, native colour picker for macOS.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/superhighfives/pika",
+            "title": "Pika",
+            "icon_url": "https://user-images.githubusercontent.com/449385/103492506-4dbd3700-4e23-11eb-97ca-44a959f171c6.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/449385/103492507-4e55cd80-4e23-11eb-9366-d31c2bb74030.png"
+            ],
+            "official_site": "https://superhighfives.com/pika",
+            "languages": [
+                "swift",
+                "metal"
+            ]
+        },
+        {
             "short_description": "macOS app to visualize Pi-hole information.",
             "categories": [
                 "menubar"
