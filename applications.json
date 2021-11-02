@@ -9048,6 +9048,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.",
+            "categories": [
+                "productivity",
+                "utility"
+            ],
+            "repo_url": "https://github.com/GameGodS3/DropPoint",
+            "title": "DropPoint",
+            "icon_url": "https://raw.githubusercontent.com/GameGodS3/DropPoint/main/static/media/pngLogo/droppoint%405x.png",
+            "screenshots": [
+               "https://i.imgur.com/QkUPoOb.gif",
+               "https://i.imgur.com/WElktc0.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
         }, 
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
