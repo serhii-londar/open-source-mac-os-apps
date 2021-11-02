@@ -9050,6 +9050,27 @@
             ]
         },
         {
+            "short_description": "Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.",
+            "categories": [
+                "mail",
+                "chat"
+            ],
+            "repo_url": "https://hg.mozilla.org/mozilla-central",
+            "title": "Thunderbird",
+            "icon_url": "https://www.mozilla.org/media/img/trademarks/thunderbird_logo_100.09facb8b4189.png",
+            "screenshots": [
+                "https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/landing/screenshot-mac.png",
+                "https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/calendar/screenshot-mac.png",
+                "https://www.thunderbird.net/media/img/thunderbird/features/addon-manager.png"
+            ],
+            "official_site": "https://www.thunderbird.net/",
+            "languages": [
+                "cpp",
+                "javascript",
+                "rust"
+            ]
+        },
+        {
             "short_description": "Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.",
             "categories": [
                 "productivity",
