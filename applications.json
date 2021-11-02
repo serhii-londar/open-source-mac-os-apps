@@ -9076,6 +9076,22 @@
             ]
         },
         {
+            "short_description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/swiftyfinch/Rugby",
+            "title": "Rugby",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/swiftyfinch/Rugby/blob/main/Assets/Preview.jpg"
+            ],
+            "official_site": "https://swiftyfinch.github.io/en/2021-03-09-rugby-story/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing.",
             "categories": [
                 "graphics"
