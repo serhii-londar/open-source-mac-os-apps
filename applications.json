@@ -3732,6 +3732,23 @@
             ]
         },
         {
+            "short_description": "Keystroke visualizer.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/keycastr/keycastr",
+            "title": "Keycastr",
+            "icon_url": "",
+            "screenshots": [
+                "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
+                "https://github.com/keycastr/keycastr/blob/5a9a9e5b498aad7f3bc26e3c2c95862359dbf3e4/assets/preview.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "Objective-C"
+            ]
+        },
+        {
             "short_description": "Switch the right application ASAP. ",
             "categories": [
                 "keyboard"
