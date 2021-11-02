@@ -22,7 +22,7 @@ let header = """
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-To receive all new or popular applications you can join our [telegram chanel](https://t.me/opensourcemacosapps).
+To receive all new or popular applications you can join our [telegram channel](https://t.me/opensourcemacosapps).
 
 ## Support
 
@@ -47,6 +47,7 @@ You can see in which language an app is written. Currently there are following l
 - ![python_icon] - Python language.
 - ![ruby_icon] - Ruby language.
 - ![rust_icon] - Rust language.
+- ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![type_script_icon] - TypeScript language.
 
@@ -129,6 +130,7 @@ Thanks to all the people who contribute:
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
 [rust_icon]: ./icons/rust-16.png 'Rust language.'
+[shell_icon]: ./icons/shell-16.png 'Shell language.'
 [swift_icon]: ./icons/swift-16.png 'Swift language.'
 [type_script_icon]: ./icons/typescript-16.png 'TypeScript language.'
 """
