@@ -143,7 +143,7 @@ You can see in which language an app is written. Currently there are following l
 - [Brave Browser](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.  ![javascript_icon] 
 - [Chromium](https://chromium.googlesource.com/chromium/src/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. ![javascript_icon] ![cpp_icon] ![c_icon] 
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser.  ![swift_icon] 
-- [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux.  ![javascript_icon] ![rust_icon] ![cpp_icon] 
+- [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from. Runs on Windows, macOS and Linux.  ![javascript_icon] ![rust_icon] ![cpp_icon] 
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![objective_c_icon] ![swift_icon] 
 - [Kaktus](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux.  ![javascript_icon] 
 - [Min Browser](https://github.com/minbrowser/min) - A fast and efficient minimal web browser. ![javascript_icon] 
