@@ -1,23 +1,6 @@
 {
     "applications": [
         {
-            "short_description": "Inspect files with a single click.",
-            "categories": [
-                "utilities",
-                "productivity"
-            ],
-            "repo_url": "https://github.com/tyirvine/Informant",
-            "title": "Informant",
-            "icon_url": "https://user-images.githubusercontent.com/39813066/130519018-d2faff43-45b0-4026-b313-cdbe0ce91e18.png",
-            "screenshots": [
-               "https://github.com/tyirvine/Informant-Site-Public/blob/main/assets/metaimage.png?raw=true"
-            ],
-            "official_site": "https://github.com/tyirvine/Informant",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
