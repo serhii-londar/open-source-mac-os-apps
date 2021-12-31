@@ -9267,6 +9267,23 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "The app provides lots of additional actions for the Shortcuts app.",
+            "categories": [
+                "utilities",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/sindresorhus/Actions",
+            "title": "Actions",
+            "icon_url": "https://github.com/sindresorhus/Actions/raw/9cdf4e3ecd34b4a0f2b08763577b8dc95be38604/Stuff/AppIcon-readme.png",
+            "screenshots": [
+                "https://github.com/sindresorhus/Actions/raw/9cdf4e3ecd34b4a0f2b08763577b8dc95be38604/Stuff/screenshot1.jpg"
+            ],
+            "official_site": "https://sindresorhus.com/actions",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
