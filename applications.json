@@ -9076,6 +9076,23 @@
             ]
         },
         {
+            "short_description": "All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jacklandrin/OnlySwitch",
+            "title": "OnlySwitch",
+            "icon_url": "https://www.jacklandrin.com/wp-content/uploads/2021/12/only_switch_256.png",
+            "screenshots": [
+                "https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png"
+            ],
+            "official_site": "https://www.jacklandrin.com/2021/12/01/onlyswitch/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",
             "categories": [
                 "utilities"
