@@ -3069,6 +3069,25 @@
             ]
         },
         {
+            "short_description": "The Quick Symlink is a Finder extension which provides a contextual menu items for the symbolic links (and other links) creation on macOS.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ololx/quick-symlink",
+            "title": "Quick Symlink",
+            "icon_url": "",
+            "screenshots": [
+               "https://github.com/ololx/quick-symlink/blob/assets/demo/quick-symlink-demo-2.gif?raw=true",
+               "https://github.com/ololx/quick-symlink/blob/assets/demo/quick-symlink-demo-1.gif?raw=true",
+               "https://github.com/ololx/quick-symlink/blob/assets/demo/quick-symlink-demo-replace-with-link.gif?raw=true" 
+            ],
+            "official_site": "https://ololx.github.io/QUICK_SYMLINK",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. ",
             "categories": [
                 "games"
