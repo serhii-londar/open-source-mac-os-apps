@@ -9252,6 +9252,23 @@
             ]
         },
         {
+            "short_description": "Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/manasecurity/mana-security-app",
+            "title": "Mana Security",
+            "icon_url": "https://avatars.githubusercontent.com/u/66416348",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/13090109/148841509-821fae63-d720-49a1-9584-8ed6b3cdb7ce.png"
+            ],
+            "official_site": "https://manasecurity.com/",
+            "languages": [
+                "javascript",
+                "typescript",
+            ]
+        },
+        {
             "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
             "categories": [
                 "sharing-files"
