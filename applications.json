@@ -9267,6 +9267,62 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "Hot is a menu bar extension to moniter temperature of your macbook with all individual sensors information.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://github.com/macmade/Hot",
+            "title": "Hot",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/macmade/Hot/blob/main/Assets/menu.png",
+                "https://github.com/macmade/Hot/blob/main/Assets/sensors.png"
+            ],
+            "official_site": "https://xs-labs.com/en/apps/hot/overview/",
+            "languages": [
+                "objective_c",
+                "c",
+                "swift"
+
+            ]
+        },
+        {
+            "short_description": "App cleaner is an app which removes residues of app you are uninstalling.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://github.com/kevinSuttle/puppet-appcleaner",
+            "title": "App Cleaner",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "https://freemacsoft.net/appcleaner/",
+            "languages": [
+                "shell",
+                "ruby",
+                "puppet"
+
+            ]
+        },
+        {
+            "short_description": "Stats is an application that allows you to monitor your macOS system.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/exelban/stats",
+            "title": "stats",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+
+            ]
         }
     ]
 }
