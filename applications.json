@@ -27,7 +27,9 @@
             "repo_url": "https://github.com/minbrowser/min",
             "title": "Min Browser",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://minbrowser.org",
             "languages": [
                 "javascript"
@@ -41,7 +43,9 @@
             "repo_url": "https://github.com/borgbase",
             "title": "BorgBase/Vorta",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.borgbase.com/",
             "languages": [
                 "python"
@@ -55,7 +59,9 @@
             "repo_url": "https://github.com/manindaniil/market-bar",
             "title": "Market Bar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -136,7 +142,7 @@
             ]
         },
         {
-            "short_description": "simple drag-and-drop, password-based file encryption.",
+            "short_description": "Simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
             ],
@@ -168,7 +174,7 @@
             ]
         },
         {
-            "short_description": "cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
+            "short_description": "A crossplatform file transfer over ad-hoc Wi-Fi, like AirDrop but for Mac/Windows/Linux.",
             "categories": [
                 "utilities"
             ],
@@ -184,7 +190,7 @@
             ]
         },
         {
-            "short_description": "manage bluetooth connections with your keyboard.",
+            "short_description": "Manage Bluetooth connections with your keyboard.",
             "categories": [
                 "utilities"
             ],
@@ -200,14 +206,16 @@
             ]
         },
         {
-            "short_description": "cross platform e-book manager.",
+            "short_description": "A cross platform e-book manager.",
             "categories": [
                 "utilities"
             ],
             "repo_url": "https://github.com/kovidgoyal/calibre",
             "title": "calibre",
             "icon_url": "https://github.com/kovidgoyal/calibre/blob/master/resources/images/lt.png ",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://calibre-ebook.com",
             "languages": [
                 "python"
@@ -253,7 +261,9 @@
             "repo_url": "https://github.com/simplelocalize/simplelocalize-cli",
             "title": "SimpleLocalize CLI",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://simplelocalize.io",
             "languages": [
                 "swift"
@@ -318,7 +328,7 @@
             ]
         },
         {
-            "short_description": "macOS camera recording using ffmpeg ",
+            "short_description": "A macOS camera recording app, using FFmpeg ",
             "categories": [
                 "audio"
             ],
@@ -421,7 +431,7 @@
             ]
         },
         {
-            "short_description": "macOS app to show you lyric what currently iTunes or Spotify is playing. ",
+            "short_description": "A macOS app to show you lyric what currently iTunes or Spotify is playing. ",
             "categories": [
                 "audio"
             ],
@@ -567,7 +577,9 @@
             "repo_url": "https://github.com/will-stone/SpotSpot",
             "title": "SpotSpot",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -608,7 +620,7 @@
             ]
         },
         {
-            "short_description": "macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.",
+            "short_description": "A macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.",
             "categories": [
                 "audio"
             ],
@@ -625,7 +637,7 @@
             ]
         },
         {
-            "short_description": "macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ",
+            "short_description": "A macOS native desktop Software Defined Radio application using the RTL-SDR USB device. ",
             "categories": [
                 "audio"
             ],
@@ -641,14 +653,16 @@
             ]
         },
         {
-            "short_description": "macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.",
+            "short_description": "A macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.",
             "categories": [
                 "audio"
             ],
             "repo_url": "https://github.com/mikebrady/shairport-sync",
             "title": "shairport-sync",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c",
@@ -663,7 +677,9 @@
             "repo_url": "https://github.com/lra/mackup",
             "title": "Mackup",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -677,7 +693,9 @@
             "repo_url": "https://github.com/zenangst/Syncalicious",
             "title": "Syncalicious",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -707,7 +725,9 @@
             "repo_url": "https://github.com/uroni/urbackup_backend",
             "title": "UrBackup",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -739,21 +759,25 @@
             "repo_url": "https://github.com/brave/brave-browser",
             "title": "Brave Browser",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "macOS tool that prompts you to choose a browser when opening a link. ",
+            "short_description": "A macOS tool that prompts you to choose a browser when opening a link. ",
             "categories": [
                 "browser"
             ],
             "repo_url": "https://github.com/will-stone/browserosaurus",
             "title": "browserosaurus",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -767,7 +791,9 @@
             "repo_url": "https://github.com/JadenGeller/Helium",
             "title": "Helium",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -782,39 +808,25 @@
             "repo_url": "https://github.com/johnste/finicky",
             "title": "Finicky",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ",
-            "categories": [
-                "browser"
-            ],
-            "repo_url": "https://github.com/kaktus/kaktus",
-            "title": "Kaktus",
-            "icon_url": "",
-            "screenshots": [
-                "https://cldup.com/qsYAu0F-ja.png",
-                "https://cldup.com/6jOWAjYdpo.png",
-                "https://cldup.com/wDadS2XGrb.gif"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
-            "short_description": "Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ",
+            "short_description": "Fast, privacy aware browser from a non-profit organisation. It runs on Windows, macOS and Linux. ",
             "categories": [
                 "browser"
             ],
             "repo_url": "https://hg.mozilla.org/mozilla-central/",
             "title": "Firefox",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.mozilla.org/en-US/firefox/browsers/",
             "languages": [
                 "javascript",
@@ -846,7 +858,9 @@
             "repo_url": "https://github.com/SafeExamBrowser/seb-mac",
             "title": "seb-mac",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c"
@@ -917,7 +931,7 @@
             ]
         },
         {
-            "short_description": "Ferdi is messaging application for services like WhatsApp, Slack, Messenger and many more. It started off as a hard-fork of Franz, but has now surpassed it in features.",
+            "short_description": "Ferdi is a messaging application for services like WhatsApp, Slack, Messenger and many more. It started off as a hard-fork of Franz, but has now surpassed it in features.",
             "categories": [
                 "chat"
             ],
@@ -933,7 +947,7 @@
             ]
         },
         {
-            "short_description": "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
+            "short_description": "Franz is a messaging application for services like WhatsApp, Slack, Messenger and many more. ",
             "categories": [
                 "chat"
             ],
@@ -989,7 +1003,9 @@
             "repo_url": "https://github.com/vector-im/element-web",
             "title": "Element",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -1019,7 +1035,9 @@
             "repo_url": "https://github.com/signalapp/Signal-Desktop",
             "title": "Signal Desktop",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -1033,7 +1051,9 @@
             "repo_url": "https://github.com/overtake/TelegramSwift",
             "title": "Telegram",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1082,7 +1102,9 @@
             "repo_url": "https://github.com/javerous/TorChat-Mac",
             "title": "Torchat-Mac",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -1114,14 +1136,16 @@
             "repo_url": "https://github.com/wireapp/wire-desktop",
             "title": "Wire Desktop",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "App for all the world’s currencies. ",
+            "short_description": "An App for all the world’s currencies. ",
             "categories": [
                 "cryptocurrency"
             ],
@@ -1163,21 +1187,25 @@
             "repo_url": "https://github.com/bitpay/copay",
             "title": "Copay",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "typescript"
             ]
         },
         {
-            "short_description": "macOS menu bar application built with Electron. ",
+            "short_description": "A macOS menu bar application built with Electron. ",
             "categories": [
                 "cryptocurrency"
             ],
             "repo_url": "https://github.com/geraldoramos/crypto-bar",
             "title": "Crypto Bar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -1276,7 +1304,9 @@
             "repo_url": "https://github.com/PostgresApp/PostgresApp",
             "title": "Postgres.app",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1323,7 +1353,9 @@
             "repo_url": "https://github.com/Sequel-Ace/Sequel-Ace",
             "title": "Sequel Ace",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://sequel-ace.com/",
             "languages": [
                 "objective_c"
@@ -1353,7 +1385,9 @@
             "repo_url": "https://github.com/dhennessy/OpenCashew",
             "title": "Cashew",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -1407,7 +1441,7 @@
             ]
         },
         {
-            "short_description": "Simple collaboration from your desktop. ",
+            "short_description": "A simple collaboration from your desktop. ",
             "categories": [
                 "git"
             ],
@@ -1423,7 +1457,7 @@
             ]
         },
         {
-            "short_description": "Simple app that will notify about new commits to watched repositories. ",
+            "short_description": "A simple app that will notify about new commits to watched repositories. ",
             "categories": [
                 "git"
             ],
@@ -1439,14 +1473,16 @@
             ]
         },
         {
-            "short_description": "Simple macOS app to alert you when you have unread GitHub notifications. ",
+            "short_description": "A simple macOS app to alert you when you have unread GitHub notifications. ",
             "categories": [
                 "git"
             ],
             "repo_url": "https://github.com/erik/github-notify",
             "title": "GithubNotify",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1496,35 +1532,41 @@
             "repo_url": "https://github.com/gitx/gitx",
             "title": "GitX",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
             ]
         },
         {
-            "short_description": "macOS application for easily operating GitHub Projects. ",
+            "short_description": "A macOS application for easily operating GitHub Projects. ",
             "categories": [
                 "git"
             ],
             "repo_url": "https://github.com/mtgto/GPM",
             "title": "GPM",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "macOS application to comfortably browse and search through your Messages.app history. ",
+            "short_description": "A macOS application to comfortably browse and search through your Messages.app history. ",
             "categories": [
                 "chat"
             ],
             "repo_url": "https://github.com/glaurent/MessagesHistoryBrowser",
             "title": "MessagesHistoryBrowser",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1547,7 +1589,7 @@
             ]
         },
         {
-            "short_description": "macOS status bar application for tracking code review process within the team. ",
+            "short_description": "A macOS status bar application for tracking code review process within the team. ",
             "categories": [
                 "git"
             ],
@@ -1652,7 +1694,9 @@
             "repo_url": "https://github.com/everettjf/AppleTrace",
             "title": "AppleTrace",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -1702,7 +1746,9 @@
             "repo_url": "https://github.com/e7711bbear/Assets",
             "title": "Assets",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1734,7 +1780,9 @@
             "repo_url": "https://github.com/angelvasa/AVXCAssets-Generator",
             "title": "AVXCAssets Generator",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1759,7 +1807,7 @@
             ]
         },
         {
-            "short_description": "macOS app for submitting radars. ",
+            "short_description": "A macOS app for submitting radars. ",
             "categories": [
                 "ios--macos"
             ],
@@ -1803,7 +1851,9 @@
             "repo_url": "https://github.com/waylybaye/XcodeCleaner",
             "title": "Cleaner for Xcode",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -1830,7 +1880,7 @@
             ]
         },
         {
-            "short_description": "macOS App to explore CoreImage Filters. ",
+            "short_description": "A macOS App to explore CoreImage Filters. ",
             "categories": [
                 "ios--macos"
             ],
@@ -1846,7 +1896,7 @@
             ]
         },
         {
-            "short_description": "macOS app to generate app icons. ",
+            "short_description": "A macOS app to generate app icons. ",
             "categories": [
                 "ios--macos"
             ],
@@ -1886,21 +1936,25 @@
             "repo_url": "https://github.com/SAP/macos-icon-generator",
             "title": "Icons.app",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
             ]
         },
         {
-            "short_description": "overdue Swift rewrite of Injection.",
+            "short_description": "Overdue Swift rewrite of Injection.",
             "categories": [
                 "ios--macos"
             ],
             "repo_url": "https://github.com/johnno1962/InjectionIII",
             "title": "InjectionIII",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -1932,7 +1986,9 @@
             "repo_url": "https://github.com/wigl/iSimulator",
             "title": "iSimulator",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -1971,14 +2027,16 @@
             ]
         },
         {
-            "short_description": "Mac app to localize your iOS and macOS projects. ",
+            "short_description": "A macOS app to localize your iOS and macOS projects. ",
             "categories": [
                 "ios--macos"
             ],
             "repo_url": "https://github.com/cristibaluta/Localizable.strings",
             "title": "Localizable.strings",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -1992,7 +2050,9 @@
             "repo_url": "https://github.com/e7711bbear/Localizations",
             "title": "Localizations",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2006,14 +2066,16 @@
             "repo_url": "https://github.com/igorkulman/iOSLocalizationEditor",
             "title": "Localization Editor",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "macOS app for convenient access to the system color panel. ",
+            "short_description": "A macOS app for convenient access to the system color panel. ",
             "categories": [
                 "ios--macos"
             ],
@@ -2036,14 +2098,16 @@
             "repo_url": "https://github.com/toxblh/MTMR",
             "title": "MyTouchbarMyRules",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "macOS app which helps you manage dependency releases in your Podfile. ",
+            "short_description": "A macOS app which helps you manage dependency releases in your Podfile. ",
             "categories": [
                 "ios--macos"
             ],
@@ -2076,7 +2140,7 @@
             ]
         },
         {
-            "short_description": "macOS app to test push notifications on iOS and Android. ",
+            "short_description": "A macOS app to test push notifications on iOS and Android. ",
             "categories": [
                 "ios--macos"
             ],
@@ -2116,14 +2180,16 @@
             ]
         },
         {
-            "short_description": "MacOS application for creating AppIcon for iOS and Android apps.",
+            "short_description": "macOS application for creating AppIcon for iOS and Android apps.",
             "categories": [
                 "ios--macos"
             ],
             "repo_url": "https://github.com/onurgenes/Resizr",
             "title": "Resizr",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2153,7 +2219,9 @@
             "repo_url": "https://github.com/touchbar/Touch-Bar-Preview",
             "title": "Touch Bar Preview",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2167,7 +2235,9 @@
             "repo_url": "https://github.com/sindresorhus/touch-bar-simulator",
             "title": "Touch Bar Simulator",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2181,7 +2251,9 @@
             "repo_url": "https://github.com/iseebi/TransporterPad",
             "title": "TransporterPad",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2195,7 +2267,9 @@
             "repo_url": "https://github.com/insidegui/WWDC",
             "title": "WWDC",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2222,28 +2296,32 @@
             ]
         },
         {
-            "short_description": "Tool to convert Xcode .xib to .storyboard files. ",
+            "short_description": "A tool to convert Xcode .xib to .storyboard files. ",
             "categories": [
                 "ios--macos"
             ],
             "repo_url": "https://github.com/novemberfiveco/xib2Storyboard",
             "title": "xib2Storyboard",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
             ]
         },
         {
-            "short_description": "macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ",
+            "short_description": "A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). ",
             "categories": [
                 "json-parsing"
             ],
             "repo_url": "https://github.com/zadr/j2s",
             "title": "j2s",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2257,7 +2335,9 @@
             "repo_url": "https://github.com/AppCraft-LLC/json-mapper",
             "title": "JSON Mapper",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2378,14 +2458,16 @@
             ]
         },
         {
-            "short_description": "macOS app to let you access iTunesConnect. ",
+            "short_description": "A macOS app to let you access iTunesConnect. ",
             "categories": [
                 "web-development"
             ],
             "repo_url": "https://github.com/trulyronak/itunesconnect",
             "title": "iTunesConnect",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2408,7 +2490,7 @@
             ]
         },
         {
-            "short_description": "KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar.",
+            "short_description": "KubeSwitch lists the available Kubernetes cluster contexts on the mac, in Mac's Menu bar.",
             "categories": [
                 "web-development"
             ],
@@ -2424,35 +2506,39 @@
             ]
         },
         {
-            "short_description": "Dedicated Mac app for website auditing and crawling. ",
+            "short_description": "A dedicated Mac app for website auditing and crawling. ",
             "categories": [
                 "web-development"
             ],
             "repo_url": "https://github.com/RoyalIcing/Lantern",
             "title": "Lantern",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ",
+            "short_description": "A Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks). ",
             "categories": [
                 "web-development"
             ],
             "repo_url": "https://github.com/plan44/localSites",
             "title": "LocalSites",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Npm desktop GUI. ",
+            "short_description": "NPM desktop GUI. ",
             "categories": [
                 "web-development"
             ],
@@ -2475,7 +2561,9 @@
             "repo_url": "https://github.com/vsaravind007/nodeScratchpad",
             "title": "nodeScratchpad",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2498,7 +2586,7 @@
             ]
         },
         {
-            "short_description": "macOS app for monitoring the status of cloud services. ",
+            "short_description": "A macOS app for monitoring the status of cloud services. ",
             "categories": [
                 "web-development"
             ],
@@ -2537,7 +2625,9 @@
             "repo_url": "https://github.com/dcsch/macho-browser",
             "title": "macho-browser",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -2574,7 +2664,9 @@
             "repo_url": "https://github.com/yep/app-downloader",
             "title": "App Downloader",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2588,7 +2680,9 @@
             "repo_url": "https://github.com/Kevin-De-Koninck/Get-It",
             "title": "Get It",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2614,7 +2708,7 @@
             ]
         },
         {
-            "short_description": "macOS Video Downloader written in Swift and Objective-C.",
+            "short_description": "A macOS Video downloader written in Swift and Objective-C.",
             "categories": [
                 "downloader"
             ],
@@ -2632,14 +2726,16 @@
             ]
         },
         {
-            "short_description": "desktop application for downloading Udemy Courses. ",
+            "short_description": "Desktop application for downloading Udemy Courses. ",
             "categories": [
                 "downloader"
             ],
             "repo_url": "https://github.com/FaisalUmair/udemy-downloader-gui",
             "title": "udemy-downloader-gui",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -2662,14 +2758,16 @@
             ]
         },
         {
-            "short_description": "simple CSV editor for the macOS. ",
+            "short_description": "Simple CSV editor for the macOS. ",
             "categories": [
                 "csv"
             ],
             "repo_url": "https://github.com/jakob/TableTool",
             "title": "TableTool",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -2732,7 +2830,9 @@
             "repo_url": "https://github.com/MacDownApp/macdown",
             "title": "MacDown",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -2746,14 +2846,16 @@
             "repo_url": "https://github.com/marktext/marktext/",
             "title": "Mark Text",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "A modern MacOS markdown editor. ",
+            "short_description": "A modern macOS markdown editor. ",
             "categories": [
                 "markdown"
             ],
@@ -2829,7 +2931,9 @@
             "repo_url": "https://github.com/macvim-dev/macvim",
             "title": "MacVim",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c"
@@ -2902,7 +3006,9 @@
             "repo_url": "https://github.com/qvacua/vimr",
             "title": "VimR",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -2950,7 +3056,9 @@
             "repo_url": "https://github.com/bfmatei/PiPTool",
             "title": "PiPTool",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -3014,7 +3122,9 @@
             "repo_url": "https://github.com/hluk/CopyQ",
             "title": "CopyQ",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -3029,14 +3139,16 @@
             "repo_url": "https://github.com/onmyway133/FinderGo",
             "title": "Finder Go",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. ",
+            "short_description": "Execute custom scripts from the macOS context menu (CTRL+click) in Finder. ",
             "categories": [
                 "finder"
             ],
@@ -3076,7 +3188,9 @@
             "repo_url": "https://github.com/wesnoth/wesnoth",
             "title": "Battle for Wesnoth",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -3090,7 +3204,9 @@
             "repo_url": "https://github.com/alunbestor/Boxer",
             "title": "Boxer",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -3105,7 +3221,9 @@
             "repo_url": "https://github.com/dolphin-emu/dolphin",
             "title": "Dolphin",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -3167,7 +3285,9 @@
             "repo_url": "https://github.com/daylen/stockfish-mac",
             "title": "Stockfish",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -3182,7 +3302,9 @@
             "repo_url": "https://github.com/aseprite/aseprite",
             "title": "Aseprite",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -3190,7 +3312,7 @@
             ]
         },
         {
-            "short_description": "Tool to capture screenshot and recognize text by online ocr apis. ",
+            "short_description": "Tool to capture screenshot and recognize text by online OCR APIs. ",
             "categories": [
                 "graphics"
             ],
@@ -3206,7 +3328,7 @@
             ]
         },
         {
-            "short_description": "Gif capture app for macOS. ",
+            "short_description": "GIF capture app for macOS. ",
             "categories": [
                 "graphics"
             ],
@@ -3293,7 +3415,7 @@
             ]
         },
         {
-            "short_description": "Choose your Material colours and copy the hex code. ",
+            "short_description": "Choose your Material colors and copy the hex code. ",
             "categories": [
                 "graphics"
             ],
@@ -3316,7 +3438,9 @@
             "repo_url": "https://github.com/pencil2d/pencil",
             "title": "Pencil2D Animation",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -3347,7 +3471,9 @@
             "repo_url": "https://github.com/gaphor/gaphor",
             "title": "Gaphor",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://gaphor.org",
             "languages": [
                 "python"
@@ -3378,7 +3504,9 @@
             "repo_url": "https://github.com/onivim/oni",
             "title": "Oni",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -3435,21 +3563,23 @@
             ]
         },
         {
-            "short_description": "macOS app which assembles and disassembles animated png files. ",
+            "short_description": "macOS app which assembles and disassembles animated PNG files. ",
             "categories": [
                 "images"
             ],
             "repo_url": "https://github.com/shgodoroja/APNGb",
             "title": "APNGb",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
+            "short_description": "Remove image metadata with drag and drop, multicore batch processing, and dark mode.",
             "categories": [
                 "images"
             ],
@@ -3474,7 +3604,9 @@
             "repo_url": "https://github.com/chrissimpkins/Crunch",
             "title": "Crunch",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -3504,14 +3636,16 @@
             "repo_url": "https://github.com/GNOME/gimp",
             "title": "Gimp",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c"
             ]
         },
         {
-            "short_description": "Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. ",
+            "short_description": "Edit icons and then export to Xcode, icns, ICO, favicon, macOS iconset, or a custom collection. ",
             "categories": [
                 "images",
                 "ios--macos"
@@ -3552,7 +3686,9 @@
             "repo_url": "https://github.com/meowtec/Imagine",
             "title": "Imagine",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "typescript"
@@ -3566,7 +3702,9 @@
             "repo_url": "https://github.com/bluegill/katana",
             "title": "Katana",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -3618,7 +3756,9 @@
             "repo_url": "https://github.com/1000ch/WebPonize",
             "title": "WebPonize",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift",
@@ -3626,14 +3766,16 @@
             ]
         },
         {
-            "short_description": "macOS application for controlling AnnePro keyboard over bluetooth. ",
+            "short_description": "macOS application for controlling AnnePro keyboard over Bluetooth. ",
             "categories": [
                 "keyboard"
             ],
             "repo_url": "https://github.com/msvisser/AnnePro-mac",
             "title": "AnnePro-mac",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -3647,7 +3789,9 @@
             "repo_url": "https://github.com/Pyroh/Fluor",
             "title": "Fluor",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -3661,7 +3805,9 @@
             "repo_url": "https://github.com/yqrashawn/GokuRakuJoudo",
             "title": "GokuRakuJoudo",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "clojure"
@@ -3675,7 +3821,9 @@
             "repo_url": "https://github.com/tekezo/Karabiner",
             "title": "Karabiner",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -3690,7 +3838,9 @@
             "repo_url": "https://github.com/pqrs-org/Karabiner-Elements",
             "title": "Karabiner-Elements",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp",
@@ -3773,14 +3923,16 @@
             "repo_url": "https://github.com/amitmerchant1990/correo",
             "title": "Correo",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "Fast and Simple Email Client.",
+            "short_description": "Fast and simple Email Client.",
             "categories": [
                 "mail"
             ],
@@ -3804,21 +3956,25 @@
             "repo_url": "https://github.com/Foundry376/Mailspring",
             "title": "Mailspring",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://getmailspring.com/",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "Cross Platform messaging and emailing app that combines common web applications into one.",
+            "short_description": "Crossplatform messaging and emailing app that combines common web applications into one.",
             "categories": [
                 "mail"
             ],
             "repo_url": "https://github.com/ramboxapp/community-edition",
             "title": "Rambox",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -3845,21 +4001,23 @@
             ]
         },
         {
-            "short_description": "Status bar Mac application to overcome time constrained WiFi networks. ",
+            "short_description": "Status bar Mac application to overcome time constrained Wi-Fi networks. ",
             "categories": [
                 "menubar"
             ],
             "repo_url": "https://github.com/alvesjtiago/airpass",
             "title": "Airpass",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
         },
         {
-            "short_description": "The missing macOS bluetooth headset battery indicator app.",
+            "short_description": "The missing macOS Bluetooth headset battery indicator app.",
             "categories": [
                 "menubar"
             ],
@@ -3877,20 +4035,20 @@
             ]
         },
         {
-          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
-          "categories": [
-              "menubar"
-          ],
-          "repo_url": "https://github.com/halo/LinkLiar",
-          "title": "LinkLiar",
-          "icon_url": "",
-          "screenshots": [
-             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
-          ],
-          "official_site": "https://halo.github.io/LinkLiar",
-          "languages": [
-              "swift"
-          ]
+            "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/halo/LinkLiar",
+            "title": "LinkLiar",
+            "icon_url": "",
+            "screenshots": [
+                "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+            ],
+            "official_site": "https://halo.github.io/LinkLiar",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "macOS menubar status indicator. ",
@@ -3900,7 +4058,9 @@
             "repo_url": "https://github.com/tonsky/AnyBar",
             "title": "AnyBar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -3914,7 +4074,9 @@
             "repo_url": "https://github.com/matryer/xbar",
             "title": "xbar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -3944,7 +4106,9 @@
             "repo_url": "https://github.com/inderdhir/DatWeatherDoe",
             "title": "DatWeatherDoe",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -3958,7 +4122,9 @@
             "repo_url": "https://github.com/Kwpolska/DisplayMenu",
             "title": "DisplayMenu",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -3972,21 +4138,25 @@
             "repo_url": "https://github.com/CodySchrank/gSwitch",
             "title": "gSwitch",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. ",
+            "short_description": "macOS System Monitor (CPU, memory, network, fan and battery) for the Status Bar. ",
             "categories": [
                 "menubar"
             ],
             "repo_url": "https://github.com/iglance/iGlance",
             "title": "iGlance",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4017,7 +4187,9 @@
             "repo_url": "https://github.com/lucasbento/menubar-brightness",
             "title": "Menubar Brightness",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -4031,7 +4203,9 @@
             "repo_url": "https://github.com/yujitach/MenuMeters",
             "title": "MenuMeters",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4061,14 +4235,16 @@
             "repo_url": "https://github.com/nikhilsh/PSIBar",
             "title": "PSIBar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "A mac menu bar app that provides note taking functionality though a quick dropdown menu. ",
+            "short_description": "A mac menu bar app that provides note-taking functionality though a quick dropdown menu. ",
             "categories": [
                 "menubar"
             ],
@@ -4091,7 +4267,9 @@
             "repo_url": "https://github.com/archagon/sensible-side-buttons",
             "title": "SensibleSideButtons",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -4115,7 +4293,7 @@
             ]
         },
         {
-            "short_description": "Is an easy to use, open-source, native colour picker for macOS.",
+            "short_description": "Is an easy to use, open-source, native color picker for macOS.",
             "categories": [
                 "menubar",
                 "utilities"
@@ -4157,7 +4335,9 @@
             "repo_url": "https://github.com/swiftbar/SwiftBar",
             "title": "SwiftBar",
             "icon_url": "https://swiftbar.app/images/icon.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://swiftbar.app",
             "languages": [
                 "swift"
@@ -4171,7 +4351,9 @@
             "repo_url": "https://github.com/AnaghSharma/Carol",
             "title": "Carol",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c_sharp"
@@ -4185,7 +4367,9 @@
             "repo_url": "https://github.com/cemolcay/ChordDetector",
             "title": "ChordDetector",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4199,14 +4383,16 @@
             "repo_url": "https://github.com/imanel/deezplayer",
             "title": "DeezPlayer",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "coffee_script"
             ]
         },
         {
-            "short_description": "macOS app to visualise your iTunes library as graphs. ",
+            "short_description": "macOS app to visualize your iTunes library as graphs. ",
             "categories": [
                 "music"
             ],
@@ -4331,7 +4517,9 @@
             "repo_url": "https://github.com/Ranchero-Software/NetNewsWire",
             "title": "NetNewsWire",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4345,7 +4533,9 @@
             "repo_url": "https://github.com/ViennaRSS/vienna-rss",
             "title": "Vienna",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4368,14 +4558,16 @@
             ]
         },
         {
-            "short_description": "Little app that you can use as a quick note taking or todo app.",
+            "short_description": "Little app that you can use as a quick note-taking or to-do app.",
             "categories": [
                 "notes"
             ],
             "repo_url": "https://github.com/Kilian/fromscratch",
             "title": "FromScratch",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -4407,7 +4599,9 @@
             "repo_url": "https://github.com/laurent22/joplin",
             "title": "joplin",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -4421,14 +4615,16 @@
             "repo_url": "https://github.com/tuxu/nbviewer-app",
             "title": "Jupyter Notebook Viewer",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Simple note taking application. ",
+            "short_description": "Simple note-taking application. ",
             "categories": [
                 "notes"
             ],
@@ -4457,14 +4653,16 @@
             "repo_url": "https://github.com/SauvageP/Notes",
             "title": "Notes",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
             ]
         },
         {
-            "short_description": "Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. ",
+            "short_description": "Simple note-taking app for macOS and iOS which uses Realm and CloudKit for syncing. ",
             "categories": [
                 "notes"
             ],
@@ -4503,7 +4701,9 @@
             "repo_url": "https://github.com/standardnotes/web",
             "title": "Standard Notes",
             "icon_url": "",
-            "screenshots": [    ],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -4534,7 +4734,9 @@
             "repo_url": "https://github.com/klaussinani/tusk",
             "title": "Tusk",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -4542,7 +4744,7 @@
             ]
         },
         {
-            "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+            "short_description": "Plain-text file notepad and to-do list manager with markdown support and ownCloud / Nextcloud integration.",
             "categories": [
                 "markdown",
                 "notes",
@@ -4599,7 +4801,9 @@
             "repo_url": "https://github.com/2ndalpha/gasmask",
             "title": "Gas Mask",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4613,7 +4817,9 @@
             "repo_url": "https://github.com/specialunderwear/Hosts.prefpane",
             "title": "Hosts",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4627,7 +4833,9 @@
             "repo_url": "https://github.com/ImageOptim/ImageOptim",
             "title": "ImageOptim",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4657,7 +4865,9 @@
             "repo_url": "https://github.com/hackjutsu/Lepton",
             "title": "Lepton",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -4671,7 +4881,9 @@
             "repo_url": "https://github.com/Bunn/macGist",
             "title": "macGist",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4685,7 +4897,9 @@
             "repo_url": "https://github.com/sveinbjornt/Platypus",
             "title": "Platypus",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4699,7 +4913,9 @@
             "repo_url": "https://github.com/goktugyil/QorumLogs",
             "title": "QorumLogs",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4729,7 +4945,9 @@
             "repo_url": "https://github.com/infinitered/reactotron",
             "title": "Reactotron",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -4760,7 +4978,9 @@
             "repo_url": "https://github.com/gosu/ruby-app",
             "title": "Ruby.app",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "ruby"
@@ -4790,7 +5010,9 @@
             "repo_url": "https://github.com/SwiftyBeaver/SwiftyBeaver",
             "title": "SwiftyBeaver",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4837,7 +5059,9 @@
             "repo_url": "https://github.com/jeffhodnett/Unused",
             "title": "Unused",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -4883,7 +5107,9 @@
             "repo_url": "https://github.com/muammar/mkchromecast",
             "title": "mkchromecast",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -4897,7 +5123,9 @@
             "repo_url": "https://github.com/insidegui/PodcastMenu",
             "title": "PodcastMenu",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -4943,7 +5171,9 @@
             "repo_url": "https://github.com/klaussinani/ao",
             "title": "Ao",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -4958,7 +5188,9 @@
             "repo_url": "https://github.com/KELiON/cerebro",
             "title": "Cerebro",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -4988,7 +5220,9 @@
             "repo_url": "https://github.com/n0shake/Clocker",
             "title": "Clocker",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5002,7 +5236,9 @@
             "repo_url": "https://github.com/dustinrue/ControlPlane",
             "title": "ControlPlane",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5016,7 +5252,9 @@
             "repo_url": "https://github.com/TermiT/flycut",
             "title": "Flycut",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5046,7 +5284,9 @@
             "repo_url": "https://github.com/Clipy/KeyHolder",
             "title": "KeyHolder",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5060,7 +5300,9 @@
             "repo_url": "https://github.com/kiwix/apple",
             "title": "Kiwix",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5106,7 +5348,9 @@
             "repo_url": "https://github.com/shubhambatra3019/macOrganizer",
             "title": "macOrganizer",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5120,7 +5364,9 @@
             "repo_url": "https://github.com/hql287/Manta",
             "title": "Manta",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -5151,7 +5397,9 @@
             "repo_url": "https://github.com/PDF-Archiver/PDF-Archiver",
             "title": "PDF Archiver",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5165,7 +5413,9 @@
             "repo_url": "https://github.com/quicksilver/Quicksilver",
             "title": "Quicksilver",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5196,14 +5446,16 @@
             "repo_url": "https://github.com/SelfControlApp/selfcontrol",
             "title": "SelfControl",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
             ]
         },
         {
-            "short_description": "Simple macOS app to keep TODO-list in status bar. ",
+            "short_description": "Simple macOS app to keep to-do list in status bar. ",
             "categories": [
                 "productivity"
             ],
@@ -5226,7 +5478,9 @@
             "repo_url": "https://github.com/hovancik/stretchly",
             "title": "stretchly",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -5240,7 +5494,9 @@
             "repo_url": "https://github.com/joaomoreno/thyme",
             "title": "Thyme",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5290,7 +5546,9 @@
             "repo_url": "https://github.com/toggl-open-source/toggldesktop",
             "title": "Toggl Desktop",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -5304,7 +5562,9 @@
             "repo_url": "https://github.com/jlong/TrelloApp",
             "title": "TrelloApp",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5351,7 +5611,9 @@
             "repo_url": "https://github.com/sendyhalim/Yomu",
             "title": "Yomu",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5403,7 +5665,9 @@
             "repo_url": "https://github.com/ved62/Image-As-Wallpaper",
             "title": "Image-As-Wallpaper",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5468,7 +5732,9 @@
             "repo_url": "https://github.com/objective-see/LuLu",
             "title": "LuLu",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5499,7 +5765,9 @@
             "repo_url": "https://github.com/deluge-torrent/deluge",
             "title": "Deluge",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -5513,7 +5781,9 @@
             "repo_url": "https://github.com/mileswd/mac2imgur",
             "title": "mac2imgur",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5527,7 +5797,9 @@
             "repo_url": "https://github.com/nitroshare/nitroshare-desktop",
             "title": "NitroShare",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://nitroshare.net",
             "languages": [
                 "cpp"
@@ -5541,7 +5813,9 @@
             "repo_url": "https://github.com/qbittorrent/qBittorrent",
             "title": "qBittorrent",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -5555,7 +5829,9 @@
             "repo_url": "https://github.com/timonus/Rhea",
             "title": "Rhea",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5569,7 +5845,9 @@
             "repo_url": "https://github.com/transmission/transmission",
             "title": "Transmission",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -5584,7 +5862,9 @@
             "repo_url": "https://github.com/Tribler/tribler",
             "title": "Tribler",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -5598,7 +5878,9 @@
             "repo_url": "https://github.com/sindresorhus/caprine#features",
             "title": "Caprine",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -5613,7 +5895,9 @@
             "repo_url": "https://github.com/danielbuechele/goofy",
             "title": "Goofy",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -5627,7 +5911,9 @@
             "repo_url": "https://github.com/Swiftodon/Leviathan",
             "title": "Leviathan",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5657,7 +5943,9 @@
             "repo_url": "https://github.com/producthunt/producthunt-osx",
             "title": "Product Hunt",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5687,7 +5975,9 @@
             "repo_url": "https://github.com/terkelg/ramme",
             "title": "Ramme",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -5735,7 +6025,9 @@
             "repo_url": "https://github.com/michealparks/galeri",
             "title": "Galeri",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -5749,7 +6041,9 @@
             "repo_url": "https://github.com/obsproject/obs-studio",
             "title": "OBS Studio",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://obsproject.com/",
             "languages": [
                 "cpp"
@@ -5834,7 +6128,9 @@
             "repo_url": "https://github.com/Eun/DisableMonitor",
             "title": "DisableMonitor",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5848,7 +6144,9 @@
             "repo_url": "https://github.com/etresoft/EtreCheck",
             "title": "EtreCheck",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -5878,7 +6176,9 @@
             "repo_url": "https://github.com/jwise/HoRNDIS",
             "title": "HoRNDIS",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -5957,7 +6257,9 @@
             "repo_url": "https://github.com/KrauseFx/overkill-for-mac",
             "title": "Overkill",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6005,7 +6307,9 @@
             "repo_url": "https://github.com/rugarciap/Turbo-Boost-Switcher",
             "title": "Turbo Boost Switcher",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6051,7 +6355,9 @@
             "repo_url": "https://github.com/ishuah/bifrost",
             "title": "Bifrost",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "go"
@@ -6098,7 +6404,9 @@
             "repo_url": "https://github.com/gnachman/iTerm2",
             "title": "iTerm 2",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6112,7 +6420,9 @@
             "repo_url": "https://github.com/kovidgoyal/kitty",
             "title": "Kitty",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python",
@@ -6127,7 +6437,9 @@
             "repo_url": "https://github.com/es-kumagai/OpenTerminal",
             "title": "OpenTerminal",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6141,7 +6453,9 @@
             "repo_url": "https://github.com/mczachurski/wallpapper",
             "title": "wallpapper",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6175,7 +6489,9 @@
             "repo_url": "https://github.com/beardedspice/beardedspice",
             "title": "BeardedSpice",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6205,7 +6521,9 @@
             "repo_url": "https://github.com/mipstian/catch/",
             "title": "Catch",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6254,7 +6572,9 @@
             "repo_url": "https://github.com/josejuanqm/ECheck",
             "title": "ECheck",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6268,7 +6588,9 @@
             "repo_url": "https://github.com/zenangst/Gray",
             "title": "Gray",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6300,7 +6622,9 @@
             "repo_url": "https://github.com/wulkano/kap",
             "title": "Kap",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6314,7 +6638,9 @@
             "repo_url": "https://github.com/keepassxreboot/keepassxc",
             "title": "KeePassXC",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -6328,7 +6654,9 @@
             "repo_url": "https://github.com/keeweb/keeweb",
             "title": "KeeWeb",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6342,7 +6670,9 @@
             "repo_url": "https://github.com/vishaltelangre/Kyapchar",
             "title": "Kyapchar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6374,7 +6704,9 @@
             "repo_url": "https://github.com/alin23/lunar",
             "title": "Lunar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6420,7 +6752,9 @@
             "repo_url": "https://github.com/shincurry/Maria",
             "title": "Maria",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6434,7 +6768,9 @@
             "repo_url": "https://github.com/MemeMaker/Meme-Maker-Mac",
             "title": "Meme Maker",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6464,7 +6800,9 @@
             "repo_url": "https://github.com/Caldis/Mos",
             "title": "Mos",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6478,7 +6816,9 @@
             "repo_url": "https://github.com/jariz/Noti/",
             "title": "Noti",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6492,7 +6832,9 @@
             "repo_url": "https://github.com/padloc/padloc",
             "title": "Padlock",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6560,7 +6902,9 @@
             "repo_url": "https://github.com/cemolcay/PercentCalculator",
             "title": "PercentCalculator",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6574,7 +6918,9 @@
             "repo_url": "https://github.com/maxogden/screencat",
             "title": "ScreenCat",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -6589,7 +6935,9 @@
             "repo_url": "https://github.com/dteoh/SlowQuitApps",
             "title": "SlowQuitApps",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6603,7 +6951,9 @@
             "repo_url": "https://github.com/64characters/Telephone",
             "title": "Telephone",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -6618,7 +6968,9 @@
             "repo_url": "https://github.com/blockstack/blockstack-browser",
             "title": "The Blockstack Browser",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6632,7 +6984,9 @@
             "repo_url": "https://github.com/zenangst/ToTheTop",
             "title": "ToTheTop",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6646,7 +7000,9 @@
             "repo_url": "https://github.com/felixhageloh/uebersicht",
             "title": "Übersicht",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6660,7 +7016,9 @@
             "repo_url": "https://github.com/yichengchen/clashX",
             "title": "clashX",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6674,7 +7032,9 @@
             "repo_url": "https://github.com/riboseinc/cryptode-mac",
             "title": "rvc-mac",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6688,7 +7048,9 @@
             "repo_url": "https://github.com/shadowsocks/ShadowsocksX-NG",
             "title": "ShadowsocksX-NG",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6718,7 +7080,9 @@
             "repo_url": "https://github.com/zhuhaow/SpechtLite",
             "title": "SpechtLite",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6732,7 +7096,9 @@
             "repo_url": "https://github.com/Tunnelblick/Tunnelblick",
             "title": "Tunnelblick",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6746,7 +7112,9 @@
             "repo_url": "https://github.com/lostjared/Acid.Cam.v2.OSX",
             "title": "Acid.Cam.v2.OSX",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -6760,7 +7128,9 @@
             "repo_url": "https://github.com/insidegui/AppleEvents",
             "title": "AppleEvents",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6807,7 +7177,9 @@
             "repo_url": "https://github.com/willamowius/gnugk",
             "title": "GNU Gatekeeper",
             "icon_url": "https://avatars2.githubusercontent.com/u/6840544?s=460&v=4",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.gnugk.org",
             "languages": [
                 "cpp"
@@ -6821,7 +7193,9 @@
             "repo_url": "https://github.com/vdel26/gifted",
             "title": "Gifted",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6835,7 +7209,9 @@
             "repo_url": "https://github.com/videolan/vlc",
             "title": "VLC",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.videolan.org/vlc/",
             "languages": [
                 "c"
@@ -6849,7 +7225,9 @@
             "repo_url": "https://github.com/HandBrake/HandBrake",
             "title": "HandBrake",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c"
@@ -6863,7 +7241,9 @@
             "repo_url": "https://github.com/edanchenkov/MenuTube",
             "title": "MenuTube",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6877,7 +7257,9 @@
             "repo_url": "https://github.com/OpenShot/openshot-qt",
             "title": "OpenShot",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -6891,7 +7273,9 @@
             "repo_url": "https://github.com/Marginal/QLVideo",
             "title": "QuickLook Video",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -6905,7 +7289,9 @@
             "repo_url": "https://bitbucket.org/galad87/subler/src",
             "title": "Subler",
             "icon_url": "https://subler.org/images/Subler.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://subler.org",
             "languages": [
                 "objective_c"
@@ -6919,7 +7305,9 @@
             "repo_url": "https://github.com/sahil-a/vidquizcreator",
             "title": "Vid Quiz Creator",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -6951,7 +7339,9 @@
             "repo_url": "https://github.com/whoisandy/yoda",
             "title": "Yoda",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "javascript"
@@ -6965,7 +7355,9 @@
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
             "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://iina.io",
             "languages": [
                 "swift"
@@ -7012,7 +7404,9 @@
             "repo_url": "https://github.com/niltsh/MPlayerX",
             "title": "MPlayerX",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7042,7 +7436,9 @@
             "repo_url": "https://github.com/Kevin-De-Koninck/Sub-It",
             "title": "Sub-It",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7056,7 +7452,9 @@
             "repo_url": "https://github.com/lucijafrkovic/Subtitlr/tree/master",
             "title": "Subtitlr",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7070,7 +7468,9 @@
             "repo_url": "https://github.com/markcheeky/500-mac-wallpaper",
             "title": "500-mac-wallpaper",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7103,7 +7503,9 @@
             "repo_url": "https://github.com/JustinFincher/ASWP-for-macOS",
             "title": "ArtWall",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7134,7 +7536,9 @@
             "repo_url": "https://github.com/VioletGiraffe/desktop-wallpaper-switcher",
             "title": "Desktop Wallpaper Switcher",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "cpp"
@@ -7148,7 +7552,9 @@
             "repo_url": "https://github.com/IngoMeyer441/pyDailyChanger",
             "title": "pyDailyChanger",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "python"
@@ -7162,7 +7568,9 @@
             "repo_url": "https://github.com/naman14/Muzei-macOS",
             "title": "Muzei",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7208,7 +7616,9 @@
             "repo_url": "https://github.com/diogosantos/WallpaperMenu",
             "title": "WallpaperMenu",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "ruby"
@@ -7274,7 +7684,9 @@
             "repo_url": "https://github.com/Hammerspoon/hammerspoon",
             "title": "Hammerspoon",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "lua",
@@ -7323,7 +7735,9 @@
             "repo_url": "https://github.com/jigish/slate",
             "title": "Slate",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7337,7 +7751,9 @@
             "repo_url": "https://github.com/eczarny/spectacle",
             "title": "Spectacle",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7406,7 +7822,9 @@
             "repo_url": "https://github.com/thecatalinstan/Funky",
             "title": "Funky",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7538,7 +7956,9 @@
             "repo_url": "https://github.com/jbtule/cdto",
             "title": "cd to... ",
             "icon_url": "https://camo.githubusercontent.com/6bb146cdbf2dc86f51291252a023706f54187374/68747470733a2f2f7261772e6769746875622e636f6d2f6a6274756c652f6364746f2f6d61737465722f67726170686963732f6c696f6e2e706e67",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
@@ -7684,7 +8104,7 @@
             ]
         },
         {
-            "short_description": "Hide MacOS menubar items.",
+            "short_description": "Hide macOS menubar items.",
             "categories": [
                 "menubar"
             ],
@@ -7773,7 +8193,9 @@
             "repo_url": "https://github.com/ExistentialAudio/BlackHole",
             "title": "BlackHole",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "c"
@@ -7787,7 +8209,9 @@
             "repo_url": "https://bitbucket.org/losnoco/cog/src",
             "title": "Cog",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://cogx.org/",
             "languages": [
                 "objective_c"
@@ -7801,7 +8225,9 @@
             "repo_url": "https://github.com/jhspetersson/fselect",
             "title": "fselect",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "rust"
@@ -7815,7 +8241,9 @@
             "repo_url": "https://github.com/livecode/livecode",
             "title": "LiveCode",
             "icon_url": "https://livecode.com/wp-content/uploads/2016/05/newdarklogo.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://livecode.org/",
             "languages": [
                 "c"
@@ -7829,7 +8257,9 @@
             "repo_url": "https://github.com/ivoronin/TomatoBar",
             "title": "TomatoBar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7843,7 +8273,9 @@
             "repo_url": "https://github.com/ivoronin/ArchiveMounter",
             "title": "ArchiveMounter",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7857,7 +8289,9 @@
             "repo_url": "https://github.com/powershell/powershell",
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
             "languages": [
                 "c_sharp"
@@ -7871,7 +8305,9 @@
             "repo_url": "https://github.com/cryptomator/cryptomator",
             "title": "Cryptomator",
             "icon_url": "https://raw.githubusercontent.com/cryptomator/cryptomator/develop/cryptomator.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
@@ -7905,7 +8341,9 @@
             "repo_url": "https://github.com/spotter-application/spotter",
             "title": "Spotter",
             "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "typescript",
@@ -7921,7 +8359,9 @@
             "repo_url": "https://github.com/varol/Calculeta",
             "title": "Calculeta",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7953,7 +8393,9 @@
             "repo_url": "https://github.com/jeromelebel/MongoHub-Mac",
             "title": "MongoHub",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "objective_c",
@@ -8121,7 +8563,7 @@
             ]
         },
         {
-            "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
+            "short_description": "Replacement for macOS' volume, brightness and keyboard backlight HUDs.",
             "categories": [
                 "menubar",
                 "system",
@@ -8349,7 +8791,9 @@
             "repo_url": "https://github.com/insidegui/NoiseBuddy",
             "title": "NoiseBuddy",
             "icon_url": "https://raw.githubusercontent.com/insidegui/NoiseBuddy/master/screenshots/NoiseBuddyIcon.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8412,7 +8856,7 @@
             ]
         },
         {
-            "short_description": "An ultra-light MacOS utility that helps hide menu bar icons",
+            "short_description": "An ultra-light macOS utility that helps hide menu bar icons",
             "categories": [
                 "menubar"
             ],
@@ -8520,7 +8964,9 @@
             "repo_url": "https://github.com/subhra74/xdm",
             "title": "Extream Download Manager",
             "icon_url": "https://github.com/subhra74/xdm/blob/master/app/src/main/resources/icons/xhdpi/icon.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://subhra74.github.io/xdm/",
             "languages": [
                 "java"
@@ -8602,7 +9048,9 @@
             "repo_url": "https://chromium.googlesource.com/chromium/src/",
             "title": "Chromium",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.chromium.org/",
             "languages": [
                 "javascript",
@@ -8615,7 +9063,9 @@
             "official_site": "",
             "title": "osagitfilter",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "short_description": "Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.",
             "languages": [
                 "shell",
@@ -8761,8 +9211,8 @@
             "title": "linked",
             "icon_url": "https://github.com/lostdesign/linked/blob/master/appIcon/icon.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
-               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+                "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+                "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
             ],
             "official_site": "https://uselinked.com",
             "languages": [
@@ -8905,7 +9355,9 @@
             "repo_url": "https://github.com/soduto/Soduto",
             "title": "Soduto",
             "icon_url": "https://soduto.com/images/site-logo.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://soduto.com/",
             "languages": [
                 "swift",
@@ -9112,7 +9564,7 @@
                 "c",
                 "cpp",
                 "python"
-             ]
+            ]
         },
         {
             "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
@@ -9164,14 +9616,14 @@
             "title": "DropPoint",
             "icon_url": "https://raw.githubusercontent.com/GameGodS3/DropPoint/main/static/media/pngLogo/droppoint%405x.png",
             "screenshots": [
-               "https://i.imgur.com/QkUPoOb.gif",
-               "https://i.imgur.com/WElktc0.gif"
+                "https://i.imgur.com/QkUPoOb.gif",
+                "https://i.imgur.com/WElktc0.gif"
             ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9181,7 +9633,7 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecadweb.org/images/feature-03.jpg"
+                "https://www.freecadweb.org/images/feature-03.jpg"
             ],
             "official_site": "https://www.freecadweb.org/",
             "languages": [
@@ -9198,7 +9650,7 @@
             "title": "Inkscape",
             "icon_url": "https://inkscape.org/",
             "screenshots": [
-               "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
+                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
             "official_site": "https://inkscape.org/",
             "languages": [
@@ -9214,7 +9666,7 @@
             "title": "IntelliJ IDEA Community Edition",
             "icon_url": "",
             "screenshots": [
-               "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
+                "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
             ],
             "official_site": "https://www.jetbrains.com/idea/",
             "languages": [
@@ -9229,7 +9681,9 @@
             "repo_url": "https://gitlab.com/kicad/code/kicad",
             "title": "KiCad",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://www.kicad.org/",
             "languages": [
                 "cpp",
@@ -9245,7 +9699,9 @@
             "repo_url": "https://github.com/arsenetar/dupeguru/",
             "title": "dupeGuru",
             "icon_url": "https://raw.githubusercontent.com/arsenetar/dupeguru/master/images/dgse_logo_128.png",
-            "screenshots": [],
+            "screenshots": [
+
+            ],
             "official_site": "https://dupeguru.voltaicideas.net/",
             "languages": [
                 "objective_c"
