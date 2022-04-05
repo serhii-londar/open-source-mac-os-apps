@@ -9267,6 +9267,24 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "Quick note taking in your menu bar",
+            "categories": [
+                "notes",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/MenuNote/menunote",
+            "title": "MenuNote",
+            "icon_url": "https://menunote.app/assets/icon.png",
+            "screenshots": [
+                "https://github.com/MenuNote/menunote/blob/main/examples/edit%20note%20window.png?raw=true",
+                "https://github.com/MenuNote/menunote/blob/main/examples/menu%20bar%20text.png?raw=true"
+            ],
+            "official_site": "https://menunote.app",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
