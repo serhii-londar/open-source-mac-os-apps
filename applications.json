@@ -9267,6 +9267,24 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "Beautiful calculator app for macOS",
+            "categories": [
+                "utilities",
+                "productivity",
+                "other"
+            ],
+            "repo_url": "https://github.com/nikolaeu/numi",
+            "title": "Numi",
+            "icon_url": "",
+            "screenshots": [
+                "https://camo.githubusercontent.com/8ae63f55d6518e83f9b5782eda1b5d998c5d86313a594ded060a26d4442d9a3d/68747470733a2f2f6e756d692e6170702f696d616765732f6e756d692d73637265656e73686f742d79656c6c6f772e706e67"
+            ],
+            "official_site": "https://numi.app/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
