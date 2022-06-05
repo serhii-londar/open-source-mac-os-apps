@@ -9249,6 +9249,24 @@
             "languages": [
                 "java"
             ]
+        },
+            {
+            "short_description": Onionshare: Share files anonymously over TOR,
+            "categories": [
+                Productivity,
+                Sharing Files
+            ],
+            "repo_url": https://github.com/onionshare/onionshare,
+            "title": Onionshare,
+            "icon_url": http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/assets/logo/onionshare-logo-lm.png,
+            "screenshots": [
+               http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/assets/features/receive-lm.png,
+               http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/assets/features/chat-lm.png
+            ],
+            "official_site": https://onionshare.org/,
+            "languages": [
+                "Python"
+            ]
         }
     ]
 }
