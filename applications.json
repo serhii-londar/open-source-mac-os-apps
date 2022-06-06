@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+            "short_description": "Find and install macOS apps from Homebrew Cask and Fairground App catalogs.",
+            "categories": [
+                "downloader",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/App-Fair/App",
+            "title": "App Fair",
+            "icon_url": "https://github.com/App-Fair/App/releases/latest/download/App-Fair.png",
+            "screenshots": [
+                "https://appfair.app/screenshots/screen1.png",
+                "https://appfair.app/screenshots/screen2.png",
+                "https://appfair.app/screenshots/screen3.png"
+            ],
+            "official_site": "https://appfair.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
