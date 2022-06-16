@@ -9249,6 +9249,24 @@
             "languages": [
                 "java"
             ]
-        }
+        },
+        {
+            "short_description": "Todo list with stopwatch on each task.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Yadro/time-tracker",
+            "title": "time-tracker",
+            "icon_url": "https://github.com/Yadro/time-tracker/blob/add99f24ae659e8c1ac0cbe1f11255327e97a96a/assets/icons/512x512.png",
+            "screenshots": [
+               "https://github.com/Yadro/time-tracker/blob/add99f24ae659e8c1ac0cbe1f11255327e97a96a/.github/tt-projects.png",
+               "https://github.com/Yadro/time-tracker/blob/1e8861dbebddb0230e09812c8e41813143aee0fa/.github/tt-edit-project.png",
+               "https://github.com/Yadro/time-tracker/blob/41786ef0484da6809e39fa47e17474806c0d47b2/.github/tt-hours.png"
+            ],
+            "official_site": "https://github.com/Yadro/time-tracker",
+            "languages": [
+                "typescript"
+            ]
+        },
     ]
 }
