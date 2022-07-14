@@ -715,7 +715,7 @@
             ]
         },
         {
-            "short_description": "Tiny multiprocessing utility for file backups",
+            "short_description": "Tiny multiprocessing utility for file backups.",
             "categories": [
                 "backup"
             ],
