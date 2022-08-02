@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "A lightweight application to prevent keypress by mistake",
+            "categories": [
+                "keyboard",
+                "ios--macos"
+            ],
+            "repo_url": "http://github.com/tkgka/switcher",
+            "title": "Switcher",
+            "icon_url": "URL to application icon",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/52348220/174285638-b2296656-beaa-4e7c-8352-2d05af2eeb7f.png",
+               "https://user-images.githubusercontent.com/52348220/150669417-04c33fc1-5780-4627-abf4-359eaa5a333c.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
