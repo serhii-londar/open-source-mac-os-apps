@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "Encrypted & Decentralized Email. Skiff Mail gives you access to Skiff Workspace, a fully end-to-end encrypted productivity suite.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/skiff-org/skiff-mail",
+            "title": "Skiff Mail",
+            "icon_url": "https://avatars.githubusercontent.com/u/80722586?s=200&v=4",
+            "screenshots": [
+               "https://user-images.githubusercontent.com/1927690/166291826-bf21933f-f637-4756-9951-ac5a1e69be0f.png",
+               "https://user-images.githubusercontent.com/1927690/166390238-fe78fedd-41c6-48ee-a4c5-efcb3f1cfa78.png",
+               "https://raw.githubusercontent.com/skiff-org/skiff-org.github.io/main/assets/updates/Page_Redesign_V2.jpeg",
+               "https://raw.githubusercontent.com/skiff-org/skiff-org.github.io/main/assets/updates/mobile_v2.png"
+            ],
+            "official_site": "https://skiff.com/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
