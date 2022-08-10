@@ -9668,6 +9668,23 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+            "short_description": "TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/amebalabs/TRex",
+            "title": "TRex",
+            "icon_url": "https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/screenshot.png",
+                "https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/demo.gif"
+            ],
+            "official_site": "https://trex.ameba.co/",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
