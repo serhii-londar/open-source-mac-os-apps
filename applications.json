@@ -2804,6 +2804,22 @@
             ]
         },
         {
+            "short_description": "Lightweight Code Editor (IDE) for macOS. ",
+            "categories": [
+                "text"
+            ],
+            "repo_url": "https://github.com/AuroraEditor/AuroraEditor",
+            "title": "AuroraEditor",
+            "icon_url": "https://avatars.githubusercontent.com/u/106490518",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/63672227/187914690-2277654c-6cab-4738-b151-1c85947bea8b.jpg"
+            ],
+            "official_site": "https://auroraeditor.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Text editor for macOS. ",
             "categories": [
                 "text"
