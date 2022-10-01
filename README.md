@@ -408,6 +408,7 @@ You can see in which language an app is written. Currently there are following l
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor ![C_icon] ![Vim script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![typescript_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.  ![lua_icon] 
+- [Eclipse](https://www.eclipse.org) - The most popular Java IDE for Java Development ![java_icon] 
 
 ### Images
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.  ![swift_icon] 
