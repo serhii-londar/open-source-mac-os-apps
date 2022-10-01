@@ -6649,6 +6649,20 @@
             ]
         },
         {
+            "short_description": "IVPN for iOS is a native app built using Swift language. Some of the features include: multiple protocols (IKEv2, OpenVPN, WireGuard), Kill-switch, Multi-Hop, Trusted Networks, AntiTracker, Custom DNS, Dark mode and more.",
+            "categories": [
+                "vpn--proxy"
+            ],
+            "repo_url": "https://github.com/ivpn/ios-app",
+            "title": "ivpn",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.ivpn.net/apps-macos",
+            "languages": [
+                "swift"
+            ]
+        },        
+        {
             "short_description": "Ribose VPN Client macOS Menu App. ",
             "categories": [
                 "vpn--proxy"
