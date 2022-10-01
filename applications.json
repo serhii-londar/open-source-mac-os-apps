@@ -9153,7 +9153,7 @@
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9248,6 +9248,23 @@
             "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Simple SQL Client for lightweight data analysis.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/bdash-app/bdash",
+            "title": "Bdash",
+            "icon_url": "https://github.com/bdash-app/bdash/blob/master/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture1.png",
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
             ]
         }
     ]
