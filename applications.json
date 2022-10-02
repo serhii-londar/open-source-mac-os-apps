@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "short_description": "A desktop application for creating invoices with beautiful and customizable templates.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AndresMorelos/Invoncify",
+            "title": "Invoncify",
+            "icon_url": "https://raw.githubusercontent.com/AndresMorelos/Invoncify/main/static/imgs/default_logo.svg",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
@@ -3859,20 +3873,20 @@
             ]
         },
         {
-          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
-          "categories": [
-              "menubar"
-          ],
-          "repo_url": "https://github.com/halo/LinkLiar",
-          "title": "LinkLiar",
-          "icon_url": "",
-          "screenshots": [
-             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
-          ],
-          "official_site": "https://halo.github.io/LinkLiar",
-          "languages": [
-              "swift"
-          ]
+            "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/halo/LinkLiar",
+            "title": "LinkLiar",
+            "icon_url": "",
+            "screenshots": [
+                "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+            ],
+            "official_site": "https://halo.github.io/LinkLiar",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "macOS menubar status indicator. ",
@@ -4485,7 +4499,7 @@
             "repo_url": "https://github.com/standardnotes/web",
             "title": "Standard Notes",
             "icon_url": "",
-            "screenshots": [    ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -8743,8 +8757,8 @@
             "title": "linked",
             "icon_url": "https://github.com/lostdesign/linked/blob/master/appIcon/icon.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
-               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+                "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+                "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
             ],
             "official_site": "https://uselinked.com",
             "languages": [
@@ -9094,7 +9108,7 @@
                 "c",
                 "cpp",
                 "python"
-             ]
+            ]
         },
         {
             "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
@@ -9146,14 +9160,14 @@
             "title": "DropPoint",
             "icon_url": "https://raw.githubusercontent.com/GameGodS3/DropPoint/main/static/media/pngLogo/droppoint%405x.png",
             "screenshots": [
-               "https://i.imgur.com/QkUPoOb.gif",
-               "https://i.imgur.com/WElktc0.gif"
+                "https://i.imgur.com/QkUPoOb.gif",
+                "https://i.imgur.com/WElktc0.gif"
             ],
             "official_site": "",
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9163,7 +9177,7 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecadweb.org/images/feature-03.jpg"
+                "https://www.freecadweb.org/images/feature-03.jpg"
             ],
             "official_site": "https://www.freecadweb.org/",
             "languages": [
@@ -9180,7 +9194,7 @@
             "title": "Inkscape",
             "icon_url": "https://inkscape.org/",
             "screenshots": [
-               "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
+                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
             "official_site": "https://inkscape.org/",
             "languages": [
@@ -9196,7 +9210,7 @@
             "title": "IntelliJ IDEA Community Edition",
             "icon_url": "",
             "screenshots": [
-               "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
+                "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
             ],
             "official_site": "https://www.jetbrains.com/idea/",
             "languages": [
