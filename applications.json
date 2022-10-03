@@ -9240,7 +9240,7 @@
             ],
             "repo_url": "https://github.com/iterate-ch/cyberduck",
             "title": "Cyberduck",
-            "icon_url": "https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png",
+            "icon_url": "",
             "screenshots": [
                 "https://cdn.cyberduck.io/img/mac/browser-bookmarks.png",
                 "https://cdn.cyberduck.io/img/mac/browser.png"
@@ -9248,6 +9248,21 @@
             "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
+            "title": "Wireshark",
+            "icon_url": "https://gitlab.com/wireshark/wireshark/-/blob/master/docbook/wsdg_graphics/ws-logo.png",
+            "screenshots": [],
+            "official_site": "https://www.wireshark.org/",
+            "languages": [
+                "c",
+                "c++"
             ]
         }
     ]
