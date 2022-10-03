@@ -1,5 +1,21 @@
 {
     "applications": [
+           {
+            "short_description": "Keka is a full featured file archiver, as easy as it can be.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/aonez/Keka",
+            "title": "Keka",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.keka.io/img/Keka-Square-512x512.png"
+            ],
+            "official_site": "https://keka.io",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
