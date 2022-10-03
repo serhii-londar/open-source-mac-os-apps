@@ -720,6 +720,7 @@ You can see in which language an app is written. Currently there are following l
 - [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
 
 ### Utilities
+- [Keka](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift_icon]
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images. ![swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 
