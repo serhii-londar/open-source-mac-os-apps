@@ -132,6 +132,7 @@ You can see in which language an app is written. Currently there are following l
 - [jmc](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.  ![swift_icon] 
 - [shairport-sync](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver. ![c_icon] ![cpp_icon] 
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.  ![swift_icon] 
+- [Mixxx](https://github.com/mixxxdj/mixxx) - DJ Your Way, Free and open source DJ software ![cpp_icon] ![c_icon]
 
 ### Backup
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups ![python_icon] 
@@ -206,7 +207,8 @@ You can see in which language an app is written. Currently there are following l
 - [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation. ![cpp_icon] ![c_icon] 
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ![swift_icon] 
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. ![swift_icon] 
-- [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
+- [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon]
+-  [DevToys For Mac](https://github.com/ObuchiYuki/DevToysMac) -  A Swiss Army knife for developers. ![swift_icon] ![objective_c_icon]
 
 #### Git
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
@@ -328,6 +330,7 @@ You can see in which language an app is written. Currently there are following l
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration. ![cpp_icon] 
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century. ![javascript_icon] ![typescript_icon] 
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.  ![javascript_icon] ![vue_icon] ![css_icon] 
+- [MiaoYan](https://github.com/tw93/MiaoYan) -  Lightweight Markdown app to help you write great sentences ![swift_icon]
 
 #### TeX
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.  ![javascript_icon] 
