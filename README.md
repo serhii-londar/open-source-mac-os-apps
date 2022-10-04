@@ -41,7 +41,7 @@ You can see in which language an app is written. Currently there are following l
 - ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![typescript_icon] - TypeScript language.
-- (https://github.com/SohaibAhmad786/open-source-mac-os-apps/blob/master/icons/Flutter%20Icon.png) - Flutter language.
+- [](https://github.com/SohaibAhmad786/open-source-mac-os-apps/blob/master/icons/Flutter%20Icon.png) - Flutter language.
 
 
 ## Contents
