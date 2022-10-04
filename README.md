@@ -41,6 +41,7 @@ You can see in which language an app is written. Currently there are following l
 - ![shell_icon] - Shell language.
 - ![swift_icon] - Swift language.
 - ![typescript_icon] - TypeScript language.
+- ![Flutter_icon] - Flutter language.
 
 
 ## Contents
