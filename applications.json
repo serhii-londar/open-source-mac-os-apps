@@ -9251,7 +9251,7 @@
             ]
         },
         {
-            "short_description": "Cross platform configuration tool for the Betaflight firmware",
+            "short_description": "Cross platform configuration tool for the Betaflight firmware.",
             "categories": [
                 "utilities",
                 "other"
