@@ -5837,6 +5837,22 @@
             ]
         },
         {
+            "short_description": "Linux/Mac fork of FAR Manager v2",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/elfmz/far2l",
+            "title": "far2l",
+            "icon_url": "https://raw.githubusercontent.com/elfmz/far2l/master/far2l/DE/icons/far2l.svg",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c",
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Monitor your Mac's fan speed and CPU temperature from your Notification Center. ",
             "categories": [
                 "system"
