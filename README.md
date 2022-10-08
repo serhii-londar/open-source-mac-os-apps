@@ -37,7 +37,7 @@ You can see in which language an app is written. Currently there are following l
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Objective C-424242?style=for-the-badge&logo=C&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Objective%20C-424242?style=for-the-badge&logo=C&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">&nbsp;
