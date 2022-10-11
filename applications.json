@@ -8662,6 +8662,23 @@
             ]
         },
         {
+            "repo_url": "https://github.com/sqlectron",
+            "official_site": "https://sqlectron.github.io/",
+            "title": "sqlectron",
+            "icon_url": "https://sqlectron.github.io/logos/logo-square-180px.png",
+            "screenshots": [
+                "https://sqlectron.github.io/demos/sqlectron-demo-gui-v1.31.0.gif"
+            ],
+            "short_description": "A simple and lightweight SQL client desktop/terminal with cross database and platform support.",
+            "categories": [
+                "database",
+                "productivity"
+            ],
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "RSS & Atom feed reader that lives in the system status bar.",
             "categories": [
                 "menubar",
@@ -9153,7 +9170,7 @@
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
