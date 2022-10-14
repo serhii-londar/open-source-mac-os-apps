@@ -6635,6 +6635,20 @@
             ]
         },
         {
+            "short_description": "Node Version Manager. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nvm-sh/nvm",
+            "title": "NVM",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "shell"
+            ]
+        },
+        {
             "short_description": "A rule based custom proxy with GUI for Mac base on clash. ",
             "categories": [
                 "vpn--proxy"

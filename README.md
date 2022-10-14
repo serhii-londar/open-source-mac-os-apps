@@ -791,7 +791,6 @@ You can see in which language an app is written. Currently there are following l
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
-- [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager. ![shell_icon]
 
 ### VPN & Proxy
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.  ![swift_icon] 
