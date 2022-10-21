@@ -9249,6 +9249,22 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/NixOS/nix",
+            "title": "nix-package-manager",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nixos.org/explore.html",
+            "languages": [
+                "c++",
+                "shell",
+                "nix"
+            ]
         }
     ]
 }
