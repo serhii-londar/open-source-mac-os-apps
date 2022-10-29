@@ -789,24 +789,6 @@
             ]
         },
         {
-            "short_description": "Experimental web browser with minimalistic design. Running Windows, macOS and Linux. ",
-            "categories": [
-                "browser"
-            ],
-            "repo_url": "https://github.com/kaktus/kaktus",
-            "title": "Kaktus",
-            "icon_url": "",
-            "screenshots": [
-                "https://cldup.com/qsYAu0F-ja.png",
-                "https://cldup.com/6jOWAjYdpo.png",
-                "https://cldup.com/wDadS2XGrb.gif"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ",
             "categories": [
                 "browser"
@@ -9284,7 +9266,26 @@
             "official_site": "https://github.com/ajeetdsouza/zoxide",
             "languages": [
                 "rust"
+        },    
+        {
+            "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+            "categories": [
+                "games",
+            ],
+            "repo_url": "https://github.com/widelands/widelands",
+            "title": "Widelands",
+            "icon_url": "https://www.widelands.org/static/img/logo.png",
+            "screenshots": [
+               "https://www.widelands.org/static/img/welcome.jpg",
+            ],
+            "official_site": "https://www.widelands.org",
+            "languages": [
+                "c++"
+                "python"
+                "lua"
+                "javascript"
             ]
         }
+
     ]
 }

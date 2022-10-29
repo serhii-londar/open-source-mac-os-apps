@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 <p align="center">
 <img src="./icons/icon.png">
 </p>
@@ -145,7 +147,6 @@ You can see in which language an app is written. Currently there are following l
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser.  ![swift_icon] 
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux.  ![javascript_icon] ![rust_icon] ![cpp_icon] 
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. ![objective_c_icon] ![swift_icon] 
-- [Kaktus](https://github.com/kaktus/kaktus) - Experimental web browser with minimalistic design. Running Windows, macOS and Linux.  ![javascript_icon] 
 - [Min Browser](https://github.com/minbrowser/min) - A fast and efficient minimal web browser. ![javascript_icon] 
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. ![javascript_icon] 
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper. ![swift_icon] 
