@@ -9341,6 +9341,40 @@
             "languages": [
                 "java"
             ]
+        },         
+        {
+            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/brackets-cont/brackets",
+            "title": "Brackets",
+            "icon_url": "https://brackets.io/img/brackets.svg",
+            "screenshots": [
+               "https://brackets.io/img/hero.png"
+            ],
+            "official_site": "https://brackets.io/",
+            "languages": [
+                "javascript"
+            ]
+        }, 
+        {
+            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/brackets-cont/brackets",
+            "title": "Brackets",
+            "icon_url": "https://brackets.io/img/brackets.svg",
+            "screenshots": [
+               "https://brackets.io/img/hero.png"
+            ],
+            "official_site": "https://brackets.io/",
+            "languages": [
+                "javascript"
+            ]
         },
         {
             "short_description": "Cross platform configuration tool for the Betaflight firmware.",
