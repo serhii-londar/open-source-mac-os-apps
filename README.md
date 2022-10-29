@@ -23,25 +23,29 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 You can see in which language an app is written. Currently there are following languages:
 
-- ![c_icon] - C language.
-- ![cpp_icon] - C++ language.
-- ![c_sharp_icon] - C# language.
-- ![clojure_icon] - Clojure language.
-- ![coffee_script_icon] - CoffeeScript language.
-- ![css_icon] - CSS language.
-- ![go_icon] - Go language.
-- ![elm_icon] - Elm language.
-- ![haskell_icon] - Haskell language.
-- ![javascript_icon] - JavaScript language.
-- ![lua_icon] - Lua language.
-- ![objective_c_icon] - Objective-C language.
-- ![python_icon] - Python language.
-- ![ruby_icon] - Ruby language.
-- ![rust_icon] - Rust language.
-- ![shell_icon] - Shell language.
-- ![swift_icon] - Swift language.
-- ![typescript_icon] - TypeScript language.
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C%23-B404AE?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Coffee%20Script-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Objective%20C-424242?style=for-the-badge&logo=C&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=iTerm2&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 ## Contents
 - [Audio](#audio)
