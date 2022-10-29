@@ -4037,6 +4037,20 @@
             ]
         },
         {
+            "short_description": "Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/tidiemme/monitorbar",
+            "title": "Monitor Bar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/tidiemme/monitorbar",
+            "languages": [
+                "Swift"
+            ]
+        },
+        {
             "short_description": "Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps. ",
             "categories": [
                 "menubar"
