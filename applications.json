@@ -11,7 +11,7 @@
             "screenshots": [
                 "https://www.keka.io/img/Keka-Square-512x512.png"
             ],
-            "official_site": "https://keka.io",
+            "official_site": "https://www.keka.io/",
             "languages": [
                 "swift"
             ]
@@ -68,7 +68,7 @@
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/manindaniil/market-bar",
+            "repo_url": "https://github.com/mnndnl/market-bar ",
             "title": "Market Bar",
             "icon_url": "",
             "screenshots": [],
@@ -85,7 +85,7 @@
             ],
             "repo_url": "https://github.com/apache/netbeans",
             "title": "Apache Netbeans",
-            "icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
+            "icon_url": "https://netbeans.apache.org/images/apache-netbeans.svg",
             "screenshots": [
                 "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
                 "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
@@ -299,7 +299,7 @@
             "categories": [
                 "audio"
             ],
-            "repo_url": "https://github.com/maculateConception/aural-player",
+            "repo_url": "https://github.com/kartik-venugopal/aural-player",
             "title": "Aural Player",
             "icon_url": "",
             "screenshots": [
@@ -921,11 +921,10 @@
             ],
             "repo_url": "https://github.com/getferdi/ferdi",
             "title": "Ferdi",
-            "icon_url": "https://getferdi.com/wp-content/uploads/sites/4/2021/08/social-preview.png",
+            "icon_url": "",
             "screenshots": [
-                "https://getferdi.com/wp-content/uploads/sites/4/2021/08/laptop-1.png"
             ],
-            "official_site": "https://getferdi.com/",
+            "official_site": "",
             "languages": [
                 "javascript"
             ]
@@ -2348,13 +2347,13 @@
             ],
             "repo_url": "https://github.com/httptoolkit/httptoolkit-desktop",
             "title": "HTTP Toolkit",
-            "icon_url": "https://httptoolkit.tech/icon-600.png",
+            "icon_url": "https://httptoolkit.com/icon-600.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"
             ],
-            "official_site": "https://httptoolkit.tech/",
+            "official_site": "https://httptoolkit.com/",
             "languages": [
                 "typescript"
             ]
@@ -3931,9 +3930,9 @@
           "title": "LinkLiar",
           "icon_url": "",
           "screenshots": [
-             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+              "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
           ],
-          "official_site": "https://halo.github.io/LinkLiar",
+          "official_site": "https://halo.github.io/LinkLiar/",
           "languages": [
               "swift"
           ]
@@ -6449,11 +6448,7 @@
             "repo_url": "https://github.com/wvdk/Life-Calendar",
             "title": "Life-Calendar",
             "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%203.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%201.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -7112,7 +7107,7 @@
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
+            "icon_url": "",
             "screenshots": [],
             "official_site": "https://iina.io",
             "languages": [
@@ -7244,7 +7239,7 @@
             ]
         },
         {
-            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels). ",
+            "short_description": "ArtStation set as wallpapers from artwork.rss",
             "categories": [
                 "wallpaper"
             ],
@@ -7768,7 +7763,7 @@
         {
             "repo_url": "https://github.com/amiantos/lifesaver",
             "icon_url": "",
-            "official_site": "https://amiantos.net/lifesaver/",
+            "official_site": "https://github.com/amiantos/lifesaver",
             "title": "Life Saver",
             "screenshots": [
                 "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/screensaver/lifesaver-screenshots-1.1.png",
@@ -7823,9 +7818,7 @@
             "repo_url": "https://github.com/rxhanson/Rectangle",
             "title": "Rectangle",
             "icon_url": "",
-            "screenshots": [
-                "https://rectangleapp.com/images/ScreenShot.png"
-            ],
+            "screenshots": [],
             "official_site": "https://rectangleapp.com",
             "languages": [
                 "swift"
@@ -7903,7 +7896,7 @@
             ],
             "repo_url": "https://github.com/yonilevy/automute",
             "title": "AutoMute",
-            "icon_url": "https://raw.githubusercontent.com/yonilevy/automute/master/automute/Assets.xcassets/AppIcon.appiconset/icon256.png",
+            "icon_url": "",
             "screenshots": [
                 "https://user-images.githubusercontent.com/31284/49688097-ac653900-fb15-11e8-9c48-3db96df5dcbf.png",
                 "https://user-images.githubusercontent.com/31284/49688098-ae2efc80-fb15-11e8-8034-14c67fb69d90.png"
@@ -8006,7 +7999,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
+            "official_site": "https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
             "languages": [
                 "c_sharp"
             ]
@@ -8445,9 +8438,7 @@
             "repo_url": "https://github.com/simple-login/mac-app",
             "title": "SimpleLogin",
             "icon_url": "https://simplelogin.io/logo.svg",
-            "screenshots": [
-                "https://static.simplelogin.io/open-source-mac-apps.png"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8479,10 +8470,7 @@
             "repo_url": "https://github.com/maoyama/GitBlamePR",
             "title": "GitBlamePR",
             "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
-            "screenshots": [
-                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
-                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8627,11 +8615,11 @@
         },
         {
             "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
-            "official_site": "https://rocket.chat/",
+            "official_site": "https://www.rocket.chat/",
             "title": "RocketChat",
-            "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
+            "icon_url": "https://www.rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
             "screenshots": [
-                "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
+                "https://www.rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
             ],
             "short_description": "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
             "languages": [
@@ -8708,11 +8696,11 @@
         },
         {
             "repo_url": "https://github.com/DevUtilsApp/DevUtils-app",
-            "official_site": "https://devutils.app",
+            "official_site": "https://devutils.com",
             "title": "DevUtils.app",
-            "icon_url": "https://devutils.app/favicon.png",
+            "icon_url": "https://devutils.com/favicon.png",
             "screenshots": [
-                "https://devutils.app/screenshot-dark.png"
+                "https://devutils.com/screenshot-dark.png"
             ],
             "short_description": "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
             "languages": [
@@ -8991,7 +8979,7 @@
             ],
             "repo_url": "https://github.com/oliverschwendener/ueli",
             "title": "Ueli",
-            "icon_url": "https://raw.githubusercontent.com/oliverschwendener/ueli/dev/img/icons/mac/ueliTemplate.png",
+            "icon_url": "",
             "screenshots": [
                 "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
             ],
@@ -9031,7 +9019,7 @@
             "screenshots": [
                 "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
             ],
-            "official_site": "https://paretosecurity.app/",
+            "official_site": "https://paretosecurity.com/",
             "languages": [
                 "swift"
             ]
@@ -9045,12 +9033,8 @@
             ],
             "repo_url": "https://github.com/smmr-software/privacy-redirect-safari",
             "title": "Privacy Redirect for Safari",
-            "icon_url": "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/Privacy%20Redirect%20for%20Safari%20Extension/assets/images/full/icon1024.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/1.jpg",
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/2.jpg",
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/3.jpg"
-            ],
+            "icon_url": "",
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -9306,7 +9290,7 @@
             "screenshots": [
                 "https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png"
             ],
-            "official_site": "https://krita.org",
+            "official_site": "https://krita.org/en/",
             "languages": [
                 "cpp",
                 "python",
@@ -9327,7 +9311,7 @@
                 "https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/calendar/screenshot-mac.png",
                 "https://www.thunderbird.net/media/img/thunderbird/features/addon-manager.png"
             ],
-            "official_site": "https://www.thunderbird.net/",
+            "official_site": "https://www.thunderbird.net/en-US/",
             "languages": [
                 "cpp",
                 "javascript",
@@ -9537,7 +9521,7 @@
             ],
             "repo_url": "https://github.com/gitahead/gitahead/",
             "title": "GitAhead",
-            "icon_url": "https://raw.githubusercontent.com/gitahead/gitahead/rsrc/GitAhead.iconset/icon_128x128.png",
+            "icon_url": "",
             "screenshots": [
             ],
             "official_site": "https://gitahead.github.io/gitahead.com/",
