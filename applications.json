@@ -9249,6 +9249,23 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "short_description": "zoxide is a smarter cd command for your terminal.",
+            "categories": [
+                "finder",
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ajeetdsouza/zoxide",
+            "title": "zoxide",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ajeetdsouza/zoxide/c392a8bb75af098b3906ed66595e79f05af92d1a/contrib/tutorial.webp",
+            ],
+            "official_site": "https://github.com/ajeetdsouza/zoxide",
+            "languages": [
+                "rust"
         },    
         {
             "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
