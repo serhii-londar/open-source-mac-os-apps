@@ -11,7 +11,7 @@
             "screenshots": [
                 "https://www.keka.io/img/Keka-Square-512x512.png"
             ],
-            "official_site": "https://www.keka.io/",
+            "official_site": "https://www.keka.io/en/",
             "languages": [
                 "swift"
             ]
@@ -90,7 +90,7 @@
                 "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
                 "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
             ],
-            "official_site": "http://netbeans.apache.org",
+            "official_site": "https://netbeans.apache.org/",
             "languages": [
                 "java"
             ]
@@ -1612,7 +1612,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation",
+            "repo_url": "https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation",
             "title": "AppBox",
             "icon_url": "",
             "screenshots": [
@@ -4415,7 +4415,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/BoostIO/Boostnote",
+            "repo_url": "https://github.com/BoostIO/BoostNote-Legacy",
             "title": "Boostnote",
             "icon_url": "",
             "screenshots": [
@@ -4559,7 +4559,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/standardnotes/web",
+            "repo_url": "https://github.com/standardnotes/app",
             "title": "Standard Notes",
             "icon_url": "",
             "screenshots": [    ],
@@ -4590,7 +4590,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/klaussinani/tusk",
+            "repo_url": "https://github.com/klaudiosinani/tusk",
             "title": "Tusk",
             "icon_url": "",
             "screenshots": [],
@@ -7763,7 +7763,7 @@
         {
             "repo_url": "https://github.com/amiantos/lifesaver",
             "icon_url": "",
-            "official_site": "https://github.com/amiantos/lifesaver",
+            "official_site": "",
             "title": "Life Saver",
             "screenshots": [
                 "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/screensaver/lifesaver-screenshots-1.1.png",
@@ -7999,7 +7999,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
+            "official_site": "",
             "languages": [
                 "c_sharp"
             ]
@@ -8437,7 +8437,7 @@
             ],
             "repo_url": "https://github.com/simple-login/mac-app",
             "title": "SimpleLogin",
-            "icon_url": "https://simplelogin.io/logo.svg",
+            "icon_url": "",
             "screenshots": [],
             "official_site": "",
             "languages": [
@@ -8514,7 +8514,7 @@
         },
         {
             "repo_url": "https://github.com/bhj/karaoke-forever",
-            "official_site": "https://www.karaoke-forever.com",
+            "official_site": "https://www.karaoke-eternal.com/",
             "title": "Karaoke Forever",
             "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
             "screenshots": [
@@ -8617,10 +8617,8 @@
             "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
             "official_site": "https://www.rocket.chat/",
             "title": "RocketChat",
-            "icon_url": "https://www.rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
-            "screenshots": [
-                "https://www.rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
-            ],
+            "icon_url": "",
+            "screenshots": [],
             "short_description": "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
             "languages": [
                 "javascript"
@@ -9102,9 +9100,7 @@
             "repo_url": "https://github.com/CodingFriends/Tincta",
             "title": "Tincta",
             "icon_url": "https://raw.githubusercontent.com/CodingFriends/Tincta/master/Source/app_icon.iconset/icon_512x512.png",
-            "screenshots": [
-                "https://ik.imagekit.io/codingFriends/img/tr:w-2880,q-90,pr-true/tincta/Screenshot.png"
-            ],
+            "screenshots": [],
             "official_site": "https://codingfriends.github.io/Tincta/",
             "languages": [
                 "objective_c"
@@ -9260,7 +9256,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://git.blender.org/blender.git",
+            "repo_url": "https://git.blender.org/gitweb/gitweb.cgi/blender.git",
             "title": "Blender",
             "icon_url": "https://download.blender.org/branding/blender_logo_socket.png",
             "screenshots": [
