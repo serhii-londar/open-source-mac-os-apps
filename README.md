@@ -160,6 +160,7 @@ You can see in which language an app is written. Currently there are following l
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.  ![c_icon] 
 
 ### Chat
+- [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c_icon] 
 - [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption. ![swift_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.  ![objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.  ![javascript_icon] 
