@@ -211,6 +211,8 @@ You can see in which language an app is written. Currently there are following l
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ![swift_icon] 
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. ![swift_icon] 
 - [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications. ![swift_icon] 
+- [CodeEdit](https://www.codeedit.app/) - A lightweight, natively built editor.
+- [Fig](https://fig.io/) - A GUI integrated in you terminal.
 
 #### Git
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![objective_c_icon] ![c_icon] 
