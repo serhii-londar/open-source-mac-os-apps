@@ -97,7 +97,7 @@ You can see in which language an app is written. Currently there are following l
 ### Audio
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.  ![swift_icon] 
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software ![c_icon] 
-- [Aural Player](https://github.com/maculateConception/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift_icon] 
+- [Aural Player](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift_icon] 
 - [AutoMute](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep. ![objective_c_icon] 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.  ![cpp_icon] 
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. ![c_icon] 
@@ -476,7 +476,7 @@ You can see in which language an app is written. Currently there are following l
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar. ![objective_c_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.  ![swift_icon] 
 - [LinkLiar](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig) ![swift_icon] 
-- [Market Bar](https://github.com/manindaniil/market-bar) - Tiny stocks watcher for the menu bar. ![swift_icon] 
+- [Market Bar](https://github.com/mnndnl/market-bar ) - Tiny stocks watcher for the menu bar. ![swift_icon] 
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.  ![javascript_icon] 
@@ -854,7 +854,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Wallpaper
 - [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift_icon] 
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels).  ![objective_c_icon] 
+- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from artwork.rss ![objective_c_icon] 
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone  ![swift_icon] 
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.  ![swift_icon] 
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers.  ![cpp_icon] 
