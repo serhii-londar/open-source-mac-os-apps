@@ -9265,6 +9265,22 @@
             ]
         },
         {
+            "short_description": "Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/NixOS/nix",
+            "title": "nix-package-manager",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nixos.org/explore.html",
+            "languages": [
+                "c++",
+                "shell",
+                "nix"
+            ]
+        },
+        {
             "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
             "categories": [
                 "system"
