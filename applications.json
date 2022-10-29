@@ -9234,6 +9234,20 @@
             ]
         },
         {
+            "short_description": "OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/openrocket/openrocket",
+            "title": "OpenRocket",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://openrocket.info/",
+            "languages": [
+                "java"
+            ]
+        },
+        {
             "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
             "categories": [
                 "sharing-files"
