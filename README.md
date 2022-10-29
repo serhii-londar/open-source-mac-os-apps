@@ -265,7 +265,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### iOS / macOS
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.  ![swift_icon] 
-- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective_c_icon] 
+- [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective_c_icon] 
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.  ![swift_icon] 
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times.  ![swift_icon] 
 - [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.  ![objective_c_icon] 
@@ -394,7 +394,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Graphics
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![cpp_icon] ![c_icon] 
-- [Blender](https://git.blender.org/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c_icon] ![cpp_icon] ![python_icon] 
+- [Blender](https://git.blender.org/gitweb/gitweb.cgi/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c_icon] ![cpp_icon] ![python_icon] 
 - [CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis.  ![swift_icon] 
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease. ![swift_icon] ![c_sharp_icon] ![objective_c_icon] 
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler ![c++_icon] ![python_icon] 
@@ -528,7 +528,7 @@ You can see in which language an app is written. Currently there are following l
 - [hacker-menu](https://github.com/owenthereal/hacker-menu) - Hacker News Delivered to Desktop.  ![javascript_icon] 
 
 ### Notes
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Note-taking application made for programmers just like you.  ![javascript_icon] 
+- [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript_icon] 
 - [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface. ![go_icon] ![typescript_icon] 
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.  ![swift_icon] 
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![javascript_icon] ![css_icon] 
@@ -538,8 +538,8 @@ You can see in which language an app is written. Currently there are following l
 - [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc.  ![swift_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration. ![cpp_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes.  ![objective_c_icon] 
-- [Standard Notes](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![javascript_icon] ![css_icon] 
-- [Tusk](https://github.com/klaussinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ![css_icon] 
+- [Standard Notes](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript_icon] ![css_icon] 
+- [Tusk](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ![css_icon] 
 - [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.  ![javascript_icon] 
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.  ![javascript_icon] ![vue_icon] ![css_icon] 
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.  ![javascript_icon] 
