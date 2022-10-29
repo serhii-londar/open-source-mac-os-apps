@@ -9343,6 +9343,23 @@
             ]
         },
         {
+            "short_description": "Cross platform configuration tool for the Betaflight firmware.",
+            "categories": [
+                "utilities",
+                "other"
+            ],
+            "repo_url": "https://github.com/betaflight/betaflight-configurator",
+            "title": "Betaflight Configurator",
+            "icon_url": "https://pbs.twimg.com/profile_images/1061367585436925957/HoDOKWlp_400x400.jpg",
+            "screenshots": [
+               "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
+            ],
+            "official_site": "https://betaflight.com/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Powerful yet simple to use screenshot software.",
             "categories": [
                 "images"
