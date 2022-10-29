@@ -2786,6 +2786,22 @@
             ]
         },
         {
+            "short_description": "Community plugins list, theme list, and releases of Obsidian. ",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/obsidianmd/obsidian-releases",
+            "title": "Obsidian plugins & themes",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "https://obsidian.md/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
@@ -4875,6 +4891,23 @@
             ]
         },
         {
+            "short_description": "Log analysis tool. ",
+            "categories": [
+                "other"
+            ],
+            "repo_url": "https://github.com/esrlabs/chipmunk",
+            "title": "ChipMunk",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "short_description": "Mac app for checking Xcode projects for unused resources.  ",
             "categories": [
                 "other"
@@ -6714,6 +6747,47 @@
             ]
         },
         {
+            "short_description": "Flash OS images to SD cards & USB drives, safely and easily. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/balena-io/etcher",
+            "title": "Balena Etcher",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.balena.io/etcher/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Nmap - the Network Mapper. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nmap/nmap",
+            "title": "Nmap",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nmap.org",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
+            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/wireshark/wireshark",
+            "title": "Nmap",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.wireshark.org",
+            "languages": [
+                "cpp"
+            ]
+         }, {
             "short_description": "Node Version Manager. ",
             "categories": [
                 "utilities"
@@ -7950,6 +8024,21 @@
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Disk encryption with strong security based on TrueCrypt. ",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/veracrypt/VeraCrypt",
+            "title": "VeraCrypt",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.veracrypt.fr",
+            "languages": [
+                "c",
+                "cpp"
             ]
         },
         {
