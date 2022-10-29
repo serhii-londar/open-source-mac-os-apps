@@ -3384,6 +3384,23 @@
             ]
         },
         {
+            "short_description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "categories": [
+                "ide",
+                "editors"
+            ],
+            "repo_url": "https://github.com/CodeEditApp/CodeEdit",
+            "title": "CodeEdit",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png"
+            ],
+            "official_site": "https://www.codeedit.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "ubiquitous text editor",
             "categories": [
                 "ide"
