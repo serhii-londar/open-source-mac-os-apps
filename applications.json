@@ -9167,7 +9167,7 @@
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9276,6 +9276,22 @@
             "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Powerful yet simple to use screenshot software.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/flameshot-org/flameshot",
+            "title": "Flameshot",
+            "icon_url": "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif"
+            ],
+            "official_site": "https://flameshot.org",
+            "languages": [
+                "cpp"
             ]
         },
         {
