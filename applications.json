@@ -3770,7 +3770,6 @@
             "title": "Keycastr",
             "icon_url": "",
             "screenshots": [
-                "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
                 "https://github.com/keycastr/keycastr/blob/5a9a9e5b498aad7f3bc26e3c2c95862359dbf3e4/assets/preview.png"
             ],
             "official_site": "",
@@ -4093,7 +4092,7 @@
             "title": "Monitor Bar",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "https://github.com/tidiemme/monitorbar",
+            "official_site": "",
             "languages": [
                 "Swift"
             ]
@@ -9377,7 +9376,7 @@
             ],
             "repo_url": "https://gitlab.com/inkscape/inkscape",
             "title": "Inkscape",
-            "icon_url": "https://inkscape.org/",
+            "icon_url": "",
             "screenshots": [
                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
@@ -9496,23 +9495,6 @@
             "languages": [
                 "javascript"
             ]
-        }, 
-        {
-            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
-            "categories": [
-                "ide",
-                "development"
-            ],
-            "repo_url": "https://github.com/brackets-cont/brackets",
-            "title": "Brackets",
-            "icon_url": "https://brackets.io/img/brackets.svg",
-            "screenshots": [
-               "https://brackets.io/img/hero.png"
-            ],
-            "official_site": "https://brackets.io/",
-            "languages": [
-                "javascript"
-            ]
         },
         {
             "short_description": "Cross platform configuration tool for the Betaflight firmware.",
@@ -9548,7 +9530,7 @@
             ]
         },
         {
-            "short_description": "a graphical Git client designed to help you understand and manage your source code history.",
+            "short_description": "A graphical Git client designed to help you understand and manage your source code history.",
             "categories": [
                 "development",
                 "git"
@@ -9557,8 +9539,6 @@
             "title": "GitAhead",
             "icon_url": "https://raw.githubusercontent.com/gitahead/gitahead/rsrc/GitAhead.iconset/icon_128x128.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
-                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
             ],
             "official_site": "https://gitahead.github.io/gitahead.com/",
             "languages": [
@@ -9609,7 +9589,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/ajeetdsouza/zoxide/c392a8bb75af098b3906ed66595e79f05af92d1a/contrib/tutorial.webp"
             ],
-            "official_site": "https://github.com/ajeetdsouza/zoxide",
+            "official_site": "",
             "languages": [
                 "rust"
             ]
