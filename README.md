@@ -23,25 +23,29 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 You can see in which language an app is written. Currently there are following languages:
 
-- ![c_icon] - C language.
-- ![cpp_icon] - C++ language.
-- ![c_sharp_icon] - C# language.
-- ![clojure_icon] - Clojure language.
-- ![coffee_script_icon] - CoffeeScript language.
-- ![css_icon] - CSS language.
-- ![go_icon] - Go language.
-- ![elm_icon] - Elm language.
-- ![haskell_icon] - Haskell language.
-- ![javascript_icon] - JavaScript language.
-- ![lua_icon] - Lua language.
-- ![objective_c_icon] - Objective-C language.
-- ![python_icon] - Python language.
-- ![ruby_icon] - Ruby language.
-- ![rust_icon] - Rust language.
-- ![shell_icon] - Shell language.
-- ![swift_icon] - Swift language.
-- ![typescript_icon] - TypeScript language.
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C%23-B404AE?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Coffee%20Script-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Objective%20C-424242?style=for-the-badge&logo=C&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=iTerm2&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 ## Contents
 - [Audio](#audio)
@@ -467,6 +471,7 @@ You can see in which language an app is written. Currently there are following l
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.  ![javascript_icon] 
+- [Monitor Bar](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift_icon]
 - [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift_icon] 
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps.  ![swift_icon] 
 - [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.  ![swift_icon] 
@@ -720,6 +725,7 @@ You can see in which language an app is written. Currently there are following l
 - [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
 
 ### Utilities
+- [Keka](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift_icon]
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images. ![swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 

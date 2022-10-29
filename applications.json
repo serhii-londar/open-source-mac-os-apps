@@ -1,5 +1,21 @@
 {
     "applications": [
+           {
+            "short_description": "Keka is a full featured file archiver, as easy as it can be.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/aonez/Keka",
+            "title": "Keka",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.keka.io/img/Keka-Square-512x512.png"
+            ],
+            "official_site": "https://keka.io",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
@@ -2820,6 +2836,22 @@
             ]
         },
         {
+            "short_description": "Lightweight Code Editor (IDE) for macOS. ",
+            "categories": [
+                "text"
+            ],
+            "repo_url": "https://github.com/AuroraEditor/AuroraEditor",
+            "title": "AuroraEditor",
+            "icon_url": "https://avatars.githubusercontent.com/u/106490518",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/63672227/187914690-2277654c-6cab-4738-b151-1c85947bea8b.jpg"
+            ],
+            "official_site": "https://auroraeditor.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Text editor for macOS. ",
             "categories": [
                 "text"
@@ -3397,6 +3429,23 @@
             "official_site": "",
             "languages": [
                 "typescript"
+            ]
+        },
+        {
+            "short_description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "categories": [
+                "ide",
+                "editors"
+            ],
+            "repo_url": "https://github.com/CodeEditApp/CodeEdit",
+            "title": "CodeEdit",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png"
+            ],
+            "official_site": "https://www.codeedit.app/",
+            "languages": [
+                "swift"
             ]
         },
         {
@@ -4033,6 +4082,20 @@
             "official_site": "",
             "languages": [
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/tidiemme/monitorbar",
+            "title": "Monitor Bar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/tidiemme/monitorbar",
+            "languages": [
+                "Swift"
             ]
         },
         {
@@ -5870,6 +5933,22 @@
             ]
         },
         {
+            "short_description": "Linux/Mac fork of FAR Manager v2",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/elfmz/far2l",
+            "title": "far2l",
+            "icon_url": "https://raw.githubusercontent.com/elfmz/far2l/master/far2l/DE/icons/far2l.svg",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "c",
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Monitor your Mac's fan speed and CPU temperature from your Notification Center. ",
             "categories": [
                 "system"
@@ -6532,7 +6611,7 @@
             ]
         },
         {
-            "short_description": "Bitwarden Passwort Manager in your menu bar",
+            "short_description": "Bitwarden Password Manager in your menu bar",
             "categories": [
                 "utilities"
             ],
@@ -6568,7 +6647,7 @@
             ]
         },
         {
-            "short_description": "A menu bar application that calculates parcents. ",
+            "short_description": "A menu bar application that calculates percents. ",
             "categories": [
                 "utilities"
             ],
@@ -6707,6 +6786,19 @@
             "official_site": "https://www.wireshark.org",
             "languages": [
                 "cpp"
+            ]
+         }, {
+            "short_description": "Node Version Manager. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nvm-sh/nvm",
+            "title": "NVM",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "shell"
             ]
         },
         {
@@ -8752,6 +8844,23 @@
             ]
         },
         {
+            "repo_url": "https://github.com/sqlectron/sqlectron-gui",
+            "official_site": "https://sqlectron.github.io/",
+            "title": "sqlectron",
+            "icon_url": "https://sqlectron.github.io/logos/logo-square-180px.png",
+            "screenshots": [
+                "https://sqlectron.github.io/demos/sqlectron-demo-gui-v1.31.0.gif"
+            ],
+            "short_description": "A simple and lightweight SQL client desktop/terminal with cross database and platform support.",
+            "categories": [
+                "database",
+                "productivity"
+            ],
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "RSS & Atom feed reader that lives in the system status bar.",
             "categories": [
                 "menubar",
@@ -9243,7 +9352,7 @@
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9324,13 +9433,27 @@
             ]
         },
         {
+            "short_description": "OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/openrocket/openrocket",
+            "title": "OpenRocket",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://openrocket.info/",
+            "languages": [
+                "java"
+            ]
+        },
+        {
             "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
             "categories": [
                 "sharing-files"
             ],
             "repo_url": "https://github.com/iterate-ch/cyberduck",
             "title": "Cyberduck",
-            "icon_url": "https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png",
+            "icon_url": "",
             "screenshots": [
                 "https://cdn.cyberduck.io/img/mac/browser-bookmarks.png",
                 "https://cdn.cyberduck.io/img/mac/browser.png"
@@ -9338,6 +9461,175 @@
             "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Simple SQL Client for lightweight data analysis.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/bdash-app/bdash",
+            "title": "Bdash",
+            "icon_url": "https://github.com/bdash-app/bdash/blob/master/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture1.png",
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },         
+        {
+            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/brackets-cont/brackets",
+            "title": "Brackets",
+            "icon_url": "https://brackets.io/img/brackets.svg",
+            "screenshots": [
+               "https://brackets.io/img/hero.png"
+            ],
+            "official_site": "https://brackets.io/",
+            "languages": [
+                "javascript"
+            ]
+        }, 
+        {
+            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/brackets-cont/brackets",
+            "title": "Brackets",
+            "icon_url": "https://brackets.io/img/brackets.svg",
+            "screenshots": [
+               "https://brackets.io/img/hero.png"
+            ],
+            "official_site": "https://brackets.io/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Cross platform configuration tool for the Betaflight firmware.",
+            "categories": [
+                "utilities",
+                "other"
+            ],
+            "repo_url": "https://github.com/betaflight/betaflight-configurator",
+            "title": "Betaflight Configurator",
+            "icon_url": "https://pbs.twimg.com/profile_images/1061367585436925957/HoDOKWlp_400x400.jpg",
+            "screenshots": [
+               "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
+            ],
+            "official_site": "https://betaflight.com/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Powerful yet simple to use screenshot software.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/flameshot-org/flameshot",
+            "title": "Flameshot",
+            "icon_url": "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif"
+            ],
+            "official_site": "https://flameshot.org",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
+            "short_description": "a graphical Git client designed to help you understand and manage your source code history.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/gitahead/gitahead/",
+            "title": "GitAhead",
+            "icon_url": "https://raw.githubusercontent.com/gitahead/gitahead/rsrc/GitAhead.iconset/icon_128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
+            ],
+            "official_site": "https://gitahead.github.io/gitahead.com/",
+            "languages": [
+                "cpp",
+                "c"
+            ]
+        },
+        {
+            "short_description": "Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/NixOS/nix",
+            "title": "nix-package-manager",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nixos.org/explore.html",
+            "languages": [
+                "c++",
+                "shell",
+                "nix"
+            ]
+        },
+        {
+            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
+            "title": "Wireshark",
+            "icon_url": "https://gitlab.com/wireshark/wireshark/-/blob/master/docbook/wsdg_graphics/ws-logo.png",
+            "screenshots": [],
+            "official_site": "https://www.wireshark.org/",
+            "languages": [
+                "c",
+                "c++"
+            ]
+         }, {
+            "short_description": "zoxide is a smarter cd command for your terminal.",
+            "categories": [
+                "finder",
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ajeetdsouza/zoxide",
+            "title": "zoxide",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ajeetdsouza/zoxide/c392a8bb75af098b3906ed66595e79f05af92d1a/contrib/tutorial.webp",
+            ],
+            "official_site": "https://github.com/ajeetdsouza/zoxide",
+            "languages": [
+                "rust"
+        },    
+        {
+            "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+            "categories": [
+                "games",
+            ],
+            "repo_url": "https://github.com/widelands/widelands",
+            "title": "Widelands",
+            "icon_url": "https://www.widelands.org/static/img/logo.png",
+            "screenshots": [
+               "https://www.widelands.org/static/img/welcome.jpg",
+            ],
+            "official_site": "https://www.widelands.org",
+            "languages": [
+                "c++"
+                "python"
+                "lua"
+                "javascript"
             ]
         }
     ]
