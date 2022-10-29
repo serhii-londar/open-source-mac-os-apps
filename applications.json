@@ -90,7 +90,7 @@
                 "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
                 "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
             ],
-            "official_site": "http://netbeans.apache.org",
+            "official_site": "http://netbeans.apache.org/",
             "languages": [
                 "java"
             ]
@@ -8514,7 +8514,7 @@
         },
         {
             "repo_url": "https://github.com/bhj/karaoke-forever",
-            "official_site": "https://www.karaoke-forever.com",
+            "official_site": "https://www.karaoke-forever.com/",
             "title": "Karaoke Forever",
             "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
             "screenshots": [
@@ -9100,9 +9100,7 @@
             "repo_url": "https://github.com/CodingFriends/Tincta",
             "title": "Tincta",
             "icon_url": "https://raw.githubusercontent.com/CodingFriends/Tincta/master/Source/app_icon.iconset/icon_512x512.png",
-            "screenshots": [
-                "https://ik.imagekit.io/codingFriends/img/tr:w-2880,q-90,pr-true/tincta/Screenshot.png"
-            ],
+            "screenshots": [],
             "official_site": "https://codingfriends.github.io/Tincta/",
             "languages": [
                 "objective_c"
