@@ -9279,6 +9279,25 @@
             ]
         },
         {
+            "short_description": "a graphical Git client designed to help you understand and manage your source code history.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/gitahead/gitahead/",
+            "title": "GitAhead",
+            "icon_url": "https://raw.githubusercontent.com/gitahead/gitahead/rsrc/GitAhead.iconset/icon_128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_dark.png",
+                "https://raw.githubusercontent.com/mohakapt/Stringz/main/Resources/hero_light.png"
+            ],
+            "official_site": "https://gitahead.github.io/gitahead.com/",
+            "languages": [
+                "cpp",
+                "c"
+            ]
+        },
+        {
             "short_description": "Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
             "categories": [
                 "utilities"
