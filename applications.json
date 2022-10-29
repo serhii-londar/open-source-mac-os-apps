@@ -90,7 +90,7 @@
                 "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
                 "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
             ],
-            "official_site": "http://netbeans.apache.org/",
+            "official_site": "https://netbeans.apache.org/",
             "languages": [
                 "java"
             ]
@@ -8514,7 +8514,7 @@
         },
         {
             "repo_url": "https://github.com/bhj/karaoke-forever",
-            "official_site": "https://www.karaoke-forever.com/",
+            "official_site": "https://www.karaoke-eternal.com/",
             "title": "Karaoke Forever",
             "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
             "screenshots": [
