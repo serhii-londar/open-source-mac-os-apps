@@ -9610,6 +9610,31 @@
                 "lua",
                 "javascript"
             ]
+        },
+        {
+          "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
+          "categories": [
+            "database"
+          ],
+          "repo_url": "https://github.com/dbgate/dbgate",
+          "title": "DbGate",
+          "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
+          "screenshots": [
+            "https://dbgate.org/assets/screenshots/datagrid.png",
+            "https://dbgate.org/assets/screenshots/query.png",
+            "https://dbgate.org/assets/screenshots/diagram.png",
+            "https://dbgate.org/assets/screenshots/redis.png",
+            "https://dbgate.org/assets/screenshots/export.png",
+            "https://dbgate.org/assets/screenshots/darkmode.png",
+            "https://dbgate.org/assets/screenshots/querydesigner.png",
+            "https://dbgate.org/assets/screenshots/mongosave.png",
+            "https://dbgate.org/assets/screenshots/dbcompare.png"
+          ],
+          "official_site": "https://dbgate.org",
+          "languages": [
+            "javascript",
+            "typescript"
+          ]
         }
     ]
 }
