@@ -4316,6 +4316,22 @@
             ]
         },
         {
+            "short_description": "Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/spicetify/spicetify-cli",
+            "title": "spicetify-cli",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/spicetify/spicetify-cli/blob/master/.github/assets/logo.png"
+            ],
+            "official_site": "https://spicetify.app/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Control Spotify without leaving your terminal. :notes: ",
             "categories": [
                 "music"
