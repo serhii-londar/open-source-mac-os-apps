@@ -188,6 +188,7 @@ You can see in which language an app is written. Currently there are following l
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift. ![javascript_icon] 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.  ![cpp_icon] 
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.  ![java_icon] 
+- [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application. ![javascript_icon] ![typescript_icon] 
 - [Medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis. ![javascript_icon] 
 - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Add another lightweight Mac Native MongoDB client. ![objective_c_icon] ![c_icon] 
 - [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS.  ![javascript_icon] 
@@ -316,6 +317,7 @@ You can see in which language an app is written. Currently there are following l
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.  ![javascript_icon] 
 
 ### Editors
+- [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
 
 #### CSV
@@ -412,6 +414,7 @@ You can see in which language an app is written. Currently there are following l
 ### IDE
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java_icon] 
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
+- [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript_icon] 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java_icon] 
