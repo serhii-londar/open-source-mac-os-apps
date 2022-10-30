@@ -4324,7 +4324,7 @@
             "title": "spicetify-cli",
             "icon_url": "",
             "screenshots": [
-                "https://github.com/spicetify/spicetify-cli/blob/master/.github/assets/logo.png"
+                "https://raw.githubusercontent.com/spicetify/spicetify-cli/master/.github/assets/logo.png"
             ],
             "official_site": "https://spicetify.app/",
             "languages": [
