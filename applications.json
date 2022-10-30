@@ -2837,6 +2837,8 @@
         {
             "short_description": "Lightweight Code Editor (IDE) for macOS. ",
             "categories": [
+                "ide",
+                "editors",
                 "text"
             ],
             "repo_url": "https://github.com/AuroraEditor/AuroraEditor",
