@@ -4334,6 +4334,23 @@
             ]
         },
         {
+            "short_description": "Virtualization for other operating systems.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/utmapp/",
+            "title": "utmapp",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/utmapp/UTM/raw/main/screenmac.png"
+            ],
+            "official_site": "https://mac.getutm.app/",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "Control Spotify without leaving your terminal. :notes: ",
             "categories": [
                 "music"
