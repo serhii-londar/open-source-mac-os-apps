@@ -6261,6 +6261,23 @@
             ]
         },
         {
+            "short_description": "Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/Eugeny/tabby",
+            "title": "Tabby",
+            "icon_url": "",
+            "screenshots": [
+            "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png",
+            "https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "wallpapper is a console application for creating dynamic wallpapers for Mojave. ",
             "categories": [
                 "terminal"
