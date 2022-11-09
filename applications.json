@@ -9258,7 +9258,9 @@
             "repo_url": "http://grandperspectiv.sourceforge.net/",
             "title": "GrandPerspective",
             "icon_url": "http://grandperspectiv.sourceforge.net/Images/GrandPerspectiveIconWithShadow.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://grandperspectiv.sourceforge.net/ScreenShots/2_5_4-FoldersBujumbura.png"
+            ],
             "official_site": "",
             "languages": [
                 "objective_c"
