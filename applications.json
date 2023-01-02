@@ -4145,6 +4145,24 @@
             ]
         },
         {
+            "short_description": "Mac menu bar app to take quick note without having a new app in the dock",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Nilon123456789/Quick-Notes",
+            "title": "Quick Notes",
+            "icon_url": "https://github.com/Nilon123456789/Quick-Notes/raw/main/Quick%20notes/Assets.xcassets/AppIcon.appiconset/AppIcon258.png?raw=true",
+            "screenshots": [
+               "https://github.com/Nilon123456789/Quick-Notes/blob/page/images/app-note.png?raw=true",
+               "https://github.com/Nilon123456789/Quick-Notes/blob/page/images/app-settings.png?raw=true"
+            ],
+            "official_site": "https://nilon123456789.github.io/Quick-Notes/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
             "categories": [
                 "menubar"
