@@ -1,6 +1,23 @@
 {
     "applications": [
-           {
+        {
+          "short_description": "A handy menubar translator app using Google Translate.",
+          "categories": [
+            "menubar"
+          ],
+          "repo_url": "https://github.com/ThijmenDam/BarTranslate",
+          "title": "BarTranslate",
+          "icon_url": "https://github.com/ThijmenDam/BarTranslate/raw/master/assets/BarTranslateIcon%402x.png",
+          "screenshots": [
+            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png",
+            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
+          ],
+          "official_site": "https://thijmendam.github.io/BarTranslate/",
+          "languages": [
+            "typescript"
+          ]
+        },
+        {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
                 "utilities"
@@ -9493,7 +9510,7 @@
             "languages": [
                 "javascript"
             ]
-        },         
+        },
         {
             "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
             "categories": [
@@ -9608,7 +9625,7 @@
             "languages": [
                 "rust"
             ]
-        },    
+        },
         {
             "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
             "categories": [
