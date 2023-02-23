@@ -8229,15 +8229,15 @@
                 "extensions",
                 "utilities"
             ],
-            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
-            "title": "Middleclick",
-            "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
+            "repo_url": "https://github.com/artginzburg/MiddleClick-Ventura",
+            "title": "MiddleClick",
+            "icon_url": "https://raw.githubusercontent.com/artginzburg/MiddleClick-Ventura/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
-                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+                "https://github.com/artginzburg/MiddleClick-Ventura/blob/master/demo.png"
             ],
             "official_site": "",
             "languages": [
-                "c"
+                "objective_c"
             ]
         },
         {
