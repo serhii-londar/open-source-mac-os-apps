@@ -133,25 +133,6 @@
             ]
         },
         {
-            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
-            "categories": [
-                "audio",
-                "music",
-                "menubar",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/musa11971/Music-Bar/",
-            "title": "Music Bar",
-            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
-            "screenshots": [
-                "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
-            ],
-            "official_site": "https://musa11971.github.io/Music-Bar/",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
@@ -708,7 +689,7 @@
             "title": "shallow-backup",
             "icon_url": "",
             "screenshots": [
-                "https://github.com/alichtman/shallow-backup/blob/master/img/shallow-backup-demo.gif"
+                "https://github.com/alichtman/shallow-backup/blob/main/img/shallow-backup-demo.gif"
             ],
             "official_site": "",
             "languages": [
@@ -857,7 +838,7 @@
             ],
             "repo_url": "https://github.com/tigase/beagle-im",
             "title": "Beagle IM",
-            "icon_url": "https://raw.githubusercontent.com/tigase/beagle-im/master/BeagleIM/Assets.xcassets/AppIcon.appiconset/IMG_0720_32.png",
+            "icon_url": "https://camo.githubusercontent.com/478e09adfdb2790ecc9f164fe60aba74852bb7a388bba8fbd0d7a0142724f496/68747470733a2f2f626561676c652e696d2f696d672f73657276696365732f6461726b4f724c696768742e706e67",
             "screenshots": [
                 "https://beagle.im/img/services/darkOrLight.png"
             ],
@@ -912,21 +893,6 @@
             ],
             "categories": [
                 "productivity"
-            ]
-        },
-        {
-            "short_description": "Ferdi is messaging application for services like WhatsApp, Slack, Messenger and many more. It started off as a hard-fork of Franz, but has now surpassed it in features.",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/getferdi/ferdi",
-            "title": "Ferdi",
-            "icon_url": "",
-            "screenshots": [
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
             ]
         },
         {
@@ -2479,22 +2445,6 @@
             ]
         },
         {
-            "short_description": "Create deployments right from the tray menu. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/vercel/now-desktop",
-            "title": "Now Desktop",
-            "icon_url": "",
-            "screenshots": [
-                "https://assets.zeit.co/image/upload/v1537714691/repositories/now-desktop/now-desktop-repo-banner.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "macOS app for monitoring the status of cloud services. ",
             "categories": [
                 "web-development"
@@ -3225,7 +3175,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/gragrance/CaptuocrToy",
+            "repo_url": "https://github.com/sfragrance/CaptuocrToy",
             "title": "CaptuocrToy",
             "icon_url": "",
             "screenshots": [
@@ -3568,7 +3518,7 @@
             "title": "Iconology",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/master/demo.gif"
+                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/main/Iconology/Assets.xcassets/Logo.imageset/logo-long-black.svg"
             ],
             "official_site": "https://apps.apple.com/us/app/iconology/id1463452867",
             "languages": [
@@ -4342,7 +4292,7 @@
             "title": "utmapp",
             "icon_url": "",
             "screenshots": [
-                "https://github.com/utmapp/UTM/raw/main/screenmac.png"
+                "https://raw.githubusercontent.com/utmapp/UTM/main/screenmac.png"
             ],
             "official_site": "https://mac.getutm.app/",
             "languages": [
@@ -4790,7 +4740,7 @@
             "categories": [
                 "other"
             ],
-            "repo_url": "https://github.com/goktugyil/QorumLogs",
+            "repo_url": "https://github.com/Esqarrouth/QorumLogs",
             "title": "QorumLogs",
             "icon_url": "",
             "screenshots": [],
@@ -5019,7 +4969,7 @@
             "categories": [
                 "podcast"
             ],
-            "repo_url": "https://github.com/phranck/podlive-macos",
+            "repo_url": "https://github.com/Podlive/podlive-macos",
             "title": "Podlive for macOS",
             "icon_url": "",
             "screenshots": [
@@ -5051,7 +5001,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/klaussinani/ao",
+            "repo_url": "https://github.com/klaudiosinani/ao",
             "title": "Ao",
             "icon_url": "",
             "screenshots": [],
@@ -5066,7 +5016,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/KELiON/cerebro",
+            "repo_url": "https://github.com/cerebroapp/cerebro",
             "title": "Cerebro",
             "icon_url": "",
             "screenshots": [],
@@ -5138,7 +5088,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/federico-terzi/espanso",
+            "repo_url": "https://github.com/espanso/espanso",
             "title": "espanso",
             "screenshots": [
                 "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
@@ -5543,7 +5493,7 @@
             "categories": [
                 "screensaver"
             ],
-            "repo_url": "https://github.com/docterd/MusaicFM",
+            "repo_url": "https://github.com/obrhoff/MusaicFM",
             "title": "MusaicFM",
             "icon_url": "",
             "screenshots": [
@@ -5952,20 +5902,6 @@
             ]
         },
         {
-            "short_description": "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ",
-            "categories": [
-                "system"
-            ],
-            "repo_url": "https://github.com/etresoft/EtreCheck",
-            "title": "EtreCheck",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Linux/Mac fork of FAR Manager v2",
             "categories": [
                 "productivity",
@@ -6143,7 +6079,7 @@
             "categories": [
                 "system"
             ],
-            "repo_url": "https://github.com/DeromirNeves/VerticalBar",
+            "repo_url": "https://github.com/DeromirNeves/DockSeparator",
             "title": "VerticalBar",
             "icon_url": "",
             "screenshots": [
@@ -6476,20 +6412,6 @@
             ]
         },
         {
-            "short_description": "Life Calendar. ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/wvdk/Life-Calendar",
-            "title": "Life-Calendar",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Intelligent adaptive brightness for your external displays. ",
             "categories": [
                 "utilities"
@@ -6738,7 +6660,7 @@
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/blockstack/blockstack-browser",
+            "repo_url": "https://github.com/stacks-network/blockstack-browser",
             "title": "The Blockstack Browser",
             "icon_url": "",
             "screenshots": [],
@@ -6784,7 +6706,7 @@
             "title": "Balena Etcher",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "https://www.balena.io/etcher/",
+            "official_site": "https://www.balena.io/etcher",
             "languages": [
                 "typescript"
             ]
@@ -7661,7 +7583,7 @@
             "categories": [
                 "touch-bar"
             ],
-            "repo_url": "https://github.com/lessmess-dev/touch-emoji",
+            "repo_url": "https://github.com/ilyalesik/touch-emoji",
             "title": "Touch Emoji",
             "icon_url": "",
             "screenshots": [
@@ -7751,7 +7673,7 @@
             "categories": [
                 "touch-bar"
             ],
-            "repo_url": "https://github.com/pigigaldi/Pock",
+            "repo_url": "https://github.com/pock/pock",
             "title": "Pock",
             "icon_url": "https://camo.githubusercontent.com/bfb3abeb24e585e9121ce6440167ac2c9f06aeca/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f6272616e642f7765622d69636f6e2d626c61636b2e706e67",
             "screenshots": [
@@ -8095,7 +8017,7 @@
             ],
             "repo_url": "https://github.com/spotter-application/spotter",
             "title": "Spotter",
-            "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
+            "icon_url": "https://github.com/spotter-application/spotter/blob/main/preview/icon.png",
             "screenshots": [],
             "official_site": "",
             "languages": [
@@ -8229,11 +8151,11 @@
                 "extensions",
                 "utilities"
             ],
-            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "repo_url": "https://github.com/artginzburg/MiddleClick-Ventura",
             "title": "Middleclick",
             "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
-                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+                "https://github.com/artginzburg/MiddleClick-Ventura/blob/master/demo.png"
             ],
             "official_site": "",
             "languages": [
@@ -8241,8 +8163,8 @@
             ]
         },
         {
-            "repo_url": "https://github.com/jet8a/pomodoro-cycle-app",
-            "official_site": "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "repo_url": "https://github.com/ziulev/pomodoro-cycle-app",
+            "official_site": "https://github.com/ziulev/pomodoro-cycle-app/releases",
             "title": "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots": [
@@ -8442,7 +8364,7 @@
             "title": "Gitify",
             "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
             "screenshots": [
-                "https://github.com/manosim/gitify/blob/master/assets/images/press.png"
+                "https://github.com/manosim/gitify/blob/main/assets/images/press.png"
             ],
             "official_site": "https://www.gitify.io/",
             "languages": [
@@ -8488,7 +8410,7 @@
             ],
             "repo_url": "https://github.com/amirdew/CollectionViewPagingLayout",
             "title": "Layout Designer for UICollectionView",
-            "icon_url": "https://github.com/amirdew/CollectionViewPagingLayout/blob/master/Samples/PagingLayoutSamples/Assets.xcassets/AppIcon.appiconset/icon_40x40@3x.png?raw=true",
+            "icon_url": "",
             "screenshots": [
                 "https://amir.app/git/layout_designer_preview.gif"
             ],
@@ -8548,12 +8470,12 @@
             ]
         },
         {
-            "repo_url": "https://github.com/bhj/karaoke-forever",
+            "repo_url": "https://github.com/bhj/KaraokeEternal",
             "official_site": "https://www.karaoke-eternal.com/",
             "title": "Karaoke Forever",
-            "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
+            "icon_url": "https://github.com/bhj/KaraokeEternal/blob/master/assets/app.png?raw=true",
             "screenshots": [
-                "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+                "https://github.com/bhj/KaraokeEternal/blob/master/docs/assets/images/README.jpg?raw=true"
             ],
             "short_description": "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
             "languages": [
@@ -9291,7 +9213,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://git.blender.org/gitweb/gitweb.cgi/blender.git",
+            "repo_url": "https://projects.blender.org/",
             "title": "Blender",
             "icon_url": "https://download.blender.org/branding/blender_logo_socket.png",
             "screenshots": [
@@ -9376,9 +9298,9 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecadweb.org/images/feature-03.jpg"
+               "https://www.freecad.org/images/feature-03.jpg"
             ],
-            "official_site": "https://www.freecadweb.org/",
+            "official_site": "https://www.freecad.org/",
             "languages": [
                 "c++",
                 "python"
@@ -9493,7 +9415,7 @@
             "languages": [
                 "javascript"
             ]
-        },         
+        },
         {
             "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
             "categories": [
@@ -9584,7 +9506,7 @@
             ],
             "repo_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
             "title": "Wireshark",
-            "icon_url": "https://gitlab.com/wireshark/wireshark/-/blob/master/docbook/wsdg_graphics/ws-logo.png",
+            "icon_url": "",
             "screenshots": [],
             "official_site": "https://www.wireshark.org/",
             "languages": [
@@ -9608,7 +9530,7 @@
             "languages": [
                 "rust"
             ]
-        },    
+        },
         {
             "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
             "categories": [
@@ -9662,7 +9584,7 @@
             "title": "Adium",
             "icon_url": "https://camo.githubusercontent.com/a71922d7e707859df12b40be9c5b7f84b2c3562b55b1bc145986b119abb8d136/68747470733a2f2f616469756d2e696d2f696d616765732f6c6f676f2e706e67",
             "screenshots": [
-                "http://adiumx.com/blog/uploads/2009/03/twitter-full.png"
+                "https://adiumx.com/blog/uploads/2009/03/twitter-full.png"
             ],
             "official_site": "https://adium.im/",
             "languages": [
