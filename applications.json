@@ -5918,20 +5918,6 @@
             ]
         },
         {
-            "short_description": "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ",
-            "categories": [
-                "system"
-            ],
-            "repo_url": "https://github.com/etresoft/EtreCheck",
-            "title": "EtreCheck",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Linux/Mac fork of FAR Manager v2",
             "categories": [
                 "productivity",
