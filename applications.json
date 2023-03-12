@@ -896,21 +896,6 @@
             ]
         },
         {
-            "short_description": "Ferdi is messaging application for services like WhatsApp, Slack, Messenger and many more. It started off as a hard-fork of Franz, but has now surpassed it in features.",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/getferdi/ferdi",
-            "title": "Ferdi",
-            "icon_url": "",
-            "screenshots": [
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
             "categories": [
                 "chat"
