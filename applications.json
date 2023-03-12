@@ -6428,20 +6428,6 @@
             ]
         },
         {
-            "short_description": "Life Calendar. ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/wvdk/Life-Calendar",
-            "title": "Life-Calendar",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Intelligent adaptive brightness for your external displays. ",
             "categories": [
                 "utilities"
