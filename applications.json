@@ -5088,7 +5088,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/federico-terzi/espanso",
+            "repo_url": "https://github.com/espanso/espanso",
             "title": "espanso",
             "screenshots": [
                 "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
@@ -8017,7 +8017,7 @@
             ],
             "repo_url": "https://github.com/spotter-application/spotter",
             "title": "Spotter",
-            "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
+            "icon_url": "https://github.com/spotter-application/spotter/blob/main/preview/icon.png",
             "screenshots": [],
             "official_site": "",
             "languages": [
@@ -8151,11 +8151,11 @@
                 "extensions",
                 "utilities"
             ],
-            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "repo_url": "https://github.com/artginzburg/MiddleClick-Ventura",
             "title": "Middleclick",
             "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
-                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+                "https://github.com/artginzburg/MiddleClick-Ventura/blob/master/demo.png"
             ],
             "official_site": "",
             "languages": [
@@ -8163,8 +8163,8 @@
             ]
         },
         {
-            "repo_url": "https://github.com/jet8a/pomodoro-cycle-app",
-            "official_site": "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "repo_url": "https://github.com/ziulev/pomodoro-cycle-app",
+            "official_site": "https://github.com/ziulev/pomodoro-cycle-app/releases",
             "title": "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots": [
@@ -8364,7 +8364,7 @@
             "title": "Gitify",
             "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
             "screenshots": [
-                "https://github.com/manosim/gitify/blob/master/assets/images/press.png"
+                "https://github.com/manosim/gitify/blob/main/assets/images/press.png"
             ],
             "official_site": "https://www.gitify.io/",
             "languages": [
@@ -8470,12 +8470,12 @@
             ]
         },
         {
-            "repo_url": "https://github.com/bhj/karaoke-forever",
+            "repo_url": "https://github.com/bhj/KaraokeEternal",
             "official_site": "https://www.karaoke-eternal.com/",
             "title": "Karaoke Forever",
-            "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
+            "icon_url": "https://github.com/bhj/KaraokeEternal/blob/master/assets/app.png?raw=true",
             "screenshots": [
-                "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+                "https://github.com/bhj/KaraokeEternal/blob/master/docs/assets/images/README.jpg?raw=true"
             ],
             "short_description": "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
             "languages": [
@@ -9506,7 +9506,7 @@
             ],
             "repo_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
             "title": "Wireshark",
-            "icon_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
+            "icon_url": "",
             "screenshots": [],
             "official_site": "https://www.wireshark.org/",
             "languages": [
