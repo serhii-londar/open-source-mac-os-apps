@@ -1,7 +1,7 @@
 {
     "applications": [
         {
-          "short_description": "A handy menubar translator app using Google Translate.",
+          "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
           ],
