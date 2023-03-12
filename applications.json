@@ -2445,22 +2445,6 @@
             ]
         },
         {
-            "short_description": "Create deployments right from the tray menu. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/vercel/now-desktop",
-            "title": "Now Desktop",
-            "icon_url": "",
-            "screenshots": [
-                "https://assets.zeit.co/image/upload/v1537714691/repositories/now-desktop/now-desktop-repo-banner.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "macOS app for monitoring the status of cloud services. ",
             "categories": [
                 "web-development"
