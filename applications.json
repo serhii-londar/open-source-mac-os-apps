@@ -133,25 +133,6 @@
             ]
         },
         {
-            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
-            "categories": [
-                "audio",
-                "music",
-                "menubar",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/musa11971/Music-Bar/",
-            "title": "Music Bar",
-            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
-            "screenshots": [
-                "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
-            ],
-            "official_site": "https://musa11971.github.io/Music-Bar/",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "simple drag-and-drop, password-based file encryption.",
             "categories": [
                 "security"
@@ -9493,7 +9474,7 @@
             "languages": [
                 "javascript"
             ]
-        },         
+        },
         {
             "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
             "categories": [
@@ -9608,7 +9589,7 @@
             "languages": [
                 "rust"
             ]
-        },    
+        },
         {
             "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
             "categories": [
