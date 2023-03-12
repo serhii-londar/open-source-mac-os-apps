@@ -1,6 +1,22 @@
 {
     "applications": [
-           {
+        {
+          "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
+          "categories": [
+            "menubar"
+          ],
+          "repo_url": "https://github.com/ThijmenDam/BarTranslate",
+          "title": "BarTranslate",
+          "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
+          "screenshots": [
+            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
+          ],
+          "official_site": "https://thijmendam.github.io/BarTranslate/",
+          "languages": [
+            "typescript"
+          ]
+        },
+        {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
                 "utilities"
