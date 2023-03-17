@@ -9606,6 +9606,18 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+        "short_description": "Homebrew and Open Source GUI application manager",
+        "categories": ["utilities", "productivity"],
+        "repo_url": "https://github.com/romankurnovskii/BrewMate",
+        "title": "BrewMate",
+        "icon_url": "https://a.fsdn.com/allura/p/brewmate/icon?4b8fd854030ed7eb6d9f45914590f62be6acf6e3ced47045abcd54971c81aeb0?&w=180",
+        "screenshots": [
+            "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/mainwindow.gif"
+        ],
+        "official_site": "https://romankurnovskii.com/brewmate/",
+        "languages": ["typescript"]
+        }
     ]
 }
