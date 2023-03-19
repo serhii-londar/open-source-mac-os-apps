@@ -818,6 +818,22 @@
             ]
         },
         {
+            "short_description": "Privacy-focused, multi-platform Chromium browser without Google Services. ",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/ungoogled-software/ungoogled-chromium",
+            "title": "Ungoogled Chromium",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "javascript",
+                "cpp",
+                "c"
+            ]
+        },
+        {
             "short_description": "Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.  ",
             "categories": [
                 "browser"
