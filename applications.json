@@ -9606,6 +9606,38 @@
             "languages": [
                 "c"
             ]
+},
+                {
+            "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/adium/adium",
+            "title": "Adium",
+            "icon_url": "https://camo.githubusercontent.com/a71922d7e707859df12b40be9c5b7f84b2c3562b55b1bc145986b119abb8d136/68747470733a2f2f616469756d2e696d2f696d616765732f6c6f676f2e706e67",
+            "screenshots": [
+                "https://adiumx.com/blog/uploads/2009/03/twitter-full.png"
+            ],
+            "official_site": "https://adium.im/",
+            "languages": [
+                "c"
+            ]
+},
+                {
+            "short_description": "The Tor Project Browser is a privacy-focused web browser that uses the Tor network to provide anonymous browsing and protection against tracking.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/torproject/tor",
+            "title": "Tor Browser",
+            "icon_url": "https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc",
+            "screenshots": [
+                "	https://blog.torproject.org/new-alpha-release-tor-browser-125a4/lead.webp"
+            ],
+            "official_site": "https://www.torproject.org/",
+            "languages": [
+                "c","c++"
+            ]
 }
     ]
 }
