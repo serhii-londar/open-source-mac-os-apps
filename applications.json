@@ -9606,6 +9606,22 @@
             "languages": [
                 "c"
             ]
+        },
+        {
+        "short_description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
+        "categories": [
+            "notes",
+            "text"
+        ],
+        "repo_url": "https://github.com/streetwriters/notesnook",
+        "title": "Notesnook",
+        "icon_url": "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+        "screenshots": [  "https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp"  ],
+        "official_site": "https://notesnook.com",
+        "languages": [
+            "javascript",
+            "typescript"
+        ]
 }
     ]
 }
