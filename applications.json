@@ -9606,6 +9606,24 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+            "short_description": "The ultimate productivity app for macOS that empowers users with incredible efficiency and control, all at the tip of their fingers.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/zenangst/KeyboardCowboy",
+            "title": "Keyboard Cowboy",
+            "icon_url": "https://raw.githubusercontent.com/zenangst/KeyboardCowboy/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png",
+            "screenshots": [
+                "https://github.com/zenangst/KeyboardCowboy/blob/main/gh-pages/img/app.png?raw=true",
+                "https://github.com/zenangst/KeyboardCowboy/blob/main/gh-pages/img/automation.png?raw=true"
+            ],
+            "official_site": "https://github.com/zenangst/KeyboardCowboy",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
