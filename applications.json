@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Simple yet elegant Mac OS menubar weather app.",
+            "categories": [
+                "productivity",
+            ],
+            "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
+            "title": "Quick Weather",
+            "icon_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather/blob/master/Icon.iconset/main_icon.png",
+            "screenshots": [
+               "https://github.com/Aries-Sciences-LLC/Quick-Weather/blob/master/ScreenShots/Previews/page1.png",
+               "https://github.com/Aries-Sciences-LLC/Quick-Weather/blob/master/ScreenShots/Previews/page2.png"
+            ],
+            "official_site": "https://apps.apple.com/in/app/quick-weather/id1450762254",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Allows users to easily host their local images to the internet through multiple services.",
             "categories": [
                 "sharing-files",
