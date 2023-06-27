@@ -259,6 +259,23 @@
             ]
         },
         {
+            "short_description": "Audio Sample manager.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/bazalp/pulp",
+            "title": "Pulp",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Open source tool for managing i18n keys in software projects.",
             "categories": [
                 "web-development"
