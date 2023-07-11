@@ -9592,6 +9592,26 @@
           ]
         },
         {
+            "short_description": "A simple screenshotting utility for thinking clearly.",
+            "categories": [
+                "productivity",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/salemhilal/ScreenHint",
+            "title": "ScreenHint",
+            "icon_url": "https://raw.githubusercontent.com/salemhilal/ScreenHint/main/ScreenHint/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true",
+            "screenshots": [
+                "https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true",
+                "https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true",
+                "https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true",
+            ],
+            "official_site": "https://screenhint.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
             "categories": [
                 "chat"
