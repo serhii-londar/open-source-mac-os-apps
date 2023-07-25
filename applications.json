@@ -7964,6 +7964,24 @@
             ]
         },
         {
+            "short_description": "Small utility for visualizing disk usage using tree maps.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://git.code.sf.net/p/grandperspectiv/source",
+            "title": "GrandPerspective",
+            "icon_url": "https://grandperspectiv.sourceforge.net/Images/GrandPerspectiveIcon.png",
+            "screenshots": [
+                "https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Folders_Bujumbura.png",
+                "https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Filetype_OrigamiMice.png",
+                "https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Creation_Heathmap12.png"
+            ],
+            "official_site": "https://grandperspectiv.sourceforge.net",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
             "categories": [
                 "utilities"
