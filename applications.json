@@ -9606,6 +9606,27 @@
             "languages": [
                 "c"
             ]
-}
+},
+            {
+            "short_description": "Beaver Notes is an open-source, privacy-focused note-taking app for Windows, macOS, and Linux.",
+            "categories": [
+                "Productivity",
+                "Note-Taking"
+            ],
+            "repo_url": "https://github.com/Daniele-rolli/Beaver-Notes",
+            "title": "Beaver Notes",
+            "icon_url": "https://github.com/Daniele-rolli/beaver-website/blob/main/public/resources/Beaver-Icon.png",
+            "screenshots": [
+               "https://github.com/Daniele-rolli/beaver-website/blob/main/public/resources/systems.jpeg",
+               "https://github.com/Daniele-rolli/beaver-website/blob/main/public/resources/app.png"
+            ],
+            "official_site": "https://www.beavernotes.com/",
+            "languages": [
+                "Vue"
+                "JavaScript"
+                "CSS"
+                "HTML"
+            ]
+        },
     ]
 }
