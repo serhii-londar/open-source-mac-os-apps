@@ -9606,6 +9606,21 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+            "short_description": "Your ultimate GPT companion for seamless access on your Mac",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nsmet/omniprompt-gpt-mac-app",
+            "title": "OmniPrompt",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://omniprompt.app/",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
