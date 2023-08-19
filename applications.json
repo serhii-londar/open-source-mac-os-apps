@@ -9606,6 +9606,23 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+            "short_description": "An Small, Exquisite App with Fine Animations that Tidys Up Your Menubar.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/KrLite/Stalker",
+            "title": "Stalker",
+            "icon_url": "https://github.com/KrLite/Stalker/raw/main/Stalker/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x@2x.png?raw=true",
+            "screenshots": [
+                "https://github.com/KrLite/Stalker/raw/main/Docs/Contents/English/Overview.png?raw=true",
+                "https://github.com/KrLite/Stalker/raw/main/Docs/Contents/简体中文/Light/1.png?raw=true"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        }
     ]
 }
