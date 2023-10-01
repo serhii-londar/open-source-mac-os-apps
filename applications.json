@@ -9606,6 +9606,23 @@
             "languages": [
                 "c"
             ]
-}
+        },
+        {
+            "short_description": "Open source binaries of Visual Studio Code, without telemetry or proprietary software.",
+            "categories": [
+                "editors"
+            ],
+            "repo_url": "https://github.com/VSCodium/vscodium",
+            "title": "VSCodium",
+            "icon_url": "https://vscodium.com/img/codium_cnl.svg",
+            "screenshots": [
+               "https://vscodium.com/img/vscodium.png"
+            ],
+            "official_site": "https://vscodium.com/",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
+        }
     ]
 }
