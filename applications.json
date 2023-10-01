@@ -9592,6 +9592,23 @@
           ]
         },
         {
+            "short_description": "A Hex Editor for Reverse Engineers.",
+            "categories": [
+                "Editors".
+                "IDE"
+            ],
+            "repo_url": "https://github.com/WerWolv/ImHex/",
+            "title": "ImHex",
+            "icon_url": "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/windows/icon.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/projects/splash_screen.svg"
+            ],
+            "official_site": "https://imhex.werwolv.net/",
+            "languages": [
+                "c++"
+            ]
+        },
+        {
             "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
             "categories": [
                 "chat"
@@ -9606,6 +9623,6 @@
             "languages": [
                 "c"
             ]
-}
+        }
     ]
 }
