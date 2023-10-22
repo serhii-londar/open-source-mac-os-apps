@@ -9606,6 +9606,22 @@
             "languages": [
                 "c"
             ]
-}
+		},
+		{
+            "short_description": "gPodder is a simple, open source podcast client.",
+            "categories": [
+                "podcast"
+            ],
+            "repo_url": "https://github.com/gpodder/gpodder",
+            "title": "gPodder",
+            "icon_url": "",
+            "screenshots": [
+				"https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+            ],
+            "official_site": "https://gpodder.github.io/",
+            "languages": [
+                "python"
+            ]
+        }
     ]
 }
