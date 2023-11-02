@@ -9592,6 +9592,22 @@
           ]
         },
         {
+            "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/okwasniewski/MiniSim",
+            "title": "MiniSim",
+            "icon_url": "https://github.com/okwasniewski/MiniSim/blob/main/MiniSim/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/52801365/223483262-aa3bad72-2948-4893-87a0-578e5d3d8e89.png"
+            ],
+            "official_site": "https://www.minisim.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
             "categories": [
                 "chat"
