@@ -2767,6 +2767,25 @@
             ]
         },
         {
+            "short_description": "MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/MarkEdit-app/MarkEdit",
+            "title": "MarkEdit",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/0b/09/470b096f-fa45-b056-7f71-9cdde6b5c392/AppIcon-85-220-4-2x.png/460x0w.png",
+            "screenshots": [
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/01.png",
+                "https://github.com/MarkEdit-app/MarkEdit/raw/main/Screenshots/02.png",
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/03.png"
+            ],
+            "official_site": "https://markedit.app/",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
