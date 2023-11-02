@@ -317,6 +317,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Editors
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
+- [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS ![swift_icon] 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
 
 #### CSV
