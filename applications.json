@@ -9567,6 +9567,22 @@
             ]
         },
         {
+            "short_description": "An editor for macOS",
+            "categories": [
+                "editors"
+            ],
+            "repo_url": "https://github.com/ChimeHQ/Chime",
+            "title": "Chime",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.chimehq.com/assets/images/laptop-frame-large.png"
+            ],
+            "official_site": "https://www.chimehq.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
           "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
           "categories": [
             "database"
