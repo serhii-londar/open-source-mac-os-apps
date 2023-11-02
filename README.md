@@ -319,6 +319,7 @@ You can see in which language an app is written. Currently there are following l
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS ![swift_icon] 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
+- [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c_icon] ![c++_icon] 
 
 #### CSV
 - [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS.  ![objective_c_icon] 
@@ -331,6 +332,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.  ![elm_icon] 
 - [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.  ![objective_c_icon] 
 - [Mark Text](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.  ![javascript_icon] 
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown. ![swift_icon] ![typescript_icon] 
 - [Notenik](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift_icon] 
 - [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript_icon] 
 - [Pine](https://github.com/lukakerr/Pine) - A modern MacOS markdown editor.  ![swift_icon] 
@@ -344,6 +346,7 @@ You can see in which language an app is written. Currently there are following l
 #### Text
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.  ![swift_icon] 
+- [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c_icon] ![c++_icon] 
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS.  ![c_icon] 
 - [Noto](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.  ![swift_icon] 
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature. ![objective_c_icon] 
@@ -417,6 +420,7 @@ You can see in which language an app is written. Currently there are following l
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift_icon] 
 - [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript_icon] 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift_icon] 
+- [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c_icon] ![c++_icon] 
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java_icon] 
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE. ![c_icon] 
 - [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![typescript_icon] 
@@ -587,6 +591,7 @@ You can see in which language an app is written. Currently there are following l
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon] 
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ![javascript_icon] 
+- [gPodder](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client. ![python_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
 
 ### Productivity
