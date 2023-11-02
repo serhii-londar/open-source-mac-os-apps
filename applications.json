@@ -9648,7 +9648,7 @@
         {
             "short_description": "A Hex Editor for Reverse Engineers.",
             "categories": [
-                "Editors".
+                "Editors",
                 "IDE"
             ],
             "repo_url": "https://github.com/WerWolv/ImHex/",
