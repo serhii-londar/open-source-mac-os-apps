@@ -2767,6 +2767,25 @@
             ]
         },
         {
+            "short_description": "MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/MarkEdit-app/MarkEdit",
+            "title": "MarkEdit",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/0b/09/470b096f-fa45-b056-7f71-9cdde6b5c392/AppIcon-85-220-4-2x.png/460x0w.png",
+            "screenshots": [
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/01.png",
+                "https://github.com/MarkEdit-app/MarkEdit/raw/main/Screenshots/02.png",
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/03.png"
+            ],
+            "official_site": "https://markedit.app/",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
@@ -9567,6 +9586,22 @@
             ]
         },
         {
+            "short_description": "An editor for macOS",
+            "categories": [
+                "editors"
+            ],
+            "repo_url": "https://github.com/ChimeHQ/Chime",
+            "title": "Chime",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.chimehq.com/assets/images/laptop-frame-large.png"
+            ],
+            "official_site": "https://www.chimehq.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
           "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
           "categories": [
             "database"
@@ -9592,6 +9627,40 @@
           ]
         },
         {
+            "short_description": "A Hex Editor for Reverse Engineers.",
+            "categories": [
+                "Editors".
+                "IDE"
+            ],
+            "repo_url": "https://github.com/WerWolv/ImHex/",
+            "title": "ImHex",
+            "icon_url": "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/windows/icon.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/projects/splash_screen.svg"
+            ],
+            "official_site": "https://imhex.werwolv.net/",
+            "languages": [
+                "c++"
+             ]
+        },
+        {
+            "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/okwasniewski/MiniSim",
+            "title": "MiniSim",
+            "icon_url": "https://github.com/okwasniewski/MiniSim/blob/main/MiniSim/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/52801365/223483262-aa3bad72-2948-4893-87a0-578e5d3d8e89.png"
+            ],
+            "official_site": "https://www.minisim.app/",
+            "languages": [
+                "swift"
+
+            ]
+        },
+        {
             "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
             "categories": [
                 "chat"
@@ -9606,8 +9675,8 @@
             "languages": [
                 "c"
             ]
-		},
-		{
+		    },
+		    {
             "short_description": "gPodder is a simple, open source podcast client.",
             "categories": [
                 "podcast"
@@ -9616,7 +9685,7 @@
             "title": "gPodder",
             "icon_url": "https://raw.githubusercontent.com/gpodder/gpodder/master/share/icons/hicolor/64x64/apps/gpodder.png",
             "screenshots": [
-				"https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+				        "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
             ],
             "official_site": "https://gpodder.github.io/",
             "languages": [
