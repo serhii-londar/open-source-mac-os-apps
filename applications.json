@@ -9608,6 +9608,23 @@
           ]
         },
         {
+            "short_description": "A Hex Editor for Reverse Engineers.",
+            "categories": [
+                "Editors".
+                "IDE"
+            ],
+            "repo_url": "https://github.com/WerWolv/ImHex/",
+            "title": "ImHex",
+            "icon_url": "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/windows/icon.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/projects/splash_screen.svg"
+            ],
+            "official_site": "https://imhex.werwolv.net/",
+            "languages": [
+                "c++"
+             ]
+        },
+        {
             "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
             "categories": [
                 "menubar"
@@ -9621,6 +9638,7 @@
             "official_site": "https://www.minisim.app/",
             "languages": [
                 "swift"
+
             ]
         },
         {
@@ -9638,6 +9656,6 @@
             "languages": [
                 "c"
             ]
-}
+        }
     ]
 }
