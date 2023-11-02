@@ -3435,6 +3435,25 @@
             ]
         },
         {
+            "short_description": "Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
+            "categories": [
+                "ide",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/geany/geany",
+            "title": "Geany",
+            "icon_url": "https://raw.githubusercontent.com/geany/geany/master/icons/48x48/geany.png",
+            "screenshots": [
+                "https://www.geany.org/media/uploads/screenshots/geany_dark_2019-05-20.png"
+            ],
+            "official_site": "https://www.geany.org/",
+            "languages": [
+                "c",
+                "c++"
+            ]
+        },
+        {
             "short_description": "ubiquitous text editor",
             "categories": [
                 "ide"
