@@ -736,7 +736,8 @@ You can see in which language an app is written. Currently there are following l
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.  ![swift_icon] 
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
-- [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon] 
+- [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. ![shell_icon]
+- [Terminator](https://github.com/gnome-terminator/terminator) - Terminal emulator for macOS that lets you open multiple GNOME terminals in one window. ![python icon]
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.  ![swift_icon] 
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust_icon] 
 
