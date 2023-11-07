@@ -9718,7 +9718,7 @@
             ],
             "repo_url": "https://github.com/Lukentui/smotrite-app",
             "title": "Smotrite",
-            "icon_url": "https://github.com/Lukentui/smotrite-app/blob/main/etc/icons/512x512x32.png",
+            "icon_url": "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/icons/512x512x32.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/1.png",
                 "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/2.png"
