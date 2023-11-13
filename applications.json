@@ -1,6 +1,16 @@
 {
   "applications": [
     {
+      "short_description": "A GUI wrapper for controlling Gatekeeper based on wynioux's CLI tool.",
+      "categories": ["security"],
+      "repo_url": "https://github.com/alienator88/Sentinel",
+      "title": "Sentinel",
+      "icon_url": "https://user-images.githubusercontent.com/6263626/227031704-96a1b004-b0bc-4286-a66a-5807b0c6807a.png",
+      "screenshots": ["https://user-images.githubusercontent.com/6263626/228045682-b806bb2c-065d-429f-b9ea-33899d25d5ed.png"],
+      "official_site": "https://itsalin.com",
+      "languages": ["swift"]
+    },
+    {
       "short_description": "A swiftUI based mac app cleaner inspired by Freemacsoft's AppCleaner.",
       "categories": ["utilities"],
       "repo_url": "https://github.com/alienator88/Pearcleaner",
