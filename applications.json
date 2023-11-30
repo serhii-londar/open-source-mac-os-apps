@@ -3402,17 +3402,15 @@
             ]
         },
         {
-            "short_description": "Code editor developed by Microsoft. ",
+            "short_description": "Code editor developed by Microsoft without proprietary components.",
             "categories": [
                 "ide"
             ],
-            "repo_url": "https://github.com/Microsoft/vscode",
-            "title": "Visual Studio Code",
+            "repo_url": "https://github.com/VSCodium/vscodium",
+            "title": "VSCodium",
             "icon_url": "",
-            "screenshots": [
-                "https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png"
-            ],
-            "official_site": "",
+            "screenshots": [],
+            "official_site": "https://vscodium.com",
             "languages": [
                 "typescript"
             ]
