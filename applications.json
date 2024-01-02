@@ -2767,6 +2767,25 @@
             ]
         },
         {
+            "short_description": "MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/MarkEdit-app/MarkEdit",
+            "title": "MarkEdit",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/0b/09/470b096f-fa45-b056-7f71-9cdde6b5c392/AppIcon-85-220-4-2x.png/460x0w.png",
+            "screenshots": [
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/01.png",
+                "https://github.com/MarkEdit-app/MarkEdit/raw/main/Screenshots/02.png",
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/03.png"
+            ],
+            "official_site": "https://markedit.app/",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
@@ -3413,6 +3432,25 @@
             "official_site": "https://www.codeedit.app/",
             "languages": [
                 "swift"
+            ]
+        },
+        {
+            "short_description": "Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
+            "categories": [
+                "ide",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/geany/geany",
+            "title": "Geany",
+            "icon_url": "https://raw.githubusercontent.com/geany/geany/master/icons/48x48/geany.png",
+            "screenshots": [
+                "https://www.geany.org/media/uploads/screenshots/geany_dark_2019-05-20.png"
+            ],
+            "official_site": "https://www.geany.org/",
+            "languages": [
+                "c",
+                "c++"
             ]
         },
         {
@@ -9567,6 +9605,22 @@
             ]
         },
         {
+            "short_description": "An editor for macOS",
+            "categories": [
+                "editors"
+            ],
+            "repo_url": "https://github.com/ChimeHQ/Chime",
+            "title": "Chime",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.chimehq.com/assets/images/laptop-frame-large.png"
+            ],
+            "official_site": "https://www.chimehq.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
           "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
           "categories": [
             "database"
@@ -9592,6 +9646,40 @@
           ]
         },
         {
+            "short_description": "A Hex Editor for Reverse Engineers.",
+            "categories": [
+                "Editors",
+                "IDE"
+            ],
+            "repo_url": "https://github.com/WerWolv/ImHex/",
+            "title": "ImHex",
+            "icon_url": "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/windows/icon.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/projects/splash_screen.svg"
+            ],
+            "official_site": "https://imhex.werwolv.net/",
+            "languages": [
+                "c++"
+             ]
+        },
+        {
+            "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/okwasniewski/MiniSim",
+            "title": "MiniSim",
+            "icon_url": "https://github.com/okwasniewski/MiniSim/blob/main/MiniSim/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/52801365/223483262-aa3bad72-2948-4893-87a0-578e5d3d8e89.png"
+            ],
+            "official_site": "https://www.minisim.app/",
+            "languages": [
+                "swift"
+
+            ]
+        },
+        {
             "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
             "categories": [
                 "chat"
@@ -9608,16 +9696,32 @@
             ]
         },
         {
-        "short_description": "Homebrew and Open Source GUI application manager",
-        "categories": ["utilities", "productivity"],
-        "repo_url": "https://github.com/romankurnovskii/BrewMate",
-        "title": "BrewMate",
-        "icon_url": "https://a.fsdn.com/allura/p/brewmate/icon?4b8fd854030ed7eb6d9f45914590f62be6acf6e3ced47045abcd54971c81aeb0?&w=180",
-        "screenshots": [
-            "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/mainwindow.gif"
-        ],
-        "official_site": "https://romankurnovskii.com/brewmate/",
-        "languages": ["typescript"]
+            "short_description": "Homebrew and Open Source GUI application manager",
+            "categories": ["utilities", "productivity"],
+            "repo_url": "https://github.com/romankurnovskii/BrewMate",
+            "title": "BrewMate",
+            "icon_url": "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/icon1024nocorner.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/mainwindow.gif"
+            ],
+            "official_site": "https://romankurnovskii.com/brewmate/",
+            "languages": ["typescript"]
+		    },
+		    {
+            "short_description": "gPodder is a simple, open source podcast client.",
+            "categories": [
+                "podcast"
+            ],
+            "repo_url": "https://github.com/gpodder/gpodder",
+            "title": "gPodder",
+            "icon_url": "https://raw.githubusercontent.com/gpodder/gpodder/master/share/icons/hicolor/64x64/apps/gpodder.png",
+            "screenshots": [
+				        "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+            ],
+            "official_site": "https://gpodder.github.io/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
