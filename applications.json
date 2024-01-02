@@ -9694,6 +9694,18 @@
             "languages": [
                 "c"
             ]
+        },
+        {
+            "short_description": "Homebrew and Open Source GUI application manager",
+            "categories": ["utilities", "productivity"],
+            "repo_url": "https://github.com/romankurnovskii/BrewMate",
+            "title": "BrewMate",
+            "icon_url": "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/icon1024nocorner.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/romankurnovskii/BrewMate/main/assets/mainwindow.gif"
+            ],
+            "official_site": "https://romankurnovskii.com/brewmate/",
+            "languages": ["typescript"]
 		    },
 		    {
             "short_description": "gPodder is a simple, open source podcast client.",
