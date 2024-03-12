@@ -6835,6 +6835,20 @@
             ]
         },
         {
+            "short_description": "WireGuard VPN client with real 2FA/MFA support",
+            "categories": [
+                "vpn--proxy"
+            ],
+            "repo_url": "https://github.com/defguard/client",
+            "title": "Defguard",
+            "icon_url": "",
+            "screenshots": ['https://camo.githubusercontent.com/25672075639b7c8be8a9341fcfe51e26620d9741ee5f26bb7272f9eb86cdcc0a/68747470733a2f2f64656667756172642e6e65742f696d616765732f70726f647563742f636c69656e742f6d61696e2d73637265656e2e706e67'],
+            "official_site": "https://defguard.net/client",
+            "languages": [
+                "Rust", "React"
+            ]
+        },
+        {
             "short_description": "Next Generation of ShadowsocksX. ",
             "categories": [
                 "vpn--proxy"
