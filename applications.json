@@ -9694,8 +9694,8 @@
             "languages": [
                 "c"
             ]
-		    },
-		    {
+		},
+		{
             "short_description": "gPodder is a simple, open source podcast client.",
             "categories": [
                 "podcast"
@@ -9709,6 +9709,22 @@
             "official_site": "https://gpodder.github.io/",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "short_description": "caffeinate wrapper stay at menu bar.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://github.com/LZhenHong/Americano",
+            "title": "Americano",
+            "icon_url": "https://github.com/LZhenHong/Americano/blob/main/Americano/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon_128.png",
+            "screenshots": [
+                "https://github.com/LZhenHong/Americano/blob/main/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
             ]
         }
     ]
