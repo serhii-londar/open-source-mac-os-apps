@@ -6265,6 +6265,26 @@
             ]
         },
         {
+            "short_description": "Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/wavetermdev/waveterm",
+            "title": "Wave Terminal",
+            "icon_url": "",
+            "screenshots": [
+                "https://mintlify.s3-us-west-1.amazonaws.com/commandline/images/screenshot.png",
+                "https://mintlify.s3-us-west-1.amazonaws.com/commandline/images/codeedit.gif",
+                "https://mintlify.s3-us-west-1.amazonaws.com/commandline/images/waveai.gif",
+                "https://mintlify.s3-us-west-1.amazonaws.com/commandline/images/fileViewers/pdfview.gif",
+                "https://mintlify.s3-us-west-1.amazonaws.com/commandline/images/history_cmdh.gif"
+            ],
+            "official_site": "https://waveterm.dev",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "One-click screenshots, video recordings, app installation for iOS and Android ",
             "categories": [
                 "utilities"
