@@ -1,6 +1,5 @@
 {
     "applications": [
-
 	    {
             "short_description": "Minimalistic app that displays the current calendar week number (ISO 8601) in the menubar.",
             "categories": [
