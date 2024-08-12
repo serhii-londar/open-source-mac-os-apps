@@ -9710,6 +9710,22 @@
             "languages": [
                 "python"
             ]
-        }
+        },
+        {
+            "short_description": "Window management made elegant.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/MrKai77/Loop",
+            "title": "Loop",
+            "icon_url": "https://github.com/MrKai77/Loop/raw/develop/assets/graphics/Classic.png",
+            "screenshots": [
+                "https://github.com/MrKai77/Loop/raw/develop/assets/graphics/loop_demo.gif",
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
     ]
 }
