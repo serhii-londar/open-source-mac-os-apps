@@ -789,7 +789,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction  ![swift_icon] 
 - [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell_icon] 
 - [Nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp_icon] 
-- [Nmap](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp_icon] 
+- [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp_icon] 
 - [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar. ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
