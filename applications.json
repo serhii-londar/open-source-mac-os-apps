@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "A script to automate tasks when connect a device to your Mac",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Piero24/PlugNPlayMac",
+            "title": "PlugNPlayMac",
+            "icon_url": "https://raw.githubusercontent.com/Piero24/PlugNPlayMac/main/.github/image/logo.png",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "shell"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
