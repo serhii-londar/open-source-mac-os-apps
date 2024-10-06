@@ -1,0 +1,17 @@
+name: Generate Readme
+on: 
+  push:
+    branches:    
+      - master
+jobs:
+  generate-readme:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: swift ./.github/main.swift
+      - run: chmod +x ./.github/deploy.sh
+      - run: git config user.name "serhii-londar"
+      - run: git config user.email "serhii.londar@gmail.com"
+      - run: git add README.md
+      - run: git commit -m "Generate README"
+      - run: git push --quiet "https://${API_TOKEN}@github.com/serhii-londar/open-source-mac-os-apps.git"  master:master > /dev/null 2>&1

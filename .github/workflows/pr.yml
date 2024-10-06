@@ -1,0 +1,14 @@
+name: Check PR
+on:
+  pull_request:
+    branches:
+      - master
+jobs:
+  setup:
+    runs-on: macos-latest
+    steps:
+      - run: gem install awesome_bot
+      - run: gem install bundler
+      - run: gem install danger
+      - uses: actions/checkout@v3
+      - run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
