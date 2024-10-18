@@ -9710,6 +9710,23 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "short_description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/milanvarady/Applite",
+            "title": "Applite",
+            "icon_url": "https://aerolite.dev/img/applite/AppliteIcon512.png",
+            "screenshots": [
+               "https://aerolite.dev/img/applite/discover-page.png",
+               "https://aerolite.dev/img/applite/productivity.png"
+            ],
+            "official_site": "https://aerolite.dev/applite",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
