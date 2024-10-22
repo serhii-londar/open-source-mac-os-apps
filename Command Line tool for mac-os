@@ -1,0 +1,49 @@
+There are many open-source command-line tools available for macOS that can enhance your productivity, help with development, system administration, and more. Here are some popular ones:
+
+1. **Homebrew:** Homebrew is a popular package manager for macOS that allows you to easily install and manage a wide range of open-source software packages. It simplifies the installation of various tools and libraries.
+
+   Website: [Homebrew](https://brew.sh/)
+
+2. **Git:** Git is a distributed version control system used by developers to track changes in source code. It comes pre-installed on macOS, and it's open source.
+
+3. **Python:** Python is a powerful programming language that comes pre-installed on macOS. You can use it for a wide range of tasks, from scripting to web development.
+
+   Website: [Python](https://www.python.org/)
+
+4. **Node.js:** Node.js is an open-source, cross-platform JavaScript runtime for building server-side and networking applications. You can install it using Homebrew.
+
+   Website: [Node.js](https://nodejs.org/)
+
+5. **curl:** Curl is a command-line tool for transferring data with URLs. It's useful for making HTTP requests, downloading files, and more.
+
+6. **Wget:** Wget is another command-line tool for downloading files from the internet. It supports recursive downloads and is handy for mirroring websites.
+
+7. **tmux:** tmux is a terminal multiplexer that allows you to run multiple terminal sessions within a single window. It's great for managing and organizing terminal workspaces.
+
+   Website: [tmux](https://tmux.github.io/)
+
+8. **Vim or Neovim:** Vim and Neovim are highly configurable and extensible text editors that are particularly popular among developers. They can be customized with various plugins for different programming languages.
+
+   Website: [Vim](https://www.vim.org/) or [Neovim](https://neovim.io/)
+
+9. **jq:** jq is a lightweight and flexible command-line JSON processor. It's great for parsing and manipulating JSON data.
+
+   Website: [jq](https://stedolan.github.io/jq/)
+
+10. **htop:** htop is an interactive process viewer for the terminal. It provides a more user-friendly and feature-rich alternative to the built-in 'top' command.
+
+   Website: [htop](https://hisham.hm/htop/)
+
+11. **Midnight Commander (mc):** Midnight Commander is a text-based file manager for the terminal. It provides a convenient way to navigate and manipulate files and directories.
+
+   Website: [Midnight Commander](https://midnight-commander.org/)
+
+12. **ag (The Silver Searcher):** The Silver Searcher is a code searching tool similar to 'grep,' but it's faster and designed for programmers.
+
+   Website: [The Silver Searcher](https://geoff.greer.fm/ag/)
+
+13. **fd:** fd is a simple and fast alternative to 'find' for searching and listing files in the terminal.
+
+   Website: [fd](https://github.com/sharkdp/fd)
+
+These tools can be installed via Homebrew or downloaded and installed manually, depending on your preference. Remember to check for the most up-to-date versions and documentation on their respective websites or GitHub repositories.
