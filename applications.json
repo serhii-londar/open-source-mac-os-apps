@@ -3958,6 +3958,23 @@
             ]
         },
         {
+            "short_description": "The missing Applications Menu for macOS.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/barseghyanartur/app-menu",
+            "title": "app-menu",
+            "icon_url": "https://github.com/barseghyanartur/app-menu/blob/main/ApplicationMenu/Assets.xcassets/AppIcon.appiconset/icon_32x32.png",
+            "screenshots": [
+		"https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_screenshot.jpg",
+		"https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_configuration_dir_access.jpg"
+	    ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Put the output from any script or program into your macOS Menu Bar. ",
             "categories": [
                 "menubar"
