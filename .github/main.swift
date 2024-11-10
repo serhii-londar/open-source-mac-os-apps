@@ -45,6 +45,7 @@ You can see in which language an app is written. Currently there are following l
 - ![haskell_icon] - Haskell language.
 - ![javascript_icon] - JavaScript language.
 - ![lua_icon] - Lua language.
+- ![metal_icon] - Metal language.
 - ![objective_c_icon] - Objective-C language.
 - ![python_icon] - Python language.
 - ![ruby_icon] - Ruby language.
@@ -128,6 +129,7 @@ Thanks to all the people who contribute:
 [java_icon]: ./icons/java-16.png 'Java language.'
 [javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
 [lua_icon]: ./icons/Lua-16.png 'Lua language.'
+[metal_icon]: ./icons/metal-16.png 'Metal language.'
 [objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
