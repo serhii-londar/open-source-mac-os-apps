@@ -207,6 +207,12 @@
     "id": "text",
     "parent": "editors",
     "description": ""
+}, {
+    "title": "Jailbreak",
+    "id": "jailbreak",
+    "parent": "community",
+    "description": ""
+
 }
-]
 }
+
