@@ -9710,6 +9710,22 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "short_description": "Archive previewer to save disk space. Supports nested archives and file previews.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/SarensX/MacPacker/",
+            "title": "MacPacker",
+            "icon_url": "",
+            "screenshots": [
+                "https://macpacker.app/assets/images/image01.gif"
+            ],
+            "official_site": "https://macpacker.app/ ",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
