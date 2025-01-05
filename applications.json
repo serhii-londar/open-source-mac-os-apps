@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+          "short_description": "Visual editor of Markdown document, tasks and tables.",
+          "categories": [
+                "markdown",
+                "editors",
+                "text"          ],
+          "repo_url": "https://github.com/maxnd/mxMarkEdit",
+          "title": "mxMarkEdit",
+          "icon_url": "https://github.com/maxnd/mxMarkEdit/blob/main/icon128.png",
+          "screenshots": [
+            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png",
+            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png",
+            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png",
+            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot4.png"
+          ],
+          "official_site": "https://github.com/maxnd/mxMarkEdit",
+          "languages": [
+            "free-pascal"
+          ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
