@@ -1,7 +1,7 @@
 {
     "applications": [
         {
-          "short_description": "Visual editor of Markdown document, tasks and tables.",
+          "short_description": "A visual editor of Markdown document, tasks and tables.",
           "categories": [
                 "markdown",
                 "editors",
