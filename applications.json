@@ -9710,6 +9710,18 @@
             "languages": [
                 "python"
             ]
-        }
+        },
+	{
+	     "short_description": "Video editing software designed for motion effects and versatility.",
+	     "categories": ["graphics"],
+	     "repo_url": "https://github.com/cartesiancs/nugget-app",
+	     "title": "Nugget",
+	     "icon_url": "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/assets/icons/png/512x512.png",
+	     "screenshots": [
+	        "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/.github/screenshotv1.png"
+	     ],
+	     "official_site": "",
+	     "languages": ["typescript"]
+	}
     ]
 }
