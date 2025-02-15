@@ -1124,9 +1124,9 @@
 	    ],
 	    "repo_url": "https://github.com/bitcoin/bitcoin",
 	    "title": "Bitcoin Core",
-	    "icon_url": "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/bitcoin_core_logo_colored_reversed.png?raw=true",
+	    "icon_url": "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/bitcoin_core_logo_colored_reversed.png",
 	    "screenshots": [
-	        "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png?raw=true"
+	        "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png"
 	    ],
 	    "official_site": "https://bitcoincore.org/",
 	    "languages": [
