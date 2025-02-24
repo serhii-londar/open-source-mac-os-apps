@@ -9710,6 +9710,47 @@
             "languages": [
                 "python"
             ]
-        }
+        },
+	{
+	    "short_description": "Emacs is a extensible text editor/ide/universal sink.",
+            "categories" : [
+                "editors", "ide", "text", "development", "git", "terminal", "other-development", "tex", "web-development", "markdown", "json"		
+	    ],
+	    "repo_url": "https://savannah.gnu.org/projects/emacs/",
+	    "title": "GNU Emacs",
+	    "icon_url": "https://www.gnu.org/savannah-checkouts/gnu/emacs/images/gnu.transparent.png",
+            "screenshots": [
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/splash.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/hello.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/latex.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/code.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/gdb.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/ediff.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/dired.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/gnus.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/manual.png",
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/shell.png"
+	    ],
+	    "official_site": "https://www.gnu.org/software/emacs/",
+	    "languages": [
+		"c", "elisp"
+	    ]
+	},
+	{
+	    "short_description": "Emacs Universal Text Sink.  Precompiled for Mac OS X."
+	    "categories" : [
+                "editors", "development", "other-development", "web-development"	
+	    ],
+	    "repo_url": "https://savannah.gnu.org/projects/emacs/",
+	    "title": "GNU Emacs (precompiled for Mac OS X)",
+	    "icon_url": "https://www.gnu.org/savannah-checkouts/gnu/emacs/images/gnu.transparent.png",
+            "screenshots": [
+		    "https://www.gnu.org/savannah-checkouts/gnu/emacs/tour/images/splash.png"
+	    ],
+	    "official_site": "https://emacsformacosx.com/",
+	    "languages": [
+		"c", "elisp"
+	    ]
+	}
     ]
 }
