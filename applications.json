@@ -23,7 +23,7 @@
             ],
             "repo_url": "https://github.com/aonez/Keka",
             "title": "Keka",
-            "icon_url": "",
+            "icon_url": "https://www.keka.io/img/Keka-Square-512x512.png",
             "screenshots": [
                 "https://www.keka.io/img/Keka-Square-512x512.png"
             ],
@@ -58,7 +58,7 @@
             ],
             "repo_url": "https://github.com/minbrowser/min",
             "title": "Min Browser",
-            "icon_url": "",
+            "icon_url": "https://www.google.com/s2/favicons?sz=256&domain=minbrowser.org",
             "screenshots": [],
             "official_site": "https://minbrowser.org",
             "languages": [
@@ -72,7 +72,7 @@
             ],
             "repo_url": "https://github.com/borgbase",
             "title": "BorgBase/Vorta",
-            "icon_url": "",
+            "icon_url": "https://www.google.com/s2/favicons?sz=256&domain=www.borgbase.com",
             "screenshots": [],
             "official_site": "https://www.borgbase.com/",
             "languages": [
@@ -84,10 +84,12 @@
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/mnndnl/market-bar ",
+            "repo_url": "https://github.com/mnndnl/market-bar",
             "title": "Market Bar",
             "icon_url": "",
-            "screenshots": [],
+            "screenshots": [
+		    "https://raw.githubusercontent.com/mnndnl/market-bar/refs/heads/main/media/marketbar_screenshot_1.png"
+	    ],
             "official_site": "",
             "languages": [
                 "swift"
