@@ -9710,6 +9710,23 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "short_description": "Replace the Git CLI with a clear UI and AI assist.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/maoyama/Tempo",
+            "title": "Tempo",
+            "icon_url": "https://raw.githubusercontent.com/maoyama/Tempo/refs/heads/main/GitClient/Assets.xcassets/AppIcon.appiconset/icon1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maoyama/Tempo/refs/heads/main/Screenshots/Screenshot.png",
+                "https://raw.githubusercontent.com/maoyama/Tempo/refs/heads/main/Screenshots/Screenshot2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
