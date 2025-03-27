@@ -230,6 +230,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gitify](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar. ![javascript_icon] 
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.  ![javascript_icon] 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) - macOS status bar application for tracking code review process within the team.  ![swift_icon] 
+- [Tempo](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist. ![swift_icon] 
 - [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.  ![swift_icon] 
 - [Xit](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories.  ![swift_icon] 
 - [osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell_icon] ![applescript_icon] 
