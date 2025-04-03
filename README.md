@@ -4,7 +4,7 @@
 <img src="./icons/icon.png">
 </p>
 
-# Awesome macOS open source applications
+# NEO macOS open source applications
 
 <p align="left">
 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
@@ -13,7 +13,7 @@
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-To receive all new or popular applications you can join our [telegram channel](https://t.me/opensourcemacosapps).
+To receive all new or popular applications you can join our [telegram channel]([https://t.me/+wwEOJ1za839hZDRh]).
 
 ## Support
 
