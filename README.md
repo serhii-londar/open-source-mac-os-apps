@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
   </a>
   
-  <img src="./icons/icon.png" width="160" height="160">
+  <img src="./icons/icon.png">
   <h1>Awesome macOS Open Source Applications</h1>
   <p>A curated list of open source applications for macOS</p>
   <p>
