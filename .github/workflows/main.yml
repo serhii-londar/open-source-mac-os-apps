@@ -9,7 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: swift ./.github/main.swift
-      - run: chmod +x ./.github/deploy.sh
       - run: git config user.name "serhii-londar"
       - run: git config user.email "serhii.londar@gmail.com"
       - run: git add README.md

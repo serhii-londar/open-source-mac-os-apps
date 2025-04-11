@@ -9,17 +9,33 @@
 import Foundation
 
 let header = """
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+<div align="center">
+  <a href="https://vshymanskyy.github.io/StandWithUkraine">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
+  </a>
+  
+  <img src="./icons/icon.png" width="160" height="160">
+  <h1>Awesome macOS Open Source Applications</h1>
+  <p>A curated list of open source applications for macOS</p>
+  <p>
+    <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
+    <a href="https://gitter.im/open-source-mac-os-apps/Lobby"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+    <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
+  </p>
+</div>
 
 <p align="center">
-<img src="./icons/icon.png">
-</p>
-
-# Awesome macOS open source applications
-
-<p align="left">
-<a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
-<a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+  <a href="#audio">Audio</a> •
+  <a href="#backup">Backup</a> •
+  <a href="#browser">Browser</a> •
+  <a href="#chat">Chat</a> •
+  <a href="#cryptocurrency">Crypto</a> •
+  <a href="#database">Database</a> •
+  <a href="#development">Dev</a> •
+  <a href="#editors">Editors</a> •
+  <a href="#graphics">Graphics</a> •
+  <a href="#productivity">Productivity</a> •
+  <a href="#utilities">Utilities</a>
 </p>
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
@@ -108,6 +124,8 @@ You can see in which language an app is written. Currently there are following l
 """
 
 let footer = """
+
+<div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 ## Contributors
 
@@ -248,8 +266,13 @@ class ReadmeGenerator {
             print("Start iteration....")
             
             for category in categories {
-                readmeString.append(String.enter + String.section + String.space + category.title + String.enter)
-                var categoryApplications = applications.filter({ $0.categories.contains(category.id) })
+                // Add category header with emoji and count
+                let categoryApps = applications.filter({ $0.categories.contains(category.id) })
+                let categoryCount = categoryApps.count
+                let categoryEmoji = getCategoryEmoji(category.id)
+                readmeString.append(String.enter + String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
+                
+                var categoryApplications = categoryApps
                 categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
                 
                 for application in categoryApplications {
@@ -257,18 +280,29 @@ class ReadmeGenerator {
                     readmeString.append(String.enter)
                 }
                 
+                // Add "Back to Top" link at the end of each category
+                readmeString.append("<div align=\"right\"><a href=\"#contents\">⬆️ Back to Top</a></div>" + String.enter)
+                
                 var subcategories = subcategories.filter({ $0.parent == category.id })
                 guard subcategories.count > 0 else { continue }
                 subcategories = subcategories.sorted(by: { $0.title < $1.title })
                 for subcategory in subcategories {
-                    readmeString.append(String.enter + String.subsection + String.space + subcategory.title + String.enter)
-                    var categoryApplications = applications.filter({ $0.categories.contains(subcategory.id) })
+                    // Add subcategory header with emoji and count
+                    let subcategoryApps = applications.filter({ $0.categories.contains(subcategory.id) })
+                    let subcategoryCount = subcategoryApps.count
+                    let subcategoryEmoji = getCategoryEmoji(subcategory.id)
+                    readmeString.append(String.enter + String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
+                    
+                    var categoryApplications = subcategoryApps
                     categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
                     
                     for application in categoryApplications {
                         readmeString.append(application.markdownDescription())
                         readmeString.append(String.enter)
                     }
+                    
+                    // Add "Back to Top" link at the end of each subcategory
+                    readmeString.append("<div align=\"right\"><a href=\"#contents\">⬆️ Back to Top</a></div>" + String.enter)
                 }
             }
             print("Finish iteration...")
@@ -298,19 +332,79 @@ extension JSONApplication {
             languages.append("![\(lang)\(String.iconPrefix)] ")
         }
         
-        markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription) \(languages)")
-        /*
-         if self.screenshots.count > 0 {
-         var screenshotsString = String.empty
-         screenshotsString += (String.space + Constants.detailsBeginString + String.space)
-         self.screenshots.forEach({
-         screenshotsString += (String.space + (NSString(format: Constants.srcLinePattern as NSString, $0 as CVarArg) as String) + String.space)
-         })
-         screenshotsString += (String.space + Constants.detailsEndString + String.space)
-         markdownDescription.append(screenshotsString)
-         }
-         */
+        // Create a collapsible section for each application
+        markdownDescription.append("<details>")
+        markdownDescription.append("<summary><b>[\(self.title)](\(self.repoURL))</b> - \(self.shortDescription)</summary>")
+        markdownDescription.append("<p>")
+        
+        // Add languages
+        markdownDescription.append("<b>Languages:</b> \(languages)<br>")
+        
+        // Add official site if available
+        if !self.officialSite.isEmpty {
+            markdownDescription.append("<b>Website:</b> <a href=\"\(self.officialSite)\">\(self.officialSite)</a><br>")
+        }
+        
+        // Add screenshots with lazy loading to improve page load performance
+        if self.screenshots.count > 0 {
+            markdownDescription.append("<b>Screenshots:</b><br>")
+            
+            // Limit to first 3 screenshots to reduce load time
+            let limitedScreenshots = self.screenshots.count > 3 ? Array(self.screenshots.prefix(3)) : self.screenshots
+            
+            limitedScreenshots.forEach({
+                markdownDescription.append("<img src='\($0)' width='400' loading='lazy'/><br>")
+            })
+            
+            // Add a note if there are more screenshots
+            if self.screenshots.count > 3 {
+                markdownDescription.append("<em>(\(self.screenshots.count - 3) more screenshots available in the repository)</em><br>")
+            }
+        }
+        
+        markdownDescription.append("</p>")
+        markdownDescription.append("</details>")
+        
         return markdownDescription
+    }
+}
+
+// Helper function to get emoji for categories
+func getCategoryEmoji(_ categoryId: String) -> String {
+    switch categoryId {
+    case "audio": return "🎵"
+    case "backup": return "💾"
+    case "browser": return "🌐"
+    case "chat": return "💬"
+    case "cryptocurrency": return "💰"
+    case "database": return "🗄️"
+    case "development": return "👨‍💻"
+    case "downloader": return "⬇️"
+    case "editors": return "📝"
+    case "extensions": return "🧩"
+    case "finder": return "🔍"
+    case "games": return "🎮"
+    case "graphics": return "🎨"
+    case "ide": return "💻"
+    case "images": return "🖼️"
+    case "keyboard": return "⌨️"
+    case "mail": return "📧"
+    case "menubar": return "📊"
+    case "music": return "🎧"
+    case "news": return "📰"
+    case "notes": return "📔"
+    case "productivity": return "⏱️"
+    case "security": return "🔒"
+    case "sharing-files": return "📤"
+    case "social-networking": return "👥"
+    case "system": return "⚙️"
+    case "terminal": return "📺"
+    case "utilities": return "🛠️"
+    case "video": return "🎬"
+    case "vpn--proxy": return "🔐"
+    case "wallpaper": return "🖥️"
+    case "window-management": return "🪟"
+    default: return "📦"
     }
 }
 
