@@ -9727,6 +9727,23 @@
             "languages": [
                 "swift"
             ]
+        },
+	{
+            "short_description": "A lightweight app for formatting and correcting Swift syntax.",
+            "categories": [
+                "development", "editors", "ios--macos"
+            ],
+            "repo_url": "https://github.com/csprasad/DevLint",
+            "title": "DevLint",
+            "icon_url": "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/Icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png",
+                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
