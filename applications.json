@@ -9728,22 +9728,47 @@
                 "swift"
             ]
         },
-	{
-            "short_description": "A lightweight app for formatting and correcting Swift syntax.",
-            "categories": [
-                "development", "editors", "ios--macos"
-            ],
-            "repo_url": "https://github.com/csprasad/DevLint",
-            "title": "DevLint",
-            "icon_url": "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/Icon.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png",
-                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
+        {
+           "short_description":"Simple and free working time recording.",
+           "categories":[
+              "menubar",
+              "productivity"
+           ],
+           "repo_url":"https://github.com/WINBIGFOX/timescribe",
+           "title":"TimeScribe",
+           "icon_url":"https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
+           "screenshots":[
+              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
+              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
+              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
+              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
+              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
+           ],
+           "official_site":"https://timescribe.app",
+           "languages":[
+              "css",
+              "javascript",
+              "typescript"
+           ]
+        },
+        {
+           "short_description":"A lightweight app for formatting and correcting Swift syntax.",
+           "categories":[
+              "development",
+              "editors",
+              "ios--macos"
+           ],
+           "repo_url":"https://github.com/csprasad/DevLint",
+           "title":"DevLint",
+           "icon_url":"https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/Icon.png",
+           "screenshots":[
+              "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png",
+              "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png"
+           ],
+           "official_site":"",
+           "languages":[
+              "swift"
+           ]
         }
     ]
 }
