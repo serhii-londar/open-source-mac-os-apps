@@ -9750,6 +9750,23 @@
 		"javascript",
 		"typescript",
             ]
+        },
+        {
+            "short_description": "An application that can dock any window to the edge of the screen.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/xicheng148/Dockit",
+            "title": "Dockit",
+            "icon_url": "https://github.com/XiCheng148/Dockit/blob/main/Resources/dmg-icon.svg?raw=true",
+            "screenshots": [
+                "https://github.com/XiCheng148/Dockit/blob/main/Resources/preview.gif?raw=true"
+            ],
+            "official_site": "[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
