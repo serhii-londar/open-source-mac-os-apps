@@ -181,6 +181,8 @@ class JSONApplication: Codable {
     var screenshots: [String]
     var categories: [String]
     var officialSite: String
+    // Optional metadata for richer README rendering
+    var homebrewCask: String?
     
     enum CodingKeys: String, CodingKey {
         case title
@@ -191,9 +193,10 @@ class JSONApplication: Codable {
         case screenshots
         case categories
         case officialSite = "official_site"
+        case homebrewCask = "homebrew_cask"
     }
     
-    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String) {
+    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String, homebrewCask: String? = nil) {
         self.title = title
         self.iconURL = iconURL
         self.repoURL = repoURL
@@ -202,6 +205,7 @@ class JSONApplication: Codable {
         self.screenshots = screenshots
         self.categories = categories
         self.officialSite = officialSite
+        self.homebrewCask = homebrewCask
     }
 }
 
@@ -332,13 +336,45 @@ extension JSONApplication {
             languages.append(languageIconHTML(for: lang) + " ")
         }
         
-        // Create a collapsible section for each application
+        // Header line with a standard Markdown link so it's always clickable
+        markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription)\n")
+        
+        // Collapsible extra details (languages, links, screenshots)
         markdownDescription.append("<details>")
-        markdownDescription.append("<summary><b>[\(self.title)](\(self.repoURL))</b> - \(self.shortDescription)</summary>")
+        markdownDescription.append("<summary>More</summary>")
         markdownDescription.append("<p>")
         
         // Add languages
         markdownDescription.append("<b>Languages:</b> \(languages)<br>")
+        
+        // Add download/badge section
+        let ownerRepo = githubOwnerRepo(from: self.repoURL)
+        var badges = [String]()
+        // App Store button if officialSite points to App Store
+        if isAppStoreURL(self.officialSite) {
+            let appStoreButton = "<a href='\(self.officialSite)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
+            badges.append(appStoreButton)
+        }
+        // GitHub Releases badge
+        if let (owner, repo) = ownerRepo {
+            let releasesURL = "https://github.com/\(owner)/\(repo)/releases/latest"
+            let releaseBadge = "<a href='\(releasesURL)'><img src='https://img.shields.io/github/v/release/\(owner)/\(repo)?display_name=tag&sort=semver' alt='Latest Release'/></a>"
+            badges.append(releaseBadge)
+            // Stars and license badges as additional improvements
+            let starsBadge = "<a href='\(self.repoURL)'><img src='https://img.shields.io/github/stars/\(owner)/\(repo)?style=social' alt='GitHub stars'/></a>"
+            let licenseBadge = "<img src='https://img.shields.io/github/license/\(owner)/\(repo)' alt='License'/>"
+            badges.append(starsBadge)
+            badges.append(licenseBadge)
+        }
+        // Homebrew availability badge if provided
+        if let cask = self.homebrewCask, !cask.isEmpty {
+            let brewURL = "https://formulae.brew.sh/cask/\(cask)"
+            let brewBadge = "<a href='\(brewURL)'><img src='https://img.shields.io/badge/Homebrew-available-ebb000?logo=homebrew&logoColor=white' alt='Homebrew cask'/></a>"
+            badges.append(brewBadge)
+        }
+        if badges.isEmpty == false {
+            markdownDescription.append("<b>Links:</b> \(badges.joined(separator: " &nbsp; "))<br>")
+        }
         
         // Add official site if available
         if !self.officialSite.isEmpty {
@@ -399,6 +435,20 @@ private func languageIconHTML(for languageKey: String) -> String {
     } else {
         return "<code>\(languageKey)</code>"
     }
+}
+
+// MARK: - Helpers
+private func githubOwnerRepo(from repoURL: String) -> (String, String)? {
+    guard repoURL.contains("github.com") else { return nil }
+    let parts = repoURL.split(separator: "/").map(String.init)
+    guard let owner = parts.drop(while: { $0 != "github.com" }).dropFirst().first,
+          let repoRaw = parts.drop(while: { $0 != "github.com" }).dropFirst(2).first else { return nil }
+    let repo = repoRaw.replacingOccurrences(of: ".git", with: "")
+    return (owner, repo)
+}
+
+private func isAppStoreURL(_ string: String) -> Bool {
+    return string.contains("apps.apple.com") || string.contains("itunes.apple.com")
 }
 
 // Helper function to get emoji for categories
