@@ -329,7 +329,7 @@ extension JSONApplication {
         var markdownDescription = String.empty
         var languages: String = String.empty
         for lang in self.languages {
-            languages.append("![\(lang)\(String.iconPrefix)] ")
+            languages.append(languageIconHTML(for: lang) + " ")
         }
         
         // Create a collapsible section for each application
@@ -366,6 +366,38 @@ extension JSONApplication {
         markdownDescription.append("</details>")
         
         return markdownDescription
+    }
+}
+
+// Build HTML <img> tags for language icons to ensure rendering inside HTML blocks
+private func languageIconHTML(for languageKey: String) -> String {
+    struct LanguageIcon { let fileName: String; let label: String }
+    let icons: [String: LanguageIcon] = [
+        "c": .init(fileName: "c-16.png", label: "C"),
+        "cpp": .init(fileName: "cpp-16.png", label: "C++"),
+        "c_sharp": .init(fileName: "csharp-16.png", label: "C#"),
+        "clojure": .init(fileName: "clojure-16.png", label: "Clojure"),
+        "coffee_script": .init(fileName: "coffeescript-16.png", label: "CoffeeScript"),
+        "css": .init(fileName: "css-16.png", label: "CSS"),
+        "elm": .init(fileName: "elm-16.png", label: "Elm"),
+        "go": .init(fileName: "golang-16.png", label: "Go"),
+        "haskell": .init(fileName: "haskell-16.png", label: "Haskell"),
+        "java": .init(fileName: "java-16.png", label: "Java"),
+        "javascript": .init(fileName: "javascript-16.png", label: "JavaScript"),
+        "lua": .init(fileName: "Lua-16.png", label: "Lua"),
+        "objective_c": .init(fileName: "objective-c-16.png", label: "Objective-C"),
+        "python": .init(fileName: "python-16.png", label: "Python"),
+        "ruby": .init(fileName: "ruby-16.png", label: "Ruby"),
+        "rust": .init(fileName: "rust-16.png", label: "Rust"),
+        "shell": .init(fileName: "shell-16.png", label: "Shell"),
+        "swift": .init(fileName: "swift-16.png", label: "Swift"),
+        "typescript": .init(fileName: "typescript-16.png", label: "TypeScript")
+    ]
+    let key = languageKey.lowercased()
+    if let icon = icons[key] {
+        return "<img src='./icons/\(icon.fileName)' alt='\(icon.label) icon' title='\(icon.label)' height='16'/>"
+    } else {
+        return "<code>\(languageKey)</code>"
     }
 }
 
