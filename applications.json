@@ -9750,6 +9750,22 @@
 		"javascript",
 		"typescript",
             ]
+        },
+	{
+            "short_description": "Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sarensw/MacPacker/",
+            "title": "MacPacker",
+            "icon_url": "https://macpacker.app/icon_512x512@2x.png",
+            "screenshots": [
+                "https://macpacker.app/main.png"
+            ],
+            "official_site": "https://macpacker.app/ ",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
