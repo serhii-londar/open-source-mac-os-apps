@@ -339,10 +339,11 @@ extension JSONApplication {
         // Header line with a standard Markdown link so it's always clickable
         markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription)\n")
         
-        // Collapsible extra details (languages, links, screenshots)
-        markdownDescription.append("<details>")
-        markdownDescription.append("<summary>More</summary>")
-        markdownDescription.append("<p>")
+        // Collapsible extra details (languages, links, screenshots) indented to belong to the list item
+        let indent = "  "
+        markdownDescription.append(indent + "<details>")
+        markdownDescription.append(indent + "<summary>More</summary>")
+        markdownDescription.append(indent + "<p>")
         
         // Add languages
         markdownDescription.append("<b>Languages:</b> \(languages)<br>")
@@ -398,8 +399,8 @@ extension JSONApplication {
             }
         }
         
-        markdownDescription.append("</p>")
-        markdownDescription.append("</details>")
+        markdownDescription.append(indent + "</p>")
+        markdownDescription.append(indent + "</details>")
         
         return markdownDescription
     }
