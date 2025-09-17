@@ -9766,6 +9766,24 @@
             "languages": [
                 "swift"
             ]
+        },
+	    {
+            "short_description": "Remote pair programming app.",
+            "categories": [
+                "Other"
+            ],
+            "repo_url": "https://github.com/gethopp/hopp",
+            "title": "Hopp",
+            "icon_url": "https://dlh49gjxx49i3.cloudfront.net/logo-light.png",
+            "screenshots": [
+               "https://docs.gethopp.app/_astro/screenshare.w05eQI3z_7tfaK.webp"
+            ],
+            "official_site": "https://gethopp.app/",
+            "languages": [
+                "rust",
+                "typescript",
+                "go"
+            ]
         }
     ]
 }
