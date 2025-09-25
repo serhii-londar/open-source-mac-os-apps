@@ -1,5 +1,25 @@
 {
     "applications": [
+	{
+            "short_description": "An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.",
+            "categories": [
+                "productivity",
+                "utilities",
+            ],
+            "repo_url": "https://github.com/nomandhoni-cs/blink-eye",
+            "title": "Blink Eye",
+            "icon_url": "https://utfs.io/f/93hqarYp4cDdY0euKxvcTyVLEjQxOU1ovp9SM8PzDAnJKZs2",
+            "screenshots": [
+               "https://utfs.io/f/93hqarYp4cDdNL4sT1PM7wKnvWGVmy3zl0x94o8NjODZSHbY",
+               "https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
+		"https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
+		"https://utfs.io/f/93hqarYp4cDdmTFr7pIGuo7faHJYtjPxRrsSq0VbWB8zM4yl"
+            ],
+            "official_site": "https://blinkeye.vercel.app/",
+            "languages": [
+                "typescript", "rust"
+            ]
+        },
         {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
