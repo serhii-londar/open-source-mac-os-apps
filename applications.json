@@ -32,6 +32,20 @@
                 "swift"
             ]
         },
+		  {
+            "short_description": "OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "title": "OpenCore Legacy Patcher",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://dortania.github.io/OpenCore-Legacy-Patcher/",
+            "languages": [
+                "python"
+            ]
+        },
         {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
