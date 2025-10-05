@@ -1,6 +1,19 @@
 {
     "applications": [
         {
+            "short_description":"Securely and anonymously share files, host websites, and chat with friends using the Tor network",
+            "categories":["chat"],
+            "repo_url":"https://github.com/onionshare/onionshare",
+            "title":"onionshare",
+            "icon_url":"https://github.com/onionshare/onionshare/blob/main/docs/source/_static/logo.png",
+            "screenshots":[],
+            "official_site":"https://onionshare.org/",
+            "languages":[
+                "python",
+                "javascript"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
