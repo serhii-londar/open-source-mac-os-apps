@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description":"Take handwritten notes with ease",
+            "categories":[
+                "productivity",
+                "macos",
+                "utilities"
+            ],
+            "repo_url":"https://github.com/xournalpp/xournalpp/",
+            "title":"Xournal++",
+            "icon_url":"https://github.com/xournalpp/xournalpp/blob/master/mac-setup/icon/Icon1024.png",
+            "screenshots":[],
+            "official_site":"",
+            "languages":[
+                "cpp",
+                "lua",
+                "c",
+                "python"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
@@ -9748,7 +9767,7 @@
             "languages": [
                 "css",
 		"javascript",
-		"typescript",
+		"typescript"
             ]
         },
 	{
