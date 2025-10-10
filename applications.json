@@ -9782,6 +9782,23 @@
 			"languages": [
 				"swift"
 			]
-		}
+		},
+        {
+            "short_description": "LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/LibreCAD/LibreCAD",
+            "title": "LibreCAD",
+            "icon_url": "https://github.com/LibreCAD/LibreCAD/blob/master/desktop/media/logo/librecad_logo.svg",
+            "screenshots": [
+               "https://librecad.org/img/welcome.png"
+            ],
+            "official_site": "https://librecad.org",
+            "languages": [
+                "c++",
+                "c"
+            ]
+        }
     ]
 }
