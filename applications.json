@@ -8055,7 +8055,7 @@
             "screenshots": [
                 "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png"
             ],
-            "official_site": "https://andrewk17.github.io/vercel-deployment-menu-bar/",
+            "official_site": "https://vercel-deployment-menu-bar.vercel.app/",
             "languages": [
                 "swift"
             ]
