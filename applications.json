@@ -8045,6 +8045,22 @@
             ]
         },
         {
+            "short_description": "Open-source macOS menu bar app to monitor Vercel deployment status in real time.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/andrewk17/vercel-deployment-menu-bar",
+            "title": "Vercel Deployment Menu Bar",
+            "icon_url": "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png"
+            ],
+            "official_site": "https://andrewk17.github.io/vercel-deployment-menu-bar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Free to do list & time tracker for programmers & designers with Jira integration.",
             "categories": [
                 "productivity",
