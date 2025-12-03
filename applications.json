@@ -2341,6 +2341,23 @@
             ]
         },
         {
+            "short_description": "A lightweight open-source API Development, Testing & Mocking platform",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/requestly/requestly",
+            "title": "Requestly",
+            "icon_url": "https://raw.githubusercontent.com/requestly/requestly/master/app/public/favicon.png",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/a962b213-8744-4ffc-bd04-fcf891f48914",
+                "https://github.com/user-attachments/assets/7bc00c7e-c280-40eb-9a2a-c070ecdea662"
+            ],
+            "official_site": "https://requestly.com",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Insomnia is a cross-platform REST client, built on top of Electron. ",
             "categories": [
                 "web-development"
