@@ -8,7 +8,17 @@
 
 import Foundation
 
-let header = """
+// MARK: - Dynamic Header Generator
+func generateHeader(totalApps: Int, categoriesCount: Int, languageStats: [String: Int]) -> String {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "MMMM d, yyyy"
+    let lastUpdated = dateFormatter.string(from: Date())
+    
+    // Get top 5 languages
+    let topLanguages = languageStats.sorted { $0.value > $1.value }.prefix(5)
+    let languagesSummary = topLanguages.map { "\($0.key): \($0.value)" }.joined(separator: " • ")
+    
+    return """
 <div align="center">
   <a href="https://vshymanskyy.github.io/StandWithUkraine">
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
@@ -21,6 +31,11 @@ let header = """
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
     <a href="https://gitter.im/open-source-mac-os-apps/Lobby"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Apps-\(totalApps)-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Categories-\(categoriesCount)-green" alt="Categories"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-\(lastUpdated.replacingOccurrences(of: " ", with: "%20"))-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -45,6 +60,14 @@ To receive all new or popular applications you can join our [telegram channel](h
 ## Support
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+
+## 📊 Statistics
+
+| Metric | Count |
+|--------|-------|
+| 📱 Total Applications | \(totalApps) |
+| 📂 Categories | \(categoriesCount) |
+| 🔝 Top Languages | \(languagesSummary) |
 
 ## Languages
 
@@ -122,6 +145,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 """
+}
 
 let footer = """
 
@@ -183,6 +207,9 @@ class JSONApplication: Codable {
     var officialSite: String
     // Optional metadata for richer README rendering
     var homebrewCask: String?
+    var macOSVersion: String?  // Minimum macOS version required
+    var appStoreID: String?    // Mac App Store ID for direct linking
+    var deprecated: Bool?      // Mark if app is no longer maintained
     
     enum CodingKeys: String, CodingKey {
         case title
@@ -194,9 +221,12 @@ class JSONApplication: Codable {
         case categories
         case officialSite = "official_site"
         case homebrewCask = "homebrew_cask"
+        case macOSVersion = "macos_version"
+        case appStoreID = "app_store_id"
+        case deprecated
     }
     
-    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String, homebrewCask: String? = nil) {
+    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String, homebrewCask: String? = nil, macOSVersion: String? = nil, appStoreID: String? = nil, deprecated: Bool? = nil) {
         self.title = title
         self.iconURL = iconURL
         self.repoURL = repoURL
@@ -206,6 +236,9 @@ class JSONApplication: Codable {
         self.categories = categories
         self.officialSite = officialSite
         self.homebrewCask = homebrewCask
+        self.macOSVersion = macOSVersion
+        self.appStoreID = appStoreID
+        self.deprecated = deprecated
     }
 }
 
@@ -258,6 +291,26 @@ class ReadmeGenerator {
             let subcategories = categories.filter({ $0.parent != nil && !$0.parent!.isEmpty })
             let applications = applicationsObject.applications
             
+            // Validate applications
+            let validApplications = applications.filter { app in
+                let isValid = !app.title.isEmpty && !app.repoURL.isEmpty
+                if !isValid {
+                    print("⚠️ Warning: Skipping invalid app - Title: '\(app.title)', URL: '\(app.repoURL)'")
+                }
+                return isValid
+            }
+            
+            print("📊 Total apps: \(validApplications.count), Invalid/skipped: \(applications.count - validApplications.count)")
+            
+            // Calculate language statistics
+            var languageStats: [String: Int] = [:]
+            for app in validApplications {
+                for lang in app.languages {
+                    let normalizedLang = normalizeLanguageName(lang)
+                    languageStats[normalizedLang, default: 0] += 1
+                }
+            }
+            
             for subcategory in subcategories {
                 if let index = categories.lastIndex(where: { $0.parent != subcategory.id }) {
                     categories.remove(at: index)
@@ -266,18 +319,25 @@ class ReadmeGenerator {
             
             categories = categories.sorted(by: { $0.title < $1.title })
             
+            // Generate header with statistics
+            let header = generateHeader(
+                totalApps: validApplications.count,
+                categoriesCount: categories.count + subcategories.count,
+                languageStats: languageStats
+            )
+            
             readmeString.append(header)
             print("Start iteration....")
             
             for category in categories {
                 // Add category header with emoji and count
-                let categoryApps = applications.filter({ $0.categories.contains(category.id) })
+                let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
                 readmeString.append(String.enter + String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
-                categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+                categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
                 
                 for application in categoryApplications {
                     readmeString.append(application.markdownDescription())
@@ -292,13 +352,13 @@ class ReadmeGenerator {
                 subcategories = subcategories.sorted(by: { $0.title < $1.title })
                 for subcategory in subcategories {
                     // Add subcategory header with emoji and count
-                    let subcategoryApps = applications.filter({ $0.categories.contains(subcategory.id) })
+                    let subcategoryApps = validApplications.filter({ $0.categories.contains(subcategory.id) })
                     let subcategoryCount = subcategoryApps.count
                     let subcategoryEmoji = getCategoryEmoji(subcategory.id)
                     readmeString.append(String.enter + String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
                     
                     var categoryApplications = subcategoryApps
-                    categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+                    categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
                     
                     for application in categoryApplications {
                         readmeString.append(application.markdownDescription())
@@ -312,10 +372,39 @@ class ReadmeGenerator {
             print("Finish iteration...")
             readmeString.append(footer)
             try readmeString.data(using: .utf8)?.write(to: url.appendingPathComponent(FilePaths.readme.rawValue))
-            print("Finish")
+            
+            // Generate JSON API file for external consumers
+            try generateAPIFile(applications: validApplications, categories: categoriesObject.categories, to: url)
+            
+            print("✅ Finish - Generated README.md and api.json")
         } catch {
-            print(error)
+            print("❌ Error: \(error)")
         }
+    }
+    
+    // Generate a JSON API file for external consumers
+    private func generateAPIFile(applications: [JSONApplication], categories: [Category], to baseURL: URL) throws {
+        let apiData: [String: Any] = [
+            "generated_at": ISO8601DateFormatter().string(from: Date()),
+            "total_apps": applications.count,
+            "total_categories": categories.count,
+            "apps_by_category": Dictionary(grouping: applications, by: { $0.categories.first ?? "other" })
+                .mapValues { $0.count }
+        ]
+        
+        let jsonData = try JSONSerialization.data(withJSONObject: apiData, options: [.prettyPrinted, .sortedKeys])
+        try jsonData.write(to: baseURL.appendingPathComponent("api.json"))
+    }
+}
+
+// Helper function to normalize language names for statistics
+func normalizeLanguageName(_ lang: String) -> String {
+    switch lang.lowercased() {
+    case "objective_c": return "Objective-C"
+    case "cpp": return "C++"
+    case "c_sharp": return "C#"
+    case "coffee_script": return "CoffeeScript"
+    default: return lang.capitalized
     }
 }
 
@@ -337,7 +426,10 @@ extension JSONApplication {
         }
         
         // Header line with a standard Markdown link so it's always clickable
-        markdownDescription.append("- [\(self.title)](\(self.repoURL)) - \(self.shortDescription)\n")
+        // Add deprecated indicator if the app is marked as deprecated
+        let deprecatedIndicator = (self.deprecated ?? false) ? " ⚠️ **[Deprecated]**" : ""
+        let macOSBadge = self.macOSVersion.map { " ![macOS \($0)+](https://img.shields.io/badge/macOS-\($0)%2B-blue)" } ?? ""
+        markdownDescription.append("- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(self.shortDescription)\n")
         
         // Collapsible extra details (languages, links, screenshots) indented to belong to the list item
         let indent = "  "
@@ -351,9 +443,13 @@ extension JSONApplication {
         // Add download/badge section
         let ownerRepo = githubOwnerRepo(from: self.repoURL)
         var badges = [String]()
-        // App Store button if officialSite points to App Store
-        if isAppStoreURL(self.officialSite) {
-            let appStoreButton = "<a href='\(self.officialSite)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
+        // App Store button if appStoreID is set or if officialSite points to App Store
+        if let appStoreID = self.appStoreID, !appStoreID.isEmpty {
+            let appStoreURL = "https://apps.apple.com/app/id\(appStoreID)"
+            let appStoreButton = "<a href='\(appStoreURL)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
+            badges.append(appStoreButton)
+        } else if isAppStoreURL(self.officialSite) {
+            let appStoreButton = "<a href='\(self.officialSite)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
             badges.append(appStoreButton)
         }
         // GitHub Releases badge
@@ -472,21 +568,39 @@ func getCategoryEmoji(_ categoryId: String) -> String {
     case "images": return "🖼️"
     case "keyboard": return "⌨️"
     case "mail": return "📧"
+    case "medical": return "🏥"
     case "menubar": return "📊"
     case "music": return "🎧"
     case "news": return "📰"
     case "notes": return "📔"
+    case "other": return "📦"
+    case "player": return "▶️"
+    case "podcast": return "🎙️"
     case "productivity": return "⏱️"
+    case "screensaver": return "🌙"
     case "security": return "🔒"
     case "sharing-files": return "📤"
     case "social-networking": return "👥"
+    case "streaming": return "📡"
     case "system": return "⚙️"
     case "terminal": return "📺"
+    case "touch-bar": return "🎚️"
     case "utilities": return "🛠️"
     case "video": return "🎬"
     case "vpn--proxy": return "🔐"
     case "wallpaper": return "🖥️"
     case "window-management": return "🪟"
+    // Subcategories
+    case "git": return "📦"
+    case "ios--macos": return "📱"
+    case "json-parsing": return "🔄"
+    case "web-development": return "🌍"
+    case "other-development": return "🔧"
+    case "csv": return "📊"
+    case "json": return "📋"
+    case "markdown": return "📝"
+    case "tex": return "📐"
+    case "text": return "✏️"
     default: return "📦"
     }
 }
