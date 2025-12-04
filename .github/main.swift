@@ -73,24 +73,27 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 You can see in which language an app is written. Currently there are following languages:
 
-- ![c_icon] - C language.
-- ![cpp_icon] - C++ language.
-- ![c_sharp_icon] - C# language.
-- ![clojure_icon] - Clojure language.
-- ![coffee_script_icon] - CoffeeScript language.
-- ![css_icon] - CSS language.
-- ![go_icon] - Go language.
-- ![elm_icon] - Elm language.
-- ![haskell_icon] - Haskell language.
-- ![javascript_icon] - JavaScript language.
-- ![lua_icon] - Lua language.
-- ![objective_c_icon] - Objective-C language.
-- ![python_icon] - Python language.
-- ![ruby_icon] - Ruby language.
-- ![rust_icon] - Rust language.
-- ![shell_icon] - Shell language.
-- ![swift_icon] - Swift language.
-- ![typescript_icon] - TypeScript language.
+| Language | Icon |
+|----------|------|
+| C | <img src='./icons/c-16.png' alt='C' height='16'/> |
+| C++ | <img src='./icons/cpp-16.png' alt='C++' height='16'/> |
+| C# | <img src='./icons/csharp-16.png' alt='C#' height='16'/> |
+| Clojure | <img src='./icons/clojure-16.png' alt='Clojure' height='16'/> |
+| CoffeeScript | <img src='./icons/coffeescript-16.png' alt='CoffeeScript' height='16'/> |
+| CSS | <img src='./icons/css-16.png' alt='CSS' height='16'/> |
+| Elm | <img src='./icons/elm-16.png' alt='Elm' height='16'/> |
+| Go | <img src='./icons/golang-16.png' alt='Go' height='16'/> |
+| Haskell | <img src='./icons/haskell-16.png' alt='Haskell' height='16'/> |
+| Java | <img src='./icons/java-16.png' alt='Java' height='16'/> |
+| JavaScript | <img src='./icons/javascript-16.png' alt='JavaScript' height='16'/> |
+| Lua | <img src='./icons/Lua-16.png' alt='Lua' height='16'/> |
+| Objective-C | <img src='./icons/objective-c-16.png' alt='Objective-C' height='16'/> |
+| Python | <img src='./icons/python-16.png' alt='Python' height='16'/> |
+| Ruby | <img src='./icons/ruby-16.png' alt='Ruby' height='16'/> |
+| Rust | <img src='./icons/rust-16.png' alt='Rust' height='16'/> |
+| Shell | <img src='./icons/shell-16.png' alt='Shell' height='16'/> |
+| Swift | <img src='./icons/swift-16.png' alt='Swift' height='16'/> |
+| TypeScript | <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> |
 
 
 ## Contents
@@ -334,7 +337,10 @@ class ReadmeGenerator {
                 let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
-                readmeString.append(String.enter + String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
+                // Add explicit anchor for TOC linking
+                let anchorId = generateAnchorId(category.title)
+                readmeString.append(String.enter + "<a id=\"\(anchorId)\"></a>" + String.enter)
+                readmeString.append(String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
                 categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
@@ -355,7 +361,10 @@ class ReadmeGenerator {
                     let subcategoryApps = validApplications.filter({ $0.categories.contains(subcategory.id) })
                     let subcategoryCount = subcategoryApps.count
                     let subcategoryEmoji = getCategoryEmoji(subcategory.id)
-                    readmeString.append(String.enter + String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
+                    // Add explicit anchor for TOC linking
+                    let subAnchorId = generateAnchorId(subcategory.title)
+                    readmeString.append(String.enter + "<a id=\"\(subAnchorId)\"></a>" + String.enter)
+                    readmeString.append(String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
                     
                     var categoryApplications = subcategoryApps
                     categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
@@ -408,6 +417,16 @@ func normalizeLanguageName(_ lang: String) -> String {
     }
 }
 
+// Helper function to generate GitHub-compatible anchor IDs from titles
+func generateAnchorId(_ title: String) -> String {
+    return title.lowercased()
+        .replacingOccurrences(of: " / ", with: "--")  // Handle " / " like GitHub does
+        .replacingOccurrences(of: "/", with: "-")
+        .replacingOccurrences(of: " & ", with: "--")  // Handle " & " like GitHub does
+        .replacingOccurrences(of: "&", with: "-")
+        .replacingOccurrences(of: " ", with: "-")
+}
+
 extension String {
     static let empty = ""
     static let space = " "
@@ -433,12 +452,12 @@ extension JSONApplication {
         
         // Collapsible extra details (languages, links, screenshots) indented to belong to the list item
         let indent = "  "
-        markdownDescription.append(indent + "<details>")
-        markdownDescription.append(indent + "<summary>More</summary>")
-        markdownDescription.append(indent + "<p>")
+        markdownDescription.append("\n" + indent + "<details>\n")
+        markdownDescription.append(indent + "<summary>More</summary>\n")
+        markdownDescription.append(indent + "<p>\n\n")
         
         // Add languages
-        markdownDescription.append("<b>Languages:</b> \(languages)<br>")
+        markdownDescription.append("  **Languages:** \(languages)\n\n")
         
         // Add download/badge section
         let ownerRepo = githubOwnerRepo(from: self.repoURL)
@@ -470,33 +489,33 @@ extension JSONApplication {
             badges.append(brewBadge)
         }
         if badges.isEmpty == false {
-            markdownDescription.append("<b>Links:</b> \(badges.joined(separator: " &nbsp; "))<br>")
+            markdownDescription.append("  **Links:** \(badges.joined(separator: " &nbsp; "))\n\n")
         }
         
         // Add official site if available
         if !self.officialSite.isEmpty {
-            markdownDescription.append("<b>Website:</b> <a href=\"\(self.officialSite)\">\(self.officialSite)</a><br>")
+            markdownDescription.append("  **Website:** [\(self.officialSite)](\(self.officialSite))\n\n")
         }
         
         // Add screenshots with lazy loading to improve page load performance
         if self.screenshots.count > 0 {
-            markdownDescription.append("<b>Screenshots:</b><br>")
+            markdownDescription.append("  **Screenshots:**\n\n")
             
             // Limit to first 3 screenshots to reduce load time
             let limitedScreenshots = self.screenshots.count > 3 ? Array(self.screenshots.prefix(3)) : self.screenshots
             
             limitedScreenshots.forEach({
-                markdownDescription.append("<img src='\($0)' width='400' loading='lazy'/><br>")
+                markdownDescription.append("  <img src='\($0)' width='400' loading='lazy'/>\n\n")
             })
             
             // Add a note if there are more screenshots
             if self.screenshots.count > 3 {
-                markdownDescription.append("<em>(\(self.screenshots.count - 3) more screenshots available in the repository)</em><br>")
+                markdownDescription.append("  *(\(self.screenshots.count - 3) more screenshots available in the repository)*\n\n")
             }
         }
         
-        markdownDescription.append(indent + "</p>")
-        markdownDescription.append(indent + "</details>")
+        markdownDescription.append(indent + "</p>\n")
+        markdownDescription.append(indent + "</details>\n")
         
         return markdownDescription
     }
