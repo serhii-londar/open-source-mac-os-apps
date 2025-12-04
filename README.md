@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-613-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-614-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-December%204,%202025-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 613 |
+| 📱 Total Applications | 614 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 268 • Objective-C: 134 • Javascript: 107 • C++: 54 • C: 34 |
+| 🔝 Top Languages | Swift: 268 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
 ## Languages
 
@@ -2461,7 +2461,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="web-development"></a>
-#### 🌍 Web Development (14)
+#### 🌍 Web Development (15)
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. 
 
   <details>
@@ -2652,6 +2652,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/vsaravind007/nodeScratchpad/releases/latest'><img src='https://img.shields.io/github/v/release/vsaravind007/nodeScratchpad?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vsaravind007/nodeScratchpad'><img src='https://img.shields.io/github/stars/vsaravind007/nodeScratchpad?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/vsaravind007/nodeScratchpad' alt='License'/>
+
+  </p>
+  </details>
+
+- [Requestly](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/requestly/requestly/releases/latest'><img src='https://img.shields.io/github/v/release/requestly/requestly?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/requestly/requestly'><img src='https://img.shields.io/github/stars/requestly/requestly?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/requestly/requestly' alt='License'/>
+
+  **Website:** [https://requestly.com](https://requestly.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/user-attachments/assets/a962b213-8744-4ffc-bd04-fcf891f48914' width='400' loading='lazy'/>
+
+  <img src='https://github.com/user-attachments/assets/7bc00c7e-c280-40eb-9a2a-c070ecdea662' width='400' loading='lazy'/>
 
   </p>
   </details>
