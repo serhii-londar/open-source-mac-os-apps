@@ -31,7 +31,26 @@
           "languages": [
             "typescript"
           ]
-        },
+        },   
+		{
+		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
+		  "categories": [
+		    "menubar",
+		    "utilities",
+		    "productivity"
+		  ],
+		  "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
+		  "title": "Bye-AppQuit",
+		  "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
+		  "screenshots": [
+		    "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
+			
+		  ],
+		  "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
+		  "languages": [
+		    "swift"
+		  ]
+		},
         {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
