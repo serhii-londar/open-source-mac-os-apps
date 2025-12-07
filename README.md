@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-615-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-616-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-December%206,%202025-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-December%207,%202025-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 615 |
+| 📱 Total Applications | 616 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 269 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
+| 🔝 Top Languages | Swift: 270 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
 ## Languages
 
@@ -5749,7 +5749,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (39)
+### 📊 Menubar (40)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -5825,6 +5825,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
+
+  **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
+
+  **Screenshots:**
+
+  <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -7598,7 +7617,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (55)
+### ⏱️ Productivity (56)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -7608,6 +7627,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
+
+  </p>
+  </details>
+
+- [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
+
+  **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
+
+  **Screenshots:**
+
+  <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9873,7 +9911,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (81)
+### 🛠️ Utilities (82)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10046,6 +10084,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://user-images.githubusercontent.com/3869469/35880367-6bd58770-0b86-11e8-879f-d1f9136274a9.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
+
+  **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
+
+  **Screenshots:**
+
+  <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
 
   </p>
   </details>
