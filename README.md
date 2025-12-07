@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-616-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-617-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-December%207,%202025-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 616 |
+| 📱 Total Applications | 617 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 270 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
+| 🔝 Top Languages | Swift: 271 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
 ## Languages
 
@@ -7617,7 +7617,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (56)
+### ⏱️ Productivity (57)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -7817,6 +7817,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/TermiT/flycut/releases/latest'><img src='https://img.shields.io/github/v/release/TermiT/flycut?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/TermiT/flycut'><img src='https://img.shields.io/github/stars/TermiT/flycut?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/TermiT/flycut' alt='License'/>
+
+  </p>
+  </details>
+
+- [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
+
+  **Website:** [https://icemenubar.app/](https://icemenubar.app/)
+
+  **Screenshots:**
+
+  <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy'/>
+
+  <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9911,7 +9932,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (82)
+### 🛠️ Utilities (83)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10414,6 +10435,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
+
+  **Website:** [https://icemenubar.app/](https://icemenubar.app/)
+
+  **Screenshots:**
+
+  <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy'/>
+
+  <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation.
 
   <details>
@@ -10580,7 +10622,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Links:** <a href='https://github.com/sarensw/MacPacker/releases/latest'><img src='https://img.shields.io/github/v/release/sarensw/MacPacker?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sarensw/MacPacker/'><img src='https://img.shields.io/github/stars/sarensw/MacPacker?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sarensw/MacPacker' alt='License'/>
 
-  **Website:** [https://macpacker.app/ ](https://macpacker.app/ )
+  **Website:** [https://macpacker.app/](https://macpacker.app/)
 
   **Screenshots:**
 
@@ -11797,7 +11839,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="window-management"></a>
-### 🪟 Window Management (11)
+### 🪟 Window Management (12)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   <details>
@@ -11889,6 +11931,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/Hammerspoon/hammerspoon/releases/latest'><img src='https://img.shields.io/github/v/release/Hammerspoon/hammerspoon?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Hammerspoon/hammerspoon'><img src='https://img.shields.io/github/stars/Hammerspoon/hammerspoon?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Hammerspoon/hammerspoon' alt='License'/>
+
+  </p>
+  </details>
+
+- [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
+
+  **Website:** [https://icemenubar.app/](https://icemenubar.app/)
+
+  **Screenshots:**
+
+  <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy'/>
+
+  <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy'/>
 
   </p>
   </details>
