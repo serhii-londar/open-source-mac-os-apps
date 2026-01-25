@@ -8193,6 +8193,19 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local screen and mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+  **Links:** <a href='https://github.com/mediar-ai/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/mediar-ai/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mediar-ai/screenpipe'><img src='https://img.shields.io/github/stars/mediar-ai/screenpipe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/mediar-ai/screenpipe' alt='License'/>
+
+  </p>
+  </details>
+
 - [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
 
   <details>
