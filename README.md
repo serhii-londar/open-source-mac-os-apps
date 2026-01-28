@@ -8212,6 +8212,21 @@ You can see in which language an app is written. Currently there are following l
 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader.
 
+- [ShellLeap](https://github.com/shareefsakk2/shellleap) - Secure cross-platform SSH & SFTP client with AES-256-GCM vault.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/shareefsakk2/shellleap/releases/latest'><img src='https://img.shields.io/github/v/release/shareefsakk2/shellleap?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/shareefsakk2/shellleap'><img src='https://img.shields.io/github/stars/shareefsakk2/shellleap?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/shareefsakk2/shellleap' alt='License'/>
+
+  **Website:** [https://shareefsakk2.github.io/shellleap/](https://shareefsakk2.github.io/shellleap/)
+
+  </p>
+  </details>
+
   <details>
   <summary>More</summary>
   <p>
