@@ -7421,6 +7421,20 @@
             ]
         },
         {
+            "short_description": "AeroSpace is an i3-like tiling window manager for macOS.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/nikitabobko/AeroSpace",
+            "title": "AeroSpace",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nikitabobko.github.io/AeroSpace/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Automatic tiling window manager for macOS. ",
             "categories": [
                 "window-management"
@@ -7485,6 +7499,20 @@
             "languages": [
                 "lua",
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Window management made elegant. A macOS app for managing your windows with ease.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/MrKai77/Loop",
+            "title": "Loop",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://mrkai77.github.io/Loop/",
+            "languages": [
+                "swift"
             ]
         },
         {
