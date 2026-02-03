@@ -7,7 +7,7 @@ jobs:
   generate-readme:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - run: swift ./.github/main.swift
       - run: git config user.name "serhii-londar"
       - run: git config user.email "serhii.londar@gmail.com"
