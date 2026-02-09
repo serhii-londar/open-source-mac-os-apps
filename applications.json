@@ -9837,6 +9837,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/0xMassi/stik_app",
+            "title": "Stik",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://stik.ink",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
 
     ]
