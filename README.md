@@ -7205,6 +7205,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [M-Courtyard](https://github.com/tuwenbo0120/m-courtyard) - Fine-tune LLMs on your Mac with zero code. Full pipeline from documents to Ollama models, powered by Apple MLX.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/tuwenbo0120/m-courtyard/releases/latest'><img src='https://img.shields.io/github/v/release/tuwenbo0120/m-courtyard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/tuwenbo0120/m-courtyard'><img src='https://img.shields.io/github/stars/tuwenbo0120/m-courtyard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/tuwenbo0120/m-courtyard' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/tuwenbo0120/m-courtyard/main/docs/screenshots/dashboard.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist. 
 
   <details>
