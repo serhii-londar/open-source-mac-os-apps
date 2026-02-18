@@ -9847,7 +9847,9 @@
             "repo_url": "https://github.com/filearchitect/app",
             "title": "File Architect",
             "icon_url": "https://raw.githubusercontent.com/filearchitect/app/main/app-icon.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png"
+            ],
             "official_site": "https://filearchitect.com",
             "languages": [
                 "typescript",
