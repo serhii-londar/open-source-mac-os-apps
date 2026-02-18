@@ -9837,6 +9837,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Create file and folder structures from plain text descriptions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/filearchitect/app",
+            "title": "File Architect",
+            "icon_url": "https://raw.githubusercontent.com/filearchitect/app/main/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://filearchitect.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
 
     ]
