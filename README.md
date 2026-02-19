@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-617-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-618-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-December%207,%202025-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 617 |
+| 📱 Total Applications | 618 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 271 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
@@ -6772,7 +6772,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="notes"></a>
-### 📔 Notes (16)
+### 📔 Notes (17)
 - [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. 
 
   <details>
@@ -7005,6 +7005,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/standardnotes/app/releases/latest'><img src='https://img.shields.io/github/v/release/standardnotes/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/standardnotes/app'><img src='https://img.shields.io/github/stars/standardnotes/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/standardnotes/app' alt='License'/>
+
+  </p>
+  </details>
+
+- [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
+
+  **Website:** [https://stik.ink](https://stik.ink)
 
   </p>
   </details>
