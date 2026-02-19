@@ -1,6 +1,25 @@
 {
     "applications": [
 	{
+            "title": "VPN Bypass",
+            "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
+            "categories": [
+                "utilities",
+                "vpn--proxy",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/GeiserX/VPN-Bypass",
+            "icon_url": "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/VPNBypass.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png",
+                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png"
+            ],
+            "official_site": "https://github.com/GeiserX/VPN-Bypass",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "short_description": "An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.",
             "categories": [
                 "productivity",
