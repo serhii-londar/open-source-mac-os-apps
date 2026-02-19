@@ -10115,6 +10115,20 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+	{
+            "short_description": "Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.",
+            "categories": [
+                "keyboard", "utilities", "ios--macos"
+            ],
+            "repo_url": "https://github.com/runjuu/InputSourcePro/",
+            "title": "Input Source Pro",
+            "icon_url": "https://camo.githubusercontent.com/858c5c213d9937d100e0837f6f37f67652457acada5fd1f17253060da568e5e1/68747470733a2f2f696e707574736f757263652e70726f2f696d672f6170702d69636f6e2e706e67",
+            "screenshots": [],
+            "official_site": "https://inputsource.pro",
+            "languages": [
+                "swift"
+            ]
+         }
     ]
 }
