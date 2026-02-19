@@ -10061,6 +10061,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+	{
+            "short_description": "A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/Conxt/WindowGlue",
+            "title": "Window Glue",
+            "icon_url": "https://github.com/Conxt/WindowGlue/raw/main/Assets/Icon-MacOS-256x256.png",
+            "screenshots": [
+		"https://github.com/Conxt/WindowGlue/raw/main/Assets/Screen.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
