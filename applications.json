@@ -1222,6 +1222,26 @@
                 "javascript"
             ]
         },
+		{
+	    "short_description": "Official Bitcoin Core software for running a full Bitcoin node.",
+	    "categories": [
+	        "cryptocurrency",
+	        "blockchain",
+	        "finance"
+	    ],
+	    "repo_url": "https://github.com/bitcoin/bitcoin",
+	    "title": "Bitcoin Core",
+	    "icon_url": "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/bitcoin_core_logo_colored_reversed.png",
+	    "screenshots": [
+	        "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png"
+	    ],
+	    "official_site": "https://bitcoincore.org/",
+	    "languages": [
+	        "C++",
+	        "Python",
+	        "Shell"
+	    ]
+		},    
         {
             "short_description": "macOS menu bar application for tracking crypto coin prices. ",
             "categories": [
