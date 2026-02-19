@@ -73,7 +73,7 @@ You can see in which language an app is written. Currently there are following l
 | Shell | <img src='./icons/shell-16.png' alt='Shell' height='16'/> |
 | Swift | <img src='./icons/swift-16.png' alt='Swift' height='16'/> |
 | TypeScript | <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> |
-
+| Metal | <img src='./icons/metal-16.png' alt='Metal' height='16'/> |
 
 ## Contents
 - [Audio](#audio)
@@ -12716,6 +12716,7 @@ Thanks to all the people who contribute:
 [java_icon]: ./icons/java-16.png 'Java language.'
 [javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
 [lua_icon]: ./icons/Lua-16.png 'Lua language.'
+[metal_icon]: ./icons/metal-16.png 'Metal language.'
 [objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
 [python_icon]: ./icons/python-16.png 'Python language.'
 [ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
