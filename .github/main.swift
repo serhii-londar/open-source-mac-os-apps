@@ -8,7 +8,17 @@
 
 import Foundation
 
-let header = """
+// MARK: - Dynamic Header Generator
+func generateHeader(totalApps: Int, categoriesCount: Int, languageStats: [String: Int]) -> String {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "MMMM d, yyyy"
+    let lastUpdated = dateFormatter.string(from: Date())
+    
+    // Get top 5 languages
+    let topLanguages = languageStats.sorted { $0.value > $1.value }.prefix(5)
+    let languagesSummary = topLanguages.map { "\($0.key): \($0.value)" }.joined(separator: " • ")
+    
+    return """
 <div align="center">
   <a href="https://vshymanskyy.github.io/StandWithUkraine">
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
@@ -21,6 +31,11 @@ let header = """
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
     <a href="https://gitter.im/open-source-mac-os-apps/Lobby"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Apps-\(totalApps)-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Categories-\(categoriesCount)-green" alt="Categories"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-\(lastUpdated.replacingOccurrences(of: " ", with: "%20"))-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -46,28 +61,39 @@ To receive all new or popular applications you can join our [telegram channel](h
 
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
+## 📊 Statistics
+
+| Metric | Count |
+|--------|-------|
+| 📱 Total Applications | \(totalApps) |
+| 📂 Categories | \(categoriesCount) |
+| 🔝 Top Languages | \(languagesSummary) |
+
 ## Languages
 
 You can see in which language an app is written. Currently there are following languages:
 
-- ![c_icon] - C language.
-- ![cpp_icon] - C++ language.
-- ![c_sharp_icon] - C# language.
-- ![clojure_icon] - Clojure language.
-- ![coffee_script_icon] - CoffeeScript language.
-- ![css_icon] - CSS language.
-- ![go_icon] - Go language.
-- ![elm_icon] - Elm language.
-- ![haskell_icon] - Haskell language.
-- ![javascript_icon] - JavaScript language.
-- ![lua_icon] - Lua language.
-- ![objective_c_icon] - Objective-C language.
-- ![python_icon] - Python language.
-- ![ruby_icon] - Ruby language.
-- ![rust_icon] - Rust language.
-- ![shell_icon] - Shell language.
-- ![swift_icon] - Swift language.
-- ![typescript_icon] - TypeScript language.
+| Language | Icon |
+|----------|------|
+| C | <img src='./icons/c-16.png' alt='C' height='16'/> |
+| C++ | <img src='./icons/cpp-16.png' alt='C++' height='16'/> |
+| C# | <img src='./icons/csharp-16.png' alt='C#' height='16'/> |
+| Clojure | <img src='./icons/clojure-16.png' alt='Clojure' height='16'/> |
+| CoffeeScript | <img src='./icons/coffeescript-16.png' alt='CoffeeScript' height='16'/> |
+| CSS | <img src='./icons/css-16.png' alt='CSS' height='16'/> |
+| Elm | <img src='./icons/elm-16.png' alt='Elm' height='16'/> |
+| Go | <img src='./icons/golang-16.png' alt='Go' height='16'/> |
+| Haskell | <img src='./icons/haskell-16.png' alt='Haskell' height='16'/> |
+| Java | <img src='./icons/java-16.png' alt='Java' height='16'/> |
+| JavaScript | <img src='./icons/javascript-16.png' alt='JavaScript' height='16'/> |
+| Lua | <img src='./icons/Lua-16.png' alt='Lua' height='16'/> |
+| Objective-C | <img src='./icons/objective-c-16.png' alt='Objective-C' height='16'/> |
+| Python | <img src='./icons/python-16.png' alt='Python' height='16'/> |
+| Ruby | <img src='./icons/ruby-16.png' alt='Ruby' height='16'/> |
+| Rust | <img src='./icons/rust-16.png' alt='Rust' height='16'/> |
+| Shell | <img src='./icons/shell-16.png' alt='Shell' height='16'/> |
+| Swift | <img src='./icons/swift-16.png' alt='Swift' height='16'/> |
+| TypeScript | <img src='./icons/typescript-16.png' alt='TypeScript' height='16'/> |
 
 
 ## Contents
@@ -122,6 +148,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 """
+}
 
 let footer = """
 
@@ -181,6 +208,11 @@ class JSONApplication: Codable {
     var screenshots: [String]
     var categories: [String]
     var officialSite: String
+    // Optional metadata for richer README rendering
+    var homebrewCask: String?
+    var macOSVersion: String?  // Minimum macOS version required
+    var appStoreID: String?    // Mac App Store ID for direct linking
+    var deprecated: Bool?      // Mark if app is no longer maintained
     
     enum CodingKeys: String, CodingKey {
         case title
@@ -191,9 +223,13 @@ class JSONApplication: Codable {
         case screenshots
         case categories
         case officialSite = "official_site"
+        case homebrewCask = "homebrew_cask"
+        case macOSVersion = "macos_version"
+        case appStoreID = "app_store_id"
+        case deprecated
     }
     
-    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String) {
+    init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String, homebrewCask: String? = nil, macOSVersion: String? = nil, appStoreID: String? = nil, deprecated: Bool? = nil) {
         self.title = title
         self.iconURL = iconURL
         self.repoURL = repoURL
@@ -202,6 +238,10 @@ class JSONApplication: Codable {
         self.screenshots = screenshots
         self.categories = categories
         self.officialSite = officialSite
+        self.homebrewCask = homebrewCask
+        self.macOSVersion = macOSVersion
+        self.appStoreID = appStoreID
+        self.deprecated = deprecated
     }
 }
 
@@ -254,6 +294,26 @@ class ReadmeGenerator {
             let subcategories = categories.filter({ $0.parent != nil && !$0.parent!.isEmpty })
             let applications = applicationsObject.applications
             
+            // Validate applications
+            let validApplications = applications.filter { app in
+                let isValid = !app.title.isEmpty && !app.repoURL.isEmpty
+                if !isValid {
+                    print("⚠️ Warning: Skipping invalid app - Title: '\(app.title)', URL: '\(app.repoURL)'")
+                }
+                return isValid
+            }
+            
+            print("📊 Total apps: \(validApplications.count), Invalid/skipped: \(applications.count - validApplications.count)")
+            
+            // Calculate language statistics
+            var languageStats: [String: Int] = [:]
+            for app in validApplications {
+                for lang in app.languages {
+                    let normalizedLang = normalizeLanguageName(lang)
+                    languageStats[normalizedLang, default: 0] += 1
+                }
+            }
+            
             for subcategory in subcategories {
                 if let index = categories.lastIndex(where: { $0.parent != subcategory.id }) {
                     categories.remove(at: index)
@@ -262,18 +322,28 @@ class ReadmeGenerator {
             
             categories = categories.sorted(by: { $0.title < $1.title })
             
+            // Generate header with statistics
+            let header = generateHeader(
+                totalApps: validApplications.count,
+                categoriesCount: categories.count + subcategories.count,
+                languageStats: languageStats
+            )
+            
             readmeString.append(header)
             print("Start iteration....")
             
             for category in categories {
                 // Add category header with emoji and count
-                let categoryApps = applications.filter({ $0.categories.contains(category.id) })
+                let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
-                readmeString.append(String.enter + String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
+                // Add explicit anchor for TOC linking
+                let anchorId = generateAnchorId(category.title)
+                readmeString.append(String.enter + "<a id=\"\(anchorId)\"></a>" + String.enter)
+                readmeString.append(String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
-                categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+                categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
                 
                 for application in categoryApplications {
                     readmeString.append(application.markdownDescription())
@@ -288,13 +358,16 @@ class ReadmeGenerator {
                 subcategories = subcategories.sorted(by: { $0.title < $1.title })
                 for subcategory in subcategories {
                     // Add subcategory header with emoji and count
-                    let subcategoryApps = applications.filter({ $0.categories.contains(subcategory.id) })
+                    let subcategoryApps = validApplications.filter({ $0.categories.contains(subcategory.id) })
                     let subcategoryCount = subcategoryApps.count
                     let subcategoryEmoji = getCategoryEmoji(subcategory.id)
-                    readmeString.append(String.enter + String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
+                    // Add explicit anchor for TOC linking
+                    let subAnchorId = generateAnchorId(subcategory.title)
+                    readmeString.append(String.enter + "<a id=\"\(subAnchorId)\"></a>" + String.enter)
+                    readmeString.append(String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
                     
                     var categoryApplications = subcategoryApps
-                    categoryApplications = categoryApplications.sorted(by: { $0.title < $1.title })
+                    categoryApplications = categoryApplications.sorted(by: { $0.title.lowercased() < $1.title.lowercased() })
                     
                     for application in categoryApplications {
                         readmeString.append(application.markdownDescription())
@@ -308,11 +381,50 @@ class ReadmeGenerator {
             print("Finish iteration...")
             readmeString.append(footer)
             try readmeString.data(using: .utf8)?.write(to: url.appendingPathComponent(FilePaths.readme.rawValue))
-            print("Finish")
+            
+            // Generate JSON API file for external consumers
+            try generateAPIFile(applications: validApplications, categories: categoriesObject.categories, to: url)
+            
+            print("✅ Finish - Generated README.md and api.json")
         } catch {
-            print(error)
+            print("❌ Error: \(error)")
         }
     }
+    
+    // Generate a JSON API file for external consumers
+    private func generateAPIFile(applications: [JSONApplication], categories: [Category], to baseURL: URL) throws {
+        let apiData: [String: Any] = [
+            "generated_at": ISO8601DateFormatter().string(from: Date()),
+            "total_apps": applications.count,
+            "total_categories": categories.count,
+            "apps_by_category": Dictionary(grouping: applications, by: { $0.categories.first ?? "other" })
+                .mapValues { $0.count }
+        ]
+        
+        let jsonData = try JSONSerialization.data(withJSONObject: apiData, options: [.prettyPrinted, .sortedKeys])
+        try jsonData.write(to: baseURL.appendingPathComponent("api.json"))
+    }
+}
+
+// Helper function to normalize language names for statistics
+func normalizeLanguageName(_ lang: String) -> String {
+    switch lang.lowercased() {
+    case "objective_c": return "Objective-C"
+    case "cpp": return "C++"
+    case "c_sharp": return "C#"
+    case "coffee_script": return "CoffeeScript"
+    default: return lang.capitalized
+    }
+}
+
+// Helper function to generate GitHub-compatible anchor IDs from titles
+func generateAnchorId(_ title: String) -> String {
+    return title.lowercased()
+        .replacingOccurrences(of: " / ", with: "--")  // Handle " / " like GitHub does
+        .replacingOccurrences(of: "/", with: "-")
+        .replacingOccurrences(of: " & ", with: "--")  // Handle " & " like GitHub does
+        .replacingOccurrences(of: "&", with: "-")
+        .replacingOccurrences(of: " ", with: "-")
 }
 
 extension String {
@@ -329,44 +441,130 @@ extension JSONApplication {
         var markdownDescription = String.empty
         var languages: String = String.empty
         for lang in self.languages {
-            languages.append("![\(lang)\(String.iconPrefix)] ")
+            languages.append(languageIconHTML(for: lang) + " ")
         }
         
-        // Create a collapsible section for each application
-        markdownDescription.append("<details>")
-        markdownDescription.append("<summary><b>[\(self.title)](\(self.repoURL))</b> - \(self.shortDescription)</summary>")
-        markdownDescription.append("<p>")
+        // Header line with a standard Markdown link so it's always clickable
+        // Add deprecated indicator if the app is marked as deprecated
+        let deprecatedIndicator = (self.deprecated ?? false) ? " ⚠️ **[Deprecated]**" : ""
+        let macOSBadge = self.macOSVersion.map { " ![macOS \($0)+](https://img.shields.io/badge/macOS-\($0)%2B-blue)" } ?? ""
+        markdownDescription.append("- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(self.shortDescription)\n")
+        
+        // Collapsible extra details (languages, links, screenshots) indented to belong to the list item
+        let indent = "  "
+        markdownDescription.append("\n" + indent + "<details>\n")
+        markdownDescription.append(indent + "<summary>More</summary>\n")
+        markdownDescription.append(indent + "<p>\n\n")
         
         // Add languages
-        markdownDescription.append("<b>Languages:</b> \(languages)<br>")
+        markdownDescription.append("  **Languages:** \(languages)\n\n")
+        
+        // Add download/badge section
+        let ownerRepo = githubOwnerRepo(from: self.repoURL)
+        var badges = [String]()
+        // App Store button if appStoreID is set or if officialSite points to App Store
+        if let appStoreID = self.appStoreID, !appStoreID.isEmpty {
+            let appStoreURL = "https://apps.apple.com/app/id\(appStoreID)"
+            let appStoreButton = "<a href='\(appStoreURL)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
+            badges.append(appStoreButton)
+        } else if isAppStoreURL(self.officialSite) {
+            let appStoreButton = "<a href='\(self.officialSite)'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
+            badges.append(appStoreButton)
+        }
+        // GitHub Releases badge
+        if let (owner, repo) = ownerRepo {
+            let releasesURL = "https://github.com/\(owner)/\(repo)/releases/latest"
+            let releaseBadge = "<a href='\(releasesURL)'><img src='https://img.shields.io/github/v/release/\(owner)/\(repo)?display_name=tag&sort=semver' alt='Latest Release'/></a>"
+            badges.append(releaseBadge)
+            // Stars and license badges as additional improvements
+            let starsBadge = "<a href='\(self.repoURL)'><img src='https://img.shields.io/github/stars/\(owner)/\(repo)?style=social' alt='GitHub stars'/></a>"
+            let licenseBadge = "<img src='https://img.shields.io/github/license/\(owner)/\(repo)' alt='License'/>"
+            badges.append(starsBadge)
+            badges.append(licenseBadge)
+        }
+        // Homebrew availability badge if provided
+        if let cask = self.homebrewCask, !cask.isEmpty {
+            let brewURL = "https://formulae.brew.sh/cask/\(cask)"
+            let brewBadge = "<a href='\(brewURL)'><img src='https://img.shields.io/badge/Homebrew-available-ebb000?logo=homebrew&logoColor=white' alt='Homebrew cask'/></a>"
+            badges.append(brewBadge)
+        }
+        if badges.isEmpty == false {
+            markdownDescription.append("  **Links:** \(badges.joined(separator: " &nbsp; "))\n\n")
+        }
         
         // Add official site if available
         if !self.officialSite.isEmpty {
-            markdownDescription.append("<b>Website:</b> <a href=\"\(self.officialSite)\">\(self.officialSite)</a><br>")
+            markdownDescription.append("  **Website:** [\(self.officialSite)](\(self.officialSite))\n\n")
         }
         
         // Add screenshots with lazy loading to improve page load performance
         if self.screenshots.count > 0 {
-            markdownDescription.append("<b>Screenshots:</b><br>")
+            markdownDescription.append("  **Screenshots:**\n\n")
             
             // Limit to first 3 screenshots to reduce load time
             let limitedScreenshots = self.screenshots.count > 3 ? Array(self.screenshots.prefix(3)) : self.screenshots
             
             limitedScreenshots.forEach({
-                markdownDescription.append("<img src='\($0)' width='400' loading='lazy'/><br>")
+                markdownDescription.append("  <img src='\($0)' width='400' loading='lazy'/>\n\n")
             })
             
             // Add a note if there are more screenshots
             if self.screenshots.count > 3 {
-                markdownDescription.append("<em>(\(self.screenshots.count - 3) more screenshots available in the repository)</em><br>")
+                markdownDescription.append("  *(\(self.screenshots.count - 3) more screenshots available in the repository)*\n\n")
             }
         }
         
-        markdownDescription.append("</p>")
-        markdownDescription.append("</details>")
+        markdownDescription.append(indent + "</p>\n")
+        markdownDescription.append(indent + "</details>\n")
         
         return markdownDescription
     }
+}
+
+// Build HTML <img> tags for language icons to ensure rendering inside HTML blocks
+private func languageIconHTML(for languageKey: String) -> String {
+    struct LanguageIcon { let fileName: String; let label: String }
+    let icons: [String: LanguageIcon] = [
+        "c": .init(fileName: "c-16.png", label: "C"),
+        "cpp": .init(fileName: "cpp-16.png", label: "C++"),
+        "c_sharp": .init(fileName: "csharp-16.png", label: "C#"),
+        "clojure": .init(fileName: "clojure-16.png", label: "Clojure"),
+        "coffee_script": .init(fileName: "coffeescript-16.png", label: "CoffeeScript"),
+        "css": .init(fileName: "css-16.png", label: "CSS"),
+        "elm": .init(fileName: "elm-16.png", label: "Elm"),
+        "go": .init(fileName: "golang-16.png", label: "Go"),
+        "haskell": .init(fileName: "haskell-16.png", label: "Haskell"),
+        "java": .init(fileName: "java-16.png", label: "Java"),
+        "javascript": .init(fileName: "javascript-16.png", label: "JavaScript"),
+        "lua": .init(fileName: "Lua-16.png", label: "Lua"),
+        "objective_c": .init(fileName: "objective-c-16.png", label: "Objective-C"),
+        "python": .init(fileName: "python-16.png", label: "Python"),
+        "ruby": .init(fileName: "ruby-16.png", label: "Ruby"),
+        "rust": .init(fileName: "rust-16.png", label: "Rust"),
+        "shell": .init(fileName: "shell-16.png", label: "Shell"),
+        "swift": .init(fileName: "swift-16.png", label: "Swift"),
+        "typescript": .init(fileName: "typescript-16.png", label: "TypeScript")
+    ]
+    let key = languageKey.lowercased()
+    if let icon = icons[key] {
+        return "<img src='./icons/\(icon.fileName)' alt='\(icon.label) icon' title='\(icon.label)' height='16'/>"
+    } else {
+        return "<code>\(languageKey)</code>"
+    }
+}
+
+// MARK: - Helpers
+private func githubOwnerRepo(from repoURL: String) -> (String, String)? {
+    guard repoURL.contains("github.com") else { return nil }
+    let parts = repoURL.split(separator: "/").map(String.init)
+    guard let owner = parts.drop(while: { $0 != "github.com" }).dropFirst().first,
+          let repoRaw = parts.drop(while: { $0 != "github.com" }).dropFirst(2).first else { return nil }
+    let repo = repoRaw.replacingOccurrences(of: ".git", with: "")
+    return (owner, repo)
+}
+
+private func isAppStoreURL(_ string: String) -> Bool {
+    return string.contains("apps.apple.com") || string.contains("itunes.apple.com")
 }
 
 // Helper function to get emoji for categories
@@ -389,21 +587,39 @@ func getCategoryEmoji(_ categoryId: String) -> String {
     case "images": return "🖼️"
     case "keyboard": return "⌨️"
     case "mail": return "📧"
+    case "medical": return "🏥"
     case "menubar": return "📊"
     case "music": return "🎧"
     case "news": return "📰"
     case "notes": return "📔"
+    case "other": return "📦"
+    case "player": return "▶️"
+    case "podcast": return "🎙️"
     case "productivity": return "⏱️"
+    case "screensaver": return "🌙"
     case "security": return "🔒"
     case "sharing-files": return "📤"
     case "social-networking": return "👥"
+    case "streaming": return "📡"
     case "system": return "⚙️"
     case "terminal": return "📺"
+    case "touch-bar": return "🎚️"
     case "utilities": return "🛠️"
     case "video": return "🎬"
     case "vpn--proxy": return "🔐"
     case "wallpaper": return "🖥️"
     case "window-management": return "🪟"
+    // Subcategories
+    case "git": return "📦"
+    case "ios--macos": return "📱"
+    case "json-parsing": return "🔄"
+    case "web-development": return "🌍"
+    case "other-development": return "🔧"
+    case "csv": return "📊"
+    case "json": return "📋"
+    case "markdown": return "📝"
+    case "tex": return "📐"
+    case "text": return "✏️"
     default: return "📦"
     }
 }
