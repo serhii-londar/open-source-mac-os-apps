@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-618-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-619-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 618 |
+| 📱 Total Applications | 619 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 271 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
@@ -5749,7 +5749,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (40)
+### 📊 Menubar (41)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6277,6 +6277,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/alexrosenfeld10/Quickeys/master/Images/Quickeys.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -7632,7 +7651,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (57)
+### ⏱️ Productivity (58)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8191,6 +8210,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/b3z/reventlou/blob/master/assets/screenshot.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9947,7 +9985,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (83)
+### 🛠️ Utilities (84)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11039,6 +11077,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/swiftyfinch/Rugby/blob/main/Assets/Preview.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
 
   </p>
   </details>
