@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-636-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-637-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 636 |
+| 📱 Total Applications | 637 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 276 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -7851,7 +7851,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (63)
+### ⏱️ Productivity (64)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8431,6 +8431,31 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://i.imgur.com/asCk1Ds.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
+
+  **Website:** [https://readest.com](https://readest.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy'/>
+
+  *(2 more screenshots available in the repository)*
 
   </p>
   </details>
