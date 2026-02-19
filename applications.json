@@ -9809,6 +9809,26 @@
             "typescript"
           ]
         },
+	{
+          "short_description": "Readest is a modern, feature-rich ebook reader designed for avid readers.",
+          "categories": [
+            "productivity"
+          ],
+          "repo_url": "https://github.com/readest/readest",
+          "title": "Readest",
+          "icon_url": "https://raw.githubusercontent.com/readest/readest/main/apps/readest-app/public/icon.png",
+          "screenshots": [
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png",
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png",
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png",
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/dark_mode.png",
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png",
+          ],
+          "official_site": "https://readest.com",
+          "languages": [
+            "typescript"
+          ]
+        },
         {
             "short_description": "A Hex Editor for Reverse Engineers.",
             "categories": [
