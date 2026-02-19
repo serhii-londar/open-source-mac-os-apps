@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-641-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-642-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 641 |
+| 📱 Total Applications | 642 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 278 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -10443,7 +10443,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (92)
+### 🛠️ Utilities (93)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11600,6 +11600,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://user-images.githubusercontent.com/45484873/60389024-ece0d000-9ac2-11e9-8dbc-2376e905887f.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [PlugNPlayMac](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+
+  **Links:** <a href='https://github.com/Piero24/PlugNPlayMac/releases/latest'><img src='https://img.shields.io/github/v/release/Piero24/PlugNPlayMac?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Piero24/PlugNPlayMac'><img src='https://img.shields.io/github/stars/Piero24/PlugNPlayMac?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Piero24/PlugNPlayMac' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='' width='400' loading='lazy'/>
 
   </p>
   </details>
