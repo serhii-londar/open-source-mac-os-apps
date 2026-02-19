@@ -1223,22 +1223,6 @@
             ]
         },
         {
-            "short_description": "App for all the world’s currencies. ",
-            "categories": [
-                "cryptocurrency"
-            ],
-            "repo_url": "https://github.com/balance-io/balance-open",
-            "title": "Balance Open",
-            "icon_url": "",
-            "screenshots": [
-                "https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "macOS menu bar application for tracking crypto coin prices. ",
             "categories": [
                 "cryptocurrency"
