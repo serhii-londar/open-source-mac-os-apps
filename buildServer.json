@@ -1,0 +1,19 @@
+{
+	"name": "xcode build server",
+	"version": "0.2",
+	"bspVersion": "2.0",
+	"languages": [
+		"c",
+		"cpp",
+		"objective-c",
+		"objective-cpp",
+		"swift"
+	],
+	"argv": [
+		"/usr/local/bin/xcode-build-server"
+	],
+	"workspace": "/Users/serhii.londar/Documents/GitHub/open-source-mac-os-apps/.github/ReadmeGenerator.xcodeproj/project.xcworkspace",
+	"build_root": "/Users/serhii.londar/Library/Developer/Xcode/DerivedData/ReadmeGenerator-gmebhtnoakzlbseqgzuedvuuxjxb",
+	"scheme": "ReadmeGenerator",
+	"kind": "xcode"
+}
