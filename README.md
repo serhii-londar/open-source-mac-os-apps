@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-637-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-638-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 637 |
+| 📱 Total Applications | 638 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 276 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -3620,7 +3620,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="editors"></a>
-### 📝 Editors (5)
+### 📝 Editors (6)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -3716,6 +3716,31 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>free-pascal</code> 
+
+  **Links:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
+
+  **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
+
+  **Screenshots:**
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
+
+  *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="csv"></a>
@@ -3776,7 +3801,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="markdown"></a>
-#### 📝 Markdown (10)
+#### 📝 Markdown (11)
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. 
 
   <details>
@@ -3860,6 +3885,31 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://github.com/MarkEdit-app/MarkEdit/raw/main/Screenshots/02.png' width='400' loading='lazy'/>
 
   <img src='https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/03.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>free-pascal</code> 
+
+  **Links:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
+
+  **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
+
+  **Screenshots:**
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
+
+  *(1 more screenshots available in the repository)*
 
   </p>
   </details>
@@ -3989,7 +4039,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="text"></a>
-#### ✏️ Text (11)
+#### ✏️ Text (12)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -4079,6 +4129,31 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://micro-editor.github.io/screenshots/micro-darcula.png' width='400' loading='lazy'/>
 
   *(8 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>free-pascal</code> 
+
+  **Links:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
+
+  **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
+
+  **Screenshots:**
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
+
+  *(1 more screenshots available in the repository)*
 
   </p>
   </details>
