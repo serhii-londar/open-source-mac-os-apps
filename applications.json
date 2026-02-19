@@ -6071,6 +6071,24 @@
                 "cpp"
             ]
         },
+		{
+            "short_description": "Free Advanced Android File Transfer Application for macOS",
+            "categories": [
+                "Android",
+                "File Transfare"
+            ],
+            "repo_url": "https://github.com/ganeshrvel/openmtp",
+            "title": "Open mtp",
+            "icon_url": "https://github.com/ganeshrvel/openmtp/blob/master/app/app.icns",
+            "screenshots": [
+               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-explorer-bluebg.jpg",
+               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-transfer-bluebg.jpg"
+            ],
+            "official_site": "https://openmtp.ganeshrvel.com/",
+            "languages": [
+                "English"
+            ]
+        }
         {
             "short_description": "Make your battery information a bit more interesting. ",
             "categories": [
