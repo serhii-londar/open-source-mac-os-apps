@@ -9957,6 +9957,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/screenpipe/screenpipe",
+            "title": "Screenpipe",
+            "icon_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/main/apps/screenpipe-app-tauri/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://screenpi.pe/og-image.png"
+            ],
+            "official_site": "https://screenpi.pe",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
