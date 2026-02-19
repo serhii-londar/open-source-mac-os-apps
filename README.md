@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-639-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-640-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 639 |
+| 📱 Total Applications | 640 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 276 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 277 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -5980,7 +5980,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (43)
+### 📊 Menubar (44)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6020,6 +6020,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/tonsky/AnyBar/releases/latest'><img src='https://img.shields.io/github/v/release/tonsky/AnyBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/tonsky/AnyBar'><img src='https://img.shields.io/github/stars/tonsky/AnyBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/tonsky/AnyBar' alt='License'/>
+
+  </p>
+  </details>
+
+- [app-menu](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/barseghyanartur/app-menu/releases/latest'><img src='https://img.shields.io/github/v/release/barseghyanartur/app-menu?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/barseghyanartur/app-menu'><img src='https://img.shields.io/github/stars/barseghyanartur/app-menu?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/barseghyanartur/app-menu' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_screenshot.jpg' width='400' loading='lazy'/>
+
+  <img src='https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_configuration_dir_access.jpg' width='400' loading='lazy'/>
 
   </p>
   </details>
