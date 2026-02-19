@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-644-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-645-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 644 |
+| 📱 Total Applications | 645 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 280 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 281 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -6001,7 +6001,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (45)
+### 📊 Menubar (46)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6736,6 +6736,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
+
+  **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10464,7 +10485,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (93)
+### 🛠️ Utilities (94)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11913,6 +11934,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
+
+  **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard.
 
   <details>
@@ -11993,7 +12035,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="vpn--proxy"></a>
-### 🔐 VPN & Proxy (6)
+### 🔐 VPN & Proxy (7)
 - [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. 
 
   <details>
@@ -12072,6 +12114,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/Tunnelblick/Tunnelblick/releases/latest'><img src='https://img.shields.io/github/v/release/Tunnelblick/Tunnelblick?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Tunnelblick/Tunnelblick'><img src='https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Tunnelblick/Tunnelblick' alt='License'/>
+
+  </p>
+  </details>
+
+- [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
+
+  **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
 
   </p>
   </details>
