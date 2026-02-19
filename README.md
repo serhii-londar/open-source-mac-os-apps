@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-632-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-636-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 632 |
+| 📱 Total Applications | 636 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 275 • Objective-C: 134 • Javascript: 110 • C++: 56 • C: 36 |
+| 🔝 Top Languages | Swift: 276 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -1408,19 +1408,21 @@ You can see in which language an app is written. Currently there are following l
 
 <a id="cryptocurrency"></a>
 ### 💰 Cryptocurrency (5)
-- [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. 
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <code>C++</code> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
 
-  **Links:** <a href='https://github.com/balance-io/balance-open/releases/latest'><img src='https://img.shields.io/github/v/release/balance-io/balance-open?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/balance-io/balance-open'><img src='https://img.shields.io/github/stars/balance-io/balance-open?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/balance-io/balance-open' alt='License'/>
+  **Links:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
+
+  **Website:** [https://bitcoincore.org/](https://bitcoincore.org/)
 
   **Screenshots:**
 
-  <img src='https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png' width='400' loading='lazy'/>
+  <img src='https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -1822,7 +1824,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (9)
+### 👨‍💻 Development (11)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -1882,6 +1884,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [DevLint](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [GitAhead](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
   <details>
@@ -1893,6 +1914,29 @@ You can see in which language an app is written. Currently there are following l
   **Links:** <a href='https://github.com/gitahead/gitahead/releases/latest'><img src='https://img.shields.io/github/v/release/gitahead/gitahead?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gitahead/gitahead/'><img src='https://img.shields.io/github/stars/gitahead/gitahead?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/gitahead/gitahead' alt='License'/>
 
   **Website:** [https://gitahead.github.io/gitahead.com/](https://gitahead.github.io/gitahead.com/)
+
+  </p>
+  </details>
+
+- [Gridfy](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
+
+  **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-01.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -2733,7 +2777,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ios--macos"></a>
-#### 📱 iOS / macOS (41)
+#### 📱 iOS / macOS (42)
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. 
 
   <details>
@@ -2768,19 +2812,6 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/kuyawa/Gallery/master/AppIcons/appicons.png' width='400' loading='lazy'/>
-
-  </p>
-  </details>
-
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS. 
-
-  <details>
-  <summary>More</summary>
-  <p>
-
-  **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
-
-  **Links:** <a href='https://github.com/everettjf/AppleTrace/releases/latest'><img src='https://img.shields.io/github/v/release/everettjf/AppleTrace?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/everettjf/AppleTrace'><img src='https://img.shields.io/github/stars/everettjf/AppleTrace?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/everettjf/AppleTrace' alt='License'/>
 
   </p>
   </details>
@@ -2992,6 +3023,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [DevLint](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. 
 
   <details>
@@ -3086,6 +3136,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/johnno1962/InjectionIII/releases/latest'><img src='https://img.shields.io/github/v/release/johnno1962/InjectionIII?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/johnno1962/InjectionIII'><img src='https://img.shields.io/github/stars/johnno1962/InjectionIII?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/johnno1962/InjectionIII' alt='License'/>
+
+  </p>
+  </details>
+
+- [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+
+  **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   </p>
   </details>
@@ -3555,7 +3620,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="editors"></a>
-### 📝 Editors (4)
+### 📝 Editors (5)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -3609,6 +3674,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [DevLint](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -4703,7 +4787,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="graphics"></a>
-### 🎨 Graphics (16)
+### 🎨 Graphics (17)
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
   <details>
@@ -4958,6 +5042,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://i.imgur.com/jIJ4Gcf.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Nugget](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/cartesiancs/nugget-app/releases/latest'><img src='https://img.shields.io/github/v/release/cartesiancs/nugget-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cartesiancs/nugget-app'><img src='https://img.shields.io/github/stars/cartesiancs/nugget-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/cartesiancs/nugget-app' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/.github/screenshotv1.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -5504,7 +5605,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="keyboard"></a>
-### ⌨️ Keyboard (9)
+### ⌨️ Keyboard (10)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
   <details>
@@ -5540,6 +5641,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/clojure-16.png' alt='Clojure icon' title='Clojure' height='16'/> 
 
   **Links:** <a href='https://github.com/yqrashawn/GokuRakuJoudo/releases/latest'><img src='https://img.shields.io/github/v/release/yqrashawn/GokuRakuJoudo?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yqrashawn/GokuRakuJoudo'><img src='https://img.shields.io/github/stars/yqrashawn/GokuRakuJoudo?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/yqrashawn/GokuRakuJoudo' alt='License'/>
+
+  </p>
+  </details>
+
+- [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+
+  **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   </p>
   </details>
@@ -5789,7 +5905,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (42)
+### 📊 Menubar (43)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6417,6 +6533,31 @@ You can see in which language an app is written. Currently there are following l
   **Links:** <a href='https://github.com/swiftbar/SwiftBar/releases/latest'><img src='https://img.shields.io/github/v/release/swiftbar/SwiftBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/swiftbar/SwiftBar'><img src='https://img.shields.io/github/stars/swiftbar/SwiftBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/swiftbar/SwiftBar' alt='License'/>
 
   **Website:** [https://swiftbar.app](https://swiftbar.app)
+
+  </p>
+  </details>
+
+- [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
+
+  **Website:** [https://timescribe.app](https://timescribe.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy'/>
+
+  *(2 more screenshots available in the repository)*
 
   </p>
   </details>
@@ -7710,7 +7851,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (62)
+### ⏱️ Productivity (63)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8585,6 +8726,31 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/light-mode.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/dark-mode.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
+
+  **Website:** [https://timescribe.app](https://timescribe.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy'/>
+
+  *(2 more screenshots available in the repository)*
 
   </p>
   </details>
@@ -10114,7 +10280,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (89)
+### 🛠️ Utilities (91)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10617,6 +10783,29 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Gridfy](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
+
+  **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-01.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
 
   <details>
@@ -10653,6 +10842,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy'/>
 
   <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+
+  **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   </p>
   </details>
