@@ -70,6 +70,25 @@
 		  ]
 		},
         {
+            "short_description":"Locally hosted web application that allows you to perform various operations on PDF files",
+            "categories":[
+                "utilities"
+            ],
+            "repo_url":"https://github.com/Stirling-Tools/Stirling-PDF",
+            "title":"Stirling-PDF",
+            "icon_url":"https://github.com/Stirling-Tools/Stirling-PDF/blob/main/app/core/src/main/resources/static/favicon.png",
+            "screenshots":[
+
+            ],
+            "official_site":"stirlingpdf.com",
+            "languages":[
+                "java",
+                "html",
+                "javascript",
+                "html"
+            ]
+        },
+        {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
                 "utilities"
