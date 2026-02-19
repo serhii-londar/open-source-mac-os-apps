@@ -9902,7 +9902,8 @@
                 "swift"
             ]
         },
-	      {
+        {
+
             "short_description": "Simple and free working time recording.",
             "categories": [
                 "menubar",
@@ -9921,6 +9922,26 @@
             "official_site": "https://timescribe.app",
             "languages": [
                 "css",
+		        "javascript",
+		        "typescript"
+            ]
+        },
+        {
+            "short_description": "Quickly calculate column widths and get correct results for your grid.",
+            "categories": [
+                "utilities",
+                "development"
+
+            ],
+            "repo_url": "https://github.com/Slllava/gridfy",
+            "title": "Gridfy",
+            "icon_url": "https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/Gridfy/Assets.xcassets/Icons/AppIcon.appiconset/Icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-01.png",
+                "https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png",
+                "https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png"
+            ],
+            "official_site": "https://gridfy.astroon.pro/",
 		            "javascript",
 		            "typescript"
             ]
