@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-631-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-632-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 631 |
+| 📱 Total Applications | 632 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 274 • Objective-C: 134 • Javascript: 110 • C++: 56 • C: 36 |
+| 🔝 Top Languages | Swift: 275 • Objective-C: 134 • Javascript: 110 • C++: 56 • C: 36 |
 
 ## Languages
 
@@ -7710,7 +7710,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (61)
+### ⏱️ Productivity (62)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -7846,6 +7846,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://devutils.com/screenshot-dark.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
+
+  **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
+
+  **Screenshots:**
+
+  <img src='https://github.com/XiCheng148/Dockit/blob/main/Resources/preview.gif?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -12102,7 +12121,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="window-management"></a>
-### 🪟 Window Management (14)
+### 🪟 Window Management (15)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   <details>
@@ -12200,6 +12219,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/Themes.gif' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/iTerm.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
+
+  **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
+
+  **Screenshots:**
+
+  <img src='https://github.com/XiCheng148/Dockit/blob/main/Resources/preview.gif?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
