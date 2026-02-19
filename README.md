@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-640-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-641-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 640 |
+| 📱 Total Applications | 641 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 277 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 278 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -5980,7 +5980,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (44)
+### 📊 Menubar (45)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6220,6 +6220,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/dwarvesf/hidden/blob/develop/img/tutorial.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
+
+  **Website:** [https://icemenubar.app/](https://icemenubar.app/)
+
+  **Screenshots:**
+
+  <img src='https://icemenubar.app/gallery/Show%20On%20Hover.mov' width='400' loading='lazy'/>
 
   </p>
   </details>
