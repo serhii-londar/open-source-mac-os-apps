@@ -1747,20 +1747,6 @@
             ]
         },
         {
-            "short_description": "Trace tool for iOS/macOS. ",
-            "categories": [
-                "ios--macos"
-            ],
-            "repo_url": "https://github.com/everettjf/AppleTrace",
-            "title": "AppleTrace",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "",
-            "languages": [
-                "objective_c"
-            ]
-        },
-        {
             "short_description": "Gives you indication about the average iOS / macOS app stores review times. ",
             "categories": [
                 "ios--macos"
