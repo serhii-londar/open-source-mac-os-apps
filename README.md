@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-619-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-620-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 619 |
+| 📱 Total Applications | 620 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 271 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
@@ -7651,7 +7651,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (58)
+### ⏱️ Productivity (59)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -7838,6 +7838,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
 
   **Links:** <a href='https://github.com/elfmz/far2l/releases/latest'><img src='https://img.shields.io/github/v/release/elfmz/far2l?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/elfmz/far2l'><img src='https://img.shields.io/github/stars/elfmz/far2l?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/elfmz/far2l' alt='License'/>
+
+  </p>
+  </details>
+
+- [File Architect](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
+  **Website:** [https://filearchitect.com](https://filearchitect.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9985,7 +10004,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (84)
+### 🛠️ Utilities (85)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10388,6 +10407,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
 
   **Links:** <a href='https://github.com/elfmz/far2l/releases/latest'><img src='https://img.shields.io/github/v/release/elfmz/far2l?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/elfmz/far2l'><img src='https://img.shields.io/github/stars/elfmz/far2l?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/elfmz/far2l' alt='License'/>
+
+  </p>
+  </details>
+
+- [File Architect](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
+  **Website:** [https://filearchitect.com](https://filearchitect.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png' width='400' loading='lazy'/>
 
   </p>
   </details>
