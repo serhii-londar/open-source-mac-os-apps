@@ -1,5 +1,39 @@
 {
     "applications": [
+		{
+            "short_description": "Blazingly fast, customisable multi tool, application launcher",
+            "categories": [
+                "productivity",
+                "utilities",
+				"menubar"
+            ],
+            "repo_url": "https://github.com/unsecretised/rustcast",
+            "title": "RustCast",
+            "icon_url": "https://rustcast.umangsurana.com/icon.png",
+            "screenshots": [
+               "https://rustcast.umangsurana.com/rustcast-v0-5-0.png"
+            ],
+            "official_site": "https://rustcast.umangsurana.com",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "short_description": "Three-finger trackpad gestures for middle-click and middle-drag.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
+            "title": "MiddleDrag",
+            "icon_url": "https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/Assets.xcassets/AppIcon.appiconset/Icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/Screenshots/MiddleDrag-Demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
         {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
@@ -15,7 +49,26 @@
           "languages": [
             "typescript"
           ]
-        },
+        },   
+		{
+		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
+		  "categories": [
+		    "menubar",
+		    "utilities",
+		    "productivity"
+		  ],
+		  "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
+		  "title": "Bye-AppQuit",
+		  "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
+		  "screenshots": [
+		    "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
+			
+		  ],
+		  "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
+		  "languages": [
+		    "swift"
+		  ]
+		},
         {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
@@ -450,6 +503,24 @@
             "languages": [
                 "objective_c",
                 "swift"
+            ]
+        },
+        {
+            "short_description": "macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/ateymoori/lyricglow",
+            "title": "LyricGlow",
+            "icon_url": "https://raw.githubusercontent.com/ateymoori/lyricglow/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-synchronized-lyrics-english.png",
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-artist-images-album-covers.png",
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-rtl-lyrics-persian.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -2338,6 +2409,23 @@
             "official_site": "https://httptoolkit.com/",
             "languages": [
                 "typescript"
+            ]
+        },
+        {
+            "short_description": "A lightweight open-source API Development, Testing & Mocking platform",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/requestly/requestly",
+            "title": "Requestly",
+            "icon_url": "https://raw.githubusercontent.com/requestly/requestly/master/app/public/favicon.png",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/a962b213-8744-4ffc-bd04-fcf891f48914",
+                "https://github.com/user-attachments/assets/7bc00c7e-c280-40eb-9a2a-c070ecdea662"
+            ],
+            "official_site": "https://requestly.com",
+            "languages": [
+                "javascript"
             ]
         },
         {
@@ -6001,6 +6089,24 @@
                 "cpp"
             ]
         },
+		{
+            "short_description": "Free Advanced Android File Transfer Application for macOS",
+            "categories": [
+                "Android",
+                "File Transfare"
+            ],
+            "repo_url": "https://github.com/ganeshrvel/openmtp",
+            "title": "Open mtp",
+            "icon_url": "https://github.com/ganeshrvel/openmtp/blob/master/app/app.icns",
+            "screenshots": [
+               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-explorer-bluebg.jpg",
+               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-transfer-bluebg.jpg"
+            ],
+            "official_site": "https://openmtp.ganeshrvel.com/",
+            "languages": [
+                "English"
+            ]
+        }
         {
             "short_description": "Make your battery information a bit more interesting. ",
             "categories": [
@@ -8045,6 +8151,22 @@
             ]
         },
         {
+            "short_description": "Open-source macOS menu bar app to monitor Vercel deployment status in real time.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/andrewk17/vercel-deployment-menu-bar",
+            "title": "Vercel Deployment Menu Bar",
+            "icon_url": "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png"
+            ],
+            "official_site": "https://vercel-deployment-menu-bar.vercel.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Free to do list & time tracker for programmers & designers with Jira integration.",
             "categories": [
                 "productivity",
@@ -9728,30 +9850,30 @@
                 "swift"
             ]
         },
-	{
+	    {
             "short_description": "Simple and free working time recording.",
             "categories": [
                 "menubar",
-		"productivity"
+		        "productivity"
             ],
             "repo_url": "https://github.com/WINBIGFOX/timescribe",
             "title": "TimeScribe",
             "icon_url": "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
             "screenshots": [
-		"https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
+		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
-		"https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
-		"https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
+		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
+		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
             ],
             "official_site": "https://timescribe.app",
             "languages": [
                 "css",
-		"javascript",
-		"typescript",
+		        "javascript",
+		        "typescript"
             ]
         },
-	{
+	    {
             "short_description": "Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.",
             "categories": [
                 "utilities"
@@ -9762,7 +9884,26 @@
             "screenshots": [
                 "https://macpacker.app/main.png"
             ],
-            "official_site": "https://macpacker.app/ ",
+            "official_site": "https://macpacker.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "window-management"
+            ],
+            "repo_url": "https://github.com/jordanbaird/Ice",
+            "title": "Ice",
+            "icon_url": "https://icemenubar.app/gallery/Ice%20Cube.png?ts=1737648866",
+            "screenshots": [
+                "https://icemenubar.app/gallery/ice-bar.png",
+                "https://icemenubar.app/gallery/menu-bar-item-search.png"
+            ],
+            "official_site": "https://icemenubar.app/",
             "languages": [
                 "swift"
             ]
@@ -9782,6 +9923,39 @@
             "languages": [
                 "c++",
                 "c"
+            ]
+        },
+        {
+            "short_description": "Create file and folder structures from plain text descriptions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/filearchitect/app",
+            "title": "File Architect",
+            "icon_url": "https://raw.githubusercontent.com/filearchitect/app/main/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png"
+            ],
+            "official_site": "https://filearchitect.com",
+            "languages": [
+                "typescript",
+                "rust"
+              ]
+         },
+         {
+            "short_description": "Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/0xMassi/stik_app",
+            "title": "Stik",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://stik.ink",
+            "languages": [
+                "rust",
+                "typescript"
             ]
         }
     ]
