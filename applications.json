@@ -8810,6 +8810,22 @@
                 "swift"
             ]
         },
+	{
+            "short_description": "Powerful menu bar manager for macOS",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jordanbaird/Ice",
+            "title": "Ice",
+            "icon_url": "https://github.com/jordanbaird/Ice/blob/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://icemenubar.app/gallery/Show%20On%20Hover.mov"
+            ],
+            "official_site": "https://icemenubar.app/",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "repo_url": "https://github.com/robaho/seashore",
             "official_site": "",
