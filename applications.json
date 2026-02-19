@@ -9857,6 +9857,24 @@
             ]
         },
         {
+            "short_description": "Create file and folder structures from plain text descriptions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/filearchitect/app",
+            "title": "File Architect",
+            "icon_url": "https://raw.githubusercontent.com/filearchitect/app/main/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png"
+            ],
+            "official_site": "https://filearchitect.com",
+            "languages": [
+                "typescript",
+                "rust"
+              ]
+         },
+         {
             "short_description": "Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
             "categories": [
                 "notes"
@@ -9871,6 +9889,5 @@
                 "typescript"
             ]
         }
-
     ]
 }
