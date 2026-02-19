@@ -9985,6 +9985,7 @@
                 "https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png"
             ],
             "official_site": "https://gridfy.astroon.pro/",
+            "languages": [
 		            "javascript",
 		            "typescript"
             ]
