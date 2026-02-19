@@ -506,6 +506,24 @@
             ]
         },
         {
+            "short_description": "macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/ateymoori/lyricglow",
+            "title": "LyricGlow",
+            "icon_url": "https://raw.githubusercontent.com/ateymoori/lyricglow/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-synchronized-lyrics-english.png",
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-artist-images-album-covers.png",
+                "https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-rtl-lyrics-persian.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "repo_url": "https://github.com/LumingYin/macOSLucidaGrande",
             "official_site": "https://github.com/LumingYin/macOSLucidaGrande/releases",
             "title": "macOSLucidaGrande",
