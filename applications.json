@@ -10059,6 +10059,22 @@
             ]
         },
         {
+            "short_description": "App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/FreeterApp/Freeter",
+            "title": "Freeter",
+            "icon_url": "https://raw.githubusercontent.com/FreeterApp/Freeter/master/src/assets/app-icons/256.png",
+            "screenshots": [
+                "https://freeter.io/images/app-screen.png"
+            ],
+            "official_site": "https://freeter.io/",
+            "languages": [
+                "typescript"
+             ]
+        },
+        {
             "short_description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.",
             "categories": [
                 "downloader"
