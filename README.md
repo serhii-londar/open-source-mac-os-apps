@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-648-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-649-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 648 |
+| 📱 Total Applications | 649 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 283 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 284 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -6043,7 +6043,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (47)
+### 📊 Menubar (48)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6157,6 +6157,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+
+  **Website:** [https://github.com/praneeth552/clipflow](https://github.com/praneeth552/clipflow)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10548,7 +10569,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (96)
+### 🛠️ Utilities (97)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10825,6 +10846,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+
+  **Website:** [https://github.com/praneeth552/clipflow](https://github.com/praneeth552/clipflow)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
