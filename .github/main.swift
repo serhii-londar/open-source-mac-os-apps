@@ -451,16 +451,8 @@ extension JSONApplication {
         let macOSBadge = self.macOSVersion.map { " ![macOS \($0)+](https://img.shields.io/badge/macOS-\($0)%2B-blue)" } ?? ""
         markdownDescription.append("- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(self.shortDescription)\n")
         
-        // Collapsible extra details (languages, links, screenshots) indented to belong to the list item
         let indent = "  "
-        markdownDescription.append("\n" + indent + "<details>\n")
-        markdownDescription.append(indent + "<summary>More</summary>\n")
-        markdownDescription.append(indent + "<p>\n\n")
-        
-        // Add languages
-        markdownDescription.append("  **Languages:** \(languages)\n\n")
-        
-        // Add download/badge section
+        // Badges are rendered directly under the title line for quick visibility
         let ownerRepo = githubOwnerRepo(from: self.repoURL)
         var badges = [String]()
         // App Store button if appStoreID is set or if officialSite points to App Store
@@ -494,8 +486,16 @@ extension JSONApplication {
             badges.append(brewBadge)
         }
         if badges.isEmpty == false {
-            markdownDescription.append("  **Links:** \(badges.joined(separator: " &nbsp; "))\n\n")
+            markdownDescription.append("\(indent)**Badges:** \(badges.joined(separator: " &nbsp; "))\n")
         }
+
+        // Collapsible extra details (languages, screenshots) indented to belong to the list item
+        markdownDescription.append("\n" + indent + "<details>\n")
+        markdownDescription.append(indent + "<summary>More</summary>\n")
+        markdownDescription.append(indent + "<p>\n\n")
+        
+        // Add languages
+        markdownDescription.append("\(indent)**Languages:** \(languages)\n\n")
         
         // Add official site if available
         if !self.officialSite.isEmpty {
