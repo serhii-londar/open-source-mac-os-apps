@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-686-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-687-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 686 |
+| 📱 Total Applications | 687 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
 
 ## Languages
 
@@ -5553,7 +5553,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ide"></a>
-### 💻 IDE (12)
+### 💻 IDE (13)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -5730,6 +5730,21 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed. 
+
+  **Badges:** <a href='https://github.com/VSCodium/vscodium/releases/latest'><img src='https://img.shields.io/github/v/release/VSCodium/vscodium?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/VSCodium/vscodium'><img src='https://img.shields.io/github/stars/VSCodium/vscodium?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/VSCodium/vscodium' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/VSCodium/vscodium' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Website:** [https://vscodium.com/](https://vscodium.com/)
 
   </p>
   </details>
