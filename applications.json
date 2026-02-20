@@ -9968,6 +9968,24 @@
             ]
         },
         {
+            "short_description": "Application to spoof your iOS or iPhoneSimulator location.",
+            "categories": [
+                "development",
+                "ios--macos",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Schlaubischlump/LocationSimulator",
+            "title": "LocationSimulator",
+            "icon_url": "https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/LocationSimulator/Assets.xcassets/AppIcon.appiconset/AppIcon_512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/Preview/screenshot.png"
+            ],
+            "official_site": "https://schlaubischlump.github.io/LocationSimulator",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "M-Courtyard",
             "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
             "categories": [
