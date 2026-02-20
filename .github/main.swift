@@ -552,7 +552,7 @@ private func languageIconHTML(for languageKey: String) -> String {
     ]
     let key = languageKey.lowercased()
     if let icon = icons[key] {
-        return "<img src='./icons/\(icon.fileName)' alt='\(icon.label) icon' title='\(icon.label)' height='16'/>"
+        return "<img src='./icons/\(icon.fileName)' alt='\(icon.label) icon' title='\(icon.label)' height='16'/> \(icon.label)"
     } else {
         return "<code>\(languageKey)</code>"
     }
