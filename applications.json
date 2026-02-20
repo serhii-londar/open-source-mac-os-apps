@@ -1,6 +1,25 @@
 {
     "applications": [
 	{
+            "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/praneeth552/clipflow",
+            "title": "ClipFlow",
+            "icon_url": "https://raw.githubusercontent.com/praneeth552/clipflow/main/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png",
+                "https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png"
+            ],
+            "official_site": "https://github.com/praneeth552/clipflow",
+            "languages": [
+                "swift"
+            ]
+        },
+
+	{
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
