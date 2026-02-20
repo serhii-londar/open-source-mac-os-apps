@@ -269,6 +269,20 @@
                 "swift"
             ]
         },
+        {
+            "title": "PeaZip",
+            "short_description": "Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/peazip/PeaZip",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://peazip.github.io/",
+            "languages": [
+                "pascal"
+            ]
+        },
 		  {
             "short_description": "OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.",
             "categories": [
