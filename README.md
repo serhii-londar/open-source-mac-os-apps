@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-684-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-685-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 684 |
+| 📱 Total Applications | 685 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 41 |
 
 ## Languages
 
@@ -8592,7 +8592,22 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (77)
+### ⏱️ Productivity (78)
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+
+  **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Website:** [https://activitywatch.net](https://activitywatch.net)
+
+  </p>
+  </details>
+
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   **Badges:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/klaudiosinani/ao' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
@@ -11412,7 +11427,22 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (110)
+### 🛠️ Utilities (111)
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+
+  **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Website:** [https://activitywatch.net](https://activitywatch.net)
+
+  </p>
+  </details>
+
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   **Badges:** <a href='https://github.com/mortenjust/androidtool-mac/releases/latest'><img src='https://img.shields.io/github/v/release/mortenjust/androidtool-mac?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mortenjust/androidtool-mac'><img src='https://img.shields.io/github/stars/mortenjust/androidtool-mac?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mortenjust/androidtool-mac' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mortenjust/androidtool-mac' alt='License'/>
