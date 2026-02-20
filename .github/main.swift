@@ -490,7 +490,8 @@ extension JSONApplication {
         }
 
         if !self.officialSite.isEmpty {
-            markdownDescription.append("\(indent)**Website:** [\(self.officialSite)](\(self.officialSite))\n")
+            let websitePrefix = languages.isEmpty ? "" : "\n"
+            markdownDescription.append("\(websitePrefix)\(indent)**Website:** [\(self.officialSite)](\(self.officialSite))\n")
         }
 
         if badges.isEmpty == false {
