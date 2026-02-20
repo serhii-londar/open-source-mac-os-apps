@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-680-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-681-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 680 |
+| 📱 Total Applications | 681 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 301 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
@@ -4558,7 +4558,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="extensions"></a>
-### 🧩 Extensions (13)
+### 🧩 Extensions (14)
 - [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
 
   <details>
@@ -4782,6 +4782,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Yape](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar. 
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/leonspok/Yape/releases/latest'><img src='https://img.shields.io/github/v/release/leonspok/Yape?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/leonspok/Yape'><img src='https://img.shields.io/github/stars/leonspok/Yape?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/leonspok/Yape' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/leonspok/Yape/raw/master/README%20resources/example_screenshot.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/leonspok/Yape/raw/master/README%20resources/preferences_screenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
