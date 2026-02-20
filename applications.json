@@ -5786,6 +5786,25 @@
             ]
         },
         {
+            "short_description": "An easy-to-use clipboard manager with time saving features that work across all terminals.",
+            "categories": [
+                "development",
+                "productivity",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/Slackadays/Clipboard",
+            "title": "Clipboard",
+            "icon_url": "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/cb_small.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png",
+               "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif"
+            ],
+            "official_site": "https://GetClipboard.app",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
             "short_description": "Unofficial Trello app. ",
             "categories": [
                 "productivity"
