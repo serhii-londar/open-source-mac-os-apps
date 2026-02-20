@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-669-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-670-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 669 |
+| 📱 Total Applications | 670 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 293 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 294 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -11074,7 +11074,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (104)
+### 🛠️ Utilities (105)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -12704,6 +12704,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/zenangst/ToTheTop/releases/latest'><img src='https://img.shields.io/github/v/release/zenangst/ToTheTop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zenangst/ToTheTop'><img src='https://img.shields.io/github/stars/zenangst/ToTheTop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zenangst/ToTheTop' alt='License'/>
+
+  </p>
+  </details>
+
+- [TRex](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/amebalabs/TRex/releases/latest'><img src='https://img.shields.io/github/v/release/amebalabs/TRex?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amebalabs/TRex'><img src='https://img.shields.io/github/stars/amebalabs/TRex?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/amebalabs/TRex' alt='License'/>
+
+  **Website:** [https://trex.ameba.co/](https://trex.ameba.co/)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/screenshot.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/demo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
