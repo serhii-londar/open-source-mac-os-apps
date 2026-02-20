@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-663-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-664-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 663 |
+| 📱 Total Applications | 664 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 112 • C++: 57 • Typescript: 38 |
+| 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 113 • C++: 57 • Typescript: 39 |
 
 ## Languages
 
@@ -4119,7 +4119,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="text"></a>
-#### ✏️ Text (12)
+#### ✏️ Text (13)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -4234,6 +4234,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
 
   *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
+
+  **Website:** [https://notesnook.com](https://notesnook.com)
+
+  **Screenshots:**
+
+  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -7350,7 +7369,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="notes"></a>
-### 📔 Notes (17)
+### 📔 Notes (18)
 - [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. 
 
   <details>
@@ -7517,6 +7536,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/SauvageP/Notes/releases/latest'><img src='https://img.shields.io/github/v/release/SauvageP/Notes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SauvageP/Notes'><img src='https://img.shields.io/github/stars/SauvageP/Notes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SauvageP/Notes' alt='License'/>
+
+  </p>
+  </details>
+
+- [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
+
+  **Website:** [https://notesnook.com](https://notesnook.com)
+
+  **Screenshots:**
+
+  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy'/>
 
   </p>
   </details>
