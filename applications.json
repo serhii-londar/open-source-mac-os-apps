@@ -1014,6 +1014,20 @@
             ]
         },
         {
+            "short_description": "Tiny multiprocessing utility for file backups.",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/vdbsh/backy",
+            "title": "backy",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "Beaker is an experimental peer-to-peer Web browser.  ",
             "categories": [
                 "browser"
