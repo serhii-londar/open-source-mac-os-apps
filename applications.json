@@ -10969,6 +10969,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "muCommander",
+            "short_description": "A lightweight, cross-platform file manager with a dual-pane interface.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/mucommander/mucommander",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.mucommander.com/",
+            "languages": [
+                "java"
+            ]
         }
     ]
 }
