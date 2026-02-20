@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-652-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-653-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 652 |
+| 📱 Total Applications | 653 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -7515,7 +7515,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="other"></a>
-### 📦 Other (22)
+### 📦 Other (23)
 - [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   <details>
@@ -7805,6 +7805,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/SwiftyBeaver/SwiftyBeaver/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftyBeaver/SwiftyBeaver?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SwiftyBeaver/SwiftyBeaver'><img src='https://img.shields.io/github/stars/SwiftyBeaver/SwiftyBeaver?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SwiftyBeaver/SwiftyBeaver' alt='License'/>
+
+  </p>
+  </details>
+
+- [SwitchShuttle](https://github.com/s00d/switchshuttle) - Simple commands shortcut menu for macOS. 
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/s00d/switchshuttle/releases/latest'><img src='https://img.shields.io/github/v/release/s00d/switchshuttle?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/s00d/switchshuttle'><img src='https://img.shields.io/github/stars/s00d/switchshuttle?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/s00d/switchshuttle' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/s00d/switchshuttle/raw/main/icons/intro.gif?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
