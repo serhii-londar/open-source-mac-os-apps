@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-667-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-668-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 667 |
+| 📱 Total Applications | 668 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 292 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 39 |
+| 🔝 Top Languages | Swift: 292 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -10716,7 +10716,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="terminal"></a>
-### 📺 Terminal (14)
+### 📺 Terminal (15)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   <details>
@@ -10899,6 +10899,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/es-kumagai/OpenTerminal/releases/latest'><img src='https://img.shields.io/github/v/release/es-kumagai/OpenTerminal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/es-kumagai/OpenTerminal'><img src='https://img.shields.io/github/stars/es-kumagai/OpenTerminal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/es-kumagai/OpenTerminal' alt='License'/>
+
+  </p>
+  </details>
+
+- [Tabby](https://github.com/Eugeny/tabby) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/Eugeny/tabby/releases/latest'><img src='https://img.shields.io/github/v/release/Eugeny/tabby?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Eugeny/tabby'><img src='https://img.shields.io/github/stars/Eugeny/tabby?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Eugeny/tabby' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png' width='400' loading='lazy'/>
 
   </p>
   </details>
