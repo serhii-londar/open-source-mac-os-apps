@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-660-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-661-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 660 |
+| 📱 Total Applications | 661 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 289 • Objective-C: 134 • Javascript: 112 • C++: 57 • Typescript: 38 |
+| 🔝 Top Languages | Swift: 290 • Objective-C: 135 • Javascript: 112 • C++: 57 • Typescript: 38 |
 
 ## Languages
 
@@ -4780,7 +4780,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="games"></a>
-### 🎮 Games (11)
+### 🎮 Games (12)
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
   <details>
@@ -4796,6 +4796,27 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg' width='400' loading='lazy'/>
 
   <img src='https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Amazing Tic Tac Toe](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Links:** <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Tic-Tac-Toe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Tic-Tac-Toe' alt='License'/>
+
+  **Website:** [https://ariessciences.com/highlight?product=tic-tac-toe](https://ariessciences.com/highlight?product=tic-tac-toe)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png' width='400' loading='lazy'/>
 
   </p>
   </details>
