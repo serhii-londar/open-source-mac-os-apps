@@ -4002,7 +4002,7 @@ You can see in which language an app is written. Currently there are following l
 
 <a id="csv"></a>
 #### 📊 CSV (1)
-- [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS. 
+- [TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for macOS.
 
   <details>
   <summary>More</summary>
@@ -4010,7 +4010,9 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
-  **Links:** <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
+  **Links:** <a href='https://apps.apple.com/app/table-tool/id1122008420'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
+
+  **Website:** [https://apps.apple.com/app/table-tool/id1122008420](https://apps.apple.com/app/table-tool/id1122008420)
 
   </p>
   </details>
