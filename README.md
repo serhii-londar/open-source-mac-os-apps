@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-658-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-659-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 658 |
+| 📱 Total Applications | 659 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 288 • Objective-C: 134 • Javascript: 112 • C++: 57 • Typescript: 37 |
+| 🔝 Top Languages | Swift: 289 • Objective-C: 134 • Javascript: 112 • C++: 57 • Typescript: 37 |
 
 ## Languages
 
@@ -6081,7 +6081,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (48)
+### 📊 Menubar (49)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6708,6 +6708,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8145,7 +8168,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (69)
+### ⏱️ Productivity (70)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8889,6 +8912,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10742,7 +10788,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (103)
+### 🛠️ Utilities (104)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -12140,6 +12186,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/maxogden/screencat/releases/latest'><img src='https://img.shields.io/github/v/release/maxogden/screencat?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxogden/screencat'><img src='https://img.shields.io/github/stars/maxogden/screencat?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/maxogden/screencat' alt='License'/>
+
+  </p>
+  </details>
+
+- [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
