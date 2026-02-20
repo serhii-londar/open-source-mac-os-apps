@@ -10951,6 +10951,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.",
+            "categories": [
+                "extensions",
+                "video"
+            ],
+            "repo_url": "https://github.com/leonspok/Yape",
+            "title": "Yape",
+            "icon_url": "https://github.com/leonspok/Yape/raw/master/README%20resources/app_icon.png",
+            "screenshots": [
+                "https://github.com/leonspok/Yape/raw/master/README%20resources/example_screenshot.png",
+                "https://github.com/leonspok/Yape/raw/master/README%20resources/preferences_screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
