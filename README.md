@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-673-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-674-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 673 |
+| 📱 Total Applications | 674 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 296 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 297 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -1894,7 +1894,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (14)
+### 👨‍💻 Development (15)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -2081,6 +2081,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://amir.app/git/layout_designer_preview.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
+
+  **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/Preview/screenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -2912,7 +2931,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ios--macos"></a>
-#### 📱 iOS / macOS (42)
+#### 📱 iOS / macOS (43)
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. 
 
   <details>
@@ -3391,6 +3410,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/e7711bbear/Localizations/releases/latest'><img src='https://img.shields.io/github/v/release/e7711bbear/Localizations?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/e7711bbear/Localizations'><img src='https://img.shields.io/github/stars/e7711bbear/Localizations?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/e7711bbear/Localizations' alt='License'/>
+
+  </p>
+  </details>
+
+- [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
+
+  **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/Preview/screenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11150,7 +11188,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (106)
+### 🛠️ Utilities (107)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11926,6 +11964,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://amir.app/git/layout_designer_preview.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
+
+  **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/Preview/screenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
