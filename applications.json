@@ -3772,6 +3772,20 @@
             ]
         },
         {
+            "short_description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed. ",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/VSCodium/vscodium",
+            "title": "VSCodium",
+            "icon_url": "https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/icon.png",
+            "screenshots": [],
+            "official_site": "https://vscodium.com/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
             "categories": [
                 "ide",
