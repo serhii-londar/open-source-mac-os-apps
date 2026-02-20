@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-687-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-686-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 687 |
+| 📱 Total Applications | 686 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -2680,7 +2680,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="web-development"></a>
-#### 🌍 Web Development (15)
+#### 🌍 Web Development (14)
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. 
 
   **Badges:** <a href='https://github.com/RafalWilinski/s3-uploader/releases/latest'><img src='https://img.shields.io/github/v/release/RafalWilinski/s3-uploader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/RafalWilinski/s3-uploader'><img src='https://img.shields.io/github/stars/RafalWilinski/s3-uploader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/RafalWilinski/s3-uploader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/RafalWilinski/s3-uploader' alt='License'/>
@@ -2841,23 +2841,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
-
-  </p>
-  </details>
-
-- [ndm](https://github.com/720kb/ndm) - Npm desktop GUI. 
-
-  **Badges:** <a href='https://github.com/720kb/ndm/releases/latest'><img src='https://img.shields.io/github/v/release/720kb/ndm?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/720kb/ndm'><img src='https://img.shields.io/github/stars/720kb/ndm?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/720kb/ndm' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/720kb/ndm' alt='License'/>
-
-  <details>
-  <summary>More</summary>
-  <p>
-
-  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
-
-  **Screenshots:**
-
-  <img src='https://i.imgur.com/6KL3pt7.png' width='400' loading='lazy'/>
 
   </p>
   </details>
