@@ -486,7 +486,7 @@ extension JSONApplication {
             badges.append(brewBadge)
         }
         if badges.isEmpty == false {
-            markdownDescription.append("\(indent)**Badges:** \(badges.joined(separator: " &nbsp; "))\n")
+            markdownDescription.append("\n\(indent)**Badges:** \(badges.joined(separator: " &nbsp; "))\n")
         }
 
         // Collapsible extra details (languages, screenshots) indented to belong to the list item
