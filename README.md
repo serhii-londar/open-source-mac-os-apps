@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-653-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-654-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 653 |
+| 📱 Total Applications | 654 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -8107,7 +8107,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (67)
+### ⏱️ Productivity (68)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8370,6 +8370,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/TermiT/flycut/releases/latest'><img src='https://img.shields.io/github/v/release/TermiT/flycut?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/TermiT/flycut'><img src='https://img.shields.io/github/stars/TermiT/flycut?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/TermiT/flycut' alt='License'/>
+
+  </p>
+  </details>
+
+- [Freeter](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/FreeterApp/Freeter/releases/latest'><img src='https://img.shields.io/github/v/release/FreeterApp/Freeter?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/FreeterApp/Freeter'><img src='https://img.shields.io/github/stars/FreeterApp/Freeter?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/FreeterApp/Freeter' alt='License'/>
+
+  **Website:** [https://freeter.io/](https://freeter.io/)
+
+  **Screenshots:**
+
+  <img src='https://freeter.io/images/app-screen.png' width='400' loading='lazy'/>
 
   </p>
   </details>
