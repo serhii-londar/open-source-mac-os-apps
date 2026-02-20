@@ -1,6 +1,27 @@
 {
     "applications": [
 	{
+            "title": "M-Courtyard",
+            "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Mcourtyard/m-courtyard",
+            "icon_url": "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/app/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png"
+            ],
+            "official_site": "https://github.com/Mcourtyard/m-courtyard",
+            "languages": [
+                "typescript",
+                "rust",
+                "python"
+            ]
+        },
+
+	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
