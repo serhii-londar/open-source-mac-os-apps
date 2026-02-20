@@ -9874,6 +9874,25 @@
                 "python"
             ]
         },
+         {
+            "short_description": "Use BibDesk to edit and manage your bibliography",
+            "categories": [
+                "notes",
+                "tex",
+                "productivity"
+            ],
+            "repo_url": "https://sourceforge.net/projects/bibdesk/",
+            "title": "BibDesk",
+            "icon_url": "https://a.fsdn.com/allura/p/bibdesk/icon?f6c30e19f66fad4b1c03c8fdcf0a46685d328f3a1b5eb1acb95a4bd74e4a2913?&w=180",
+            "screenshots": [
+               "https://bibdesk.sourceforge.io/screenshots/Publication.png",
+               "https://bibdesk.sourceforge.io/screenshots/Main-Window.png"
+            ],
+            "official_site": "https://bibdesk.sourceforge.io",
+            "languages": [
+                "objective_c"
+            ]
+        },
         {
             "short_description": "Inkscape is a Free and open source vector graphics editor.",
             "categories": [
