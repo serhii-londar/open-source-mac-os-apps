@@ -146,6 +146,7 @@ You can see in which language an app is written. Currently there are following l
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
   **Badges:** <a href='https://github.com/audacity/audacity/releases/latest'><img src='https://img.shields.io/github/v/release/audacity/audacity?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/audacity/audacity'><img src='https://img.shields.io/github/stars/audacity/audacity?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/audacity/audacity' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/audacity/audacity' alt='License'/>
@@ -198,6 +199,7 @@ You can see in which language an app is written. Currently there are following l
 - [AutoMute](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://yoni.ninja/automute/](https://yoni.ninja/automute/)
 
   **Badges:** <a href='https://github.com/yonilevy/automute/releases/latest'><img src='https://img.shields.io/github/v/release/yonilevy/automute?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yonilevy/automute'><img src='https://img.shields.io/github/stars/yonilevy/automute?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/yonilevy/automute' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/yonilevy/automute' alt='License'/>
@@ -258,6 +260,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clementine](https://github.com/clementine-player/Clementine) - Clementine is a modern music player and library organizer for Windows, Linux and macOS. 
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.clementine-player.org/](https://www.clementine-player.org/)
 
   **Badges:** <a href='https://github.com/clementine-player/Clementine/releases/latest'><img src='https://img.shields.io/github/v/release/clementine-player/Clementine?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/clementine-player/Clementine'><img src='https://img.shields.io/github/stars/clementine-player/Clementine?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/clementine-player/Clementine' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/clementine-player/Clementine' alt='License'/>
@@ -280,6 +283,7 @@ You can see in which language an app is written. Currently there are following l
 - [Cog](https://bitbucket.org/losnoco/cog/src) - Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://cogx.org/](https://cogx.org/)
 
 - [eqMac2](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac. 
@@ -353,6 +357,7 @@ You can see in which language an app is written. Currently there are following l
 - [Karaoke Forever](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.karaoke-eternal.com/](https://www.karaoke-eternal.com/)
 
   **Badges:** <a href='https://github.com/bhj/KaraokeEternal/releases/latest'><img src='https://img.shields.io/github/v/release/bhj/KaraokeEternal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bhj/KaraokeEternal'><img src='https://img.shields.io/github/stars/bhj/KaraokeEternal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bhj/KaraokeEternal' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bhj/KaraokeEternal' alt='License'/>
@@ -384,6 +389,7 @@ You can see in which language an app is written. Currently there are following l
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://mifi.no/losslesscut/](https://mifi.no/losslesscut/)
 
   **Badges:** <a href='https://github.com/mifi/lossless-cut/releases/latest'><img src='https://img.shields.io/github/v/release/mifi/lossless-cut?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mifi/lossless-cut'><img src='https://img.shields.io/github/stars/mifi/lossless-cut?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mifi/lossless-cut' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mifi/lossless-cut' alt='License'/>
@@ -495,6 +501,7 @@ You can see in which language an app is written. Currently there are following l
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://mpv.io](https://mpv.io)
 
   **Badges:** <a href='https://github.com/mpv-player/mpv/releases/latest'><img src='https://img.shields.io/github/v/release/mpv-player/mpv?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mpv-player/mpv'><img src='https://img.shields.io/github/stars/mpv-player/mpv?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mpv-player/mpv' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mpv-player/mpv' alt='License'/>
@@ -532,6 +539,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
   **Badges:** <a href='https://github.com/wulkano/Plug/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/Plug?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/wulkano/Plug'><img src='https://img.shields.io/github/stars/wulkano/Plug?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/wulkano/Plug' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/wulkano/Plug' alt='License'/>
@@ -563,6 +571,7 @@ You can see in which language an app is written. Currently there are following l
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://billthefarmer.github.io/audiotools/](https://billthefarmer.github.io/audiotools/)
 
   **Badges:** <a href='https://github.com/billthefarmer/audiotools/releases/latest'><img src='https://img.shields.io/github/v/release/billthefarmer/audiotools?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/billthefarmer/audiotools/tree/master/Scope/swift'><img src='https://img.shields.io/github/stars/billthefarmer/audiotools?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/billthefarmer/audiotools' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/billthefarmer/audiotools' alt='License'/>
@@ -706,6 +715,7 @@ You can see in which language an app is written. Currently there are following l
 - [Tuner](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://billthefarmer.github.io/ctuner/ ](https://billthefarmer.github.io/ctuner/ )
 
   **Badges:** <a href='https://github.com/billthefarmer/ctuner/releases/latest'><img src='https://img.shields.io/github/v/release/billthefarmer/ctuner?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/billthefarmer/ctuner'><img src='https://img.shields.io/github/stars/billthefarmer/ctuner?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/billthefarmer/ctuner' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/billthefarmer/ctuner' alt='License'/>
@@ -751,6 +761,7 @@ You can see in which language an app is written. Currently there are following l
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://www.borgbase.com/](https://www.borgbase.com/)
 
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). 
@@ -822,6 +833,7 @@ You can see in which language an app is written. Currently there are following l
 - [Chromium](https://chromium.googlesource.com/chromium/src/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://www.chromium.org/](https://www.chromium.org/)
 
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. 
@@ -833,6 +845,7 @@ You can see in which language an app is written. Currently there are following l
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/)
 
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS.
@@ -844,6 +857,7 @@ You can see in which language an app is written. Currently there are following l
 - [Min Browser](https://github.com/minbrowser/min) - A fast and efficient minimal web browser.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://minbrowser.org](https://minbrowser.org)
 
   **Badges:** <a href='https://github.com/minbrowser/min/releases/latest'><img src='https://img.shields.io/github/v/release/minbrowser/min?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/minbrowser/min'><img src='https://img.shields.io/github/stars/minbrowser/min?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/minbrowser/min' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/minbrowser/min' alt='License'/>
@@ -887,6 +901,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sindresorhus.com/plash](https://sindresorhus.com/plash)
 
   **Badges:** <a href='https://github.com/sindresorhus/Plash/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Plash?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sindresorhus/Plash'><img src='https://img.shields.io/github/stars/sindresorhus/Plash?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sindresorhus/Plash' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sindresorhus/Plash' alt='License'/>
@@ -919,6 +934,7 @@ You can see in which language an app is written. Currently there are following l
 - [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://adium.im/](https://adium.im/)
 
   **Badges:** <a href='https://github.com/adium/adium/releases/latest'><img src='https://img.shields.io/github/v/release/adium/adium?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/adium/adium'><img src='https://img.shields.io/github/stars/adium/adium?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/adium/adium' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/adium/adium' alt='License'/>
@@ -935,6 +951,7 @@ You can see in which language an app is written. Currently there are following l
 - [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://beagle.im/](https://beagle.im/)
 
   **Badges:** <a href='https://github.com/tigase/beagle-im/releases/latest'><img src='https://img.shields.io/github/v/release/tigase/beagle-im?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/tigase/beagle-im'><img src='https://img.shields.io/github/stars/tigase/beagle-im?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/tigase/beagle-im' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/tigase/beagle-im' alt='License'/>
@@ -1038,6 +1055,7 @@ You can see in which language an app is written. Currently there are following l
 - [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.rocket.chat/](https://www.rocket.chat/)
 
   **Badges:** <a href='https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest'><img src='https://img.shields.io/github/v/release/RocketChat/Rocket.Chat.Electron?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/RocketChat/Rocket.Chat.Electron'><img src='https://img.shields.io/github/stars/RocketChat/Rocket.Chat.Electron?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat.Electron' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/RocketChat/Rocket.Chat.Electron' alt='License'/>
@@ -1123,6 +1141,7 @@ You can see in which language an app is written. Currently there are following l
 - [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://www.thunderbird.net/en-US/](https://www.thunderbird.net/en-US/)
 
   <details>
@@ -1176,6 +1195,7 @@ You can see in which language an app is written. Currently there are following l
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
 
   **Languages:** <code>C++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
+
   **Website:** [https://bitcoincore.org/](https://bitcoincore.org/)
 
   **Badges:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bitcoin/bitcoin' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
@@ -1261,6 +1281,7 @@ You can see in which language an app is written. Currently there are following l
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
 
   **Badges:** <a href='https://github.com/beekeeper-studio/beekeeper-studio/releases/latest'><img src='https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/beekeeper-studio/beekeeper-studio'><img src='https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/beekeeper-studio/beekeeper-studio' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/beekeeper-studio/beekeeper-studio' alt='License'/>
@@ -1315,6 +1336,7 @@ You can see in which language an app is written. Currently there are following l
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://dbgate.org](https://dbgate.org)
 
   **Badges:** <a href='https://github.com/dbgate/dbgate/releases/latest'><img src='https://img.shields.io/github/v/release/dbgate/dbgate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/dbgate/dbgate'><img src='https://img.shields.io/github/stars/dbgate/dbgate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/dbgate/dbgate' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/dbgate/dbgate' alt='License'/>
@@ -1473,6 +1495,7 @@ You can see in which language an app is written. Currently there are following l
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://sequel-ace.com/](https://sequel-ace.com/)
 
   **Badges:** <a href='https://github.com/Sequel-Ace/Sequel-Ace/releases/latest'><img src='https://img.shields.io/github/v/release/Sequel-Ace/Sequel-Ace?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Sequel-Ace/Sequel-Ace'><img src='https://img.shields.io/github/stars/Sequel-Ace/Sequel-Ace?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Sequel-Ace/Sequel-Ace' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Sequel-Ace/Sequel-Ace' alt='License'/>
@@ -1497,6 +1520,7 @@ You can see in which language an app is written. Currently there are following l
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://sqlectron.github.io/](https://sqlectron.github.io/)
 
   **Badges:** <a href='https://github.com/sqlectron/sqlectron-gui/releases/latest'><img src='https://img.shields.io/github/v/release/sqlectron/sqlectron-gui?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sqlectron/sqlectron-gui'><img src='https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sqlectron/sqlectron-gui' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sqlectron/sqlectron-gui' alt='License'/>
@@ -1517,6 +1541,7 @@ You can see in which language an app is written. Currently there are following l
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://netbeans.apache.org/](https://netbeans.apache.org/)
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -1535,6 +1560,7 @@ You can see in which language an app is written. Currently there are following l
 - [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://brackets.io/](https://brackets.io/)
 
   **Badges:** <a href='https://github.com/brackets-cont/brackets/releases/latest'><img src='https://img.shields.io/github/v/release/brackets-cont/brackets?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/brackets-cont/brackets'><img src='https://img.shields.io/github/stars/brackets-cont/brackets?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/brackets-cont/brackets' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/brackets-cont/brackets' alt='License'/>
@@ -1551,6 +1577,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
   **Badges:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Slackadays/Clipboard' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
@@ -1569,6 +1596,7 @@ You can see in which language an app is written. Currently there are following l
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://imazing.com/colorset](https://imazing.com/colorset)
 
   **Badges:** <a href='https://github.com/DigiDNA/ColorSet/releases/latest'><img src='https://img.shields.io/github/v/release/DigiDNA/ColorSet?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/DigiDNA/ColorSet'><img src='https://img.shields.io/github/stars/DigiDNA/ColorSet?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/DigiDNA/ColorSet' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/DigiDNA/ColorSet' alt='License'/>
@@ -1602,6 +1630,7 @@ You can see in which language an app is written. Currently there are following l
 - [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
@@ -1609,6 +1638,7 @@ You can see in which language an app is written. Currently there are following l
 - [GitAhead](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://gitahead.github.io/gitahead.com/](https://gitahead.github.io/gitahead.com/)
 
   **Badges:** <a href='https://github.com/gitahead/gitahead/releases/latest'><img src='https://img.shields.io/github/v/release/gitahead/gitahead?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gitahead/gitahead/'><img src='https://img.shields.io/github/stars/gitahead/gitahead?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gitahead/gitahead' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gitahead/gitahead' alt='License'/>
@@ -1616,6 +1646,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gridfy](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
 
   **Badges:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Slllava/gridfy' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
@@ -1636,6 +1667,7 @@ You can see in which language an app is written. Currently there are following l
 - [JustTags](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://kaphacius.github.io/just-tags/](https://kaphacius.github.io/just-tags/)
 
   **Badges:** <a href='https://github.com/kaphacius/just-tags/releases/latest'><img src='https://img.shields.io/github/v/release/kaphacius/just-tags?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/kaphacius/just-tags'><img src='https://img.shields.io/github/stars/kaphacius/just-tags?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/kaphacius/just-tags' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/kaphacius/just-tags' alt='License'/>
@@ -1654,11 +1686,13 @@ You can see in which language an app is written. Currently there are following l
 - [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://www.kicad.org/](https://www.kicad.org/)
 
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
   **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
@@ -1675,6 +1709,7 @@ You can see in which language an app is written. Currently there are following l
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
   **Badges:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Schlaubischlump/LocationSimulator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
@@ -1691,6 +1726,7 @@ You can see in which language an app is written. Currently there are following l
 - [M-Courtyard](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://github.com/Mcourtyard/m-courtyard](https://github.com/Mcourtyard/m-courtyard)
 
   **Badges:** <a href='https://github.com/Mcourtyard/m-courtyard/releases/latest'><img src='https://img.shields.io/github/v/release/Mcourtyard/m-courtyard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Mcourtyard/m-courtyard'><img src='https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Mcourtyard/m-courtyard' alt='License'/>
@@ -1711,6 +1747,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sindresorhus.com/pasteboard-viewer](https://sindresorhus.com/pasteboard-viewer)
 
   **Badges:** <a href='https://github.com/sindresorhus/Pasteboard-Viewer/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Pasteboard-Viewer?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sindresorhus/Pasteboard-Viewer'><img src='https://img.shields.io/github/stars/sindresorhus/Pasteboard-Viewer?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sindresorhus/Pasteboard-Viewer' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sindresorhus/Pasteboard-Viewer' alt='License'/>
@@ -1744,6 +1781,7 @@ You can see in which language an app is written. Currently there are following l
 - [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://mac.getutm.app/](https://mac.getutm.app/)
 
   <details>
@@ -1768,6 +1806,7 @@ You can see in which language an app is written. Currently there are following l
 - [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://gitrebasetool.mitmaro.ca/](https://gitrebasetool.mitmaro.ca/)
 
   **Badges:** <a href='https://github.com/MitMaro/git-interactive-rebase-tool/releases/latest'><img src='https://img.shields.io/github/v/release/MitMaro/git-interactive-rebase-tool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/MitMaro/git-interactive-rebase-tool'><img src='https://img.shields.io/github/stars/MitMaro/git-interactive-rebase-tool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/MitMaro/git-interactive-rebase-tool' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/MitMaro/git-interactive-rebase-tool' alt='License'/>
@@ -1784,6 +1823,7 @@ You can see in which language an app is written. Currently there are following l
 - [GitAhead](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://gitahead.github.io/gitahead.com/](https://gitahead.github.io/gitahead.com/)
 
   **Badges:** <a href='https://github.com/gitahead/gitahead/releases/latest'><img src='https://img.shields.io/github/v/release/gitahead/gitahead?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gitahead/gitahead/'><img src='https://img.shields.io/github/stars/gitahead/gitahead?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gitahead/gitahead' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gitahead/gitahead' alt='License'/>
@@ -1869,6 +1909,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gitify](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.gitify.io/](https://www.gitify.io/)
 
   **Badges:** <a href='https://github.com/manosim/gitify/releases/latest'><img src='https://img.shields.io/github/v/release/manosim/gitify?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/manosim/gitify'><img src='https://img.shields.io/github/stars/manosim/gitify?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/manosim/gitify' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/manosim/gitify' alt='License'/>
@@ -2066,6 +2107,7 @@ You can see in which language an app is written. Currently there are following l
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://boop.okat.best](https://boop.okat.best)
 
   **Badges:** <a href='https://github.com/IvanMathy/Boop/releases/latest'><img src='https://img.shields.io/github/v/release/IvanMathy/Boop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/IvanMathy/Boop'><img src='https://img.shields.io/github/stars/IvanMathy/Boop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/IvanMathy/Boop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/IvanMathy/Boop' alt='License'/>
@@ -2190,6 +2232,7 @@ You can see in which language an app is written. Currently there are following l
 - [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP. 
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://httptoolkit.com/](https://httptoolkit.com/)
 
   **Badges:** <a href='https://github.com/httptoolkit/httptoolkit-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/httptoolkit/httptoolkit-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/httptoolkit/httptoolkit-desktop'><img src='https://img.shields.io/github/stars/httptoolkit/httptoolkit-desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/httptoolkit/httptoolkit-desktop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/httptoolkit/httptoolkit-desktop' alt='License'/>
@@ -2279,6 +2322,7 @@ You can see in which language an app is written. Currently there are following l
 - [Requestly](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://requestly.com](https://requestly.com)
 
   **Badges:** <a href='https://github.com/requestly/requestly/releases/latest'><img src='https://img.shields.io/github/v/release/requestly/requestly?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/requestly/requestly'><img src='https://img.shields.io/github/stars/requestly/requestly?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/requestly/requestly' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/requestly/requestly' alt='License'/>
@@ -2297,6 +2341,7 @@ You can see in which language an app is written. Currently there are following l
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://simplelocalize.io](https://simplelocalize.io)
 
   **Badges:** <a href='https://github.com/simplelocalize/simplelocalize-cli/releases/latest'><img src='https://img.shields.io/github/v/release/simplelocalize/simplelocalize-cli?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/simplelocalize/simplelocalize-cli'><img src='https://img.shields.io/github/stars/simplelocalize/simplelocalize-cli?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/simplelocalize/simplelocalize-cli' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/simplelocalize/simplelocalize-cli' alt='License'/>
@@ -2487,6 +2532,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clendar](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
 
   **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
@@ -2526,6 +2572,7 @@ You can see in which language an app is written. Currently there are following l
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://coronatracker.samabox.com/](https://coronatracker.samabox.com/)
 
   **Badges:** <a href='https://github.com/MhdHejazi/CoronaTracker/releases/latest'><img src='https://img.shields.io/github/v/release/MhdHejazi/CoronaTracker?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/MhdHejazi/CoronaTracker'><img src='https://img.shields.io/github/stars/MhdHejazi/CoronaTracker?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/MhdHejazi/CoronaTracker' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/MhdHejazi/CoronaTracker' alt='License'/>
@@ -2608,6 +2655,7 @@ You can see in which language an app is written. Currently there are following l
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/us/app/iconology/id1463452867](https://apps.apple.com/us/app/iconology/id1463452867)
 
   **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
@@ -2636,6 +2684,7 @@ You can see in which language an app is written. Currently there are following l
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   **Badges:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/runjuu/InputSourcePro' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
@@ -2714,6 +2763,7 @@ You can see in which language an app is written. Currently there are following l
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
   **Badges:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Schlaubischlump/LocationSimulator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
@@ -2930,6 +2980,7 @@ You can see in which language an app is written. Currently there are following l
 - [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://appfair.app](https://appfair.app)
 
   **Badges:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/App-Fair/App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
@@ -2950,6 +3001,7 @@ You can see in which language an app is written. Currently there are following l
 - [Applite](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://aerolite.dev/applite](https://aerolite.dev/applite)
 
   **Badges:** <a href='https://github.com/milanvarady/Applite/releases/latest'><img src='https://img.shields.io/github/v/release/milanvarady/Applite?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/milanvarady/Applite'><img src='https://img.shields.io/github/stars/milanvarady/Applite?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/milanvarady/Applite' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/milanvarady/Applite' alt='License'/>
@@ -2968,6 +3020,7 @@ You can see in which language an app is written. Currently there are following l
 - [Extream Download Manager](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://subhra74.github.io/xdm/](https://subhra74.github.io/xdm/)
 
   **Badges:** <a href='https://github.com/subhra74/xdm/releases/latest'><img src='https://img.shields.io/github/v/release/subhra74/xdm?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/subhra74/xdm'><img src='https://img.shields.io/github/stars/subhra74/xdm?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/subhra74/xdm' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/subhra74/xdm' alt='License'/>
@@ -2975,6 +3028,7 @@ You can see in which language an app is written. Currently there are following l
 - [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
 
   **Languages:** <code>c++</code> 
+
   **Website:** [https://filezilla-project.org](https://filezilla-project.org)
 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. 
@@ -2986,6 +3040,7 @@ You can see in which language an app is written. Currently there are following l
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://motrix.app/](https://motrix.app/)
 
   **Badges:** <a href='https://github.com/agalwood/Motrix/releases/latest'><img src='https://img.shields.io/github/v/release/agalwood/Motrix?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/agalwood/Motrix'><img src='https://img.shields.io/github/stars/agalwood/Motrix?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/agalwood/Motrix' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/agalwood/Motrix' alt='License'/>
@@ -3050,6 +3105,7 @@ You can see in which language an app is written. Currently there are following l
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
   **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
@@ -3066,6 +3122,7 @@ You can see in which language an app is written. Currently there are following l
 - [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.chimehq.com/](https://www.chimehq.com/)
 
   **Badges:** <a href='https://github.com/ChimeHQ/Chime/releases/latest'><img src='https://img.shields.io/github/v/release/ChimeHQ/Chime?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ChimeHQ/Chime'><img src='https://img.shields.io/github/stars/ChimeHQ/Chime?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ChimeHQ/Chime' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ChimeHQ/Chime' alt='License'/>
@@ -3082,6 +3139,7 @@ You can see in which language an app is written. Currently there are following l
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.codeedit.app/](https://www.codeedit.app/)
 
   **Badges:** <a href='https://github.com/CodeEditApp/CodeEdit/releases/latest'><img src='https://img.shields.io/github/v/release/CodeEditApp/CodeEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/CodeEditApp/CodeEdit'><img src='https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/CodeEditApp/CodeEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/CodeEditApp/CodeEdit' alt='License'/>
@@ -3115,6 +3173,7 @@ You can see in which language an app is written. Currently there are following l
 - [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
+
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
   **Badges:** <a href='https://github.com/geany/geany/releases/latest'><img src='https://img.shields.io/github/v/release/geany/geany?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/geany/geany'><img src='https://img.shields.io/github/stars/geany/geany?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/geany/geany' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/geany/geany' alt='License'/>
@@ -3131,6 +3190,7 @@ You can see in which language an app is written. Currently there are following l
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
   **Languages:** <code>free-pascal</code> 
+
   **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
 
   **Badges:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/maxnd/mxMarkEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
@@ -3153,6 +3213,7 @@ You can see in which language an app is written. Currently there are following l
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://zed.dev](https://zed.dev)
 
   **Badges:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/zed-industries/zed' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
@@ -3173,6 +3234,7 @@ You can see in which language an app is written. Currently there are following l
 - [TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://apps.apple.com/app/table-tool/id1122008420](https://apps.apple.com/app/table-tool/id1122008420)
 
   **Badges:** <a href='https://apps.apple.com/app/table-tool/id1122008420'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jakob/TableTool' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
@@ -3235,6 +3297,7 @@ You can see in which language an app is written. Currently there are following l
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
+
   **Website:** [https://uselinked.com](https://uselinked.com)
 
   **Badges:** <a href='https://github.com/lostdesign/linked/releases/latest'><img src='https://img.shields.io/github/v/release/lostdesign/linked?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/lostdesign/linked'><img src='https://img.shields.io/github/stars/lostdesign/linked?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/lostdesign/linked' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/lostdesign/linked' alt='License'/>
@@ -3265,6 +3328,7 @@ You can see in which language an app is written. Currently there are following l
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://markedit.app/](https://markedit.app/)
 
   **Badges:** <a href='https://github.com/MarkEdit-app/MarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/MarkEdit-app/MarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/MarkEdit-app/MarkEdit'><img src='https://img.shields.io/github/stars/MarkEdit-app/MarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/MarkEdit-app/MarkEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/MarkEdit-app/MarkEdit' alt='License'/>
@@ -3285,6 +3349,7 @@ You can see in which language an app is written. Currently there are following l
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
   **Languages:** <code>free-pascal</code> 
+
   **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
 
   **Badges:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/maxnd/mxMarkEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
@@ -3307,6 +3372,7 @@ You can see in which language an app is written. Currently there are following l
 - [Notenik](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://notenik.app](https://notenik.app)
 
   **Badges:** <a href='https://github.com/hbowie/notenik-swift/releases/latest'><img src='https://img.shields.io/github/v/release/hbowie/notenik-swift?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/hbowie/notenik-swift'><img src='https://img.shields.io/github/stars/hbowie/notenik-swift?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/hbowie/notenik-swift' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/hbowie/notenik-swift' alt='License'/>
@@ -3323,6 +3389,7 @@ You can see in which language an app is written. Currently there are following l
 - [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://obsidian.md/](https://obsidian.md/)
 
   **Badges:** <a href='https://github.com/obsidianmd/obsidian-releases/releases/latest'><img src='https://img.shields.io/github/v/release/obsidianmd/obsidian-releases?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/obsidianmd/obsidian-releases'><img src='https://img.shields.io/github/stars/obsidianmd/obsidian-releases?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/obsidianmd/obsidian-releases' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/obsidianmd/obsidian-releases' alt='License'/>
@@ -3358,6 +3425,7 @@ You can see in which language an app is written. Currently there are following l
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
   **Badges:** <a href='https://github.com/pbek/QOwnNotes/releases/latest'><img src='https://img.shields.io/github/v/release/pbek/QOwnNotes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/pbek/QOwnNotes'><img src='https://img.shields.io/github/stars/pbek/QOwnNotes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/pbek/QOwnNotes' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/pbek/QOwnNotes' alt='License'/>
@@ -3374,6 +3442,7 @@ You can see in which language an app is written. Currently there are following l
 - [Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://www.zettlr.com/](https://www.zettlr.com/)
 
   **Badges:** <a href='https://github.com/Zettlr/Zettlr/releases/latest'><img src='https://img.shields.io/github/v/release/Zettlr/Zettlr?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Zettlr/Zettlr'><img src='https://img.shields.io/github/stars/Zettlr/Zettlr?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Zettlr/Zettlr' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Zettlr/Zettlr' alt='License'/>
@@ -3394,6 +3463,7 @@ You can see in which language an app is written. Currently there are following l
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
   <details>
@@ -3433,6 +3503,7 @@ You can see in which language an app is written. Currently there are following l
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
   **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
@@ -3464,6 +3535,7 @@ You can see in which language an app is written. Currently there are following l
 - [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
+
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
   **Badges:** <a href='https://github.com/geany/geany/releases/latest'><img src='https://img.shields.io/github/v/release/geany/geany?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/geany/geany'><img src='https://img.shields.io/github/stars/geany/geany?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/geany/geany' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/geany/geany' alt='License'/>
@@ -3486,6 +3558,7 @@ You can see in which language an app is written. Currently there are following l
 - [micro](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
+
   **Website:** [https://micro-editor.github.io](https://micro-editor.github.io)
 
   **Badges:** <a href='https://github.com/zyedidia/micro/releases/latest'><img src='https://img.shields.io/github/v/release/zyedidia/micro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zyedidia/micro'><img src='https://img.shields.io/github/stars/zyedidia/micro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/zyedidia/micro' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/zyedidia/micro' alt='License'/>
@@ -3508,6 +3581,7 @@ You can see in which language an app is written. Currently there are following l
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
   **Languages:** <code>free-pascal</code> 
+
   **Website:** [https://github.com/maxnd/mxMarkEdit](https://github.com/maxnd/mxMarkEdit)
 
   **Badges:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/maxnd/mxMarkEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
@@ -3530,6 +3604,7 @@ You can see in which language an app is written. Currently there are following l
 - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://notesnook.com](https://notesnook.com)
 
   **Badges:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/streetwriters/notesnook' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
@@ -3610,6 +3685,7 @@ You can see in which language an app is written. Currently there are following l
 - [Tincta](https://github.com/CodingFriends/Tincta) - One-window text editor with syntax highlighting.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://codingfriends.github.io/Tincta/](https://codingfriends.github.io/Tincta/)
 
   **Badges:** <a href='https://github.com/CodingFriends/Tincta/releases/latest'><img src='https://img.shields.io/github/v/release/CodingFriends/Tincta?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/CodingFriends/Tincta'><img src='https://img.shields.io/github/stars/CodingFriends/Tincta?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/CodingFriends/Tincta' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/CodingFriends/Tincta' alt='License'/>
@@ -3627,6 +3703,7 @@ You can see in which language an app is written. Currently there are following l
 - [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://adguard.com/en/welcome.html](https://adguard.com/en/welcome.html)
 
   **Badges:** <a href='https://github.com/adguardteam/adguardforsafari/releases/latest'><img src='https://img.shields.io/github/v/release/adguardteam/adguardforsafari?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/adguardteam/adguardforsafari'><img src='https://img.shields.io/github/stars/adguardteam/adguardforsafari?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/adguardteam/adguardforsafari' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/adguardteam/adguardforsafari' alt='License'/>
@@ -3658,6 +3735,7 @@ You can see in which language an app is written. Currently there are following l
 - [Is It Private?](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://florian.codes/projects/is-it-private/](https://florian.codes/projects/is-it-private/)
 
   **Badges:** <a href='https://github.com/ffittschen/IsItPrivate/releases/latest'><img src='https://img.shields.io/github/v/release/ffittschen/IsItPrivate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ffittschen/IsItPrivate'><img src='https://img.shields.io/github/stars/ffittschen/IsItPrivate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ffittschen/IsItPrivate' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ffittschen/IsItPrivate' alt='License'/>
@@ -3689,6 +3767,7 @@ You can see in which language an app is written. Currently there are following l
 - [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://nef.bow-swift.io/](https://nef.bow-swift.io/)
 
   **Badges:** <a href='https://github.com/bow-swift/nef-plugin/releases/latest'><img src='https://img.shields.io/github/v/release/bow-swift/nef-plugin?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bow-swift/nef-plugin'><img src='https://img.shields.io/github/stars/bow-swift/nef-plugin?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bow-swift/nef-plugin' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bow-swift/nef-plugin' alt='License'/>
@@ -3768,6 +3847,7 @@ You can see in which language an app is written. Currently there are following l
 - [Swimat](https://github.com/Jintin/Swimat) - Swimat is an Xcode plug-in to format your Swift code.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://jintin.github.io/Swimat/](https://jintin.github.io/Swimat/)
 
   **Badges:** <a href='https://github.com/Jintin/Swimat/releases/latest'><img src='https://img.shields.io/github/v/release/Jintin/Swimat?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Jintin/Swimat'><img src='https://img.shields.io/github/stars/Jintin/Swimat?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Jintin/Swimat' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Jintin/Swimat' alt='License'/>
@@ -3864,6 +3944,7 @@ You can see in which language an app is written. Currently there are following l
 - [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://dupeguru.voltaicideas.net/](https://dupeguru.voltaicideas.net/)
 
   **Badges:** <a href='https://github.com/arsenetar/dupeguru/releases/latest'><img src='https://img.shields.io/github/v/release/arsenetar/dupeguru?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/arsenetar/dupeguru/'><img src='https://img.shields.io/github/stars/arsenetar/dupeguru?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/arsenetar/dupeguru' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/arsenetar/dupeguru' alt='License'/>
@@ -3909,6 +3990,7 @@ You can see in which language an app is written. Currently there are following l
 - [muCommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://www.mucommander.com/](https://www.mucommander.com/)
 
   **Badges:** <a href='https://github.com/mucommander/mucommander/releases/latest'><img src='https://img.shields.io/github/v/release/mucommander/mucommander?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mucommander/mucommander'><img src='https://img.shields.io/github/stars/mucommander/mucommander?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mucommander/mucommander' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mucommander/mucommander' alt='License'/>
@@ -3969,6 +4051,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneClick](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://saneclick.com](https://saneclick.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClick' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
@@ -4004,6 +4087,7 @@ You can see in which language an app is written. Currently there are following l
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://play0ad.com](https://play0ad.com)
 
   <details>
@@ -4020,6 +4104,7 @@ You can see in which language an app is written. Currently there are following l
 - [Amazing Tic Tac Toe](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://ariessciences.com/highlight?product=tic-tac-toe](https://ariessciences.com/highlight?product=tic-tac-toe)
 
   **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Tic-Tac-Toe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Tic-Tac-Toe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Tic-Tac-Toe' alt='License'/>
@@ -4050,6 +4135,7 @@ You can see in which language an app is written. Currently there are following l
 - [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS.
 
   **Languages:** <code>objective-c</code> 
+
   **Website:** [https://www.apple.com/](https://www.apple.com/)
 
   <details>
@@ -4070,6 +4156,7 @@ You can see in which language an app is written. Currently there are following l
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apollozhu.github.io/Dynamic-Dark-Mode/](https://apollozhu.github.io/Dynamic-Dark-Mode/)
 
   **Badges:** <a href='https://github.com/ApolloZhu/Dynamic-Dark-Mode/releases/latest'><img src='https://img.shields.io/github/v/release/ApolloZhu/Dynamic-Dark-Mode?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ApolloZhu/Dynamic-Dark-Mode'><img src='https://img.shields.io/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ApolloZhu/Dynamic-Dark-Mode' alt='License'/>
@@ -4116,6 +4203,7 @@ You can see in which language an app is written. Currently there are following l
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [http://sabaki.yichuanshen.de](http://sabaki.yichuanshen.de)
 
   **Badges:** <a href='https://github.com/SabakiHQ/Sabaki/releases/latest'><img src='https://img.shields.io/github/v/release/SabakiHQ/Sabaki?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SabakiHQ/Sabaki'><img src='https://img.shields.io/github/stars/SabakiHQ/Sabaki?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/SabakiHQ/Sabaki' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/SabakiHQ/Sabaki' alt='License'/>
@@ -4144,6 +4232,7 @@ You can see in which language an app is written. Currently there are following l
 - [Widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
   **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.widelands.org](https://www.widelands.org)
 
   **Badges:** <a href='https://github.com/widelands/widelands/releases/latest'><img src='https://img.shields.io/github/v/release/widelands/widelands?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/widelands/widelands'><img src='https://img.shields.io/github/stars/widelands/widelands?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/widelands/widelands' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/widelands/widelands' alt='License'/>
@@ -4170,6 +4259,7 @@ You can see in which language an app is written. Currently there are following l
 - [Blender](https://projects.blender.org/) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://www.blender.org](https://www.blender.org)
 
   <details>
@@ -4205,6 +4295,7 @@ You can see in which language an app is written. Currently there are following l
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://imazing.com/colorset](https://imazing.com/colorset)
 
   **Badges:** <a href='https://github.com/DigiDNA/ColorSet/releases/latest'><img src='https://img.shields.io/github/v/release/DigiDNA/ColorSet?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/DigiDNA/ColorSet'><img src='https://img.shields.io/github/stars/DigiDNA/ColorSet?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/DigiDNA/ColorSet' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/DigiDNA/ColorSet' alt='License'/>
@@ -4221,6 +4312,7 @@ You can see in which language an app is written. Currently there are following l
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler
 
   **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://www.freecad.org/](https://www.freecad.org/)
 
   **Badges:** <a href='https://github.com/FreeCAD/FreeCAD/releases/latest'><img src='https://img.shields.io/github/v/release/FreeCAD/FreeCAD?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/FreeCAD/FreeCAD'><img src='https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/FreeCAD/FreeCAD' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/FreeCAD/FreeCAD' alt='License'/>
@@ -4237,6 +4329,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool for UML and SysML.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://gaphor.org](https://gaphor.org)
 
   **Badges:** <a href='https://github.com/gaphor/gaphor/releases/latest'><img src='https://img.shields.io/github/v/release/gaphor/gaphor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gaphor/gaphor'><img src='https://img.shields.io/github/stars/gaphor/gaphor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gaphor/gaphor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gaphor/gaphor' alt='License'/>
@@ -4318,6 +4411,7 @@ You can see in which language an app is written. Currently there are following l
 - [Krita](https://invent.kde.org/graphics/krita) - Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://krita.org/en/](https://krita.org/en/)
 
   <details>
@@ -4332,6 +4426,7 @@ You can see in which language an app is written. Currently there are following l
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
 
   **Languages:** <code>c++</code> <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://librecad.org](https://librecad.org)
 
   **Badges:** <a href='https://github.com/LibreCAD/LibreCAD/releases/latest'><img src='https://img.shields.io/github/v/release/LibreCAD/LibreCAD?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LibreCAD/LibreCAD'><img src='https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LibreCAD/LibreCAD' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LibreCAD/LibreCAD' alt='License'/>
@@ -4418,6 +4513,7 @@ You can see in which language an app is written. Currently there are following l
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://netbeans.apache.org/](https://netbeans.apache.org/)
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -4436,6 +4532,7 @@ You can see in which language an app is written. Currently there are following l
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
   **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
@@ -4452,6 +4549,7 @@ You can see in which language an app is written. Currently there are following l
 - [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://brackets.io/](https://brackets.io/)
 
   **Badges:** <a href='https://github.com/brackets-cont/brackets/releases/latest'><img src='https://img.shields.io/github/v/release/brackets-cont/brackets?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/brackets-cont/brackets'><img src='https://img.shields.io/github/stars/brackets-cont/brackets?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/brackets-cont/brackets' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/brackets-cont/brackets' alt='License'/>
@@ -4468,6 +4566,7 @@ You can see in which language an app is written. Currently there are following l
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.codeedit.app/](https://www.codeedit.app/)
 
   **Badges:** <a href='https://github.com/CodeEditApp/CodeEdit/releases/latest'><img src='https://img.shields.io/github/v/release/CodeEditApp/CodeEdit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/CodeEditApp/CodeEdit'><img src='https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/CodeEditApp/CodeEdit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/CodeEditApp/CodeEdit' alt='License'/>
@@ -4484,6 +4583,7 @@ You can see in which language an app is written. Currently there are following l
 - [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
@@ -4491,6 +4591,7 @@ You can see in which language an app is written. Currently there are following l
 - [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
+
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
   **Badges:** <a href='https://github.com/geany/geany/releases/latest'><img src='https://img.shields.io/github/v/release/geany/geany?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/geany/geany'><img src='https://img.shields.io/github/stars/geany/geany?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/geany/geany' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/geany/geany' alt='License'/>
@@ -4507,6 +4608,7 @@ You can see in which language an app is written. Currently there are following l
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
   **Badges:** <a href='https://github.com/JetBrains/intellij-community/releases/latest'><img src='https://img.shields.io/github/v/release/JetBrains/intellij-community?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/JetBrains/intellij-community'><img src='https://img.shields.io/github/stars/JetBrains/intellij-community?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/JetBrains/intellij-community' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/JetBrains/intellij-community' alt='License'/>
@@ -4523,6 +4625,7 @@ You can see in which language an app is written. Currently there are following l
 - [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://livecode.org/](https://livecode.org/)
 
   **Badges:** <a href='https://github.com/livecode/livecode/releases/latest'><img src='https://img.shields.io/github/v/release/livecode/livecode?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/livecode/livecode'><img src='https://img.shields.io/github/stars/livecode/livecode?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/livecode/livecode' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/livecode/livecode' alt='License'/>
@@ -4536,6 +4639,7 @@ You can see in which language an app is written. Currently there are following l
 - [Vim](https://github.com/vim/vim) - ubiquitous text editor
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>Vim script</code> 
+
   **Website:** [https://www.vim.org/](https://www.vim.org/)
 
   **Badges:** <a href='https://github.com/vim/vim/releases/latest'><img src='https://img.shields.io/github/v/release/vim/vim?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vim/vim'><img src='https://img.shields.io/github/stars/vim/vim?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vim/vim' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vim/vim' alt='License'/>
@@ -4567,6 +4671,7 @@ You can see in which language an app is written. Currently there are following l
 - [VSCodium](https://github.com/VSCodium/vscodium) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed. 
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://vscodium.com/](https://vscodium.com/)
 
   **Badges:** <a href='https://github.com/VSCodium/vscodium/releases/latest'><img src='https://img.shields.io/github/v/release/VSCodium/vscodium?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/VSCodium/vscodium'><img src='https://img.shields.io/github/stars/VSCodium/vscodium?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/VSCodium/vscodium' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/VSCodium/vscodium' alt='License'/>
@@ -4574,6 +4679,7 @@ You can see in which language an app is written. Currently there are following l
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://zed.dev](https://zed.dev)
 
   **Badges:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/zed-industries/zed' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
@@ -4621,6 +4727,7 @@ You can see in which language an app is written. Currently there are following l
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://exifcleaner.com](https://exifcleaner.com)
 
   **Badges:** <a href='https://github.com/szTheory/exifcleaner/releases/latest'><img src='https://img.shields.io/github/v/release/szTheory/exifcleaner?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/szTheory/exifcleaner'><img src='https://img.shields.io/github/stars/szTheory/exifcleaner?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/szTheory/exifcleaner' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/szTheory/exifcleaner' alt='License'/>
@@ -4641,6 +4748,7 @@ You can see in which language an app is written. Currently there are following l
 - [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://flameshot.org](https://flameshot.org)
 
   **Badges:** <a href='https://github.com/flameshot-org/flameshot/releases/latest'><img src='https://img.shields.io/github/v/release/flameshot-org/flameshot?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/flameshot-org/flameshot'><img src='https://img.shields.io/github/stars/flameshot-org/flameshot?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/flameshot-org/flameshot' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/flameshot-org/flameshot' alt='License'/>
@@ -4678,6 +4786,7 @@ You can see in which language an app is written. Currently there are following l
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/us/app/iconology/id1463452867](https://apps.apple.com/us/app/iconology/id1463452867)
 
   **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
@@ -4715,6 +4824,7 @@ You can see in which language an app is written. Currently there are following l
 - [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is a Free and open source vector graphics editor.
 
   **Languages:** <code>c++</code> 
+
   **Website:** [https://inkscape.org/](https://inkscape.org/)
 
   <details>
@@ -4754,6 +4864,7 @@ You can see in which language an app is written. Currently there are following l
 - [Krita](https://invent.kde.org/graphics/krita) - Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://krita.org/en/](https://krita.org/en/)
 
   <details>
@@ -4847,6 +4958,7 @@ You can see in which language an app is written. Currently there are following l
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   **Badges:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/runjuu/InputSourcePro' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
@@ -4915,6 +5027,7 @@ You can see in which language an app is written. Currently there are following l
 - [Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://unshaky.nestederror.com/](https://unshaky.nestederror.com/)
 
   **Badges:** <a href='https://github.com/aahung/Unshaky/releases/latest'><img src='https://img.shields.io/github/v/release/aahung/Unshaky?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/aahung/Unshaky'><img src='https://img.shields.io/github/stars/aahung/Unshaky?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/aahung/Unshaky' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/aahung/Unshaky' alt='License'/>
@@ -4975,6 +5088,7 @@ You can see in which language an app is written. Currently there are following l
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://getmailspring.com/](https://getmailspring.com/)
 
   **Badges:** <a href='https://github.com/Foundry376/Mailspring/releases/latest'><img src='https://img.shields.io/github/v/release/Foundry376/Mailspring?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Foundry376/Mailspring'><img src='https://img.shields.io/github/stars/Foundry376/Mailspring?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Foundry376/Mailspring' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Foundry376/Mailspring' alt='License'/>
@@ -4994,6 +5108,7 @@ You can see in which language an app is written. Currently there are following l
 - [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://www.thunderbird.net/en-US/](https://www.thunderbird.net/en-US/)
 
   <details>
@@ -5098,6 +5213,7 @@ You can see in which language an app is written. Currently there are following l
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://thijmendam.github.io/BarTranslate/](https://thijmendam.github.io/BarTranslate/)
 
   **Badges:** <a href='https://github.com/ThijmenDam/BarTranslate/releases/latest'><img src='https://img.shields.io/github/v/release/ThijmenDam/BarTranslate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ThijmenDam/BarTranslate'><img src='https://img.shields.io/github/stars/ThijmenDam/BarTranslate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ThijmenDam/BarTranslate' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ThijmenDam/BarTranslate' alt='License'/>
@@ -5114,6 +5230,7 @@ You can see in which language an app is written. Currently there are following l
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
 
   **Badges:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
@@ -5130,6 +5247,7 @@ You can see in which language an app is written. Currently there are following l
 - [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/praneeth552/clipflow](https://github.com/praneeth552/clipflow)
 
   **Badges:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/praneeth552/clipflow' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
@@ -5243,6 +5361,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
   **Badges:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jordanbaird/Ice' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
@@ -5265,6 +5384,7 @@ You can see in which language an app is written. Currently there are following l
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://www.mowglii.com/itsycal/](https://www.mowglii.com/itsycal/)
 
   **Badges:** <a href='https://github.com/sfsam/Itsycal/releases/latest'><img src='https://img.shields.io/github/v/release/sfsam/Itsycal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sfsam/Itsycal'><img src='https://img.shields.io/github/stars/sfsam/Itsycal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sfsam/Itsycal' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sfsam/Itsycal' alt='License'/>
@@ -5298,6 +5418,7 @@ You can see in which language an app is written. Currently there are following l
 - [LinkLiar](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig)
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://halo.github.io/LinkLiar/](https://halo.github.io/LinkLiar/)
 
   **Badges:** <a href='https://github.com/halo/LinkLiar/releases/latest'><img src='https://img.shields.io/github/v/release/halo/LinkLiar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/halo/LinkLiar'><img src='https://img.shields.io/github/stars/halo/LinkLiar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/halo/LinkLiar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/halo/LinkLiar' alt='License'/>
@@ -5347,6 +5468,7 @@ You can see in which language an app is written. Currently there are following l
 - [MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.minisim.app/](https://www.minisim.app/)
 
   **Badges:** <a href='https://github.com/okwasniewski/MiniSim/releases/latest'><img src='https://img.shields.io/github/v/release/okwasniewski/MiniSim?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/okwasniewski/MiniSim'><img src='https://img.shields.io/github/stars/okwasniewski/MiniSim?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/okwasniewski/MiniSim' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/okwasniewski/MiniSim' alt='License'/>
@@ -5405,6 +5527,7 @@ You can see in which language an app is written. Currently there are following l
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
 
   **Badges:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jacklandrin/OnlySwitch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
@@ -5421,6 +5544,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://paretosecurity.com/](https://paretosecurity.com/)
 
   **Badges:** <a href='https://github.com/paretoSecurity/pareto-mac/releases/latest'><img src='https://img.shields.io/github/v/release/paretoSecurity/pareto-mac?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/paretoSecurity/pareto-mac/'><img src='https://img.shields.io/github/stars/paretoSecurity/pareto-mac?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/paretoSecurity/pareto-mac' alt='License'/>
@@ -5452,6 +5576,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pika](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code> 
+
   **Website:** [https://superhighfives.com/pika](https://superhighfives.com/pika)
 
   **Badges:** <a href='https://github.com/superhighfives/pika/releases/latest'><img src='https://img.shields.io/github/v/release/superhighfives/pika?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/superhighfives/pika'><img src='https://img.shields.io/github/stars/superhighfives/pika?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/superhighfives/pika' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/superhighfives/pika' alt='License'/>
@@ -5489,6 +5614,7 @@ You can see in which language an app is written. Currently there are following l
 - [Quick Weather](https://github.com/Aries-Sciences-LLC/Quick-Weather) - Simple and elegant menubar weather app on the App Store.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://ariessciences.com/highlight?product=quick-weather](https://ariessciences.com/highlight?product=quick-weather)
 
   **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Quick-Weather?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Quick-Weather' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Quick-Weather' alt='License'/>
@@ -5522,6 +5648,7 @@ You can see in which language an app is written. Currently there are following l
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
   **Badges:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/unsecretised/rustcast' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
@@ -5538,6 +5665,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneBar](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanebar.com](https://sanebar.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneBar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
@@ -5556,6 +5684,7 @@ You can see in which language an app is written. Currently there are following l
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://screenhint.com](https://screenhint.com)
 
   **Badges:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/salemhilal/ScreenHint' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
@@ -5629,6 +5758,7 @@ You can see in which language an app is written. Currently there are following l
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://swiftbar.app](https://swiftbar.app)
 
   **Badges:** <a href='https://github.com/swiftbar/SwiftBar/releases/latest'><img src='https://img.shields.io/github/v/release/swiftbar/SwiftBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/swiftbar/SwiftBar'><img src='https://img.shields.io/github/stars/swiftbar/SwiftBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/swiftbar/SwiftBar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/swiftbar/SwiftBar' alt='License'/>
@@ -5636,6 +5766,7 @@ You can see in which language an app is written. Currently there are following l
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://timescribe.app](https://timescribe.app)
 
   **Badges:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/WINBIGFOX/timescribe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
@@ -5658,6 +5789,7 @@ You can see in which language an app is written. Currently there are following l
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://timescribe.app](https://timescribe.app)
 
   **Badges:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/WINBIGFOX/timescribe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
@@ -5680,6 +5812,7 @@ You can see in which language an app is written. Currently there are following l
 - [Vercel Deployment Menu Bar](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://vercel-deployment-menu-bar.vercel.app/](https://vercel-deployment-menu-bar.vercel.app/)
 
   **Badges:** <a href='https://github.com/andrewk17/vercel-deployment-menu-bar/releases/latest'><img src='https://img.shields.io/github/v/release/andrewk17/vercel-deployment-menu-bar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/andrewk17/vercel-deployment-menu-bar'><img src='https://img.shields.io/github/stars/andrewk17/vercel-deployment-menu-bar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/andrewk17/vercel-deployment-menu-bar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/andrewk17/vercel-deployment-menu-bar' alt='License'/>
@@ -5696,6 +5829,7 @@ You can see in which language an app is written. Currently there are following l
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
 
   **Badges:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
@@ -5759,6 +5893,7 @@ You can see in which language an app is written. Currently there are following l
 - [Karaoke Forever](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.karaoke-eternal.com/](https://www.karaoke-eternal.com/)
 
   **Badges:** <a href='https://github.com/bhj/KaraokeEternal/releases/latest'><img src='https://img.shields.io/github/v/release/bhj/KaraokeEternal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bhj/KaraokeEternal'><img src='https://img.shields.io/github/stars/bhj/KaraokeEternal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bhj/KaraokeEternal' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bhj/KaraokeEternal' alt='License'/>
@@ -5807,6 +5942,7 @@ You can see in which language an app is written. Currently there are following l
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://mpv.io](https://mpv.io)
 
   **Badges:** <a href='https://github.com/mpv-player/mpv/releases/latest'><img src='https://img.shields.io/github/v/release/mpv-player/mpv?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mpv-player/mpv'><img src='https://img.shields.io/github/stars/mpv-player/mpv?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mpv-player/mpv' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mpv-player/mpv' alt='License'/>
@@ -5844,6 +5980,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
   **Badges:** <a href='https://github.com/wulkano/Plug/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/Plug?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/wulkano/Plug'><img src='https://img.shields.io/github/stars/wulkano/Plug?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/wulkano/Plug' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/wulkano/Plug' alt='License'/>
@@ -5877,6 +6014,7 @@ You can see in which language an app is written. Currently there are following l
 - [spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://spicetify.app/](https://spicetify.app/)
 
   **Badges:** <a href='https://github.com/spicetify/spicetify-cli/releases/latest'><img src='https://img.shields.io/github/v/release/spicetify/spicetify-cli?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/spicetify/spicetify-cli'><img src='https://img.shields.io/github/stars/spicetify/spicetify-cli?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/spicetify/spicetify-cli' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/spicetify/spicetify-cli' alt='License'/>
@@ -6011,6 +6149,7 @@ You can see in which language an app is written. Currently there are following l
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://getstream.io/winds/](https://getstream.io/winds/)
 
   **Badges:** <a href='https://github.com/GetStream/Winds/releases/latest'><img src='https://img.shields.io/github/v/release/GetStream/Winds?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GetStream/Winds'><img src='https://img.shields.io/github/stars/GetStream/Winds?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/GetStream/Winds' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/GetStream/Winds' alt='License'/>
@@ -6037,6 +6176,7 @@ You can see in which language an app is written. Currently there are following l
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
   <details>
@@ -6068,6 +6208,7 @@ You can see in which language an app is written. Currently there are following l
 - [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://www.getdnote.com/](https://www.getdnote.com/)
 
   **Badges:** <a href='https://github.com/dnote/dnote/releases/latest'><img src='https://img.shields.io/github/v/release/dnote/dnote?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/dnote/dnote'><img src='https://img.shields.io/github/stars/dnote/dnote?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/dnote/dnote' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/dnote/dnote' alt='License'/>
@@ -6119,6 +6260,7 @@ You can see in which language an app is written. Currently there are following l
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
+
   **Website:** [https://uselinked.com](https://uselinked.com)
 
   **Badges:** <a href='https://github.com/lostdesign/linked/releases/latest'><img src='https://img.shields.io/github/v/release/lostdesign/linked?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/lostdesign/linked'><img src='https://img.shields.io/github/stars/lostdesign/linked?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/lostdesign/linked' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/lostdesign/linked' alt='License'/>
@@ -6158,6 +6300,7 @@ You can see in which language an app is written. Currently there are following l
 - [Notenik](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://notenik.app](https://notenik.app)
 
   **Badges:** <a href='https://github.com/hbowie/notenik-swift/releases/latest'><img src='https://img.shields.io/github/v/release/hbowie/notenik-swift?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/hbowie/notenik-swift'><img src='https://img.shields.io/github/stars/hbowie/notenik-swift?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/hbowie/notenik-swift' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/hbowie/notenik-swift' alt='License'/>
@@ -6180,6 +6323,7 @@ You can see in which language an app is written. Currently there are following l
 - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://notesnook.com](https://notesnook.com)
 
   **Badges:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/streetwriters/notesnook' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
@@ -6211,6 +6355,7 @@ You can see in which language an app is written. Currently there are following l
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
   **Badges:** <a href='https://github.com/pbek/QOwnNotes/releases/latest'><img src='https://img.shields.io/github/v/release/pbek/QOwnNotes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/pbek/QOwnNotes'><img src='https://img.shields.io/github/stars/pbek/QOwnNotes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/pbek/QOwnNotes' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/pbek/QOwnNotes' alt='License'/>
@@ -6248,6 +6393,7 @@ You can see in which language an app is written. Currently there are following l
 - [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://stik.ink](https://stik.ink)
 
   **Badges:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/0xMassi/stik_app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
@@ -6280,6 +6426,7 @@ You can see in which language an app is written. Currently there are following l
 - [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://betaflight.com/](https://betaflight.com/)
 
   **Badges:** <a href='https://github.com/betaflight/betaflight-configurator/releases/latest'><img src='https://img.shields.io/github/v/release/betaflight/betaflight-configurator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/betaflight/betaflight-configurator'><img src='https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/betaflight/betaflight-configurator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/betaflight/betaflight-configurator' alt='License'/>
@@ -6347,6 +6494,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gramps](https://github.com/gramps-project/gramps) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://gramps-project.org](https://gramps-project.org)
 
   **Badges:** <a href='https://github.com/gramps-project/gramps/releases/latest'><img src='https://img.shields.io/github/v/release/gramps-project/gramps?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gramps-project/gramps'><img src='https://img.shields.io/github/stars/gramps-project/gramps?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gramps-project/gramps' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gramps-project/gramps' alt='License'/>
@@ -6414,6 +6562,7 @@ You can see in which language an app is written. Currently there are following l
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://numi.app/](https://numi.app/)
 
   **Badges:** <a href='https://github.com/nikolaeu/numi/releases/latest'><img src='https://img.shields.io/github/v/release/nikolaeu/numi?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nikolaeu/numi'><img src='https://img.shields.io/github/stars/nikolaeu/numi?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nikolaeu/numi' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nikolaeu/numi' alt='License'/>
@@ -6562,6 +6711,7 @@ You can see in which language an app is written. Currently there are following l
 - [IINA](https://github.com/iina/iina) - The modern video player for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://iina.io](https://iina.io)
 
   **Badges:** <a href='https://github.com/iina/iina/releases/latest'><img src='https://img.shields.io/github/v/release/iina/iina?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/iina/iina'><img src='https://img.shields.io/github/stars/iina/iina?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/iina/iina' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/iina/iina' alt='License'/>
@@ -6607,6 +6757,7 @@ You can see in which language an app is written. Currently there are following l
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://mpv.io](https://mpv.io)
 
   **Badges:** <a href='https://github.com/mpv-player/mpv/releases/latest'><img src='https://img.shields.io/github/v/release/mpv-player/mpv?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mpv-player/mpv'><img src='https://img.shields.io/github/stars/mpv-player/mpv?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mpv-player/mpv' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mpv-player/mpv' alt='License'/>
@@ -6623,6 +6774,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
   **Badges:** <a href='https://github.com/wulkano/Plug/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/Plug?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/wulkano/Plug'><img src='https://img.shields.io/github/stars/wulkano/Plug?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/wulkano/Plug' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/wulkano/Plug' alt='License'/>
@@ -6673,6 +6825,7 @@ You can see in which language an app is written. Currently there are following l
 - [gPodder](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://gpodder.github.io/](https://gpodder.github.io/)
 
   **Badges:** <a href='https://github.com/gpodder/gpodder/releases/latest'><img src='https://img.shields.io/github/v/release/gpodder/gpodder?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gpodder/gpodder'><img src='https://img.shields.io/github/stars/gpodder/gpodder?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gpodder/gpodder' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gpodder/gpodder' alt='License'/>
@@ -6716,6 +6869,7 @@ You can see in which language an app is written. Currently there are following l
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://getstream.io/winds/](https://getstream.io/winds/)
 
   **Badges:** <a href='https://github.com/GetStream/Winds/releases/latest'><img src='https://img.shields.io/github/v/release/GetStream/Winds?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GetStream/Winds'><img src='https://img.shields.io/github/stars/GetStream/Winds?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/GetStream/Winds' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/GetStream/Winds' alt='License'/>
@@ -6742,6 +6896,7 @@ You can see in which language an app is written. Currently there are following l
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://activitywatch.net](https://activitywatch.net)
 
   **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
@@ -6755,6 +6910,7 @@ You can see in which language an app is written. Currently there are following l
 - [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://appfair.app](https://appfair.app)
 
   **Badges:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/App-Fair/App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
@@ -6775,6 +6931,7 @@ You can see in which language an app is written. Currently there are following l
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
   <details>
@@ -6791,6 +6948,7 @@ You can see in which language an app is written. Currently there are following l
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://blinkeye.vercel.app/](https://blinkeye.vercel.app/)
 
   **Badges:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nomandhoni-cs/blink-eye' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
@@ -6813,6 +6971,7 @@ You can see in which language an app is written. Currently there are following l
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
 
   **Badges:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
@@ -6841,6 +7000,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clendar](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
 
   **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
@@ -6859,6 +7019,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
   **Badges:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Slackadays/Clipboard' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
@@ -6898,6 +7059,7 @@ You can see in which language an app is written. Currently there are following l
 - [Condution](https://github.com/Shabang-Systems/Condution) - Create tasks, manage due dates, and filter with powerful perspectives.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://www.condution.com](https://www.condution.com)
 
   **Badges:** <a href='https://github.com/Shabang-Systems/Condution/releases/latest'><img src='https://img.shields.io/github/v/release/Shabang-Systems/Condution?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Shabang-Systems/Condution'><img src='https://img.shields.io/github/stars/Shabang-Systems/Condution?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Shabang-Systems/Condution' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Shabang-Systems/Condution' alt='License'/>
@@ -6920,6 +7082,7 @@ You can see in which language an app is written. Currently there are following l
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://devutils.com](https://devutils.com)
 
   **Badges:** <a href='https://github.com/DevUtilsApp/DevUtils-app/releases/latest'><img src='https://img.shields.io/github/v/release/DevUtilsApp/DevUtils-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/DevUtilsApp/DevUtils-app'><img src='https://img.shields.io/github/stars/DevUtilsApp/DevUtils-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/DevUtilsApp/DevUtils-app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/DevUtilsApp/DevUtils-app' alt='License'/>
@@ -6936,6 +7099,7 @@ You can see in which language an app is written. Currently there are following l
 - [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
 
   **Badges:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/xicheng148/Dockit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
@@ -6969,6 +7133,7 @@ You can see in which language an app is written. Currently there are following l
 - [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://espanso.org](https://espanso.org)
 
   **Badges:** <a href='https://github.com/espanso/espanso/releases/latest'><img src='https://img.shields.io/github/v/release/espanso/espanso?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/espanso/espanso'><img src='https://img.shields.io/github/stars/espanso/espanso?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/espanso/espanso' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/espanso/espanso' alt='License'/>
@@ -6991,6 +7156,7 @@ You can see in which language an app is written. Currently there are following l
 - [File Architect](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://filearchitect.com](https://filearchitect.com)
 
   **Badges:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/filearchitect/app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
@@ -7013,6 +7179,7 @@ You can see in which language an app is written. Currently there are following l
 - [Freeter](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://freeter.io/](https://freeter.io/)
 
   **Badges:** <a href='https://github.com/FreeterApp/Freeter/releases/latest'><img src='https://img.shields.io/github/v/release/FreeterApp/Freeter?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/FreeterApp/Freeter'><img src='https://img.shields.io/github/stars/FreeterApp/Freeter?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/FreeterApp/Freeter' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/FreeterApp/Freeter' alt='License'/>
@@ -7029,6 +7196,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
   **Badges:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jordanbaird/Ice' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
@@ -7047,6 +7215,7 @@ You can see in which language an app is written. Currently there are following l
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://www.mowglii.com/itsycal/](https://www.mowglii.com/itsycal/)
 
   **Badges:** <a href='https://github.com/sfsam/Itsycal/releases/latest'><img src='https://img.shields.io/github/v/release/sfsam/Itsycal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sfsam/Itsycal'><img src='https://img.shields.io/github/stars/sfsam/Itsycal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sfsam/Itsycal' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sfsam/Itsycal' alt='License'/>
@@ -7075,6 +7244,7 @@ You can see in which language an app is written. Currently there are following l
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
   **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
@@ -7091,6 +7261,7 @@ You can see in which language an app is written. Currently there are following l
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
+
   **Website:** [https://uselinked.com](https://uselinked.com)
 
   **Badges:** <a href='https://github.com/lostdesign/linked/releases/latest'><img src='https://img.shields.io/github/v/release/lostdesign/linked?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/lostdesign/linked'><img src='https://img.shields.io/github/stars/lostdesign/linked?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/lostdesign/linked' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/lostdesign/linked' alt='License'/>
@@ -7198,6 +7369,7 @@ You can see in which language an app is written. Currently there are following l
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://numi.app/](https://numi.app/)
 
   **Badges:** <a href='https://github.com/nikolaeu/numi/releases/latest'><img src='https://img.shields.io/github/v/release/nikolaeu/numi?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nikolaeu/numi'><img src='https://img.shields.io/github/stars/nikolaeu/numi?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nikolaeu/numi' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nikolaeu/numi' alt='License'/>
@@ -7214,6 +7386,7 @@ You can see in which language an app is written. Currently there are following l
 - [OmniPrompt](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://omniprompt.app/](https://omniprompt.app/)
 
   **Badges:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
@@ -7265,6 +7438,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pomodoro Cycle](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases](https://github.com/ziulev/pomodoro-cycle-app/releases)
 
   **Badges:** <a href='https://github.com/ziulev/pomodoro-cycle-app/releases/latest'><img src='https://img.shields.io/github/v/release/ziulev/pomodoro-cycle-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ziulev/pomodoro-cycle-app'><img src='https://img.shields.io/github/stars/ziulev/pomodoro-cycle-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ziulev/pomodoro-cycle-app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ziulev/pomodoro-cycle-app' alt='License'/>
@@ -7281,6 +7455,7 @@ You can see in which language an app is written. Currently there are following l
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
   **Badges:** <a href='https://github.com/pbek/QOwnNotes/releases/latest'><img src='https://img.shields.io/github/v/release/pbek/QOwnNotes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/pbek/QOwnNotes'><img src='https://img.shields.io/github/stars/pbek/QOwnNotes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/pbek/QOwnNotes' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/pbek/QOwnNotes' alt='License'/>
@@ -7318,6 +7493,7 @@ You can see in which language an app is written. Currently there are following l
 - [Readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://readest.com](https://readest.com)
 
   **Badges:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/readest/readest' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
@@ -7355,6 +7531,7 @@ You can see in which language an app is written. Currently there are following l
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
   **Badges:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/unsecretised/rustcast' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
@@ -7371,6 +7548,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://saneclip.com](https://saneclip.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
@@ -7389,6 +7567,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanesales.com](https://sanesales.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneSales' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
@@ -7409,6 +7588,7 @@ You can see in which language an app is written. Currently there are following l
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://screenhint.com](https://screenhint.com)
 
   **Badges:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/salemhilal/ScreenHint' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
@@ -7429,6 +7609,7 @@ You can see in which language an app is written. Currently there are following l
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://screenpi.pe](https://screenpi.pe)
 
   **Badges:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/screenpipe/screenpipe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
@@ -7481,6 +7662,7 @@ You can see in which language an app is written. Currently there are following l
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/app/speed-reader/id1258448209](https://apps.apple.com/app/speed-reader/id1258448209)
 
   **Badges:** <a href='https://apps.apple.com/app/speed-reader/id1258448209'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/SpeedReader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader'><img src='https://img.shields.io/github/stars/LumingYin/SpeedReader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/SpeedReader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/SpeedReader' alt='License'/>
@@ -7503,6 +7685,7 @@ You can see in which language an app is written. Currently there are following l
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://sqlectron.github.io/](https://sqlectron.github.io/)
 
   **Badges:** <a href='https://github.com/sqlectron/sqlectron-gui/releases/latest'><img src='https://img.shields.io/github/v/release/sqlectron/sqlectron-gui?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sqlectron/sqlectron-gui'><img src='https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sqlectron/sqlectron-gui' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sqlectron/sqlectron-gui' alt='License'/>
@@ -7534,6 +7717,7 @@ You can see in which language an app is written. Currently there are following l
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/LumingYin/StickyNotes/releases](https://github.com/LumingYin/StickyNotes/releases)
 
   **Badges:** <a href='https://github.com/LumingYin/StickyNotes/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/StickyNotes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/StickyNotes'><img src='https://img.shields.io/github/stars/LumingYin/StickyNotes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/StickyNotes' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/StickyNotes' alt='License'/>
@@ -7550,6 +7734,7 @@ You can see in which language an app is written. Currently there are following l
 - [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://khrykin.github.io/StrategrDesktop/](https://khrykin.github.io/StrategrDesktop/)
 
   **Badges:** <a href='https://github.com/khrykin/StrategrDesktop/releases/latest'><img src='https://img.shields.io/github/v/release/khrykin/StrategrDesktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/khrykin/StrategrDesktop'><img src='https://img.shields.io/github/stars/khrykin/StrategrDesktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/khrykin/StrategrDesktop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/khrykin/StrategrDesktop' alt='License'/>
@@ -7574,6 +7759,7 @@ You can see in which language an app is written. Currently there are following l
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://super-productivity.com](https://super-productivity.com)
 
   **Badges:** <a href='https://github.com/johannesjo/super-productivity/releases/latest'><img src='https://img.shields.io/github/v/release/johannesjo/super-productivity?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/johannesjo/super-productivity'><img src='https://img.shields.io/github/stars/johannesjo/super-productivity?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/johannesjo/super-productivity' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/johannesjo/super-productivity' alt='License'/>
@@ -7611,6 +7797,7 @@ You can see in which language an app is written. Currently there are following l
 - [Time to Leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <code>html</code> 
+
   **Website:** [https://timetoleave.app/](https://timetoleave.app/)
 
   **Badges:** <a href='https://github.com/thamara/time-to-leave/releases/latest'><img src='https://img.shields.io/github/v/release/thamara/time-to-leave?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/thamara/time-to-leave'><img src='https://img.shields.io/github/stars/thamara/time-to-leave?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/thamara/time-to-leave' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/thamara/time-to-leave' alt='License'/>
@@ -7646,6 +7833,7 @@ You can see in which language an app is written. Currently there are following l
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://timescribe.app](https://timescribe.app)
 
   **Badges:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/WINBIGFOX/timescribe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
@@ -7668,6 +7856,7 @@ You can see in which language an app is written. Currently there are following l
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://timescribe.app](https://timescribe.app)
 
   **Badges:** <a href='https://github.com/WINBIGFOX/timescribe/releases/latest'><img src='https://img.shields.io/github/v/release/WINBIGFOX/timescribe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/WINBIGFOX/timescribe'><img src='https://img.shields.io/github/stars/WINBIGFOX/timescribe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/WINBIGFOX/timescribe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/WINBIGFOX/timescribe' alt='License'/>
@@ -7708,6 +7897,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ueli](https://github.com/oliverschwendener/ueli) - A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://ueli.app/](https://ueli.app/)
 
   **Badges:** <a href='https://github.com/oliverschwendener/ueli/releases/latest'><img src='https://img.shields.io/github/v/release/oliverschwendener/ueli?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/oliverschwendener/ueli'><img src='https://img.shields.io/github/stars/oliverschwendener/ueli?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/oliverschwendener/ueli' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/oliverschwendener/ueli' alt='License'/>
@@ -7777,6 +7967,7 @@ You can see in which language an app is written. Currently there are following l
 - [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
 
   **Badges:** <a href='https://github.com/mattDavo/Yippy/releases/latest'><img src='https://img.shields.io/github/v/release/mattDavo/Yippy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mattDavo/Yippy'><img src='https://img.shields.io/github/stars/mattDavo/Yippy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mattDavo/Yippy' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mattDavo/Yippy' alt='License'/>
@@ -7900,6 +8091,7 @@ You can see in which language an app is written. Currently there are following l
 - [MinimalClock](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://mattiarossini.github.io/MinimalClock/](https://mattiarossini.github.io/MinimalClock/)
 
   **Badges:** <a href='https://github.com/mattiarossini/MinimalClock/releases/latest'><img src='https://img.shields.io/github/v/release/mattiarossini/MinimalClock?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mattiarossini/MinimalClock'><img src='https://img.shields.io/github/stars/mattiarossini/MinimalClock?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mattiarossini/MinimalClock' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mattiarossini/MinimalClock' alt='License'/>
@@ -7969,6 +8161,7 @@ You can see in which language an app is written. Currently there are following l
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://adequate.systems/](https://adequate.systems/)
 
   **Badges:** <a href='https://github.com/spieglt/cloaker/releases/latest'><img src='https://img.shields.io/github/v/release/spieglt/cloaker?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/spieglt/cloaker'><img src='https://img.shields.io/github/stars/spieglt/cloaker?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/spieglt/cloaker' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/spieglt/cloaker' alt='License'/>
@@ -7985,6 +8178,7 @@ You can see in which language an app is written. Currently there are following l
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://cryptomator.org/](https://cryptomator.org/)
 
   **Badges:** <a href='https://github.com/cryptomator/cryptomator/releases/latest'><img src='https://img.shields.io/github/v/release/cryptomator/cryptomator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cryptomator/cryptomator'><img src='https://img.shields.io/github/stars/cryptomator/cryptomator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/cryptomator/cryptomator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/cryptomator/cryptomator' alt='License'/>
@@ -8013,6 +8207,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://paretosecurity.com/](https://paretosecurity.com/)
 
   **Badges:** <a href='https://github.com/paretoSecurity/pareto-mac/releases/latest'><img src='https://img.shields.io/github/v/release/paretoSecurity/pareto-mac?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/paretoSecurity/pareto-mac/'><img src='https://img.shields.io/github/stars/paretoSecurity/pareto-mac?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/paretoSecurity/pareto-mac' alt='License'/>
@@ -8035,6 +8230,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://saneclip.com](https://saneclip.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
@@ -8053,6 +8249,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanehosts.com](https://sanehosts.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneHosts' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
@@ -8086,6 +8283,7 @@ You can see in which language an app is written. Currently there are following l
 - [Swifty](https://github.com/swiftyapp/swifty) - Free and offline password manager. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://getswifty.pro](https://getswifty.pro)
 
   **Badges:** <a href='https://github.com/swiftyapp/swifty/releases/latest'><img src='https://img.shields.io/github/v/release/swiftyapp/swifty?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/swiftyapp/swifty'><img src='https://img.shields.io/github/stars/swiftyapp/swifty?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/swiftyapp/swifty' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/swiftyapp/swifty' alt='License'/>
@@ -8104,6 +8302,7 @@ You can see in which language an app is written. Currently there are following l
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt. 
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.veracrypt.fr](https://www.veracrypt.fr)
 
   **Badges:** <a href='https://github.com/veracrypt/VeraCrypt/releases/latest'><img src='https://img.shields.io/github/v/release/veracrypt/VeraCrypt?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/veracrypt/VeraCrypt'><img src='https://img.shields.io/github/stars/veracrypt/VeraCrypt?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/veracrypt/VeraCrypt' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/veracrypt/VeraCrypt' alt='License'/>
@@ -8115,6 +8314,7 @@ You can see in which language an app is written. Currently there are following l
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://cyberduck.io](https://cyberduck.io)
 
   **Badges:** <a href='https://github.com/iterate-ch/cyberduck/releases/latest'><img src='https://img.shields.io/github/v/release/iterate-ch/cyberduck?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/iterate-ch/cyberduck'><img src='https://img.shields.io/github/stars/iterate-ch/cyberduck?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/iterate-ch/cyberduck' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/iterate-ch/cyberduck' alt='License'/>
@@ -8139,6 +8339,7 @@ You can see in which language an app is written. Currently there are following l
 - [Easy Share Uploader](https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader) - Allows users to easily host their local images to the internet through multiple services and available on App Store.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://ariessciences.com/highlight?product=easy-share-uploader](https://ariessciences.com/highlight?product=easy-share-uploader)
 
   **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Easy-Share-Uploader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Easy-Share-Uploader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Easy-Share-Uploader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Easy-Share-Uploader' alt='License'/>
@@ -8157,6 +8358,7 @@ You can see in which language an app is written. Currently there are following l
 - [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
 
   **Languages:** <code>c++</code> 
+
   **Website:** [https://filezilla-project.org](https://filezilla-project.org)
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. 
@@ -8168,6 +8370,7 @@ You can see in which language an app is written. Currently there are following l
 - [NitroShare](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://nitroshare.net](https://nitroshare.net)
 
   **Badges:** <a href='https://github.com/nitroshare/nitroshare-desktop/releases/latest'><img src='https://img.shields.io/github/v/release/nitroshare/nitroshare-desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nitroshare/nitroshare-desktop'><img src='https://img.shields.io/github/stars/nitroshare/nitroshare-desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nitroshare/nitroshare-desktop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nitroshare/nitroshare-desktop' alt='License'/>
@@ -8187,6 +8390,7 @@ You can see in which language an app is written. Currently there are following l
 - [Soduto](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://soduto.com/](https://soduto.com/)
 
   **Badges:** <a href='https://github.com/soduto/Soduto/releases/latest'><img src='https://img.shields.io/github/v/release/soduto/Soduto?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/soduto/Soduto'><img src='https://img.shields.io/github/stars/soduto/Soduto?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/soduto/Soduto' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/soduto/Soduto' alt='License'/>
@@ -8312,6 +8516,7 @@ You can see in which language an app is written. Currently there are following l
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. 
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://obsproject.com/](https://obsproject.com/)
 
   **Badges:** <a href='https://github.com/obsproject/obs-studio/releases/latest'><img src='https://img.shields.io/github/v/release/obsproject/obs-studio?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/obsproject/obs-studio'><img src='https://img.shields.io/github/stars/obsproject/obs-studio?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/obsproject/obs-studio' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/obsproject/obs-studio' alt='License'/>
@@ -8319,6 +8524,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
   **Badges:** <a href='https://github.com/wulkano/Plug/releases/latest'><img src='https://img.shields.io/github/v/release/wulkano/Plug?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/wulkano/Plug'><img src='https://img.shields.io/github/stars/wulkano/Plug?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/wulkano/Plug' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/wulkano/Plug' alt='License'/>
@@ -8530,6 +8736,7 @@ You can see in which language an app is written. Currently there are following l
 - [macOSLucidaGrande](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases](https://github.com/LumingYin/macOSLucidaGrande/releases)
 
   **Badges:** <a href='https://github.com/LumingYin/macOSLucidaGrande/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/macOSLucidaGrande?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/macOSLucidaGrande'><img src='https://img.shields.io/github/stars/LumingYin/macOSLucidaGrande?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/macOSLucidaGrande' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/macOSLucidaGrande' alt='License'/>
@@ -8645,6 +8852,7 @@ You can see in which language an app is written. Currently there are following l
 - [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
+
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
@@ -8681,6 +8889,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
   **Badges:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Slackadays/Clipboard' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
@@ -8848,6 +9057,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pock](https://github.com/pock/pock) - Display macOS Dock in Touch Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://pock.app/](https://pock.app/)
 
   **Badges:** <a href='https://github.com/pock/pock/releases/latest'><img src='https://img.shields.io/github/v/release/pock/pock?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/pock/pock'><img src='https://img.shields.io/github/stars/pock/pock?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/pock/pock' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/pock/pock' alt='License'/>
@@ -8897,6 +9107,7 @@ You can see in which language an app is written. Currently there are following l
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://activitywatch.net](https://activitywatch.net)
 
   **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
@@ -8925,6 +9136,7 @@ You can see in which language an app is written. Currently there are following l
 - [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://appfair.app](https://appfair.app)
 
   **Badges:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/App-Fair/App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
@@ -8951,6 +9163,7 @@ You can see in which language an app is written. Currently there are following l
 - [Balena Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily. 
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://www.balena.io/etcher](https://www.balena.io/etcher)
 
   **Badges:** <a href='https://github.com/balena-io/etcher/releases/latest'><img src='https://img.shields.io/github/v/release/balena-io/etcher?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/balena-io/etcher'><img src='https://img.shields.io/github/stars/balena-io/etcher?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/balena-io/etcher' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/balena-io/etcher' alt='License'/>
@@ -8979,6 +9192,7 @@ You can see in which language an app is written. Currently there are following l
 - [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://betaflight.com/](https://betaflight.com/)
 
   **Badges:** <a href='https://github.com/betaflight/betaflight-configurator/releases/latest'><img src='https://img.shields.io/github/v/release/betaflight/betaflight-configurator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/betaflight/betaflight-configurator'><img src='https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/betaflight/betaflight-configurator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/betaflight/betaflight-configurator' alt='License'/>
@@ -8995,6 +9209,7 @@ You can see in which language an app is written. Currently there are following l
 - [Bitwarden](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations. 
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://bitwarden.com/](https://bitwarden.com/)
 
   **Badges:** <a href='https://github.com/bitwarden/desktop/releases/latest'><img src='https://img.shields.io/github/v/release/bitwarden/desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bitwarden/desktop'><img src='https://img.shields.io/github/stars/bitwarden/desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bitwarden/desktop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bitwarden/desktop' alt='License'/>
@@ -9030,6 +9245,7 @@ You can see in which language an app is written. Currently there are following l
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://blinkeye.vercel.app/](https://blinkeye.vercel.app/)
 
   **Badges:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nomandhoni-cs/blink-eye' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
@@ -9052,6 +9268,7 @@ You can see in which language an app is written. Currently there are following l
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://boop.okat.best](https://boop.okat.best)
 
   **Badges:** <a href='https://github.com/IvanMathy/Boop/releases/latest'><img src='https://img.shields.io/github/v/release/IvanMathy/Boop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/IvanMathy/Boop'><img src='https://img.shields.io/github/stars/IvanMathy/Boop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/IvanMathy/Boop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/IvanMathy/Boop' alt='License'/>
@@ -9083,6 +9300,7 @@ You can see in which language an app is written. Currently there are following l
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App](https://github.com/designsbymuzeer/Bye-Mac-App)
 
   **Badges:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
@@ -9105,6 +9323,7 @@ You can see in which language an app is written. Currently there are following l
 - [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://calibre-ebook.com](https://calibre-ebook.com)
 
   **Badges:** <a href='https://github.com/kovidgoyal/calibre/releases/latest'><img src='https://img.shields.io/github/v/release/kovidgoyal/calibre?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/kovidgoyal/calibre'><img src='https://img.shields.io/github/stars/kovidgoyal/calibre?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/kovidgoyal/calibre' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/kovidgoyal/calibre' alt='License'/>
@@ -9118,6 +9337,7 @@ You can see in which language an app is written. Currently there are following l
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://apps.apple.com/app/clear-clipboard-text-format/id1322855232](https://apps.apple.com/app/clear-clipboard-text-format/id1322855232)
 
   **Badges:** <a href='https://apps.apple.com/app/clear-clipboard-text-format/id1322855232'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/ClipboardClear?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear'><img src='https://img.shields.io/github/stars/LumingYin/ClipboardClear?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/ClipboardClear' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/ClipboardClear' alt='License'/>
@@ -9134,6 +9354,7 @@ You can see in which language an app is written. Currently there are following l
 - [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/praneeth552/clipflow](https://github.com/praneeth552/clipflow)
 
   **Badges:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/praneeth552/clipflow' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
@@ -9203,6 +9424,7 @@ You can see in which language an app is written. Currently there are following l
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://devutils.com](https://devutils.com)
 
   **Badges:** <a href='https://github.com/DevUtilsApp/DevUtils-app/releases/latest'><img src='https://img.shields.io/github/v/release/DevUtilsApp/DevUtils-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/DevUtilsApp/DevUtils-app'><img src='https://img.shields.io/github/stars/DevUtilsApp/DevUtils-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/DevUtilsApp/DevUtils-app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/DevUtilsApp/DevUtils-app' alt='License'/>
@@ -9219,6 +9441,7 @@ You can see in which language an app is written. Currently there are following l
 - [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://dupeguru.voltaicideas.net/](https://dupeguru.voltaicideas.net/)
 
   **Badges:** <a href='https://github.com/arsenetar/dupeguru/releases/latest'><img src='https://img.shields.io/github/v/release/arsenetar/dupeguru?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/arsenetar/dupeguru/'><img src='https://img.shields.io/github/stars/arsenetar/dupeguru?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/arsenetar/dupeguru' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/arsenetar/dupeguru' alt='License'/>
@@ -9268,6 +9491,7 @@ You can see in which language an app is written. Currently there are following l
 - [File Architect](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://filearchitect.com](https://filearchitect.com)
 
   **Badges:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/filearchitect/app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
@@ -9284,6 +9508,7 @@ You can see in which language an app is written. Currently there are following l
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
+
   **Website:** [https://adequate.systems/](https://adequate.systems/)
 
   **Badges:** <a href='https://github.com/spieglt/flyingcarpet/releases/latest'><img src='https://img.shields.io/github/v/release/spieglt/flyingcarpet?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/spieglt/flyingcarpet'><img src='https://img.shields.io/github/stars/spieglt/flyingcarpet?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/spieglt/flyingcarpet' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/spieglt/flyingcarpet' alt='License'/>
@@ -9312,6 +9537,7 @@ You can see in which language an app is written. Currently there are following l
 - [GrandPerspective](https://git.code.sf.net/p/grandperspectiv/source) - Small utility for visualizing disk usage using tree maps.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://grandperspectiv.sourceforge.net](https://grandperspectiv.sourceforge.net)
 
   <details>
@@ -9353,6 +9579,7 @@ You can see in which language an app is written. Currently there are following l
 - [Gridfy](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
 
   **Badges:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Slllava/gridfy' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
@@ -9373,6 +9600,7 @@ You can see in which language an app is written. Currently there are following l
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
 
   **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
+
   **Website:** [https://brew.sh/](https://brew.sh/)
 
   **Badges:** <a href='https://github.com/Homebrew/homebrew-cask/releases/latest'><img src='https://img.shields.io/github/v/release/Homebrew/homebrew-cask?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Homebrew/homebrew-cask'><img src='https://img.shields.io/github/stars/Homebrew/homebrew-cask?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Homebrew/homebrew-cask' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Homebrew/homebrew-cask' alt='License'/>
@@ -9389,6 +9617,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
   **Badges:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jordanbaird/Ice' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
@@ -9407,6 +9636,7 @@ You can see in which language an app is written. Currently there are following l
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
   **Badges:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/runjuu/InputSourcePro' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
@@ -9449,6 +9679,7 @@ You can see in which language an app is written. Currently there are following l
 - [Keka](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.keka.io/en/](https://www.keka.io/en/)
 
   **Badges:** <a href='https://github.com/aonez/Keka/releases/latest'><img src='https://img.shields.io/github/v/release/aonez/Keka?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/aonez/Keka'><img src='https://img.shields.io/github/stars/aonez/Keka?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/aonez/Keka' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/aonez/Keka' alt='License'/>
@@ -9471,6 +9702,7 @@ You can see in which language an app is written. Currently there are following l
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
   **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
@@ -9487,6 +9719,7 @@ You can see in which language an app is written. Currently there are following l
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
   **Badges:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Schlaubischlump/LocationSimulator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
@@ -9539,6 +9772,7 @@ You can see in which language an app is written. Currently there are following l
 - [MacPacker](https://github.com/sarensw/MacPacker/) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://macpacker.app/](https://macpacker.app/)
 
   **Badges:** <a href='https://github.com/sarensw/MacPacker/releases/latest'><img src='https://img.shields.io/github/v/release/sarensw/MacPacker?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sarensw/MacPacker/'><img src='https://img.shields.io/github/stars/sarensw/MacPacker?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sarensw/MacPacker' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sarensw/MacPacker' alt='License'/>
@@ -9680,6 +9914,7 @@ You can see in which language an app is written. Currently there are following l
 - [nix-package-manager](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
 
   **Languages:** <code>c++</code> <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>nix</code> 
+
   **Website:** [https://nixos.org/explore.html](https://nixos.org/explore.html)
 
   **Badges:** <a href='https://github.com/NixOS/nix/releases/latest'><img src='https://img.shields.io/github/v/release/NixOS/nix?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/NixOS/nix'><img src='https://img.shields.io/github/stars/NixOS/nix?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/NixOS/nix' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/NixOS/nix' alt='License'/>
@@ -9687,6 +9922,7 @@ You can see in which language an app is written. Currently there are following l
 - [Nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. 
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://nmap.org](https://nmap.org)
 
   **Badges:** <a href='https://github.com/nmap/nmap/releases/latest'><img src='https://img.shields.io/github/v/release/nmap/nmap?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nmap/nmap'><img src='https://img.shields.io/github/stars/nmap/nmap?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nmap/nmap' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nmap/nmap' alt='License'/>
@@ -9721,6 +9957,7 @@ You can see in which language an app is written. Currently there are following l
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://numi.app/](https://numi.app/)
 
   **Badges:** <a href='https://github.com/nikolaeu/numi/releases/latest'><img src='https://img.shields.io/github/v/release/nikolaeu/numi?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nikolaeu/numi'><img src='https://img.shields.io/github/stars/nikolaeu/numi?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nikolaeu/numi' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nikolaeu/numi' alt='License'/>
@@ -9743,6 +9980,7 @@ You can see in which language an app is written. Currently there are following l
 - [OmniPrompt](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://omniprompt.app/](https://omniprompt.app/)
 
   **Badges:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
@@ -9750,6 +9988,7 @@ You can see in which language an app is written. Currently there are following l
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
 
   **Badges:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jacklandrin/OnlySwitch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
@@ -9766,6 +10005,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
   **Website:** [https://dortania.github.io/OpenCore-Legacy-Patcher/](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 
   **Badges:** <a href='https://github.com/dortania/OpenCore-Legacy-Patcher/releases/latest'><img src='https://img.shields.io/github/v/release/dortania/OpenCore-Legacy-Patcher?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/dortania/OpenCore-Legacy-Patcher'><img src='https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/dortania/OpenCore-Legacy-Patcher' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/dortania/OpenCore-Legacy-Patcher' alt='License'/>
@@ -9773,6 +10013,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenRocket](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
   **Website:** [https://openrocket.info/](https://openrocket.info/)
 
   **Badges:** <a href='https://github.com/openrocket/openrocket/releases/latest'><img src='https://img.shields.io/github/v/release/openrocket/openrocket?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/openrocket/openrocket'><img src='https://img.shields.io/github/stars/openrocket/openrocket?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/openrocket/openrocket' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/openrocket/openrocket' alt='License'/>
@@ -9807,6 +10048,7 @@ You can see in which language an app is written. Currently there are following l
 - [PeaZip](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
 
   **Languages:** <code>pascal</code> 
+
   **Website:** [https://peazip.github.io/](https://peazip.github.io/)
 
   **Badges:** <a href='https://github.com/peazip/PeaZip/releases/latest'><img src='https://img.shields.io/github/v/release/peazip/PeaZip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/peazip/PeaZip'><img src='https://img.shields.io/github/stars/peazip/PeaZip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/peazip/PeaZip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/peazip/PeaZip' alt='License'/>
@@ -9820,6 +10062,7 @@ You can see in which language an app is written. Currently there are following l
 - [Pika](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code> 
+
   **Website:** [https://superhighfives.com/pika](https://superhighfives.com/pika)
 
   **Badges:** <a href='https://github.com/superhighfives/pika/releases/latest'><img src='https://img.shields.io/github/v/release/superhighfives/pika?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/superhighfives/pika'><img src='https://img.shields.io/github/stars/superhighfives/pika?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/superhighfives/pika' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/superhighfives/pika' alt='License'/>
@@ -9889,6 +10132,7 @@ You can see in which language an app is written. Currently there are following l
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://swiftyfinch.github.io/en/2021-03-09-rugby-story/](https://swiftyfinch.github.io/en/2021-03-09-rugby-story/)
 
   **Badges:** <a href='https://github.com/swiftyfinch/Rugby/releases/latest'><img src='https://img.shields.io/github/v/release/swiftyfinch/Rugby?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/swiftyfinch/Rugby'><img src='https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/swiftyfinch/Rugby' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/swiftyfinch/Rugby' alt='License'/>
@@ -9905,6 +10149,7 @@ You can see in which language an app is written. Currently there are following l
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
   **Badges:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/unsecretised/rustcast' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
@@ -9921,6 +10166,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneBar](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanebar.com](https://sanebar.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneBar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
@@ -9939,6 +10185,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneClick](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://saneclick.com](https://saneclick.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClick' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
@@ -9955,6 +10202,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://saneclip.com](https://saneclip.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
@@ -9973,6 +10221,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanehosts.com](https://sanehosts.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneHosts' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
@@ -9989,6 +10238,7 @@ You can see in which language an app is written. Currently there are following l
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sanesales.com](https://sanesales.com)
 
   **Badges:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sane-apps/SaneSales' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
@@ -10015,6 +10265,7 @@ You can see in which language an app is written. Currently there are following l
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://screenhint.com](https://screenhint.com)
 
   **Badges:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/salemhilal/ScreenHint' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
@@ -10035,6 +10286,7 @@ You can see in which language an app is written. Currently there are following l
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
   **Website:** [https://screenpi.pe](https://screenpi.pe)
 
   **Badges:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/screenpipe/screenpipe' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
@@ -10127,6 +10379,7 @@ You can see in which language an app is written. Currently there are following l
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java <code>html</code> <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>html</code> 
+
   **Website:** [stirlingpdf.com](stirlingpdf.com)
 
   **Badges:** <a href='https://github.com/Stirling-Tools/Stirling-PDF/releases/latest'><img src='https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Stirling-Tools/Stirling-PDF'><img src='https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Stirling-Tools/Stirling-PDF' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Stirling-Tools/Stirling-PDF' alt='License'/>
@@ -10151,6 +10404,7 @@ You can see in which language an app is written. Currently there are following l
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://super-productivity.com](https://super-productivity.com)
 
   **Badges:** <a href='https://github.com/johannesjo/super-productivity/releases/latest'><img src='https://img.shields.io/github/v/release/johannesjo/super-productivity?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/johannesjo/super-productivity'><img src='https://img.shields.io/github/stars/johannesjo/super-productivity?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/johannesjo/super-productivity' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/johannesjo/super-productivity' alt='License'/>
@@ -10200,6 +10454,7 @@ You can see in which language an app is written. Currently there are following l
 - [TRex](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://trex.ameba.co/](https://trex.ameba.co/)
 
   **Badges:** <a href='https://github.com/amebalabs/TRex/releases/latest'><img src='https://img.shields.io/github/v/release/amebalabs/TRex?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amebalabs/TRex'><img src='https://img.shields.io/github/stars/amebalabs/TRex?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amebalabs/TRex' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amebalabs/TRex' alt='License'/>
@@ -10233,6 +10488,7 @@ You can see in which language an app is written. Currently there are following l
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
 
   **Badges:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
@@ -10251,6 +10507,7 @@ You can see in which language an app is written. Currently there are following l
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://wechsel.weise.io](https://wechsel.weise.io)
 
   **Badges:** <a href='https://github.com/friedrichweise/wechsel/releases/latest'><img src='https://img.shields.io/github/v/release/friedrichweise/wechsel?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/friedrichweise/wechsel'><img src='https://img.shields.io/github/stars/friedrichweise/wechsel?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/friedrichweise/wechsel' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/friedrichweise/wechsel' alt='License'/>
@@ -10267,6 +10524,7 @@ You can see in which language an app is written. Currently there are following l
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. 
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.wireshark.org](https://www.wireshark.org)
 
   **Badges:** <a href='https://github.com/wireshark/wireshark/releases/latest'><img src='https://img.shields.io/github/v/release/wireshark/wireshark?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/wireshark/wireshark'><img src='https://img.shields.io/github/stars/wireshark/wireshark?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/wireshark/wireshark' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/wireshark/wireshark' alt='License'/>
@@ -10350,6 +10608,7 @@ You can see in which language an app is written. Currently there are following l
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://github.com/GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass)
 
   **Badges:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
@@ -10368,6 +10627,7 @@ You can see in which language an app is written. Currently there are following l
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
@@ -10442,6 +10702,7 @@ You can see in which language an app is written. Currently there are following l
 - [GNU Gatekeeper](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals. 
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
   **Website:** [https://www.gnugk.org](https://www.gnugk.org)
 
   **Badges:** <a href='https://github.com/willamowius/gnugk/releases/latest'><img src='https://img.shields.io/github/v/release/willamowius/gnugk?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/willamowius/gnugk'><img src='https://img.shields.io/github/stars/willamowius/gnugk?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/willamowius/gnugk' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/willamowius/gnugk' alt='License'/>
@@ -10455,6 +10716,7 @@ You can see in which language an app is written. Currently there are following l
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
   **Website:** [https://mifi.no/losslesscut/](https://mifi.no/losslesscut/)
 
   **Badges:** <a href='https://github.com/mifi/lossless-cut/releases/latest'><img src='https://img.shields.io/github/v/release/mifi/lossless-cut?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mifi/lossless-cut'><img src='https://img.shields.io/github/stars/mifi/lossless-cut?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mifi/lossless-cut' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mifi/lossless-cut' alt='License'/>
@@ -10477,6 +10739,7 @@ You can see in which language an app is written. Currently there are following l
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://mpv.io](https://mpv.io)
 
   **Badges:** <a href='https://github.com/mpv-player/mpv/releases/latest'><img src='https://img.shields.io/github/v/release/mpv-player/mpv?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mpv-player/mpv'><img src='https://img.shields.io/github/stars/mpv-player/mpv?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mpv-player/mpv' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mpv-player/mpv' alt='License'/>
@@ -10499,6 +10762,7 @@ You can see in which language an app is written. Currently there are following l
 - [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://apps.apple.com/app/quick-caption/id1363610340](https://apps.apple.com/app/quick-caption/id1363610340)
 
   **Badges:** <a href='https://apps.apple.com/app/quick-caption/id1363610340'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/Caption/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/Caption?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/Caption'><img src='https://img.shields.io/github/stars/LumingYin/Caption?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/Caption' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/Caption' alt='License'/>
@@ -10521,6 +10785,7 @@ You can see in which language an app is written. Currently there are following l
 - [Subler](https://bitbucket.org/galad87/subler/src) - Subler is an macOS app created to mux and tag mp4 files. 
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
   **Website:** [https://subler.org](https://subler.org)
 
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. 
@@ -10532,6 +10797,7 @@ You can see in which language an app is written. Currently there are following l
 - [VLC](https://github.com/videolan/vlc) -  VLC is a free and open source cross-platform multimedia player
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
   **Website:** [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
 
   **Badges:** <a href='https://github.com/videolan/vlc/releases/latest'><img src='https://img.shields.io/github/v/release/videolan/vlc?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/videolan/vlc'><img src='https://img.shields.io/github/stars/videolan/vlc?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/videolan/vlc' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/videolan/vlc' alt='License'/>
@@ -10641,6 +10907,7 @@ You can see in which language an app is written. Currently there are following l
 - [Equinox](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://equinoxmac.com](https://equinoxmac.com)
 
   **Badges:** <a href='https://github.com/rlxone/Equinox/releases/latest'><img src='https://img.shields.io/github/v/release/rlxone/Equinox?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/rlxone/Equinox'><img src='https://img.shields.io/github/stars/rlxone/Equinox?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/rlxone/Equinox' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/rlxone/Equinox' alt='License'/>
@@ -10663,6 +10930,7 @@ You can see in which language an app is written. Currently there are following l
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://sindresorhus.com/plash](https://sindresorhus.com/plash)
 
   **Badges:** <a href='https://github.com/sindresorhus/Plash/releases/latest'><img src='https://img.shields.io/github/v/release/sindresorhus/Plash?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sindresorhus/Plash'><img src='https://img.shields.io/github/stars/sindresorhus/Plash?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/sindresorhus/Plash' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/sindresorhus/Plash' alt='License'/>
@@ -10725,6 +10993,7 @@ You can see in which language an app is written. Currently there are following l
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
+
   **Website:** [https://alt-tab-macos.netlify.app/](https://alt-tab-macos.netlify.app/)
 
   **Badges:** <a href='https://github.com/lwouis/alt-tab-macos/releases/latest'><img src='https://img.shields.io/github/v/release/lwouis/alt-tab-macos?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/lwouis/alt-tab-macos'><img src='https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/lwouis/alt-tab-macos' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/lwouis/alt-tab-macos' alt='License'/>
@@ -10745,6 +11014,7 @@ You can see in which language an app is written. Currently there are following l
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://alt-tab-macos.netlify.app/](https://alt-tab-macos.netlify.app/)
 
   **Badges:** <a href='https://github.com/lwouis/alt-tab-macos/releases/latest'><img src='https://img.shields.io/github/v/release/lwouis/alt-tab-macos?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/lwouis/alt-tab-macos'><img src='https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/lwouis/alt-tab-macos' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/lwouis/alt-tab-macos' alt='License'/>
@@ -10814,6 +11084,7 @@ You can see in which language an app is written. Currently there are following l
 - [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
 
   **Badges:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/xicheng148/Dockit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
@@ -10836,6 +11107,7 @@ You can see in which language an app is written. Currently there are following l
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
   **Badges:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jordanbaird/Ice' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
@@ -10884,6 +11156,7 @@ You can see in which language an app is written. Currently there are following l
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
   **Website:** [https://rectangleapp.com](https://rectangleapp.com)
 
   **Badges:** <a href='https://github.com/rxhanson/Rectangle/releases/latest'><img src='https://img.shields.io/github/v/release/rxhanson/Rectangle?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/rxhanson/Rectangle'><img src='https://img.shields.io/github/stars/rxhanson/Rectangle?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/rxhanson/Rectangle' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/rxhanson/Rectangle' alt='License'/>
