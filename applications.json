@@ -166,6 +166,23 @@
             ]
         },
         {
+            "short_description": "Simple and elegant menubar weather app on the App Store.",
+            "categories": [
+                "menubar",
+            ],
+            "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
+            "title": "Quick Weather",
+            "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/Icon.iconset/main_icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png",
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png"
+            ],
+            "official_site": "https://ariessciences.com/highlight?product=quick-weather",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
