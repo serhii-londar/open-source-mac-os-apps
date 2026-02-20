@@ -7681,6 +7681,22 @@
             ]
         },
         {
+            "short_description": "Equinox is an application that allows you to create macOS dynamic wallpapers. ",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/rlxone/Equinox",
+            "title": "Equinox",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/rlxone/Equinox/blob/main/repo/screen1.jpg"
+            ],
+            "official_site": "https://equinoxmac.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. ",
             "categories": [
                 "wallpaper"
