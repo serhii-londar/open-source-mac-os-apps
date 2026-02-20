@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-685-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-686-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 685 |
+| 📱 Total Applications | 686 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 41 |
 
@@ -11427,7 +11427,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (111)
+### 🛠️ Utilities (112)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
@@ -12668,6 +12668,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sidneys/pb-for-desktop/master/resources/screenshots/screenshot-macos.png' width='400' loading='lazy'/>
 
   *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [PeaZip](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
+
+  **Badges:** <a href='https://github.com/peazip/PeaZip/releases/latest'><img src='https://img.shields.io/github/v/release/peazip/PeaZip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/peazip/PeaZip'><img src='https://img.shields.io/github/stars/peazip/PeaZip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/peazip/PeaZip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/peazip/PeaZip' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>pascal</code> 
+
+  **Website:** [https://peazip.github.io/](https://peazip.github.io/)
 
   </p>
   </details>
