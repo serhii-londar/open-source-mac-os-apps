@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-683-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-684-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 683 |
+| 📱 Total Applications | 684 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 302 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -13282,7 +13282,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="vpn--proxy"></a>
-### 🔐 VPN & Proxy (7)
+### 🔐 VPN & Proxy (8)
 - [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. 
 
   **Badges:** <a href='https://github.com/yichengchen/clashX/releases/latest'><img src='https://img.shields.io/github/v/release/yichengchen/clashX?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yichengchen/clashX'><img src='https://img.shields.io/github/stars/yichengchen/clashX?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/yichengchen/clashX' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/yichengchen/clashX' alt='License'/>
@@ -13382,6 +13382,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
   </p>
   </details>
