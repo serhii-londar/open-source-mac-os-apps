@@ -3503,6 +3503,20 @@
             ]
         },
         {
+            "short_description": "An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/SabakiHQ/Sabaki",
+            "title": "Sabaki",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "http://sabaki.yichuanshen.de",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Turn your screen into a playable level of Mario. ",
             "categories": [
                 "games"

@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-682-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-683-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 682 |
+| 📱 Total Applications | 683 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 302 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 302 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -5031,7 +5031,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="games"></a>
-### 🎮 Games (12)
+### 🎮 Games (13)
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
   <details>
@@ -5177,6 +5177,21 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://camo.githubusercontent.com/888d993a9716208446bd0d5a762977d6b7993058/68747470733a2f2f692e696d6775722e636f6d2f6537434b3553632e706e67' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/SabakiHQ/Sabaki/releases/latest'><img src='https://img.shields.io/github/v/release/SabakiHQ/Sabaki?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SabakiHQ/Sabaki'><img src='https://img.shields.io/github/stars/SabakiHQ/Sabaki?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SabakiHQ/Sabaki' alt='License'/>
+
+  **Website:** [http://sabaki.yichuanshen.de](http://sabaki.yichuanshen.de)
 
   </p>
   </details>
