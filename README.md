@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-665-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-666-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 665 |
+| 📱 Total Applications | 666 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 113 • C++: 57 • Typescript: 39 |
+| 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 39 |
 
 ## Languages
 
@@ -1864,7 +1864,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (12)
+### 👨‍💻 Development (13)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -1901,6 +1901,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://brackets.io/img/hero.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8311,7 +8332,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (70)
+### ⏱️ Productivity (71)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8391,6 +8412,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/cerebroapp/cerebro/releases/latest'><img src='https://img.shields.io/github/v/release/cerebroapp/cerebro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cerebroapp/cerebro'><img src='https://img.shields.io/github/stars/cerebroapp/cerebro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/cerebroapp/cerebro' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10655,7 +10697,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="terminal"></a>
-### 📺 Terminal (13)
+### 📺 Terminal (14)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   <details>
@@ -10695,6 +10737,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/jbtule/cdto/releases/latest'><img src='https://img.shields.io/github/v/release/jbtule/cdto?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jbtule/cdto'><img src='https://img.shields.io/github/stars/jbtule/cdto?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jbtule/cdto' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clipboard](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
