@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-687-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-688-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 687 |
+| 📱 Total Applications | 688 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 59 • Typescript: 41 |
 
@@ -7994,7 +7994,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="other"></a>
-### 📦 Other (24)
+### 📦 Other (25)
 - [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   **Badges:** <a href='https://github.com/betaflight/betaflight-configurator/releases/latest'><img src='https://img.shields.io/github/v/release/betaflight/betaflight-configurator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/betaflight/betaflight-configurator'><img src='https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/betaflight/betaflight-configurator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/betaflight/betaflight-configurator' alt='License'/>
@@ -8074,6 +8074,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  </p>
+  </details>
+
+- [Gramps](https://github.com/gramps-project/gramps) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
+
+  **Badges:** <a href='https://github.com/gramps-project/gramps/releases/latest'><img src='https://img.shields.io/github/v/release/gramps-project/gramps?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/gramps-project/gramps'><img src='https://img.shields.io/github/stars/gramps-project/gramps?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/gramps-project/gramps' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/gramps-project/gramps' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Website:** [https://gramps-project.org](https://gramps-project.org)
 
   </p>
   </details>
