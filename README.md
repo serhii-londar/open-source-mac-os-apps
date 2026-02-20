@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-681-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-682-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 681 |
+| 📱 Total Applications | 682 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 302 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
@@ -4808,7 +4808,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="finder"></a>
-### 🔍 Finder (12)
+### 🔍 Finder (13)
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
   <details>
@@ -4914,6 +4914,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/landingNoText.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/Mortennn/FiScript/master/Images/logo.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [muCommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+
+  **Links:** <a href='https://github.com/mucommander/mucommander/releases/latest'><img src='https://img.shields.io/github/v/release/mucommander/mucommander?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mucommander/mucommander'><img src='https://img.shields.io/github/stars/mucommander/mucommander?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/mucommander/mucommander' alt='License'/>
+
+  **Website:** [https://www.mucommander.com/](https://www.mucommander.com/)
 
   </p>
   </details>
