@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-661-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-662-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 661 |
+| 📱 Total Applications | 662 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 290 • Objective-C: 135 • Javascript: 112 • C++: 57 • Typescript: 38 |
+| 🔝 Top Languages | Swift: 291 • Objective-C: 135 • Javascript: 112 • C++: 57 • Typescript: 38 |
 
 ## Languages
 
@@ -6119,7 +6119,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (49)
+### 📊 Menubar (50)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6689,6 +6689,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/nikhilsh/PSIBar/releases/latest'><img src='https://img.shields.io/github/v/release/nikhilsh/PSIBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nikhilsh/PSIBar'><img src='https://img.shields.io/github/stars/nikhilsh/PSIBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/nikhilsh/PSIBar' alt='License'/>
+
+  </p>
+  </details>
+
+- [Quick Weather](https://github.com/Aries-Sciences-LLC/Quick-Weather) - Simple and elegant menubar weather app on the App Store.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Quick-Weather?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Quick-Weather' alt='License'/>
+
+  **Website:** [https://ariessciences.com/highlight?product=quick-weather](https://ariessciences.com/highlight?product=quick-weather)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
