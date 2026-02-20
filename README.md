@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-659-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-660-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 659 |
+| 📱 Total Applications | 660 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 289 • Objective-C: 134 • Javascript: 112 • C++: 57 • Typescript: 37 |
+| 🔝 Top Languages | Swift: 289 • Objective-C: 134 • Javascript: 112 • C++: 57 • Typescript: 38 |
 
 ## Languages
 
@@ -127,7 +127,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 <a id="audio"></a>
-### 🎵 Audio (37)
+### 🎵 Audio (38)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   <details>
@@ -616,6 +616,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/wulkano/Plug/1ae6383ad9ad7026ce6fad4f1ea7ce3356c1f722/Media/screenshot.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Pulp](https://github.com/bazalp/pulp) - Audio Sample manager.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/bazalp/pulp/releases/latest'><img src='https://img.shields.io/github/v/release/bazalp/pulp?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bazalp/pulp'><img src='https://img.shields.io/github/stars/bazalp/pulp?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/bazalp/pulp' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy'/>
 
   </p>
   </details>
