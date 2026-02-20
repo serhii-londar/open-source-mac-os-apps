@@ -10075,6 +10075,23 @@
                 "python"
             ]
         },
+	      {
+            "short_description": "Smotrite is a system monitor for macOS, which just work.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Lukentui/smotrite-app",
+            "title": "Smotrite",
+            "icon_url": "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/icons/512x512x32.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/1.png",
+                "https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
+        },
         {
             "short_description": "App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.",
             "categories": [
