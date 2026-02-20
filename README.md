@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-664-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-665-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 664 |
+| 📱 Total Applications | 665 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 113 • C++: 57 • Typescript: 39 |
 
@@ -127,7 +127,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 <a id="audio"></a>
-### 🎵 Audio (38)
+### 🎵 Audio (39)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   <details>
@@ -746,6 +746,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/will-stone/SpotSpot/releases/latest'><img src='https://img.shields.io/github/v/release/will-stone/SpotSpot?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/will-stone/SpotSpot'><img src='https://img.shields.io/github/stars/will-stone/SpotSpot?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/will-stone/SpotSpot' alt='License'/>
+
+  </p>
+  </details>
+
+- [StargateDAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png' width='400' loading='lazy'/>
+
+  *(3 more screenshots available in the repository)*
 
   </p>
   </details>
@@ -7000,7 +7023,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="music"></a>
-### 🎧 Music (15)
+### 🎧 Music (16)
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. 
 
   <details>
@@ -7233,6 +7256,29 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://asciinema.org/a/ejbbvaa8833wq4xn4d2xuc9jx.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [StargateDAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png' width='400' loading='lazy'/>
+
+  *(3 more screenshots available in the repository)*
 
   </p>
   </details>
