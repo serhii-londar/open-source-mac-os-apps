@@ -10020,6 +10020,24 @@
             ]
         },
         {
+            "short_description": "Clendar is an universal calendar app. Written in SwiftUI.",
+            "categories": [
+                "ios--macos",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/vinhnx/Clendar",
+            "title": "Clendar",
+            "icon_url": "https://camo.githubusercontent.com/c63c8927ca2496caf5952a76c4d6989f388a583bc4225d05fd5aa4b7e4dfbf29/68747470733a2f2f6973332d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653132342f76342f30662f34642f33312f30663464333138352d636633372d633938352d343633312d6135623134623732646261302f41707049636f6e2d302d31785f55303037656d61726b6574696e672d302d31302d302d38352d3232302e706e672f3233307830772e77656270",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/1097578/143703321-bb867392-e0c5-4f67-93a0-e299164b0acf.png",
+                "https://user-images.githubusercontent.com/1097578/143700120-e377dc4c-51c0-4089-9295-b5cd4da95f41.png"
+            ],
+            "official_site": "https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041",
+  "languages": [
+                "swift"
+            ]
+        },
+      {
             "short_description": "Beautiful calculator app for macOS",
             "categories": [
                 "utilities",
