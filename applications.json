@@ -183,6 +183,23 @@
             ]
         },
         {
+            "short_description": "Allows users to easily host their local images to the internet through multiple services and available on App Store.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader",
+            "title": "Easy Share Uploader",
+            "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/App%20Icon/App%20Icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png",
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png"
+            ],
+            "official_site": "https://ariessciences.com/highlight?product=easy-share-uploader",
+            "languages": [
+                "objective_c"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
