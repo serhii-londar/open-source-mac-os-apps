@@ -10375,6 +10375,25 @@
             ]
         },
         {
+            "short_description": "Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sane-apps/SaneSales",
+            "title": "SaneSales",
+            "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneSales/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png",
+                "https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png",
+                "https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png"
+            ],
+            "official_site": "https://sanesales.com",
+            "languages": [
+                "swift"
+            ]
+          },
+          {
             "short_description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
             "categories": [
                 "finder",
