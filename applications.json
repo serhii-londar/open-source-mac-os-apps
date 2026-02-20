@@ -10168,6 +10168,29 @@
             ]
         },
         {
+            "short_description": "An all-in-one digital audio workstation (DAW) and plugin suite",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/stargatedaw/stargate",
+            "title": "StargateDAW",
+            "icon_url": "https://avatars.githubusercontent.com/u/93949110?s=200&v=4",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png",
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png",
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png",
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/routing.png",
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/sequencer.png",
+                "https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/va1.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "c",
+                "python"
+            ]
+        },
+      {
         "short_description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
         "categories": [
             "notes",
