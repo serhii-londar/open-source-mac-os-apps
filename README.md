@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-676-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-677-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 676 |
+| 📱 Total Applications | 677 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 297 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 298 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -6313,7 +6313,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (50)
+### 📊 Menubar (51)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6798,6 +6798,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/insidegui/NoiseBuddy/releases/latest'><img src='https://img.shields.io/github/v/release/insidegui/NoiseBuddy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/insidegui/NoiseBuddy'><img src='https://img.shields.io/github/stars/insidegui/NoiseBuddy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/insidegui/NoiseBuddy' alt='License'/>
+
+  </p>
+  </details>
+
+- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
+
+  **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
+
+  **Screenshots:**
+
+  <img src='https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11283,7 +11302,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (108)
+### 🛠️ Utilities (109)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -12424,6 +12443,25 @@ You can see in which language an app is written. Currently there are following l
   **Links:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
 
   **Website:** [https://omniprompt.app/](https://omniprompt.app/)
+
+  </p>
+  </details>
+
+- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
+
+  **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
+
+  **Screenshots:**
+
+  <img src='https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png' width='400' loading='lazy'/>
 
   </p>
   </details>
