@@ -10334,6 +10334,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sane-apps/SaneBar",
+            "title": "SaneBar",
+            "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneBar/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png",
+                "https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png"
+            ],
+            "official_site": "https://sanebar.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
