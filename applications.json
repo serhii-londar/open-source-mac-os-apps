@@ -10020,6 +10020,24 @@
             ]
         },
         {
+
+            "short_description": "App icon assets generator written in SwiftUI",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Mas0nSun/Slime",
+            "title": "Slime",
+            "icon_url": "https://user-images.githubusercontent.com/20198012/142772870-e2106600-e49f-4498-bd26-b635ceb1c671.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/20198012/143677189-c13cc444-5e2c-4342-9e22-27a7bff64915.png"
+            ],
+            "official_site": "",
+            "languages": [
+              "swift"
+            ]
+        },
+      {
             "short_description": "Clendar is an universal calendar app. Written in SwiftUI.",
             "categories": [
                 "ios--macos",
