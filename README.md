@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-686-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-687-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 686 |
+| 📱 Total Applications | 687 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -3695,7 +3695,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="downloader"></a>
-### ⬇️ Downloader (9)
+### ⬇️ Downloader (10)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
   **Badges:** <a href='https://github.com/yep/app-downloader/releases/latest'><img src='https://img.shields.io/github/v/release/yep/app-downloader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yep/app-downloader'><img src='https://img.shields.io/github/stars/yep/app-downloader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/yep/app-downloader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/yep/app-downloader' alt='License'/>
@@ -3764,6 +3764,19 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
 
   **Website:** [https://subhra74.github.io/xdm/](https://subhra74.github.io/xdm/)
+
+  </p>
+  </details>
+
+- [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>c++</code> 
+
+  **Website:** [https://filezilla-project.org](https://filezilla-project.org)
 
   </p>
   </details>
@@ -10353,7 +10366,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="sharing-files"></a>
-### 📤 Sharing Files (10)
+### 📤 Sharing Files (11)
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   **Badges:** <a href='https://github.com/iterate-ch/cyberduck/releases/latest'><img src='https://img.shields.io/github/v/release/iterate-ch/cyberduck?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/iterate-ch/cyberduck'><img src='https://img.shields.io/github/stars/iterate-ch/cyberduck?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/iterate-ch/cyberduck' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/iterate-ch/cyberduck' alt='License'/>
@@ -10405,6 +10418,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>c++</code> 
+
+  **Website:** [https://filezilla-project.org](https://filezilla-project.org)
 
   </p>
   </details>
