@@ -3872,6 +3872,21 @@
             ]
         },
         {
+            "short_description": "Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/eclipse-platform/eclipse.platform",
+            "title": "Eclipse",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.eclipse.org",
+            "languages": [
+                "java"
+            ]
+        },
+        {
             "short_description": "macOS app which assembles and disassembles animated png files. ",
             "categories": [
                 "images"
