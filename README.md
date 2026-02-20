@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-672-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-673-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 672 |
+| 📱 Total Applications | 673 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 295 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 296 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -1141,7 +1141,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="chat"></a>
-### 💬 Chat (19)
+### 💬 Chat (20)
 - [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
   <details>
@@ -1332,6 +1332,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/signalapp/Signal-Desktop/releases/latest'><img src='https://img.shields.io/github/v/release/signalapp/Signal-Desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/signalapp/Signal-Desktop'><img src='https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/signalapp/Signal-Desktop' alt='License'/>
+
+  </p>
+  </details>
+
+- [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/SwiftcordApp/Swiftcord/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftcordApp/Swiftcord?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SwiftcordApp/Swiftcord'><img src='https://img.shields.io/github/stars/SwiftcordApp/Swiftcord?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SwiftcordApp/Swiftcord' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/SwiftcordApp/Swiftcord/blob/main/README_Resources/heroScreenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
