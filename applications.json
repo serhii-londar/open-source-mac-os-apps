@@ -10334,6 +10334,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "security"
+            ],
+            "repo_url": "https://github.com/sane-apps/SaneClip",
+            "title": "SaneClip",
+            "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneClip/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png",
+                "https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png"
+            ],
+            "official_site": "https://saneclip.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
