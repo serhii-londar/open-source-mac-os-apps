@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-678-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-679-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 678 |
+| 📱 Total Applications | 679 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 299 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 300 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -2931,7 +2931,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ios--macos"></a>
-#### 📱 iOS / macOS (43)
+#### 📱 iOS / macOS (44)
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. 
 
   <details>
@@ -3129,6 +3129,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/waylybaye/XcodeCleaner/releases/latest'><img src='https://img.shields.io/github/v/release/waylybaye/XcodeCleaner?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/waylybaye/XcodeCleaner'><img src='https://img.shields.io/github/stars/waylybaye/XcodeCleaner?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/waylybaye/XcodeCleaner' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clendar](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
+
+  **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
+
+  **Screenshots:**
+
+  <img src='https://user-images.githubusercontent.com/1097578/143703321-bb867392-e0c5-4f67-93a0-e299164b0acf.png' width='400' loading='lazy'/>
+
+  <img src='https://user-images.githubusercontent.com/1097578/143700120-e377dc4c-51c0-4089-9295-b5cd4da95f41.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8520,7 +8541,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (75)
+### ⏱️ Productivity (76)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8642,6 +8663,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/cerebroapp/cerebro/releases/latest'><img src='https://img.shields.io/github/v/release/cerebroapp/cerebro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cerebroapp/cerebro'><img src='https://img.shields.io/github/stars/cerebroapp/cerebro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/cerebroapp/cerebro' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clendar](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
+
+  **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
+
+  **Screenshots:**
+
+  <img src='https://user-images.githubusercontent.com/1097578/143703321-bb867392-e0c5-4f67-93a0-e299164b0acf.png' width='400' loading='lazy'/>
+
+  <img src='https://user-images.githubusercontent.com/1097578/143700120-e377dc4c-51c0-4089-9295-b5cd4da95f41.png' width='400' loading='lazy'/>
 
   </p>
   </details>
