@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-654-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-655-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 654 |
+| 📱 Total Applications | 655 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
@@ -3664,7 +3664,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="editors"></a>
-### 📝 Editors (6)
+### 📝 Editors (7)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -3781,6 +3781,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
 
   *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+
+  **Website:** [https://zed.dev](https://zed.dev)
+
+  **Screenshots:**
+
+  <img src='' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -5234,7 +5253,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ide"></a>
-### 💻 IDE (12)
+### 💻 IDE (13)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -5430,6 +5449,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+
+  **Website:** [https://zed.dev](https://zed.dev)
+
+  **Screenshots:**
+
+  <img src='' width='400' loading='lazy'/>
 
   </p>
   </details>
