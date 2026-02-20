@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-679-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-680-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 679 |
+| 📱 Total Applications | 680 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 300 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 301 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -8541,7 +8541,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (76)
+### ⏱️ Productivity (77)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -9460,6 +9460,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Screens/Registrazione%20schermo%202019-11-26%20alle%2001.14.21.mov' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Slime](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Mas0nSun/Slime/releases/latest'><img src='https://img.shields.io/github/v/release/Mas0nSun/Slime?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Mas0nSun/Slime'><img src='https://img.shields.io/github/stars/Mas0nSun/Slime?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Mas0nSun/Slime' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://user-images.githubusercontent.com/20198012/143677189-c13cc444-5e2c-4342-9e22-27a7bff64915.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11344,7 +11361,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (109)
+### 🛠️ Utilities (110)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -12864,6 +12881,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://screenpi.pe/og-image.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Slime](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Mas0nSun/Slime/releases/latest'><img src='https://img.shields.io/github/v/release/Mas0nSun/Slime?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Mas0nSun/Slime'><img src='https://img.shields.io/github/stars/Mas0nSun/Slime?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Mas0nSun/Slime' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://user-images.githubusercontent.com/20198012/143677189-c13cc444-5e2c-4342-9e22-27a7bff64915.png' width='400' loading='lazy'/>
 
   </p>
   </details>
