@@ -11066,6 +11066,21 @@
             "languages": [
                 "python"
             ]
+        },
+	{
+            "title": "DevKit",
+            "short_description": "Developer toolkit in your menu bar with JSON formatter, Base64 encoder, URL encoder, UUID generator, hash calculator, regex tester, timestamp converter, and color converter.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/corvid-agent/DevKit",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/corvid-agent/DevKit",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
