@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-687-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-688-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 687 |
+| 📱 Total Applications | 688 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
 
@@ -1894,7 +1894,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (15)
+### 👨‍💻 Development (16)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -1990,6 +1990,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+
+  **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+
+  **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   </p>
   </details>
@@ -5553,7 +5568,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ide"></a>
-### 💻 IDE (13)
+### 💻 IDE (14)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -5628,6 +5643,21 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+
+  **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+
+  **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   </p>
   </details>
