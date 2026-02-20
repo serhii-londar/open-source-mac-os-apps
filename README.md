@@ -5592,25 +5592,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Atom](https://github.com/atom/atom) - The hackable text editor. 
-
-  **Badges:** <a href='https://github.com/atom/atom/releases/latest'><img src='https://img.shields.io/github/v/release/atom/atom?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/atom/atom'><img src='https://img.shields.io/github/stars/atom/atom?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/atom/atom' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/atom/atom' alt='License'/>
-
-  <details>
-  <summary>More</summary>
-  <p>
-
-  **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
-
-  **Screenshots:**
-
-  <img src='https://user-images.githubusercontent.com/378023/49132477-f4b77680-f31f-11e8-8357-ac6491761c6c.png' width='400' loading='lazy'/>
-
-  <img src='https://user-images.githubusercontent.com/378023/49132478-f4b77680-f31f-11e8-9e10-e8454d8d9b7e.png' width='400' loading='lazy'/>
-
-  </p>
-  </details>
-
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
