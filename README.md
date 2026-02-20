@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-666-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-667-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 666 |
+| 📱 Total Applications | 667 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 291 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 39 |
+| 🔝 Top Languages | Swift: 292 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 39 |
 
 ## Languages
 
@@ -8332,7 +8332,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (71)
+### ⏱️ Productivity (72)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -9553,6 +9553,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='./icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
 
   **Links:** <a href='https://github.com/xournalpp/xournalpp/releases/latest'><img src='https://img.shields.io/github/v/release/xournalpp/xournalpp?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/xournalpp/xournalpp/'><img src='https://img.shields.io/github/stars/xournalpp/xournalpp?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/xournalpp/xournalpp' alt='License'/>
+
+  </p>
+  </details>
+
+- [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/mattDavo/Yippy/releases/latest'><img src='https://img.shields.io/github/v/release/mattDavo/Yippy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mattDavo/Yippy'><img src='https://img.shields.io/github/stars/mattDavo/Yippy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/mattDavo/Yippy' alt='License'/>
+
+  **Website:** [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/mattDavo/Yippy/raw/master/images/screenshot.jpg' width='400' loading='lazy'/>
 
   </p>
   </details>
