@@ -3677,6 +3677,23 @@
                 "c++"
             ]
         },
+	            {
+            "short_description": "Zed is an open source, high-performance, and multiplayer code editor",
+            "categories": [
+                "ide",
+                "editors"
+            ],
+            "repo_url": "https://github.com/zed-industries/zed",
+            "title": "Zed",
+            "icon_url": "https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_square_36_white.1fd89961.png&w=48&q=75",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "https://zed.dev",
+            "languages": [
+                "rust"
+            ]
+        },
         {
             "short_description": "ubiquitous text editor",
             "categories": [
