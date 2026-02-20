@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-674-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-675-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 674 |
+| 📱 Total Applications | 675 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 297 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 297 • Objective-C: 137 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -4250,7 +4250,26 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="tex"></a>
-#### 📐 TeX (1)
+#### 📐 TeX (2)
+- [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
+
+  **Screenshots:**
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Publication.png' width='400' loading='lazy'/>
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Main-Window.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. 
 
   <details>
@@ -7548,7 +7567,26 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="notes"></a>
-### 📔 Notes (18)
+### 📔 Notes (19)
+- [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
+
+  **Screenshots:**
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Publication.png' width='400' loading='lazy'/>
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Main-Window.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. 
 
   <details>
@@ -8444,7 +8482,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (73)
+### ⏱️ Productivity (74)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8477,6 +8515,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
 
   <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
+
+  **Screenshots:**
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Publication.png' width='400' loading='lazy'/>
+
+  <img src='https://bibdesk.sourceforge.io/screenshots/Main-Window.png' width='400' loading='lazy'/>
 
   </p>
   </details>
