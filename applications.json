@@ -7153,7 +7153,8 @@
             "languages": [
                 "cpp"
             ]
-         }, {
+         },
+         {
             "short_description": "Node Version Manager. ",
             "categories": [
                 "utilities"
