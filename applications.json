@@ -11066,6 +11066,21 @@
             "languages": [
                 "python"
             ]
+        },
+	{
+            "title": "Resolve",
+            "short_description": "DNS lookup and network diagnostics tool in your menu bar. Forward/reverse DNS, MX/NS/CNAME records, and network info.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/corvid-agent/Resolve",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/corvid-agent/Resolve",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
