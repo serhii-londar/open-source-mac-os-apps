@@ -11056,6 +11056,20 @@
             "languages": [
                 "c++"
             ]
+        },
+        {
+            "title": "Gramps",
+            "short_description": "A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.",
+            "categories": [
+                "other"
+            ],
+            "repo_url": "https://github.com/gramps-project/gramps",
+            "icon_url": "https://raw.githubusercontent.com/gramps-project/gramps/maintenance/gramps60/images/gramps.png",
+            "screenshots": [],
+            "official_site": "https://gramps-project.org",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
