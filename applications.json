@@ -42,7 +42,7 @@
             "short_description": "An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.",
             "categories": [
                 "productivity",
-                "utilities",
+                "utilities"
             ],
             "repo_url": "https://github.com/nomandhoni-cs/blink-eye",
             "title": "Blink Eye",
@@ -10002,7 +10002,7 @@
             "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png",
             "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png",
             "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/dark_mode.png",
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png",
+            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png"
           ],
           "official_site": "https://readest.com",
           "languages": [
@@ -10448,7 +10448,7 @@
             "title": "Loop",
             "icon_url": "https://github.com/MrKai77/Loop/raw/develop/assets/graphics/Classic.png",
             "screenshots": [
-                "https://github.com/MrKai77/Loop/raw/develop/assets/graphics/loop_demo.gif",
+                "https://github.com/MrKai77/Loop/raw/develop/assets/graphics/loop_demo.gif"
             ],
             "official_site": "",
             "languages": [
