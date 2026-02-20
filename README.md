@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-668-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-669-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 668 |
+| 📱 Total Applications | 669 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 292 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 293 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -1864,7 +1864,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (13)
+### 👨‍💻 Development (14)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -1998,6 +1998,27 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [JustTags](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/kaphacius/just-tags/releases/latest'><img src='https://img.shields.io/github/v/release/kaphacius/just-tags?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/kaphacius/just-tags'><img src='https://img.shields.io/github/stars/kaphacius/just-tags?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/kaphacius/just-tags' alt='License'/>
+
+  **Website:** [https://kaphacius.github.io/just-tags/](https://kaphacius.github.io/just-tags/)
+
+  **Screenshots:**
+
+  <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/02_view.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/04_diff.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
