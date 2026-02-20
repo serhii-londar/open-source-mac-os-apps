@@ -10375,6 +10375,23 @@
             ]
         },
         {
+            "short_description": "System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sane-apps/SaneHosts",
+            "title": "SaneHosts",
+            "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneHosts/main/SaneHosts/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sane-apps/SaneHosts/main/website/screenshot.png"
+            ],
+            "official_site": "https://sanehosts.com",
+            "languages": [
+                "swift"
+            ]
+          },
+          {
             "short_description": "Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.",
             "categories": [
                 "productivity",
