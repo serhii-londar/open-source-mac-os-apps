@@ -9726,6 +9726,26 @@
             ]
         },
         {
+            "title": "M-Courtyard",
+            "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Mcourtyard/m-courtyard",
+            "icon_url": "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/app/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png"
+            ],
+            "official_site": "https://github.com/Mcourtyard/m-courtyard",
+            "languages": [
+                "typescript",
+                "rust",
+                "python"
+            ]
+        },
+        {
             "short_description": "Simple SQL Client for lightweight data analysis.",
             "categories": [
                 "database"
@@ -10336,7 +10356,6 @@
             ]
         },
         {
-<<<<<<< add-saneclick
             "short_description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
             "categories": [
                 "finder",
@@ -10349,7 +10368,11 @@
                 "https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png"
             ],
             "official_site": "https://saneclick.com",
-=======
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
             "categories": [
                 "menubar",
@@ -10363,7 +10386,6 @@
                 "https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png"
             ],
             "official_site": "https://sanebar.com",
->>>>>>> master
             "languages": [
                 "swift"
             ]
