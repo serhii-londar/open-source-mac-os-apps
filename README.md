@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-671-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-672-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 671 |
+| 📱 Total Applications | 672 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 294 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 295 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -3619,7 +3619,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="downloader"></a>
-### ⬇️ Downloader (8)
+### ⬇️ Downloader (9)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
   <details>
@@ -3629,6 +3629,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/yep/app-downloader/releases/latest'><img src='https://img.shields.io/github/v/release/yep/app-downloader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yep/app-downloader'><img src='https://img.shields.io/github/stars/yep/app-downloader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/yep/app-downloader' alt='License'/>
+
+  </p>
+  </details>
+
+- [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8366,7 +8389,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (72)
+### ⏱️ Productivity (73)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8376,6 +8399,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
+
+  </p>
+  </details>
+
+- [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11087,7 +11133,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (105)
+### 🛠️ Utilities (106)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11107,6 +11153,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/installapk.gif' width='400' loading='lazy'/>
 
   *(2 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
