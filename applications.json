@@ -11066,6 +11066,21 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "Ports",
+            "short_description": "macOS menu bar port viewer and manager.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/CorvidLabs/Ports",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/CorvidLabs/Ports",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
