@@ -5557,6 +5557,22 @@
             ]
         },
         {
+            "short_description": "macOS open source clipboard manager",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mattDavo/Yippy",
+            "title": "Yippy",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/mattDavo/Yippy/raw/master/images/screenshot.jpg"
+            ],
+            "official_site": "https://yippy.mattdavo.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS app for organizing files or removing unnecessary files. ",
             "categories": [
                 "productivity"
