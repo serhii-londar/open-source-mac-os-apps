@@ -11041,6 +11041,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FileZilla",
+            "short_description": "Free open-source FTP, FTPS, and SFTP client.",
+            "categories": [
+                "sharing-files",
+                "downloader"
+            ],
+            "repo_url": "https://github.com/filezilla-project/filezilla",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://filezilla-project.org",
+            "languages": [
+                "c++"
+            ]
         }
     ]
 }
