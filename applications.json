@@ -10289,6 +10289,23 @@
                 "python"
             ]
         },
+        {
+            "short_description": "JustTags in a macOS app for working with BERTLV EMV tags.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/kaphacius/just-tags",
+            "title": "JustTags",
+            "icon_url": "https://github.com/kaphacius/just-tags/raw/main/JustTags/Assets.xcassets/AppIcon.appiconset/icon_512_256x2.png?raw=true",
+            "screenshots": [
+                "https://github.com/kaphacius/just-tags/raw/main/Screenshots/02_view.png?raw=true",
+                "https://github.com/kaphacius/just-tags/raw/main/Screenshots/04_diff.png?raw=true"
+            ],
+            "official_site": "https://kaphacius.github.io/just-tags/",
+            "languages": [
+                "swift"
+            ]
+        },
 	      {
             "short_description": "Smotrite is a system monitor for macOS, which just work.",
             "categories": [
