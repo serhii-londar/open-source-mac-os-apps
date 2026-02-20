@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-670-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-671-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 670 |
+| 📱 Total Applications | 671 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 294 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
@@ -854,7 +854,20 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="backup"></a>
-### 💾 Backup (5)
+### 💾 Backup (6)
+- [backy](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+
+  **Links:** <a href='https://github.com/vdbsh/backy/releases/latest'><img src='https://img.shields.io/github/v/release/vdbsh/backy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vdbsh/backy'><img src='https://img.shields.io/github/stars/vdbsh/backy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/vdbsh/backy' alt='License'/>
+
+  </p>
+  </details>
+
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups
 
   <details>
