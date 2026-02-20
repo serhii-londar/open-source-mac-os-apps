@@ -2968,15 +2968,15 @@
             ]
         },
         {
-            "short_description": "simple CSV editor for the macOS. ",
+            "short_description": "A simple CSV editor for macOS.",
             "categories": [
                 "csv"
             ],
             "repo_url": "https://github.com/jakob/TableTool",
             "title": "TableTool",
-            "icon_url": "",
+            "icon_url": "https://github.com/jakob/TableTool/raw/master/Table%20Tool/Images.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://apps.apple.com/app/table-tool/id1122008420",
             "languages": [
                 "objective_c"
             ]
