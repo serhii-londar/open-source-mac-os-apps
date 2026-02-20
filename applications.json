@@ -5122,6 +5122,22 @@
             ]
         },
         {
+            "short_description": "Simple commands shortcut menu for macOS. ",
+            "categories": [
+                "other"
+            ],
+            "repo_url": "https://github.com/s00d/switchshuttle",
+            "title": "SwitchShuttle",
+            "icon_url": "https://github.com/s00d/switchshuttle/blob/main/icons/128x128.png?raw=true",
+            "screenshots": [
+                "https://github.com/s00d/switchshuttle/raw/main/icons/intro.gif?raw=true"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "Convenient logging during development & release in Swift. ",
             "categories": [
                 "other"
