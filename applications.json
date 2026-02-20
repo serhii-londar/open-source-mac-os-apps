@@ -10336,6 +10336,20 @@
             ]
         },
         {
+<<<<<<< add-saneclick
+            "short_description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sane-apps/SaneClick",
+            "title": "SaneClick",
+            "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneClick/main/SaneClick/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png"
+            ],
+            "official_site": "https://saneclick.com",
+=======
             "short_description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
             "categories": [
                 "menubar",
@@ -10349,6 +10363,7 @@
                 "https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png"
             ],
             "official_site": "https://sanebar.com",
+>>>>>>> master
             "languages": [
                 "swift"
             ]
