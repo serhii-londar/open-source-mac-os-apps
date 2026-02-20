@@ -46,7 +46,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 |--------|-------|
 | 📱 Total Applications | 655 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • Typescript: 36 |
 
 ## Languages
 
