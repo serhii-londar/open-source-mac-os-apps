@@ -11066,6 +11066,21 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "Netwatch",
+            "short_description": "macOS menu bar network traffic monitor.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/corvid-agent/Netwatch",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/corvid-agent/Netwatch",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
