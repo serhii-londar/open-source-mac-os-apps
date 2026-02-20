@@ -477,10 +477,14 @@ extension JSONApplication {
             let releasesURL = "https://github.com/\(owner)/\(repo)/releases/latest"
             let releaseBadge = "<a href='\(releasesURL)'><img src='https://img.shields.io/github/v/release/\(owner)/\(repo)?display_name=tag&sort=semver' alt='Latest Release'/></a>"
             badges.append(releaseBadge)
-            // Stars and license badges as additional improvements
+            // Stars badge
             let starsBadge = "<a href='\(self.repoURL)'><img src='https://img.shields.io/github/stars/\(owner)/\(repo)?style=social' alt='GitHub stars'/></a>"
-            let licenseBadge = "<img src='https://img.shields.io/github/license/\(owner)/\(repo)' alt='License'/>"
             badges.append(starsBadge)
+            // Last commit badge (automatic indicator of project activity/maintenance)
+            let lastCommitBadge = "<img src='https://img.shields.io/github/last-commit/\(owner)/\(repo)' alt='Last commit'/>"
+            badges.append(lastCommitBadge)
+            // License badge
+            let licenseBadge = "<img src='https://img.shields.io/github/license/\(owner)/\(repo)' alt='License'/>"
             badges.append(licenseBadge)
         }
         // Homebrew availability badge if provided
