@@ -10997,6 +10997,20 @@
             "languages": [
                 "java"
             ]
+        },
+        {
+            "title": "WireGuard",
+            "short_description": "Fast, Modern, Secure VPN Tunnel.",
+            "categories": [
+                "vpn--proxy"
+            ],
+            "repo_url": "https://git.zx2c4.com/wireguard-apple/",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.wireguard.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
