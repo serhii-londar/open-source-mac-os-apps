@@ -1,6 +1,22 @@
 {
     "applications": [
 	{
+            "title": "ActivityWatch",
+            "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ActivityWatch/activitywatch",
+            "icon_url": "https://raw.githubusercontent.com/ActivityWatch/activitywatch/master/media/logo/logo.png",
+            "screenshots": [],
+            "official_site": "https://activitywatch.net",
+            "languages": [
+                "python",
+                "typescript"
+            ]
+        },
+	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
