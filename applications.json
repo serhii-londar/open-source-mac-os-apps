@@ -148,6 +148,24 @@
             ]
         },
         {
+            "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
+            "categories": [
+                "games",
+            ],
+            "repo_url": "https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe",
+            "title": "Amazing Tic Tac Toe",
+            "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/Icon.iconset/AppIcon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png",
+               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png"
+            ],
+            "official_site": "https://ariessciences.com/highlight?product=tic-tac-toe",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
+        },
+        {
           "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
           "categories": [
             "menubar"
