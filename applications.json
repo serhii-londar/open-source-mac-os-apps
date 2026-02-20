@@ -10058,6 +10058,21 @@
             "languages": [
                 "c"
             ]
+        },
+        {
+            "short_description": "Your ultimate GPT companion for seamless access on your Mac",
+            "repo_url": "https://github.com/nsmet/omniprompt-gpt-mac-app",
+            "title": "OmniPrompt",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://omniprompt.app/",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "languages": [
+                "swift"
+            ]
 		    },
 		    {
             "short_description": "gPodder is a simple, open source podcast client.",
