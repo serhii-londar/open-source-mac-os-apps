@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+            "title": "M-Courtyard",
+            "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Mcourtyard/m-courtyard",
+            "icon_url": "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/app/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png",
+                "https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png"
+            ],
+            "official_site": "https://github.com/Mcourtyard/m-courtyard",
+            "languages": [
+                "typescript",
+                "rust",
+                "python"
+            ]
+        },
+        {
             "short_description": "Three-finger trackpad gestures for middle-click and middle-drag.",
             "categories": [
                 "utilities"
@@ -17,40 +37,39 @@
             ]
         },
         {
-          "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
-          "categories": [
-            "menubar"
-          ],
-          "repo_url": "https://github.com/ThijmenDam/BarTranslate",
-          "title": "BarTranslate",
-          "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
-          "screenshots": [
-            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
-          ],
-          "official_site": "https://thijmendam.github.io/BarTranslate/",
-          "languages": [
-            "typescript"
-          ]
-        },   
-		{
-		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
-		  "categories": [
-		    "menubar",
-		    "utilities",
-		    "productivity"
-		  ],
-		  "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
-		  "title": "Bye-AppQuit",
-		  "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
-		  "screenshots": [
-		    "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
-			
-		  ],
-		  "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
-		  "languages": [
-		    "swift"
-		  ]
-		},
+            "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ThijmenDam/BarTranslate",
+            "title": "BarTranslate",
+            "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
+            "screenshots": [
+                "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
+            ],
+            "official_site": "https://thijmendam.github.io/BarTranslate/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
+            "title": "Bye-AppQuit",
+            "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
+            ],
+            "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
@@ -3980,20 +3999,20 @@
             ]
         },
         {
-          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
-          "categories": [
-              "menubar"
-          ],
-          "repo_url": "https://github.com/halo/LinkLiar",
-          "title": "LinkLiar",
-          "icon_url": "",
-          "screenshots": [
-              "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
-          ],
-          "official_site": "https://halo.github.io/LinkLiar/",
-          "languages": [
-              "swift"
-          ]
+            "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/halo/LinkLiar",
+            "title": "LinkLiar",
+            "icon_url": "",
+            "screenshots": [
+                "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
+            ],
+            "official_site": "https://halo.github.io/LinkLiar/",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "macOS menubar status indicator. ",
@@ -4653,7 +4672,7 @@
             "repo_url": "https://github.com/standardnotes/app",
             "title": "Standard Notes",
             "icon_url": "",
-            "screenshots": [    ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -6844,7 +6863,8 @@
             "languages": [
                 "cpp"
             ]
-         }, {
+        },
+        {
             "short_description": "Node Version Manager. ",
             "categories": [
                 "utilities"
@@ -8990,8 +9010,8 @@
             "title": "linked",
             "icon_url": "https://github.com/lostdesign/linked/blob/master/appIcon/icon.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
-               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+                "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+                "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
             ],
             "official_site": "https://uselinked.com",
             "languages": [
@@ -9335,7 +9355,7 @@
                 "c",
                 "cpp",
                 "python"
-             ]
+            ]
         },
         {
             "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
@@ -9387,8 +9407,8 @@
             "title": "DropPoint",
             "icon_url": "https://raw.githubusercontent.com/GameGodS3/DropPoint/main/static/media/pngLogo/droppoint%405x.png",
             "screenshots": [
-               "https://i.imgur.com/QkUPoOb.gif",
-               "https://i.imgur.com/WElktc0.gif"
+                "https://i.imgur.com/QkUPoOb.gif",
+                "https://i.imgur.com/WElktc0.gif"
             ],
             "official_site": "",
             "languages": [
@@ -9404,7 +9424,7 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecad.org/images/feature-03.jpg"
+                "https://www.freecad.org/images/feature-03.jpg"
             ],
             "official_site": "https://www.freecad.org/",
             "languages": [
@@ -9421,7 +9441,7 @@
             "title": "Inkscape",
             "icon_url": "",
             "screenshots": [
-               "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
+                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
             "official_site": "https://inkscape.org/",
             "languages": [
@@ -9437,7 +9457,7 @@
             "title": "IntelliJ IDEA Community Edition",
             "icon_url": "",
             "screenshots": [
-               "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
+                "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
             ],
             "official_site": "https://www.jetbrains.com/idea/",
             "languages": [
@@ -9532,7 +9552,7 @@
             "title": "Brackets",
             "icon_url": "https://brackets.io/img/brackets.svg",
             "screenshots": [
-               "https://brackets.io/img/hero.png"
+                "https://brackets.io/img/hero.png"
             ],
             "official_site": "https://brackets.io/",
             "languages": [
@@ -9549,7 +9569,7 @@
             "title": "Betaflight Configurator",
             "icon_url": "https://pbs.twimg.com/profile_images/1061367585436925957/HoDOKWlp_400x400.jpg",
             "screenshots": [
-               "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
+                "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
             ],
             "official_site": "https://betaflight.com/",
             "languages": [
@@ -9581,8 +9601,7 @@
             "repo_url": "https://github.com/gitahead/gitahead/",
             "title": "GitAhead",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "https://gitahead.github.io/gitahead.com/",
             "languages": [
                 "cpp",
@@ -9619,7 +9638,8 @@
                 "c",
                 "c++"
             ]
-         }, {
+        },
+        {
             "short_description": "zoxide is a smarter cd command for your terminal.",
             "categories": [
                 "finder",
@@ -9646,7 +9666,7 @@
             "title": "Widelands",
             "icon_url": "https://www.widelands.org/static/img/logo.png",
             "screenshots": [
-               "https://www.widelands.org/static/img/welcome.jpg"
+                "https://www.widelands.org/static/img/welcome.jpg"
             ],
             "official_site": "https://www.widelands.org",
             "languages": [
@@ -9673,29 +9693,29 @@
             ]
         },
         {
-          "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
-          "categories": [
-            "database"
-          ],
-          "repo_url": "https://github.com/dbgate/dbgate",
-          "title": "DbGate",
-          "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
-          "screenshots": [
-            "https://dbgate.org/assets/screenshots/datagrid.png",
-            "https://dbgate.org/assets/screenshots/query.png",
-            "https://dbgate.org/assets/screenshots/diagram.png",
-            "https://dbgate.org/assets/screenshots/redis.png",
-            "https://dbgate.org/assets/screenshots/export.png",
-            "https://dbgate.org/assets/screenshots/darkmode.png",
-            "https://dbgate.org/assets/screenshots/querydesigner.png",
-            "https://dbgate.org/assets/screenshots/mongosave.png",
-            "https://dbgate.org/assets/screenshots/dbcompare.png"
-          ],
-          "official_site": "https://dbgate.org",
-          "languages": [
-            "javascript",
-            "typescript"
-          ]
+            "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/dbgate/dbgate",
+            "title": "DbGate",
+            "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
+            "screenshots": [
+                "https://dbgate.org/assets/screenshots/datagrid.png",
+                "https://dbgate.org/assets/screenshots/query.png",
+                "https://dbgate.org/assets/screenshots/diagram.png",
+                "https://dbgate.org/assets/screenshots/redis.png",
+                "https://dbgate.org/assets/screenshots/export.png",
+                "https://dbgate.org/assets/screenshots/darkmode.png",
+                "https://dbgate.org/assets/screenshots/querydesigner.png",
+                "https://dbgate.org/assets/screenshots/mongosave.png",
+                "https://dbgate.org/assets/screenshots/dbcompare.png"
+            ],
+            "official_site": "https://dbgate.org",
+            "languages": [
+                "javascript",
+                "typescript"
+            ]
         },
         {
             "short_description": "A Hex Editor for Reverse Engineers.",
@@ -9712,7 +9732,7 @@
             "official_site": "https://imhex.werwolv.net/",
             "languages": [
                 "c++"
-             ]
+            ]
         },
         {
             "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
@@ -9728,7 +9748,6 @@
             "official_site": "https://www.minisim.app/",
             "languages": [
                 "swift"
-
             ]
         },
         {
@@ -9746,8 +9765,8 @@
             "languages": [
                 "c"
             ]
-		    },
-		    {
+        },
+        {
             "short_description": "gPodder is a simple, open source podcast client.",
             "categories": [
                 "podcast"
@@ -9756,7 +9775,7 @@
             "title": "gPodder",
             "icon_url": "https://raw.githubusercontent.com/gpodder/gpodder/master/share/icons/hicolor/64x64/apps/gpodder.png",
             "screenshots": [
-				        "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+                "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
             ],
             "official_site": "https://gpodder.github.io/",
             "languages": [
@@ -9780,30 +9799,30 @@
                 "swift"
             ]
         },
-	    {
+        {
             "short_description": "Simple and free working time recording.",
             "categories": [
                 "menubar",
-		        "productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/WINBIGFOX/timescribe",
             "title": "TimeScribe",
             "icon_url": "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
             "screenshots": [
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
             ],
             "official_site": "https://timescribe.app",
             "languages": [
                 "css",
-		        "javascript",
-		        "typescript"
+                "javascript",
+                "typescript"
             ]
         },
-	    {
+        {
             "short_description": "Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.",
             "categories": [
                 "utilities"
@@ -9838,6 +9857,5 @@
                 "swift"
             ]
         }
-
     ]
 }
