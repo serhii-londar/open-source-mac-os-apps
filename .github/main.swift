@@ -485,42 +485,39 @@ extension JSONApplication {
             let brewBadge = "<a href='\(brewURL)'><img src='https://img.shields.io/badge/Homebrew-available-ebb000?logo=homebrew&logoColor=white' alt='Homebrew cask'/></a>"
             badges.append(brewBadge)
         }
+        if !languages.isEmpty {
+            markdownDescription.append("\n\(indent)**Languages:** \(languages)\n")
+        }
+
+        if !self.officialSite.isEmpty {
+            markdownDescription.append("\(indent)**Website:** [\(self.officialSite)](\(self.officialSite))\n")
+        }
+
         if badges.isEmpty == false {
             markdownDescription.append("\n\(indent)**Badges:** \(badges.joined(separator: " &nbsp; "))\n")
         }
 
-        // Collapsible extra details (languages, screenshots) indented to belong to the list item
-        markdownDescription.append("\n" + indent + "<details>\n")
-        markdownDescription.append(indent + "<summary>More</summary>\n")
-        markdownDescription.append(indent + "<p>\n\n")
-        
-        // Add languages
-        markdownDescription.append("\(indent)**Languages:** \(languages)\n\n")
-        
-        // Add official site if available
-        if !self.officialSite.isEmpty {
-            markdownDescription.append("  **Website:** [\(self.officialSite)](\(self.officialSite))\n\n")
-        }
-        
-        // Add screenshots with lazy loading to improve page load performance
+        // Collapsible screenshots to avoid eager image loading
         if self.screenshots.count > 0 {
-            markdownDescription.append("  **Screenshots:**\n\n")
-            
+            markdownDescription.append("\n" + indent + "<details>\n")
+            markdownDescription.append(indent + "<summary>Screenshots</summary>\n")
+            markdownDescription.append(indent + "<p>\n\n")
+
             // Limit to first 3 screenshots to reduce load time
             let limitedScreenshots = self.screenshots.count > 3 ? Array(self.screenshots.prefix(3)) : self.screenshots
-            
+
             limitedScreenshots.forEach({
-                markdownDescription.append("  <img src='\($0)' width='400' loading='lazy'/>\n\n")
+                markdownDescription.append("  <img src='\($0)' width='400' loading='lazy' decoding='async' fetchpriority='low'/>\n\n")
             })
-            
+
             // Add a note if there are more screenshots
             if self.screenshots.count > 3 {
                 markdownDescription.append("  *(\(self.screenshots.count - 3) more screenshots available in the repository)*\n\n")
             }
+
+            markdownDescription.append(indent + "</p>\n")
+            markdownDescription.append(indent + "</details>\n")
         }
-        
-        markdownDescription.append(indent + "</p>\n")
-        markdownDescription.append(indent + "</details>\n")
         
         return markdownDescription
     }
