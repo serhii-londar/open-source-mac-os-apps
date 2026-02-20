@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-651-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-652-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 651 |
+| 📱 Total Applications | 652 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 286 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -8090,7 +8090,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (66)
+### ⏱️ Productivity (67)
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8760,6 +8760,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
 
   <details>
@@ -9424,7 +9445,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="security"></a>
-### 🔒 Security (10)
+### 🔒 Security (11)
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
   <details>
@@ -9517,6 +9538,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/smmr-software/privacy-redirect-safari/releases/latest'><img src='https://img.shields.io/github/v/release/smmr-software/privacy-redirect-safari?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/smmr-software/privacy-redirect-safari'><img src='https://img.shields.io/github/stars/smmr-software/privacy-redirect-safari?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/smmr-software/privacy-redirect-safari' alt='License'/>
+
+  </p>
+  </details>
+
+- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10611,7 +10653,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (99)
+### 🛠️ Utilities (100)
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11897,6 +11939,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
 
   </p>
   </details>
