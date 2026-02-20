@@ -304,6 +304,22 @@
             ]
         },
         {
+            "short_description": "Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/SwiftcordApp/Swiftcord",
+            "title": "Swiftcord",
+            "icon_url": "https://github.com/SwiftcordApp/Swiftcord/blob/main/Swiftcord/Assets.xcassets/AppIcon.appiconset/app-256.png",
+            "screenshots": [
+                "https://github.com/SwiftcordApp/Swiftcord/blob/main/README_Resources/heroScreenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
