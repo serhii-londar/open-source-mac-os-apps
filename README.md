@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-677-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-678-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 677 |
+| 📱 Total Applications | 678 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 298 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 299 • Objective-C: 137 • Javascript: 114 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -13557,7 +13557,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="wallpaper"></a>
-### 🖥️ Wallpaper (11)
+### 🖥️ Wallpaper (12)
 - [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. 
 
   <details>
@@ -13635,6 +13635,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
 
   **Links:** <a href='https://github.com/VioletGiraffe/desktop-wallpaper-switcher/releases/latest'><img src='https://img.shields.io/github/v/release/VioletGiraffe/desktop-wallpaper-switcher?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/VioletGiraffe/desktop-wallpaper-switcher'><img src='https://img.shields.io/github/stars/VioletGiraffe/desktop-wallpaper-switcher?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/VioletGiraffe/desktop-wallpaper-switcher' alt='License'/>
+
+  </p>
+  </details>
+
+- [Equinox](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers. 
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/rlxone/Equinox/releases/latest'><img src='https://img.shields.io/github/v/release/rlxone/Equinox?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/rlxone/Equinox'><img src='https://img.shields.io/github/stars/rlxone/Equinox?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/rlxone/Equinox' alt='License'/>
+
+  **Website:** [https://equinoxmac.com](https://equinoxmac.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/rlxone/Equinox/blob/main/repo/screen1.jpg' width='400' loading='lazy'/>
 
   </p>
   </details>
