@@ -2804,22 +2804,6 @@
             ]
         },
         {
-            "short_description": "Npm desktop GUI. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/720kb/ndm",
-            "title": "ndm",
-            "icon_url": "",
-            "screenshots": [
-                "https://i.imgur.com/6KL3pt7.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
-            ]
-        },
-        {
             "short_description": "Evaluate Nodejs/JS code snippets from Menubar. ",
             "categories": [
                 "web-development"
