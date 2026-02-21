@@ -11067,5 +11067,25 @@
                 "python"
             ]
         }
+        ,{
+            "title": "macbase",
+            "short_description": "A free, native macOS chess analysis platform and database, powered by Stockfish and TWIC.",
+            "categories": [
+                "games",
+                "database"
+            ],
+            "repo_url": "https://github.com/joe-ging/macbase",
+            "icon_url": "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/analysis1.png",
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/database.png",
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/dashboard.png"
+            ],
+            "official_site": "https://joe-ging.github.io/macbase/",
+            "languages": [
+                "python",
+                "javascript"
+            ]
+        }
     ]
 }
