@@ -1,6 +1,6 @@
 {
     "applications": [
-	{
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
@@ -16,7 +16,7 @@
                 "typescript"
             ]
         },
-	{
+        {
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
@@ -34,8 +34,7 @@
                 "swift"
             ]
         },
-
-	{
+        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
@@ -54,7 +53,7 @@
                 "swift"
             ]
         },
-	{
+        {
             "short_description": "An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.",
             "categories": [
                 "productivity",
@@ -64,28 +63,29 @@
             "title": "Blink Eye",
             "icon_url": "https://utfs.io/f/93hqarYp4cDdY0euKxvcTyVLEjQxOU1ovp9SM8PzDAnJKZs2",
             "screenshots": [
-               "https://utfs.io/f/93hqarYp4cDdNL4sT1PM7wKnvWGVmy3zl0x94o8NjODZSHbY",
-               "https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
-		"https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
-		"https://utfs.io/f/93hqarYp4cDdmTFr7pIGuo7faHJYtjPxRrsSq0VbWB8zM4yl"
+                "https://utfs.io/f/93hqarYp4cDdNL4sT1PM7wKnvWGVmy3zl0x94o8NjODZSHbY",
+                "https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
+                "https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl",
+                "https://utfs.io/f/93hqarYp4cDdmTFr7pIGuo7faHJYtjPxRrsSq0VbWB8zM4yl"
             ],
             "official_site": "https://blinkeye.vercel.app/",
             "languages": [
-                "typescript", "rust"
+                "typescript",
+                "rust"
             ]
         },
-		{
+        {
             "short_description": "Blazingly fast, customisable multi tool, application launcher",
             "categories": [
                 "productivity",
                 "utilities",
-				"menubar"
+                "menubar"
             ],
             "repo_url": "https://github.com/unsecretised/rustcast",
             "title": "RustCast",
             "icon_url": "https://rustcast.umangsurana.com/icon.png",
             "screenshots": [
-               "https://rustcast.umangsurana.com/rustcast-v0-5-0.png"
+                "https://rustcast.umangsurana.com/rustcast-v0-5-0.png"
             ],
             "official_site": "https://rustcast.umangsurana.com",
             "languages": [
@@ -109,18 +109,18 @@
             ]
         },
         {
-            "short_description":"Take handwritten notes with ease",
-            "categories":[
+            "short_description": "Take handwritten notes with ease",
+            "categories": [
                 "productivity",
                 "macos",
                 "utilities"
             ],
-            "repo_url":"https://github.com/xournalpp/xournalpp/",
-            "title":"Xournal++",
-            "icon_url":"https://github.com/xournalpp/xournalpp/blob/master/mac-setup/icon/Icon1024.png",
-            "screenshots":[],
-            "official_site":"",
-            "languages":[
+            "repo_url": "https://github.com/xournalpp/xournalpp/",
+            "title": "Xournal++",
+            "icon_url": "https://github.com/xournalpp/xournalpp/blob/master/mac-setup/icon/Icon1024.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
                 "cpp",
                 "lua",
                 "c",
@@ -128,24 +128,25 @@
             ]
         },
         {
-          "short_description": "A visual editor of Markdown document, tasks and tables.",
-          "categories": [
+            "short_description": "A visual editor of Markdown document, tasks and tables.",
+            "categories": [
                 "markdown",
                 "editors",
-                "text"          ],
-          "repo_url": "https://github.com/maxnd/mxMarkEdit",
-          "title": "mxMarkEdit",
-          "icon_url": "https://github.com/maxnd/mxMarkEdit/blob/main/icon128.png",
-          "screenshots": [
-            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png",
-            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png",
-            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png",
-            "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot4.png"
-          ],
-          "official_site": "https://github.com/maxnd/mxMarkEdit",
-          "languages": [
-            "free-pascal"
-          ]
+                "text"
+            ],
+            "repo_url": "https://github.com/maxnd/mxMarkEdit",
+            "title": "mxMarkEdit",
+            "icon_url": "https://github.com/maxnd/mxMarkEdit/blob/main/icon128.png",
+            "screenshots": [
+                "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png",
+                "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png",
+                "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png",
+                "https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot4.png"
+            ],
+            "official_site": "https://github.com/maxnd/mxMarkEdit",
+            "languages": [
+                "free-pascal"
+            ]
         },
         {
             "short_description": "A script to automate tasks when connect a device to your Mac",
@@ -172,8 +173,8 @@
             "title": "Amazing Tic Tac Toe",
             "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/Icon.iconset/AppIcon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png",
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png"
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png",
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png"
             ],
             "official_site": "https://ariessciences.com/highlight?product=tic-tac-toe",
             "languages": [
@@ -190,8 +191,8 @@
             "title": "Quick Weather",
             "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/Icon.iconset/main_icon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png",
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png"
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png",
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png"
             ],
             "official_site": "https://ariessciences.com/highlight?product=quick-weather",
             "languages": [
@@ -207,8 +208,8 @@
             "title": "Easy Share Uploader",
             "icon_url": "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/App%20Icon/App%20Icon.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png",
-               "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png"
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png",
+                "https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png"
             ],
             "official_site": "https://ariessciences.com/highlight?product=easy-share-uploader",
             "languages": [
@@ -216,53 +217,50 @@
             ]
         },
         {
-          "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
-          "categories": [
-            "menubar"
-          ],
-          "repo_url": "https://github.com/ThijmenDam/BarTranslate",
-          "title": "BarTranslate",
-          "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
-          "screenshots": [
-            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
-          ],
-          "official_site": "https://thijmendam.github.io/BarTranslate/",
-          "languages": [
-            "typescript"
-          ]
-        },   
-		{
-		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
-		  "categories": [
-		    "menubar",
-		    "utilities",
-		    "productivity"
-		  ],
-		  "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
-		  "title": "Bye-AppQuit",
-		  "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
-		  "screenshots": [
-		    "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
-			
-		  ],
-		  "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
-		  "languages": [
-		    "swift"
-		  ]
-		},
+            "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ThijmenDam/BarTranslate",
+            "title": "BarTranslate",
+            "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
+            "screenshots": [
+                "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
+            ],
+            "official_site": "https://thijmendam.github.io/BarTranslate/",
+            "languages": [
+                "typescript"
+            ]
+        },
         {
-            "short_description":"Locally hosted web application that allows you to perform various operations on PDF files",
-            "categories":[
+            "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/designsbymuzeer/Bye-Mac-App",
+            "title": "Bye-AppQuit",
+            "icon_url": "https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31"
+            ],
+            "official_site": "https://github.com/designsbymuzeer/Bye-Mac-App",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Locally hosted web application that allows you to perform various operations on PDF files",
+            "categories": [
                 "utilities"
             ],
-            "repo_url":"https://github.com/Stirling-Tools/Stirling-PDF",
-            "title":"Stirling-PDF",
-            "icon_url":"https://github.com/Stirling-Tools/Stirling-PDF/blob/main/app/core/src/main/resources/static/favicon.png",
-            "screenshots":[
-
-            ],
-            "official_site":"stirlingpdf.com",
-            "languages":[
+            "repo_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "title": "Stirling-PDF",
+            "icon_url": "https://github.com/Stirling-Tools/Stirling-PDF/blob/main/app/core/src/main/resources/static/favicon.png",
+            "screenshots": [],
+            "official_site": "stirlingpdf.com",
+            "languages": [
                 "java",
                 "html",
                 "javascript",
@@ -299,7 +297,7 @@
                 "pascal"
             ]
         },
-		  {
+        {
             "short_description": "OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.",
             "categories": [
                 "utilities"
@@ -1465,26 +1463,26 @@
                 "javascript"
             ]
         },
-		{
-	    "short_description": "Official Bitcoin Core software for running a full Bitcoin node.",
-	    "categories": [
-	        "cryptocurrency",
-	        "blockchain",
-	        "finance"
-	    ],
-	    "repo_url": "https://github.com/bitcoin/bitcoin",
-	    "title": "Bitcoin Core",
-	    "icon_url": "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/bitcoin_core_logo_colored_reversed.png",
-	    "screenshots": [
-	        "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png"
-	    ],
-	    "official_site": "https://bitcoincore.org/",
-	    "languages": [
-	        "C++",
-	        "Python",
-	        "Shell"
-	    ]
-		},    
+        {
+            "short_description": "Official Bitcoin Core software for running a full Bitcoin node.",
+            "categories": [
+                "cryptocurrency",
+                "blockchain",
+                "finance"
+            ],
+            "repo_url": "https://github.com/bitcoin/bitcoin",
+            "title": "Bitcoin Core",
+            "icon_url": "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/bitcoin_core_logo_colored_reversed.png",
+            "screenshots": [
+                "https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png"
+            ],
+            "official_site": "https://bitcoincore.org/",
+            "languages": [
+                "C++",
+                "Python",
+                "Shell"
+            ]
+        },
         {
             "short_description": "macOS menu bar application for tracking crypto coin prices. ",
             "categories": [
@@ -3821,7 +3819,7 @@
                 "c++"
             ]
         },
-	            {
+        {
             "short_description": "Zed is an open source, high-performance, and multiplayer code editor",
             "categories": [
                 "ide",
@@ -4328,20 +4326,20 @@
             ]
         },
         {
-          "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
-          "categories": [
-              "menubar"
-          ],
-          "repo_url": "https://github.com/halo/LinkLiar",
-          "title": "LinkLiar",
-          "icon_url": "",
-          "screenshots": [
-              "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
-          ],
-          "official_site": "https://halo.github.io/LinkLiar/",
-          "languages": [
-              "swift"
-          ]
+            "short_description": "Keep your MAC address random for privacy (intuitive GUI for ifconfig)",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/halo/LinkLiar",
+            "title": "LinkLiar",
+            "icon_url": "",
+            "screenshots": [
+                "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
+            ],
+            "official_site": "https://halo.github.io/LinkLiar/",
+            "languages": [
+                "swift"
+            ]
         },
         {
             "short_description": "macOS menubar status indicator. ",
@@ -4366,9 +4364,9 @@
             "title": "app-menu",
             "icon_url": "https://github.com/barseghyanartur/app-menu/blob/main/ApplicationMenu/Assets.xcassets/AppIcon.appiconset/icon_32x32.png",
             "screenshots": [
-		"https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_screenshot.jpg",
-		"https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_configuration_dir_access.jpg"
-	    ],
+                "https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_screenshot.jpg",
+                "https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_configuration_dir_access.jpg"
+            ],
             "official_site": "",
             "languages": [
                 "swift"
@@ -5018,7 +5016,7 @@
             "repo_url": "https://github.com/standardnotes/app",
             "title": "Standard Notes",
             "icon_url": "",
-            "screenshots": [    ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "javascript",
@@ -5902,8 +5900,8 @@
             "title": "Clipboard",
             "icon_url": "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/cb_small.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png",
-               "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif"
+                "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png",
+                "https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif"
             ],
             "official_site": "https://GetClipboard.app",
             "languages": [
@@ -6469,7 +6467,7 @@
                 "cpp"
             ]
         },
-		{
+        {
             "short_description": "Free Advanced Android File Transfer Application for macOS",
             "categories": [
                 "Android",
@@ -6479,8 +6477,8 @@
             "title": "Open mtp",
             "icon_url": "https://github.com/ganeshrvel/openmtp/blob/master/app/app.icns",
             "screenshots": [
-               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-explorer-bluebg.jpg",
-               "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-transfer-bluebg.jpg"
+                "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-explorer-bluebg.jpg",
+                "https://raw.githubusercontent.com/ganeshrvel/openmtp/master/blobs/images/file-transfer-bluebg.jpg"
             ],
             "official_site": "https://openmtp.ganeshrvel.com/",
             "languages": [
@@ -6745,8 +6743,8 @@
             "title": "Tabby",
             "icon_url": "",
             "screenshots": [
-            "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png",
-            "https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png"
+                "https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png",
+                "https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png"
             ],
             "official_site": "",
             "languages": [
@@ -7295,8 +7293,8 @@
             "languages": [
                 "cpp"
             ]
-         },
-         {
+        },
+        {
             "short_description": "Node Version Manager. ",
             "categories": [
                 "utilities"
@@ -9143,7 +9141,7 @@
                 "swift"
             ]
         },
-	{
+        {
             "short_description": "Powerful menu bar manager for macOS",
             "categories": [
                 "menubar"
@@ -9508,8 +9506,8 @@
             "title": "linked",
             "icon_url": "https://github.com/lostdesign/linked/blob/master/appIcon/icon.png",
             "screenshots": [
-               "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
-               "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
+                "https://user-images.githubusercontent.com/5164617/112966541-9f3b4080-914a-11eb-9dff-00ea2a121b93.png",
+                "https://user-images.githubusercontent.com/5164617/112368648-97f3dd00-8cdb-11eb-8865-0203264d420b.png"
             ],
             "official_site": "https://uselinked.com",
             "languages": [
@@ -9870,7 +9868,7 @@
                 "c",
                 "cpp",
                 "python"
-             ]
+            ]
         },
         {
             "short_description": "Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations.",
@@ -9922,8 +9920,8 @@
             "title": "DropPoint",
             "icon_url": "https://raw.githubusercontent.com/GameGodS3/DropPoint/main/static/media/pngLogo/droppoint%405x.png",
             "screenshots": [
-               "https://i.imgur.com/QkUPoOb.gif",
-               "https://i.imgur.com/WElktc0.gif"
+                "https://i.imgur.com/QkUPoOb.gif",
+                "https://i.imgur.com/WElktc0.gif"
             ],
             "official_site": "",
             "languages": [
@@ -9939,7 +9937,7 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecad.org/images/feature-03.jpg"
+                "https://www.freecad.org/images/feature-03.jpg"
             ],
             "official_site": "https://www.freecad.org/",
             "languages": [
@@ -9947,7 +9945,7 @@
                 "python"
             ]
         },
-         {
+        {
             "short_description": "Use BibDesk to edit and manage your bibliography",
             "categories": [
                 "notes",
@@ -9958,8 +9956,8 @@
             "title": "BibDesk",
             "icon_url": "https://a.fsdn.com/allura/p/bibdesk/icon?f6c30e19f66fad4b1c03c8fdcf0a46685d328f3a1b5eb1acb95a4bd74e4a2913?&w=180",
             "screenshots": [
-               "https://bibdesk.sourceforge.io/screenshots/Publication.png",
-               "https://bibdesk.sourceforge.io/screenshots/Main-Window.png"
+                "https://bibdesk.sourceforge.io/screenshots/Publication.png",
+                "https://bibdesk.sourceforge.io/screenshots/Main-Window.png"
             ],
             "official_site": "https://bibdesk.sourceforge.io",
             "languages": [
@@ -9975,7 +9973,7 @@
             "title": "Inkscape",
             "icon_url": "",
             "screenshots": [
-               "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
+                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
             "official_site": "https://inkscape.org/",
             "languages": [
@@ -9991,7 +9989,7 @@
             "title": "IntelliJ IDEA Community Edition",
             "icon_url": "",
             "screenshots": [
-               "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
+                "https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png"
             ],
             "official_site": "https://www.jetbrains.com/idea/",
             "languages": [
@@ -10060,7 +10058,6 @@
             ]
         },
         {
-
             "short_description": "App icon assets generator written in SwiftUI",
             "categories": [
                 "productivity",
@@ -10074,10 +10071,10 @@
             ],
             "official_site": "",
             "languages": [
-              "swift"
+                "swift"
             ]
         },
-      {
+        {
             "short_description": "Clendar is an universal calendar app. Written in SwiftUI.",
             "categories": [
                 "ios--macos",
@@ -10091,11 +10088,11 @@
                 "https://user-images.githubusercontent.com/1097578/143700120-e377dc4c-51c0-4089-9295-b5cd4da95f41.png"
             ],
             "official_site": "https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041",
-  "languages": [
+            "languages": [
                 "swift"
             ]
         },
-      {
+        {
             "short_description": "Beautiful calculator app for macOS",
             "categories": [
                 "utilities",
@@ -10113,7 +10110,7 @@
                 "javascript"
             ]
         },
-      {
+        {
             "short_description": "Application to spoof your iOS or iPhoneSimulator location.",
             "categories": [
                 "development",
@@ -10178,7 +10175,7 @@
             "title": "Brackets",
             "icon_url": "https://brackets.io/img/brackets.svg",
             "screenshots": [
-               "https://brackets.io/img/hero.png"
+                "https://brackets.io/img/hero.png"
             ],
             "official_site": "https://brackets.io/",
             "languages": [
@@ -10195,7 +10192,7 @@
             "title": "Betaflight Configurator",
             "icon_url": "https://pbs.twimg.com/profile_images/1061367585436925957/HoDOKWlp_400x400.jpg",
             "screenshots": [
-               "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
+                "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
             ],
             "official_site": "https://betaflight.com/",
             "languages": [
@@ -10227,8 +10224,7 @@
             "repo_url": "https://github.com/gitahead/gitahead/",
             "title": "GitAhead",
             "icon_url": "",
-            "screenshots": [
-            ],
+            "screenshots": [],
             "official_site": "https://gitahead.github.io/gitahead.com/",
             "languages": [
                 "cpp",
@@ -10265,7 +10261,8 @@
                 "c",
                 "c++"
             ]
-         }, {
+        },
+        {
             "short_description": "zoxide is a smarter cd command for your terminal.",
             "categories": [
                 "finder",
@@ -10292,7 +10289,7 @@
             "title": "Widelands",
             "icon_url": "https://www.widelands.org/static/img/logo.png",
             "screenshots": [
-               "https://www.widelands.org/static/img/welcome.jpg"
+                "https://www.widelands.org/static/img/welcome.jpg"
             ],
             "official_site": "https://www.widelands.org",
             "languages": [
@@ -10319,49 +10316,49 @@
             ]
         },
         {
-          "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
-          "categories": [
-            "database"
-          ],
-          "repo_url": "https://github.com/dbgate/dbgate",
-          "title": "DbGate",
-          "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
-          "screenshots": [
-            "https://dbgate.org/assets/screenshots/datagrid.png",
-            "https://dbgate.org/assets/screenshots/query.png",
-            "https://dbgate.org/assets/screenshots/diagram.png",
-            "https://dbgate.org/assets/screenshots/redis.png",
-            "https://dbgate.org/assets/screenshots/export.png",
-            "https://dbgate.org/assets/screenshots/darkmode.png",
-            "https://dbgate.org/assets/screenshots/querydesigner.png",
-            "https://dbgate.org/assets/screenshots/mongosave.png",
-            "https://dbgate.org/assets/screenshots/dbcompare.png"
-          ],
-          "official_site": "https://dbgate.org",
-          "languages": [
-            "javascript",
-            "typescript"
-          ]
+            "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/dbgate/dbgate",
+            "title": "DbGate",
+            "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
+            "screenshots": [
+                "https://dbgate.org/assets/screenshots/datagrid.png",
+                "https://dbgate.org/assets/screenshots/query.png",
+                "https://dbgate.org/assets/screenshots/diagram.png",
+                "https://dbgate.org/assets/screenshots/redis.png",
+                "https://dbgate.org/assets/screenshots/export.png",
+                "https://dbgate.org/assets/screenshots/darkmode.png",
+                "https://dbgate.org/assets/screenshots/querydesigner.png",
+                "https://dbgate.org/assets/screenshots/mongosave.png",
+                "https://dbgate.org/assets/screenshots/dbcompare.png"
+            ],
+            "official_site": "https://dbgate.org",
+            "languages": [
+                "javascript",
+                "typescript"
+            ]
         },
-	{
-          "short_description": "Readest is a modern, feature-rich ebook reader designed for avid readers.",
-          "categories": [
-            "productivity"
-          ],
-          "repo_url": "https://github.com/readest/readest",
-          "title": "Readest",
-          "icon_url": "https://raw.githubusercontent.com/readest/readest/main/apps/readest-app/public/icon.png",
-          "screenshots": [
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png",
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png",
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png",
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/dark_mode.png",
-            "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png"
-          ],
-          "official_site": "https://readest.com",
-          "languages": [
-            "typescript"
-          ]
+        {
+            "short_description": "Readest is a modern, feature-rich ebook reader designed for avid readers.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/readest/readest",
+            "title": "Readest",
+            "icon_url": "https://raw.githubusercontent.com/readest/readest/main/apps/readest-app/public/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png",
+                "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png",
+                "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png",
+                "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/dark_mode.png",
+                "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png"
+            ],
+            "official_site": "https://readest.com",
+            "languages": [
+                "typescript"
+            ]
         },
         {
             "short_description": "A Hex Editor for Reverse Engineers.",
@@ -10378,7 +10375,7 @@
             "official_site": "https://imhex.werwolv.net/",
             "languages": [
                 "c++"
-             ]
+            ]
         },
         {
             "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
@@ -10394,7 +10391,6 @@
             "official_site": "https://www.minisim.app/",
             "languages": [
                 "swift"
-
             ]
         },
         {
@@ -10450,7 +10446,7 @@
                 "swift"
             ]
         },
-      {
+        {
             "short_description": "An all-in-one digital audio workstation (DAW) and plugin suite",
             "categories": [
                 "audio",
@@ -10473,21 +10469,23 @@
                 "python"
             ]
         },
-      {
-        "short_description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
-        "categories": [
-            "notes",
-            "text"
-        ],
-        "repo_url": "https://github.com/streetwriters/notesnook",
-        "title": "Notesnook",
-        "icon_url": "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
-        "screenshots": [  "https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp"  ],
-        "official_site": "https://notesnook.com",
-        "languages": [
-            "javascript",
-            "typescript"
-        ]
+        {
+            "short_description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
+            "categories": [
+                "notes",
+                "text"
+            ],
+            "repo_url": "https://github.com/streetwriters/notesnook",
+            "title": "Notesnook",
+            "icon_url": "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+            "screenshots": [
+                "https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp"
+            ],
+            "official_site": "https://notesnook.com",
+            "languages": [
+                "javascript",
+                "typescript"
+            ]
         },
         {
             "short_description": "Your ultimate GPT companion for seamless access on your Mac",
@@ -10503,8 +10501,8 @@
             "languages": [
                 "swift"
             ]
-		    },
-		    {
+        },
+        {
             "short_description": "gPodder is a simple, open source podcast client.",
             "categories": [
                 "podcast"
@@ -10513,7 +10511,7 @@
             "title": "gPodder",
             "icon_url": "https://raw.githubusercontent.com/gpodder/gpodder/master/share/icons/hicolor/64x64/apps/gpodder.png",
             "screenshots": [
-				        "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+                "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
             ],
             "official_site": "https://gpodder.github.io/",
             "languages": [
@@ -10537,7 +10535,7 @@
                 "swift"
             ]
         },
-	      {
+        {
             "short_description": "Smotrite is a system monitor for macOS, which just work.",
             "categories": [
                 "utilities"
@@ -10568,7 +10566,7 @@
             "official_site": "https://freeter.io/",
             "languages": [
                 "typescript"
-             ]
+            ]
         },
         {
             "short_description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.",
@@ -10579,26 +10577,30 @@
             "title": "Applite",
             "icon_url": "https://aerolite.dev/img/applite/AppliteIcon512.png",
             "screenshots": [
-               "https://aerolite.dev/img/applite/discover-page.png",
-               "https://aerolite.dev/img/applite/productivity.png"
+                "https://aerolite.dev/img/applite/discover-page.png",
+                "https://aerolite.dev/img/applite/productivity.png"
             ],
             "official_site": "https://aerolite.dev/applite",
             "languages": [
                 "swift"
             ]
-         },
-	{
-	     "short_description": "Video editing software designed for motion effects and versatility.",
-	     "categories": ["graphics"],
-	     "repo_url": "https://github.com/cartesiancs/nugget-app",
-	     "title": "Nugget",
-	     "icon_url": "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/assets/icons/png/512x512.png",
-	     "screenshots": [
-	        "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/.github/screenshotv1.png"
-	     ],
-	     "official_site": "",
-	     "languages": ["typescript"]
-	},
+        },
+        {
+            "short_description": "Video editing software designed for motion effects and versatility.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/cartesiancs/nugget-app",
+            "title": "Nugget",
+            "icon_url": "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/assets/icons/png/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/.github/screenshotv1.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
+        },
         {
             "short_description": "Replace the Git CLI with a clear UI and AI assist.",
             "categories": [
@@ -10617,68 +10619,68 @@
             ]
         },
         {
-           "short_description":"Simple and free working time recording.",
-           "categories":[
-              "menubar",
-              "productivity"
-           ],
-           "repo_url":"https://github.com/WINBIGFOX/timescribe",
-           "title":"TimeScribe",
-           "icon_url":"https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
-           "screenshots":[
-              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
-              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
-              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
-              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
-              "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
-           ],
-           "official_site":"https://timescribe.app",
-           "languages":[
-              "css",
-              "javascript",
-              "typescript"
-           ]
-        },
-        {
-           "short_description":"A lightweight app for formatting and correcting Swift syntax.",
-           "categories":[
-              "development",
-              "editors",
-              "ios--macos"
-           ],
-           "repo_url":"https://github.com/csprasad/DevLint",
-           "title":"DevLint",
-           "icon_url":"https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/Icon.png",
-           "screenshots":[
-              "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png",
-              "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png"
-           ],
-           "official_site":"",
-           "languages":[
-              "swift"
-           ]
-        },
-      {
             "short_description": "Simple and free working time recording.",
             "categories": [
                 "menubar",
-		        "productivity"
+                "productivity"
             ],
             "repo_url": "https://github.com/WINBIGFOX/timescribe",
             "title": "TimeScribe",
             "icon_url": "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
             "screenshots": [
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
                 "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
-		        "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
             ],
             "official_site": "https://timescribe.app",
             "languages": [
                 "css",
-		        "javascript",
-		        "typescript"
+                "javascript",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "A lightweight app for formatting and correcting Swift syntax.",
+            "categories": [
+                "development",
+                "editors",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/csprasad/DevLint",
+            "title": "DevLint",
+            "icon_url": "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/Icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png",
+                "https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Simple and free working time recording.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/WINBIGFOX/timescribe",
+            "title": "TimeScribe",
+            "icon_url": "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/public/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/absences_en_light.webp",
+                "https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/start_break_en_light.webp"
+            ],
+            "official_site": "https://timescribe.app",
+            "languages": [
+                "css",
+                "javascript",
+                "typescript"
             ]
         },
         {
@@ -10686,7 +10688,6 @@
             "categories": [
                 "utilities",
                 "development"
-
             ],
             "repo_url": "https://github.com/Slllava/gridfy",
             "title": "Gridfy",
@@ -10698,11 +10699,11 @@
             ],
             "official_site": "https://gridfy.astroon.pro/",
             "languages": [
-		            "javascript",
-		            "typescript"
+                "javascript",
+                "typescript"
             ]
         },
-	      {
+        {
             "short_description": "Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.",
             "categories": [
                 "utilities"
@@ -10718,7 +10719,7 @@
                 "swift"
             ]
         },
-	      {
+        {
             "short_description": "Remote pair programming app.",
             "categories": [
                 "Other"
@@ -10727,31 +10728,31 @@
             "title": "Hopp",
             "icon_url": "https://dlh49gjxx49i3.cloudfront.net/logo-light.png",
             "screenshots": [
-               "https://docs.gethopp.app/_astro/screenshare.w05eQI3z_7tfaK.webp"
+                "https://docs.gethopp.app/_astro/screenshare.w05eQI3z_7tfaK.webp"
             ],
             "official_site": "https://gethopp.app/",
             "languages": [
                 "rust",
                 "typescript",
                 "go"
-              ]
+            ]
         },
-	      {
-			    "short_description": "Switch between open applications on macOS with a Windows-like Alt+Tab experience.",
-			    "categories": [
-				   "window-management"
-			    ],
-			    "repo_url": "https://github.com/lwouis/alt-tab-macos",
-			    "title": "AltTab",
-			    "icon_url": "https://github.com/lwouis/alt-tab-macos/blob/master/resources/icons/app/app.svg",
-			    "screenshots": [
-				  "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
-			    ],
-			    "official_site": "https://alt-tab-macos.netlify.app/",
-			    "languages": [
-				    "swift"
-			    ]
-		    },
+        {
+            "short_description": "Switch between open applications on macOS with a Windows-like Alt+Tab experience.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/lwouis/alt-tab-macos",
+            "title": "AltTab",
+            "icon_url": "https://github.com/lwouis/alt-tab-macos/blob/master/resources/icons/app/app.svg",
+            "screenshots": [
+                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
+            ],
+            "official_site": "https://alt-tab-macos.netlify.app/",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
             "categories": [
@@ -10780,7 +10781,7 @@
             "title": "LibreCAD",
             "icon_url": "https://github.com/LibreCAD/LibreCAD/blob/master/desktop/media/logo/librecad_logo.svg",
             "screenshots": [
-               "https://librecad.org/img/welcome.png"
+                "https://librecad.org/img/welcome.png"
             ],
             "official_site": "https://librecad.org",
             "languages": [
@@ -10804,9 +10805,9 @@
             "languages": [
                 "typescript",
                 "rust"
-              ]
-         },
-         {
+            ]
+        },
+        {
             "short_description": "Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
             "categories": [
                 "notes"
@@ -10839,7 +10840,7 @@
                 "typescript"
             ]
         },
-	      {
+        {
             "short_description": "A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.",
             "categories": [
                 "window-management"
@@ -10848,7 +10849,7 @@
             "title": "Window Glue",
             "icon_url": "https://github.com/Conxt/WindowGlue/raw/main/Assets/Icon-MacOS-256x256.png",
             "screenshots": [
-		"https://github.com/Conxt/WindowGlue/raw/main/Assets/Screen.gif"
+                "https://github.com/Conxt/WindowGlue/raw/main/Assets/Screen.gif"
             ],
             "official_site": "",
             "languages": [
@@ -10872,10 +10873,12 @@
                 "swift"
             ]
         },
-	      {
+        {
             "short_description": "Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.",
             "categories": [
-                "keyboard", "utilities", "ios--macos"
+                "keyboard",
+                "utilities",
+                "ios--macos"
             ],
             "repo_url": "https://github.com/runjuu/InputSourcePro/",
             "title": "Input Source Pro",
@@ -10885,8 +10888,8 @@
             "languages": [
                 "swift"
             ]
-         },
-         {
+        },
+        {
             "short_description": "Window management made elegant.",
             "categories": [
                 "window-management"
@@ -10920,8 +10923,8 @@
             "languages": [
                 "swift"
             ]
-          },
-          {
+        },
+        {
             "short_description": "System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.",
             "categories": [
                 "security",
@@ -10937,8 +10940,8 @@
             "languages": [
                 "swift"
             ]
-          },
-          {
+        },
+        {
             "short_description": "Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.",
             "categories": [
                 "productivity",
@@ -10956,8 +10959,8 @@
             "languages": [
                 "swift"
             ]
-          },
-          {
+        },
+        {
             "short_description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
             "categories": [
                 "finder",
@@ -11065,6 +11068,26 @@
             "official_site": "https://gramps-project.org",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "title": "macbase",
+            "short_description": "A free, native macOS chess analysis platform and database, powered by Stockfish and TWIC.",
+            "categories": [
+                "games",
+                "database"
+            ],
+            "repo_url": "https://github.com/joe-ging/macbase",
+            "icon_url": "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/analysis1.png",
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/database.png",
+                "https://raw.githubusercontent.com/joe-ging/macbase/main/docs/screenshots/dashboard.png"
+            ],
+            "official_site": "https://joe-ging.github.io/macbase-app/",
+            "languages": [
+                "python",
+                "javascript"
             ]
         }
     ]
