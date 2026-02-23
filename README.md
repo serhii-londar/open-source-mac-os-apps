@@ -5227,6 +5227,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Beacon](https://github.com/corvid-agent/Beacon) - System health monitor for macOS menu bar with CPU, memory, disk, network, and battery monitoring.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Badges:** <a href='https://github.com/corvid-agent/Beacon/releases/latest'><img src='https://img.shields.io/github/v/release/corvid-agent/Beacon?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/corvid-agent/Beacon'><img src='https://img.shields.io/github/stars/corvid-agent/Beacon?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/corvid-agent/Beacon' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/corvid-agent/Beacon' alt='License'/>
+
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 

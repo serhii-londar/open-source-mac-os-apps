@@ -230,7 +230,21 @@
           "languages": [
             "typescript"
           ]
-        },   
+        },
+        {
+          "short_description": "System health monitor for macOS menu bar with CPU, memory, disk, network, and battery monitoring.",
+          "categories": [
+            "menubar"
+          ],
+          "repo_url": "https://github.com/corvid-agent/Beacon",
+          "title": "Beacon",
+          "icon_url": "",
+          "screenshots": [],
+          "official_site": "https://github.com/corvid-agent/Beacon",
+          "languages": [
+            "swift"
+          ]
+        },
 		{
 		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
 		  "categories": [
