@@ -11081,6 +11081,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Poirot",
+            "short_description": "A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/LeonardoCardoso/Poirot",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://poirot.fyi",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
