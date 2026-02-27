@@ -11081,6 +11081,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AFK",
+            "short_description": "Lightweight break reminder following the 20-20-20 rule with fullscreen reminders, statistics dashboard, and health exercises.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Harry-kp/afk",
+            "icon_url": "https://raw.githubusercontent.com/Harry-kp/afk/main/landing/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://afk-app.vercel.app",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
