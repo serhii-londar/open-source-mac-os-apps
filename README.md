@@ -5150,6 +5150,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
+### 📊 Menubar (53)
 ### 📊 Menubar (52)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
@@ -5278,7 +5279,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. 
+- [Dash](https://github.com/corvid-agent/Dash) - Developer shortcuts menu bar app with quick actions, system info, dev tools, and clipboard utilities.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Badges:** <a href='https://github.com/corvid-agent/Dash/releases/latest'><img src='https://img.shields.io/github/v/release/corvid-agent/Dash?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/corvid-agent/Dash'><img src='https://img.shields.io/github/stars/corvid-agent/Dash?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/corvid-agent/Dash' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/corvid-agent/Dash' alt='License'/>
+
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
@@ -5511,9 +5518,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro. 
+- [Netwatch](https://github.com/corvid-agent/Netwatch) - Network traffic monitor for macOS menu bar showing per-process upload and download speeds.
 
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Badges:** <a href='https://github.com/corvid-agent/Netwatch/releases/latest'><img src='https://img.shields.io/github/v/release/corvid-agent/Netwatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/corvid-agent/Netwatch'><img src='https://img.shields.io/github/stars/corvid-agent/Netwatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/corvid-agent/Netwatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/corvid-agent/Netwatch' alt='License'/>
+
+- [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Badges:** <a href='https://github.com/joshjon/nocturnal/releases/latest'><img src='https://img.shields.io/github/v/release/joshjon/nocturnal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/joshjon/nocturnal'><img src='https://img.shields.io/github/stars/joshjon/nocturnal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/joshjon/nocturnal' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/joshjon/nocturnal' alt='License'/>
 
