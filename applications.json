@@ -11067,7 +11067,22 @@
                 "python"
             ]
         },
-	{
+        {
+            "title": "MacNTop",
+            "short_description": "macOS menu bar system monitor with retro CRT aesthetics.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/CorvidLabs/MacNTop",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/CorvidLabs/MacNTop",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "DevKit",
             "short_description": "Developer toolkit in your menu bar with JSON formatter, Base64 encoder, URL encoder, UUID generator, hash calculator, regex tester, timestamp converter, and color converter.",
             "categories": [
