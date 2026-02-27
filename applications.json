@@ -11081,6 +11081,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Clip",
+            "short_description": "Lightweight clipboard history manager that lives in your menu bar. Tracks text, URLs, and images with pin support.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/corvid-agent/Clip",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/corvid-agent/Clip",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
