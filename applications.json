@@ -11067,7 +11067,22 @@
                 "python"
             ]
         },
-	{
+        {
+            "title": "MacNTop",
+            "short_description": "macOS menu bar system monitor with retro CRT aesthetics.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/CorvidLabs/MacNTop",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/CorvidLabs/MacNTop",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Resolve",
             "short_description": "DNS lookup and network diagnostics tool in your menu bar. Forward/reverse DNS, MX/NS/CNAME records, and network info.",
             "categories": [
