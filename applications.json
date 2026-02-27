@@ -11068,16 +11068,16 @@
             ]
         },
         {
-            "title": "MacNTop",
-            "short_description": "macOS menu bar system monitor with retro CRT aesthetics.",
+            "title": "Ports",
+            "short_description": "macOS menu bar port viewer and manager.",
             "categories": [
-                "system",
+                "utilities",
                 "menubar"
             ],
-            "repo_url": "https://github.com/CorvidLabs/MacNTop",
+            "repo_url": "https://github.com/CorvidLabs/Ports",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "https://github.com/CorvidLabs/MacNTop",
+            "official_site": "https://github.com/CorvidLabs/Ports",
             "languages": [
                 "swift"
             ]
