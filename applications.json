@@ -11081,6 +11081,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "HomeRec",
+            "short_description": "Lightweight native macOS app for recording system audio as high-quality WAV files using ScreenCaptureKit.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/melissa-pereira-deel/home-rec",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
