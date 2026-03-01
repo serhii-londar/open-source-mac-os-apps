@@ -4936,7 +4936,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="keyboard"></a>
-### ⌨️ Keyboard (10)
+### ⌨️ Keyboard (11)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4991,6 +4991,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [LangSwitcher](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter for macOS. Select text typed in wrong layout, press ⇧⇧ and it's instantly converted. Supports EN/RU/DE/FR/ES.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://reg2005.github.io/langSwitcher/](https://reg2005.github.io/langSwitcher/)
+
+  **Badges:** <a href='https://github.com/reg2005/langSwitcher/releases/latest'><img src='https://img.shields.io/github/v/release/reg2005/langSwitcher?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/reg2005/langSwitcher'><img src='https://img.shields.io/github/stars/reg2005/langSwitcher?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/reg2005/langSwitcher' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/reg2005/langSwitcher' alt='License'/>
 
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualizer.
 
