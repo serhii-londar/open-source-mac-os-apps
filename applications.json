@@ -11081,6 +11081,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenPaw",
+            "short_description": "CLI tool (npx pawmode) that turns Claude Code into a personal assistant with 38 skills including email, calendar, Spotify, smart home, Slack, and more.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/daxaur/openpaw",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.npmjs.com/package/pawmode",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
