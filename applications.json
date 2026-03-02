@@ -4883,6 +4883,21 @@
             ]
         },
         {
+            "short_description": "AI notepad for meetings with flexible AI stack and on-device storage.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/fastrepl/char",
+            "title": "Char",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://char.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Little app that you can use as a quick note taking or todo app.",
             "categories": [
                 "notes"
