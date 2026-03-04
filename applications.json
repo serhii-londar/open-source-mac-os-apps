@@ -11081,6 +11081,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Pirate-themed macOS menu bar app that gamifies your dev velocity. Stop committing and your ship sinks.",
+            "categories": [
+                "menubar",
+                "git",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/JungHoonGhae/captains-log",
+            "title": "Captain's Log",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JungHoonGhae/captains-log/main/assets/social-preview.png"
+            ],
+            "official_site": "https://github.com/JungHoonGhae/captains-log",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
