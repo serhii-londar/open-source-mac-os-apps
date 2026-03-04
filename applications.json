@@ -11081,6 +11081,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Tailscale menu bar app for macOS. Manage servers, peers, and exit nodes from your menu bar.",
+            "categories": [
+                "menubar",
+                "networking"
+            ],
+            "repo_url": "https://github.com/JungHoonGhae/TailBar",
+            "title": "TailBar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/JungHoonGhae/TailBar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
