@@ -10299,6 +10299,14 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+
+- [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** [https://screentranslate.filient.ai](https://screentranslate.filient.ai)
+
+  **Badges:** <a href='https://github.com/hcmhcs/screenTranslate/releases/latest'><img src='https://img.shields.io/github/v/release/hcmhcs/screenTranslate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/hcmhcs/screenTranslate'><img src='https://img.shields.io/github/stars/hcmhcs/screenTranslate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/hcmhcs/screenTranslate' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/hcmhcs/screenTranslate' alt='License'/>
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
