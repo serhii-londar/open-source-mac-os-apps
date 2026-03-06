@@ -10299,7 +10299,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-
 - [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
