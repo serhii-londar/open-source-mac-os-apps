@@ -11081,6 +11081,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Dorothy",
+            "short_description": "Desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control via Telegram.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Charlie85270/Dorothy",
+            "icon_url": "https://raw.githubusercontent.com/Charlie85270/Dorothy/main/public/dorothy.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/0.png",
+                "https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/agetns.png",
+                "https://raw.githubusercontent.com/Charlie85270/Dorothy/main/screenshots/super-agent.png"
+            ],
+            "official_site": "https://dorothyai.app",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
