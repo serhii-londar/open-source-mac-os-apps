@@ -9119,7 +9119,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (112)
+### 🛠️ Utilities (113)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -10017,6 +10017,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [onWatch](https://github.com/onllm-dev/onwatch) - CLI tool that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, and more) with a Material Design 3 web dashboard.
+
+  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
+
+  **Website:** [https://onwatch.onllm.dev](https://onwatch.onllm.dev)
+
+  **Badges:** <a href='https://github.com/onllm-dev/onwatch/releases/latest'><img src='https://img.shields.io/github/v/release/onllm-dev/onwatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/onllm-dev/onwatch'><img src='https://img.shields.io/github/stars/onllm-dev/onwatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/onllm-dev/onwatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/onllm-dev/onwatch' alt='License'/>
 
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
 
