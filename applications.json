@@ -8824,6 +8824,22 @@
             ]
         },
         {
+            "title": "Bolo",
+            "short_description": "Open source voice dictation menubar app for macOS. Hold Right Option to dictate, text pastes wherever your cursor is.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "audio"
+            ],
+            "repo_url": "https://github.com/a692570/bolo",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/a692570/bolo",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "A scriptable scratchpad for developers.",
             "categories": [
                 "other-development",
