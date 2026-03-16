@@ -11081,6 +11081,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Fazm",
+            "short_description": "The fastest AI computer agent for macOS. Takes voice commands and controls your entire desktop.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/m13v/fazm",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://fazm.ai",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
         }
     ]
 }
