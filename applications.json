@@ -11081,6 +11081,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lockpaw",
+            "short_description": "Lockpaw locks the screen while letting background tasks, builds, and AI agents keep running underneath. Native macOS menu bar app.",
+            "categories": [
+                "security",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sorkila/lockpaw",
+            "icon_url": "https://raw.githubusercontent.com/sorkila/lockpaw/main/Lockpaw/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png",
+            "screenshots": [],
+            "official_site": "https://getlockpaw.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
