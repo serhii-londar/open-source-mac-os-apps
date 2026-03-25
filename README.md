@@ -14,7 +14,7 @@
   <p>
     <img src="https://img.shields.io/badge/Total%20Apps-689-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-February%2023,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-March%2025,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -46,7 +46,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 |--------|-------|
 | 📱 Total Applications | 689 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 304 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
+| 🔝 Top Languages | Swift: 305 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -5210,9 +5210,9 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate.
+- [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - A handy (native) menu bar translator app that supports Google Translate.
 
-  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://thijmendam.github.io/BarTranslate/](https://thijmendam.github.io/BarTranslate/)
 
@@ -5222,7 +5222,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://github.com/ThijmenDam/BarTranslate/raw/master/promo/BarTranslate-AppStore-promo-1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://github.com/ThijmenDam/BarTranslate/raw/master/promo/BarTranslate-AppStore-promo-2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
