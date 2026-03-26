@@ -11007,7 +11007,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="window-management"></a>
-### 🪟 Window Management (16)
+### 🪟 Window Management (17)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
@@ -11155,6 +11155,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Nudge](https://github.com/mikusnuz/nudge) - Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://nudge.run](https://nudge.run)
+
+  **Badges:** <a href='https://github.com/mikusnuz/nudge/releases/latest'><img src='https://img.shields.io/github/v/release/mikusnuz/nudge?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mikusnuz/nudge'><img src='https://img.shields.io/github/stars/mikusnuz/nudge?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mikusnuz/nudge' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mikusnuz/nudge' alt='License'/>
 
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS window and app manager scriptable with JavaScript. 
 
