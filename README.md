@@ -8185,6 +8185,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [TouchBridge](https://github.com/HMAKT99/UnTouchID) – Use your phone's fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard. Works with iPhone, Android, Apple Watch, or any
+  browser.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
+
+    **Badges:** <a href='https://github.com/HMAKT99/UnTouchID/releases/latest'><img src='https://img.shields.io/github/v/release/HMAKT99/UnTouchID?display_name=tag&sort=semver' alt='Latest Release'/></a>
+  &nbsp; <a href='https://github.com/HMAKT99/UnTouchID'><img src='https://img.shields.io/github/stars/HMAKT99/UnTouchID?style=social' alt='GitHub stars'/></a> &nbsp; <img
+  src='https://img.shields.io/github/last-commit/HMAKT99/UnTouchID' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/HMAKT99/UnTouchID' alt='License'/>
+
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
