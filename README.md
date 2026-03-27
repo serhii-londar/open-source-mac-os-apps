@@ -5151,6 +5151,11 @@ You can see in which language an app is written. Currently there are following l
 
 <a id="menubar"></a>
 ### 📊 Menubar (52)
+- [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) - See your Claude.ai session (5-hour) and weekly usage limits live in your macOS menu bar. Zero setup — reads local browser cookies. No Electron.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
+  **Badges:** <a href='https://github.com/yagcioglutoprak/ClaudeUsageBar/releases/latest'><img src='https://img.shields.io/github/v/release/yagcioglutoprak/ClaudeUsageBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yagcioglutoprak/ClaudeUsageBar'><img src='https://img.shields.io/github/stars/yagcioglutoprak/ClaudeUsageBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/yagcioglutoprak/ClaudeUsageBar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/yagcioglutoprak/ClaudeUsageBar' alt='License'/>
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
