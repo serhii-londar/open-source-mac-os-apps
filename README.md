@@ -8551,7 +8551,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="system"></a>
-### ⚙️ System (24)
+### ⚙️ System (25)
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8605,6 +8605,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM) to reclaim disk space on macOS. 
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+  **Badges:** <a href='https://github.com/bysiber/cleardisk/releases/latest'><img src='https://img.shields.io/github/v/release/bysiber/cleardisk?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bysiber/cleardisk'><img src='https://img.shields.io/github/stars/bysiber/cleardisk?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/bysiber/cleardisk' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/bysiber/cleardisk' alt='License'/>
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
