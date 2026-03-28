@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "RightLayout",
+            "short_description": "AI keyboard layout fixer that auto-corrects wrong keyboard layout (EN/RU/HE) as you type using CoreML.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/chernistry/RightLayout-src",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://alexchernysh.com/rightlayout",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
