@@ -10182,6 +10182,14 @@ You can see in which language an app is written. Currently there are following l
   </details>
 
 - [SaneBar](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
+- [R2Drop](https://github.com/superhumancorp/r2drop) - Native macOS menu bar app for uploading files to Cloudflare R2 storage. Supports drag-and-drop, automatic URL copying, and multiple bucket management.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://r2drop.com](https://r2drop.com)
+
+  **Badges:** <a href='https://github.com/superhumancorp/r2drop/releases/latest'><img src='https://img.shields.io/github/v/release/superhumancorp/r2drop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/superhumancorp/r2drop'><img src='https://img.shields.io/github/stars/superhumancorp/r2drop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/superhumancorp/r2drop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/superhumancorp/r2drop' alt='License'/>
+
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
