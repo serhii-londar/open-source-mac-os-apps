@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-689-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-690-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-March%2025,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 689 |
+| 📱 Total Applications | 690 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 305 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
 
@@ -2701,7 +2701,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://raw.githubusercontent.com/devcxm/iOS-Images-Extractor/master/iOSImagesExtractor/iOSImagesExtractor/Images.xcassets/AppIcon.appiconset/AppIcon-256.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://cloud.githubusercontent.com/assets/8569055/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7719,7 +7719,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://cloud.githubusercontent.com/assets/1434418/21689532/52b0c1ba-d379-11e6-882a-b16d4f8fce00.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://cloud.githubusercontent.com/assets/1434418/21690532/52b0c1ba-d379-11e6-882a-b16d4f8fce00.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8876,7 +8876,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="terminal"></a>
-### 📺 Terminal (15)
+### 📺 Terminal (16)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -8938,9 +8938,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. 
+- [Flock](https://github.com/Divagation/flock) - Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression.
 
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Badges:** <a href='https://github.com/Divagation/flock/releases/latest'><img src='https://img.shields.io/github/v/release/Divagation/flock?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Divagation/flock'><img src='https://img.shields.io/github/stars/Divagation/flock?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Divagation/flock' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Divagation/flock' alt='License'/>
+
+- [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Badges:** <a href='https://github.com/onmyway133/FinderGo/releases/latest'><img src='https://img.shields.io/github/v/release/onmyway133/FinderGo?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/onmyway133/FinderGo'><img src='https://img.shields.io/github/stars/onmyway133/FinderGo?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/onmyway133/FinderGo' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/onmyway133/FinderGo' alt='License'/>
 
