@@ -10794,9 +10794,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files. 
+- [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle. One-command build-from-source install.
 
-  **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Badges:** <a href='https://github.com/ruspg/markdown-quicklook/releases/latest'><img src='https://img.shields.io/github/v/release/ruspg/markdown-quicklook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ruspg/markdown-quicklook'><img src='https://img.shields.io/github/stars/ruspg/markdown-quicklook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ruspg/markdown-quicklook' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ruspg/markdown-quicklook' alt='License'/>
+
+- [QuickLook Video](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+
+  **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
   **Badges:** <a href='https://github.com/Marginal/QLVideo/releases/latest'><img src='https://img.shields.io/github/v/release/Marginal/QLVideo?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Marginal/QLVideo'><img src='https://img.shields.io/github/stars/Marginal/QLVideo?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/Marginal/QLVideo' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/Marginal/QLVideo' alt='License'/>
 
