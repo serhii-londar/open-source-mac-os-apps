@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Local meeting transcription that drops structured markdown into your Obsidian vault. No cloud, no API keys.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/Gremble-io/Tome",
+            "title": "Tome",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
