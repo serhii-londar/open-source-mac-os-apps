@@ -800,7 +800,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="browser"></a>
-### 🌐 Browser (13)
+### 🌐 Browser (14)
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -920,6 +920,12 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Badges:** <a href='https://github.com/smmr-software/privacy-redirect-safari/releases/latest'><img src='https://img.shields.io/github/v/release/smmr-software/privacy-redirect-safari?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/smmr-software/privacy-redirect-safari'><img src='https://img.shields.io/github/stars/smmr-software/privacy-redirect-safari?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/smmr-software/privacy-redirect-safari' alt='License'/>
+
+- [Safari MCP](https://github.com/achiya-automation/safari-mcp) - Native Safari browser automation for AI agents on macOS. 80 tools via AppleScript + JavaScript.
+
+  **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Badges:** <a href='https://github.com/achiya-automation/safari-mcp/releases/latest'><img src='https://img.shields.io/github/v/release/achiya-automation/safari-mcp?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/achiya-automation/safari-mcp'><img src='https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/achiya-automation/safari-mcp' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/achiya-automation/safari-mcp' alt='License'/>
 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. 
 
