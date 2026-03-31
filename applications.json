@@ -11082,6 +11082,26 @@
             "languages": [
                 "swift"
             ]
+        },
+	{
+            "short_description": "Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cordwainersmith/claudoscope",
+            "title": "Claudoscope",
+            "icon_url": "https://claudoscope.com/logo.png",
+            "screenshots": [
+                "https://claudoscope.com/widget.png",
+                "https://claudoscope.com/health.png",
+                "https://claudoscope.com/secret-found.png",
+                "https://claudoscope.com/skills.png"
+            ],
+            "official_site": "https://claudoscope.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
