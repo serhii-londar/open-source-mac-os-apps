@@ -127,7 +127,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 <a id="audio"></a>
-### 🎵 Audio (39)
+### 🎵 Audio (40)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -302,6 +302,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [EnviousWispr](https://github.com/saurabhav88/EnviousWispr) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://enviouswispr.com/](https://enviouswispr.com/)
+
+  **Badges:** <a href='https://github.com/saurabhav88/EnviousWispr/releases/latest'><img src='https://img.shields.io/github/v/release/saurabhav88/EnviousWispr?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/saurabhav88/EnviousWispr'><img src='https://img.shields.io/github/stars/saurabhav88/EnviousWispr?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/saurabhav88/EnviousWispr' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/saurabhav88/EnviousWispr' alt='License'/>
 
 - [fre:ac](https://github.com/enzo1982/freac) - The fre:ac audio converter project. 
 
