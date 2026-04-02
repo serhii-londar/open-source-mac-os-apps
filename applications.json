@@ -11090,13 +11090,13 @@
                 "ios--macos",
                 "utilities"
             ],
-            "repo_url": "https://github.com/cristidbr/vision_framework_explorer",
+            "repo_url": "https://github.com/cristidbr/vision-framework-explorer",
             "title": "Vision Fraemwork Explorer",
-            "icon_url": "https://raw.githubusercontent.com/cristidbr/vision_framework_explorer/refs/heads/main/Resources/app_icon.png",
+            "icon_url": "https://raw.githubusercontent.com/cristidbr/vision-framework-explorer/refs/heads/main/Resources/app_icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/cristidbr/vision_framework_explorer/refs/heads/main/Resources/app_preview_dual_appearance.png"  
+                "https://raw.githubusercontent.com/cristidbr/vision-framework-explorer/refs/heads/main/Resources/app_preview_dual_appearance.png"  
             ],
-            "official_site": "https://github.com/cristidbr/vision_framework_explorer",
+            "official_site": "https://github.com/cristidbr/vision-framework-explorer",
             "languages": [
                 "swift"
             ]
