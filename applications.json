@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+	{
+            "title": "ClearanceKit",
+            "short_description": "File-access control for macOS that protects sensitive user data from supply-chain attacks using Endpoint Security.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/craigjbass/clearancekit",
+            "icon_url": "https://raw.githubusercontent.com/craigjbass/clearancekit/main/docs/logo.png",
+            "screenshots": [],
+            "official_site": "https://craigjbass.github.io/clearancekit",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
