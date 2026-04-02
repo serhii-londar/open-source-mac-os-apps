@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Revu",
+            "short_description": "Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/JuliusBrussee/revu-swift",
+            "icon_url": "https://raw.githubusercontent.com/JuliusBrussee/revu-swift/main/Revu/Revu/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png",
+            "screenshots": [],
+            "official_site": "https://revu.cards",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
