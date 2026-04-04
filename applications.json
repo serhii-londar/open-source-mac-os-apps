@@ -7515,6 +7515,21 @@
             ]
         },
         {
+            "title": "HardwareVisualizer",
+            "short_description": "A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/shm11C3/HardwareVisualizer",
+            "icon_url": "https://raw.githubusercontent.com/shm11C3/HardwareVisualizer/refs/heads/develop/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://hardviz.com/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Catch YouTube into your macOS menu bar! ",
             "categories": [
                 "video"
