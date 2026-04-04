@@ -7523,7 +7523,11 @@
             ],
             "repo_url": "https://github.com/shm11C3/HardwareVisualizer",
             "icon_url": "https://raw.githubusercontent.com/shm11C3/HardwareVisualizer/refs/heads/develop/app-icon.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/shm11C3/hardviz-webpage/refs/heads/master/src/assets/screenshots/macos.png",
+                "https://github-production-user-asset-6210df.s3.amazonaws.com/78523393/386857440-ef3e1630-e567-47a1-a437-f9a3981dd587.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260404T045959Z&X-Amz-Expires=300&X-Amz-Signature=2be99672ad79adbeda3f37d2900604c39cf023f12759ff84aac9b0ab07e10de5&X-Amz-SignedHeaders=host",
+                "https://github-production-user-asset-6210df.s3.amazonaws.com/78523393/416148241-dd849d54-37a0-4f00-bec8-9c7f994d49fa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260404T050011Z&X-Amz-Expires=300&X-Amz-Signature=13248bb92a309a1be5851ae38c45cbffe956c6fa851e9e7a0047f3791788fff5&X-Amz-SignedHeaders=host"
+            ],
             "official_site": "https://hardviz.com/",
             "languages": [
                 "rust",
