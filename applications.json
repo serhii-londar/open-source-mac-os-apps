@@ -7518,6 +7518,7 @@
             "title": "HardwareVisualizer",
             "short_description": "A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.",
             "categories": [
+                "system",
                 "utilities"
             ],
             "repo_url": "https://github.com/shm11C3/HardwareVisualizer",
