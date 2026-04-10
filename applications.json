@@ -4808,6 +4808,25 @@
             ]
         },
         {
+            "short_description": "Native YouTube Music client for macOS.",
+            "categories": [
+                "music",
+                "audio",
+                "player",
+                "streaming"
+            ],
+            "repo_url": "https://github.com/sozercan/kaset",
+            "title": "Kaset",
+            "icon_url": "https://raw.githubusercontent.com/sozercan/kaset/main/Sources/Kaset/Resources/kaset.icon/Assets/Image%20Layer.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sozercan/kaset/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. ",
             "categories": [
                 "news"
