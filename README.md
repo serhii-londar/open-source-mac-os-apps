@@ -3278,7 +3278,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="markdown"></a>
-#### 📝 Markdown (11)
+#### 📝 Markdown (12)
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. 
 
   **Languages:** <img src='./icons/elm-64.png' alt='Elm icon' title='Elm' height='16'/> Elm 
@@ -3345,6 +3345,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [md-preview](https://github.com/vorojar/md-preview) - Ultra-lightweight Markdown preview app (~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Badges:** <a href='https://github.com/vorojar/md-preview/releases/latest'><img src='https://img.shields.io/github/v/release/vorojar/md-preview?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vorojar/md-preview'><img src='https://img.shields.io/github/stars/vorojar/md-preview?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vorojar/md-preview' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vorojar/md-preview' alt='License'/>
 
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
