@@ -1,4 +1,3 @@
-<div align="center">
   <a href="https://vshymanskyy.github.io/StandWithUkraine">
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" />
   </a>
@@ -12,7 +11,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-689-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-690-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-March%2025,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +43,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 689 |
+| 📱 Total Applications | 690 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 305 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 306 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -8551,7 +8550,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="system"></a>
-### ⚙️ System (24)
+### ⚙️ System (25)
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8608,6 +8607,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Core-Monitor](https://github.com/offyotto-sl3/Core-Monitor) - Open-source macOS system monitor with menu bar stats, a full dashboard, optional fan control, and Touch Bar widgets.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://offyotto-sl3.github.io/Core-Monitor/](https://offyotto-sl3.github.io/Core-Monitor/)
+
+  **Badges:** <a href='https://github.com/offyotto-sl3/Core-Monitor/releases/latest'><img src='https://img.shields.io/github/v/release/offyotto-sl3/Core-Monitor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/offyotto-sl3/Core-Monitor'><img src='https://img.shields.io/github/stars/offyotto-sl3/Core-Monitor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/offyotto-sl3/Core-Monitor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/offyotto-sl3/Core-Monitor' alt='License'/>
 
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. 
 
