@@ -338,9 +338,6 @@ class ReadmeGenerator {
                 let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
-                // Add explicit anchor for TOC linking
-                let anchorId = generateAnchorId(category.title)
-                readmeString.append(String.enter + "<a id=\"\(anchorId)\"></a>" + String.enter)
                 readmeString.append(String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
@@ -351,8 +348,7 @@ class ReadmeGenerator {
                     readmeString.append(String.enter)
                 }
                 
-                // Add "Back to Top" link at the end of each category
-                readmeString.append("<div align=\"right\"><a href=\"#contents\">⬆️ Back to Top</a></div>" + String.enter)
+
                 
                 var subcategories = subcategories.filter({ $0.parent == category.id })
                 guard subcategories.count > 0 else { continue }
@@ -362,9 +358,6 @@ class ReadmeGenerator {
                     let subcategoryApps = validApplications.filter({ $0.categories.contains(subcategory.id) })
                     let subcategoryCount = subcategoryApps.count
                     let subcategoryEmoji = getCategoryEmoji(subcategory.id)
-                    // Add explicit anchor for TOC linking
-                    let subAnchorId = generateAnchorId(subcategory.title)
-                    readmeString.append(String.enter + "<a id=\"\(subAnchorId)\"></a>" + String.enter)
                     readmeString.append(String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
                     
                     var categoryApplications = subcategoryApps
@@ -375,8 +368,7 @@ class ReadmeGenerator {
                         readmeString.append(String.enter)
                     }
                     
-                    // Add "Back to Top" link at the end of each subcategory
-                    readmeString.append("<div align=\"right\"><a href=\"#contents\">⬆️ Back to Top</a></div>" + String.enter)
+
                 }
             }
             print("Finish iteration...")
@@ -452,39 +444,6 @@ extension JSONApplication {
         markdownDescription.append("- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(self.shortDescription)\n")
         
         let indent = "  "
-        // Badges are rendered directly under the title line for quick visibility
-        let ownerRepo = githubOwnerRepo(from: self.repoURL)
-        var badges = [String]()
-        // App Store button if appStoreID is set or if officialSite points to App Store
-        if let appStoreID = self.appStoreID, !appStoreID.isEmpty {
-            let appStoreURL = "https://apps.apple.com/app/id\(appStoreID)"
-            let appStoreButton = "<a href='\(appStoreURL)'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
-            badges.append(appStoreButton)
-        } else if isAppStoreURL(self.officialSite) {
-            let appStoreButton = "<a href='\(self.officialSite)'><img src='./icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>"
-            badges.append(appStoreButton)
-        }
-        // GitHub Releases badge
-        if let (owner, repo) = ownerRepo {
-            let releasesURL = "https://github.com/\(owner)/\(repo)/releases/latest"
-            let releaseBadge = "<a href='\(releasesURL)'><img src='https://img.shields.io/github/v/release/\(owner)/\(repo)?display_name=tag&sort=semver' alt='Latest Release'/></a>"
-            badges.append(releaseBadge)
-            // Stars badge
-            let starsBadge = "<a href='\(self.repoURL)'><img src='https://img.shields.io/github/stars/\(owner)/\(repo)?style=social' alt='GitHub stars'/></a>"
-            badges.append(starsBadge)
-            // Last commit badge (automatic indicator of project activity/maintenance)
-            let lastCommitBadge = "<img src='https://img.shields.io/github/last-commit/\(owner)/\(repo)' alt='Last commit'/>"
-            badges.append(lastCommitBadge)
-            // License badge
-            let licenseBadge = "<img src='https://img.shields.io/github/license/\(owner)/\(repo)' alt='License'/>"
-            badges.append(licenseBadge)
-        }
-        // Homebrew availability badge if provided
-        if let cask = self.homebrewCask, !cask.isEmpty {
-            let brewURL = "https://formulae.brew.sh/cask/\(cask)"
-            let brewBadge = "<a href='\(brewURL)'><img src='https://img.shields.io/badge/Homebrew-available-ebb000?logo=homebrew&logoColor=white' alt='Homebrew cask'/></a>"
-            badges.append(brewBadge)
-        }
         if !languages.isEmpty {
             markdownDescription.append("\n\(indent)**Languages:** \(languages)\n")
         }
@@ -494,26 +453,23 @@ extension JSONApplication {
             markdownDescription.append("\(websitePrefix)\(indent)**Website:** [\(self.officialSite)](\(self.officialSite))\n")
         }
 
-        if badges.isEmpty == false {
-            markdownDescription.append("\n\(indent)**Badges:** \(badges.joined(separator: " &nbsp; "))\n")
-        }
-
         // Collapsible screenshots to avoid eager image loading
-        if self.screenshots.count > 0 {
+        let validScreenshots = self.screenshots.filter { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty }
+        if validScreenshots.count > 0 {
             markdownDescription.append("\n" + indent + "<details>\n")
             markdownDescription.append(indent + "<summary>Screenshots</summary>\n")
             markdownDescription.append(indent + "<p>\n\n")
 
             // Limit to first 3 screenshots to reduce load time
-            let limitedScreenshots = self.screenshots.count > 3 ? Array(self.screenshots.prefix(3)) : self.screenshots
+            let limitedScreenshots = validScreenshots.count > 3 ? Array(validScreenshots.prefix(3)) : validScreenshots
 
             limitedScreenshots.forEach({
                 markdownDescription.append("  <img src='\($0)' width='400' loading='lazy' decoding='async' fetchpriority='low'/>\n\n")
             })
 
             // Add a note if there are more screenshots
-            if self.screenshots.count > 3 {
-                markdownDescription.append("  *(\(self.screenshots.count - 3) more screenshots available in the repository)*\n\n")
+            if validScreenshots.count > 3 {
+                markdownDescription.append("  *(\(validScreenshots.count - 3) more screenshots available in the repository)*\n\n")
             }
 
             markdownDescription.append(indent + "</p>\n")
