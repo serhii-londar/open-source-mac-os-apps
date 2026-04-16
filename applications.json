@@ -2634,7 +2634,7 @@
         {
             "short_description": "Simple macOS app for uploading files to Amazon Web Services. ",
             "categories": [
-                "web-development"
+                "web-development"f
             ],
             "repo_url": "https://github.com/RafalWilinski/s3-uploader",
             "title": "aws-s3-uploader",
@@ -4965,6 +4965,27 @@
                 "javascript"
             ]
         },
+		{
+              "title": "Notepad++ for Mac",
+              "short_description": "Native macOS port of the Notepad++ code editor. No Wine, no emulation; runs on Apple
+   Silicon and Intel Macs.",
+              "categories": [
+                  "editors",
+                  "text",
+                  "development"
+              ],
+              "repo_url": "https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos",
+              "icon_url": "https://notepad-plus-plus-mac.org/assets/images/logo-icon.png",
+              "screenshots": [
+                  "https://notepad-plus-plus-mac.org/assets/images/screenshot1.png",
+                  "https://notepad-plus-plus-mac.org/assets/images/screenshot3.png"
+              ],
+              "official_site": "https://notepad-plus-plus-mac.org",
+              "languages": [
+                  "cpp",
+                  "objective-c"
+              ]
+          },
         {
             "short_description": "Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. ",
             "categories": [
