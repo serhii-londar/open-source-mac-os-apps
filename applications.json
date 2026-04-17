@@ -893,6 +893,16 @@
             ]
         },
         {
+            "short_description": "A beautiful macOS application for managing Cursor IDE workspace files.",
+            "categories": ["development", "productivity"],
+            "repo_url": "https://github.com/SSBun/Shark",
+            "title": "Shark",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://ssbun.github.io/Shark",
+            "languages": ["swift"]
+        },
+        {
             "short_description": "Minimal, beautifully designed music player for macOS. ",
             "categories": [
                 "audio"
