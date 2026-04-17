@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+    {
+        "title": "Clippy",
+        "short_description": "Clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.",
+        "categories": [
+            "productivity",
+            "utilities"
+        ],
+        "repo_url": "https://github.com/yarasaa/Clippy",
+        "icon_url": "https://raw.githubusercontent.com/yarasaa/Clippy/main/docs/screenshots/01-main-popover.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/yarasaa/Clippy/main/docs/screenshots/01-main-popover.png",
+            "https://raw.githubusercontent.com/yarasaa/Clippy/main/docs/screenshots/14-editor.png",
+            "https://raw.githubusercontent.com/yarasaa/Clippy/main/docs/screenshots/16-file-converter.png"
+        ],
+        "official_site": "https://github.com/yarasaa/Clippy",
+        "languages": [
+            "swift"
+        ]
+    }
     ]
 }
