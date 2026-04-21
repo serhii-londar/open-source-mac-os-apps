@@ -3178,6 +3178,21 @@
             ]
         },
         {
+            "short_description": "Fast, native macOS code editor under 1 MB — built with Swift and AppKit, no Electron.",
+            "categories": [
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/arietan/lite-edit",
+            "title": "LiteEdit",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://arietan.github.io/lite-edit/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Lightweight Code Editor (IDE) for macOS. ",
             "categories": [
                 "ide",
