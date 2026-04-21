@@ -855,9 +855,24 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux. 
+- [ClawBox](https://github.com/coderkk1992/clawbox) - Run OpenClaw AI agent in a sandboxed Linux VM with a native macOS interface.
 
-  **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+  **Badges:** <a href='https://github.com/coderkk1992/clawbox/releases/latest'><img src='https://img.shields.io/github/v/release/coderkk1992/clawbox?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/coderkk1992/clawbox'><img src='https://img.shields.io/github/stars/coderkk1992/clawbox?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/coderkk1992/clawbox' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/coderkk1992/clawbox' alt='License'/>
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/coderkk1992/clawbox/main/screenshots/conversation.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.
+
+  **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
   <details>
   <summary>Screenshots</summary>
