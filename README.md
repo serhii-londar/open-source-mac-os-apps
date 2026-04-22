@@ -4424,6 +4424,10 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [BrewBar](https://github.com/MoLinesGitHub/Brew-TUI/tree/main/menubar) - macOS menu bar companion for Homebrew — shows outdated package counts, sends notifications, and lets you upgrade without opening a terminal. 
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
