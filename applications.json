@@ -1112,6 +1112,21 @@
             ]
         },
         {
+            "short_description": "macOS menu bar companion for Homebrew — shows outdated package counts, sends notifications, and lets you upgrade without opening a terminal.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/MoLinesGitHub/Brew-TUI/tree/main/menubar",
+            "title": "BrewBar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/MoLinesGitHub/Brew-TUI",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. ",
             "categories": [
                 "browser"
