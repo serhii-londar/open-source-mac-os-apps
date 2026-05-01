@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Whisky",
+            "short_description": "Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.",
+            "categories": [
+                "games",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/frankea/Whisky",
+            "icon_url": "https://raw.githubusercontent.com/frankea/Whisky/main/Whisky/Assets.xcassets/AppIcon.appiconset/512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/frankea/Whisky/main/images/config-screenshot.png",
+                "https://raw.githubusercontent.com/frankea/Whisky/main/images/new-bottle-screenshot.png"
+            ],
+            "official_site": "https://github.com/frankea/Whisky",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
