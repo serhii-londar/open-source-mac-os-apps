@@ -5058,6 +5058,24 @@
             ]
         },
         {
+            "short_description": "Minimal frameless notepad with local-only storage, no telemetry. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history.",
+            "categories": [
+                "notes",
+                "editors"
+            ],
+            "repo_url": "https://github.com/Omibranch/qnote",
+            "title": "qnote",
+            "icon_url": "",
+            "screenshots": [
+                "https://i.ibb.co/SD9bzS9H/qnote-1dark.jpg"
+            ],
+            "official_site": "https://github.com/Omibranch/qnote",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
             "categories": [
                 "markdown",
