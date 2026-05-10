@@ -4694,6 +4694,10 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [OpenQuack](https://github.com/larryxiao/openquack) - Local-only voice dictation for macOS — press a hotkey, speak, transcript pasted at cursor. WhisperKit on Apple Silicon, 99 Whisper languages, no telemetry.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
