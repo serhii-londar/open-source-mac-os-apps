@@ -1,5 +1,22 @@
 {
     "applications": [
+        {
+            "short_description": "Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Notchly/Notchly",
+            "title": "Notchly",
+            "icon_url": "https://notchly.xyz/assets/icon.png",
+            "screenshots": [
+                "https://notchly.xyz/assets/expandedview.png"
+            ],
+            "official_site": "https://notchly.xyz",
+            "languages": [
+                "Swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
