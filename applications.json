@@ -11082,6 +11082,30 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CrossMacro",
+            "short_description": "A cross-platform macro recorder, player, editor, and text expansion tool.",
+            "categories": [
+                "utilities",
+                "keyboard",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alper-han/CrossMacro",
+            "icon_url": "https://raw.githubusercontent.com/alper-han/CrossMacro/main/src/CrossMacro.UI/Assets/mouse-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/recording-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/playback-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/text-expansion-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/shortcuts-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/schedule-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/editor-tab.png",
+                "https://raw.githubusercontent.com/alper-han/CrossMacro/main/screenshots/settings-tab.png"
+            ],
+            "official_site": "https://github.com/alper-han/CrossMacro",
+            "languages": [
+                "c_sharp"
+            ]
         }
     ]
 }
