@@ -10840,6 +10840,27 @@
                 "typescript"
             ]
         },
+        {
+            "short_description": "Local-first AI file search for macOS that indexes selected personal files on-device with embeddings, visual search, and local GGUF models.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Unary-Works/Unfoldly",
+            "title": "Unfoldly",
+            "icon_url": "https://raw.githubusercontent.com/Unary-Works/Unfoldly/main/docs/assets/brand/unfoldly-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Unary-Works/Unfoldly/main/docs/assets/demos/find-my-dogs.gif",
+                "https://raw.githubusercontent.com/Unary-Works/Unfoldly/main/docs/assets/demos/manta.gif",
+                "https://raw.githubusercontent.com/Unary-Works/Unfoldly/main/docs/assets/demos/excel-analysis.gif"
+            ],
+            "official_site": "https://www.unfoldly.io/",
+            "languages": [
+                "typescript",
+                "rust",
+                "python"
+            ]
+        },
 	      {
             "short_description": "A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.",
             "categories": [
