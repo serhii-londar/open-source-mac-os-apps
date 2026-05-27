@@ -36,7 +36,7 @@
         },
 
 	{
-            "short_description": "Menu bar app that monitors Docker, Supabase, and your local dev server, and lets you start them with one click when they're down.",
+            "short_description": "Menu bar app that monitors any local dev service (Docker, Postgres, Supabase, Redis, Next.js, Vite, and 12+ other presets, or your own) and starts them with one click when they're down.",
             "categories": [
                 "development",
                 "menubar"
@@ -44,7 +44,11 @@
             "repo_url": "https://github.com/sudyke/Claudia",
             "title": "Claudia",
             "icon_url": "https://raw.githubusercontent.com/sudyke/Claudia/main/Claudia/Assets.xcassets/ClaudeCode.imageset/claudecode-color.svg",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/sudyke/Claudia/main/docs/screenshots/popover.png",
+                "https://raw.githubusercontent.com/sudyke/Claudia/main/docs/screenshots/settings-services.png",
+                "https://raw.githubusercontent.com/sudyke/Claudia/main/docs/screenshots/add-service.png"
+            ],
             "official_site": "https://github.com/sudyke/Claudia",
             "languages": [
                 "swift"
