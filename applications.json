@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Terminal Workspace",
+            "short_description": "Multi-project terminal workspace for managing many developer terminals from one macOS desktop app.",
+            "categories": [
+                "terminal",
+                "developer"
+            ],
+            "repo_url": "https://github.com/EvanAI0331/terminal-workspace",
+            "icon_url": "https://raw.githubusercontent.com/EvanAI0331/terminal-workspace/main/assets/TerminalTopology.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/EvanAI0331/terminal-workspace/main/site/terminal-workspace-1440.png"
+            ],
+            "official_site": "https://evanai0331.github.io/terminal-workspace/",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
         }
     ]
 }
