@@ -6522,6 +6522,20 @@
             ]
         },
         {
+            "short_description": "Keeps your Mac awake on battery with the lid closed — the Apple Silicon clamshell case that caffeinate-based blockers can't cover.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://github.com/NongKnot/StayUp",
+            "title": "StayUp",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://getstayup.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ",
             "categories": [
                 "system"
