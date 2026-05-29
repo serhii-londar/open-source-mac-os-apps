@@ -1,6 +1,22 @@
 {
     "applications": [
 	{
+            "title": "quokka",
+            "short_description": "Inspect and clean a USB-connected iPhone from the macOS terminal: storage, apps, media, syslog. No jailbreak.",
+            "categories": [
+                "ios--macos",
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dutradotdev/quokka",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
