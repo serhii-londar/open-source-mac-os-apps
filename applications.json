@@ -1,6 +1,17 @@
 {
     "applications": [
 	{
+            "short_description": "Keep your MacBook awake with the lid closed, on battery, with no external display, with a battery-floor auto-off.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Aboudjem/Sleepless",
+            "title": "Sleepless",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
@@ -166,7 +177,7 @@
         {
             "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
             "categories": [
-                "games",
+                "games"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe",
             "title": "Amazing Tic Tac Toe",
@@ -184,7 +195,7 @@
         {
             "short_description": "Simple and elegant menubar weather app on the App Store.",
             "categories": [
-                "menubar",
+                "menubar"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
             "title": "Quick Weather",
