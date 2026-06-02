@@ -1,6 +1,21 @@
 {
     "applications": [
 	{
+            "title": "Skilly",
+            "short_description": "Voice-first AI tutor that watches your screen and points at on-screen UI elements to teach creative software like Blender, Figma, and Premiere.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tryskilly/skilly",
+            "icon_url": "https://raw.githubusercontent.com/tryskilly/skilly/main/leanring-buddy/Assets.xcassets/AppIcon.appiconset/1024-mac.png",
+            "screenshots": [],
+            "official_site": "https://tryskilly.app",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
