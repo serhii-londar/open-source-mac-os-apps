@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "LanGuard",
+            "short_description": "Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/roypadina/LanGuard",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/roypadina/LanGuard",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
