@@ -1,6 +1,23 @@
 {
     "applications": [
 	{
+            "title": "Agent CLI Menu",
+            "short_description": "TUI and menu-bar launcher to start or resume Claude Code and Codex coding-agent sessions, with full-transcript fuzzy search of past sessions.",
+            "categories": [
+                "development",
+                "menubar",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/roypadina/AgentCliMenu",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/roypadina/AgentCliMenu",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
