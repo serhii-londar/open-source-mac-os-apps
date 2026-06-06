@@ -4886,6 +4886,10 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://swiftbar.app](https://swiftbar.app)
 
+- [TopOff](https://github.com/ihazgithub/TopOff) - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
