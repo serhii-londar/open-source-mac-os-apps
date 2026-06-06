@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Lightweight macOS desktop system monitor with live CPU, memory, disk, network, battery, and process metrics, managed from the menu bar.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/bsnkhua/mole-widget",
+            "title": "Mole Widget",
+            "icon_url": "",
+            "screenshots": [
+               "https://raw.githubusercontent.com/bsnkhua/mole-widget/main/assets/widget.webp"
+            ],
+            "official_site": "https://github.com/bsnkhua/mole-widget",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
