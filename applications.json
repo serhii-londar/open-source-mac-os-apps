@@ -7501,6 +7501,23 @@
             ]
         },
         {
+            "short_description": "Claude Code usage in the menu bar — live 5-hour session and 7-day week percentages, color-coded as a limit approaches.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/patwalls/headroom",
+            "title": "Headroom",
+            "icon_url": "",
+            "screenshots": [
+                "https://headroom.walls.sh/dropdown.png"
+            ],
+            "official_site": "https://headroom.walls.sh",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "HandBrake is a video transcoder available for Linux, Mac, and Windows. ",
             "categories": [
                 "video"
