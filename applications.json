@@ -11082,6 +11082,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Offsend",
+            "short_description": "Local-first menu bar app that prepares projects, files, and clipboard text for AI tools by detecting and masking sensitive data.",
+            "categories": [
+                "menubar",
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Offsend/Offsend",
+            "icon_url": "https://raw.githubusercontent.com/Offsend/Offsend/main/App/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Offsend/Offsend/main/assets/clipboard.png",
+                "https://raw.githubusercontent.com/Offsend/Offsend/main/assets/docs.png",
+                "https://raw.githubusercontent.com/Offsend/Offsend/main/assets/projects.png"
+            ],
+            "official_site": "https://offsend.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
