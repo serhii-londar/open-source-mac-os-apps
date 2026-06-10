@@ -1,6 +1,20 @@
 {
     "applications": [
 	{
+            "short_description": "IDE built on an infinite zoomable canvas. Editor, terminal, browser, and AI agent panels float in a spatial workspace instead of tabs.",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/0-AI-UG/cate",
+            "title": "Cate",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://cate.cero-ai.com",
+            "languages": [
+                "typescript"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
