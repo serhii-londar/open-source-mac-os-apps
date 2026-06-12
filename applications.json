@@ -3548,6 +3548,22 @@
             ]
         },
         {
+            "short_description": "Chess opening trainer: practice your own repertoires with spaced repetition, bundled Stockfish analysis and Lichess explorer.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/vancoeur/chess-opening-trainer",
+            "title": "Opening Trainer",
+            "icon_url": "https://raw.githubusercontent.com/vancoeur/chess-opening-trainer/main/assets/app_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vancoeur/chess-opening-trainer/main/docs/screenshot.en.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Beautiful, powerful chess application.",
             "categories": [
                 "games"
