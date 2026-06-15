@@ -3920,6 +3920,20 @@
             ]
         },
         {
+            "short_description": "Local-only photo and video organizer with duplicate detection, GPS map, RAW support and Google Takeout import. No cloud or account.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/boulbaal/fotoApp",
+            "title": "FotoApp",
+            "icon_url": "https://raw.githubusercontent.com/boulbaal/fotoApp/main/build/icon.png",
+            "screenshots": [],
+            "official_site": "https://boulbaal.github.io/fotoApp/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Insane(ly slow but wicked good) PNG image optimization. ",
             "categories": [
                 "images"
