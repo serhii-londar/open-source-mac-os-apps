@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MaCursor",
+            "short_description": "Custom cursor themes for macOS. MaCursor lets you replace every macOS system cursor — arrow, I-beam, crosshair, wait spinner, and more — with custom artwork of your own.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/writronic/MaCursor",
+            "icon_url": "https://github.com/writronic/MaCursor/raw/main/MaCursor/Images.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://github.com/writronic/MaCursor/raw/main/screenshot.png"
+            ],
+            "official_site": "https://writronic.com/macursor/",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
         }
     ]
 }
