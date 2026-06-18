@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NetGuard",
+            "short_description": "Native scanner and security auditor for your local network — device discovery, port scan, SSL inspection, and a passive risk audit, fully on-device.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Lyosis/NetGuard",
+            "icon_url": "https://raw.githubusercontent.com/Lyosis/NetGuard/main/NetGuard/Assets.xcassets/AppIcon.appiconset/Icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Lyosis/NetGuard/main/docs/screenshots/01-map-overview.png",
+                "https://raw.githubusercontent.com/Lyosis/NetGuard/main/docs/screenshots/02-device-detail.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
