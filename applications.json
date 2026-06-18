@@ -16,6 +16,26 @@
                 "typescript"
             ]
         },
+        {
+            "title": "Agent Island",
+            "short_description": "Native macOS notch companion for Claude Code and Codex session status plus auto-resume.",
+            "categories": [
+                "development",
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tristan666666/agent-island",
+            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/main/Resources/agentisland_logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-auto-trigger.png",
+                "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-usage.png"
+            ],
+            "official_site": "https://github.com/tristan666666/agent-island",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
@@ -166,7 +186,7 @@
         {
             "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
             "categories": [
-                "games",
+                "games"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe",
             "title": "Amazing Tic Tac Toe",
@@ -184,7 +204,7 @@
         {
             "short_description": "Simple and elegant menubar weather app on the App Store.",
             "categories": [
-                "menubar",
+                "menubar"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
             "title": "Quick Weather",
