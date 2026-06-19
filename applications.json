@@ -702,6 +702,22 @@
             ]
         },
         {
+            "short_description": "Per-app volume control from the menu bar. No virtual audio driver — uses Core Audio process taps.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/gigaptera/fabar",
+            "title": "Fabar",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gigaptera/fabar/main/docs/assets/screenshot-dark.png"
+            ],
+            "official_site": "https://fabar.gigaptera.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "The fre:ac audio converter project. ",
             "categories": [
                 "audio"
