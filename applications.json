@@ -1,5 +1,20 @@
 {
     "applications": [
+        {
+            "title": "Walter",
+            "short_description": "Native launcher and Spotlight, Alfred and Raycast alternative; no Electron, no accounts, no telemetry, configured in a TOML file.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ekinertac/walter",
+            "icon_url": "https://raw.githubusercontent.com/ekinertac/walter/master/walter-icon.png",
+            "screenshots": [],
+            "official_site": "https://walterlauncher.com",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
