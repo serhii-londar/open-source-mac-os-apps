@@ -5648,6 +5648,23 @@
             ]
         },
         {
+            "short_description": "Fast, private, developer-first clipboard manager with type-aware history, ⌘K transforms, and history encrypted at rest.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hasanjafri/Mimer",
+            "title": "Mimer",
+            "icon_url": "https://raw.githubusercontent.com/hasanjafri/Mimer/main/Sources/Mimer/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hasanjafri/Mimer/main/docs/media/hero.png"
+            ],
+            "official_site": "https://mimer.hasanjafri.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS open source clipboard manager",
             "categories": [
                 "productivity"
