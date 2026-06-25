@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SSH Tunnel Manager",
+            "short_description": "Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/0fuz/ssh-tunnel-manager",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/0fuz/ssh-tunnel-manager",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
