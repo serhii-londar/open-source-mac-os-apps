@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "VoxFlow",
+            "short_description": "Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/xingbofeng/VoxFlow",
+            "icon_url": "https://raw.githubusercontent.com/xingbofeng/VoxFlow/main/docs/assets/voiceinput-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xingbofeng/VoxFlow/main/docs/assets/voxflow-hero-workbench-promo-en.png"
+            ],
+            "official_site": "https://xingbofeng.github.io/VoxFlow/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
