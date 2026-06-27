@@ -1,5 +1,20 @@
 {
     "applications": [
+        {
+            "title": "Blurt",
+            "short_description": "Dictation app: hold a hotkey, speak, and cleaned-up text is pasted into the focused app. Uses AssemblyAI Sync STT (bring your own key).",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alexkroman/blurt",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://blurtblurt.com",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
