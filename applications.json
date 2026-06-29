@@ -1,5 +1,18 @@
 {
     "applications": [
+        {
+            "title": "Edmund",
+            "short_description": "Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/I7T5/Edmund",
+            "screenshots": [],
+            "official_site": "https://github.com/I7T5/Edmund",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
