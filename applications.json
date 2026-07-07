@@ -4996,7 +4996,7 @@
             ]
         },
         {
-            "short_description": "Open-source macOS menu bar app for meeting notes with live transcription, speaker labels, AI summaries, and an offline on-device mode.",
+            "short_description": "Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.",
             "categories": [
                 "notes",
                 "productivity",
