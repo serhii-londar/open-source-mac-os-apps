@@ -9144,6 +9144,23 @@
                 "swift"
             ]
         },
+        {
+            "short_description": "Menu bar app and CLI that reclaims disk space from dev build artifacts, caches and AI model weights. Trash-first, git-aware stale project detection.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/carloshpdoc/Harbofly",
+            "title": "Harbofly",
+            "icon_url": "https://harbofly.app/harbofly-icon.png",
+            "screenshots": [
+                "https://harbofly.app/harbofly-demo-en.jpg"
+            ],
+            "official_site": "https://harbofly.app",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "short_description": "Powerful menu bar manager for macOS",
             "categories": [
