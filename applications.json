@@ -6161,6 +6161,22 @@
             ]
         },
         {
+            "short_description": "Native SwiftUI macOS remote for the Transmission daemon; a modern transgui alternative.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/epaxpax/transmission-remote-gui",
+            "title": "Transmission Remote GUI",
+            "icon_url": "",
+            "screenshots": [
+                "https://epaxpax.github.io/transmission-remote-gui/screenshot.png"
+            ],
+            "official_site": "https://epaxpax.github.io/transmission-remote-gui/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Privacy enhanced BitTorrent client with P2P content discovery. ",
             "categories": [
                 "sharing-files"
