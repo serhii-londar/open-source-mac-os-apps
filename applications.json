@@ -11082,6 +11082,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Burrete",
+            "short_description": "Molecular workspace with Finder Quick Look previews, 3D structures, chemistry grids, and local workflow-artifact inspection.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/SergeiNikolenko/Burrete",
+            "icon_url": "https://raw.githubusercontent.com/SergeiNikolenko/Burrete/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://burrete-landing.vercel.app/assets/burrete-quicklook.png",
+                "https://burrete-landing.vercel.app/assets/main-light.png"
+            ],
+            "official_site": "https://burrete-landing.vercel.app/",
+            "languages": [
+                "typescript",
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
