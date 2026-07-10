@@ -18,7 +18,7 @@
         },
         {
             "title": "Agent Island",
-            "short_description": "Native macOS notch companion for Claude Code and Codex session status plus auto-resume.",
+            "short_description": "Native macOS notch companion for Claude Code and Codex: live session status, turn alarms, quota tracking with out-of-quota alerts, and auto-resume.",
             "categories": [
                 "development",
                 "menubar",
@@ -31,7 +31,7 @@
                 "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-auto-trigger.png",
                 "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-usage.png"
             ],
-            "official_site": "https://github.com/tristan666666/agent-island",
+            "official_site": "https://agent-island.dev",
             "languages": [
                 "swift"
             ]
