@@ -11084,16 +11084,16 @@
             ]
         },
         {
-            "title": "Parakey",
+            "title": "Presspeech",
             "short_description": "Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.",
             "categories": [
                 "utilities",
                 "menubar"
             ],
-            "repo_url": "https://github.com/rcourtman/parakey",
-            "icon_url": "https://raw.githubusercontent.com/rcourtman/parakey/main/icon/parakey-512.png",
+            "repo_url": "https://github.com/rcourtman/presspeech",
+            "icon_url": "https://raw.githubusercontent.com/rcourtman/presspeech/main/icon/presspeech-512.png",
             "screenshots": [],
-            "official_site": "https://rcourtman.github.io/parakey/",
+            "official_site": "https://rcourtman.github.io/presspeech/",
             "languages": [
                 "swift"
             ]
