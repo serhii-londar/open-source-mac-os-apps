@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Moler",
+            "short_description": "NASA-Punk themed macOS disk cleaner -- SwiftUI GUI for Mole CLI with system monitoring and disk usage treemap.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/niyongsheng/moler",
+            "icon_url": "https://raw.githubusercontent.com/niyongsheng/moler/main/logo.svg",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/ccc5b553-50e0-4930-b223-98cfb8018824"
+            ],
+            "official_site": "https://niyongsheng.github.io/moler/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
