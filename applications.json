@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Agent Teams AI",
+            "short_description": "Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/777genius/agent-teams-ai",
+            "icon_url": "https://raw.githubusercontent.com/777genius/agent-teams-ai/main/resources/icons/png/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/777genius/agent-teams-ai/main/docs/screenshots/cover-frame.png"
+            ],
+            "official_site": "https://agentteams.live",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
