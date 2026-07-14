@@ -18,7 +18,7 @@
         },
         {
             "title": "Agent Island",
-            "short_description": "Native macOS notch companion for Claude Code and Codex: live session status, turn alarms, quota tracking with out-of-quota alerts, and auto-resume.",
+            "short_description": "Open-source status companion for Claude Code and Codex with live session state, your-turn alerts, and local monitoring.",
             "categories": [
                 "development",
                 "menubar",
@@ -26,10 +26,10 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/tristan666666/agent-island",
-            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/main/Resources/agentisland_logo.png",
+            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Resources/agentisland_logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-auto-trigger.png",
-                "https://raw.githubusercontent.com/tristan666666/agent-island/main/Assets/agent-island-usage.png"
+                "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Assets/agent-island-bar-working.png",
+                "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Assets/agent-island-bar-alert.png"
             ],
             "official_site": "https://agent-island.dev",
             "languages": [
