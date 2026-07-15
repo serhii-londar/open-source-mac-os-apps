@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenHabitTracker",
+            "short_description": "Take notes, plan tasks, track habits. Free, open source, all data stays on your device.",
+            "categories": [
+                "productivity",
+                "notes"
+            ],
+            "repo_url": "https://github.com/Jinjinov/OpenHabitTracker",
+            "icon_url": "https://raw.githubusercontent.com/Jinjinov/OpenHabitTracker/main/net.openhabittracker.OpenHabitTracker.svg",
+            "screenshots": [
+                "https://openhabittracker.net/images/desktop_7_habits.png",
+                "https://openhabittracker.net/images/desktop_3_notes.png"
+            ],
+            "official_site": "https://openhabittracker.net",
+            "languages": [
+                "c_sharp"
+            ]
         }
     ]
 }
