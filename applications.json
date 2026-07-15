@@ -5648,6 +5648,26 @@
             ]
         },
         {
+            "short_description": "Native, local-first clipboard history manager with search, tags, image support, and quick paste.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hukdoesn/Nimclip",
+            "title": "Nimclip",
+            "icon_url": "https://raw.githubusercontent.com/hukdoesn/Nimclip/main/Cliplet/Assets.xcassets/NimclipAppIcon.imageset/nimclip-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hukdoesn/Nimclip/main/docs/images/nimclip-macbook-themes.png",
+                "https://raw.githubusercontent.com/hukdoesn/Nimclip/main/docs/images/nimclip-image-preview-real.png"
+            ],
+            "official_site": "https://hukdoesn.github.io/Nimclip/",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "15.0+"
+        },
+        {
             "short_description": "macOS open source clipboard manager",
             "categories": [
                 "productivity"
