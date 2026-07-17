@@ -16,6 +16,28 @@
                 "typescript"
             ]
         },
+        {
+            "title": "Orkas",
+            "short_description": "Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.",
+            "categories": [
+                "productivity",
+                "development",
+                "chat"
+            ],
+            "repo_url": "https://github.com/Orkas-AI/Orkas",
+            "icon_url": "https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Orkas-AI/Orkas/main/resources/app-ui/home-en.jpg",
+                "https://raw.githubusercontent.com/Orkas-AI/Orkas/main/resources/app-ui/home-zh.jpg"
+            ],
+            "official_site": "https://orkas.ai/?source=open_source_mac_os_apps",
+            "languages": [
+                "typescript",
+                "javascript",
+                "css",
+                "python"
+            ]
+        },
 	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
