@@ -271,6 +271,23 @@
             ]
         },
         {
+            "short_description": "Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/edjafarov/kiagent-core",
+            "title": "KIAgent",
+            "icon_url": "https://raw.githubusercontent.com/edjafarov/kiagent-core/dev/assets/icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/edjafarov/kiagent-core/dev/docs/assets/readme/hero.png"
+            ],
+            "official_site": "https://localkiagent.com",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Keka is a full featured file archiver, as easy as it can be.",
             "categories": [
                 "utilities"
