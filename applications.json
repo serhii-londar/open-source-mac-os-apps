@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "EyeBreak",
+            "short_description": "Menu bar 20-20-20 break reminders to reduce digital eye strain. No camera, no network.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sviatil0/eyebreak",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/sviatil0/eyebreak",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
