@@ -16,6 +16,24 @@
                 "typescript"
             ]
         },
+        {
+            "title": "Flowtake",
+            "short_description": "Local-first screen recorder and timeline editor for polished developer demos.",
+            "categories": [
+                "video",
+                "editors",
+                "development"
+            ],
+            "repo_url": "https://github.com/JNX03/Flowtake",
+            "icon_url": "https://raw.githubusercontent.com/JNX03/Flowtake/main/src-tauri/icons/128x128%402x.png",
+            "screenshots": [],
+            "official_site": "https://jnx03.github.io/Flowtake/",
+            "languages": [
+                "javascript",
+                "rust",
+                "swift"
+            ]
+        },
 	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
