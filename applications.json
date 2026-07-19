@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TypeCue",
+            "short_description": "Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alexpolonsky/TypeCue",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://typecue.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
