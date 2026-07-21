@@ -5648,6 +5648,22 @@
             ]
         },
         {
+            "short_description": "Privacy-first clipboard manager with history search, on-device image OCR, and snippets.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/supergodak/tameo",
+            "title": "Tameo",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/supergodak/tameo/main/docs/images/palette.png"
+            ],
+            "official_site": "https://tameo.ati-mirai.co.jp",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS open source clipboard manager",
             "categories": [
                 "productivity"
