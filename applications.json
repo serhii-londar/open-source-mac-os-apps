@@ -1,6 +1,21 @@
 {
     "applications": [
 	{
+            "title": "Mac Server Mode",
+            "short_description": "Keep Mac Mini servers awake with display turned off.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/thairc-dev/mac-server-mode",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/thairc-dev/mac-server-mode",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
