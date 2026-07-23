@@ -1,5 +1,20 @@
 {
     "applications": [
+        {
+            "short_description": "Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/WizenPainter/shuffle",
+            "title": "Shuffle",
+            "icon_url": "https://raw.githubusercontent.com/WizenPainter/shuffle/master/logo.png",
+            "screenshots": [],
+            "official_site": "https://shuffleapp.co",
+            "languages": [
+                "rust"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
