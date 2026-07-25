@@ -1,6 +1,22 @@
 {
     "applications": [
 	{
+            "title": "Preview3MF",
+            "short_description": "Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/cavoco/Preview3MF",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cavoco/Preview3MF/main/docs/preview.png"
+            ],
+            "official_site": "https://cavoco.github.io/Preview3MF/",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
