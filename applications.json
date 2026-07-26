@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Viaduct-CLI",
+            "short_description": "Command-line tool that converts a Google Chrome extension into a Safari web extension.",
+            "categories": [
+                "browser",
+                "extensions"
+            ],
+            "repo_url": "https://github.com/magicelk235/Viaduct-CLI",
+            "icon_url": "https://raw.githubusercontent.com/magicelk235/Viaduct-app/main/icon.png",
+            "screenshots": [],
+            "official_site": "https://magicelklabs.com",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
         }
     ]
 }
