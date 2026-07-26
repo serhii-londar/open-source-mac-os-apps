@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DevProjex",
+            "short_description": "Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Avazbek22/DevProjex",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/Avazbek22/DevProjex",
+            "languages": [
+                "c_sharp"
+            ]
         }
     ]
 }
