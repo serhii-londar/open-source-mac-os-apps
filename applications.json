@@ -1,6 +1,21 @@
 {
     "applications": [
 	{
+            "title": "Doppel",
+            "short_description": "Native duplicate file finder for macOS that matches files by content hash (not filename), with Trash-based deletion and Quick Look preview.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/JerzyD72/Doppel",
+            "icon_url": "https://raw.githubusercontent.com/JerzyD72/Doppel/main/Assets/icon_1024.png",
+            "screenshots": [],
+            "official_site": "https://github.com/JerzyD72/Doppel",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
