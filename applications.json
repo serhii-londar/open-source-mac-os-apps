@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Yap",
+            "short_description": "On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/FrigadeHQ/yap",
+            "icon_url": "https://raw.githubusercontent.com/FrigadeHQ/yap/main/assets/yap-icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/FrigadeHQ/yap",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
