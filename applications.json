@@ -11089,14 +11089,14 @@
                 "menubar",
                 "utilities"
             ],
-            "repo_url": "https://github.com/stonerl/Thaw",
+            "repo_url": "https://github.com/thaw-app/Thaw",
             "title": "Thaw",
-            "icon_url": "https://github.com/stonerl/Thaw/blob/development/Thaw/Resources/AppIcon.icon/Assets/cube.svg",
+            "icon_url": "https://github.com/thaw-app/brand-assets/blob/main/icons/app-new.png",
             "screenshots": [
                 "https://github.com/user-attachments/assets/9584065d-f840-4545-9a42-cfc5534b5ac3",
                 "https://github.com/user-attachments/assets/f2f6b9a6-55c5-40b3-910f-b27b114577dd"
             ],
-            "official_site": "https://github.com/stonerl/Thaw",
+            "official_site": "https://github.com/thaw-app/Thaw",
             "languages": [
                 "swift"
             ]
