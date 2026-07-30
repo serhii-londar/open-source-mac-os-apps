@@ -166,7 +166,7 @@
         {
             "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
             "categories": [
-                "games",
+                "games"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe",
             "title": "Amazing Tic Tac Toe",
@@ -184,7 +184,7 @@
         {
             "short_description": "Simple and elegant menubar weather app on the App Store.",
             "categories": [
-                "menubar",
+                "menubar"
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
             "title": "Quick Weather",
@@ -11066,6 +11066,22 @@
             "official_site": "https://gramps-project.org",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "title": "ItsPaint",
+            "short_description": "Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/joshlin2201/itspaint",
+            "icon_url": "https://raw.githubusercontent.com/joshlin2201/itspaint/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joshlin2201/itspaint/main/docs/images/editor-window.png"
+            ],
+            "official_site": "https://sites.fynesite.com/itspaint/",
+            "languages": [
+                "swift"
             ]
         },
         {
