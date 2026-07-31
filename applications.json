@@ -5058,6 +5058,23 @@
             ]
         },
         {
+            "short_description": "Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.",
+            "categories": [
+                "markdown",
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/codexu/note-gen",
+            "title": "NoteGen",
+            "icon_url": "https://raw.githubusercontent.com/codexu/note-gen/dev/src-tauri/icons/icon.png",
+            "screenshots": [],
+            "official_site": "https://notegen.top/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "short_description": "Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
             "categories": [
                 "markdown",
