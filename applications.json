@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Dantrolene",
+            "short_description": "Stops the screen from locking while on your home WiFi; locks normally on every other network.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/dantrolene",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-home.png",
+                "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-away.png"
+            ],
+            "official_site": "https://kagerou.glass/dantrolene/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
