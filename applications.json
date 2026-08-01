@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Adrafinil",
+            "short_description": "Keeps your Mac awake only while AI agents are working, then lets it sleep normally.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/adrafinil",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-awake.png",
+                "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-sleeping.png"
+            ],
+            "official_site": "https://kagerou.glass/adrafinil/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
