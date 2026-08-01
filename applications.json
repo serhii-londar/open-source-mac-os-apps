@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Rilmazafone",
+            "short_description": "Design DMG installers on a WYSIWYG canvas and build exactly what you drew.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/rilmazafone",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/.github/rilmazafone-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/screenshot.png",
+                "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/.github/rilmazafone-templates.png"
+            ],
+            "official_site": "https://kagerou.glass/rilmazafone/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
