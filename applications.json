@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Petrichor",
+            "short_description": "Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/kushalpandya/Petrichor",
+            "icon_url": "https://raw.githubusercontent.com/kushalpandya/Petrichor/main/.github/assets/DefaultAppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kushalpandya/Petrichor/main/.github/assets/hero_screenshot.png"
+            ],
+            "official_site": "https://petrichor.page",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
