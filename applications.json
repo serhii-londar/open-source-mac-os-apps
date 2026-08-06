@@ -1082,7 +1082,7 @@
         },
         {
             "title": "usage",
-            "short_description": "macOS menu bar app that pins Claude Code and Codex quota to the screen by reading local session files. Includes Progress Concierge for automatic session resume.",
+            "short_description": "macOS menu bar and Windows tray app that pins Claude Code, Codex, and Antigravity quota to the screen. Claude Code and Codex are read from local session files. Includes Progress Concierge for automatic session resume.",
             "categories": [
                 "menubar",
                 "development"
