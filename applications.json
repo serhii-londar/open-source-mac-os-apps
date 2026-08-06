@@ -685,6 +685,23 @@
             ]
         },
         {
+            "short_description": "System-wide menu bar equalizer that detects each track's genre and applies a matching EQ preset automatically, using a Core Audio process tap (no virtual audio driver).",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/gokturkgocen/Eqlume",
+            "title": "Eqlume",
+            "icon_url": "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/assets/app-store/01-follows-your-music.png",
+                "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/assets/app-store/02-see-the-sound.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "System-Wide Equalizer for the Mac. ",
             "categories": [
                 "audio"
