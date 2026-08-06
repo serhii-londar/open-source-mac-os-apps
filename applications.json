@@ -689,12 +689,12 @@
             "categories": [
                 "audio"
             ],
-            "repo_url": "https://github.com/gokturkgocen/Eqlume",
-            "title": "Eqlume",
-            "icon_url": "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/Resources/AppIcon-1024.png",
+            "repo_url": "https://github.com/gokturkgocen/EqLume",
+            "title": "EqLume",
+            "icon_url": "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/Resources/AppIcon-1024.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/assets/app-store/01-follows-your-music.png",
-                "https://raw.githubusercontent.com/gokturkgocen/Eqlume/main/assets/app-store/02-see-the-sound.png"
+                "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/assets/app-store/01-follows-your-music.png",
+                "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/assets/app-store/02-see-the-sound.png"
             ],
             "official_site": "https://apps.apple.com/app/id6793070613",
             "languages": [
