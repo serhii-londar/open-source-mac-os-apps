@@ -685,7 +685,7 @@
             ]
         },
         {
-            "short_description": "System-wide menu bar equalizer that detects each track's genre and applies a matching EQ preset automatically, using a Core Audio process tap (no virtual audio driver).",
+            "short_description": "System-wide equalizer that detects each track's genre and applies a matching preset automatically.",
             "categories": [
                 "audio"
             ],
