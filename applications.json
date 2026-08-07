@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Shieldxy",
+            "short_description": "Open-source, auditable application firewall for macOS that shows and controls outbound connections by signed app, domain, and policy.",
+            "categories": [
+                "security",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RockxyApp/Shieldxy",
+            "icon_url": "https://raw.githubusercontent.com/RockxyApp/Shieldxy/main/Shieldxy/Assets.xcassets/AppIcon.appiconset/icon_128x128%402x.png",
+            "screenshots": [],
+            "official_site": "https://rockxy.io/shieldxy",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
