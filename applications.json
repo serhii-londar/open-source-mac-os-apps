@@ -11085,7 +11085,7 @@
         },
         {
             "title": "Tracexy",
-            "short_description": "Native macOS network intelligence app that captures traffic and organizes it into explainable sessions.",
+            "short_description": "Open-source PCAP and PCAPNG analyzer for macOS that groups live or saved traffic into app-aware sessions.",
             "categories": [
                 "system",
                 "utilities"
