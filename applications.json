@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tracexy",
+            "short_description": "Native macOS network intelligence app that captures traffic and organizes it into explainable sessions.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RockxyApp/Tracexy",
+            "icon_url": "https://raw.githubusercontent.com/RockxyApp/Tracexy/main/Tracexy/Assets.xcassets/AppIcon.appiconset/128.png",
+            "screenshots": [],
+            "official_site": "https://github.com/RockxyApp/Tracexy",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
