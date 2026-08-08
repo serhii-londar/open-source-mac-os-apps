@@ -11085,7 +11085,7 @@
         },
         {
             "title": "Shieldxy",
-            "short_description": "Open-source, auditable application firewall for macOS that shows and controls outbound connections by signed app, domain, and policy.",
+            "short_description": "Open-source, native macOS application firewall that monitors and controls outbound connections by app, domain, and policy.",
             "categories": [
                 "security",
                 "system",
