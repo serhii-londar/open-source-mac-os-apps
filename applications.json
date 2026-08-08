@@ -18,7 +18,7 @@
         },
         {
             "title": "Agent Island",
-            "short_description": "Open-source status companion for Claude Code and Codex with live session state, your-turn alerts, and local monitoring.",
+            "short_description": "Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, alerts, and provider usage views.",
             "categories": [
                 "development",
                 "menubar",
@@ -26,10 +26,10 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/tristan666666/agent-island",
-            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Resources/agentisland_logo.png",
+            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/agentisland_logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Assets/agent-island-bar-working.png",
-                "https://raw.githubusercontent.com/tristan666666/agent-island/98244d415435854f358602763cd0f133ec6c10a8/Assets/agent-island-bar-alert.png"
+                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/whatsnew-211-overview-en.png",
+                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/whatsnew-211-cursor-en.png"
             ],
             "official_site": "https://agent-island.dev",
             "languages": [
