@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Plonk",
+            "short_description": "Menu bar window manager: snap zones you draw yourself, workspaces that reopen your apps on the right monitor, and an MCP server so an AI agent can arrange windows too.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ostapondo/plonk",
+            "icon_url": "https://raw.githubusercontent.com/ostapondo/plonk/main/docs/logo-400.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ostapondo/plonk/main/docs/demo.gif"
+            ],
+            "official_site": "https://ostapondo.github.io/Plonk/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
