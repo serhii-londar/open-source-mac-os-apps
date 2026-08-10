@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "nastro",
+            "short_description": "Terminal call recorder for macOS that captures system audio and mic (no bot joins the call) and transcribes on-device with speaker diarization, via TUI or headless CLI.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/scaccogatto/nastro",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/scaccogatto/nastro/main/.github/demo.gif"
+            ],
+            "official_site": "https://github.com/scaccogatto/nastro",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
