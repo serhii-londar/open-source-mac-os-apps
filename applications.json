@@ -18,7 +18,7 @@
         },
         {
             "title": "Agent Island",
-            "short_description": "Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, alerts, and provider usage views.",
+            "short_description": "Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, alerts, and provider usage views.",
             "categories": [
                 "development",
                 "menubar",
