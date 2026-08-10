@@ -26,10 +26,10 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/tristan666666/agent-island",
-            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/agentisland_logo.png",
+            "icon_url": "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.2/Resources/agentisland_logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/whatsnew-211-overview-en.png",
-                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.1/Resources/whatsnew-211-cursor-en.png"
+                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.2/Resources/whatsnew-overview.png",
+                "https://raw.githubusercontent.com/tristan666666/agent-island/v2.1.2/Resources/whatsnew-antigravity.png"
             ],
             "official_site": "https://agent-island.dev",
             "languages": [
@@ -186,7 +186,7 @@
         {
             "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
             "categories": [
-                "games"
+                "games",
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe",
             "title": "Amazing Tic Tac Toe",
@@ -204,7 +204,7 @@
         {
             "short_description": "Simple and elegant menubar weather app on the App Store.",
             "categories": [
-                "menubar"
+                "menubar",
             ],
             "repo_url": "https://github.com/Aries-Sciences-LLC/Quick-Weather",
             "title": "Quick Weather",
