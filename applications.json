@@ -10451,6 +10451,25 @@
                 "swift"
             ]
         },
+        {
+            "short_description": "Copy text from any screen region with private, on-device OCR.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/copysightapp/copysight",
+            "title": "CopySight",
+            "icon_url": "https://raw.githubusercontent.com/copysightapp/copysight/main/web/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/copysightapp/copysight/main/appstore/screenshots/en-US/01-selector.png",
+                "https://raw.githubusercontent.com/copysightapp/copysight/main/appstore/screenshots/en-US/02-settings.png"
+            ],
+            "official_site": "https://copysight.guillermozubikarai.dev/en",
+            "languages": [
+                "swift"
+            ]
+        },
       {
             "short_description": "An all-in-one digital audio workstation (DAW) and plugin suite",
             "categories": [
