@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Persona",
+            "short_description": "Local-first personal workspace with notes, tasks and AI chat, stored as plain markdown files.",
+            "categories": [
+                "notes",
+                "productivity",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/jayamitkatariya/personacli",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jayamitkatariya/personacli/main/docs/screenshots/workspace.png"
+            ],
+            "official_site": "https://github.com/jayamitkatariya/personacli",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
