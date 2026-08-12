@@ -11084,12 +11084,12 @@
             ]
         },
         {
-            "title": "DueFlow",
             "short_description": "Local-first deadline assistant that turns notices and files into actionable schedules, risk checks, and calendar exports.",
             "categories": [
                 "productivity"
             ],
             "repo_url": "https://github.com/Ustinian5/DueFlow",
+            "title": "DueFlow",
             "icon_url": "https://raw.githubusercontent.com/Ustinian5/DueFlow/main/desktop/src-tauri/icons/128x128@2x.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/Ustinian5/DueFlow/main/docs/images/01-dashboard.png"
