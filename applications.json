@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Live album-art icon in the menu bar for whatever is playing in Music or Spotify, with a Now Playing card and transport controls.",
+            "categories": [
+                "menubar",
+                "music"
+            ],
+            "repo_url": "https://github.com/arian-shamaei/nowbar",
+            "title": "nowbar",
+            "icon_url": "https://raw.githubusercontent.com/arian-shamaei/nowbar/main/icon/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/arian-shamaei/nowbar/main/docs/menubar-3.png",
+                "https://raw.githubusercontent.com/arian-shamaei/nowbar/main/docs/panel.png"
+            ],
+            "official_site": "https://apps.apple.com/us/app/nowbar-album-art-menu-bar/id6798459887",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
