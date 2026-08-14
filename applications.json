@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+		{
+            "title": "MacOSCleaner",
+            "short_description": "Free macOS utility for cleaning caches, temporary files, application leftovers, duplicates, and other unnecessary data.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/AlexTkDev/MacOSCleaner",
+            "icon_url": "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/.github/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Dashboard_v2_1.png",
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Uninstaller_v2_1.png"
+            ],
+            "official_site": "https://alextkdev.github.io/MacOSCleaner/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
