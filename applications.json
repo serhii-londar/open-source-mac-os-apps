@@ -11091,10 +11091,11 @@
                 "menubar",
                 "utilities"
             ],
-            "repo_url": "https://github.com/ostapondo/plonk",
-            "icon_url": "https://raw.githubusercontent.com/ostapondo/plonk/main/docs/logo-400.png",
+            "repo_url": "https://github.com/ostapondo/Plonk",
+            "icon_url": "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/logo-400.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/ostapondo/plonk/main/docs/demo.gif"
+                "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/app-zones.png"
             ],
             "official_site": "https://ostapondo.github.io/Plonk/",
             "languages": [
