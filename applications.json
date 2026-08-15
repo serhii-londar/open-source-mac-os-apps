@@ -34,6 +34,24 @@
                 "swift"
             ]
         },
+        {
+            "short_description": "Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click paste.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/minsang-alt/PasteClip",
+            "title": "PasteClip",
+            "icon_url": "https://raw.githubusercontent.com/minsang-alt/PasteClip/main/PasteClip/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/minsang-alt/PasteClip/main/docs/assets/pasteclip-demo.gif"
+            ],
+            "official_site": "https://github.com/minsang-alt/PasteClip",
+            "languages": [
+                "swift"
+            ]
+        },
 
 	{
             "title": "VPN Bypass",
