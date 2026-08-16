@@ -11069,6 +11069,24 @@
             ]
         },
         {
+            "title": "MacVitals",
+            "short_description": "Native macOS menu-bar monitor for temperatures, fans, CPU, memory, network, battery, and disk.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/muneerahm/MacVitals",
+            "icon_url": "https://raw.githubusercontent.com/muneerahm/MacVitals/main/MacVitals/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/muneerahm/MacVitals/main/docs/images/thermals-overview.png",
+                "https://raw.githubusercontent.com/muneerahm/MacVitals/main/docs/images/system-modules.png"
+            ],
+            "official_site": "https://github.com/muneerahm/MacVitals",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "MacNTop",
             "short_description": "macOS menu bar system monitor with retro CRT aesthetics.",
             "categories": [
