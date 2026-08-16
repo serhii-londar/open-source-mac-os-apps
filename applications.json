@@ -35,7 +35,7 @@
             ]
         },
         {
-            "short_description": "Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click paste.",
+            "short_description": "Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.",
             "categories": [
                 "menubar",
                 "utilities",
