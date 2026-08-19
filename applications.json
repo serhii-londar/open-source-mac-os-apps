@@ -35,6 +35,28 @@
             ]
         },
 
+
+{
+    "title": "Tossy",
+    "short_description": "Fast, native, and offline batch media converter and compressor with hardware acceleration.",
+    "categories": [
+        "video",
+        "utilities"
+    ],
+    "repo_url": "https://github.com/thatonemacosdev/tossy-macos",
+    "icon_url": "https://raw.githubusercontent.com/thatonemacosdev/tossy-macos/main/docs/icons/icon_64.png",
+    "screenshots": [
+        "https://raw.githubusercontent.com/thatonemacosdev/tossy-macos/main/docs/screenshots/videos.png",
+        "https://raw.githubusercontent.com/thatonemacosdev/tossy-macos/main/docs/screenshots/images.png"
+    ],
+    "official_site": "https://thatonemacosdev.github.io/tossy-macos/",
+    "languages": [
+        "swift"
+    ]
+}
+
+
+		
 	{
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
