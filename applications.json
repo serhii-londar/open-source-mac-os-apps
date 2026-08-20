@@ -41,13 +41,13 @@
                 "utilities",
                 "productivity"
             ],
-            "repo_url": "https://github.com/minsang-alt/PasteClip",
-            "title": "PasteClip",
-            "icon_url": "https://raw.githubusercontent.com/minsang-alt/PasteClip/main/PasteClip/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
+            "repo_url": "https://github.com/mobrava/Clipbara",
+            "title": "Clipbara",
+            "icon_url": "https://raw.githubusercontent.com/mobrava/Clipbara/main/PasteClip/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
             "screenshots": [
-               "https://raw.githubusercontent.com/minsang-alt/PasteClip/main/docs/assets/pasteclip-demo.gif"
+               "https://raw.githubusercontent.com/mobrava/Clipbara/main/docs/assets/pasteclip-demo.gif"
             ],
-            "official_site": "https://github.com/minsang-alt/PasteClip",
+            "official_site": "https://github.com/mobrava/Clipbara",
             "languages": [
                 "swift"
             ]
