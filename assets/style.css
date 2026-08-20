@@ -114,9 +114,13 @@ body {
 }
 
 .hero-icon {
-  border-radius: 22%;
+  display: block;
+  width: 100%;
+  max-width: 340px;
+  height: auto;
+  margin: 0 auto 16px;
+  border-radius: var(--radius);
   box-shadow: var(--shadow);
-  margin-bottom: 16px;
 }
 
 .hero h1 {
@@ -179,6 +183,10 @@ body {
   transition: box-shadow 0.15s ease;
 }
 #search:focus { box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 30%, transparent), var(--shadow); }
+/* remove native decorations so only our custom clear button shows */
+#search::-webkit-search-cancel-button,
+#search::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+#search::-ms-clear { display: none; }
 .search-clear {
   position: absolute;
   right: 10px;
@@ -332,6 +340,18 @@ main { flex: 1 1 auto; min-width: 0; }
   background: var(--border);
   flex: 0 0 auto;
 }
+.app-icon-fallback {
+  width: 44px;
+  height: 44px;
+  border-radius: 22%;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+}
 .app-title { font-size: 15px; font-weight: 600; margin: 0; }
 .app-title a { color: var(--text); text-decoration: none; }
 .app-title a:hover { color: var(--accent); }
@@ -429,9 +449,10 @@ main { flex: 1 1 auto; min-width: 0; }
 
 /* ===== Responsive ===== */
 @media (max-width: 900px) {
-  .layout { flex-direction: column; }
+  .layout { flex-direction: column; align-items: stretch; }
   .sidebar {
     position: static;
+    flex: 1 1 auto;
     width: 100%;
     max-height: none;
     overflow: visible;
@@ -440,4 +461,6 @@ main { flex: 1 1 auto; min-width: 0; }
   .cat-item { flex: 0 0 auto; }
   .cat-item.child { padding-left: 10px; }
   .cat-group-label { display: none; }
+  main { width: 100%; min-width: 0; }
+  .app-grid { grid-template-columns: 1fr; }
 }

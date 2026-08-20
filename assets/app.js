@@ -52,7 +52,23 @@
     "vim script": { label: "Vim Script", icon: "icons/Vim%20script_icon.png" },
   };
 
-  const FALLBACK_ICON = "icons/icon.png";
+  const AVATAR_COLORS = ["#0a84ff", "#5e5ce6", "#ff453a", "#ff9f0a", "#30d158", "#bf5af2", "#64d2ff", "#ff375f"];
+
+  function avatarColor(seed) {
+    let hash = 0;
+    for (let i = 0; i < seed.length; i++) hash = (hash * 31 + seed.charCodeAt(i)) | 0;
+    return AVATAR_COLORS[Math.abs(hash) % AVATAR_COLORS.length];
+  }
+
+  // No dedicated square app-icon asset exists (icons/icon.png is a wide banner),
+  // so missing/broken icons fall back to a generated letter avatar instead.
+  function buildIconFallback(title) {
+    const div = document.createElement("div");
+    div.className = "app-icon-fallback";
+    div.style.background = avatarColor(title || "?");
+    div.textContent = (title || "?").trim().charAt(0).toUpperCase() || "?";
+    return div;
+  }
 
   function normalizeLanguage(raw) {
     const key = String(raw).trim().toLowerCase();
@@ -275,19 +291,23 @@
 
     const repoUrl = sanitizeUrl(app.repo_url);
     const siteUrl = sanitizeUrl(app.official_site);
-    const iconUrl = sanitizeUrl(app.icon_url) || FALLBACK_ICON;
+    const iconUrl = sanitizeUrl(app.icon_url);
 
     const head = document.createElement("div");
     head.className = "app-card-head";
 
-    const img = document.createElement("img");
-    img.className = "app-icon";
-    img.loading = "lazy";
-    img.src = iconUrl;
-    img.alt = "";
-    img.referrerPolicy = "no-referrer";
-    img.onerror = () => { img.onerror = null; img.src = FALLBACK_ICON; };
-    head.appendChild(img);
+    if (iconUrl) {
+      const img = document.createElement("img");
+      img.className = "app-icon";
+      img.loading = "lazy";
+      img.src = iconUrl;
+      img.alt = "";
+      img.referrerPolicy = "no-referrer";
+      img.onerror = () => { img.replaceWith(buildIconFallback(app.title)); };
+      head.appendChild(img);
+    } else {
+      head.appendChild(buildIconFallback(app.title));
+    }
 
     const titleWrap = document.createElement("h3");
     titleWrap.className = "app-title";
