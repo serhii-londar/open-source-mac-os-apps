@@ -98,7 +98,10 @@
   function sanitizeUrl(url) {
     if (!url || typeof url !== "string") return null;
     try {
-      const parsed = new URL(url, window.location.href);
+      // No base: reject anything that isn't already a fully-qualified URL,
+      // otherwise malformed data (e.g. markdown-style links) gets silently
+      // resolved into a broken URL relative to this page.
+      const parsed = new URL(url.trim());
       if (parsed.protocol === "http:" || parsed.protocol === "https:") {
         return parsed.href;
       }
