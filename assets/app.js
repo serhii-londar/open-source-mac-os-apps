@@ -10,6 +10,8 @@
     activeCategory: "all",
     activeLanguages: new Set(),
     query: "",
+    sort: "name-asc",
+    langExpanded: false,
   };
 
   const LANG_ALIASES = {
@@ -50,6 +52,7 @@
     "metal": { label: "Metal", icon: "icons/metal-64.png" },
     "applescript": { label: "AppleScript", icon: "icons/applescript-64.png" },
     "vim script": { label: "Vim Script", icon: "icons/Vim%20script_icon.png" },
+    "html": { label: "HTML", icon: null },
   };
 
   const AVATAR_COLORS = ["#0a84ff", "#5e5ce6", "#ff453a", "#ff9f0a", "#30d158", "#bf5af2", "#64d2ff", "#ff375f"];
@@ -190,6 +193,7 @@
 
     const allBtn = document.createElement("button");
     allBtn.className = "cat-item" + (state.activeCategory === "all" ? " active" : "");
+    allBtn.setAttribute("aria-pressed", String(state.activeCategory === "all"));
     allBtn.innerHTML = `<span>All Apps</span><span class="count">${state.apps.length}</span>`;
     allBtn.addEventListener("click", () => selectCategory("all"));
     nav.appendChild(allBtn);
@@ -210,6 +214,7 @@
   function makeCategoryButton(cat, isChild) {
     const btn = document.createElement("button");
     btn.className = "cat-item" + (isChild ? " child" : "") + (state.activeCategory === cat.id ? " active" : "");
+    btn.setAttribute("aria-pressed", String(state.activeCategory === cat.id));
     const count = categoryCount(cat.id);
     btn.innerHTML = `<span>${escapeHtml(cat.title)}</span><span class="count">${count}</span>`;
     btn.addEventListener("click", () => selectCategory(cat.id));
@@ -219,34 +224,100 @@
   function selectCategory(id) {
     state.activeCategory = id;
     renderSidebar();
+    renderActiveFilters();
     renderGrid();
   }
+
+  const LANG_CHIP_LIMIT = 12;
 
   function renderLanguageFilter() {
     const counts = new Map();
     state.apps.forEach((app) => {
       appLanguages(app).forEach((lang) => counts.set(lang, (counts.get(lang) || 0) + 1));
     });
-    const top = Array.from(counts.entries())
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 12);
+    const sorted = Array.from(counts.entries()).sort((a, b) => b[1] - a[1]);
+    const visible = state.langExpanded ? sorted : sorted.slice(0, LANG_CHIP_LIMIT);
 
     const container = document.getElementById("lang-filter");
     container.innerHTML = "";
-    top.forEach(([lang, count]) => {
+    visible.forEach(([lang, count]) => {
       const meta = languageMeta(lang);
       const chip = document.createElement("button");
-      chip.className = "lang-chip" + (state.activeLanguages.has(lang) ? " active" : "");
+      const active = state.activeLanguages.has(lang);
+      chip.className = "lang-chip" + (active ? " active" : "");
+      chip.setAttribute("aria-pressed", String(active));
       chip.innerHTML = `${meta.icon ? `<img src="${meta.icon}" alt="" onerror="this.remove()">` : ""}<span>${escapeHtml(meta.label)}</span>`;
       chip.title = `${meta.label} (${count})`;
       chip.addEventListener("click", () => {
         if (state.activeLanguages.has(lang)) state.activeLanguages.delete(lang);
         else state.activeLanguages.add(lang);
         renderLanguageFilter();
+        renderActiveFilters();
         renderGrid();
       });
       container.appendChild(chip);
     });
+
+    if (sorted.length > LANG_CHIP_LIMIT) {
+      const more = document.createElement("button");
+      more.className = "lang-more-btn";
+      more.textContent = state.langExpanded ? "Show less" : `+${sorted.length - LANG_CHIP_LIMIT} more`;
+      more.addEventListener("click", () => {
+        state.langExpanded = !state.langExpanded;
+        renderLanguageFilter();
+      });
+      container.appendChild(more);
+    }
+  }
+
+  function renderActiveFilters() {
+    const container = document.getElementById("active-filters");
+    container.innerHTML = "";
+
+    const chips = [];
+    if (state.activeCategory !== "all") {
+      const cat = state.categoryById.get(state.activeCategory);
+      chips.push({ label: `Category: ${cat ? cat.title : state.activeCategory}`, onRemove: () => selectCategory("all") });
+    }
+    state.activeLanguages.forEach((lang) => {
+      chips.push({
+        label: languageMeta(lang).label,
+        onRemove: () => {
+          state.activeLanguages.delete(lang);
+          renderLanguageFilter();
+          renderActiveFilters();
+          renderGrid();
+        },
+      });
+    });
+    if (state.query) {
+      chips.push({ label: `"${state.query}"`, onRemove: clearSearch });
+    }
+
+    container.hidden = chips.length === 0;
+    if (chips.length === 0) return;
+
+    chips.forEach(({ label, onRemove }) => {
+      const chip = document.createElement("span");
+      chip.className = "filter-chip";
+      const text = document.createElement("span");
+      text.textContent = label;
+      const removeBtn = document.createElement("button");
+      removeBtn.setAttribute("aria-label", `Remove filter ${label}`);
+      removeBtn.textContent = "✕";
+      removeBtn.addEventListener("click", onRemove);
+      chip.appendChild(text);
+      chip.appendChild(removeBtn);
+      container.appendChild(chip);
+    });
+
+    if (chips.length > 1) {
+      const clearAll = document.createElement("button");
+      clearAll.className = "clear-all-chip";
+      clearAll.textContent = "Clear all";
+      clearAll.addEventListener("click", resetAllFilters);
+      container.appendChild(clearAll);
+    }
   }
 
   function matchesFilters(app) {
@@ -363,12 +434,25 @@
     return card;
   }
 
+  function sortApps(apps) {
+    if (state.sort === "shuffle") {
+      const shuffled = apps.slice();
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      return shuffled;
+    }
+    const dir = state.sort === "name-desc" ? -1 : 1;
+    return apps.slice().sort((a, b) => dir * (a.title || "").localeCompare(b.title || ""));
+  }
+
   function renderGrid() {
     const grid = document.getElementById("app-grid");
     const empty = document.getElementById("empty-state");
     const resultCount = document.getElementById("result-count");
 
-    const filtered = state.apps.filter(matchesFilters);
+    const filtered = sortApps(state.apps.filter(matchesFilters));
     grid.innerHTML = "";
 
     if (filtered.length === 0) {
@@ -385,33 +469,69 @@
     resultCount.textContent = `${filtered.length} of ${state.apps.length} apps`;
   }
 
+  function clearSearch() {
+    const input = document.getElementById("search");
+    const clearBtn = document.getElementById("search-clear");
+    input.value = "";
+    state.query = "";
+    clearBtn.hidden = true;
+    renderActiveFilters();
+    renderGrid();
+  }
+
+  function resetAllFilters() {
+    state.activeCategory = "all";
+    state.activeLanguages.clear();
+    state.query = "";
+    document.getElementById("search").value = "";
+    document.getElementById("search-clear").hidden = true;
+    renderSidebar();
+    renderLanguageFilter();
+    renderActiveFilters();
+    renderGrid();
+  }
+
   function setupSearch() {
     const input = document.getElementById("search");
     const clearBtn = document.getElementById("search-clear");
     input.addEventListener("input", () => {
       state.query = input.value.trim().toLowerCase();
       clearBtn.hidden = state.query.length === 0;
+      renderActiveFilters();
       renderGrid();
     });
     clearBtn.addEventListener("click", () => {
-      input.value = "";
-      state.query = "";
-      clearBtn.hidden = true;
-      renderGrid();
+      clearSearch();
       input.focus();
     });
   }
 
   function setupResetFilters() {
-    document.getElementById("reset-filters").addEventListener("click", () => {
-      state.activeCategory = "all";
-      state.activeLanguages.clear();
-      state.query = "";
-      document.getElementById("search").value = "";
-      document.getElementById("search-clear").hidden = true;
-      renderSidebar();
-      renderLanguageFilter();
+    document.getElementById("reset-filters").addEventListener("click", resetAllFilters);
+  }
+
+  function setupSort() {
+    const select = document.getElementById("sort-select");
+    select.value = state.sort;
+    select.addEventListener("change", () => {
+      state.sort = select.value;
       renderGrid();
+    });
+  }
+
+  // "/" focuses search (like GitHub's own search shortcut); Escape clears it.
+  function setupKeyboardShortcuts() {
+    const input = document.getElementById("search");
+    document.addEventListener("keydown", (e) => {
+      const tag = (e.target && e.target.tagName) || "";
+      const isTyping = tag === "INPUT" || tag === "TEXTAREA" || e.target?.isContentEditable;
+      if (e.key === "/" && !isTyping) {
+        e.preventDefault();
+        input.focus();
+      } else if (e.key === "Escape" && e.target === input) {
+        clearSearch();
+        input.blur();
+      }
     });
   }
 
@@ -441,12 +561,15 @@
     setupSearch();
     setupResetFilters();
     setupScrollTop();
+    setupSort();
+    setupKeyboardShortcuts();
 
     try {
       await loadData();
       renderStats();
       renderSidebar();
       renderLanguageFilter();
+      renderActiveFilters();
       renderGrid();
     } catch (err) {
       console.error(err);

@@ -199,6 +199,20 @@ body {
   font-size: 14px;
   padding: 4px 6px;
 }
+.search-kbd {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font: 11px var(--font);
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 1px 6px;
+  pointer-events: none;
+}
+#search:focus ~ .search-kbd,
+#search:not(:placeholder-shown) ~ .search-kbd { display: none; }
 
 .quicklinks {
   display: flex;
@@ -273,6 +287,52 @@ body {
 
 main { flex: 1 1 auto; min-width: 0; }
 
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 6px 5px 12px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  color: var(--accent);
+  font-size: 12.5px;
+  font-weight: 500;
+}
+.filter-chip button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1;
+}
+.filter-chip button:hover { background: color-mix(in srgb, var(--accent) 25%, transparent); }
+
+.clear-all-chip {
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 12px;
+  cursor: pointer;
+}
+.clear-all-chip:hover { background: var(--border); }
+
 .toolbar {
   display: flex;
   align-items: center;
@@ -307,8 +367,29 @@ main { flex: 1 1 auto; min-width: 0; }
 }
 .lang-chip img { width: 14px; height: 14px; object-fit: contain; }
 .lang-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.lang-more-btn {
+  flex: 0 0 auto;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px dashed var(--border);
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 12.5px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.lang-more-btn:hover { background: var(--border); }
 
-.toolbar-right { flex: 0 0 auto; margin-left: auto; }
+.toolbar-right { flex: 0 0 auto; margin-left: auto; display: flex; align-items: center; gap: 8px; }
+.sort-label { font-size: 12.5px; color: var(--text-secondary); }
+.sort-select {
+  font-size: 12.5px;
+  padding: 5px 8px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--bg-elev-solid);
+  color: var(--text);
+}
 .result-count { font-size: 13px; color: var(--text-secondary); white-space: nowrap; }
 
 /* ===== App grid & cards ===== */
@@ -328,8 +409,16 @@ main { flex: 1 1 auto; min-width: 0; }
   flex-direction: column;
   gap: 10px;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+  animation: cardIn 0.25s ease both;
 }
 .app-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+@keyframes cardIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .app-card { animation: none; }
+}
 
 .app-card-head { display: flex; align-items: center; gap: 12px; }
 .app-icon {

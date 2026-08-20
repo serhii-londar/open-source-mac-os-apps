@@ -46,6 +46,7 @@
   <div class="search-wrap">
     <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     <input id="search" type="text" placeholder="Search applications…" autocomplete="off" spellcheck="false" aria-label="Search applications">
+    <kbd class="search-kbd" aria-hidden="true">/</kbd>
     <button id="search-clear" class="search-clear" aria-label="Clear search" hidden>✕</button>
   </div>
 
@@ -62,9 +63,17 @@
   </aside>
 
   <main>
+    <div id="active-filters" class="active-filters" hidden></div>
+
     <div class="toolbar">
       <div class="lang-filter" id="lang-filter" aria-label="Filter by language"></div>
       <div class="toolbar-right">
+        <label class="sort-label" for="sort-select">Sort</label>
+        <select id="sort-select" class="sort-select" aria-label="Sort applications">
+          <option value="name-asc">Name (A–Z)</option>
+          <option value="name-desc">Name (Z–A)</option>
+          <option value="shuffle">Shuffle</option>
+        </select>
         <span id="result-count" class="result-count"></span>
       </div>
     </div>
