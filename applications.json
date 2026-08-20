@@ -1,6 +1,24 @@
 {
     "applications": [
 	{
+            "title": "AI Gist",
+            "short_description": "Local-first AI prompt manager with variable filling, Jinja templates, AI generation, and WebDAV/iCloud backup.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/yarin-zhang/AI-Gist",
+            "icon_url": "https://raw.githubusercontent.com/yarin-zhang/AI-Gist/main/resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yarin-zhang/AI-Gist/main/docs/images/image-main.png"
+            ],
+            "official_site": "https://getaigist.com",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
