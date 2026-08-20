@@ -374,6 +374,7 @@
       const img = document.createElement("img");
       img.className = "app-icon";
       img.loading = "lazy";
+      img.decoding = "async";
       img.src = iconUrl;
       img.alt = "";
       img.referrerPolicy = "no-referrer";
@@ -491,14 +492,28 @@
     renderGrid();
   }
 
+  function debounce(fn, delay) {
+    let timer = null;
+    return (...args) => {
+      clearTimeout(timer);
+      timer = setTimeout(() => fn(...args), delay);
+    };
+  }
+
   function setupSearch() {
     const input = document.getElementById("search");
     const clearBtn = document.getElementById("search-clear");
+    // Rebuilding the grid re-creates every card (and icon <img>) from scratch,
+    // which is expensive for large result sets — debounce so a fast typing
+    // burst doesn't queue up a full rebuild per keystroke and freeze the page.
+    const debouncedRender = debounce(() => {
+      renderActiveFilters();
+      renderGrid();
+    }, 150);
     input.addEventListener("input", () => {
       state.query = input.value.trim().toLowerCase();
       clearBtn.hidden = state.query.length === 0;
-      renderActiveFilters();
-      renderGrid();
+      debouncedRender();
     });
     clearBtn.addEventListener("click", () => {
       clearSearch();
