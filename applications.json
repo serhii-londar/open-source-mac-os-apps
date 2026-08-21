@@ -1,6 +1,26 @@
 {
     "applications": [
 	{
+            "title": "OpenClip",
+            "short_description": "Lightweight floating action bar for macOS that turns selected text into instant actions.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ganeshmshetty/openclip",
+            "icon_url": "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/search-palette.png",
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/ai-tools.png",
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/in-app-extensions.png"
+            ],
+            "official_site": "https://getopenclip.app",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
