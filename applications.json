@@ -3144,6 +3144,24 @@
             ]
         },
         {
+            "short_description": "Native macOS Markdown reader and editor for ordinary files, with Quick Look, Finder thumbnails, source-preserving rendering, and safe review of external rewrites.",
+            "categories": [
+                "markdown",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/ezzy1630/Downright",
+            "title": "Downright",
+            "icon_url": "https://raw.githubusercontent.com/ezzy1630/Downright/cdf426319c54c5dab969409f61e548dbb2312a1d/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ezzy1630/Downright/cdf426319c54c5dab969409f61e548dbb2312a1d/Docs/downright-renderer-showcase.png"
+            ],
+            "official_site": "https://downright.cc/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
