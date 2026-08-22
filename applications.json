@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Anima",
+            "short_description": "Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Built with Tauri v2.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/btangonan/anima",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/btangonan/anima",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
