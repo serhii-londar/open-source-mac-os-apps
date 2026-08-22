@@ -1,6 +1,24 @@
 {
     "applications": [
 	{
+            "short_description": "Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.",
+            "categories": [
+                "images",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/TetherShot",
+            "title": "TetherShot",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/TetherShot/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://tethershot.apoorvdarshan.com/assets/og-v106.jpg"
+            ],
+            "official_site": "https://tethershot.apoorvdarshan.com",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
