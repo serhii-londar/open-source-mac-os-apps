@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+		    {
+				      "title": "Claude Usage Monitor",
+				      "short_description": "Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.",
+				      "categories": [
+						          "utilities",
+						          "menubar"
+					  ],
+				      "repo_url": "https://github.com/theDanButuc/Claude-Usage-Monitor",
+				      "icon_url": "https://raw.githubusercontent.com/theDanButuc/Claude-Usage-Monitor/main/ClaudeUsageMonitor/Assets/AppIcon_128.png",
+				      "screenshots": [],
+				      "official_site": "https://github.com/theDanButuc/Claude-Usage-Monitor",
+				      "languages": [
+						          "swift"
+					  ]
+			}
     ]
 }
