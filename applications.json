@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Llamaport",
+            "short_description": "Run local GGUF models with llama-server. Reads model headers directly for real quantisation and context length, shows the full launch command before starting, reports live token rates and memory pressure, and downloads models from Hugging Face with resume that survives a kill.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/smkamranqadri/llamaport",
+            "icon_url": "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/docs/running.png",
+                "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/docs/download.png"
+            ],
+            "official_site": "https://github.com/smkamranqadri/llamaport",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
