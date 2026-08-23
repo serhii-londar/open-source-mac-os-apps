@@ -8,10 +8,10 @@
                 "menubar",
                 "browser"
             ],
-            "repo_url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
-            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-icon.png",
+            "repo_url": "https://github.com/aopv/browser-cookie-bridge",
+            "icon_url": "https://raw.githubusercontent.com/aopv/browser-cookie-bridge/main/marketing/app-icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/product-hunt/01-overview.png"
+                "https://raw.githubusercontent.com/aopv/browser-cookie-bridge/main/marketing/product-hunt/01-overview.png"
             ],
             "official_site": "https://cookiebridge.apoorvdarshan.com",
             "languages": [
