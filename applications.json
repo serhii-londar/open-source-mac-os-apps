@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS utility that checks Codex CLI authentication, distinguishes ChatGPT OAuth from API-key mode, finds the active CLI, and launches the official login flow.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/xiaohei210509/CodexLoginManager",
+            "title": "CodexLoginManager",
+            "icon_url": "https://raw.githubusercontent.com/xiaohei210509/CodexLoginManager/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xiaohei210509/CodexLoginManager/main/docs/images/app-screenshot.png"
+            ],
+            "official_site": "https://github.com/xiaohei210509/CodexLoginManager/releases",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
