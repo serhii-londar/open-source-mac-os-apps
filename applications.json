@@ -1,6 +1,24 @@
 {
     "applications": [
 	{
+            "title": "Grux",
+            "short_description": "Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dotcomjack/grux",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dotcomjack/grux/main/docs/screenshots/local-models.png",
+                "https://raw.githubusercontent.com/dotcomjack/grux/main/docs/screenshots/integrations.png"
+            ],
+            "official_site": "https://gruxai.com",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
