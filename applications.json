@@ -1,5 +1,25 @@
 {
     "applications": [
+        {
+            "title": "CrossGen",
+            "short_description": "Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.",
+            "categories": [
+                "graphics",
+                "images",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Bliveren/CrossGen",
+            "icon_url": "https://raw.githubusercontent.com/Bliveren/CrossGen/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-workspace.png",
+                "https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-edit.png"
+            ],
+            "official_site": "https://www.corgnitor.com/products/crossgen",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
