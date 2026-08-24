@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Orbly",
+            "short_description": "Dictation for macOS. Hold Fn, speak, let go, and the transcript lands at the cursor. Whisper runs on device, no account and no cloud.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/lou1s19/Orbly",
+            "icon_url": "https://raw.githubusercontent.com/lou1s19/Orbly/main/Resources/logo.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/lou1s19/Orbly/main/Resources/screenshot-overlay.png",
+               "https://raw.githubusercontent.com/lou1s19/Orbly/main/Resources/screenshot-app.png"
+            ],
+            "official_site": "https://orbly-website.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
