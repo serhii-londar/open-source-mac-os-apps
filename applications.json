@@ -16,6 +16,22 @@
                 "typescript"
             ]
         },
+        {
+            "short_description": "Applies the hand-drawn line boil wobble of traditional animation to video, with chromatic aberration and film grain.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/princezoho/zohoboil",
+            "title": "Boiler",
+            "icon_url": "",
+            "screenshots": [
+                "https://boiler.jejestudios.com/assets/screenshot.jpg"
+            ],
+            "official_site": "https://boiler.jejestudios.com",
+            "languages": [
+                "python"
+            ]
+        },
 	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
