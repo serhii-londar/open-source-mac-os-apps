@@ -1,5 +1,25 @@
 {
     "applications": [
+        {
+            "title": "Wandful",
+            "short_description": "Magic wand for the desktop: summon it from the menu bar, draw a rune with the mouse, and the keyboard shortcut bound to it is cast into the app you were in.",
+            "categories": [
+                "keyboard",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ostapondo/wandful",
+            "icon_url": "https://raw.githubusercontent.com/ostapondo/wandful/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ostapondo/wandful/main/docs/wand.gif",
+                "https://raw.githubusercontent.com/ostapondo/wandful/main/docs/spellbook.gif"
+            ],
+            "official_site": "https://ostapondo.github.io/wandful/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
