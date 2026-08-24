@@ -1,6 +1,25 @@
 {
     "applications": [
 	{
+            "title": "Browser Cookie Bridge",
+            "short_description": "Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "browser"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/product-hunt/01-overview.png"
+            ],
+            "official_site": "https://cookiebridge.apoorvdarshan.com",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
