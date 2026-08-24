@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/starcat-app/Starcat",
+            "title": "Starcat",
+            "icon_url": "https://raw.githubusercontent.com/starcat-app/Starcat/main/Starcat/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/starcat-app/Starcat/main/main.webp",
+                "https://raw.githubusercontent.com/starcat-app/Starcat/main/screenshots/rag-workbench.webp"
+            ],
+            "official_site": "https://starcat.ink/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
