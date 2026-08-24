@@ -4357,7 +4357,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (52)
+### 📊 Menubar (53)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -4502,6 +4502,10 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Fanctl](https://github.com/TomEageer/fanctl) - Smart fan control for Apple Silicon Macs with a self-learning thermal controller.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
 
