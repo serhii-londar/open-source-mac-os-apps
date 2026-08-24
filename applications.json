@@ -1,6 +1,22 @@
 {
     "applications": [
 	{
+            "title": "Abendrot",
+            "short_description": "Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/matthewrball/abendrot",
+            "icon_url": "https://raw.githubusercontent.com/matthewrball/abendrot/main/assets/abendrot-icon.png",
+            "screenshots": [],
+            "official_site": "https://abendrot.app",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
