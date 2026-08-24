@@ -34,6 +34,24 @@
                 "swift"
             ]
         },
+        {
+            "short_description": "Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mobrava/Clipbara",
+            "title": "Clipbara",
+            "icon_url": "https://raw.githubusercontent.com/mobrava/Clipbara/main/Clipbara/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/mobrava/Clipbara/main/docs/assets/pasteclip-demo.gif"
+            ],
+            "official_site": "https://github.com/mobrava/Clipbara",
+            "languages": [
+                "swift"
+            ]
+        },
 
 	{
             "title": "VPN Bypass",
