@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Loadout",
+            "short_description": "Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.",
+            "categories": [
+                "development",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/migsilva89/loadout",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/loadout/main/Resources/Loadout.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/loadout/main/.github/assets/loadout-browse.gif",
+                "https://raw.githubusercontent.com/migsilva89/loadout/main/.github/assets/loadout-all.gif"
+            ],
+            "official_site": "https://loadout.migsilva.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
