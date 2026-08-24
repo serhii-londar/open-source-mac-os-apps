@@ -1,6 +1,22 @@
 {
     "applications": [
 	{
+            "title": "DSH Studio",
+            "short_description": "Cross-platform desktop host for installing, running, and managing DeepSeek Harness with an embedded web UI.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Moresyl/dsh-studio",
+            "icon_url": "https://raw.githubusercontent.com/Moresyl/dsh-studio/main/src-tauri/icons/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/Moresyl/dsh-studio",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
