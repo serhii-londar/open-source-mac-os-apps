@@ -8947,6 +8947,26 @@
             ]
         },
         {
+            "short_description": "Menu bar app that transcribes meetings and in-person conversations on your Mac without a record button, with optional on-device speech-to-text.",
+            "categories": [
+                "productivity",
+                "menubar",
+                "notes"
+            ],
+            "repo_url": "https://github.com/QuAppStudio/meemo-ai",
+            "title": "Meemo AI",
+            "icon_url": "https://raw.githubusercontent.com/QuAppStudio/meemo-ai/master/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/QuAppStudio/meemo-ai/master/assets/screen1en.png",
+                "https://raw.githubusercontent.com/QuAppStudio/meemo-ai/master/assets/screen3en.png",
+                "https://raw.githubusercontent.com/QuAppStudio/meemo-ai/master/assets/screen4en.png"
+            ],
+            "official_site": "https://meemo-ai.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Menu bar app for your calendar meetings",
             "categories": [
                 "utilities",
