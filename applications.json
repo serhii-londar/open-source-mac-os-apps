@@ -4048,6 +4048,23 @@
             ]
         },
         {
+            "short_description": "Lightweight image & video viewer for macOS with native HEIC and RAW support.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://gitlab.com/christophepicot/pitop-viewer",
+            "title": "Pitop Viewer",
+            "icon_url": "https://viewer.pitop.fr/logo.png",
+            "screenshots": [
+                "https://viewer.pitop.fr/screenshot-main.png"
+            ],
+            "official_site": "https://viewer.pitop.fr",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "macOS menubar app for automating screenshots. ",
             "categories": [
                 "images"
