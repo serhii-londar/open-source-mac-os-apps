@@ -1,6 +1,27 @@
 {
     "applications": [
 	{
+            "short_description": "A native and modern macOS menu bar app to monitor and control your Pi-hole instances.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/pedrovieira/Holeberry",
+            "title": "Holeberry",
+            "icon_url": "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/README%20header.png",
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/max-connections.png",
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/menu-unblock.png",
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/browser-unblock.png"
+            ],
+            "official_site": "https://holeberryapp.com",
+            "languages": [
+                "swift"
+            ]
+        },
+
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
