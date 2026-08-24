@@ -11082,6 +11082,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenVoiceFlow",
+            "short_description": "On-device voice dictation for macOS with local transcription and optional text cleanup.",
+            "categories": [
+                "audio",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/shimoverse/openvoiceflow",
+            "icon_url": "https://raw.githubusercontent.com/shimoverse/openvoiceflow/main/docs/assets/openvoiceflow-icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shimoverse/openvoiceflow/main/docs/assets/demo-poster.jpg"
+            ],
+            "official_site": "https://openvoiceflow.com",
+            "languages": [
+                "swift",
+                "objective_c",
+                "python",
+                "shell"
+            ]
         }
     ]
 }
