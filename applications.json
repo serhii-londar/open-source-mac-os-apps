@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mocker",
+            "short_description": "Docker-compatible container CLI for macOS, built on Apple's Containerization framework.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/us/mocker",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/us/mocker",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
