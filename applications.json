@@ -11069,6 +11069,26 @@
             ]
         },
         {
+            "title": "QuotaBar",
+            "short_description": "Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/RoketrP/QuotaBar",
+            "icon_url": "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-social-card.png",
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-dashboard.png",
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-hud-v1.1.png"
+            ],
+            "official_site": "https://roketrp.github.io/QuotaBar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "MacNTop",
             "short_description": "macOS menu bar system monitor with retro CRT aesthetics.",
             "categories": [
