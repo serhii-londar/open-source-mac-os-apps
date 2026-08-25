@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "reminal",
+            "short_description": "Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.",
+            "categories": [
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harshalgajjar/Reminal",
+            "icon_url": "https://raw.githubusercontent.com/harshalgajjar/Reminal/main/assets/reminal-icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/harshalgajjar/Reminal/main/docs/lid.gif"
+            ],
+            "official_site": "https://reminal.app",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
