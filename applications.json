@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "PuppyOne",
+            "short_description": "A local-first workspace where you and your AI work on the same files.",
+            "categories": [
+                "editors",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/puppyone-ai/puppyone-desktop",
+            "icon_url": "https://www.puppyone.ai/og-image.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/puppyone-ai/puppyone-desktop/main/public/puppyone-overview.png"
+            ],
+            "official_site": "https://www.puppyone.ai",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
