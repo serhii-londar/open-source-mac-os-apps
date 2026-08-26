@@ -3060,6 +3060,21 @@
             ]
         },
         {
+            "short_description": "Reader-first, native macOS Markdown editor: renders notes like a web page and edits on demand, with a vault, backlinks, graph view and full-text search.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/oratis/Markup",
+            "title": "Markup",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Realtime preview markdown editor for macOS Windows and Linux. ",
             "categories": [
                 "markdown"
