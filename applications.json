@@ -4675,6 +4675,23 @@
             ]
         },
         {
+            "short_description": "Subtle paper-grain texture overlay for the whole screen. Click-through menu bar app with 18 textures, global hotkey, and per-display control.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/YellowFoxH4XOR/deckle",
+            "title": "Deckle",
+            "icon_url": "https://raw.githubusercontent.com/YellowFoxH4XOR/deckle/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YellowFoxH4XOR/deckle/main/docs/menu.png"
+            ],
+            "official_site": "https://projects.akshatkatiyar.com/projects/deckle/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Deezer Desktop app for Windows, Linux and macOS. ",
             "categories": [
                 "music"
