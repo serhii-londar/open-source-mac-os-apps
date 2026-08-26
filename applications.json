@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tracexy",
+            "short_description": "Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RockxyApp/Tracexy",
+            "icon_url": "https://raw.githubusercontent.com/RockxyApp/Tracexy/main/Tracexy/Assets.xcassets/AppIcon.appiconset/128.png",
+            "screenshots": [
+                "https://rockxy.io/assets/images/tracexy/Tracexy-Light.png?v=29fdd3db",
+                "https://rockxy.io/assets/images/tracexy/Tracexy-Dark.png?v=32a85865"
+            ],
+            "official_site": "https://rockxy.io/tracexy",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
