@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Codex Account Switcher",
+            "short_description": "Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.",
+            "categories": [
+                "development",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/liuzhao1225/codex-account-switcher",
+            "icon_url": "https://raw.githubusercontent.com/liuzhao1225/codex-account-switcher/main/assets/account-switcher-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/liuzhao1225/codex-account-switcher/main/assets/codex-account-switcher-hero.png"
+            ],
+            "official_site": "https://liuzhao1225.github.io/codex-account-switcher/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
