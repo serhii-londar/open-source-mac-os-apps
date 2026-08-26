@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FS PDF Compressor",
+            "short_description": "Free, private PDF compressor for macOS and Linux.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gitlares/fs-pdf-compressor",
+            "icon_url": "https://raw.githubusercontent.com/gitlares/fs-pdf-compressor/main/assets/PDFCompresor.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gitlares/fs-pdf-compressor/main/assets/fs-pdf-compressor-demo.gif"
+            ],
+            "official_site": "https://gitlares.github.io/fs-pdf-compressor/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
