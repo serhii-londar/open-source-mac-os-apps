@@ -17,6 +17,23 @@
             ]
         },
 	{
+		"short_description": "Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.",
+		"categories": [
+			"audio",
+			"development"
+		],
+		"repo_url": "https://github.com/QwenAudio/qwen-audio-agent",
+		"title": "qwen-audio-agent",
+		"icon_url": "https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/desktop/build/icon.png",
+		"screenshots": [
+			"https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/docs/desktop-fluid-orb-thinking.gif"
+		],
+		"official_site": "https://github.com/QwenAudio/qwen-audio-agent",
+		"languages": [
+			"javascript"
+		]
+	},
+	{
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
