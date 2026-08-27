@@ -260,7 +260,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Cog](https://bitbucket.org/losnoco/cog/src) - Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.
+- [Cog](https://github.com/losnoco/Cog) - Cog is an open source audio player for macOS. The basic layout is a single-paned playlist interface with two retractable drawers, one for navigating the user's music folders and another for viewing audio file properties, like bitrate.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
@@ -1416,7 +1416,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
-  **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
+  **Website:** [https://github.com/Slllava/gridfy](https://github.com/Slllava/gridfy)
 
   <details>
   <summary>Screenshots</summary>
@@ -3502,7 +3502,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
-- [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS.
+- [Chess](https://github.com/apple-oss-distributions/Chess) - The chess app that comes with macOS.
 
   **Languages:** <code>objective-c</code> 
 
@@ -6901,7 +6901,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
-  **Website:** [https://adequate.systems/](https://adequate.systems/)
+  **Website:** [https://github.com/spieglt/Cloaker](https://github.com/spieglt/Cloaker)
 
   <details>
   <summary>Screenshots</summary>
@@ -7874,7 +7874,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
-  **Website:** [https://apps.apple.com/app/clear-clipboard-text-format/id1322855232](https://apps.apple.com/app/clear-clipboard-text-format/id1322855232)
+  **Website:** [https://github.com/LumingYin/ClearClipboardTextFormat](https://github.com/LumingYin/ClearClipboardTextFormat)
 
   <details>
   <summary>Screenshots</summary>
@@ -8021,7 +8021,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
 
-  **Website:** [https://adequate.systems/](https://adequate.systems/)
+  **Website:** [https://github.com/spieglt/Cloaker](https://github.com/spieglt/Cloaker)
 
   <details>
   <summary>Screenshots</summary>
@@ -8082,7 +8082,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
-  **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
+  **Website:** [https://github.com/Slllava/gridfy](https://github.com/Slllava/gridfy)
 
   <details>
   <summary>Screenshots</summary>
@@ -9267,7 +9267,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/lwouis/alt-tab-macos/master/docs/frontpage.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
