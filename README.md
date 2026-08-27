@@ -149,7 +149,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://www.audacityteam.org/wp-content/uploads/2017/12/Audacity-220-Mac-normal.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://www.audacityteam.org/_astro/HeroBannerImage.BT1jp_L7_ACw0j.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -377,11 +377,11 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-synchronized-lyrics-english.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-macos-app-demo-real-time-lyrics-synchronization.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-artist-images-album-covers.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-macos-full-mode-artist-metadata-lyrics.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-rtl-lyrics-persian.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-macos-rtl-support-persian-arabic-hebrew.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -464,7 +464,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://mpv.io/images/mpv-screenshot-34cd36ae.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://mpv.io/images/mpv-screenshot-0935decb.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -509,7 +509,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/vincehi/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -580,7 +580,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/kmikiy/SpotMenu/master/Demo/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/kmikiy/SpotMenu/a24c094db3cf75c31d99ce863144c852651a4700/Demo/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -715,7 +715,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='http://nerdist.com/wp-content/uploads/2016/05/the-mad-king-game-of-thrones.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/beakerbrowser/beaker/master/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/beakerbrowser/beaker/master/build/icons/256x256.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
@@ -1001,7 +1001,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/calendar/screenshot-mac.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://www.thunderbird.net/media/img/thunderbird/features/addon-manager.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://www.thunderbird.net/media/img/thunderbird/new/screens/153-mail-screen.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1055,11 +1055,8 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/04.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/01.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/adamwaite/CoinBar/master/resources/02.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   *(1 more screenshots available in the repository)*
 
@@ -1303,9 +1300,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://sequelpro.com/images/logo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://sequelpro.com/images/browse.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1499,11 +1494,11 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/screenshots/dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/screenshots/data-preparation.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/screenshots/training-progress.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1712,7 +1707,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/jamieweavis/streaker/main/.github/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/jamieweavis/streaker/main/.github/icons/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1738,9 +1733,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/maoyama/Tempo/refs/heads/main/Screenshots/Screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/maoyama/Changes/main/Screenshots/Screenshot2-1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/maoyama/Tempo/refs/heads/main/Screenshots/Screenshot2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/maoyama/Changes/main/Screenshots/Screenshot2-2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1923,11 +1918,11 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit-website/main/public/images/docs/inspect-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit-website/main/public/images/docs/intercept-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/httptoolkit/httptoolkit-website/main/public/images/docs/edit-screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -2032,11 +2027,11 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/getappbox/Home/master/Images/UploadIPA-Dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/getappbox/Home/4be2b2dfebd1dd6782db1b599c8666de03d70541/Images/UploadIPA-Dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/getappbox/Home/master/Images/Dashboard-Dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/getappbox/Home/4be2b2dfebd1dd6782db1b599c8666de03d70541/Images/Dashboard-Dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/getappbox/Home/master/Images/AppURL.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/getappbox/Home/4be2b2dfebd1dd6782db1b599c8666de03d70541/Images/AppURL.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -3069,7 +3064,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://notesnook.com/social-2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -3425,7 +3420,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/main/screenshots/SourceCodePreview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
@@ -3639,7 +3634,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/gragrance/CaptuocrToy/master/screenshot.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/Zkffkah/CaptuocrToy/master/screenshot.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -3756,7 +3751,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://krita.org/images/pages/application-screenshot.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4013,11 +4008,10 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://exifcleaner.com/images/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/szTheory/exifcleaner/master/static/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://exifcleaner.com/images/batchprocessing.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://exifcleaner.com/images/darkmode.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/szTheory/exifcleaner/master/static/screenshot-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4132,7 +4126,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://krita.org/images/pages/application-screenshot.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4164,7 +4158,6 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://www.screenbar.net/assets/images/screenbar-window.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4334,7 +4327,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/calendar/screenshot-mac.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://www.thunderbird.net/media/img/thunderbird/features/addon-manager.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://www.thunderbird.net/media/img/thunderbird/new/screens/153-mail-screen.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4683,13 +4676,12 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
-  **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
+  **Website:** [https://github.com/jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4788,13 +4780,13 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
-  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+  **Website:** [https://github.com/MystikoLab/rustcast](https://github.com/MystikoLab/rustcast)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://github.com/MystikoLab/rustcast/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4860,9 +4852,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/animations/grow.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/settings/settings-general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5045,7 +5037,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://mpv.io/images/mpv-screenshot-34cd36ae.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://mpv.io/images/mpv-screenshot-0935decb.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5273,7 +5265,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/dnote/dnote/master/assets/cli.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/dnote/dnote/dd176f8367992739bb78dfcc5e26284adb7aed5a/assets/cli.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5292,7 +5284,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://raw.githubusercontent.com/glushchenko/fsnotes/master/code.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://f001.backblazeb2.com/file/og-files/ios.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://fsnot.es/img/fsnotes7/FSNotes7_iOS.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5370,7 +5362,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://notesnook.com/social-2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5715,7 +5707,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://mpv.io/images/mpv-screenshot-34cd36ae.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://mpv.io/images/mpv-screenshot-0935decb.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6343,7 +6335,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_speak_aloud.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
@@ -6369,13 +6361,13 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
-  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+  **Website:** [https://github.com/MystikoLab/rustcast](https://github.com/MystikoLab/rustcast)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://github.com/MystikoLab/rustcast/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6409,7 +6401,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
@@ -6445,7 +6437,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://screenpi.pe/og-image.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://screenpipe.com/og' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6573,7 +6565,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/super-productivity/super-productivity/master/docs/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6717,9 +6709,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://tailordev.github.io/Watson/img/logo-watson-600px.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/jazzband/watson/master/docs/img/logo-watson-600px.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://tailordev.github.io/Watson/img/watson-demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/jazzband/watson/master/docs/img/watson-demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6745,7 +6737,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
-  **Website:** [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
+  **Website:** [https://github.com/mattDavo/Yippy](https://github.com/mattDavo/Yippy)
 
   <details>
   <summary>Screenshots</summary>
@@ -7019,9 +7011,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://alchaplinsky.com/images/misc/swifty_screen_01.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://alchaplinsky.com/images/misc/swifty_screen_02.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7422,9 +7412,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/animations/grow.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/settings/settings-general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7780,11 +7770,11 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/desktop-macos-vault.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/mac%20app-vault.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/cli-macos.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8037,7 +8027,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/spieglt/FlyingCarpet/master/pictures/macDemo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/spieglt/FlyingCarpet/main/screenshots/mac.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8261,7 +8251,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://macpacker.app/main.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://macpacker.app/og.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8321,7 +8311,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/Screenshots/MiddleDrag-Demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8433,13 +8423,12 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
-  **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
+  **Website:** [https://github.com/jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8559,13 +8548,13 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
-  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+  **Website:** [https://github.com/MystikoLab/rustcast](https://github.com/MystikoLab/rustcast)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://github.com/MystikoLab/rustcast/rustcast-v0-5-0.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8646,7 +8635,7 @@ You can see in which language an app is written. Currently there are following l
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
@@ -8686,7 +8675,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://screenpi.pe/og-image.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://screenpipe.com/og' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8712,9 +8701,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/animations/grow.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/develop/Screens/settings/settings-general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8786,7 +8775,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/super-productivity/super-productivity/master/docs/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8820,7 +8809,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
-  **Website:** [https://trex.ameba.co/](https://trex.ameba.co/)
+  **Website:** [https://github.com/amebalabs/TRex](https://github.com/amebalabs/TRex)
 
   <details>
   <summary>Screenshots</summary>
@@ -9055,7 +9044,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://mpv.io/images/mpv-screenshot-34cd36ae.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://mpv.io/images/mpv-screenshot-0935decb.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9261,11 +9250,9 @@ You can see in which language an app is written. Currently there are following l
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://alt-tab-macos.netlify.app/public/demo/1-row.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/lwouis/alt-tab-macos/master/docs/frontpage.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://alt-tab-macos.netlify.app/public/demo/2-rows.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://alt-tab-macos.netlify.app/public/demo/windows-theme.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
