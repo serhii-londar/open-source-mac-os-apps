@@ -1,6 +1,25 @@
 {
     "applications": [
 	{
+            "title": "Freeflow",
+            "short_description": "Voice dictation with screen context you point at — hold \u2318 to record, circle to capture, local Parakeet transcription.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jayamitkatariya/Freeflow",
+            "icon_url": "https://raw.githubusercontent.com/jayamitkatariya/Freeflow/main/docs/assets/freeflow-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jayamitkatariya/Freeflow/main/docs/assets/freeflow-demo.gif",
+                "https://raw.githubusercontent.com/jayamitkatariya/Freeflow/main/docs/assets/freeflow-settings-overview.png"
+            ],
+            "official_site": "https://github.com/jayamitkatariya/Freeflow",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
