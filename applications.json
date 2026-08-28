@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mojito",
+            "short_description": "Menu bar app that expands :emoji: shortcodes into emoji, symbols, and GIFs in any text field.",
+            "categories": [
+                "keyboard",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/wr/mojito",
+            "icon_url": "https://mojito.wells.ee/app-icon-512.png",
+            "screenshots": [
+                "https://mojito.wells.ee/screenshot-imessage.png",
+                "https://mojito.wells.ee/screenshot-terminal.png"
+            ],
+            "official_site": "https://mojito.wells.ee",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
