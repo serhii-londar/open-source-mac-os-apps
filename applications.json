@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vigil",
+            "short_description": "Native terminal that runs manager-led trees of coding agents (Claude Code, Codex, OpenCode), with worker results rolling up as summaries while every node keeps its own TUI.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/butterlatte-zhang/vigil",
+            "icon_url": "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/vigil-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/tree-demo.png",
+                "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/history-replay.png"
+            ],
+            "official_site": "https://butterlatte-zhang.github.io/vigil/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
