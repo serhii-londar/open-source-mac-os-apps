@@ -7426,6 +7426,21 @@
             ]
         },
         {
+            "short_description": "Fast access to Apple Mail from the command line and AI clients (MCP). Sub-millisecond full-text search using Mail's own SQLite index, verified sends, reviewed bulk triage.",
+            "categories": [
+                "mail",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/parasxos/apple-mail-mcp",
+            "title": "apple-mail-mcp",
+            "icon_url": "https://raw.githubusercontent.com/parasxos/apple-mail-mcp/main/docs/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://pypi.org/project/apple-mailbox-mcp/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Datamosh your videos on macOS. ",
             "categories": [
                 "video"
