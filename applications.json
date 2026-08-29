@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MakLock",
+            "short_description": "Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay.",
+            "categories": [
+                "security",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dutkiewiczmaciej/MakLock",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://dutkiewiczmaciej.github.io/MakLock/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
