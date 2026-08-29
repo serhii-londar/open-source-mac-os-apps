@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vuvuzela",
+            "short_description": "FIFA World Cup 2026 desktop widget with live scores, group standings, and the knockout bracket.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/bsnkhua/vuvuzela",
+            "icon_url": "https://raw.githubusercontent.com/bsnkhua/vuvuzela/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bsnkhua/vuvuzela/main/assets/screenshot-groups.png",
+                "https://raw.githubusercontent.com/bsnkhua/vuvuzela/main/assets/screenshot-matches.jpeg",
+                "https://raw.githubusercontent.com/bsnkhua/vuvuzela/main/assets/screenshot-bracket.jpeg"
+            ],
+            "official_site": "https://github.com/bsnkhua/vuvuzela",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
