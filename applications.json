@@ -9446,6 +9446,27 @@
             ]
         },
         {
+            "short_description": "Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/alexx855/better-resource-monitor",
+            "title": "Better Resource Monitor",
+            "icon_url": "https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/performance.png",
+                "https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/privacy.png",
+                "https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/simplicity.png"
+            ],
+            "official_site": "https://better-resource-monitor.alexpedersen.dev/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "macOS system monitor in your menu bar",
             "categories": [
                 "system",
