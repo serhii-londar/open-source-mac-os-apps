@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Claude Usage",
+            "short_description": "Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Bread-bang/claude-usage",
+            "icon_url": "https://raw.githubusercontent.com/Bread-bang/claude-usage/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bread-bang/claude-usage/main/docs/screenshot.png"
+            ],
+            "official_site": "https://github.com/Bread-bang/claude-usage",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
