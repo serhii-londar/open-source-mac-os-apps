@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Agent Process Manager",
+            "short_description": "Native macOS menu bar utility for viewing CPU and memory use and stopping stale coding-session and Playwright process groups.",
+            "categories": [
+                "development",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ozzyocak/agent-process-manager",
+            "icon_url": "https://raw.githubusercontent.com/ozzyocak/agent-process-manager/main/Resources/AppIcon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ozzyocak/agent-process-manager/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/ozzyocak/agent-process-manager/main/docs/screenshots/performance-checklist.png"
+            ],
+            "official_site": "https://github.com/ozzyocak/agent-process-manager",
+            "languages": [
+                "objective-c"
+            ]
         }
     ]
 }
