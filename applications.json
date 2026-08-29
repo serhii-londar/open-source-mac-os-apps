@@ -1,6 +1,26 @@
 {
     "applications": [
 	{
+            "title": "Notchi",
+            "short_description": "Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.",
+            "categories": [
+                "productivity",
+                "notes",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cyrus-cai/notchi",
+            "icon_url": "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/verb-ask.jpg",
+                "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/agent-compose.jpg"
+            ],
+            "official_site": "https://www.notch.website/",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
