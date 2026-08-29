@@ -9464,6 +9464,24 @@
             ]
         },
         {
+            "short_description": "Featherweight menu bar system monitor showing CPU, RAM, power, and temperature in two color-coded lines.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nim444/featherbar",
+            "title": "Featherbar",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nim444/featherbar/main/assets/menubar.png"
+            ],
+            "official_site": "https://crates.io/crates/featherbar",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "repo_url": "https://github.com/87kangsw/ThenGenerator",
             "official_site": "",
             "title": "ThenGenerator",
