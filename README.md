@@ -2538,7 +2538,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
-### ⬇️ Downloader (10)
+### ⬇️ Downloader (11)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -2627,6 +2627,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Pjirlip/Pillager/master/docu/pillagerpreview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Pjirlip/Pillager/master/docu/useffmpeg.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [schlonk-pad](https://github.com/crux/schlonk-pad) - Native macOS GUI for grabbing videos from Bluesky, X, TikTok, LinkedIn and Facebook posts. Wraps yt-dlp; drag the result into any chat app to share.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/crux/schlonk-pad/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
