@@ -1081,6 +1081,23 @@
             ]
         },
         {
+            "title": "usage",
+            "short_description": "macOS menu bar and Windows tray app that pins Claude Code, Codex, and Antigravity quota to the screen. Claude Code and Codex are read from local session files. Includes Progress Concierge for automatic session resume.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/aqua5230/usage",
+            "icon_url": "https://aqua5230.github.io/usage/avatar.png",
+            "screenshots": [
+                "https://aqua5230.github.io/usage/hero.png"
+            ],
+            "official_site": "https://aqua5230.github.io/usage/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Tiny multiprocessing utility for file backups.",
             "categories": [
                 "backup"
