@@ -8737,6 +8737,24 @@
             ]
         },
         {
+            "title": "Pesty",
+            "short_description": "Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/momenbasel/pesty",
+            "icon_url": "https://raw.githubusercontent.com/momenbasel/pesty/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/momenbasel/pesty/main/docs/assets/screenshot-strip.png"
+            ],
+            "official_site": "https://github.com/momenbasel/pesty",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A simple command line notebook with multi-device sync and web interface.",
             "categories": [
                 "notes"
