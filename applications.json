@@ -1,5 +1,25 @@
 {
     "applications": [
+        {
+            "title": "Logue",
+            "short_description": "Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes — runs entirely on Apple Silicon.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/bitwize-ai/Logue",
+            "icon_url": "https://raw.githubusercontent.com/bitwize-ai/Logue/main/Logue/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/home-dashboard.png",
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/meeting-transcription.png",
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/smart-minutes.png",
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/writing-editor.png"
+            ],
+            "official_site": "https://github.com/bitwize-ai/Logue",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
