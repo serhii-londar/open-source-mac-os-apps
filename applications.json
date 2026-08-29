@@ -1,6 +1,24 @@
 {
     "applications": [
 	{
+            "title": "Pulse",
+            "short_description": "Native macOS menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L.",
+            "categories": [
+                "menubar",
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/fatwang2/Pulse",
+            "icon_url": "https://raw.githubusercontent.com/fatwang2/Pulse/main/PulseMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fatwang2/Pulse/main/website/public/og-v2.png",
+                "https://raw.githubusercontent.com/fatwang2/Pulse/main/assets/readme/pulse-watchlist-share.png"
+            ],
+            "official_site": "https://www.pulseticker.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
