@@ -7993,6 +7993,21 @@
         {
             "short_description": "Slate is a window management application similar to Divvy and SizeUp",
             "categories": [
+        {
+            "title": "Command Reopen",
+            "short_description": "Fix Cmd+Tab for minimized and closed windows on macOS. Auto-restore windows with zero permissions required.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/fchen6611/command-reopen",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://commandreopen.com",
+            "languages": [
+                "swift"
+            ]
+        },
                 "window-management"
             ],
             "repo_url": "https://github.com/jigish/slate",
