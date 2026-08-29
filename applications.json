@@ -1,6 +1,23 @@
 {
     "applications": [
 	{
+            "title": "Nocturne",
+            "short_description": "Makes the menu bar clock unreadable so it stops telling you how late it is, without hiding anything or asking for permissions.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dotcomjack/nocturne",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dotcomjack/nocturne/main/docs/clock-before-after.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
