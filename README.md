@@ -2724,6 +2724,14 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [LiteEdit](https://github.com/arietan/lite-edit) - Fast, native macOS code editor under 1 MB — built with Swift and AppKit, no Electron.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://arietan.github.io/lite-edit/](https://arietan.github.io/lite-edit/)
+
+  **Badges:** <a href='https://github.com/arietan/lite-edit/releases/latest'><img src='https://img.shields.io/github/v/release/arietan/lite-edit?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/arietan/lite-edit'><img src='https://img.shields.io/github/stars/arietan/lite-edit?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/arietan/lite-edit' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/arietan/lite-edit' alt='License'/>
+
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
 
   **Languages:** <code>free-pascal</code> 
