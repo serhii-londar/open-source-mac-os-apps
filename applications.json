@@ -1,6 +1,23 @@
 {
     "applications": [
 	{
+            "title": "mysa",
+            "short_description": "A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/alishansnsn/mysa",
+            "icon_url": "https://raw.githubusercontent.com/alishansnsn/mysa/main/logoicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alishansnsn/mysa/main/demo-poster.jpg"
+            ],
+            "official_site": "https://github.com/alishansnsn/mysa",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
