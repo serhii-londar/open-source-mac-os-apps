@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar launcher for one-click, toggleable terminal and app snippets.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/0fuz/hangar",
+            "title": "Hangar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/0fuz/hangar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
