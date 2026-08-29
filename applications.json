@@ -232,6 +232,23 @@
             "swift"
           ]
         },   
+        {
+          "short_description": "Native menu bar app that formats JSON and SQL from the clipboard with a double Command-C gesture.",
+          "categories": [
+            "menubar",
+            "json"
+          ],
+          "repo_url": "https://github.com/vishalnarkhede/BracePaste",
+          "title": "BracePaste",
+          "icon_url": "https://raw.githubusercontent.com/vishalnarkhede/BracePaste/main/JSONClipboardFormatter/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+          "screenshots": [
+            "https://raw.githubusercontent.com/vishalnarkhede/BracePaste/main/assets/social-preview.png"
+          ],
+          "official_site": "https://github.com/vishalnarkhede/BracePaste",
+          "languages": [
+            "swift"
+          ]
+        },
 		{
 		  "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
 		  "categories": [
