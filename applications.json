@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "nCompHunt",
+            "short_description": "Finds and indexes competitive programming rounds, CTFs, hackathons, AI challenges, and design contests in one native menu bar app, with calendar sync and deadline notifications.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nhannht/ncomphunt",
+            "icon_url": "https://raw.githubusercontent.com/nhannht/ncomphunt/master/assets/compyhunt-icon-iOS-Default-1024x1024%401x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nhannht/ncomphunt/master/showcase/appstore/as01-hero.png",
+                "https://raw.githubusercontent.com/nhannht/ncomphunt/master/showcase/appstore/as09-dashboard.png"
+            ],
+            "official_site": "https://ncomphunt.nhannht.io.vn",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
