@@ -3074,6 +3074,23 @@
             ]
         },
         {
+            "short_description": "Markdown reader that keeps your comments inside the .md file, with a Quick Look extension, live reload, and a skill that lets coding agents open a document for review and wait for your notes. ",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/migsilva89/imark",
+            "title": "Imark",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/imark-window.png",
+                "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/imark-comments.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A modern MacOS markdown editor. ",
             "categories": [
                 "markdown"
