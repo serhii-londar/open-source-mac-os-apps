@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MoonProxy",
+            "short_description": "Cross-platform GUI desktop client for FRP (frpc) intranet exposure. Turn your local services into public addresses with one click.",
+            "categories": [
+                "utilities",
+                "vpn--proxy"
+            ],
+            "repo_url": "https://github.com/MoonProxyHQ/moonproxy-desktop",
+            "icon_url": "https://moonproxy.app/favicon.svg",
+            "screenshots": [
+                "https://moonproxy.app/screenshots/main-full-en.jpg"
+            ],
+            "official_site": "https://moonproxy.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
