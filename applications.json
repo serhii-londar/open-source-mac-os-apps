@@ -1819,6 +1819,24 @@
             ]
         },
         {
+            "short_description": "Screen saver that draws a hacker film dashboard from real system telemetry.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/PerfectoWeb/Gibson",
+            "title": "Gibson",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/dashboard-green.png",
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/dashboard-amber.png",
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/portrait.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "The Git interface you've been missing all your life has finally arrived. ",
             "categories": [
                 "git"
