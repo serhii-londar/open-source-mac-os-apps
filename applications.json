@@ -666,6 +666,24 @@
             ]
         },
         {
+            "title": "Fabar",
+            "short_description": "Per-app volume control from the menu bar. Uses Core Audio process taps instead of a virtual audio driver.",
+            "categories": [
+                "audio",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gigaptera/fabar",
+            "icon_url": "https://raw.githubusercontent.com/gigaptera/fabar/main/fabar-app/web-icons/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gigaptera/fabar/main/docs/assets/screenshot-dark.png"
+            ],
+            "official_site": "https://fabar.gigaptera.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS camera recording using ffmpeg ",
             "categories": [
                 "audio"
