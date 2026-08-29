@@ -1,6 +1,23 @@
 {
     "applications": [
 	{
+            "title": "Rekody",
+            "short_description": "Voice dictation CLI for macOS: hold a hotkey, speak, and on-device transcription types the text at the cursor in any app.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/rekody/rekody",
+            "icon_url": "https://raw.githubusercontent.com/rekody/rekody/main/website/public/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rekody/rekody/main/docs/assets/cli-streaming.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
