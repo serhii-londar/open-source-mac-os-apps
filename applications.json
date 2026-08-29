@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Zielzeit",
+            "short_description": "Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Mannafee/zielzeit-scalable-capital",
+            "icon_url": "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/popover.png",
+                "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/menubar.png"
+            ],
+            "official_site": "https://mannafee.github.io/zielzeit-scalable-capital/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
