@@ -4899,6 +4899,22 @@
             ]
         },
         {
+            "short_description": "Privacy-focused notes overlay that stays hidden from screenshots and screen shares.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/evanpizzolato/ghostwriter",
+            "title": "Ghostwriter",
+            "icon_url": "https://raw.githubusercontent.com/evanpizzolato/ghostwriter/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/evanpizzolato/ghostwriter/main/docs/og.png"
+            ],
+            "official_site": "https://evanpizzolato.github.io/ghostwriter/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. ",
             "categories": [
                 "notes"
