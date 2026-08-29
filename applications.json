@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Fader",
+            "short_description": "Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/pantafive/fader",
+            "icon_url": "https://raw.githubusercontent.com/pantafive/fader/main/site/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pantafive/fader/main/docs/screenshot.png"
+            ],
+            "official_site": "https://fader.pantafive.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
