@@ -1,6 +1,26 @@
 {
     "applications": [
 	{
+            "short_description": "Menu bar app that captures and restores macOS workspace layouts, window positions, browser tabs, and multi-monitor setups.",
+            "categories": [
+                "window-management",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/SoulSniper-V2/SnapState",
+            "title": "SnapState",
+            "icon_url": "https://raw.githubusercontent.com/SoulSniper-V2/SnapState/main/SnapState/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SoulSniper-V2/SnapState/main/assets/demo.gif",
+                "https://raw.githubusercontent.com/SoulSniper-V2/SnapState/main/assets/menubar.png",
+                "https://raw.githubusercontent.com/SoulSniper-V2/SnapState/main/assets/settings.png"
+            ],
+            "official_site": "https://getsnapstate.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
