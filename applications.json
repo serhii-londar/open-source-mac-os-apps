@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FunNotch",
+            "short_description": "Puts the MacBook notch to work: media controls, a drag-and-drop file shelf, clipboard history, focus sessions that block sites and apps, and twelve configurable widgets.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/JoshuaT1105/FunNotch",
+            "icon_url": "https://funnotch.xyz/icon-192.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-home.png",
+                "https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-focus.png"
+            ],
+            "official_site": "https://funnotch.xyz",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
