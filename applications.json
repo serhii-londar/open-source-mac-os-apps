@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lurar",
+            "short_description": "Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/lsjoberg/lurar",
+            "icon_url": "https://raw.githubusercontent.com/lsjoberg/lurar/main/docs/branding/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lsjoberg/lurar/main/docs/screenshots/editor.png",
+                "https://raw.githubusercontent.com/lsjoberg/lurar/main/docs/screenshots/menu-bar.png"
+            ],
+            "official_site": "https://lurar.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
