@@ -349,8 +349,21 @@
             "languages": [
                 "swift"
             ]
-        },
-        {
+         {
+      {
+    "title": "rNitro",
+    "short_description": "Native SwiftUI menu bar system monitor with local AI chat and disk cleaner.",
+    "categories": [
+      "system",
+      "utilities",
+      "menubar"
+    ],
+    "repo_url": "https://github.com",
+    "official_site": "https://chopstickshq.com",
+    "languages": [
+      "swift"
+    ]
+  },
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
