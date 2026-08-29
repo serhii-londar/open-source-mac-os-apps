@@ -6538,6 +6538,23 @@
             ]
         },
         {
+            "short_description": "Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, 16 junk categories, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/iliyami/MacClean",
+            "title": "Mac Clean",
+            "icon_url": "https://raw.githubusercontent.com/iliyami/MacClean/main/assets/app_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/iliyami/MacClean/main/assets/demo.png"
+            ],
+            "official_site": "https://github.com/iliyami/MacClean",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Simple network activity monitor for macOS. ",
             "categories": [
                 "system"
