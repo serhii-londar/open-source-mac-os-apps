@@ -125,6 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
+<a name="audio"></a>
 ### 🎵 Audio (39)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
@@ -670,6 +671,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="backup"></a>
 ### 💾 Backup (6)
 - [backy](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
 
@@ -706,6 +708,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
+<a name="browser"></a>
 ### 🌐 Browser (13)
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  
 
@@ -811,6 +814,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
+<a name="chat"></a>
 ### 💬 Chat (20)
 - [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
@@ -1031,6 +1035,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
+<a name="cryptocurrency"></a>
 ### 💰 Cryptocurrency (5)
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
 
@@ -1087,6 +1092,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="database"></a>
 ### 🗄️ Database (18)
 - [Bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 
@@ -1325,6 +1331,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="development"></a>
 ### 👨‍💻 Development (16)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
@@ -1553,6 +1560,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="git"></a>
 #### 📦 Git (20)
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker.
 
@@ -1771,6 +1779,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="json-parsing"></a>
 #### 🔄 JSON Parsing (4)
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable). 
 
@@ -1806,6 +1815,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="other-development"></a>
 #### 🔧 Other Development (5)
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
@@ -1873,6 +1883,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="web-development"></a>
 #### 🌍 Web Development (14)
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. 
 
@@ -2023,6 +2034,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="ios--macos"></a>
 #### 📱 iOS / macOS (44)
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. 
 
@@ -2538,6 +2550,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
+<a name="downloader"></a>
 ### ⬇️ Downloader (10)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
@@ -2648,6 +2661,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="editors"></a>
 ### 📝 Editors (7)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
@@ -2751,6 +2765,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://zed.dev](https://zed.dev)
 
+<a name="csv"></a>
 #### 📊 CSV (1)
 - [TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for macOS.
 
@@ -2758,6 +2773,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://apps.apple.com/app/table-tool/id1122008420](https://apps.apple.com/app/table-tool/id1122008420)
 
+<a name="json"></a>
 #### 📋 JSON (2)
 - [JSON Editor](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor
 
@@ -2787,6 +2803,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="markdown"></a>
 #### 📝 Markdown (11)
 - [Gingko](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux. 
 
@@ -2934,6 +2951,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="tex"></a>
 #### 📐 TeX (2)
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
 
@@ -2969,6 +2987,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="text"></a>
 #### ✏️ Text (13)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
@@ -3140,6 +3159,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
+<a name="extensions"></a>
 ### 🧩 Extensions (14)
 - [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
 
@@ -3321,6 +3341,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="finder"></a>
 ### 🔍 Finder (13)
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
@@ -3464,6 +3485,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="games"></a>
 ### 🎮 Games (13)
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
@@ -3605,6 +3627,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="graphics"></a>
 ### 🎨 Graphics (17)
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
@@ -3832,6 +3855,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="ide"></a>
 ### 💻 IDE (14)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
@@ -3994,6 +4018,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="images"></a>
 ### 🖼️ Images (17)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
@@ -4186,6 +4211,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
+<a name="keyboard"></a>
 ### ⌨️ Keyboard (10)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
@@ -4273,6 +4299,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="mail"></a>
 ### 📧 Mail (7)
 - [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS. 
 
@@ -4339,6 +4366,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="medical"></a>
 ### 🏥 Medical (1)
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software
 
@@ -4357,6 +4385,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="menubar"></a>
 ### 📊 Menubar (52)
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
@@ -4964,6 +4993,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
+<a name="music"></a>
 ### 🎧 Music (16)
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. 
 
@@ -5163,6 +5193,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="news"></a>
 ### 📰 News (6)
 - [baRSS – Menu Bar RSS Reader](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
 
@@ -5232,6 +5263,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="notes"></a>
 ### 📔 Notes (19)
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
 
@@ -5443,6 +5475,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
+<a name="other"></a>
 ### 📦 Other (25)
 - [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
@@ -5666,6 +5699,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="player"></a>
 ### ▶️ Player (6)
 - [IINA](https://github.com/iina/iina) - The modern video player for macOS. 
 
@@ -5735,6 +5769,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="podcast"></a>
 ### 🎙️ Podcast (7)
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. 
 
@@ -5819,6 +5854,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="productivity"></a>
 ### ⏱️ Productivity (78)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
@@ -6760,6 +6796,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
+<a name="screensaver"></a>
 ### 🌙 Screensaver (10)
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. 
 
@@ -6904,6 +6941,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="security"></a>
 ### 🔒 Security (11)
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
@@ -7032,6 +7070,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.veracrypt.fr](https://www.veracrypt.fr)
 
+<a name="sharing-files"></a>
 ### 📤 Sharing Files (11)
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
@@ -7109,6 +7148,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
+<a name="social-networking"></a>
 ### 👥 Social Networking (9)
 - [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
 
@@ -7184,6 +7224,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="streaming"></a>
 ### 📡 Streaming (3)
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app. 
 
@@ -7210,6 +7251,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="system"></a>
 ### ⚙️ System (24)
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
@@ -7486,6 +7528,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
+<a name="terminal"></a>
 ### 📺 Terminal (15)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
@@ -7627,6 +7670,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="touch-bar"></a>
 ### 🎚️ Touch Bar (6)
 - [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support. 
 
@@ -7683,6 +7727,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+<a name="utilities"></a>
 ### 🛠️ Utilities (112)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
@@ -8905,6 +8950,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
+<a name="vpn--proxy"></a>
 ### 🔐 VPN & Proxy (8)
 - [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. 
 
@@ -8962,6 +9008,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
+<a name="video"></a>
 ### 🎬 Video (20)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. 
 
@@ -9135,6 +9182,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
+<a name="wallpaper"></a>
 ### 🖥️ Wallpaper (12)
 - [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. 
 
@@ -9250,6 +9298,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
+<a name="window-management"></a>
 ### 🪟 Window Management (16)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
