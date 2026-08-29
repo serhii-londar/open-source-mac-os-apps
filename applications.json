@@ -11082,6 +11082,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Qwen Scribe",
+            "short_description": "Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.",
+            "categories": [
+                "audio",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/VladUZH/qwen-scribe",
+            "icon_url": "https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/assets/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/hero.png",
+                "https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/dictation-states.png"
+            ],
+            "official_site": "https://github.com/VladUZH/qwen-scribe",
+            "languages": [
+                "python",
+                "objective_c"
+            ]
         }
     ]
 }
