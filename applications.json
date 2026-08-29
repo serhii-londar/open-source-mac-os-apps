@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "new-markdown",
+            "short_description": "One-click \"New Markdown File\" button for the macOS Finder toolbar. Creates a blank .md in the current folder and enters rename mode.",
+            "categories": [
+                "finder",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/Squarelight-ai/new-markdown",
+            "icon_url": "https://raw.githubusercontent.com/Squarelight-ai/new-markdown/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Squarelight-ai/new-markdown/main/assets/screenshot.png"
+            ],
+            "official_site": "https://github.com/Squarelight-ai/new-markdown",
+            "languages": [
+                "applescript",
+                "swift"
+            ]
         }
     ]
 }
