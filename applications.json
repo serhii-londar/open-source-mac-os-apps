@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Break reminder for macOS that automatically pauses during meetings.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fikrikarim/repose",
+            "title": "Repose",
+            "icon_url": "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/break-overlay.png",
+                "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png"
+            ],
+            "official_site": "https://github.com/fikrikarim/repose",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
