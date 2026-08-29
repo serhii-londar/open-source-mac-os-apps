@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "PureMac",
+            "short_description": "Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/momenbasel/PureMac",
+            "icon_url": "https://raw.githubusercontent.com/momenbasel/PureMac/main/PureMac/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/momenbasel/PureMac/main/screenshots/smart-scan.png",
+                "https://raw.githubusercontent.com/momenbasel/PureMac/main/screenshots/category-view.png",
+                "https://raw.githubusercontent.com/momenbasel/PureMac/main/screenshots/system-junk-detail.png"
+            ],
+            "official_site": "https://github.com/momenbasel/PureMac",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
