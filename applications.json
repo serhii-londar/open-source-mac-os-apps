@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Windows keyboard shortcuts that work on macOS, for people who just switched.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/neural-beat/winkeys",
+            "title": "WinKeys",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
