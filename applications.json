@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Phosphene",
+            "short_description": "Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.",
+            "categories": [
+                "wallpaper",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/kageroumado/phosphene",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-library.png",
+                "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-popover.png"
+            ],
+            "official_site": "https://kagerou.glass/phosphene/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
