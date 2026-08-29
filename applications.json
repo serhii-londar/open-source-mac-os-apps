@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Dusty",
+            "short_description": "Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing anything.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/yagcioglutoprak/dusty",
+            "icon_url": "https://raw.githubusercontent.com/yagcioglutoprak/dusty/main/Dusty/Dusty/Assets.xcassets/AppIcon.appiconset/icon_512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yagcioglutoprak/dusty/main/docs/screenshots/panel.png"
+            ],
+            "official_site": "https://toprak.sh/dusty",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
