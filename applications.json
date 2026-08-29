@@ -9428,6 +9428,20 @@
             ]
         },
         {
+            "title": "TablePro",
+            "short_description": "Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/TableProApp/TablePro",
+            "icon_url": "https://raw.githubusercontent.com/TableProApp/TablePro/main/TablePro/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [],
+            "official_site": "https://tablepro.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "RSS & Atom feed reader that lives in the system status bar.",
             "categories": [
                 "menubar",
