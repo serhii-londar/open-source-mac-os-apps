@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Bzz",
+            "short_description": "Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like \"ghbdtn\" and replaces with \"привет\" on the fly. Open-source replacement for the abandoned Punto Switcher.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/zlopixatel/bzz",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zlopixatel/bzz/main/docs/demo.gif"
+            ],
+            "official_site": "https://github.com/zlopixatel/bzz",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
