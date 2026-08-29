@@ -8238,6 +8238,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. MaCursor lets you replace every macOS system cursor — arrow, I-beam, crosshair, wait spinner, and more — with custom artwork of your own.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://writronic.com/macursor/](https://writronic.com/macursor/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/writronic/MaCursor/raw/main/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
