@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mooziac",
+            "short_description": "Lightweight native macOS menu bar player for YouTube Music and local audio with trackpad gestures.",
+            "categories": [
+                "music",
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/shirkeharsh/mooziac",
+            "icon_url": "https://raw.githubusercontent.com/shirkeharsh/mooziac/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shirkeharsh/mooziac/main/Resources/Animals.png"
+            ],
+            "official_site": "https://mooziac.threeten.site",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
