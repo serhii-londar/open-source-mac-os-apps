@@ -1,6 +1,23 @@
 {
     "applications": [
 	{
+            "short_description": "Searches your saved browser bookmarks by meaning rather than by title, using a one-line description it writes for each link.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/migsilva89/unbury",
+            "title": "Unbury",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/unbury/main/.github/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/unbury/main/.github/assets/unbury-search.png"
+            ],
+            "official_site": "https://unbury.migsilva.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
