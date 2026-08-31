@@ -11082,6 +11082,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FutureOS",
+            "short_description": "One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.",
+            "categories": [
+                "productivity",
+                "chat"
+            ],
+            "repo_url": "https://github.com/futuregene/future-os",
+            "icon_url": "https://raw.githubusercontent.com/futuregene/future-os/main/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/futuregene/future-os/main/docs/desktop-screenshot.png"
+            ],
+            "official_site": "https://future-os.cn",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
