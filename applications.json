@@ -1,5 +1,21 @@
 {
     "applications": [
+        {
+            "title": "MacYT",
+            "short_description": "Native macOS app for downloading video and audio from any URL with format selection and SponsorBlock integration.",
+            "categories": [
+                "downloader",
+                "utilities",
+                "video"
+            ],
+            "repo_url": "https://github.com/sameerbajaj/MacYT",
+            "icon_url": "https://sameerbajaj.com/assets/images/tools/macyt-icon.webp",
+            "screenshots": [],
+            "official_site": "https://sameerbajaj.com/tools/macyt",
+            "languages": [
+                "swift"
+            ]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
