@@ -11082,6 +11082,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NoMicSwitch",
+            "short_description": "Pins the default audio input to the Mac's built-in microphone and locks the input volume, so AirPods never take it over.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/marks-zyz/NoMicSwitch",
+            "icon_url": "https://raw.githubusercontent.com/marks-zyz/NoMicSwitch/main/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/marks-zyz/NoMicSwitch/main/assets/install-terminal.png"
+            ],
+            "official_site": "https://github.com/marks-zyz/NoMicSwitch",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
