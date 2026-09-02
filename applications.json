@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Candela",
+            "short_description": "Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Rydersel/Candela",
+            "icon_url": "https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/hero.webp"
+            ],
+            "official_site": "https://candela.fyi",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
