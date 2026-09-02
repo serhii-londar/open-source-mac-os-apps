@@ -11082,6 +11082,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Devie AI Quota Tracker",
+            "short_description": "Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.",
+            "categories": [
+                "menubar",
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mathdevie/devie-ai-quota-tracker",
+            "icon_url": "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/logo/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/theme-light.png",
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/popover.png",
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/menu-bar.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
