@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.",
+            "categories": [
+                "chat",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/GigaDuckAI/conduck",
+            "title": "Conduck",
+            "icon_url": "https://conduck.com/conduck-icon-256.png",
+            "screenshots": [
+                "https://conduck.com/media/conduck-film-poster-v1.jpg"
+            ],
+            "official_site": "https://conduck.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
