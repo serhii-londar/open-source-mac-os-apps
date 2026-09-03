@@ -11082,6 +11082,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Superagent",
+            "short_description": "Desktop app that gives coding agents like Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/pungme/superagent-desktop",
+            "icon_url": "https://raw.githubusercontent.com/pungme/superagent-desktop/main/app/build/icon.png",
+            "screenshots": [],
+            "official_site": "https://superagent.computer",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
