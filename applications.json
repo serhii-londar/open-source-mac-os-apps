@@ -11082,6 +11082,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DevProjex",
+            "short_description": "Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Avazbek22/DevProjex",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/Avazbek22/DevProjex",
+            "languages": [
+                "c_sharp"
+            ]
         }
     ]
 }
