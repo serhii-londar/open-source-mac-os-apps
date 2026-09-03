@@ -35,6 +35,24 @@
             ]
         },
 
+        {
+            "title": "Higgs",
+            "short_description": "Dashboard and chat app for the Higgs inference server: runs MLX models on Apple Silicon behind OpenAI- and Anthropic-compatible APIs, routes to remote providers, and traces every request.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/panbanda/higgs",
+            "icon_url": "https://raw.githubusercontent.com/panbanda/higgs/main/apps/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/panbanda/higgs/main/docs/images/desktop-overview.png",
+                "https://raw.githubusercontent.com/panbanda/higgs/main/docs/images/desktop-chat.png"
+            ],
+            "official_site": "https://github.com/panbanda/higgs",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
 	{
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
