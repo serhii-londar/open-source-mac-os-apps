@@ -1,6 +1,25 @@
 {
     "applications": [
 	{
+            "short_description": "Safety-first disk cleaner and space analyzer with local scanning and review before deletion.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harry0703/MangoDisk",
+            "title": "MangoDisk",
+            "icon_url": "https://raw.githubusercontent.com/harry0703/MangoDisk/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://assets.mangodisk.app/images/screenshots/en/light-01-deep-cleanup.jpg",
+                "https://assets.mangodisk.app/images/screenshots/en/light-05-disk-space-analysis.jpg"
+            ],
+            "official_site": "https://mangodisk.app/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
