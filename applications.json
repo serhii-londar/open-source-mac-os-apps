@@ -11082,6 +11082,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "An open-source Chromium-based, Arc-like browser for macOS with a content-first UI, BYOK AI, and MCP support.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/msgbyte/dao-browser",
+            "title": "Dao Browser",
+            "icon_url": "https://raw.githubusercontent.com/msgbyte/dao-browser/main/branding/product_logo_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/msgbyte/dao-browser/main/docs/preview.png"
+            ],
+            "official_site": "https://dao.msgbyte.com",
+            "languages": [
+                "cpp",
+                "typescript"
+            ]
         }
     ]
 }
