@@ -11280,6 +11280,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Bolo",
+            "short_description": "Voice dictation menubar app using Telnyx STT and LLM APIs.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/a692570/bolo",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
