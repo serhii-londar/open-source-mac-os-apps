@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-691-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-692-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 691 |
+| 📱 Total Applications | 692 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 306 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 306 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -811,7 +811,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
-### 💬 Chat (20)
+### 💬 Chat (21)
 - [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -914,6 +914,12 @@ You can see in which language an app is written. Currently there are following l
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [OnionShare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://onionshare.org/](https://onionshare.org/)
 
 - [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
 
@@ -6949,7 +6955,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔒 Security (11)
+### 🔒 Security (12)
 - [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -6987,6 +6993,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [OnionShare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://onionshare.org/](https://onionshare.org/)
 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
@@ -7077,7 +7089,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.veracrypt.fr](https://www.veracrypt.fr)
 
-### 📤 Sharing Files (11)
+### 📤 Sharing Files (12)
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
@@ -7131,6 +7143,12 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://nitroshare.net](https://nitroshare.net)
+
+- [OnionShare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://onionshare.org/](https://onionshare.org/)
 
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. 
 
