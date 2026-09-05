@@ -11165,7 +11165,24 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "LangSwitcher",
+            "short_description": "Open-source keyboard layout text converter for macOS.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/reg2005/langSwitcher",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/reg2005/langSwitcher/main/screenshots/general.png"
+            ],
+            "official_site": "https://reg2005.github.io/langSwitcher/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
+
 
