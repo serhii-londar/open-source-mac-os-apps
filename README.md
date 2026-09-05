@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-701-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-702-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 701 |
+| 📱 Total Applications | 702 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 312 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
 
@@ -4452,7 +4452,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (55)
+### 📊 Menubar (56)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4533,6 +4533,10 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Bolo](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
@@ -7868,7 +7872,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (118)
+### 🛠️ Utilities (119)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8007,6 +8011,10 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Bolo](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
