@@ -8965,6 +8965,23 @@
             ]
         },
         {
+            "short_description": "Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.",
+            "categories": [
+                "window-management",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mmathys/noswoosh",
+            "title": "noswoosh",
+            "icon_url": "https://raw.githubusercontent.com/mmathys/noswoosh/main/assets/icon-rounded.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mmathys/noswoosh/main/assets/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Menu bar app for your calendar meetings",
             "categories": [
                 "utilities",
