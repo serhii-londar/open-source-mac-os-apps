@@ -1,5 +1,18 @@
 {
     "applications": [
+        {
+            "title": "Read Assist",
+            "short_description": "Native reading companion for contextual word meanings and passage explanations using your own OpenAI API key.",
+            "categories": ["productivity", "menubar"],
+            "repo_url": "https://github.com/ai-nuke/read-assist",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ai-nuke/read-assist/93a09dadf3d8318201c2d362817ea5ea1eff5f0d/dist/verification/ui-word.png",
+                "https://raw.githubusercontent.com/ai-nuke/read-assist/93a09dadf3d8318201c2d362817ea5ea1eff5f0d/dist/verification/ui-passage.png"
+            ],
+            "official_site": "https://github.com/ai-nuke/read-assist",
+            "languages": ["swift"]
+        },
 	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
