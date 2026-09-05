@@ -1,2 +1,4 @@
 .github/ReadmeGenerator.xcodeproj/project.xcworkspace/xcuserdata/serhii-londar.xcuserdatad/UserInterfaceState.xcuserstate
 .github/ReadmeGenerator.xcodeproj/xcuserdata/serhii-londar.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+.agents/skills/merge-pull-request/SKILL.md
+.agents/skills/merge-pull-request/scripts/review_prs.py
