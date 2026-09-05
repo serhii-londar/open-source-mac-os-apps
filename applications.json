@@ -4395,6 +4395,23 @@
             ]
         },
         {
+            "short_description": "Live menu bar dots for local AI coding sessions (Claude Code, Codex CLI). ",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/arian-shamaei/amtrino",
+            "title": "amtrino",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/arian-shamaei/amtrino/main/docs/assets/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS menubar status indicator. ",
             "categories": [
                 "menubar"
