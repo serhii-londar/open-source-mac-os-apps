@@ -11295,6 +11295,22 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "R2Drop",
+            "short_description": "Native macOS menu bar application for uploading files to Cloudflare R2 storage.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/superhumancorp/r2drop",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://r2drop.com",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
