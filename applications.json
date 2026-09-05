@@ -11181,8 +11181,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ClearDisk",
+            "short_description": "Visualize and clean developer caches to reclaim disk space on macOS.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/bysiber/cleardisk",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png"
+            ],
+            "official_site": "https://bysiber.github.io/cleardisk",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
+
 
 
