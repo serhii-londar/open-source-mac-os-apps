@@ -873,6 +873,27 @@
             ]
         },
         {
+            "short_description": "Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Yudaotor/lyrimuse",
+            "title": "Lyrimuse",
+            "icon_url": "https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/app-desktop-lyrics.png",
+                "https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/app-dynamic-island.png",
+                "https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/app-lyrics-window.png"
+            ],
+            "official_site": "https://yudaotor.github.io/lyrimuse/",
+            "languages": [
+                "swift",
+                "go"
+            ]
+        },
+        {
             "short_description": "Simple yet powerful audio player for BSD/Linux/macOS. ",
             "categories": [
                 "audio"
