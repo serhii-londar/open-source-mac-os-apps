@@ -1,6 +1,26 @@
 {
     "applications": [
 	{
+	    "title": "OmniMac",
+	    "short_description": "Seven Mac utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, dynamic notch (music, AirDrop, calendar, per-app volume, timer), window snapping and layouts, clipboard history, OCR and sound.",
+	    "categories": [
+	        "menubar",
+	        "utilities",
+	        "window-management",
+	        "productivity"
+	    ],
+	    "repo_url": "https://github.com/BySergiMM/OmniMac",
+	    "icon_url": "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/icon.png",
+	    "screenshots": [
+	        "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/notch-media.png",
+	        "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/notch-headphones.png"
+	    ],
+	    "official_site": "https://bysergimm.github.io/OmniMac/",
+	    "languages": [
+	        "swift"
+	    ]
+	},
+	{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
