@@ -251,6 +251,23 @@
 		  ]
 		},
         {
+            "title": "ClaudeUsageBar",
+            "short_description": "See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/yagcioglutoprak/ClaudeUsageBar",
+            "icon_url": "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/claude_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif"
+            ],
+            "official_site": "https://yagcioglutoprak.github.io/AIQuotaBar/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description":"Locally hosted web application that allows you to perform various operations on PDF files",
             "categories":[
                 "utilities"
