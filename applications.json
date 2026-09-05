@@ -3144,6 +3144,24 @@
             ]
         },
         {
+            "short_description": "Native Markdown editor with live preview, offline KaTeX math, Mermaid diagrams, and HTML/PDF export.",
+            "categories": [
+                "markdown",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/maxmilian/markout",
+            "title": "Markout",
+            "icon_url": "https://raw.githubusercontent.com/maxmilian/markout/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maxmilian/markout/main/assets/screenshot.png"
+            ],
+            "official_site": "https://github.com/maxmilian/markout",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
