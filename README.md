@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-695-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-696-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 695 |
+| 📱 Total Applications | 696 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 307 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 308 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -4423,7 +4423,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (54)
+### 📊 Menubar (55)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4531,6 +4531,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to reclaim disk space on macOS.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://bysiber.github.io/cleardisk](https://bysiber.github.io/cleardisk)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7318,7 +7333,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⚙️ System (24)
+### ⚙️ System (25)
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -7366,6 +7381,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Kevin-De-Koninck/Clean-Me/master/resources/Cleam-Me-image2.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to reclaim disk space on macOS.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://bysiber.github.io/cleardisk](https://bysiber.github.io/cleardisk)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
