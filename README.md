@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-696-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-697-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 696 |
+| 📱 Total Applications | 697 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 308 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 309 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -7827,7 +7827,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (114)
+### 🛠️ Utilities (115)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8849,6 +8849,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://screentranslate.filient.ai](https://screentranslate.filient.ai)
 
 - [Slime](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
 
