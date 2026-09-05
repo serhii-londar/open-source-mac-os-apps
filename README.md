@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-694-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-695-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 694 |
+| 📱 Total Applications | 695 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 306 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 307 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 41 |
 
 ## Languages
 
@@ -4237,7 +4237,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
-### ⌨️ Keyboard (10)
+### ⌨️ Keyboard (11)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4288,6 +4288,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://github.com/keycastr/keycastr/blob/5a9a9e5b498aad7f3bc26e3c2c95862359dbf3e4/assets/preview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [LangSwitcher](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter for macOS.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://reg2005.github.io/langSwitcher/](https://reg2005.github.io/langSwitcher/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/reg2005/langSwitcher/main/screenshots/general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
