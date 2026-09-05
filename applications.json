@@ -11265,6 +11265,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Shark",
+            "short_description": "Cursor IDE workspace manager for macOS.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/SSBun/Shark",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://ssbun.github.io/Shark",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
