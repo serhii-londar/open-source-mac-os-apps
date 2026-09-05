@@ -93,6 +93,23 @@
             ]
         },
         {
+            "title": "OnionShare",
+            "short_description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network.",
+            "categories": [
+                "chat",
+                "sharing-files",
+                "security"
+            ],
+            "repo_url": "https://github.com/onionshare/onionshare",
+            "icon_url": "https://raw.githubusercontent.com/onionshare/onionshare/main/docs/source/_static/logo.png",
+            "screenshots": [],
+            "official_site": "https://onionshare.org/",
+            "languages": [
+                "python",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Three-finger trackpad gestures for middle-click and middle-drag.",
             "categories": [
                 "utilities"
