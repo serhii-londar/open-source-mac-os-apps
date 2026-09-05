@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-690-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-691-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 690 |
+| 📱 Total Applications | 691 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 306 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 41 |
 
@@ -7531,7 +7531,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
-### 📺 Terminal (15)
+### 📺 Terminal (16)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -7655,6 +7655,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Terminator](https://github.com/gnome-terminator/terminator) - Terminal emulator that lets you open multiple GNOME terminals in one window.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
+  **Website:** [https://gnome-terminator.org](https://gnome-terminator.org)
+
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -7728,7 +7734,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (112)
+### 🛠️ Utilities (113)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8839,6 +8845,12 @@ You can see in which language an app is written. Currently there are following l
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Terminator](https://github.com/gnome-terminator/terminator) - Terminal emulator that lets you open multiple GNOME terminals in one window.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
+  **Website:** [https://gnome-terminator.org](https://gnome-terminator.org)
 
 - [The Blockstack Browser](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. 
 
