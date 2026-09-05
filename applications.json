@@ -6123,6 +6123,21 @@
             ]
         },
         {
+            "title": "Terminator",
+            "short_description": "Terminal emulator that lets you open multiple GNOME terminals in one window.",
+            "categories": [
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gnome-terminator/terminator",
+            "icon_url": "https://raw.githubusercontent.com/gnome-terminator/terminator/master/data/icons/hicolor/48x48/apps/terminator.png",
+            "screenshots": [],
+            "official_site": "https://gnome-terminator.org",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "A tiny terminal emulator for serial port communication (macOS/Linux). ",
             "categories": [
                 "terminal"
