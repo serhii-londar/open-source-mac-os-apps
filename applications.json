@@ -11082,6 +11082,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Hop",
+            "short_description": "Sixteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/antonyshakirov/hop",
+            "icon_url": "https://raw.githubusercontent.com/antonyshakirov/hop/main/assets/icon/hop-icon-light-512.png",
+            "screenshots": [
+                "https://hop.tools/screens/en/panel.webp",
+                "https://hop.tools/screens/en/clipboard.webp"
+            ],
+            "official_site": "https://hop.tools",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
