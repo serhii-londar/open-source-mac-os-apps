@@ -11149,6 +11149,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mac Classic Player",
+            "short_description": "Keyboard-driven media player for macOS, in the spirit of Media Player Classic.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/piro0919/mac-classic-player",
+            "icon_url": "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/icon.png",
+            "screenshots": [
+               "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-main.png",
+               "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-shortcuts.png"
+            ],
+            "official_site": "https://mcp.kkweb.io/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
