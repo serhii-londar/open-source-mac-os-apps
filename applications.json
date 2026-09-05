@@ -1,6 +1,25 @@
 {
     "applications": [
-	{
+			{
+		    "short_description": "Menu-bar audio mixer that lets you stream audio to any AirPlay, Bluetooth, or Chromecast device in sync from your Mac. Control app routing and volume individually and create preset scenes.",
+		    "categories": [
+		        "audio",
+		        "menubar",
+		        "utilities"
+		    ],
+		    "repo_url": "https://github.com/aa-hh/Audiout",
+		    "title": "Audiout",
+		    "icon_url": "https://raw.githubusercontent.com/aa-hh/Audiout/main/docs/media/audiout-mark.png",
+		    "screenshots": [
+		        "https://raw.githubusercontent.com/aa-hh/Audiout/main/docs/media/popover-dark.png",
+		        "https://raw.githubusercontent.com/aa-hh/Audiout/main/docs/media/popover-light.png"
+		    ],
+		    "official_site": "https://audiout.app/?s=awesome-oss-mac",
+		    "languages": [
+		        "swift"
+		    ]
+		}
+		{
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
