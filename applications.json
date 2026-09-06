@@ -11311,6 +11311,25 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "short_description": "Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline.",
+            "categories": [
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jason-jm/wavesubs",
+            "title": "Wave Subs",
+            "icon_url": "https://raw.githubusercontent.com/jason-jm/wavesubs/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://wavesubs.com/assets/shots/en-dark-editor.jpg",
+                "https://wavesubs.com/assets/shots/en-dark-translate-models.jpg",
+                "https://wavesubs.com/assets/shots/en-dark-batch.jpg"
+            ],
+            "official_site": "https://wavesubs.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
