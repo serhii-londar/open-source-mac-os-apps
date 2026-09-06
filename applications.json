@@ -11311,6 +11311,23 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "PR Cockpit",
+            "short_description": "An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/theolundqvist/pr-cockpit",
+            "icon_url": "https://raw.githubusercontent.com/theolundqvist/pr-cockpit/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/theolundqvist/pr-cockpit/main/docs/screenshots/landing-inbox.png"
+            ],
+            "official_site": "https://prcockpit.com",
+            "languages": [
+                "TypeScript"
+            ]
         }
     ]
 }
