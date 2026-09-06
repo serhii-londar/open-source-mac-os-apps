@@ -4773,6 +4773,25 @@
             ]
         },
         {
+            "short_description": "Music player for local libraries, Subsonic and Navidrome servers, podcasts and internet radio.",
+            "categories": [
+                "music",
+                "player",
+                "podcast"
+            ],
+            "repo_url": "https://github.com/FulltimeFeline/Sol",
+            "title": "Sol",
+            "icon_url": "https://raw.githubusercontent.com/FulltimeFeline/Sol/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FulltimeFeline/Sol/main/docs/screenshot-library.png",
+                "https://raw.githubusercontent.com/FulltimeFeline/Sol/main/docs/screenshot-grid.png"
+            ],
+            "official_site": "https://sol.fulltimefeline.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "SoundCloud for macOS and Windows. ",
             "categories": [
                 "music"
