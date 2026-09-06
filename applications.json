@@ -11311,6 +11311,25 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "Gojo",
+            "short_description": "Native macOS notch workspace for local dictation, window snapping, clipboard history, files, media, and display controls.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar",
+                "window-management"
+            ],
+            "repo_url": "https://github.com/rohoswagger/gojo",
+            "icon_url": "https://raw.githubusercontent.com/rohoswagger/gojo/main/design/logo/gojo-icon-1024.png",
+            "screenshots": [
+                "https://trygojo.com/screenshots/windows.png"
+            ],
+            "official_site": "https://trygojo.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
