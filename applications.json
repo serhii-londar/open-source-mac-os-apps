@@ -6743,6 +6743,23 @@
             ]
         },
         {
+            "short_description": "Beautifully opinionated terminal emulator, with advanced session navigation and GPU-accelerated retro presets.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/mbcltd/CRTerminal",
+            "title": "crterm",
+            "icon_url": "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/CRTerminal/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/screenshots/light.png",
+                "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/screenshots/vt220.png"
+            ],
+            "official_site": "https://crterm.ai",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Terminal built on web technologies.",
             "categories": [
                 "terminal"
