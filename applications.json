@@ -7622,6 +7622,20 @@
             ]
         },
         {
+            "short_description": "Free batch video compressor for Apple Silicon Macs. Compresses camera footage to HEVC (H.265), originals never touched.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/pritam-malakar/skinnyvideo",
+            "title": "SkinnyVideo",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://skinnyvideo.app",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Subler is an macOS app created to mux and tag mp4 files. ",
             "categories": [
                 "video"
