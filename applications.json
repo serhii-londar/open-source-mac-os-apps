@@ -17,6 +17,24 @@
             ]
         },
         {
+            "short_description": "Native macOS clipboard manager with searchable history, text transforms, paste queues, reviewed actions, and an encrypted Vault.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ibrolord/clipboard-router",
+            "title": "Clipboard Router",
+            "icon_url": "https://ibrolord.github.io/clipboard-router-releases/product/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ibrolord/clipboard-router-releases/main/docs/assets/launch/reddit-swiftui-feature-hero-1600x900.png"
+            ],
+            "official_site": "https://ibrolord.github.io/clipboard-router-releases/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
