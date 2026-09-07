@@ -11311,6 +11311,24 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "short_description": "Previews the Mermaid diagram already on screen, read from a selection, the clipboard, the block under the pointer, or a file.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/FlowPeek/flowpeek",
+            "title": "FlowPeek",
+            "icon_url": "https://raw.githubusercontent.com/FlowPeek/flowpeek/main/docs/images/flowpeek-avatar.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FlowPeek/flowpeek/main/docs/images/selection.gif",
+                "https://raw.githubusercontent.com/FlowPeek/flowpeek/main/docs/images/hold-to-peek.gif"
+            ],
+            "official_site": "https://flowpeek.github.io/flowpeek/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
