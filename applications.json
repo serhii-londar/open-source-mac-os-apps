@@ -11311,7 +11311,7 @@
                 "swift",
                 "rust"
             ]
-        ,
+        },
         {
             "title": "InvoiceFlowAI",
             "short_description": "Desktop app that collects email invoices, classifies them with OCR, and exports Excel summaries for review.",
