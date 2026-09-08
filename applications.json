@@ -11311,6 +11311,25 @@
                 "swift",
                 "rust"
             ]
+        ,
+        {
+            "title": "InvoiceFlowAI",
+            "short_description": "Desktop app that collects email invoices, classifies them with OCR, and exports Excel summaries for review.",
+            "categories": [
+                "mail",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/EthanYoQ/Invoice-Downloader",
+            "icon_url": "https://raw.githubusercontent.com/EthanYoQ/Invoice-Downloader/main/build/windows/assets/invoiceflowai.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/EthanYoQ/Invoice-Downloader/main/docs/images/invoiceflowai-hero-en.png"
+            ],
+            "official_site": "https://www.orz.md/invoice-downloader/",
+            "languages": [
+                "python",
+                "typescript"
+            ]
         }
     ]
 }
