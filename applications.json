@@ -11311,6 +11311,27 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "TouchGrassBar",
+            "short_description": "Shows Codex and Claude limits, observed token usage, trends, and public friend rankings from the macOS menu bar.",
+            "categories": [
+                "development",
+                "menubar",
+                "social-networking"
+            ],
+            "repo_url": "https://github.com/FabienGreard/TouchGrassBar",
+            "icon_url": "https://raw.githubusercontent.com/FabienGreard/TouchGrassBar/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://ph-files.imgix.net/43dd0646-662b-47bf-9987-f8d62157659b.jpeg",
+                "https://ph-files.imgix.net/4638fc18-c830-41f3-867e-aba4a5f09c29.jpeg",
+                "https://ph-files.imgix.net/72abf6d8-50c7-466e-9770-3b961592cc4b.jpeg"
+            ],
+            "official_site": "https://touchgrassbar.com/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
