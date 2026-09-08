@@ -11311,7 +11311,7 @@
                 "swift",
                 "rust"
             ]
-        ,
+        },
         {
             "title": "AI Novel Writer",
             "short_description": "Local-first desktop workspace for planning, drafting, reviewing, and revising long-form fiction.",
