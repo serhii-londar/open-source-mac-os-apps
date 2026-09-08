@@ -11311,6 +11311,24 @@
                 "swift",
                 "rust"
             ]
+        ,
+        {
+            "title": "AI Novel Writer",
+            "short_description": "Local-first desktop workspace for planning, drafting, reviewing, and revising long-form fiction.",
+            "categories": [
+                "editors",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+            "icon_url": "https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/docs/assets/readme/hero-en-v2.png"
+            ],
+            "official_site": "https://www.orz.md/ai-novel-writer/",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
         }
     ]
 }
