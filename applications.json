@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "GEOKit",
+            "short_description": "Free, privacy-first Generative Engine Optimization (GEO) & AI SEO toolkit for macOS and web.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gstar-byte/geokit-cli",
+            "icon_url": "https://geokit.site/icon.png",
+            "screenshots": [],
+            "official_site": "https://geokit.site",
+            "languages": [
+                "typescript",
+                "javascript",
+                "python"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
