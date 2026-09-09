@@ -11386,6 +11386,21 @@
                 "swift",
                 "c"
             ]
+        },
+        {
+            "title": "markdown-quicklook",
+            "short_description": "Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.",
+            "categories": [
+                "utilities",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/ruspg/markdown-quicklook",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/ruspg/markdown-quicklook",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
