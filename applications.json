@@ -11356,6 +11356,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Nudge",
+            "short_description": "Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/mikusnuz/nudge",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nudge.run",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
