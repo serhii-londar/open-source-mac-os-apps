@@ -11311,6 +11311,23 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "short_description": "Menu bar app that moves macOS notification banners to the display you are looking at: the screen under the mouse pointer, the screen of the active window, or a fixed display.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/KJeon10/BannerHither",
+            "title": "BannerHither",
+            "icon_url": "https://raw.githubusercontent.com/KJeon10/BannerHither/main/assets/icon/BannerHither-1024-applegrid.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/KJeon10/BannerHither/main/assets/readme-banner.png"
+            ],
+            "official_site": "https://github.com/KJeon10/BannerHither",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
