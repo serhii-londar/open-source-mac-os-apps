@@ -11326,6 +11326,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Notch So Good",
+            "short_description": "A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/deepshal99/notch-so-good",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/deepshal99/notch-so-good",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
