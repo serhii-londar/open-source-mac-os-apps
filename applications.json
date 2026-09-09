@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Create custom Dock shortcuts for existing Chrome windows and switch between them with one click.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/kunilingvistador/ProfileDock",
+            "title": "ProfileDock",
+            "icon_url": "https://kunilingvistador.github.io/ProfileDock/icon.svg",
+            "screenshots": [
+                "https://kunilingvistador.github.io/ProfileDock/app-preview.jpg"
+            ],
+            "official_site": "https://kunilingvistador.github.io/ProfileDock/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
