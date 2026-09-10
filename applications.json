@@ -9391,6 +9391,23 @@
             ]
         },
         {
+            "short_description": "Menu bar app for external displays: HiDPI scaling, DDC brightness and volume, presets and virtual displays.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/didriksg/Crisp",
+            "title": "Crisp",
+            "icon_url": "https://raw.githubusercontent.com/didriksg/Crisp/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/didriksg/Crisp/main/docs/screenshot.png"
+            ],
+            "official_site": "https://crispmac.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
             "categories": [
                 "browser"
