@@ -99,6 +99,24 @@
   </p>
 </footer>
 
+<!-- Firebase App & Analytics -->
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-analytics.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyDqpoTXYD5F-JyGTEEbBcDd1oOowfsRxWw",
+    authDomain: "open-source-mac-os-apps.firebaseapp.com",
+    projectId: "open-source-mac-os-apps",
+    storageBucket: "open-source-mac-os-apps.firebasestorage.app",
+    messagingSenderId: "143915708645",
+    appId: "1:143915708645:web:89f19e2e6b12390ec9a40c",
+    measurementId: "G-CLMJ65NG2Y"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
 <script src="assets/app.js"></script>
 </body>
 </html>
