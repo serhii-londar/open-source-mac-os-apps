@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/sarrazola/dictamelo",
+            "title": "Dictámelo",
+            "icon_url": "https://raw.githubusercontent.com/sarrazola/dictamelo/main/assets/logo-original.png",
+            "screenshots": [],
+            "official_site": "https://www.dictamelo.com/en",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
