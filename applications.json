@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "YYLO CLI",
+            "short_description": "Command-line orchestrator for coding agents with isolated task worktrees, Kanban task state, and a typed merge queue.",
+            "categories": [
+                "development",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/yylo-dev/yylo",
+            "icon_url": "https://raw.githubusercontent.com/yylo-dev/yylo/main/assets/yylo-logo-square-neon-green.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
