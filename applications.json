@@ -717,6 +717,23 @@
             ]
         },
         {
+            "short_description": "System-wide equalizer that detects each track's genre and applies a matching preset automatically.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/gokturkgocen/EqLume",
+            "title": "EqLume",
+            "icon_url": "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/assets/app-store/01-follows-your-music.png",
+                "https://raw.githubusercontent.com/gokturkgocen/EqLume/main/assets/app-store/02-see-the-sound.png"
+            ],
+            "official_site": "https://apps.apple.com/app/id6793070613",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "System-Wide Equalizer for the Mac. ",
             "categories": [
                 "audio"
