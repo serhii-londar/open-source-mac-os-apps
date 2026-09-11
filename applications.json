@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Quillite Markdown",
+            "short_description": "Lightweight, local-first Markdown reader and editor with live preview, visual diagrams, math, and multi-format export.",
+            "categories": [
+                "markdown",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/liuhang798/quillite-markdown",
+            "icon_url": "https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/build/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/screenshots/en/01-home.png",
+                "https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/screenshots/en/02-reader.png",
+                "https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/screenshots/en/03-split-editor.png"
+            ],
+            "official_site": "https://qm.ssssa.cn/",
+            "languages": [
+                "go",
+                "javascript"
+            ]
         }
     ]
 }
