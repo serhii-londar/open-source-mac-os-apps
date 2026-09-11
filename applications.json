@@ -3507,7 +3507,7 @@
             ]
         },
         {
-            "short_description": "The DOS game emulator that’s fit for your Mac.",
+            "short_description": "The DOS game emulator that\u2019s fit for your Mac.",
             "categories": [
                 "games"
             ],
@@ -3837,7 +3837,7 @@
             ]
         },
         {
-            "short_description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "short_description": "CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
             "categories": [
                 "ide",
                 "editors"
@@ -4299,7 +4299,7 @@
             ]
         },
         {
-            "short_description": "💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
+            "short_description": "\ud83d\udc8c A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
             "categories": [
                 "mail"
             ],
@@ -5804,7 +5804,7 @@
             ]
         },
         {
-            "short_description": "macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. ",
+            "short_description": "macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart \u2013 you must wait for the timer to run out. ",
             "categories": [
                 "productivity"
             ],
@@ -7312,7 +7312,7 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/felixhageloh/uebersicht",
-            "title": "Übersicht",
+            "title": "\u00dcbersicht",
             "icon_url": "",
             "screenshots": [],
             "official_site": "",
@@ -7349,7 +7349,7 @@
             ]
         },
         {
-            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ",
+            "short_description": "Wireshark is the world\u2019s foremost and widely-used network protocol analyzer. It lets you see what\u2019s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ",
             "categories": [
                 "utilities"
             ],
@@ -8203,7 +8203,7 @@
             ]
         },
         {
-            "short_description": "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+            "short_description": "\ud83d\udcbb Medis is a beautiful, easy-to-use Mac database management application for Redis.",
             "categories": [
                 "database"
             ],
@@ -9357,7 +9357,7 @@
             ]
         },
         {
-            "short_description": "Cross-platform open source database management tool for Redis ®",
+            "short_description": "Cross-platform open source database management tool for Redis \u00ae",
             "categories": [
                 "database"
             ],
@@ -9500,7 +9500,7 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/relikd/barss",
-            "title": "baRSS – Menu Bar RSS Reader",
+            "title": "baRSS \u2013 Menu Bar RSS Reader",
             "icon_url": "https://raw.githubusercontent.com/relikd/baRSS/main/baRSS/Artwork/application-icon.svg",
             "screenshots": [
                 "https://raw.githubusercontent.com/relikd/baRSS/main/screenshot.png"
@@ -9564,7 +9564,7 @@
             ]
         },
         {
-            "short_description": "🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. ",
+            "short_description": "\ud83e\uddfe Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. ",
             "categories": [
                 "productivity",
                 "notes",
@@ -9900,7 +9900,7 @@
             ]
         },
         {
-            "short_description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",
+            "short_description": "\ud83c\udfc8 Cache CocoaPods for faster rebuild and indexing Xcode project.",
             "categories": [
                 "utilities"
             ],
@@ -10198,7 +10198,7 @@
         },
         {
             "title": "M-Courtyard",
-            "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
+            "short_description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama \u2014 entirely offline.",
             "categories": [
                 "development"
             ],
@@ -10316,7 +10316,7 @@
             ]
         },
         {
-            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
+            "short_description": "Wireshark is the world\u2019s foremost and widely-used network protocol analyzer. It lets you see what\u2019s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
             "categories": [
                 "system"
             ],
@@ -10349,7 +10349,7 @@
             ]
         },
         {
-            "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+            "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II\u2122 (\u00a9 Bluebyte) but has significantly more variety and depth to it.",
             "categories": [
                 "games"
             ],
@@ -10446,7 +10446,7 @@
             ]
         },
         {
-            "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
+            "short_description": "MacOS menu bar app for launching iOS \uf8ff and Android \ud83e\udd16 emulators.",
             "categories": [
                 "menubar"
             ],
@@ -11312,7 +11312,7 @@
                 "rust"
             ]
          },
-		{
+		     {
             "title": "MacOSCleaner",
             "short_description": "Free macOS utility for cleaning caches, temporary files, application leftovers, duplicates, and other unnecessary data.",
             "categories": [
@@ -11322,8 +11322,8 @@
             "repo_url": "https://github.com/AlexTkDev/MacOSCleaner",
             "icon_url": "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/.github/logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Dashboard_v2_1.png",
-                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Uninstaller_v2_1.png"
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Dashboard_v2_2.png",
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Uninstaller_v2_2.png"
             ],
             "official_site": "https://alextkdev.github.io/MacOSCleaner/",
             "languages": [
