@@ -11311,111 +11311,21 @@
                 "swift",
                 "rust"
             ]
-        },
-        {
-            "title": "Claude Usage Monitor",
-            "short_description": "Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.",
+         },
+		     {
+            "title": "MacOSCleaner",
+            "short_description": "Free macOS utility for cleaning caches, temporary files, application leftovers, duplicates, and other unnecessary data.",
             "categories": [
                 "utilities",
-                "menubar"
+                "system"
             ],
-            "repo_url": "https://github.com/theDanButuc/Claude-Usage-Monitor",
-            "icon_url": "https://raw.githubusercontent.com/theDanButuc/Claude-Usage-Monitor/main/ClaudeUsageMonitor/Assets/AppIcon_128.png",
-            "screenshots": [],
-            "official_site": "https://github.com/theDanButuc/Claude-Usage-Monitor",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "Notch So Good",
-            "short_description": "A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.",
-            "categories": [
-                "utilities",
-                "menubar"
-            ],
-            "repo_url": "https://github.com/deepshal99/notch-so-good",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://github.com/deepshal99/notch-so-good",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "Mocker",
-            "short_description": "Docker-compatible container CLI for macOS, built on Apple's Containerization framework.",
-            "categories": [
-                "development",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/us/mocker",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://github.com/us/mocker",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "Nudge",
-            "short_description": "Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.",
-            "categories": [
-                "window-management"
-            ],
-            "repo_url": "https://github.com/mikusnuz/nudge",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://nudge.run",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "UnTouchID",
-            "short_description": "Use your phone's fingerprint to authenticate on any Mac.",
-            "categories": [
-                "security",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/HMAKT99/UnTouchID",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://github.com/HMAKT99/UnTouchID",
-            "languages": [
-                "swift",
-                "c"
-            ]
-        },
-        {
-            "title": "markdown-quicklook",
-            "short_description": "Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.",
-            "categories": [
-                "utilities",
-                "markdown"
-            ],
-            "repo_url": "https://github.com/ruspg/markdown-quicklook",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://github.com/ruspg/markdown-quicklook",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "Repose",
-            "short_description": "Break reminder for macOS that automatically pauses during meetings.",
-            "categories": [
-                "productivity",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/fikrikarim/repose",
-            "icon_url": "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/icon.png",
+            "repo_url": "https://github.com/AlexTkDev/MacOSCleaner",
+            "icon_url": "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/.github/logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/break-overlay.png",
-                "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png"
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Dashboard_v2_2.png",
+                "https://raw.githubusercontent.com/AlexTkDev/MacOSCleaner/release/assets/screenshots/Uninstaller_v2_2.png"
             ],
-            "official_site": "https://github.com/fikrikarim/repose",
+            "official_site": "https://alextkdev.github.io/MacOSCleaner/",
             "languages": [
                 "swift"
             ]
