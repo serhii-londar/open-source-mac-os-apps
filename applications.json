@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "JustMD",
+            "short_description": "Native Markdown editor with hidden syntax, a rendered reading mode, and PDF export.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/yuraist/just-md",
+            "icon_url": "https://raw.githubusercontent.com/yuraist/just-md/master/JustMD/JustMD/Assets.xcassets/AppIcon.appiconset/icon_128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yuraist/just-md/master/marketing/screenshots/appstore-1-editor.png",
+                "https://raw.githubusercontent.com/yuraist/just-md/master/marketing/screenshots/appstore-2-read.png"
+            ],
+            "official_site": "https://justmd.nuta.life/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
