@@ -1,6 +1,27 @@
 {
     "applications": [
         {
+            "title": "Codex Migrate",
+            "short_description": "Safely moves local OpenAI Codex conversations, settings, skills, automations, and selected Git workspaces between Macs.",
+            "categories": [
+                "backup",
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jsegeren/codex-migrate",
+            "icon_url": "https://raw.githubusercontent.com/jsegeren/codex-migrate/main/site/assets/mark.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jsegeren/codex-migrate/main/site/assets/dashboard-transfer.png"
+            ],
+            "official_site": "https://migrate.segeren.com/",
+            "languages": [
+                "python",
+                "javascript",
+                "swift",
+                "shell"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
