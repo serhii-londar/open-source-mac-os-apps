@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "Headroom",
+            "short_description": "Tracks Claude, Codex, Grok, and Cursor quotas with tiny LED-style gauges beside the MacBook notch.",
+            "categories": [
+                "development",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/PeytonNowlin/Headroom",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/PeytonNowlin/Headroom/releases/download/v0.4.1/expanded-saved.png"
+            ],
+            "official_site": "https://github.com/PeytonNowlin/Headroom",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
