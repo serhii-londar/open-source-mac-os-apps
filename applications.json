@@ -2763,6 +2763,22 @@
             ]
         },
         {
+            "short_description": "Open-source macOS overlay dictation. Hold Left-Ctrl, speak, and text is pasted into the focused app.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "audio"
+            ],
+            "repo_url": "https://github.com/joyboy5477/IrisFlow",
+            "title": "Iris Flow",
+            "icon_url": "https://raw.githubusercontent.com/joyboy5477/IrisFlow/main/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/joyboy5477/IrisFlow",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "macOS app to let you access iTunesConnect. ",
             "categories": [
                 "web-development"
