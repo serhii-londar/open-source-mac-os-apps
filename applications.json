@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "LightTable",
+            "short_description": "Digital darkroom and RAW developer with physically modelled film stock simulation.",
+            "categories": [
+                "images",
+                "graphics"
+            ],
+            "repo_url": "https://github.com/reville/lighttable-digital-darkroom",
+            "icon_url": "https://lighttable.app/app-icon.png",
+            "screenshots": [
+                "https://lighttable.app/screenshots/film-controls-1500w.webp"
+            ],
+            "official_site": "https://lighttable.app",
+            "languages": [
+                "python",
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
