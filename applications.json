@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Turn your iPad or Android tablet into a customizable touch control panel for your Mac.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Alienwang1980/tapflow",
+            "title": "Tapflow",
+            "icon_url": "https://raw.githubusercontent.com/Alienwang1980/tapflow/main/promo-site/assets/img/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Alienwang1980/tapflow/main/docs/images/tapflow-01.jpg"
+            ],
+            "official_site": "https://tapflow.work",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
