@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MRRDock",
+            "short_description": "Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad, keeping the API keys in the macOS Keychain.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/simonsruggi/MRRDock",
+            "icon_url": "https://raw.githubusercontent.com/simonsruggi/MRRDock/main/icon/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/simonsruggi/MRRDock/main/screenshots/overview.png",
+                "https://raw.githubusercontent.com/simonsruggi/MRRDock/main/screenshots/by-source.png"
+            ],
+            "official_site": "https://mrrdock.simoneruggiero.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
