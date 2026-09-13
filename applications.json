@@ -17,6 +17,24 @@
             ]
         },
         {
+            "title": "AngerRate",
+            "short_description": "Menu bar flame that reflects rising anger signals while you work with Codex or Claude and reminds you to pause.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/boxyhn/anger-rate",
+            "icon_url": "https://raw.githubusercontent.com/boxyhn/anger-rate/main/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/boxyhn/anger-rate/main/docs/panel-preview-en.png"
+            ],
+            "official_site": "https://github.com/boxyhn/anger-rate",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
