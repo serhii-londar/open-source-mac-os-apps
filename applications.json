@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Orchestrator",
+            "short_description": "macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/zachealy1/orchestrator",
+            "icon_url": "https://raw.githubusercontent.com/zachealy1/orchestrator/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zachealy1/orchestrator/main/docs/assets/screenshots/kanban.png",
+                "https://raw.githubusercontent.com/zachealy1/orchestrator/main/docs/assets/screenshots/subagents.png",
+                "https://raw.githubusercontent.com/zachealy1/orchestrator/main/docs/assets/screenshots/change-review.png"
+            ],
+            "official_site": "https://github.com/zachealy1/orchestrator",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
