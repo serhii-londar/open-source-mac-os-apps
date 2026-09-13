@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "gadak",
+            "short_description": "Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.",
+            "categories": [
+                "productivity",
+                "development",
+                "database"
+            ],
+            "repo_url": "https://github.com/midagedev/gadak",
+            "icon_url": "https://raw.githubusercontent.com/midagedev/gadak/main/docs/media/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/midagedev/gadak/main/docs/media/groupby-still.png",
+                "https://raw.githubusercontent.com/midagedev/gadak/main/docs/media/history-still.png"
+            ],
+            "official_site": "https://gadak.dev",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
