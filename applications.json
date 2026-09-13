@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "BrowBro",
+            "short_description": "Keyboard-first macOS menu bar app to open clicked links in the right browser or profile.",
+            "categories": [
+                "browser",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tiagomoraes/browbro",
+            "icon_url": "https://raw.githubusercontent.com/tiagomoraes/browbro/main/site/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tiagomoraes/browbro/main/site/assets/og-image.png"
+            ],
+            "official_site": "https://browbro.tiagomoraes.cloud",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
