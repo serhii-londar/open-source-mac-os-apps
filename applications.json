@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Watches your blink rate through the webcam and reminds you to blink when you have stopped. Runs entirely on-device.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/valkozin/blink-reminder",
+            "title": "Blink Reminder",
+            "icon_url": "https://raw.githubusercontent.com/valkozin/blink-reminder/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/valkozin/blink-reminder/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
