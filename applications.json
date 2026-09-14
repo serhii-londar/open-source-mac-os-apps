@@ -801,6 +801,26 @@
             ]
         },
         {
+            "short_description": "Real-time AI video super-resolution for Apple silicon that enhances low-bitrate browser video in place.",
+            "categories": [
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/braedonsaunders/lucid",
+            "title": "Lucid",
+            "icon_url": "https://raw.githubusercontent.com/braedonsaunders/lucid/main/Lucid/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/braedonsaunders/lucid/main/.github/assets/github-social-preview.png",
+                "https://raw.githubusercontent.com/braedonsaunders/lucid/main/Benchmarks/2026-09-04/control-panel.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "macOS app to show you lyric what currently iTunes or Spotify is playing. ",
             "categories": [
                 "audio"
