@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "YapToText",
+            "short_description": "Free, on-device dictation for macOS: Whisper speech-to-text with local AI cleanup, typed into any app. No account, no subscription.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ryleighnewman/YapToText",
+            "icon_url": "https://raw.githubusercontent.com/ryleighnewman/YapToText/main/YapToText/Assets.xcassets/AppIcon.appiconset/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ryleighnewman/YapToText/main/Marketing/posters-v5/01-hero.jpg"
+            ],
+            "official_site": "https://yaptotext.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
