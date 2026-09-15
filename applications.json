@@ -1,6 +1,21 @@
 {
     "applications": [
         {
+            "title": "AirPoise",
+            "short_description": "Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/jaskirat1616/AirPoise",
+            "icon_url": "https://airpoise.vercel.app/icon-192.png",
+            "screenshots": [],
+            "official_site": "https://airpoise.vercel.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
