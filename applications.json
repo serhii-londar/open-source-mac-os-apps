@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Audio Priority Bar",
+            "short_description": "Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.",
+            "categories": [
+                "audio",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/camguillory/Audio-Priority-Bar",
+            "icon_url": "https://raw.githubusercontent.com/camguillory/Audio-Priority-Bar/main/AudioPriorityBar/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/camguillory/Audio-Priority-Bar/main/screenshot-light.png",
+                "https://raw.githubusercontent.com/camguillory/Audio-Priority-Bar/main/screenshot-dark.png"
+            ],
+            "official_site": "https://github.com/camguillory/Audio-Priority-Bar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
