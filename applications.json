@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Desktop shell for macOS 26 with a sidebar, its own dock, an app launcher, a dashboard and a control centre.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Silvertree2010/ApolloShell",
+            "title": "ApolloShell",
+            "icon_url": "https://raw.githubusercontent.com/Silvertree2010/ApolloShell/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Silvertree2010/ApolloShell/main/docs/images/hero.png"
+            ],
+            "official_site": "https://silvertree2010.github.io/ApolloShell/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
