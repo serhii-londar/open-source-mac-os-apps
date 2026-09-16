@@ -8407,6 +8407,26 @@
                 "productivity"
             ]
         },
+	{
+	    "title": "OmniMac",
+	    "short_description": "Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.",
+	    "categories": [
+	        "menubar",
+	        "utilities",
+	        "window-management",
+	        "productivity"
+	    ],
+	    "repo_url": "https://github.com/BySergiMM/OmniMac",
+	    "icon_url": "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/icon.png",
+	    "screenshots": [
+	        "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-media.png",
+	        "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-performance.png"
+	    ],
+	    "official_site": "https://bysergimm.github.io/OmniMac/en/",
+	    "languages": [
+	        "swift"
+	    ]
+	},
         {
             "short_description": "Rectangle is a window manager heavily based on Spectacle, written in Swift.",
             "categories": [
