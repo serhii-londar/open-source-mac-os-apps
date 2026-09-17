@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app that rewrites selected text in place in any app with one keystroke. The AI runs locally on Apple silicon.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "text"
+            ],
+            "repo_url": "https://github.com/kabrapratik28/Everest",
+            "title": "Everest",
+            "icon_url": "https://raw.githubusercontent.com/kabrapratik28/Everest/main/website/assets/app-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kabrapratik28/Everest/main/website/assets/demo-poster.png"
+            ],
+            "official_site": "https://kabrapratik28.github.io/Everest/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
