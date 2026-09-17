@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ShotTessera",
+            "short_description": "Native macOS app that turns local videos into storyboard and contact-sheet images.",
+            "categories": [
+                "video",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/ixiehao/ShotTessera",
+            "icon_url": "https://raw.githubusercontent.com/ixiehao/ShotTessera/main/Assets/AppIcon-1024-source.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ixiehao/ShotTessera/main/docs/assets/social-preview-v2.jpg"
+            ],
+            "official_site": "https://github.com/ixiehao/ShotTessera",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
