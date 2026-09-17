@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AI Monitor",
+            "short_description": "Companion app that shows Claude, ChatGPT, Gemini, Copilot, and Cursor usage limits on a USB-connected ESP32 desk display.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tobymarks/esp32-ai-monitor",
+            "icon_url": "https://raw.githubusercontent.com/tobymarks/esp32-ai-monitor/main/installer/assets/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tobymarks/esp32-ai-monitor/main/installer/assets/app-overview.png",
+                "https://raw.githubusercontent.com/tobymarks/esp32-ai-monitor/main/installer/assets/display-view-rings.jpg"
+            ],
+            "official_site": "https://tobymarks.github.io/esp32-ai-monitor/",
+            "languages": [
+                "swift",
+                "cpp"
+            ]
         }
     ]
 }
