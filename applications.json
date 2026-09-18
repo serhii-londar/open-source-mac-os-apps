@@ -11419,6 +11419,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "BoardEject",
+            "short_description": "Open-source macOS utility for exporting Apple Freeform selections to editable Excalidraw and creating verified local archives with original assets. Processing stays local on the Mac.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/royalpinto007/boardeject",
+            "screenshots": [],
+            "official_site": "https://boardeject.dev",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
         }
     ]
 }
