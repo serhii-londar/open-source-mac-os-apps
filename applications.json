@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CmdIME",
+            "short_description": "Input source switcher that gives each input source its own key, such as Left Command for English and Right Command for Chinese.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/ShunmeiCho/cmd-ime",
+            "icon_url": "https://raw.githubusercontent.com/ShunmeiCho/cmd-ime/a8ba700/Assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ShunmeiCho/cmd-ime/a8ba700/Assets/readme/slot-board.png",
+                "https://raw.githubusercontent.com/ShunmeiCho/cmd-ime/a8ba700/Assets/readme/themes.png"
+            ],
+            "official_site": "https://github.com/ShunmeiCho/cmd-ime",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
