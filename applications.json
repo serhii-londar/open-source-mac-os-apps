@@ -8422,7 +8422,7 @@
             ]
         },
         {
-            "short_description": "Hide MacOS menubar items.",
+            "short_description": "Hide MacOS menubar items (discontinued, unmaintained since 2023).",
             "categories": [
                 "menubar"
             ],
@@ -9210,7 +9210,7 @@
             ]
         },
         {
-            "short_description": "Powerful menu bar manager for macOS",
+            "short_description": "Powerful menu bar manager for macOS (upstream, temporarily inactive)",
             "categories": [
                 "menubar"
             ],
@@ -9221,6 +9221,22 @@
                 "https://icemenubar.app/gallery/Show%20On%20Hover.mov"
             ],
             "official_site": "https://icemenubar.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Actively maintained fork with Ice Bar, notch support and themes.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cavaldos/Ice",
+            "title": "Ice (cavaldos)",
+            "icon_url": "https://github.com/cavaldos/Ice/blob/main/Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [],
+            "official_site": "https://github.com/cavaldos/Ice",
             "languages": [
                 "swift"
             ]
@@ -10822,7 +10838,7 @@
             ]
         },
         {
-            "short_description": "Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
+            "short_description": "Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features (upstream, temporarily inactive).",
             "categories": [
                 "productivity",
                 "utilities",
