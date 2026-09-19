@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Whisk",
+            "short_description": "Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nathan-poncet/whisk",
+            "icon_url": "https://raw.githubusercontent.com/nathan-poncet/whisk/main/Assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nathan-poncet/whisk/main/docs/media/screenshot.png"
+            ],
+            "official_site": "https://nathan-poncet.github.io/whisk/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
