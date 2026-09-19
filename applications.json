@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NarrateClaude",
+            "short_description": "Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nicedreamzapp/NarrateClaude",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/nicedreamzapp/NarrateClaude",
+            "languages": [
+                "swift",
+                "python",
+                "shell"
+            ]
         }
     ]
 }
