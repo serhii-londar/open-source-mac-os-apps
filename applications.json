@@ -11419,6 +11419,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "PixelSlim",
+            "short_description": "Batch compress, resize, and convert images into WebP, AVIF, PNG, JPEG, and SVG with instant drag-and-drop.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/zeospec/PixelSlim",
+            "icon_url": "https://raw.githubusercontent.com/zeospec/PixelSlim/refs/heads/main/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://pixelslim.zeospec.com/",
+            "languages": [
+                "Rust"
+            ]
         }
     ]
 }
