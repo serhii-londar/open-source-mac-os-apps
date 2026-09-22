@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "jevme",
+            "short_description": "Voice control for any Mac app that acts while you're still talking and learns from its own AI decisions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/danielyedaniel/jevme",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/danielyedaniel/jevme",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
