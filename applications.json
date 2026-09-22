@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "storagedaddy",
+            "short_description": "Native storage analyzer for exploring disk usage and reviewing developer-cache cleanup before moving files to Trash.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sarthakagrawal927/storagedaddy",
+            "icon_url": "https://raw.githubusercontent.com/sarthakagrawal927/storagedaddy/main/Assets/StorageDaddy.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sarthakagrawal927/storagedaddy/main/site/public/storagedaddy/assets/storage-explorer.png"
+            ],
+            "official_site": "https://storagedaddy.significanthobbies.com/",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
