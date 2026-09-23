@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Recall",
+            "short_description": "Local-first clipboard manager with on-device semantic search, two-factor codes, and credentials that delete themselves.",
+            "categories": [
+                "productivity",
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/cnazk/recall-mac",
+            "icon_url": "https://raw.githubusercontent.com/cnazk/recall-mac/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cnazk/recall-mac/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
