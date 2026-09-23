@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Keep free space on your Mac: see what grows, get a plan for what can go, and move it to Trash with Undo or to a drive as a verified copy.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/danielsimisi-coder/avakasha",
+            "title": "Avakasha",
+            "icon_url": "https://raw.githubusercontent.com/danielsimisi-coder/avakasha/main/assets/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/danielsimisi-coder/avakasha/main/assets/avakasha-overview.png",
+                "https://raw.githubusercontent.com/danielsimisi-coder/avakasha/main/assets/avakasha-storage-map.png",
+                "https://raw.githubusercontent.com/danielsimisi-coder/avakasha/main/assets/avakasha-preview.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
