@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Saves TikTok, Instagram and YouTube sounds as tagged audio files in a local folder, with artwork and on-device transcripts.",
+            "categories": [
+                "audio",
+                "downloader"
+            ],
+            "repo_url": "https://github.com/lelanddutcher/SoundCache",
+            "title": "Sound Cache",
+            "icon_url": "https://soundcache.io/assets/icons/icon-squircle-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lelanddutcher/SoundCache/main/docs/images/app-screenshot.png"
+            ],
+            "official_site": "https://soundcache.io",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
