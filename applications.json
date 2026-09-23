@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "WindowHop",
+            "short_description": "Window switcher that gives every open window its own tile and switches to the exact one you pick, across Spaces and displays.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/martonpaulo/windowhop",
+            "icon_url": "https://windowhop.martonpaulo.com/assets/app-icon.png",
+            "screenshots": [
+                "https://windowhop.martonpaulo.com/screenshots/switcher-light.webp",
+                "https://windowhop.martonpaulo.com/screenshots/switcher-previews-light.webp"
+            ],
+            "official_site": "https://windowhop.martonpaulo.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
