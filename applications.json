@@ -74,6 +74,26 @@
                 "rust"
             ]
         },
+                {
+            "short_description": "S.M.A.R.T. health, temperature history and performance test for your Mac's internal drives.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/MidZai/aman_disk",
+            "title": "Aman Disk",
+            "icon_url": "https://raw.githubusercontent.com/MidZai/aman_disk/main/Branding/Aman-Disk-brand/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/health.png",
+                "https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/performance.png",
+                "https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/menu-bar.png"
+            ],
+            "official_site": "https://github.com/MidZai/aman_disk",
+            "languages": [
+                "swift"
+            ]
+        },
         {
             "short_description": "Blazingly fast, customisable multi tool, application launcher",
             "categories": [
