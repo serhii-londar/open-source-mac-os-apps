@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AirStats",
+            "short_description": "Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/byrencheema/airstats",
+            "icon_url": "https://raw.githubusercontent.com/byrencheema/airstats/main/Sources/AirStatUI/Resources/Logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/byrencheema/airstats/main/docs/panel-light.png"
+            ],
+            "official_site": "https://airstats.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
