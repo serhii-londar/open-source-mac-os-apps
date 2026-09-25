@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "sbtfix",
+            "short_description": "Menu bar app to control Sony headphones: noise cancelling, ambient sound, Speak-to-Chat and battery.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/htsecurity/sbtfix",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/ambient-dark.png",
+                "https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/earbuds-light.png"
+            ],
+            "official_site": "https://github.com/htsecurity/sbtfix",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
