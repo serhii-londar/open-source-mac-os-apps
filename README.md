@@ -6240,7 +6240,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [OPC Company](https://github.com/B1ueMu3ic4m/OPCCompany) - Watch your AI coding agents run a 2D company: a CTO agent orchestrates goals into task graphs, AI employees (Claude Code / Codex / Gemini CLI / OpenAI-compatible APIs) work in real terminal seats, risky actions stop at approval gates. Local-first, bilingual (EN/中文), MIT.
+- [OPC Company](https://github.com/B1ueMu3ic4m/OPCCompany) - Watch your AI coding agents run a 2D company: a CTO agent orchestrates goals into task graphs, AI employees (Claude Code / Codex / Gemini CLI / OpenAI-compatible APIs) work in real terminal seats, risky actions stop at approval gates, delivery checks verify files really landed, and a morning standup reports what the company did (and who did it) while you were away. Local-first, bilingual (EN/中文), MIT.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
