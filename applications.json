@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Blave Agent",
+            "short_description": "Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.",
+            "categories": [
+                "cryptocurrency",
+                "development"
+            ],
+            "repo_url": "https://github.com/Blave-TW/blave-agent",
+            "icon_url": "https://raw.githubusercontent.com/Blave-TW/blave-agent/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Blave-TW/blave-agent/main/docs/screenshot-backtest.png"
+            ],
+            "official_site": "https://blave.org",
+            "languages": [
+                "python",
+                "javascript"
+            ]
         }
     ]
 }
