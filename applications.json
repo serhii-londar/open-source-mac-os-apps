@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "Kiri",
+            "short_description": "Capture and annotate screenshots, copy text with local OCR, and record screen regions as MP4 or GIF, with a local media library.",
+            "categories": [
+                "images",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/yuxino/kiri",
+            "icon_url": "https://raw.githubusercontent.com/yuxino/kiri/main/src-tauri/icons/app-icon-source.png",
+            "screenshots": [
+                "https://ph-files.imgix.net/cfbe3fc9-684c-40d1-af65-57e1b8909afe.png"
+            ],
+            "official_site": "https://kiri.yuxino.cn",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
