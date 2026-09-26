@@ -8007,6 +8007,24 @@
             ]
         },
         {
+            "short_description": "Keyboard window manager for large and multiple displays, with grid placement, moves and swaps between displays, one-key undo, and rules that rearrange windows when a display connects.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/kouxing2000/hammerdeck",
+            "title": "Hammerdeck",
+            "icon_url": "https://raw.githubusercontent.com/kouxing2000/hammerdeck/master/design/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kouxing2000/hammerdeck/master/site/assets/demo-hero.gif",
+                "https://raw.githubusercontent.com/kouxing2000/hammerdeck/master/site/assets/settings.png"
+            ],
+            "official_site": "https://hammerdeck.peach-studio.com",
+            "languages": [
+                "swift",
+                "lua"
+            ]
+        },
+        {
             "short_description": "Staggeringly powerful macOS desktop automation with Lua.",
             "categories": [
                 "window-management"
