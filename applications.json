@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/wiltodelta/translate-like-me",
+            "title": "Translate Like Me",
+            "icon_url": "https://raw.githubusercontent.com/wiltodelta/translate-like-me/main/Resources/appicon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wiltodelta/translate-like-me/main/screenshots/menu.png",
+                "https://raw.githubusercontent.com/wiltodelta/translate-like-me/main/screenshots/general.png"
+            ],
+            "official_site": "https://github.com/wiltodelta/translate-like-me",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
