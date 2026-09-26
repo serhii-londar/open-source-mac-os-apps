@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "KyttoMCP",
+            "short_description": "Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/heyitsjakub/KyttoMCP",
+            "icon_url": "https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/macos/KyttoMCP/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/docs/screenshot.png"
+            ],
+            "official_site": "https://kytto.jakubhecht.sk/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
