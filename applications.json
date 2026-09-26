@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Switch to windows and browser tabs by typing their stable letter addresses, or search by title and URL.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/danmartuszewski/tabnax",
+            "title": "Tabnax",
+            "icon_url": "https://raw.githubusercontent.com/danmartuszewski/tabnax/main/website/assets/tabnax-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/danmartuszewski/tabnax/main/website/assets/native/mode-canopy.png"
+            ],
+            "official_site": "https://github.com/danmartuszewski/tabnax",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
