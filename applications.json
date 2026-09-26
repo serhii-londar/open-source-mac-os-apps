@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ILoveNotch",
+            "short_description": "Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/niyamvora/ILoveNotch",
+            "icon_url": "https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/shelf.png",
+                "https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/calendar.png"
+            ],
+            "official_site": "https://github.com/niyamvora/ILoveNotch",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
