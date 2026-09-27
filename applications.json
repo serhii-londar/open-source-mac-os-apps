@@ -1,6 +1,31 @@
 {
     "applications": [
         {
+            "title": "Codex Lookout",
+            "short_description": "Local-first macOS companion for monitoring and steering Codex Desktop tasks from a phone browser over a trusted LAN.",
+            "categories": [
+                "development",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/makorise/codex-local-hub",
+            "icon_url": "https://raw.githubusercontent.com/makorise/codex-local-hub/main/public/app-icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/makorise/codex-local-hub/main/docs/assets/screenshots/mac-host.en.png",
+                "https://raw.githubusercontent.com/makorise/codex-local-hub/main/docs/assets/screenshots/mobile-dashboard.en.png",
+                "https://raw.githubusercontent.com/makorise/codex-local-hub/main/docs/assets/screenshots/mobile-conversation.en.png"
+            ],
+            "official_site": "https://makorise.github.io/codex-local-hub/",
+            "languages": [
+                "swift",
+                "javascript",
+                "css",
+                "html",
+                "shell"
+            ],
+            "macos_version": "15.0"
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
