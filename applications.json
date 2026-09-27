@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Ravenpass",
+            "short_description": "Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/dortanes/ravenpass",
+            "icon_url": "https://raw.githubusercontent.com/dortanes/ravenpass/main/apps/desktop/build/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dortanes/ravenpass/main/.github/assets/screenshot.png"
+            ],
+            "official_site": "https://ravenpass.org",
+            "languages": [
+                "go",
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
