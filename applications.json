@@ -1,6 +1,21 @@
 {
     "applications": [
         {
+            "title": "Vortix",
+            "short_description": "Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.",
+            "categories": [
+                "vpn--proxy",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/Harry-kp/vortix",
+            "icon_url": "https://raw.githubusercontent.com/Harry-kp/vortix/main/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://github.com/Harry-kp/vortix",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
