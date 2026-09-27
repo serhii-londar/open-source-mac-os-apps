@@ -35,6 +35,23 @@
             ]
         },
         {
+            "title": "OmniGet",
+            "short_description": "Download video, audio, images and torrents from YouTube, Instagram, TikTok, X, Reddit and other sites supported by yt-dlp.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/tonhowtf/omniget",
+            "icon_url": "https://raw.githubusercontent.com/tonhowtf/omniget/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tonhowtf/omniget/main/assets/readme/downloads.png"
+            ],
+            "official_site": "https://getomniget.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
