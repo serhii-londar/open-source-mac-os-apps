@@ -1,5 +1,5 @@
 {
-    "applications": [
+    "applications": [         {             "title": "aiFetchly",             "short_description": "Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows.",             "categories": [                 "productivity",                 "utilities"             ],             "repo_url": "https://github.com/robertzengcn/aiFetchly",             "icon_url": "",             "screenshots": [],             "official_site": "https://www.aifetchly.com",             "languages": [                 "typescript",                 "vue"             ]         },
         {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
