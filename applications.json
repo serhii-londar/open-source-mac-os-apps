@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Safe Drive Ejector",
+            "short_description": "Safe and fast external disk ejector for macOS with process inspection and quick unmount.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/siraj-bd/Safe-Drive-Ejector-macOS",
+            "icon_url": "https://raw.githubusercontent.com/siraj-bd/Safe-Drive-Ejector-macOS/main/assets/SafeDriveEjector.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/siraj-bd/Safe-Drive-Ejector-macOS/main/assets/preview.png"
+            ],
+            "official_site": "https://github.com/siraj-bd/Safe-Drive-Ejector-macOS",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
