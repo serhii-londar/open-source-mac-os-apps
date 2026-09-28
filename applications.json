@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Steno",
+            "short_description": "Menu bar dictation app: hold a key, speak, and the text is pasted at the cursor, transcribed offline with Whisper.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Thesimpleex/steno",
+            "icon_url": "https://www.majores.store/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Thesimpleex/steno/main/docs/screenshot.png",
+                "https://raw.githubusercontent.com/Thesimpleex/steno/main/docs/demo.gif"
+            ],
+            "official_site": "https://www.majores.store",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
