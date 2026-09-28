@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "HeyMate",
+            "short_description": "AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/UmarSiddiqui/heymate",
+            "icon_url": "https://raw.githubusercontent.com/UmarSiddiqui/heymate/main/docs/media/heymate-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/UmarSiddiqui/heymate/main/docs/media/heymate-demo-poster.jpg",
+                "https://raw.githubusercontent.com/UmarSiddiqui/heymate/main/docs/media/heymate-vision.gif"
+            ],
+            "official_site": "https://getheymate.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
