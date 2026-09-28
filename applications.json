@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cellkeep",
+            "short_description": "Charge limiter, live power flow and long-term battery health for Apple Silicon MacBooks.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/berkinefeavci/cellkeep",
+            "icon_url": "https://raw.githubusercontent.com/berkinefeavci/cellkeep/main/Sources/ChargeMate/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/berkinefeavci/cellkeep/main/docs/screenshots/menu-bar-panel.png"
+            ],
+            "official_site": "https://github.com/berkinefeavci/cellkeep",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
