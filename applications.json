@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A menu bar lamp that turns blue when your Mac can make sound, so you can see at a glance that your volume is really 0.",
+            "categories": [
+                "audio",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/oyuaki/SoundLamp",
+            "title": "SoundLamp",
+            "icon_url": "https://raw.githubusercontent.com/oyuaki/SoundLamp/main/App/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/oyuaki/SoundLamp/main/docs/images/icon-silent-light.svg",
+                "https://raw.githubusercontent.com/oyuaki/SoundLamp/main/docs/images/icon-audible-light.svg"
+            ],
+            "official_site": "https://github.com/oyuaki/SoundLamp",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
