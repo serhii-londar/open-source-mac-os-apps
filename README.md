@@ -5994,6 +5994,7 @@ You can see in which language an app is written. Currently there are following l
   </details>
 
 ### ⏱️ Productivity (81)
+
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -6313,6 +6314,8 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+
+
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
@@ -6342,6 +6345,8 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Lockin](https://github.com/sigma-prog/lockin) - A free, zero-bloat, native Swift distraction blocker and app terminator for macOS. `MIT` `Swift`
 
 - [Mac Screenshot Tracker](https://github.com/instance01/mac-screenshot-tracker) - An open source, free and hackable screenshot tracker. Re-watch what you've been working on!
 
