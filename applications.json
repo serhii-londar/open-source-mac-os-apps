@@ -11419,6 +11419,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vespertine",
+            "short_description": "Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/szeremeta1/Vespertine",
+            "icon_url": "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/bit-perfect-fiio-24-192.png",
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/spatial-audio-airpods-max.png",
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/fake-hi-res-detection.png"
+            ],
+            "official_site": "https://szeremeta1.github.io/Vespertine/",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
