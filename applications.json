@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "horita",
+            "short_description": "Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/cordwainersmith/horita",
+            "icon_url": "https://raw.githubusercontent.com/cordwainersmith/horita/main/App/Assets.xcassets/AppIcon.appiconset/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/dropdown.png",
+                "https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/meeting-details.png"
+            ],
+            "official_site": "https://horita.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
