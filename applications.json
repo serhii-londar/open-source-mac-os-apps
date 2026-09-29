@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Screen Loupe",
+            "short_description": "Live, pixel-true magnifier: pin a frame over any part of the screen and watch it zoomed in a separate window.",
+            "categories": [
+                "graphics",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ayenora/screen-loupe",
+            "icon_url": "https://raw.githubusercontent.com/ayenora/screen-loupe/main/ScreenLoupe/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/01-zoom-ruler-grid.png",
+                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/02-color-meter.png",
+                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/03-reference-layers.png"
+            ],
+            "official_site": "https://ayenora.github.io/screen-loupe/",
+            "languages": [
+                "swift",
+                "metal"
+            ]
         }
     ]
 }
