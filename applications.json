@@ -11422,7 +11422,7 @@
         },
         {
             "title": "Steno",
-            "short_description": "Menu bar dictation app: hold a key, speak, and the text is pasted at the cursor, transcribed offline with Whisper.",
+            "short_description": "Menu bar dictation and meeting notes: hold a key, speak, and the text is pasted at the cursor, transcribed offline with Whisper.",
             "categories": [
                 "productivity",
                 "menubar"
