@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "agent-manager",
+            "short_description": "Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/YoanWai/agent-manager",
+            "icon_url": "https://agent-manager.dev/icon-tile-180.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YoanWai/agent-manager/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/YoanWai/agent-manager/main/docs/screenshot-review.png"
+            ],
+            "official_site": "https://agent-manager.dev",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
