@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can drive.",
+            "categories": [
+                "downloader",
+                "video"
+            ],
+            "repo_url": "https://github.com/eliorpom-cmd/to-be-downloaded",
+            "title": "TBD",
+            "icon_url": "https://raw.githubusercontent.com/eliorpom-cmd/to-be-downloaded/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/eliorpom-cmd/to-be-downloaded/main/docs/assets/hero.png",
+                "https://raw.githubusercontent.com/eliorpom-cmd/to-be-downloaded/main/docs/assets/library.png"
+            ],
+            "official_site": "https://tbd.yt/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
