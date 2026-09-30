@@ -1,6 +1,19 @@
 {
     "applications": [
         {
+  "title": "Brink",
+  "short_description": "A notch on your screen edge that keeps your Notion pages and tasks one hover away.",
+  "categories": ["productivity", "menubar"],
+  "repo_url": "https://github.com/StepanBlaha/Brink",
+  "icon_url": "https://raw.githubusercontent.com/StepanBlaha/Brink/main/branding/icon-1024.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/StepanBlaha/Brink/main/marketing/screenshots/01-hover-peek.png",
+    "https://raw.githubusercontent.com/StepanBlaha/Brink/main/marketing/screenshots/03-editor.png"
+  ],
+  "official_site": "https://brinknotch.site",
+  "languages": ["swift"]
+},
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
