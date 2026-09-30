@@ -11419,6 +11419,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "VerdictUI",
+            "short_description": "Verifies your own SwiftUI, AppKit and web interfaces and reports measured pass or fail findings instead of screenshots.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/medlars/verdictui",
+            "icon_url": "https://raw.githubusercontent.com/medlars/verdictui/main/assets/workbench-icon.svg",
+            "screenshots": [],
+            "official_site": "https://github.com/medlars/verdictui",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
