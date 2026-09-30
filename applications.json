@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mac-Monologue",
+            "short_description": "Record yourself, or your screen with you in a round webcam bubble, and cut between the two with a finger on the trackpad. Green screen, pause and resume, on-device subtitles.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/alexanderpuschkinberlin/Mac-Monologue",
+            "icon_url": "https://raw.githubusercontent.com/alexanderpuschkinberlin/Mac-Monologue/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alexanderpuschkinberlin/Mac-Monologue/main/docs/images/hero-light.png",
+                "https://raw.githubusercontent.com/alexanderpuschkinberlin/Mac-Monologue/main/docs/images/touch-cut-light.png",
+                "https://raw.githubusercontent.com/alexanderpuschkinberlin/Mac-Monologue/main/docs/images/green-screen-light.png"
+            ],
+            "official_site": "https://mac-monologue.puschkin.co",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
