@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Amber Notes",
+            "short_description": "Apple Notes-style notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with every AI edit highlighted and undoable.",
+            "categories": [
+                "notes",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/emilwagman/amber-notes",
+            "icon_url": "https://raw.githubusercontent.com/emilwagman/amber-notes/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/emilwagman/amber-notes/main/docs/images/banner.jpg"
+            ],
+            "official_site": "https://ambernotes.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
