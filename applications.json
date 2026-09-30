@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lotti",
+            "short_description": "Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents.",
+            "categories": [
+                "productivity",
+                "notes"
+            ],
+            "repo_url": "https://github.com/matthiasn/lotti",
+            "icon_url": "https://raw.githubusercontent.com/matthiasn/lotti/main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+            "screenshots": [
+                "https://pub-3df7bcf4b8ca493fa6acea182d69d9c7.r2.dev/manual/screenshots/development/tasks/workspace/desktop-light.webp"
+            ],
+            "official_site": "https://matthiasn.github.io/lotti/",
+            "languages": [
+                "dart"
+            ]
         }
     ]
 }
