@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Qalam",
+            "short_description": "Turns a Galaxy phone's S Pen into a pen tablet for the Mac and lets you write over your screen while you record.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nim444/qalam",
+            "icon_url": "https://raw.githubusercontent.com/nim444/qalam/main/assets/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nim444/qalam/main/assets/demo.gif",
+                "https://raw.githubusercontent.com/nim444/qalam/main/assets/pairing.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
