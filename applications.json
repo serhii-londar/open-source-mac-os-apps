@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Speech Wingman",
+            "short_description": "Offline multilingual speech companion that turns plain-language rules into reminders with quotes from your speech.",
+            "categories": [
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/AmethystineAlpaca/speech-wingman",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AmethystineAlpaca/speech-wingman/618f2fe321bfa3cd66993d76df084a4052edea0e/docs/assets/multilingual-mixed.gif",
+                "https://raw.githubusercontent.com/AmethystineAlpaca/speech-wingman/618f2fe321bfa3cd66993d76df084a4052edea0e/docs/assets/desktop-english-full.png"
+            ],
+            "official_site": "https://github.com/AmethystineAlpaca/speech-wingman",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
