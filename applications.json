@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vibe",
+            "short_description": "Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/cmicali/vibe",
+            "icon_url": "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/Web/img/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-basic.png",
+                "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-playlist.png",
+                "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-pitch.png"
+            ],
+            "official_site": "https://vibeplayer.app",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
