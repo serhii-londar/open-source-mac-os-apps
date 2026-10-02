@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Change-Boot",
+            "short_description": "Pick the system your Mac boots from in one click; it checks the firmware took the change before restarting.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/mikagosz/Change-Boot",
+            "icon_url": "https://raw.githubusercontent.com/mikagosz/Change-Boot/main/docs/assets/changeboot-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mikagosz/Change-Boot/main/docs/assets/changeboot-window.png",
+                "https://raw.githubusercontent.com/mikagosz/Change-Boot/main/docs/assets/changeboot-terminal.png"
+            ],
+            "official_site": "https://fractal8.eu/program?p=changeboot&lang=en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
