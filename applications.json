@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Satori",
+            "short_description": "Keyboard-first Getting Things Done (GTD) task manager with a terminal look.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/emcee5000/satori",
+            "icon_url": "https://raw.githubusercontent.com/emcee5000/satori/main/site/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/emcee5000/satori/main/site/screenshot.png"
+            ],
+            "official_site": "https://satorigtd.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
