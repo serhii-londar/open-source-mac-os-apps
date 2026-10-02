@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CWMac",
+            "short_description": "Menu bar timer that puts your Mac to sleep or shuts it down after a set time.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mikagosz/CWMac",
+            "icon_url": "https://raw.githubusercontent.com/mikagosz/CWMac/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mikagosz/CWMac/main/docs/hero.png",
+                "https://raw.githubusercontent.com/mikagosz/CWMac/main/docs/screenshot.png"
+            ],
+            "official_site": "https://fractal8.eu/program?p=cwmac&lang=en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
