@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TokenTime",
+            "short_description": "Menu bar app that shows when your Claude usage windows reset, across many accounts and Macs.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mikagosz/TokenTime",
+            "icon_url": "https://raw.githubusercontent.com/mikagosz/TokenTime/main/docs/assets/tokentime-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mikagosz/TokenTime/main/docs/assets/tokentime-hero.png"
+            ],
+            "official_site": "https://fractal8.eu/program?p=tokentime&lang=en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
