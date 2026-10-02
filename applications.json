@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NoteM",
+            "short_description": "Native notes app that stores every note as a plain folder with Markdown inside, with no database and no account.",
+            "categories": [
+                "notes",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/mikagosz/NoteM",
+            "icon_url": "https://raw.githubusercontent.com/mikagosz/NoteM/main/docs/assets/notem-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mikagosz/NoteM/main/docs/assets/notem-hero.png"
+            ],
+            "official_site": "https://fractal8.eu/program?p=notem&lang=en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
