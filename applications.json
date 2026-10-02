@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenSpatial",
+            "short_description": "Spatial audio for any headphones that plays every app as 7.1 surround, with head tracking through the camera.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dortanes/openspatial",
+            "icon_url": "https://raw.githubusercontent.com/dortanes/openspatial/main/.github/assets/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dortanes/openspatial/main/.github/assets/screenshot.webp",
+                "https://raw.githubusercontent.com/dortanes/openspatial/main/.github/assets/settings-speakers.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
