@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Autheris",
+            "short_description": "Privacy-first two-factor authenticator for Mac, iPhone, iPad and Apple Watch.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/nerdykidtech/Autheris",
+            "icon_url": "https://autheris.app/assets/img/app-icon-512.png",
+            "screenshots": [
+                "https://autheris.app/assets/img/mac-01-1000.webp"
+            ],
+            "official_site": "https://autheris.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
