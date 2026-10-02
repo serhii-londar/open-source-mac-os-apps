@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Switch-Work",
+            "short_description": "Menu bar switch that keeps your Mac awake for a set time without touching your energy settings.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mikagosz/Switch-Work",
+            "icon_url": "https://raw.githubusercontent.com/mikagosz/Switch-Work/main/docs/assets/switchwork-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mikagosz/Switch-Work/main/docs/assets/switchwork-hero.png"
+            ],
+            "official_site": "https://fractal8.eu/program?p=switchwork&lang=en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
