@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "LibreMerge",
+            "short_description": "Port of WinMerge: compare and merge files and folders, 2-way and 3-way, with the same engine and layout.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/iagodpassos/libremerge",
+            "icon_url": "https://raw.githubusercontent.com/iagodpassos/libremerge/main/packaging/linux/icons/libremerge-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/iagodpassos/libremerge/main/docs/screenshots/file-compare-light.png",
+                "https://raw.githubusercontent.com/iagodpassos/libremerge/main/docs/screenshots/folder-compare-light.png"
+            ],
+            "official_site": "https://github.com/iagodpassos/libremerge",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
