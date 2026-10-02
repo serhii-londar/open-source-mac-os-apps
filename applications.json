@@ -4617,6 +4617,26 @@
             ]
         },
         {
+            "short_description": "Turns your Mac into a retro computer: real-time CRT shaders and classic desktop themes from System 6 and Mac OS 9 to Windows XP and BeOS.",
+            "categories": [
+                "menubar",
+                "wallpaper",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/klotzbrocken/RetroMac",
+            "title": "RetroMac",
+            "icon_url": "https://raw.githubusercontent.com/klotzbrocken/RetroMac/main/docs/images/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/klotzbrocken/RetroMac/main/docs/images/hero.jpg",
+                "https://raw.githubusercontent.com/klotzbrocken/RetroMac/main/docs/images/macosx.jpg",
+                "https://raw.githubusercontent.com/klotzbrocken/RetroMac/main/docs/images/windowsme.jpg"
+            ],
+            "official_site": "https://myretromac.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
             "categories": [
                 "menubar"
