@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "App cloning tool with custom names, icons, and separate data directories.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tamia6/AppDuo",
+            "title": "AppDuo",
+            "icon_url": "https://tamia6.github.io/AppDuo/assets/appduo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tamia6/AppDuo/main/docs/images/wechat-dock.png"
+            ],
+            "official_site": "https://tamia6.github.io/AppDuo/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
