@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DockLens",
+            "short_description": "Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/firstfu/DockLens-app",
+            "icon_url": "https://raw.githubusercontent.com/firstfu/DockLens-app/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/firstfu/DockLens-app/main/assets/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
