@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Launchpad replacement for macOS 26+ with live window previews, window-title search and one-click Smart Organize.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/firstfu/Liftoff",
+            "title": "Liftoff",
+            "icon_url": "https://raw.githubusercontent.com/firstfu/Liftoff/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/firstfu/Liftoff/main/assets/grid.jpg",
+                "https://raw.githubusercontent.com/firstfu/Liftoff/main/assets/window-preview.jpg"
+            ],
+            "official_site": "https://firstfu.github.io/Liftoff/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
