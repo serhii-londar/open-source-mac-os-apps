@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Hem",
+            "short_description": "Markdown viewer and editor with Quick Look previews, Mermaid and LaTeX. Edits the rendered page and saves only the blocks that changed.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/Urannimo/hem",
+            "icon_url": "https://raw.githubusercontent.com/Urannimo/hem/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Urannimo/hem/main/docs/screenshot-light.png"
+            ],
+            "official_site": "https://hem.md",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
         }
     ]
 }
