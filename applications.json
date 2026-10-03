@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MacDirStat",
+            "short_description": "Disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/phalladar/MacDirStat",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/phalladar/MacDirStat/main/screenshot.png"
+            ],
+            "official_site": "https://github.com/phalladar/MacDirStat",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
