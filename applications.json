@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Solenta",
+            "short_description": "Local-first desktop app for running coding-agent CLIs (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) with shared memory across sessions, a GitHub-issues planboard and one git worktree per thread.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/currentbits/solenta",
+            "icon_url": "https://raw.githubusercontent.com/currentbits/solenta/main/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/currentbits/solenta/main/assets/screenshot.png"
+            ],
+            "official_site": "https://solenta.app",
+            "languages": [
+                "javascript",
+                "typescript"
+            ]
         }
     ]
 }
