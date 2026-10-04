@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ThinkWatch Lite",
+            "short_description": "Local gateway for Claude Code, Codex and other AI coding clients, with upstream switching, per-request cost records and redaction of API keys before requests leave.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+            "icon_url": "https://raw.githubusercontent.com/ThinkWatchProject/ThinkWatch-Lite/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ThinkWatchProject/ThinkWatch-Lite/main/docs/screenshots/en/overview-light.png",
+                "https://raw.githubusercontent.com/ThinkWatchProject/ThinkWatch-Lite/main/docs/screenshots/en/security-light.png",
+                "https://raw.githubusercontent.com/ThinkWatchProject/ThinkWatch-Lite/main/docs/screenshots/en/clients-light.png"
+            ],
+            "official_site": "https://thinkwat.ch/lite/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
