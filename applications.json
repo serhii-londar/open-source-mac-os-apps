@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar audio recorder that captures your mic and call audio, saves to your own Google Drive or iCloud, and transcribes on device or with your own API key.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/rokrokss/recly",
+            "title": "Recly",
+            "icon_url": "https://raw.githubusercontent.com/rokrokss/recly/main/apple/RecMac/RecMac/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [],
+            "official_site": "https://recly.dev",
+            "languages": [
+                "swift",
+                "kotlin"
+            ]
         }
     ]
 }
