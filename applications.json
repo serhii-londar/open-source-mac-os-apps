@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenNaga",
+            "short_description": "Menu bar app for the Razer Naga V2 HyperSpeed: remaps the 12 side buttons, saves profiles to the mouse, sets DPI and polling rate.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Zer0codestuff/OpenNaga",
+            "icon_url": "https://raw.githubusercontent.com/Zer0codestuff/OpenNaga/main/dmg-assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Zer0codestuff/OpenNaga/main/Documentation/screenshot-light.png",
+                "https://raw.githubusercontent.com/Zer0codestuff/OpenNaga/main/Documentation/screenshot-dark.png"
+            ],
+            "official_site": "https://github.com/Zer0codestuff/OpenNaga",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
