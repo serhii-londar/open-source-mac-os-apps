@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Rapid Reader",
+            "short_description": "RSVP speed reader for EPUB, PDF, DOCX, Markdown and web articles, with a full-text view.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Zer0codestuff/Rapid-Reader",
+            "icon_url": "https://raw.githubusercontent.com/Zer0codestuff/Rapid-Reader/main/Sources/RapidReader/Resources/AppIconArtwork.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Zer0codestuff/Rapid-Reader/main/docs/screenshots/rapid-reader-rsvp.png",
+                "https://raw.githubusercontent.com/Zer0codestuff/Rapid-Reader/main/docs/screenshots/rapid-reader-text.png"
+            ],
+            "official_site": "https://github.com/Zer0codestuff/Rapid-Reader",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
