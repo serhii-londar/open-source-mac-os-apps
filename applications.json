@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "WhisperDrop 2",
+            "short_description": "Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Zer0codestuff/whisperdrop-2",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Zer0codestuff/whisperdrop-2/main/docs/screenshots/whisperdrop-notes.jpg"
+            ],
+            "official_site": "https://github.com/Zer0codestuff/whisperdrop-2",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
