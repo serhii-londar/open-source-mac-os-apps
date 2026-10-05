@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MAC-LIMPO",
+            "short_description": "Menu bar disk cleaner for developers (Xcode, Docker, simulators, node_modules and 40+ caches) with a fast disk usage treemap in 2D and 3D.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/alexkads/MAC-LIMPO",
+            "icon_url": "https://raw.githubusercontent.com/alexkads/MAC-LIMPO/main/Assets.xcassets/AppIcon.appiconset/app_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alexkads/MAC-LIMPO/main/docs/assets/images/disk-xray-light.png",
+                "https://raw.githubusercontent.com/alexkads/MAC-LIMPO/main/docs/assets/images/menu-bar-light.png"
+            ],
+            "official_site": "https://alexkads.github.io/MAC-LIMPO/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
