@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Real-time music visualizer that plays classic Winamp AVS presets faithfully from system audio, with modern GPU effects and an Apple Music plugin.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/GarAlex/mscopes",
+            "title": "MScopes",
+            "icon_url": "https://mscopes.com/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GarAlex/mscopes/main/docs/media/app/neon-cathedral.png",
+                "https://raw.githubusercontent.com/GarAlex/mscopes/main/docs/media/mscopes-demo.gif"
+            ],
+            "official_site": "https://mscopes.com",
+            "languages": [
+                "cpp",
+                "objective-c",
+                "swift"
+            ]
         }
     ]
 }
