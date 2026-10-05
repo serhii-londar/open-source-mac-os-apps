@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Platypus Notes",
+            "short_description": "Local-first notes app that records meetings without a bot, transcribes them on-device with Whisper, and lets you chat with your notes using your own AI provider or Ollama.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pixelsmasher13/platypus",
+            "icon_url": "https://raw.githubusercontent.com/pixelsmasher13/platypus/main/src-tauri/icons/icon_128.png",
+            "screenshots": [],
+            "official_site": "https://platypusnotes.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
