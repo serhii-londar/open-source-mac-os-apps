@@ -10284,6 +10284,24 @@
             ]
         },
         {
+            "short_description": "Fast batch JPEG converter and photo resizer that keeps folder structure, with a hand-written x86-64 AVX2 engine.",
+            "categories": [
+                "images",
+                "graphics"
+            ],
+            "repo_url": "https://github.com/goblin-red/Photo-Convert",
+            "title": "GOBL(in) Convert",
+            "icon_url": "https://raw.githubusercontent.com/goblin-red/Photo-Convert/main/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/goblin-red/Photo-Convert/main/docs/banner.png",
+                "https://raw.githubusercontent.com/goblin-red/Photo-Convert/main/docs/convert-parallel.jpg"
+            ],
+            "official_site": "https://goblin.red/articles/?a=goblin-convert",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A graphical Git client designed to help you understand and manage your source code history.",
             "categories": [
                 "development",
