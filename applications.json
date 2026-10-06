@@ -11358,6 +11358,23 @@
             ]
         },
         {
+            "short_description": "Browse every Claude Code, Codex, Grok and OpenCode session in one window and import terminal sessions into the desktop apps.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/goblin-red/Session-Viewer",
+            "title": "GOBL(in) Session Viewer",
+            "icon_url": "https://raw.githubusercontent.com/goblin-red/Session-Viewer/main/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/goblin-red/Session-Viewer/main/docs/banner.png"
+            ],
+            "official_site": "https://goblin.red/articles/?a=goblin-session-viewer",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Nudge",
             "short_description": "Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.",
             "categories": [
