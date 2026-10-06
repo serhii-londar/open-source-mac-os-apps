@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Ketch",
+            "short_description": "Download manager with parallel transfers, pause and resume, and support for HTTP, FTP and BitTorrent.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/linroid/Ketch",
+            "icon_url": "https://raw.githubusercontent.com/linroid/Ketch/main/art/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/linroid/Ketch/main/art/showcase-light.png",
+                "https://raw.githubusercontent.com/linroid/Ketch/main/art/showcase-dark.png"
+            ],
+            "official_site": "https://github.com/linroid/Ketch",
+            "languages": [
+                "kotlin"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
