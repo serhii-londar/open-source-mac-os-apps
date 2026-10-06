@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Free, local-only hold-to-talk dictation for Apple Silicon Macs, with on-device Parakeet speech recognition and cleanup of filler words and restarts.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/w20labs/reed",
+            "title": "Reed Dictation",
+            "icon_url": "https://reed.w20.ai/apple-touch-icon.png",
+            "screenshots": [],
+            "official_site": "https://reed.w20.ai/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
