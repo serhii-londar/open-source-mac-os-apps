@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Token Heroes",
+            "short_description": "Idle RPG in the menu bar. Every token that Claude Code, Codex, Gemini CLI, Qwen Code or OpenCode burns becomes a coin for leveling your party of pixel heroes.",
+            "categories": [
+                "games",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ostapondo/token-heroes",
+            "icon_url": "https://raw.githubusercontent.com/ostapondo/token-heroes/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://repository-images.githubusercontent.com/1407637677/73211b8f-30d8-40a7-829a-de60fd5110af"
+            ],
+            "official_site": "https://github.com/ostapondo/token-heroes",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
