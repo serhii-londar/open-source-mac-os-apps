@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "title": "Negatives",
+            "short_description": "Converts photographed or scanned film negatives into photos automatically, for any film stock and any scanner.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/giaggito/Negatives-Positives",
+            "icon_url": "https://raw.githubusercontent.com/giaggito/Negatives-Positives/main/Apps/Negatives/Assets.xcassets/AppIcon.appiconset/icon_256@2x.png",
+            "screenshots": [],
+            "official_site": "https://giaggito.github.io/Negatives-Positives/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
