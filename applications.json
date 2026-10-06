@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "BerryDB",
+            "short_description": "Native macOS database management tool for PostgreSQL, MySQL, SQLite, Redis, and MongoDB without Electron bloat.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/berry-apps/berrydb-desktop",
+            "icon_url": "https://raw.githubusercontent.com/berry-apps/berrydb-desktop/main/webapp/public/images/berrydb-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/berry-apps/berrydb-desktop/main/webapp/public/images/og-preview.png"
+            ],
+            "official_site": "https://db.berryhub.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
