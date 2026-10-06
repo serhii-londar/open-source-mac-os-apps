@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "massCode",
+            "short_description": "Developer workspace for code snippets, Markdown notes, and HTTP requests, stored as local Markdown files.",
+            "categories": [
+                "development",
+                "notes"
+            ],
+            "repo_url": "https://github.com/massCodeIO/massCode",
+            "icon_url": "https://raw.githubusercontent.com/massCodeIO/massCode/main/.github/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/massCodeIO/massCode/main/docs/website/public/preview.png"
+            ],
+            "official_site": "https://masscode.io/",
+            "languages": [
+                "typescript",
+                "vue"
+            ]
         }
     ]
 }
