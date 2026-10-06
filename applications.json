@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Redlamp",
+            "short_description": "Native raw photo editor in Swift and Metal that keeps Lightroom Classic's Develop workflow.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/pdcgomes/redlamp",
+            "icon_url": "https://raw.githubusercontent.com/pdcgomes/redlamp/main/docs/brand/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pdcgomes/redlamp/main/docs/images/hero.png"
+            ],
+            "official_site": "https://redlamp.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
