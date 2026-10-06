@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "mu",
+            "short_description": "Coding agent with a desktop app and a CLI, in which a small judge model makes routine calls such as what enters the context.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/qybaihe/mu",
+            "icon_url": "https://raw.githubusercontent.com/qybaihe/mu/main/desktop/resources/app.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qybaihe/mu/main/docs/readme/board.png",
+                "https://raw.githubusercontent.com/qybaihe/mu/main/docs/readme/swarm.png"
+            ],
+            "official_site": "https://github.com/qybaihe/mu",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
