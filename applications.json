@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Remocn Studio",
+            "short_description": "Agent-native video editor where your coding agent (Claude Code, Codex, GitHub Copilot CLI or Grok Build) builds videos as editable Remotion projects.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/Remocn/remocn-studio",
+            "icon_url": "https://raw.githubusercontent.com/Remocn/remocn-studio/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Remocn/remocn-studio/main/docs/assets/remocn-studio.gif",
+                "https://raw.githubusercontent.com/Remocn/remocn-studio/main/public/onboarding/inspect.webp",
+                "https://raw.githubusercontent.com/Remocn/remocn-studio/main/public/onboarding/export.webp"
+            ],
+            "official_site": "https://remocn.studio",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
