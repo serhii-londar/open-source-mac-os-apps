@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ScreenshotMenu",
+            "short_description": "Menu bar screenshot menu with one-click file, clipboard and timed captures, built on the system screencapture tool.",
+            "categories": [
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ScreenshotMenu/ScreenshotMenu",
+            "icon_url": "https://screenshotmenu.nestimer.com/assets/icon.png",
+            "screenshots": [
+                "https://screenshotmenu.nestimer.com/assets/menu-screenshot.png"
+            ],
+            "official_site": "https://screenshotmenu.nestimer.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
