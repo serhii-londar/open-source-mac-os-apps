@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "LidAwake",
+            "short_description": "Menu bar app that keeps your Mac awake, even with the lid closed, and stops by itself on overheating, low battery or a timer.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/Vladimir-Podgornyi/LidAwake",
+            "icon_url": "https://raw.githubusercontent.com/Vladimir-Podgornyi/LidAwake/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Vladimir-Podgornyi/LidAwake/main/docs/images/window-light.png",
+                "https://raw.githubusercontent.com/Vladimir-Podgornyi/LidAwake/main/docs/images/keep-screen-on.png"
+            ],
+            "official_site": "https://github.com/Vladimir-Podgornyi/LidAwake",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
