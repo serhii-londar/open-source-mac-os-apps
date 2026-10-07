@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Farol",
+            "short_description": "Terminal built on libghostty for running coding agents in parallel git worktrees, with agent status, diff review and a git graph.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/snowztech/farol",
+            "icon_url": "https://raw.githubusercontent.com/snowztech/farol/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/snowztech/farol/main/site/screenshot-review.png"
+            ],
+            "official_site": "https://farol.sh",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
