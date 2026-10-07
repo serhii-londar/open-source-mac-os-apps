@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Developer-alpha Rust CLI for encrypted, append-only knowledge with device sync and scoped MCP access for AI agents.",
+            "categories": [
+                "development",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/louis030195/hyperconsciousness",
+            "title": "Hyperconsciousness",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
