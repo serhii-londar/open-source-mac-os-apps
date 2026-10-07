@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Parrot",
+            "short_description": "Local menu bar dictation. Say Oy or tap Option and it types for you.",
+            "categories": [
+                "menubar",
+                "audio"
+            ],
+            "repo_url": "https://github.com/HMDRAMS-DEV/parrot",
+            "icon_url": "https://parrot.ramihmd.com/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://parrot.ramihmd.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
