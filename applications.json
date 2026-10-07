@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS GUI for the Unison file synchronizer, with two-way sync over SSH and conflict review.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/bcourbage/unison-ui-mac",
+            "title": "Unison UI for macOS",
+            "icon_url": "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/Unison-macOS-Default-512x512@1x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/screenshot-sync-review.png",
+                "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/screenshot-profile-editor.png"
+            ],
+            "official_site": "https://bcourbage.github.io/unison-ui-mac/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
