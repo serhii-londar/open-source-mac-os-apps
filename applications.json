@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Quail",
+            "short_description": "Menu bar app that runs a local LLM server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code, Codex and Open WebUI.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/adatoo/quail",
+            "icon_url": "https://raw.githubusercontent.com/adatoo/quail/main/Quail/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adatoo/quail/main/website/assets/img/quail-window-light.png"
+            ],
+            "official_site": "https://quail-ai.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
