@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Redpen",
+            "short_description": "Mark up screenshots in red pen with your voice, then paste them into a chat with a model.",
+            "categories": [
+                "menubar",
+                "images"
+            ],
+            "repo_url": "https://github.com/HMDRAMS-DEV/redpen",
+            "icon_url": "https://redpen.ramihmd.com/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HMDRAMS-DEV/redpen/main/site/assets/editor-light.png"
+            ],
+            "official_site": "https://redpen.ramihmd.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
