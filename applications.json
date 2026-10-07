@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Keeper",
+            "short_description": "Cull a memory card of photos with the keyboard and send the keepers to Photos.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/HMDRAMS-DEV/keeper",
+            "icon_url": "https://keeper.ramihmd.com/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HMDRAMS-DEV/keeper/main/site/assets/app-light.png"
+            ],
+            "official_site": "https://keeper.ramihmd.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
