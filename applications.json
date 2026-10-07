@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Pacer",
+            "short_description": "Paces your weekly Claude and Codex limits from the menu bar so they last the week.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/HMDRAMS-DEV/pacer",
+            "icon_url": "https://pacer.ramihmd.com/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HMDRAMS-DEV/pacer/main/docs/banner-light.png"
+            ],
+            "official_site": "https://pacer.ramihmd.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
