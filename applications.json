@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native SSH terminal that also runs your servers: Docker, live metrics, SFTP and keys over one connection per host, split panes with a coding-agent picker, Touch ID unlock.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/Kirusshenkin/terminalOs",
+            "title": "Phosphor",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Kirusshenkin/terminalOs/main/docs/images/01-terminal.png",
+                "https://raw.githubusercontent.com/Kirusshenkin/terminalOs/main/docs/images/02-docker.png"
+            ],
+            "official_site": "https://github.com/Kirusshenkin/terminalOs",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
