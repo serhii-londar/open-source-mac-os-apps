@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tapestry",
+            "short_description": "Lightweight trackpad gestures that press keys, run Shortcuts, and open apps.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/HMDRAMS-DEV/tapestry",
+            "icon_url": "https://tapestry.ramihmd.com/assets/icon.png",
+            "screenshots": [
+                "https://tapestry.ramihmd.com/assets/poster.jpg"
+            ],
+            "official_site": "https://tapestry.ramihmd.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
