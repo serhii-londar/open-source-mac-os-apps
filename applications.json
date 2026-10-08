@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Ritemark",
+            "short_description": "Markdown writing app where Claude, Codex or OpenCode work directly in your local files, with a built-in terminal.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/ProductoryHQ/ritemark-native",
+            "icon_url": "https://raw.githubusercontent.com/ProductoryHQ/ritemark-native/main/branding/icons/Icon-256.png",
+            "screenshots": [
+                "https://ritemark.app/images/og/ritemark-share-en.jpg"
+            ],
+            "official_site": "https://ritemark.app",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
