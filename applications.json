@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Makes Cmd+Tab restore minimized and closed windows with zero permissions.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Feng6611/mac-command-reopen",
+            "title": "Command Reopen",
+            "icon_url": "https://raw.githubusercontent.com/Feng6611/mac-command-reopen/main/CmdReopen/Resources/Assets.xcassets/AppIcon.appiconset/CommandTab-iOS-Default-1024x1024@1x.png",
+            "screenshots": [],
+            "official_site": "https://commandreopen.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
