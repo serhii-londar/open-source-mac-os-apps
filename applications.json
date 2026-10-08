@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Feather",
+            "short_description": "AI writing assistant: press a shortcut in any app, say what to write, and it drafts the reply from what's on your screen.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/yurirxmos/feather",
+            "icon_url": "https://raw.githubusercontent.com/yurirxmos/feather/main/Assets/feather-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yurirxmos/feather/main/Assets/readme/chat-reply.gif",
+                "https://raw.githubusercontent.com/yurirxmos/feather/main/Assets/readme/email-rewrite.gif"
+            ],
+            "official_site": "https://feather.rxmos.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
