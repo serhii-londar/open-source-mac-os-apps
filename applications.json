@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Vane",
+            "short_description": "Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/notnaki/vane",
+            "icon_url": "https://raw.githubusercontent.com/notnaki/vane/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-spaces.png",
+                "https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-split.png"
+            ],
+            "official_site": "https://notnaki.github.io/vane/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
