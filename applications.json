@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Haze",
+            "short_description": "Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar.",
+            "categories": [
+                "wallpaper",
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/adrbn/haze",
+            "icon_url": "https://raw.githubusercontent.com/adrbn/haze/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adrbn/haze/main/assets/demo.webp"
+            ],
+            "official_site": "https://github.com/adrbn/haze",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
