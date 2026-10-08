@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Reprise",
+            "short_description": "Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nikiomori/reprise",
+            "icon_url": "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/library-light.png",
+                "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/island-recording-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
