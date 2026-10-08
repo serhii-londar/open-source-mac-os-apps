@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Device Hub Pro",
+            "short_description": "Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.",
+            "categories": [
+                "development",
+                "ios--macos",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gitemre/device-hub-pro",
+            "icon_url": "https://raw.githubusercontent.com/gitemre/device-hub-pro/main/docs/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gitemre/device-hub-pro/main/docs/assets/hero.png"
+            ],
+            "official_site": "https://github.com/gitemre/device-hub-pro",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
