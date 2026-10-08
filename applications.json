@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Chorus",
+            "short_description": "Ask multiple AIs at once and compare their answers side by side using your existing accounts.",
+            "categories": [
+                "chat",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/askchorus/chorus",
+            "icon_url": "https://raw.githubusercontent.com/askchorus/chorus/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/askchorus/chorus/main/docs/screenshot.png"
+            ],
+            "official_site": "https://askchorus.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
