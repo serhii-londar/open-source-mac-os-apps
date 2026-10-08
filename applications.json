@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Friction",
+            "short_description": "Menu bar app with a local proxy that holds AI agents' payments and leaked API keys for approval, caps their API spend and logs every request.",
+            "categories": [
+                "security",
+                "vpn--proxy",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Shabfom/friction",
+            "icon_url": "https://raw.githubusercontent.com/Shabfom/friction/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Shabfom/friction/main/docs/demo.gif"
+            ],
+            "official_site": "https://shabfom.github.io/friction/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
