@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "P-Pass",
+            "short_description": "Phones back up photos automatically to this Mac, with no account and no cloud storage.",
+            "categories": [
+                "backup",
+                "images"
+            ],
+            "repo_url": "https://github.com/hawkeye-xb/P-Pass",
+            "icon_url": "https://raw.githubusercontent.com/hawkeye-xb/P-Pass/main/apps/desktop/src-tauri/icons/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://p-pass.hawkeye-xb.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
