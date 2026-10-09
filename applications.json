@@ -10429,6 +10429,26 @@
             ]
         },
         {
+            "short_description": "Dark-mode viewer for lecture slides, PDFs and notes, with an embedded Excalidraw board and a map of related documents.",
+            "categories": [
+                "productivity",
+                "notes"
+            ],
+            "repo_url": "https://github.com/ZANYANBU/SlideView",
+            "title": "SlideView",
+            "icon_url": "https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/library.png",
+                "https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/viewer-smart.png",
+                "https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/drawing.png"
+            ],
+            "official_site": "https://zanyanbu.github.io/SlideView/",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "A Hex Editor for Reverse Engineers.",
             "categories": [
                 "Editors",
