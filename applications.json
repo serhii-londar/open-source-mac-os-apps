@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "FreeAudio",
+            "short_description": "Free alternative to SoundSource with per-app volume and mute, output device switching and volume control for HDMI and DisplayPort monitors.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hakanotal/FreeAudio",
+            "icon_url": "https://raw.githubusercontent.com/hakanotal/FreeAudio/main/FreeAudio/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hakanotal/FreeAudio/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
