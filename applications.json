@@ -45,10 +45,10 @@
             "repo_url": "https://github.com/GeiserX/VPN-Bypass",
             "icon_url": "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/VPNBypass.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png",
-                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png"
+                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/docs/images/screenshots/menu-bar.png",
+                "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/docs/images/screenshots/services.png"
             ],
-            "official_site": "https://github.com/GeiserX/VPN-Bypass",
+            "official_site": "https://geiserx.github.io/VPN-Bypass/",
             "languages": [
                 "swift"
             ]
