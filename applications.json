@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/GeiserX/akou",
+            "title": "akou",
+            "icon_url": "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/calls.png",
+                "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/recording.png"
+            ],
+            "official_site": "https://geiserx.github.io/akou/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
