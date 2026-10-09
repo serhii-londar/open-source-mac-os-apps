@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "FreeDisplay",
+            "short_description": "Free alternative to BetterDisplay for external monitor brightness over DDC, HiDPI modes, resolution switching and display arrangement.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hakanotal/FreeDisplay",
+            "icon_url": "https://raw.githubusercontent.com/hakanotal/FreeDisplay/main/FreeDisplay/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hakanotal/FreeDisplay/main/docs/Screenshot-1.png",
+                "https://raw.githubusercontent.com/hakanotal/FreeDisplay/main/docs/Screenshot-2.png",
+                "https://raw.githubusercontent.com/hakanotal/FreeDisplay/main/docs/Screenshot-3.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
