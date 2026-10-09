@@ -11422,7 +11422,7 @@
         },
         {
             "title": "Perch",
-            "short_description": "Notch companion for Claude Code and codex that shows agent status, estimates focused time from your hand-off rhythm, and offers 30-second stretches while agents run.",
+            "short_description": "A notch bird for macOS that tracks coding agent status, turns waiting pauses into 30-second stretches, and visualizes your flow.",
             "categories": [
                 "menubar",
                 "productivity"
