@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Plain-text editor in the style of the Windows Notepad, with browser-style tabs that can be dragged out into their own window.",
+            "categories": [
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/SimonSmb30/notepad_for_mac",
+            "title": "Notepad for Mac",
+            "icon_url": "https://raw.githubusercontent.com/SimonSmb30/notepad_for_mac/main/Notepad/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SimonSmb30/notepad_for_mac/main/docs/screenshots/main-window.png",
+                "https://raw.githubusercontent.com/SimonSmb30/notepad_for_mac/main/docs/screenshots/tab-search.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
