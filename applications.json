@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "RamDock",
+            "short_description": "Featherweight menu bar monitor for RAM and CPU, colored by load, with a per-process list to quit or force quit what's eating your Mac.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/simonsruggi/RamDock",
+            "icon_url": "https://raw.githubusercontent.com/simonsruggi/RamDock/main/icon/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/simonsruggi/RamDock/main/screenshots/processes.png",
+                "https://raw.githubusercontent.com/simonsruggi/RamDock/main/screenshots/settings.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
