@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Kaho",
+            "short_description": "Hold-to-talk dictation that transcribes on your Mac and types into any app, with optional on-device rewriting.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/utsavanand/kaho",
+            "icon_url": "https://raw.githubusercontent.com/utsavanand/kaho/main/assets/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/utsavanand/kaho/main/assets/flow.svg",
+                "https://raw.githubusercontent.com/utsavanand/kaho/main/assets/menu.svg"
+            ],
+            "official_site": "https://kaho.utsava.xyz/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
