@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MemStats",
+            "short_description": "Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sown-oss/MemStats",
+            "icon_url": "https://memstats.chungxon.dev/assets/icon.png",
+            "screenshots": [
+                "https://memstats.chungxon.dev/assets/demo.gif"
+            ],
+            "official_site": "https://memstats.chungxon.dev/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
