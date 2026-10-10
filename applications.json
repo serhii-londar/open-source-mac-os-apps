@@ -8606,6 +8606,25 @@
             ]
         },
         {
+            "short_description": "Fast disk space analyzer with a folder tree, treemap, duplicate finder and Safe / Caution / Never verdicts for caches and developer junk.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/Ryware/Headroom",
+            "title": "Headroom",
+            "icon_url": "https://raw.githubusercontent.com/Ryware/Headroom/main/Assets/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ryware/Headroom/main/Screenshots/treemap.jpeg",
+                "https://raw.githubusercontent.com/Ryware/Headroom/main/Screenshots/cleanup.jpeg",
+                "https://raw.githubusercontent.com/Ryware/Headroom/main/Screenshots/duplicates.jpeg"
+            ],
+            "official_site": "https://headroom-app.org",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
             "categories": [
                 "utilities"
