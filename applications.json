@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "RainDesktop",
+            "short_description": "Rain behind your windows that bounces off title bars, runs down their sides and floods the desktop when you're away.",
+            "categories": [
+                "wallpaper",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gonzaroman/RainDesktop",
+            "icon_url": "https://raw.githubusercontent.com/gonzaroman/RainDesktop/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gonzaroman/RainDesktop/main/docs/screenshots/rain.png",
+                "https://raw.githubusercontent.com/gonzaroman/RainDesktop/main/docs/screenshots/flood.png",
+                "https://raw.githubusercontent.com/gonzaroman/RainDesktop/main/docs/screenshots/mafia.png"
+            ],
+            "official_site": "https://github.com/gonzaroman/RainDesktop",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
