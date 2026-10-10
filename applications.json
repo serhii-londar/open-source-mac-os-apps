@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Oleafly",
+            "short_description": "Desktop editor for writing research papers, theses, reports and resumes in LaTeX, Typst and Markdown, with a built-in LaTeX engine and live PDF preview.",
+            "categories": [
+                "tex",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/Oleafly/Oleafly",
+            "icon_url": "https://cdn.oleafly.com/brand/logo/png/oleafly-tile-gradient-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Oleafly/Oleafly/main/docs/assets/readme/hero.png"
+            ],
+            "official_site": "https://oleafly.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
