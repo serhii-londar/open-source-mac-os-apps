@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "inlaut",
+            "short_description": "Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tobymarks/inlaut",
+            "icon_url": "https://inlaut.de/icon-512.png",
+            "screenshots": [
+                "https://inlaut.de/screens/einstellungen.png"
+            ],
+            "official_site": "https://inlaut.de",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
