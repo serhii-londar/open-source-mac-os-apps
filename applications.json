@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Keyameleon",
+            "short_description": "Menu bar app that gives each physical keyboard its own input source and switches to it automatically as you type.",
+            "categories": [
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/mastro993/keyameleon",
+            "icon_url": "https://keyameleon.app/brand/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mastro993/keyameleon/main/assets/menu-light.jpg",
+                "https://raw.githubusercontent.com/mastro993/keyameleon/main/assets/settings-light.png",
+                "https://raw.githubusercontent.com/mastro993/keyameleon/main/assets/setup-light.png"
+            ],
+            "official_site": "https://keyameleon.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
