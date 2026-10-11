@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DockTerm",
+            "short_description": "Terminal workspace for Claude Code with one project per pane, a live sub-agent view, diff review and permission prompts that pop out of the notch.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/munvard/dockterm",
+            "icon_url": "https://raw.githubusercontent.com/munvard/dockterm/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/munvard/dockterm/main/docs/screenshots/cover.png"
+            ],
+            "official_site": "https://github.com/munvard/dockterm",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
