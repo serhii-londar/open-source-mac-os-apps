@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Pragma Chess",
+            "short_description": "Chess database for studying, training and playing, with an engine that explains on the board why a move is good or bad.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/francescobianco/pragma-chess",
+            "icon_url": "https://raw.githubusercontent.com/francescobianco/pragma-chess/main/gui/qt/data/icons/pragma-chess.png",
+            "screenshots": [
+                "https://yafb.net/pragma-chess/assets/screenshots/explain.png",
+                "https://yafb.net/pragma-chess/assets/screenshots/main.png"
+            ],
+            "official_site": "https://yafb.net/pragma-chess/",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
