@@ -11419,6 +11419,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Streams any Mac window, or the whole desktop, to an iPhone or iPad and takes its touch, Pencil, trackpad and keyboard input back.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/Saffsanity/sill",
+            "title": "Sill",
+            "icon_url": "https://raw.githubusercontent.com/Saffsanity/sill/main/iOSClient/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg",
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg",
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg"
+            ],
+            "official_site": "https://getsill.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
