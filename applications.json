@@ -1,5 +1,20 @@
 {
     "applications": [
+{
+    "title": "Pippa",
+    "short_description": "Native macOS assistant for letters, files, and PDFs, with local AI and a drag-and-drop interface.",
+    "categories": [
+        "productivity",
+        "utilities"
+    ],
+    "repo_url": "https://github.com/tschnorpfeil/pippa",
+    "icon_url": "https://raw.githubusercontent.com/tschnorpfeil/pippa/main/site/icon-512.png",
+    "screenshots": [],
+    "official_site": "https://heypippa.app",
+    "languages": [
+        "swift"
+    ]
+},
         {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
