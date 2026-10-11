@@ -11419,6 +11419,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "EXIF Hound",
+            "short_description": "Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/minimallyexceptional/exif-hound",
+            "icon_url": "https://raw.githubusercontent.com/minimallyexceptional/exif-hound/main/apps/exif-hound-desktop/src-tauri/icons/512x512.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
