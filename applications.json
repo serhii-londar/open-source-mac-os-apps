@@ -909,6 +909,21 @@
             ]
         },
         {
+            "short_description": "Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+).",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/conrader/plainsay",
+            "title": "Plainsay",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://plainsay.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Scrobble vinyl, radios, movies to Last.fm. ",
             "categories": [
                 "audio"
@@ -11416,25 +11431,6 @@
                 "https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png"
             ],
             "official_site": "https://github.com/fikrikarim/repose",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "title": "Plainsay",
-            "short_description": "Dictation app that transcribes on-device with Whisper or NVIDIA Parakeet, with an optional cleanup pass using a key you control.",
-            "categories": [
-                "audio",
-                "menubar",
-                "productivity"
-            ],
-            "repo_url": "https://github.com/conrader/plainsay",
-            "icon_url": "https://raw.githubusercontent.com/conrader/plainsay/main/docs/assets/logo.svg",
-            "screenshots": [
-                "https://raw.githubusercontent.com/conrader/plainsay/main/Screenshots/setup-ready.png",
-                "https://raw.githubusercontent.com/conrader/plainsay/main/Screenshots/settings-speech.png"
-            ],
-            "official_site": "https://plainsay.app",
             "languages": [
                 "swift"
             ]
