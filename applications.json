@@ -35,6 +35,23 @@
             ]
         },
         {
+            "short_description": "Tap-to-click for the Apple Magic Mouse: a light touch is a click, two fingers is a right-click. Lives in the menu bar.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tourist-apps/tap2click",
+            "title": "Tap2Click",
+            "icon_url": "https://raw.githubusercontent.com/tourist-apps/tap2click/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tourist-apps/tap2click/main/assets/site.png"
+            ],
+            "official_site": "https://tap2click.me",
+            "languages": [
+                "objective-c"
+            ]
+        },
+        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
