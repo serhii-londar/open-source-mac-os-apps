@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Baa",
+            "short_description": "Menu bar app that finds and frees RAM your apps and AI agents left running, and warns you before you run out.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/selviarora/baa",
+            "icon_url": "https://raw.githubusercontent.com/selviarora/baa/main/icon/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/selviarora/baa/main/docs/menu.png"
+            ],
+            "official_site": "https://github.com/selviarora/baa",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
