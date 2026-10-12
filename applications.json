@@ -8,7 +8,9 @@
             ],
             "repo_url": "https://github.com/OpenFabrica/aster",
             "icon_url": "https://raw.githubusercontent.com/OpenFabrica/aster/master/site/assets/aster-icon.svg",
-            "screenshots": [],
+            "screenshots": [
+                "https://aster.foo/assets/shots/workspace.png"
+            ],
             "official_site": "https://aster.foo/",
             "languages": [
                 "swift"
