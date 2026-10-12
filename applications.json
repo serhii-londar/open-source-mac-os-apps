@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MacSift",
+            "short_description": "Transparent disk cleaner that groups reclaimable files by the app that owns them and moves them to the Trash instead of deleting them.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/Lcharvol/MacSift",
+            "icon_url": "https://raw.githubusercontent.com/Lcharvol/MacSift/main/docs/images/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Lcharvol/MacSift/main/docs/images/screenshot-main.png"
+            ],
+            "official_site": "https://lcharvol.github.io/MacSift/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
