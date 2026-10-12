@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+            "title": "Loadstone",
+            "short_description": "Native menu-bar window manager that snaps windows to halves, corners, and thirds.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mortenbrudvik/loadstone",
+            "icon_url": "https://raw.githubusercontent.com/mortenbrudvik/loadstone/main/Loadstone/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mortenbrudvik/loadstone/main/docs/layouts.svg",
+                "https://raw.githubusercontent.com/mortenbrudvik/loadstone/main/docs/snap-zones.svg"
+            ],
+            "official_site": "https://github.com/mortenbrudvik/loadstone",
+            "languages": [
+                "Swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
