@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TinyPrune",
+            "short_description": "Local-first lifecycle rules that move expired downloads, screenshots and developer folders to the Trash, with Preview and a Keep override.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/navig-me/tinyprune",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/navig-me/tinyprune/main/website/assets/screens/preview-light.png",
+                "https://raw.githubusercontent.com/navig-me/tinyprune/main/website/assets/screens/rules-light.png"
+            ],
+            "official_site": "https://tinyprune.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
