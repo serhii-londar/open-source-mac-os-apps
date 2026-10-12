@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lemma",
+            "short_description": "PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.",
+            "categories": [
+                "productivity",
+                "notes"
+            ],
+            "repo_url": "https://github.com/fus3r/lemma",
+            "icon_url": "https://raw.githubusercontent.com/fus3r/lemma/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fus3r/lemma/main/docs/images/reading.png",
+                "https://raw.githubusercontent.com/fus3r/lemma/main/docs/images/welcome.png"
+            ],
+            "official_site": "https://github.com/fus3r/lemma",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
