@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native YouTube Music app with an equalizer, visualizer, synced lyrics, menu bar mini player and widget.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/dcoded-dev/songtide",
+            "title": "Songtide",
+            "icon_url": "https://raw.githubusercontent.com/dcoded-dev/songtide/main/site/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dcoded-dev/songtide/main/site/screens/now-playing.webp",
+                "https://raw.githubusercontent.com/dcoded-dev/songtide/main/site/screens/visualizer-still.webp"
+            ],
+            "official_site": "https://songtide.dcoded.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
