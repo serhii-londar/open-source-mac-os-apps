@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Aster Mail",
+            "short_description": "Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains.",
+            "categories": [
+                "mail",
+                "security"
+            ],
+            "repo_url": "https://github.com/Aster-Privacy/Aster-Mail",
+            "icon_url": "",
+            "screenshots": [
+                "https://astermail.org/og-image.png"
+            ],
+            "official_site": "https://astermail.org",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
