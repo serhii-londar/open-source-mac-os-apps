@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "Open-source AI video editor: describe the edit in plain language, point at a frame when something is off, and review a before/after of every change, all edited locally.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/hormuz-labs/manul",
+            "title": "Manul",
+            "icon_url": "https://raw.githubusercontent.com/hormuz-labs/manul/main/build/icons/256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hormuz-labs/manul/main/docs/chat.png"
+            ],
+            "official_site": "https://manul.si",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
