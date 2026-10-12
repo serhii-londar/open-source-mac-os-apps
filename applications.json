@@ -430,6 +430,24 @@
             ]
         },
         {
+            "short_description": "One-way, resumable sync of macOS Photos libraries to self-hosted or local storage.",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/moontechs/files-nest",
+            "title": "FilesNest",
+            "icon_url": "https://raw.githubusercontent.com/moontechs/files-nest/main/apple/macos/FilesNest/FilesNest/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/moontechs/files-nest/main/imgs/menubar-sync-status.png",
+                "https://raw.githubusercontent.com/moontechs/files-nest/main/imgs/settings-server.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "go"
+            ]
+        },
+        {
             "short_description": "Tiny stocks watcher for the menu bar.",
             "categories": [
                 "menubar"
