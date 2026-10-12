@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CoreTend",
+            "short_description": "See what fills your Mac and clear it safely: storage map, duplicates, cleanup of caches and developer files, and complete app uninstall, always to the Trash with Undo.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ahmetbsbnr/coretend",
+            "icon_url": "https://raw.githubusercontent.com/ahmetbsbnr/coretend/main/Resources/Brand/Logo/coretend-app-icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ahmetbsbnr/coretend/main/Website/screenshots/home-en-light.png",
+                "https://raw.githubusercontent.com/ahmetbsbnr/coretend/main/Website/screenshots/clean-en-light.png",
+                "https://raw.githubusercontent.com/ahmetbsbnr/coretend/main/Website/screenshots/space-en-light.png"
+            ],
+            "official_site": "https://coretend.ahmetbsbnr.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
