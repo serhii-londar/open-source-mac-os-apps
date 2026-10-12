@@ -11422,9 +11422,9 @@
         },
         {
             "title": "littleguys",
-            "short_description": "Menu bar app that puts your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent) in one calm place.",
+            "short_description": "WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent).",
             "categories": [
-                "menubar",
+                "chat",
                 "productivity"
             ],
             "repo_url": "https://github.com/herval/littleguys",
