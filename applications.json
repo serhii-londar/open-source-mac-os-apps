@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "MacBook notch app that shows the 5-hour and weekly rate-limit usage of several Claude Code accounts and when each limit resets.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/efim0v/brow",
+            "title": "Brow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/efim0v/brow/main/docs/screenshots/brow-notch-collapsed.png",
+                "https://raw.githubusercontent.com/efim0v/brow/main/docs/screenshots/brow-panel-reset-calendar.png",
+                "https://raw.githubusercontent.com/efim0v/brow/main/docs/screenshots/brow-settings-accounts.png"
+            ],
+            "official_site": "https://github.com/efim0v/brow",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
