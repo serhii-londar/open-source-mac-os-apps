@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app that shows your Claude Code 5-hour and weekly usage limits, forecasts when you'll run out, and alerts you before you hit them.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/Abd-K/claudius-claude-code-usage",
+            "title": "Claudius",
+            "icon_url": "https://raw.githubusercontent.com/Abd-K/claudius-claude-code-usage/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Abd-K/claudius-claude-code-usage/main/docs/popover.png",
+                "https://raw.githubusercontent.com/Abd-K/claudius-claude-code-usage/main/docs/popover-tight.png"
+            ],
+            "official_site": "https://abd-k.github.io/claudius-claude-code-usage/",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
