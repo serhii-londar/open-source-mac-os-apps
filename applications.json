@@ -11427,10 +11427,10 @@
                 "notes",
                 "markdown"
             ],
-            "repo_url": "https://github.com/amber-notes/amber-notes",
-            "icon_url": "https://raw.githubusercontent.com/amber-notes/amber-notes/main/docs/images/icon.png",
+            "repo_url": "https://github.com/pinto-notes/pinto-notes",
+            "icon_url": "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/amber-notes/amber-notes/main/docs/images/banner.jpg"
+                "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/banner.jpg"
             ],
             "official_site": "https://pintonotes.com",
             "languages": [
