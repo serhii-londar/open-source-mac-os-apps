@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar charge limiter that stops charging at a chosen level to extend MacBook battery lifespan.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/askuksov/kombucha",
+            "title": "Kombucha",
+            "icon_url": "https://raw.githubusercontent.com/askuksov/kombucha/main/Kombucha/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/askuksov/kombucha/main/docs/images/panel.png",
+                "https://raw.githubusercontent.com/askuksov/kombucha/main/docs/images/settings-history.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
