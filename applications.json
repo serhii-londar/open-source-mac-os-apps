@@ -11419,6 +11419,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Utter",
+            "short_description": "On-device voice dictation and meeting transcription for macOS powered by whisper.cpp and Metal.",
+            "categories": [
+                "audio",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/h3x-levi/Utter",
+            "icon_url": "https://raw.githubusercontent.com/h3x-levi/Utter/main/Assets/AppIconSource.png",
+            "screenshots": [],
+            "official_site": "https://github.com/h3x-levi/Utter",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
