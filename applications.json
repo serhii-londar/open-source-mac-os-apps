@@ -11422,7 +11422,7 @@
         },
         {
             "title": "Muster",
-            "short_description": "Menu bar app that shows which Claude Code, Codex or Cursor session needs you, answers its permission prompts from an alert, and switches to any session with Option-Tab.",
+            "short_description": "Menu bar app that monitors Claude Code, Codex and Cursor sessions, answers Claude Code and Codex permission prompts from alerts, and switches sessions with Option-Tab.",
             "categories": [
                 "menubar",
                 "development"
@@ -11430,7 +11430,7 @@
             "repo_url": "https://github.com/josefchen/muster",
             "icon_url": "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/alert.jpg",
+                "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/alert-light.jpg",
                 "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/switcher-dark.jpg",
                 "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/deck-light.jpg"
             ],
