@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Pinto Notes",
+            "short_description": "Apple Notes-style notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with every AI edit highlighted and undoable.",
+            "categories": [
+                "notes",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/pinto-notes/pinto-notes",
+            "icon_url": "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/banner.jpg"
+            ],
+            "official_site": "https://pintonotes.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
