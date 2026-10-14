@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Onebox",
+            "short_description": "Menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, with regex notification filters and quiet hours.",
+            "categories": [
+                "chat",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stek765/OneBox",
+            "icon_url": "https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stek765/OneBox/main/docs/panel.gif",
+                "https://raw.githubusercontent.com/stek765/OneBox/main/docs/settings.jpg"
+            ],
+            "official_site": "https://github.com/stek765/OneBox",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
