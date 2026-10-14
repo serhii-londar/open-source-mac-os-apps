@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Free Mac cleaner that explains each item, quarantines what it removes for undo, and includes an app uninstaller, disk map and menu bar monitor.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/leoAnimesh/OpenClean",
+            "title": "OpenClean",
+            "icon_url": "https://leoanimesh.github.io/OpenClean/apple-touch-icon.png",
+            "screenshots": [
+                "https://leoanimesh.github.io/OpenClean/assets/smart-scan-results.webp"
+            ],
+            "official_site": "https://leoanimesh.github.io/OpenClean/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
