@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ftop",
+            "short_description": "Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Nongfsq/ftop",
+            "icon_url": "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/sizes.png",
+                "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/large.png"
+            ],
+            "official_site": "https://github.com/Nongfsq/ftop",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
