@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "Kopi",
+            "short_description": "Local-first clipboard manager with searchable history, pinboards and plain-text paste. Skips password manager copies.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/code-devanshu/kopi",
+            "icon_url": "https://raw.githubusercontent.com/code-devanshu/kopi/main/apps/web/src/app/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/code-devanshu/kopi/main/docs/images/panel-light.png"
+            ],
+            "official_site": "https://kopi.devanshuverma.in",
+            "languages": [
+                "rust",
+                "typescript",
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
