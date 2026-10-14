@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "GithubStarsManager",
+            "short_description": "AI-powered, local-first app to organize your GitHub stars with auto-summaries, tags, semantic search, and release tracking.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+            "icon_url": "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/brand/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/screenshots/repo.png",
+                "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/screenshots/search.png"
+            ],
+            "official_site": "https://gsm.aminta.top",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
