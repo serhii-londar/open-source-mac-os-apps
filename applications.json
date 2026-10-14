@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "JoeBro",
+            "short_description": "Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.",
+            "categories": [
+                "productivity",
+                "chat"
+            ],
+            "repo_url": "https://github.com/joexk1/JoeBro",
+            "icon_url": "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/tools.png",
+                "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/co_editing.png"
+            ],
+            "official_site": "https://joexk1.github.io/joebro-field-notes/",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
