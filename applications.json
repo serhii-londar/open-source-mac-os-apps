@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Remember and restore window layouts per external monitor, across Spaces on macOS 26+, with DDC brightness and volume control on Apple Silicon.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/tumingke0/LayoutKeeper",
+            "title": "LayoutKeeper",
+            "icon_url": "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/menu.png",
+                "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/main-window.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
