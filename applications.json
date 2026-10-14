@@ -1859,7 +1859,10 @@
             "repo_url": "https://github.com/OPDhaker/jingle",
             "title": "Jingle",
             "icon_url": "https://raw.githubusercontent.com/OPDhaker/jingle/main/gui/src-tauri/icons/128x128.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/OPDhaker/jingle/main/docs/images/settings-light.png",
+                "https://raw.githubusercontent.com/OPDhaker/jingle/main/docs/images/tray-light.png"
+            ],
             "official_site": "https://opdhaker.github.io/jingle/",
             "languages": [
                 "go",
