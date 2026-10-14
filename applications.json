@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mouthy",
+            "short_description": "Free dictation that runs on your Mac: press a shortcut, speak, and your words appear wherever you type.",
+            "categories": [
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/LayerMakerLab/mouthy",
+            "icon_url": "https://raw.githubusercontent.com/LayerMakerLab/mouthy/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/LayerMakerLab/mouthy/main/docs/images/notch.png"
+            ],
+            "official_site": "https://mouthy.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
