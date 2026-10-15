@@ -11675,6 +11675,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenQuack",
+            "short_description": "Local-only voice dictation for macOS — press a hotkey, speak, and the transcript is pasted at the cursor. Runs WhisperKit on Apple Silicon with no telemetry.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/larryxiao/openquack",
+            "icon_url": "https://raw.githubusercontent.com/larryxiao/openquack/main/docs/images/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/larryxiao/openquack/main/docs/images/banner.png"
+            ],
+            "official_site": "https://larryxiao.github.io/openquack",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
