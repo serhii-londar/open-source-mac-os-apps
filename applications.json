@@ -12219,8 +12219,8 @@
             "repo_url": "https://github.com/teconomix/local-transcriber",
             "icon_url": "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/icon.svg",
             "screenshots": [
-                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/ui-aufnahme.png",
-                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/ui-diktat.png"
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-aufnahme.png",
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-diktat.png"
             ],
             "official_site": "https://transcriber.teconomix.net",
             "languages": [
