@@ -12208,6 +12208,24 @@
                 "swift",
                 "objective_c"
             ]
+        },        
+        {
+            "title": "Shima",
+            "short_description": "A free Dynamic Island for your Mac's notch: Now Playing, notifications you can reply to, AirPods, a timer, live activities, and a notch or island style on every display, macOS 15+ required.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/VendavalSC/Shima",
+            "icon_url": "https://raw.githubusercontent.com/VendavalSC/Shima/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/VendavalSC/Shima/main/docs/assets/screenshot.png"
+            ],
+            "official_site": "https://vendavalsc.github.io/Shima",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
         }
     ]
 }
