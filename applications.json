@@ -11419,6 +11419,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Safari MCP",
+            "short_description": "Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/achiya-automation/safari-mcp",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
