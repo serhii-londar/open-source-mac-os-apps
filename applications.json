@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/MidZai/aman_check",
+            "title": "Aman Check",
+            "icon_url": "https://raw.githubusercontent.com/MidZai/aman_check/main/Branding/Aman-Disk-brand/app-icon/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/locks.png",
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/report.png"
+            ],
+            "official_site": "https://midzai.github.io/aman_check/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
