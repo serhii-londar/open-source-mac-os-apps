@@ -11640,6 +11640,23 @@
             "languages": [
                 "go"
             ]
+        },
+        {
+            "title": "WhatCable",
+            "short_description": "Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/darrylmorley/whatcable",
+            "icon_url": "https://raw.githubusercontent.com/darrylmorley/whatcable/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/darrylmorley/whatcable/main/docs/screenshot.webp"
+            ],
+            "official_site": "https://whatcable.uk",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
