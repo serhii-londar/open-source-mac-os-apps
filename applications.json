@@ -11452,6 +11452,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "EnviousWispr",
+            "short_description": "Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/saurabhav88/EnviousWispr",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://enviouswispr.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
