@@ -11548,6 +11548,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "md-preview",
+            "short_description": "Ultra-lightweight Markdown preview app (~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/vorojar/md-preview",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://vorojar.github.io/md-preview/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
