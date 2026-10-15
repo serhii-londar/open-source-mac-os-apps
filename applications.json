@@ -12190,6 +12190,24 @@
                 "swift",
                 "objective_c"
             ]
+        },
+        {
+            "title": "MaCursor",
+            "short_description": "Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/writronic/MaCursor",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/writronic/MaCursor/raw/main/screenshot.png"
+            ],
+            "official_site": "https://writronic.com/macursor/",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
         }
     ]
 }
