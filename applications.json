@@ -12443,6 +12443,23 @@
                 "rust",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.",
+            "categories": [
+                "web-development",
+                "vpn--proxy"
+            ],
+            "repo_url": "https://github.com/RockxyApp/Rockxy",
+            "title": "Rockxy",
+            "icon_url": "https://raw.githubusercontent.com/RockxyApp/Rockxy/main/docs/logo/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RockxyApp/Rockxy/main/docs/images/Rockxy-Light.png"
+            ],
+            "official_site": "https://rockxy.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
