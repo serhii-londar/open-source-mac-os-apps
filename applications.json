@@ -11594,6 +11594,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Atoll",
+            "short_description": "A browser that boots like an operating system: every website opens as an app in its own window, with a desktop, folders, a Dock, spaces, Mission Control and 60+ keyboard shortcuts.",
+            "categories": [
+                "browser",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/amadoubaui/atoll",
+            "icon_url": "https://raw.githubusercontent.com/amadoubaui/atoll/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/amadoubaui/atoll/main/docs/media/02-fenetres.jpg",
+                "https://raw.githubusercontent.com/amadoubaui/atoll/main/docs/media/08-mission-control.jpg"
+            ],
+            "official_site": "https://atoll.pixework.pro",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
