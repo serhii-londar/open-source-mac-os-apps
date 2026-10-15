@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Finoinc",
+            "short_description": "Local-first personal finance: import bank OFX statements, categorize with rules and see where the month's money went.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mateusfonsek/finoinc",
+            "icon_url": "https://raw.githubusercontent.com/mateusfonsek/finoinc/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mateusfonsek/finoinc/main/docs/screenshots/en/dashboard.png",
+                "https://raw.githubusercontent.com/mateusfonsek/finoinc/main/docs/screenshots/en/transactions.png"
+            ],
+            "official_site": "https://mateusfonsek.github.io/finoinc/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
