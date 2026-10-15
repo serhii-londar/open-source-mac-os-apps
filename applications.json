@@ -11562,6 +11562,22 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "Core-Monitor",
+            "short_description": "Open-source macOS system monitor with menu bar stats, a full dashboard, optional fan control, and Touch Bar widgets.",
+            "categories": [
+                "system",
+                "menubar",
+                "touch-bar"
+            ],
+            "repo_url": "https://github.com/offyotto/Core-Monitor",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/offyotto/Core-Monitor",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
