@@ -12407,6 +12407,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Native SwiftUI remote for the Transmission daemon with torrent rules, RSS auto-download and tracker/folder filters; a modern transgui alternative.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/epaxpax/transmission-remote-gui",
+            "title": "Transmission Remote GUI",
+            "icon_url": "https://epaxpax.github.io/transmission-remote-gui/icon.png",
+            "screenshots": [
+                "https://epaxpax.github.io/transmission-remote-gui/screenshot.png"
+            ],
+            "official_site": "https://epaxpax.github.io/transmission-remote-gui/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
