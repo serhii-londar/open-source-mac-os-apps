@@ -12423,6 +12423,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Burette",
+            "short_description": "Molecular workspace and Finder Quick Look extension for macOS: 3D structures, chemistry grids, and local workflow-artifact inspection.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/SergeiNikolenko/Burette",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SergeiNikolenko/Burette/main/docs/public/readme/quick-look.jpg",
+                "https://raw.githubusercontent.com/SergeiNikolenko/Burette/main/docs/public/readme/structures.jpg"
+            ],
+            "official_site": "https://burette-landing.vercel.app",
+            "languages": [
+                "typescript",
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
