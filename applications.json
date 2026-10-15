@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "BetterAirdrop",
+            "short_description": "Menu bar app that renames AirDropped photos by date, place and content, converts HEIC to JPEG, and can undo.",
+            "categories": [
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/MoizAhmedd/betterairdrop",
+            "icon_url": "https://betterairdrop.com/press/betterairdrop-icon-512.png",
+            "screenshots": [
+                "https://betterairdrop.com/press/betterairdrop-menu.png",
+                "https://betterairdrop.com/press/betterairdrop-rename-preview.png"
+            ],
+            "official_site": "https://betterairdrop.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
