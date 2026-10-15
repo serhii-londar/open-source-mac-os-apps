@@ -12739,6 +12739,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cornetta",
+            "short_description": "Menu bar call recorder that saves your voice and the other people in one file, with any calling app, and transcribes calls on device.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/stellakamikaze/cornetta",
+            "icon_url": "https://cornetta.stellakamikaze.org/img/icon-512.png",
+            "screenshots": [
+                "https://cornetta.stellakamikaze.org/img/og-en.png",
+                "https://cornetta.stellakamikaze.org/img/library.webp"
+            ],
+            "official_site": "https://cornetta.stellakamikaze.org/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
