@@ -12340,6 +12340,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Edmund",
+            "short_description": "Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/I7T5/Edmund",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://edmund.md",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
