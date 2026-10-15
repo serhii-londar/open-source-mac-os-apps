@@ -11578,6 +11578,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Claude Statistics",
+            "short_description": "Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "development"
+            ],
+            "repo_url": "https://github.com/sj719045032/claude-statistics",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://claudestatistics.vercel.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
