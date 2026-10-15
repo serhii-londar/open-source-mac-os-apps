@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Siliconed",
+            "short_description": "Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.",
+            "categories": [
+                "graphics",
+                "images"
+            ],
+            "repo_url": "https://github.com/gwenn-ha-dev/Siliconed",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/window.jpg",
+                "https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/edit.jpg"
+            ],
+            "official_site": "https://gwenn-ha-dev.github.io/Siliconed/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
