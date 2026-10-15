@@ -12208,6 +12208,23 @@
                 "swift",
                 "objective_c"
             ]
+        },
+        {
+            "title": "Alchemist Coder",
+            "short_description": "Desktop app for Claude Code and Codex that shows every agent and subagent live, searches your coding-agent history and runs agents on local models.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Alekla0126/alchemist-coder",
+            "icon_url": "https://raw.githubusercontent.com/Alekla0126/alchemist-coder/main/apps/desktop/build/icon.png",
+            "screenshots": [
+                "https://coder.alekla.com/preview/en-agents.webp",
+                "https://coder.alekla.com/preview/en-editor.webp"
+            ],
+            "official_site": "https://coder.alekla.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
