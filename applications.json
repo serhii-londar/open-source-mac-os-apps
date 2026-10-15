@@ -12208,6 +12208,22 @@
                 "swift",
                 "objective_c"
             ]
+        },
+        {
+            "title": "Frink",
+            "short_description": "Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/benord-labs/frink",
+            "icon_url": "https://raw.githubusercontent.com/benord-labs/frink/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/benord-labs/frink/main/docs/assets/readme/overview.jpg"
+            ],
+            "official_site": "https://frink.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
