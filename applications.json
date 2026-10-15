@@ -12208,6 +12208,25 @@
                 "swift",
                 "objective_c"
             ]
+        },
+        {
+            "short_description": "Local AI image studio with a chat-style UI to create, edit with brush masks, upscale and export images, running models such as Qwen-Image offline.",
+            "categories": [
+                "images",
+                "graphics"
+            ],
+            "repo_url": "https://github.com/elapen/imageloom",
+            "title": "ImageLoom",
+            "icon_url": "https://raw.githubusercontent.com/elapen/imageloom/main/assets/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/elapen/imageloom/main/docs/images/showcase-chat.png",
+                "https://raw.githubusercontent.com/elapen/imageloom/main/docs/images/showcase-edit.png"
+            ],
+            "official_site": "https://elapen.github.io/imageloom/",
+            "languages": [
+                "python",
+                "swift"
+            ]
         }
     ]
 }
