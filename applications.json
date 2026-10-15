@@ -12121,6 +12121,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Arroxy",
+            "short_description": "Desktop GUI for yt-dlp that downloads video, audio, playlists and subtitles from YouTube and other supported sites.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/antonio-orionus/Arroxy",
+            "icon_url": "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/src/renderer/src/assets/App-icon-HQ.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/Main-screenshot.png",
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/Download-profiles-screenshot.png"
+            ],
+            "official_site": "https://orionus.dev/arroxy/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
