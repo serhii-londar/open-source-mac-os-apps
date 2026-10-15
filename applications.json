@@ -11835,6 +11835,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Track one public GitHub repo's stars and release downloads from the menu bar.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jazzyalex/stargazer-bar",
+            "title": "Stargazer Bar",
+            "icon_url": "https://raw.githubusercontent.com/jazzyalex/stargazer-bar/main/GHMenuStars/Assets.xcassets/AppIcon.appiconset/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jazzyalex/stargazer-bar/main/docs/assets/hero-stage.png"
+            ],
+            "official_site": "https://jazzyalex.github.io/stargazer-bar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
