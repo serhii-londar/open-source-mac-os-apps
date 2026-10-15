@@ -11421,6 +11421,20 @@
             ]
         },
         {
+            "title": "Safari MCP",
+            "short_description": "Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/achiya-automation/safari-mcp",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "title": "Hardly Working",
             "short_description": "Menu bar app that nudges the cursor by one pixel after a chosen idle time, so chat apps don't mark you away.",
             "categories": [
