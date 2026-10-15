@@ -1,6 +1,21 @@
 {
     "applications": [
         {
+            "short_description": "Open-source invoice organizer that collects email invoices, applies OCR and exports an Excel summary for human review.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/EthanYoQ/Invoice-Downloader",
+            "title": "InvoiceFlowAI",
+            "icon_url": "https://raw.githubusercontent.com/EthanYoQ/Invoice-Downloader/main/build/windows/assets/invoiceflowai-icon.svg",
+            "screenshots": [],
+            "official_site": "https://www.orz.md/invoice-downloader/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
