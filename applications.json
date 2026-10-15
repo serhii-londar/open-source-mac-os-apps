@@ -11419,6 +11419,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Strata Files",
+            "short_description": "Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cristipufu/strata-files",
+            "icon_url": "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png",
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png",
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png"
+            ],
+            "official_site": "https://stratafiles.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
