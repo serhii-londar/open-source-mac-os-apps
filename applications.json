@@ -11868,6 +11868,23 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "usage",
+            "short_description": "macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/aqua5230/usage",
+            "icon_url": "https://raw.githubusercontent.com/aqua5230/usage/main/docs/readme-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aqua5230/usage/main/docs/showcase-v3.en.png"
+            ],
+            "official_site": "https://aqua5230.github.io/usage/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
