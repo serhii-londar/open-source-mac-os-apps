@@ -12208,6 +12208,21 @@
                 "swift",
                 "objective_c"
             ]
+        },
+        {
+            "title": "Tintpad",
+            "short_description": "Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/sorkila/tintpad",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://tintpad.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
