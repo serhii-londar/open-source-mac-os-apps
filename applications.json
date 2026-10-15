@@ -12083,6 +12083,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A focused macOS current-app window switcher with a visible panel.",
+            "categories": [
+                "window-management",
+                "keyboard",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/WhiteMinds/window-cycle",
+            "title": "WindowCycle",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/ef651ee8-5190-400a-adba-b8e856068736"
+            ],
+            "official_site": "https://github.com/WhiteMinds/window-cycle",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
