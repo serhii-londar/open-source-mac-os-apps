@@ -11774,6 +11774,21 @@
                 "rust",
                 "python"
             ]
+        },
+        {
+            "title": "Live Translator",
+            "short_description": "Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/umutcetinkaya/live-translator",
+            "icon_url": "https://raw.githubusercontent.com/umutcetinkaya/live-translator/main/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/umutcetinkaya/live-translator",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
