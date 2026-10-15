@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-752-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-757-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2015,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 752 |
+| 📱 Total Applications | 757 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 347 • Objective-C: 138 • Javascript: 116 • C++: 60 • Typescript: 48 |
+| 🔝 Top Languages | Swift: 351 • Objective-C: 140 • Javascript: 116 • C++: 60 • Typescript: 49 |
 
 ## Languages
 
@@ -4696,7 +4696,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (80)
+### 📊 Menubar (83)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4778,6 +4778,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://better-resource-monitor.alexpedersen.dev/](https://better-resource-monitor.alexpedersen.dev/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/privacy.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/simplicity.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Bolo](https://github.com/a692570/bolo) - Voice dictation menubar app using Telnyx STT and LLM APIs.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4802,6 +4821,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://claudestatistics.vercel.app/](https://claudestatistics.vercel.app/)
+
+- [Claude Usage](https://github.com/Bread-bang/claude-usage) - Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/Bread-bang/claude-usage](https://github.com/Bread-bang/claude-usage)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Bread-bang/claude-usage/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
 
@@ -5339,6 +5373,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Presspeech](https://github.com/rcourtman/presspeech) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://rcourtman.github.io/presspeech/](https://rcourtman.github.io/presspeech/)
 
 - [PSIBar](https://github.com/nikhilsh/PSIBar) - Quickly hacked up PSI macOS status bar app. 
 
@@ -8039,7 +8079,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⚙️ System (31)
+### ⚙️ System (34)
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8072,6 +8112,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://cloud.githubusercontent.com/assets/1557716/12860559/1193fe42-cc66-11e5-9d4f-8b8af842ea72.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   *(2 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://better-resource-monitor.alexpedersen.dev/](https://better-resource-monitor.alexpedersen.dev/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/privacy.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/simplicity.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8230,6 +8289,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [LeftHandy](https://github.com/writronic/LeftHandy) - Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://writronic.com/lefthandy/](https://writronic.com/lefthandy/)
+
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS. 
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
@@ -8288,6 +8353,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/LumingYin/macOSLucidaGrande/master/Screenshot/Screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://writronic.com/macursor/](https://writronic.com/macursor/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/writronic/MaCursor/raw/main/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8628,7 +8708,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (148)
+### 🛠️ Utilities (152)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8717,6 +8797,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://better-resource-monitor.alexpedersen.dev/](https://better-resource-monitor.alexpedersen.dev/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/privacy.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/simplicity.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9338,6 +9437,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [LeftHandy](https://github.com/writronic/LeftHandy) - Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://writronic.com/lefthandy/](https://writronic.com/lefthandy/)
+
 - [Live Translator](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -9428,6 +9533,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://camo.githubusercontent.com/768f015c1f8777b78ceb2c75bf880133a3668061/68747470733a2f2f7261772e6769746875622e636f6d2f6d737461726b652f4d6163506173732f6d61737465722f4173736574732f53637265656e73686f74732f4d6163506173732e706e67' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://writronic.com/macursor/](https://writronic.com/macursor/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/writronic/MaCursor/raw/main/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9759,6 +9879,12 @@ You can see in which language an app is written. Currently there are following l
 - [PowerShell](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
+
+- [Presspeech](https://github.com/rcourtman/presspeech) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://rcourtman.github.io/presspeech/](https://rcourtman.github.io/presspeech/)
 
 - [PureMac](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
 
