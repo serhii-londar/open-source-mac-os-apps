@@ -11433,6 +11433,25 @@
             "languages": [
                 "javascript"
             ]
+        },
+        {
+            "short_description": "Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cordwainersmith/claudoscope",
+            "title": "Claudoscope",
+            "icon_url": "https://claudoscope.com/logo.webp",
+            "screenshots": [
+                "https://claudoscope.com/widget.webp",
+                "https://claudoscope.com/health-1600.webp",
+                "https://claudoscope.com/skills-1600.webp"
+            ],
+            "official_site": "https://claudoscope.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
