@@ -11789,6 +11789,20 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "Clave",
+            "short_description": "macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/antasphere/clave",
+            "icon_url": "https://raw.githubusercontent.com/antasphere/clave/main/resources/icon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/antasphere/clave",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
