@@ -12211,7 +12211,7 @@
         },        
         {
             "title": "Shima",
-            "short_description": "A free Dynamic Island for your Mac's notch: Now Playing, notifications you can reply to, AirPods, a timer, live activities, and a notch or island style on every display.",
+            "short_description": "A free Dynamic Island for your Mac's notch: Now Playing, notifications you can reply to, AirPods, a timer, live activities, and a notch or island style on every display, macOS 15+ required.",
             "categories": [
                 "utilities",
                 "menubar"
