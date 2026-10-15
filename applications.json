@@ -11480,6 +11480,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "HardwareVisualizer",
+            "short_description": "A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/shm11C3/HardwareVisualizer",
+            "icon_url": "https://raw.githubusercontent.com/shm11C3/HardwareVisualizer/develop/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shm11C3/hardviz-webpage/master/src/assets/screenshots/macos.png"
+            ],
+            "official_site": "https://hardviz.com/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
