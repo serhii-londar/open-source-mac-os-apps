@@ -11965,6 +11965,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TopOff",
+            "short_description": "Menu bar app for Homebrew — a full beer mug when packages are fresh, half a mug when it's time to refill.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ihazgithub/TopOff",
+            "icon_url": "https://raw.githubusercontent.com/ihazgithub/TopOff/main/docs/assets/topoff-icon-transparent.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ihazgithub/TopOff/main/docs/assets/topoff-demo.gif"
+            ],
+            "official_site": "https://github.com/ihazgithub/TopOff",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
