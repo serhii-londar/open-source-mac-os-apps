@@ -11733,6 +11733,26 @@
             "languages": [
                 "c_sharp"
             ]
+        },
+        {
+            "title": "Notepad++ for Mac",
+            "short_description": "Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.",
+            "categories": [
+                "editors",
+                "text",
+                "development"
+            ],
+            "repo_url": "https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos",
+            "icon_url": "https://nextpad.org/assets/images/icons/npp_128px_light.png",
+            "screenshots": [
+                "https://nextpad.org/assets/images/og-image.png",
+                "https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.1_updates/bottom-docked-panels-dark.png"
+            ],
+            "official_site": "https://nextpad.org",
+            "languages": [
+                "cpp",
+                "objective_c"
+            ]
         }
     ]
 }
