@@ -12372,6 +12372,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "tty7",
+            "short_description": "A GPU-rendered, daemon-backed terminal in pure Rust; sessions survive quitting the app without tmux.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/l0ng-ai/tty7",
+            "icon_url": "https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/tour.webp"
+            ],
+            "official_site": "https://tty7.io",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
