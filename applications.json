@@ -1,6 +1,21 @@
 {
     "applications": [
         {
+            "short_description": "Open-source desktop workspace for planning, drafting and revising long-form fiction with user-configured AI models.",
+            "categories": [
+                "editors",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+            "title": "AI Novel Writer",
+            "icon_url": "https://raw.githubusercontent.com/EthanYoQ/AI-Novel-Writer/master/build/icon.png",
+            "screenshots": [],
+            "official_site": "https://www.orz.md/ai-novel-writer/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
