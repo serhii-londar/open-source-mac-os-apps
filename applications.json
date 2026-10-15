@@ -12174,6 +12174,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "LeftHandy",
+            "short_description": "Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/writronic/LeftHandy",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://writronic.com/lefthandy/",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
         }
     ]
 }
