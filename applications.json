@@ -12257,6 +12257,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.",
+            "categories": [
+                "music",
+                "video"
+            ],
+            "repo_url": "https://github.com/sozercan/kaset",
+            "title": "Kaset",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sozercan/kaset/main/docs/screenshot-ytm.png",
+                "https://raw.githubusercontent.com/sozercan/kaset/main/docs/screenshot-yt.png"
+            ],
+            "official_site": "https://github.com/sozercan/kaset",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
