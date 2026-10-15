@@ -11692,6 +11692,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Notchly",
+            "short_description": "Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Notchly/Notchly",
+            "icon_url": "https://raw.githubusercontent.com/Notchly/Notchly/main/Notchly/Resources/Assets.xcassets/AppIcon.appiconset/logo_256x256.png",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/4a3fb21b-0261-441e-bdf0-afe69f9cb342"
+            ],
+            "official_site": "https://notchly.xyz",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
