@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Fan control and temperature monitor for Apple Silicon Macs, with Auto Boost rules, custom curves, a fail-safe helper and a CLI.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/zyvren/FanPilot",
+            "title": "FanPilot",
+            "icon_url": "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
