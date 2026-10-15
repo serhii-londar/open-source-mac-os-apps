@@ -11419,6 +11419,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "writui",
+            "short_description": "A terminal Markdown writing app with a local encrypted vault, automatic saving, and named versions.",
+            "categories": [
+                "markdown",
+                "text",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/aakashns/writui",
+            "icon_url": "https://raw.githubusercontent.com/aakashns/writui/main/site/static/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aakashns/writui/main/site/static/demo.png"
+            ],
+            "official_site": "https://writui.com",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
