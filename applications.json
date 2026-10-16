@@ -12470,7 +12470,7 @@
             ],
             "repo_url": "https://github.com/ScutiUY/media-picker",
             "title": "MediaPicker",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/ScutiUY/media-picker/main/docs/icon.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/ScutiUY/media-picker/main/docs/picker.png"
             ],
