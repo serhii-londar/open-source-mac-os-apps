@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "JustSessions",
+            "short_description": "Native workspace for finding, reading, and resuming Claude Code, Codex, and other coding-agent sessions in their original CLIs.",
+            "categories": [
+                "development",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/yangzichao/JustSessions",
+            "icon_url": "https://raw.githubusercontent.com/yangzichao/JustSessions/main/Branding/PNG/app-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yangzichao/JustSessions/main/docs/images/native-terminal.jpg",
+                "https://raw.githubusercontent.com/yangzichao/JustSessions/main/docs/images/session-overview.jpg"
+            ],
+            "official_site": "https://yangzichao.github.io/JustSessions/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
