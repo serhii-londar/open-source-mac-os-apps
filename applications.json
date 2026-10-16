@@ -1,6 +1,30 @@
 {
     "applications": [
         {
+            "short_description": "Self-hosted web application for organizing a personal video game collection with libraries, collections, ratings, search, and optional IGDB metadata.",
+            "categories": [
+                "games",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/myhomegames/myhomegames-server",
+            "title": "MyHomeGames",
+            "icon_url": "hhttps://raw.githubusercontent.com/myhomegames/myhomegames-web/refs/heads/main/docs/app/icons/icon-512.png",
+            "screenshots": [
+                "https://store-images.s-microsoft.com/image/apps.36662.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.e2aeb9fc-4a58-45c0-bad5-1c593b9f5d5a?h=720",
+                "https://store-images.s-microsoft.com/image/apps.6868.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.216701df-d215-401f-bd12-66045350863c?h=720",
+                "https://store-images.s-microsoft.com/image/apps.23629.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.607e624d-ebc4-4877-8dc3-35f7ff2535bc?h=720",
+                "https://store-images.s-microsoft.com/image/apps.44169.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.069fcfba-ab91-41bc-8edc-6f5d240b2747?h=720",
+                "https://store-images.s-microsoft.com/image/apps.52018.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.d5bba267-9c29-4e89-a69c-33d57a6ed913?h=720",
+                "https://store-images.s-microsoft.com/image/apps.4904.13757287846870926.b93b0460-3db4-4817-87bf-b7017b637896.b3aa72bf-ba4a-473f-ac2d-52d74ba96084?h=720",
+            ],
+            "official_site": "https://myhomegames.vige.it",
+            "languages": [
+                "typescript",
+                "javascript",
+                "react"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
