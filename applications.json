@@ -12477,6 +12477,24 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Off Grid AI Desktop",
+            "short_description": "Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.",
+            "categories": [
+                "chat",
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/off-grid-ai/OGAD",
+            "icon_url": "https://raw.githubusercontent.com/off-grid-ai/OGAD/main/resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/off-grid-ai/OGAD/main/docs/screenshots/02-chat.png"
+            ],
+            "official_site": "https://getoffgridai.co/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
