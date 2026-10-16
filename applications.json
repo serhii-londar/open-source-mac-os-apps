@@ -12826,6 +12826,22 @@
                 "typescript",
                 "javascript"
             ]
+        },
+        {
+            "title": "ItsPaint",
+            "short_description": "Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/joshlin2201/itspaint",
+            "icon_url": "https://raw.githubusercontent.com/joshlin2201/itspaint/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joshlin2201/itspaint/main/docs/images/editor-window.png"
+            ],
+            "official_site": "https://itspaintmac.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
