@@ -12706,6 +12706,23 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "WiFi Lens",
+            "short_description": "Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ShiinaLabs/wifi-lens",
+            "icon_url": "https://raw.githubusercontent.com/ShiinaLabs/wifi-lens/master/WiFiLens/Sources/WiFiLens/Resources/Assets.xcassets/AppIcon.appiconset/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ShiinaLabs/wifi-lens/master/assets/screenshot-hero.webp"
+            ],
+            "official_site": "https://wifi-lens.shiinalabs.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
