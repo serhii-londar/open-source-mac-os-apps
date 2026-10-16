@@ -12460,6 +12460,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Local-first ebook and research paper reader with EPUB/PDF support, annotations, and text-to-speech.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/yzfly/LightRead",
+            "title": "LightRead",
+            "icon_url": "https://raw.githubusercontent.com/yzfly/LightRead/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yzfly/LightRead/main/docs/screenshots/library.png",
+                "https://raw.githubusercontent.com/yzfly/LightRead/main/docs/screenshots/pdf-spread.png"
+            ],
+            "official_site": "https://github.com/yzfly/LightRead",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
