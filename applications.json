@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Free, open-source calculators with worked steps, diagrams, and lessons.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tonyzedginidze/librecalculator",
+            "title": "Libre Calculator",
+            "icon_url": "https://raw.githubusercontent.com/tonyzedginidze/librecalculator/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tonyzedginidze/librecalculator/main/.github/readme/desktop-light.webp"
+            ],
+            "official_site": "https://librecalculator.com/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
