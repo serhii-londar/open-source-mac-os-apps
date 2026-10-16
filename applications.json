@@ -12655,6 +12655,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Logue",
+            "short_description": "Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes — runs entirely on Apple Silicon.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/bitwize-ai/Logue",
+            "icon_url": "https://raw.githubusercontent.com/bitwize-ai/Logue/main/Logue/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/home-dashboard.393d5e51.png",
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/smart-minutes.075b55f4.png",
+                "https://raw.githubusercontent.com/bitwize-ai/Logue/main/docs/images/writing-editor.26cb777b.png"
+            ],
+            "official_site": "https://github.com/bitwize-ai/Logue",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
