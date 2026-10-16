@@ -12859,6 +12859,25 @@
                 "typescript",
                 "rust"
             ]
+        },
+        {
+            "title": "bodycam",
+            "short_description": "Menu bar app and CLI that record what AI coding agents do on your Mac, including the files and secrets they read.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/omlahore/bodycam",
+            "icon_url": "https://raw.githubusercontent.com/omlahore/bodycam/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/omlahore/bodycam/main/assets/app-popover.png",
+                "https://raw.githubusercontent.com/omlahore/bodycam/main/assets/app-session.png"
+            ],
+            "official_site": "https://omlahore.github.io/bodycam/",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
