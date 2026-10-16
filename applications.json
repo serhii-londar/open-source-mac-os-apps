@@ -12624,6 +12624,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Performance Monitor",
+            "short_description": "Lightweight menu bar system monitor: CPU, memory, network, disk, GPU, per-sensor temperatures, SSD wear, and battery health. No telemetry.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/inequitas/performancemonitor",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://perfmon.knhome.nl",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
