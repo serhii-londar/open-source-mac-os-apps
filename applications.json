@@ -12550,6 +12550,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AutoDoc",
+            "short_description": "Private, local-first meeting notes with on-device transcription and AI summaries.",
+            "categories": [
+                "productivity",
+                "notes",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/DuetDisplay/AutoDoc",
+            "icon_url": "https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png",
+                "https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png"
+            ],
+            "official_site": "https://getautodoc.com/",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
