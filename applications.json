@@ -12739,6 +12739,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Stackyard",
+            "short_description": "Shows every installed SDK and toolchain version (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which local projects use each one, and cleans up the ones nothing needs.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AqibJavedZeepalm/stackyard",
+            "icon_url": "https://raw.githubusercontent.com/AqibJavedZeepalm/stackyard/main/marketing/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AqibJavedZeepalm/stackyard/main/docs/screenshots/hero.webp",
+                "https://raw.githubusercontent.com/AqibJavedZeepalm/stackyard/main/docs/screenshots/flutter.webp"
+            ],
+            "official_site": "https://aqibjaved.dev/apps/stackyard/",
+            "languages": [
+                "dart"
+            ]
         }
     ]
 }
