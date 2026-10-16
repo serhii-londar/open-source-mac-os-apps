@@ -12739,6 +12739,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cellar",
+            "short_description": "Homebrew manager for formulae, casks, and services that previews what brew will change before it runs.",
+            "categories": [
+                "utilities",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/tuhage/Cellar",
+            "icon_url": "https://raw.githubusercontent.com/tuhage/Cellar/main/logo.jpg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/dashboard.png",
+                "https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/updates.png"
+            ],
+            "official_site": "https://github.com/tuhage/Cellar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
