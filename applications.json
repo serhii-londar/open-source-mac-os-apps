@@ -12739,6 +12739,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "talkflow",
+            "short_description": "Hold a key, speak, and your words are typed into any app, transcribed on your Mac by Whisper (whisper.cpp) with no account or word limit.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/saamirkhrl/talkflow",
+            "icon_url": "https://raw.githubusercontent.com/saamirkhrl/talkflow/main/client/app/icon.svg",
+            "screenshots": [],
+            "official_site": "https://talkflow.live",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
