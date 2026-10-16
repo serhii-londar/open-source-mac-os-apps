@@ -12460,6 +12460,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app that stops paused browser tabs from stealing the play key. Hold F8 to choose which app or tab the media keys control.",
+            "categories": [
+                "menubar",
+                "music",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ScutiUY/media-picker",
+            "title": "MediaPicker",
+            "icon_url": "https://raw.githubusercontent.com/ScutiUY/media-picker/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ScutiUY/media-picker/main/docs/picker.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
