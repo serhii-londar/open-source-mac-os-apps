@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "title": "WallpaperMachine",
+            "short_description": "Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/WallpaperMachine/WallpaperMachine",
+            "icon_url": "https://raw.githubusercontent.com/WallpaperMachine/WallpaperMachine/main/WebUI/app-icons/day.png",
+            "screenshots": [],
+            "official_site": "https://www.wallpapermachine.app",
+            "languages": [
+                "swift",
+                "rust",
+                "cpp"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
