@@ -13163,6 +13163,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Calm, fast Kubernetes dashboard for every cluster in your kubeconfig, with failing things first, every change's kubectl command, and a built-in MCP server for AI agents.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/Lumovi/Lumovi",
+            "title": "Lumovi",
+            "icon_url": "https://raw.githubusercontent.com/Lumovi/Lumovi/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/overview-dark.webp"
+            ],
+            "official_site": "https://lumovi.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
