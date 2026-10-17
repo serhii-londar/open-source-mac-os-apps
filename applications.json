@@ -8325,6 +8325,22 @@
             ]
         },
         {
+            "short_description": "A tiny pixel robot that lives on your MacBook Pro's Touch Bar.",
+            "categories": [
+                "touch-bar"
+            ],
+            "repo_url": "https://github.com/eslamalii/pix",
+            "title": "Pix",
+            "icon_url": "https://meetpix.app/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/eslamalii/pix/main/media/pix-touch-bar.gif"
+            ],
+            "official_site": "https://meetpix.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "repo_url": "https://github.com/macmade/Notarize",
             "title": "Notarize",
             "screenshots": [
