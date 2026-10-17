@@ -13163,6 +13163,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CodexReserve",
+            "short_description": "Two rings in your menu bar showing Codex 5-hour and weekly limits.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/yourarnav/CodexReserve",
+            "icon_url": "https://raw.githubusercontent.com/yourarnav/CodexReserve/main/Website/assets/favicon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yourarnav/CodexReserve/main/docs/screenshot-popover-v2.png"
+            ],
+            "official_site": "https://codex-reserve.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
