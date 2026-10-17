@@ -13163,6 +13163,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "WYSIWYG Markdown editor with math, tables, Mermaid diagrams and an optional AI writing assistant for cloud or local models.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/CatVinci-Studio/Textus",
+            "title": "Textus",
+            "icon_url": "https://raw.githubusercontent.com/CatVinci-Studio/Textus/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/CatVinci-Studio/Textus/main/docs/images/readme/en/hero.png"
+            ],
+            "official_site": "https://textus.catvinci.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
