@@ -13599,6 +13599,24 @@
                 "python",
                 "shell"
             ]
+        },
+        {
+            "short_description": "Free file tools that run on your Mac: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.",
+            "categories": [
+                "utilities",
+                "images",
+                "video"
+            ],
+            "repo_url": "https://github.com/anzal1/panoply",
+            "title": "Panoply",
+            "icon_url": "https://raw.githubusercontent.com/anzal1/panoply/main/apps/desktop/packaging/linux/icons/hicolor/256x256/apps/panoply.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/anzal1/panoply/main/docs/assets/screens/app-home-light.png"
+            ],
+            "official_site": "https://github.com/anzal1/panoply",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
