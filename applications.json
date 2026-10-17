@@ -6240,6 +6240,24 @@
             ]
         },
         {
+            "short_description": "Turns off the delay macOS adds to Caps Lock, so quick taps register.",
+            "categories": [
+                "keyboard",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fratayaydn/capsnow",
+            "title": "CapsNow",
+            "icon_url": "https://raw.githubusercontent.com/fratayaydn/capsnow/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fratayaydn/capsnow/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
+        },
+        {
             "short_description": "Unofficial Facebook Messenger client. ",
             "categories": [
                 "social-networking"
