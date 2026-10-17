@@ -8927,6 +8927,24 @@
             ]
         },
         {
+            "short_description": "Menu bar app that flashes the MacBook keyboard backlight in time with whatever audio is playing.",
+            "categories": [
+                "menubar",
+                "audio",
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/ZANYANBU/keyboard-strobe",
+            "title": "Keyboard Strobe",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZANYANBU/keyboard-strobe/main/demos/demo.gif"
+            ],
+            "official_site": "https://zanyanbu.github.io/keyboard-strobe/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Coronavirus tracker app for iOS & macOS with maps & charts.",
             "categories": [
                 "ios--macos"
