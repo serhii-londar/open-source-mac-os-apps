@@ -13163,6 +13163,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Screen recorder and video editor for product demos, with automatic zooms on clicks, an editable cursor and on-device captions.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/getopenscreen/openscreen",
+            "title": "OpenScreen",
+            "icon_url": "https://raw.githubusercontent.com/getopenscreen/openscreen/main/public/openscreen.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/getopenscreen/openscreen/main/docs/assets/demo.gif"
+            ],
+            "official_site": "https://getopenscreen.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
