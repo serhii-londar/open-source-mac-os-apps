@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+            "title": "Lunavect",
+            "short_description": "Menu bar app for Claude Code and Codex: live status of every session, weekly and five-hour usage limits, desktop widgets and activity statistics.",
+            "categories": [
+                "menubar",
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/lovach/Lunavect",
+            "icon_url": "https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/readme-overview-dark.png",
+                "https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/widget-overview.png",
+                "https://raw.githubusercontent.com/lovach/Lunavect/main/docs/images/readme-activity.png"
+            ],
+            "official_site": "https://lovach.github.io/Lunavect/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
