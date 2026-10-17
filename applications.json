@@ -12859,6 +12859,26 @@
                 "typescript",
                 "rust"
             ]
+        },
+        {
+            "title": "Photo Review",
+            "short_description": "Lists an iCloud Photos library by size, then compresses large videos or deletes what you pick.",
+            "categories": [
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/danielyaa5/photo-review",
+            "icon_url": "https://raw.githubusercontent.com/danielyaa5/photo-review/main/assets/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/danielyaa5/photo-review/main/docs/screenshot-library.png",
+                "https://raw.githubusercontent.com/danielyaa5/photo-review/main/docs/screenshot-shrink.png",
+                "https://raw.githubusercontent.com/danielyaa5/photo-review/main/docs/screenshot-savings.png"
+            ],
+            "official_site": "https://danielyaa5.github.io/photo-review/",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
