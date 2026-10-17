@@ -10556,6 +10556,26 @@
             ]
         },
         {
+            "short_description": "Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit.",
+            "categories": [
+                "development",
+                "ios--macos",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ateymoori/oh-my-android",
+            "title": "Oh My Android",
+            "icon_url": "https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg",
+                "https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg",
+                "https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Your ultimate GPT companion for seamless access on your Mac",
             "repo_url": "https://github.com/nsmet/omniprompt-gpt-mac-app",
             "title": "OmniPrompt",
