@@ -13163,6 +13163,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Glance",
+            "short_description": "Turns the MacBook notch into a live island with music and synced lyrics, Cinema mode that makes the screen and Touch Bar glow with Chrome video, Claude Code approvals, a teleprompter, a file shelf and keep awake.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/glanceformac/glance",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://glanceformac.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
