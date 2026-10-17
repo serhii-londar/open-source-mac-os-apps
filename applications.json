@@ -12859,6 +12859,23 @@
                 "typescript",
                 "rust"
             ]
+        },
+        {
+            "short_description": "Word clock screensaver on an 11×10 letter grid in eight language variants (German incl. Swiss and Southern German, English UK/US, French, Italian, Spanish), with a browser demo.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/Diavolezza/wortuhr",
+            "title": "Wortuhr",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Diavolezza/wortuhr/main/docs/wortuhr.png",
+                "https://raw.githubusercontent.com/Diavolezza/wortuhr/main/docs/wortuhr.gif"
+            ],
+            "official_site": "https://diavolezza.github.io/wortuhr/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
