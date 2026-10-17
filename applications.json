@@ -1127,6 +1127,24 @@
             ]
         },
         {
+            "short_description": "Puts the left/right audio balance back when macOS shifts it on its own.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fratayaydn/balancekeeper",
+            "title": "BalanceKeeper",
+            "icon_url": "https://raw.githubusercontent.com/fratayaydn/balancekeeper/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fratayaydn/balancekeeper/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
+        },
+        {
             "short_description": "Beaker is an experimental peer-to-peer Web browser.  ",
             "categories": [
                 "browser"
