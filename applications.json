@@ -13328,6 +13328,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Uninstall apps with every file they leave behind, and see why each file belongs. Everything goes to the Trash, so you can put it back. It also frees up space, fine-tunes macOS, and sets up Terminal.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/TuguiDragos/Peel",
+            "title": "Peel",
+            "icon_url": "https://raw.githubusercontent.com/TuguiDragos/Peel/edd5cb5bfbcbf59c8e41731ac953869fcaae1488/Logo/Peel-Dark.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/TuguiDragos/Peel/edd5cb5bfbcbf59c8e41731ac953869fcaae1488/readme-assets/peel-uninstall-app-with-leftover-files.png",
+                "https://raw.githubusercontent.com/TuguiDragos/Peel/edd5cb5bfbcbf59c8e41731ac953869fcaae1488/readme-assets/peel-history-put-back-from-trash.png"
+            ],
+            "official_site": "https://peel.tuguidragos.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
