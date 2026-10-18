@@ -13383,6 +13383,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+).",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/conrader/plainsay",
+            "title": "Plainsay",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://plainsay.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
