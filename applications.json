@@ -13311,6 +13311,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Convert decrypted iPhone and iPad apps (.ipa) into native Mac apps with keymapping, controller and motion support.",
+            "categories": [
+                "games",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harkhowalia-1/Harbor",
+            "title": "Harbor",
+            "icon_url": "https://raw.githubusercontent.com/harkhowalia-1/Harbor/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/harkhowalia-1/Harbor/main/docs/assets/banner.png"
+            ],
+            "official_site": "https://harkhowalia-1.github.io/Harbor/",
+            "languages": [
+                "objective_c",
+                "swift"
+            ]
         }
     ]
 }
