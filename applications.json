@@ -13311,6 +13311,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Run Android apps on Apple silicon Macs, each in its own window with its own Dock icon, notifications and controller support.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harkhowalia-1/MacSubsystemForAndroid",
+            "title": "Mac Android Subsystem",
+            "icon_url": "https://raw.githubusercontent.com/harkhowalia-1/MacSubsystemForAndroid/main/site/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/harkhowalia-1/MacSubsystemForAndroid/main/docs/assets/screenshot-app-window.png",
+                "https://raw.githubusercontent.com/harkhowalia-1/MacSubsystemForAndroid/main/docs/assets/screenshot-settings.png"
+            ],
+            "official_site": "https://harkhowalia-1.github.io/MacSubsystemForAndroid/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
