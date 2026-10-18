@@ -13163,6 +13163,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "macOS menu-bar app for Dreame robot vacuums, with interactive maps, object photos and voice-pack tools, without rooting the robot.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/retoucheroz/dreamehub",
+            "title": "Dreame Hub",
+            "icon_url": "https://raw.githubusercontent.com/retoucheroz/dreamehub/main/Sources/DreameHub/Resources/assets/hub-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/retoucheroz/dreamehub/main/docs/media/app-overview.jpg",
+                "https://raw.githubusercontent.com/retoucheroz/dreamehub/main/docs/media/map.jpg"
+            ],
+            "official_site": "https://github.com/retoucheroz/dreamehub",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
