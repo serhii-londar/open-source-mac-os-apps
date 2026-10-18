@@ -13163,6 +13163,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Oura ring scores and battery in the menu bar, read through your own Oura developer app with no server of its own.",
+            "categories": [
+                "menubar",
+                "medical"
+            ],
+            "repo_url": "https://github.com/PetriLahdelma/ring-stats",
+            "title": "Ring Stats",
+            "icon_url": "https://raw.githubusercontent.com/PetriLahdelma/ring-stats/main/Sources/RingStats/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PetriLahdelma/ring-stats/main/.github/assets/ring-stats-hero.png"
+            ],
+            "official_site": "https://github.com/PetriLahdelma/ring-stats/releases/latest",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
