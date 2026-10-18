@@ -13417,6 +13417,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Grux",
+            "short_description": "AI agent that runs terminal sessions it can undo and reaches your mail, calendar, meetings, and files, using your own API key or a local model.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dotcomjack/grux",
+            "icon_url": "https://gruxai.com/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dotcomjack/grux/main/docs/screenshots/command-panel.png"
+            ],
+            "official_site": "https://gruxai.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
