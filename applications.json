@@ -13163,6 +13163,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Browser Cookie Bridge",
+            "short_description": "Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "browser"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-screenshot.png"
+            ],
+            "official_site": "https://cookiebridge.apoorvdarshan.com",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
