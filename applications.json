@@ -13165,6 +13165,171 @@
             ]
         },
         {
+            "title": "Browser Cookie Bridge",
+            "short_description": "Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "browser"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/apoorvdarshan/browser-cookie-bridge/main/marketing/app-screenshot.png"
+            ],
+            "official_site": "https://cookiebridge.apoorvdarshan.com",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
+            "title": "nastro",
+            "short_description": "Terminal call recorder for macOS that captures system audio and mic (no bot joins the call) and transcribes on-device with speaker diarization, via TUI or headless CLI.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/scaccogatto/nastro",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/scaccogatto/nastro/main/.github/demo.gif"
+            ],
+            "official_site": "https://github.com/scaccogatto/nastro",
+            "languages": [
+                "go",
+                "swift"
+            ]
+        },
+        {
+            "title": "FunNotch",
+            "short_description": "Puts the MacBook notch to work: media controls, a drag-and-drop file shelf, clipboard history, focus sessions that block sites and apps, and twelve configurable widgets.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/JoshuaT1105/FunNotch",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-home.png",
+                "https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-focus.png"
+            ],
+            "official_site": "https://funnotch.xyz",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Screen saver that draws a hacker film dashboard from real system telemetry.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/PerfectoWeb/Gibson",
+            "title": "Gibson",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/dashboard-green.png",
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/dashboard-amber.png",
+                "https://raw.githubusercontent.com/PerfectoWeb/Gibson/main/docs/images/portrait.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Vigil",
+            "short_description": "Native terminal that runs manager-led trees of coding agents (Claude Code, Codex, OpenCode), with worker results rolling up as summaries while every node keeps its own TUI.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/butterlatte-zhang/vigil",
+            "icon_url": "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/vigil-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/tree-demo.png",
+                "https://raw.githubusercontent.com/butterlatte-zhang/vigil/main/docs/media/history-replay.png"
+            ],
+            "official_site": "https://butterlatte-zhang.github.io/vigil/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mobrava/Clipbara",
+            "title": "Clipbara",
+            "icon_url": "https://raw.githubusercontent.com/mobrava/Clipbara/main/Clipbara/Resources/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mobrava/Clipbara/main/docs/assets/pasteclip-demo.gif"
+            ],
+            "official_site": "https://github.com/mobrava/Clipbara",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "A native and modern macOS menu bar app to monitor and control your Pi-hole instances.",
+            "categories": [
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/pedrovieira/Holeberry",
+            "title": "Holeberry",
+            "icon_url": "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/README%20header.png",
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/max-connections.png",
+                "https://raw.githubusercontent.com/pedrovieira/Holeberry/main/Assets/menu-unblock.png"
+            ],
+            "official_site": "https://holeberryapp.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Loadout",
+            "short_description": "Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.",
+            "categories": [
+                "development",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/migsilva89/loadout",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/loadout/main/Resources/Loadout.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/loadout/main/.github/assets/loadout-browse.gif",
+                "https://raw.githubusercontent.com/migsilva89/loadout/main/.github/assets/loadout-all.gif"
+            ],
+            "official_site": "https://loadout.migsilva.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Native macOS Markdown reader and editor for ordinary files, with Quick Look, Finder thumbnails, source-preserving rendering, and safe review of external rewrites.",
+            "categories": [
+                "markdown",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/ezzy1630/Downright",
+            "title": "Downright",
+            "icon_url": "https://raw.githubusercontent.com/ezzy1630/Downright/cdf426319c54c5dab969409f61e548dbb2312a1d/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ezzy1630/Downright/cdf426319c54c5dab969409f61e548dbb2312a1d/Docs/downright-renderer-showcase.png"
+            ],
+            "official_site": "https://downright.cc/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Hardly Working",
             "short_description": "Menu bar app that nudges the cursor by one pixel after a chosen idle time, so chat apps don't mark you away.",
             "categories": [
