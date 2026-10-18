@@ -17,6 +17,25 @@
             ]
         },
         {
+            "title": "Backtickle",
+            "short_description": "Markdown reader and editor with side-by-side preview, six flavors, math, Mermaid diagrams, citations and PDF/Word export.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/masud90/backtickle",
+            "icon_url": "https://raw.githubusercontent.com/masud90/backtickle/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/masud90/backtickle/main/docs/images/split-light.png",
+                "https://raw.githubusercontent.com/masud90/backtickle/main/docs/images/split-dark.png"
+            ],
+            "official_site": "https://masud90.github.io/backtickle/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
