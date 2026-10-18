@@ -8765,23 +8765,6 @@
             ]
         },
         {
-            "short_description": "Make any website your desktop wallpaper.",
-            "categories": [
-                "wallpaper",
-                "browser"
-            ],
-            "repo_url": "https://github.com/sindresorhus/Plash",
-            "title": "Plash",
-            "icon_url": "https://user-images.githubusercontent.com/170270/74323095-8d1c0880-4db7-11ea-9c07-3003fb9c3125.png",
-            "screenshots": [
-                "https://user-images.githubusercontent.com/170270/74323375-0287d900-4db8-11ea-8b26-5566565fa8a1.jpg"
-            ],
-            "official_site": "https://sindresorhus.com/plash",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
             "categories": [
                 "browser",
@@ -13325,6 +13308,240 @@
                 "https://raw.githubusercontent.com/ezzy1630/Downright/cdf426319c54c5dab969409f61e548dbb2312a1d/Docs/downright-renderer-showcase.png"
             ],
             "official_site": "https://downright.cc/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Abendrot",
+            "short_description": "Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/matthewrball/abendrot",
+            "icon_url": "https://raw.githubusercontent.com/matthewrball/abendrot/main/assets/abendrot-icon.png",
+            "screenshots": [],
+            "official_site": "https://abendrot.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "DSH Desk Pet",
+            "short_description": "Desktop pet that mirrors your coding agent's state, with skins generated from a photo of your own pet.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/anneheartrecord/dsh-desk-pet",
+            "icon_url": "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/assets/web/deepseek/idle/00.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/docs/media/diy-skin.png",
+                "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/docs/media/floats-above.png"
+            ],
+            "official_site": "https://github.com/anneheartrecord/dsh-desk-pet",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "title": "AI Gist",
+            "short_description": "Local-first AI prompt manager with variable filling, Jinja templates, AI generation, and WebDAV/iCloud backup.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/yarin-zhang/AI-Gist",
+            "icon_url": "https://raw.githubusercontent.com/yarin-zhang/AI-Gist/main/resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yarin-zhang/AI-Gist/main/docs/images/image-main.png"
+            ],
+            "official_site": "https://getaigist.com",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
+        },
+        {
+            "title": "OpenClip",
+            "short_description": "Lightweight floating action bar for macOS that turns selected text into instant actions.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ganeshmshetty/openclip",
+            "icon_url": "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/search-palette.png",
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/ai-tools.png",
+                "https://raw.githubusercontent.com/ganeshmshetty/openclip/main/assets/in-app-extensions.png"
+            ],
+            "official_site": "https://getopenclip.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+).",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/conrader/plainsay",
+            "title": "Plainsay",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://plainsay.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Mac Classic Player",
+            "short_description": "Keyboard-driven media player for macOS, in the spirit of Media Player Classic.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/piro0919/mac-classic-player",
+            "icon_url": "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-main.png",
+                "https://raw.githubusercontent.com/piro0919/mac-classic-player/main/lp/public/screenshot-shortcuts.png"
+            ],
+            "official_site": "https://mcp.kkweb.io/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "title": "Grux",
+            "short_description": "AI agent that runs terminal sessions it can undo and reaches your mail, calendar, meetings, and files, using your own API key or a local model.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dotcomjack/grux",
+            "icon_url": "https://gruxai.com/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dotcomjack/grux/main/docs/screenshots/command-panel.png"
+            ],
+            "official_site": "https://gruxai.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "OpenVoiceFlow",
+            "short_description": "On-device voice dictation for macOS with local transcription and optional text cleanup.",
+            "categories": [
+                "audio",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/shimoverse/openvoiceflow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shimoverse/openvoiceflow/main/native/assets/readme-banner.png"
+            ],
+            "official_site": "https://openvoiceflow.com",
+            "languages": [
+                "swift",
+                "objective_c",
+                "python",
+                "shell"
+            ]
+        },
+        {
+            "short_description": "Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/starcat-app/Starcat",
+            "title": "Starcat",
+            "icon_url": "https://raw.githubusercontent.com/starcat-app/Starcat/main/Starcat/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/starcat-app/Starcat/main/main.webp",
+                "https://raw.githubusercontent.com/starcat-app/Starcat/main/screenshots/rag-workbench.webp"
+            ],
+            "official_site": "https://starcat.ink/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/McanKul/offpdf",
+            "title": "OffPDF",
+            "icon_url": "https://raw.githubusercontent.com/McanKul/offpdf/main/docs/assets/offpdf-mark.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/McanKul/offpdf/main/docs/assets/offpdf-home.png"
+            ],
+            "official_site": "https://offpdf.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
+            "title": "reminal",
+            "short_description": "Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.",
+            "categories": [
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harshalgajjar/Reminal",
+            "icon_url": "https://raw.githubusercontent.com/harshalgajjar/Reminal/main/assets/reminal-icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/harshalgajjar/Reminal/main/docs/lid.gif"
+            ],
+            "official_site": "https://reminal.app",
+            "languages": [
+                "go",
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Beautifully opinionated terminal emulator, with advanced session navigation and GPU-accelerated retro presets.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/mbcltd/CRTerminal",
+            "title": "crterm",
+            "icon_url": "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/CRTerminal/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/screenshots/light.png",
+                "https://raw.githubusercontent.com/mbcltd/CRTerminal/main/screenshots/vt220.png"
+            ],
+            "official_site": "https://crterm.ai",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Codex Account Switcher",
+            "short_description": "Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.",
+            "categories": [
+                "development",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/liuzhao1225/codex-account-switcher",
+            "icon_url": "https://raw.githubusercontent.com/liuzhao1225/codex-account-switcher/main/assets/account-switcher-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/liuzhao1225/codex-account-switcher/main/assets/codex-account-switcher-hero.png"
+            ],
+            "official_site": "https://liuzhao1225.github.io/codex-account-switcher/",
             "languages": [
                 "swift"
             ]
