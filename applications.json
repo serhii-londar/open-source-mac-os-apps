@@ -13327,6 +13327,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DSH Desk Pet",
+            "short_description": "Desktop pet that mirrors your coding agent's state, with skins generated from a photo of your own pet.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/anneheartrecord/dsh-desk-pet",
+            "icon_url": "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/assets/web/deepseek/idle/00.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/docs/media/diy-skin.png",
+                "https://raw.githubusercontent.com/anneheartrecord/dsh-desk-pet/main/docs/media/floats-above.png"
+            ],
+            "official_site": "https://github.com/anneheartrecord/dsh-desk-pet",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
