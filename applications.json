@@ -13163,6 +13163,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu-bar browser picker that opens each link in the right browser, Chrome or Brave profile, or private window, with rules by site, URL or source app and built-in link cleanup.",
+            "categories": [
+                "browser",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/justadityaraj/switchboard-browser-picker",
+            "title": "Switchboard",
+            "icon_url": "https://dev.adityarajsingh.com/switchboard/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/justadityaraj/switchboard-browser-picker/main/docs/picker.png",
+                "https://raw.githubusercontent.com/justadityaraj/switchboard-browser-picker/main/docs/settings.png"
+            ],
+            "official_site": "https://dev.adityarajsingh.com/switchboard/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
