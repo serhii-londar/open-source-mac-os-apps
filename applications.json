@@ -13328,6 +13328,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Movie and TV file library that recognises titles from file names and shows posters, ratings and summaries.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/FredrikBorgstrom/moviecat",
+            "title": "MovieCat",
+            "icon_url": "https://raw.githubusercontent.com/FredrikBorgstrom/moviecat/main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FredrikBorgstrom/moviecat/main/appstore/screenshots/1-library.png",
+                "https://raw.githubusercontent.com/FredrikBorgstrom/moviecat/main/appstore/screenshots/2-detail.png"
+            ],
+            "official_site": "https://moviecat.org/",
+            "languages": [
+                "dart"
+            ]
         }
     ]
 }
