@@ -12861,6 +12861,310 @@
             ]
         },
         {
+            "title": "Phosphene",
+            "short_description": "Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.",
+            "categories": [
+                "wallpaper",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/kageroumado/phosphene",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-library.png",
+                "https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-popover.png"
+            ],
+            "official_site": "https://kagerou.glass/phosphene/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Adrafinil",
+            "short_description": "Keeps your Mac awake only while AI agents are working, then lets it sleep normally.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/adrafinil",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-awake.png",
+                "https://raw.githubusercontent.com/kageroumado/adrafinil/main/.github/adrafinil-sleeping.png"
+            ],
+            "official_site": "https://kagerou.glass/adrafinil/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Dantrolene",
+            "short_description": "Stops the screen from locking while on your home WiFi; locks normally on every other network.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/dantrolene",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-home.png",
+                "https://raw.githubusercontent.com/kageroumado/dantrolene/main/.github/dantrolene-away.png"
+            ],
+            "official_site": "https://kagerou.glass/dantrolene/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Rilmazafone",
+            "short_description": "Design DMG installers on a WYSIWYG canvas and build exactly what you drew.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kageroumado/rilmazafone",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/.github/rilmazafone-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/screenshot.png",
+                "https://raw.githubusercontent.com/kageroumado/rilmazafone/main/.github/rilmazafone-templates.png"
+            ],
+            "official_site": "https://kagerou.glass/rilmazafone/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Coluracetam",
+            "short_description": "Markdown reader with Quick Look and thumbnail extensions, so .md files render on spacebar and in Finder.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/kageroumado/coluracetam",
+            "icon_url": "https://raw.githubusercontent.com/kageroumado/coluracetam/main/.github/coluracetam-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kageroumado/coluracetam/main/.github/coluracetam-rendered.png",
+                "https://raw.githubusercontent.com/kageroumado/coluracetam/main/.github/coluracetam-split.png"
+            ],
+            "official_site": "https://kagerou.glass/coluracetam/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "QuotaBar",
+            "short_description": "Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/RoketrP/QuotaBar",
+            "icon_url": "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-social-card.png",
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-dashboard.png",
+                "https://raw.githubusercontent.com/RoketrP/QuotaBar/main/docs/assets/quotabar-hud-v1.1.png"
+            ],
+            "official_site": "https://roketrp.github.io/QuotaBar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Petrichor",
+            "short_description": "Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/kushalpandya/Petrichor",
+            "icon_url": "https://raw.githubusercontent.com/kushalpandya/Petrichor/main/.github/assets/DefaultAppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kushalpandya/Petrichor/main/.github/assets/hero_screenshot.png"
+            ],
+            "official_site": "https://petrichor.page",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Notchi",
+            "short_description": "Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.",
+            "categories": [
+                "productivity",
+                "notes",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cyrus-cai/notchi",
+            "icon_url": "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/verb-ask.jpg",
+                "https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/agent-compose.jpg"
+            ],
+            "official_site": "https://www.notch.website/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Zielzeit",
+            "short_description": "Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Mannafee/zielzeit-scalable-capital",
+            "icon_url": "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/popover.png",
+                "https://raw.githubusercontent.com/Mannafee/zielzeit-scalable-capital/main/docs/menubar.png"
+            ],
+            "official_site": "https://mannafee.github.io/zielzeit-scalable-capital/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "FS PDF Compressor",
+            "short_description": "Free, private PDF compressor for macOS and Linux.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gitlares/fs-pdf-compressor",
+            "icon_url": "https://raw.githubusercontent.com/gitlares/fs-pdf-compressor/main/assets/PDFCompresor.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gitlares/fs-pdf-compressor/main/assets/fs-pdf-compressor-demo.gif"
+            ],
+            "official_site": "https://gitlares.github.io/fs-pdf-compressor/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "short_description": "Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.",
+            "categories": [
+                "audio",
+                "development"
+            ],
+            "repo_url": "https://github.com/QwenAudio/qwen-audio-agent",
+            "title": "qwen-audio-agent",
+            "icon_url": "https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/desktop/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/docs/desktop-fluid-orb-thinking.gif"
+            ],
+            "official_site": "https://github.com/QwenAudio/qwen-audio-agent",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.",
+            "categories": [
+                "images",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/TetherShot",
+            "title": "TetherShot",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/TetherShot/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://tethershot.apoorvdarshan.com/assets/og-v106.jpg"
+            ],
+            "official_site": "https://tethershot.apoorvdarshan.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Tracexy",
+            "short_description": "Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RockxyApp/Tracexy",
+            "icon_url": "https://raw.githubusercontent.com/RockxyApp/Tracexy/main/Tracexy/Assets.xcassets/AppIcon.appiconset/128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Light-050.png",
+                "https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Capturing-Option-050.png"
+            ],
+            "official_site": "https://rockxy.io/tracexy",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Plonk",
+            "short_description": "Ten menu bar utilities in one app: a window manager with snap zones you draw yourself, workspaces that reopen your apps on the right monitor, on-device OCR, keep-awake, screenshot annotation, pointer tools and a shortcut guide. An AI agent can drive all of it over MCP.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ostapondo/Plonk",
+            "icon_url": "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/logo-400.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/social-preview.png",
+                "https://raw.githubusercontent.com/ostapondo/Plonk/main/docs/brand-hero.png"
+            ],
+            "official_site": "https://ostapondo.github.io/Plonk/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Nocturne",
+            "short_description": "Makes the menu bar clock unreadable so it stops telling you how late it is, without hiding anything or asking for permissions.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dotcomjack/nocturne",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dotcomjack/nocturne/main/docs/clock-before-after.png"
+            ],
+            "official_site": "https://dotcomjack.com/nocturne",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Llamaport",
+            "short_description": "Run local GGUF models with llama-server. Reads model headers directly for real quantisation and context length, shows the full launch command before starting, reports live token rates and memory pressure, and downloads models from Hugging Face with resume that survives a kill.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/smkamranqadri/llamaport",
+            "icon_url": "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/assets/running.png",
+                "https://raw.githubusercontent.com/smkamranqadri/llamaport/main/assets/downloads.png"
+            ],
+            "official_site": "https://github.com/smkamranqadri/llamaport",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Markdown reader that keeps your comments inside the .md file, with a Quick Look extension, live reload, and a skill that lets coding agents open a document for review and wait for your notes.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/migsilva89/imark",
+            "title": "Imark",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/imark-window.png",
+                "https://raw.githubusercontent.com/migsilva89/imark/main/.github/assets/imark-comments.png"
+            ],
+            "official_site": "https://imarkmd.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "OpusBar",
             "short_description": "A cat in your menu bar that watches your Claude Code and Codex sessions: it takes on the state of the most urgent one, flags the session that needs you, and tracks plan limits and billing.",
             "categories": [
