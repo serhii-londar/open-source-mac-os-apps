@@ -3952,6 +3952,24 @@
             ]
         },
         {
+            "short_description": "Desktop photo widgets and editable collages with slideshows and adjustable layers.",
+            "categories": [
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/yashashwi-s/Arras",
+            "title": "Arras",
+            "icon_url": "https://raw.githubusercontent.com/yashashwi-s/Arras/main/Sources/App/Assets.xcassets/AppIcon.appiconset/icon_128%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yashashwi-s/Arras/main/assets/collages-2.5.0.webp",
+                "https://tryarras.tech/puremac/arras/features/slideshow-layers.webp"
+            ],
+            "official_site": "https://tryarras.tech/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
             "categories": [
                 "images"
