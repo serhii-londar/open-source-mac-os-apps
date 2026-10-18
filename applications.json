@@ -13581,6 +13581,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Soju",
+            "short_description": "Run Battle.net, Diablo II: Resurrected and Steam games on Apple Silicon Macs with a fully free Wine stack built from GPL sources; one-line installer.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/BCD1210/soju",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/BCD1210/soju/main/docs/assets/soju-discover.png",
+                "https://raw.githubusercontent.com/BCD1210/soju/main/docs/assets/soju-library.png"
+            ],
+            "official_site": "https://github.com/BCD1210/soju",
+            "languages": [
+                "python",
+                "shell"
+            ]
         }
     ]
 }
