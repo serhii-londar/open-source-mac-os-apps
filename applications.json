@@ -13328,6 +13328,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "RetroDrop",
+            "short_description": "Menu bar app that receives photos and videos from old iPhones (iOS 3 to 6) over Wi-Fi, with nothing to install on the phone.",
+            "categories": [
+                "sharing-files",
+                "menubar",
+                "images"
+            ],
+            "repo_url": "https://github.com/samir-bujawdeh/RetroDrop",
+            "icon_url": "https://raw.githubusercontent.com/samir-bujawdeh/RetroDrop/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/samir-bujawdeh/RetroDrop/main/assets/screenshot-menu.png"
+            ],
+            "official_site": "https://samir-bujawdeh.github.io/RetroDrop/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
