@@ -11419,6 +11419,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "System-wide on-device AI autocomplete: Copilot-style suggestions, typo fixes, rewrites and dictation in every text field. Fully offline, runs local models on Apple Silicon.",
+            "categories": [
+                "productivity",
+                "text"
+            ],
+            "repo_url": "https://github.com/nikiomori/Pretype",
+            "title": "Pretype",
+            "icon_url": "https://raw.githubusercontent.com/nikiomori/Pretype/main/docs/pretype-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nikiomori/Pretype/main/docs/hero.png"
+            ],
+            "official_site": "https://pretype.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
