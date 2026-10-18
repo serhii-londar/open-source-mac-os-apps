@@ -17,6 +17,25 @@
             ]
         },
         {
+            "title": "Agent Island",
+            "short_description": "Shows every running AI coding agent in the MacBook notch: Claude Code, Codex, Cursor, Gemini CLI and OpenCode, with context window, spend, and a click through to that session's terminal tab.",
+            "categories": [
+                "development",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Tiwari1999/Agent-Island",
+            "icon_url": "https://raw.githubusercontent.com/Tiwari1999/Agent-Island/main/docs/screenshots/06-collapsed-notch-bar.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Tiwari1999/Agent-Island/main/docs/screenshots/01-agents-running.png",
+                "https://raw.githubusercontent.com/Tiwari1999/Agent-Island/main/docs/screenshots/02-allow-deny.png"
+            ],
+            "official_site": "https://agentisland.in",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
             "categories": [
                 "utilities",
