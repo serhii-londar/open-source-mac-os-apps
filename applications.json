@@ -13311,6 +13311,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app and CLI that show how much Claude Code, Codex and Grok quota is left on each machine and whether it lasts until the reset.",
+            "categories": [
+                "menubar",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/neoromantic/ai-usage",
+            "title": "AI Usage",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/neoromantic/ai-usage/main/docs/demo/menubar.png"
+            ],
+            "official_site": "https://au.sergeybaus.com",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
