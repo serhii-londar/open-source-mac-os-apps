@@ -14483,6 +14483,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vitals",
+            "short_description": "Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.",
+            "categories": [
+                "system",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/slawek19926/Vitals",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/slawek19926/Vitals/main/docs/screenshots/en/summary.png",
+                "https://raw.githubusercontent.com/slawek19926/Vitals/main/docs/screenshots/en/sensors.png",
+                "https://raw.githubusercontent.com/slawek19926/Vitals/main/docs/screenshots/en/apple-silicon.png"
+            ],
+            "official_site": "https://github.com/slawek19926/Vitals",
+            "languages": [
+                "swift",
+                "cpp"
+            ]
         }
     ]
 }
