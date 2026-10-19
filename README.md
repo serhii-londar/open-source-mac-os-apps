@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-893-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-894-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2019,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 893 |
+| 📱 Total Applications | 894 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 445 • Objective-C: 142 • Javascript: 124 • Typescript: 77 • C++: 63 |
+| 🔝 Top Languages | Swift: 446 • Objective-C: 142 • Javascript: 124 • Typescript: 77 • C++: 63 |
 
 ## Languages
 
@@ -11525,7 +11525,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
-### 📺 Terminal (24)
+### 📺 Terminal (25)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -11535,6 +11535,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Aster](https://github.com/OpenFabrica/aster) - Native macOS terminal workspace built with AppKit and Ghostty, with recursive splits, file browsing, and previews.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://aster.foo/](https://aster.foo/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://aster.foo/assets/shots/workspace.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
