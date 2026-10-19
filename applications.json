@@ -13599,6 +13599,25 @@
                 "python",
                 "shell"
             ]
+        },
+        {
+            "short_description": "Convert or edit any file mid-drag: tap Shift and drop it on a ring of formats and tools.",
+            "categories": [
+                "utilities",
+                "finder",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/iandifilippo/Kumquat",
+            "title": "Kumquat",
+            "icon_url": "https://raw.githubusercontent.com/iandifilippo/Kumquat/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/iandifilippo/Kumquat/main/docs/assets/hero.jpg",
+                "https://raw.githubusercontent.com/iandifilippo/Kumquat/main/docs/assets/tools.jpg"
+            ],
+            "official_site": "https://iandifilippo.github.io/Kumquat/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
