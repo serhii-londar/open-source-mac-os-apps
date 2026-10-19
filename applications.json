@@ -13599,6 +13599,22 @@
                 "python",
                 "shell"
             ]
+        },
+        {
+            "title": "Threadlines",
+            "short_description": "Desktop app for running coding agents like Claude Code, Codex, OpenCode and Cursor, with several agents in one thread, a Git worktree per thread, and pull requests, CI and a browser beside the chat.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Threadlines/threadlines",
+            "icon_url": "https://raw.githubusercontent.com/Threadlines/threadlines/main/apps/marketing/public/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Threadlines/threadlines/main/apps/marketing/public/og.png"
+            ],
+            "official_site": "https://www.threadlines.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
