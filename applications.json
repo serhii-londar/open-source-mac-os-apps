@@ -14570,6 +14570,22 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "TuckBar",
+            "short_description": "Hides the menu bar on the displays you choose, covering it with your live wallpaper to reduce OLED burn-in.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/lelanddutcher/TuckBar",
+            "icon_url": "https://tuckbar.com/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lelanddutcher/TuckBar/main/design/tuckbar-social.png"
+            ],
+            "official_site": "https://tuckbar.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
