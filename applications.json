@@ -14364,6 +14364,25 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "short_description": "Use your phone's browser as a trackpad, keyboard, and shortcut deck for your Mac over your local network.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/rahatsagor/CmdPalm",
+            "title": "CmdPalm",
+            "icon_url": "https://cmdpalm.app/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rahatsagor/CmdPalm/main/docs/media/hero.webp"
+            ],
+            "official_site": "https://cmdpalm.app",
+            "languages": [
+                "swift",
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
