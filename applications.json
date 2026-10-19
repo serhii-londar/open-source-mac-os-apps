@@ -13599,6 +13599,24 @@
                 "python",
                 "shell"
             ]
+        },
+        {
+            "title": "unfd",
+            "short_description": "Arabic and English keyboard layout switcher that fixes text typed in the wrong layout with Option-Shift-Space.",
+            "categories": [
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/alpha2xyz/unfd",
+            "icon_url": "https://raw.githubusercontent.com/alpha2xyz/unfd/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alpha2xyz/unfd/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/alpha2xyz/unfd/main/docs/screenshots/panel.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
