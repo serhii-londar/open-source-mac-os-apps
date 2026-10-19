@@ -11250,6 +11250,23 @@
             ]
         },
         {
+            "short_description": "Voice control for AI coding agents: dictate prompts into Claude Code and Codex, voice commands and answers read aloud, with local Whisper.",
+            "categories": [
+                "audio",
+                "development"
+            ],
+            "repo_url": "https://github.com/goblin-red/Orca-Voice",
+            "title": "GOBL(in) Voice",
+            "icon_url": "https://raw.githubusercontent.com/goblin-red/Orca-Voice/main/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/goblin-red/Orca-Voice/main/docs/banner.png"
+            ],
+            "official_site": "https://goblin.red/articles/?a=goblin-voice",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "title": "Shark",
             "short_description": "Cursor IDE workspace manager for macOS.",
             "categories": [
