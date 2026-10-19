@@ -14060,6 +14060,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Simulate communities of AI agents around a \"what if…?\" question, powered by Claude Code, Codex or Ollama.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/gbrasil720/sorcerer",
+            "title": "Sorcerer",
+            "icon_url": "https://raw.githubusercontent.com/gbrasil720/sorcerer/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gbrasil720/sorcerer/main/docs/screenshots/feed-live.png"
+            ],
+            "official_site": "https://sorcererapp.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
