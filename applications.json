@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Menu bar manager that shows icons hidden by the MacBook notch in a drop-down panel.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/frostbar/frost",
+            "title": "Frost",
+            "icon_url": "https://raw.githubusercontent.com/frostbar/frost/main/Frost/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/frostbar/frost/main/docs/images/demo.gif",
+                "https://raw.githubusercontent.com/frostbar/frost/main/docs/images/layout-editor.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
