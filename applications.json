@@ -14348,6 +14348,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mole",
+            "short_description": "Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+            "categories": [
+                "utilities",
+                "system",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/tw93/Mole",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://mole.fit",
+            "languages": [
+                "shell"
+            ]
         }
     ]
 }
