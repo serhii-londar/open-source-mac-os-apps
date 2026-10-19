@@ -14364,6 +14364,25 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Text to Speech",
+            "short_description": "Select text in any app, press one shortcut and hear it read aloud in Brazilian Portuguese, with a natural voice over the internet or Piper running offline.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/text-to-speech",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/text-to-speech/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ciro-maciel/text-to-speech/main/docs/overview.webp"
+            ],
+            "official_site": "https://ciromaciel.click/tools/text-to-speech",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
