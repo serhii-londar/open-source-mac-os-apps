@@ -14364,6 +14364,25 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Screenshots",
+            "short_description": "Menu bar app to capture an area, a window, the full screen or a scrolling page, pull text out of an image, record the screen as MP4 or GIF, and annotate or pin the result, with no network code.",
+            "categories": [
+                "images",
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/screenshots",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/screenshots/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ciro-maciel/screenshots/main/docs/editor.webp",
+                "https://raw.githubusercontent.com/ciro-maciel/screenshots/main/docs/settings.webp"
+            ],
+            "official_site": "https://ciromaciel.click/tools/screenshots",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
