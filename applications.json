@@ -14364,6 +14364,24 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Windows",
+            "short_description": "Small window manager for the menu bar: snap windows to halves, full screen, center, the next display or sizes of your own, by shortcut or by dragging them to an edge or corner.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/windows",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/windows/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ciro-maciel/windows/main/docs/settings.webp",
+                "https://raw.githubusercontent.com/ciro-maciel/windows/main/docs/drag.webp"
+            ],
+            "official_site": "https://ciromaciel.click/tools/windows",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
