@@ -13599,6 +13599,23 @@
                 "python",
                 "shell"
             ]
+        },
+        {
+            "title": "Orca",
+            "short_description": "AI orchestrator that runs Codex, Claude Code, OpenCode or Pi side-by-side, each in its own git worktree and tracked in one place.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/stablyai/orca",
+            "icon_url": "https://raw.githubusercontent.com/stablyai/orca/main/resources/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stablyai/orca/main/docs/assets/readme-hero.jpg"
+            ],
+            "official_site": "https://onorca.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
