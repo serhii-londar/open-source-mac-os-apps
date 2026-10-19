@@ -14113,6 +14113,24 @@
                 "go",
                 "javascript"
             ]
+        },
+        {
+            "title": "AppLocker",
+            "short_description": "Kernel-level application locking tool built with Apple Endpoint Security and Liquid Glass UI.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/TranPhuong319/AppLocker",
+            "icon_url": "https://raw.githubusercontent.com/TranPhuong319/AppLocker/main/docs/images/Icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/TranPhuong319/AppLocker/main/docs/images/screenshots/screenshot-main.png",
+                "https://raw.githubusercontent.com/TranPhuong319/AppLocker/main/docs/images/screenshots/screenshot-auth.png"
+            ],
+            "official_site": "https://github.com/TranPhuong319/AppLocker",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
