@@ -14364,6 +14364,23 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Prism",
+            "short_description": "Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device.",
+            "categories": [
+                "medical",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/soma-intelligence/prism",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png"
+            ],
+            "official_site": "https://somalabs.me/prism",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
