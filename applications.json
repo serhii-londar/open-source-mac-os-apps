@@ -14379,6 +14379,24 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Atalaya",
+            "short_description": "Watch and maintain Linux servers over SSH: live dashboard, Docker containers, systemd services, your own scripts, package updates and files over SFTP, with nothing installed on the server.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/neural-beat/atalaya",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/neural-beat/atalaya/master/docs/dashboard.png"
+            ],
+            "official_site": "https://github.com/neural-beat/atalaya",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
