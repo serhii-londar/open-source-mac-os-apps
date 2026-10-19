@@ -4966,6 +4966,24 @@
             ]
         },
         {
+            "short_description": "Reopens apps in full screen if you quit them in full screen, and as a window if you left full screen first.",
+            "categories": [
+                "window-management",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fratayaydn/fullscreenkeeper",
+            "title": "FullscreenKeeper",
+            "icon_url": "https://raw.githubusercontent.com/fratayaydn/fullscreenkeeper/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fratayaydn/fullscreenkeeper/main/docs/screenshot.png"
+            ],
+            "official_site": "https://fratayaydn.github.io/fullscreenkeeper/",
+            "languages": [
+                "objective-c",
+                "swift"
+            ]
+        },
+        {
             "short_description": "Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. ",
             "categories": [
                 "notes"
