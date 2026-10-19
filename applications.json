@@ -14364,6 +14364,25 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Speech to Text",
+            "short_description": "Dictation by shortcut: press a key, speak, and the text is typed where your cursor is, transcribed on your Mac with whisper.cpp.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/speech-to-text",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/speech-to-text/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ciro-maciel/speech-to-text/main/docs/overview.webp"
+            ],
+            "official_site": "https://ciromaciel.click/tools/speech-to-text",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
