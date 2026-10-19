@@ -14364,6 +14364,21 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "KinetAios",
+            "short_description": "Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/phinn/KinetAios",
+            "icon_url": "https://raw.githubusercontent.com/phinn/KinetAios/main/build/icon-a2-256.png",
+            "screenshots": [],
+            "official_site": "https://phinn.github.io/KinetAios/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
