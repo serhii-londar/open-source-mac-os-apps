@@ -11355,6 +11355,24 @@
             ]
         },
         {
+            "short_description": "Move, minimize and maximize windows with trackpad gestures, plus a Windows-style taskbar and an Option+Tab window switcher.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/goblin-red/Drag-and-Taskbar",
+            "title": "GOBL(in) Drag & Taskbar",
+            "icon_url": "https://raw.githubusercontent.com/goblin-red/Drag-and-Taskbar/main/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/goblin-red/Drag-and-Taskbar/main/docs/banner.png",
+                "https://raw.githubusercontent.com/goblin-red/Drag-and-Taskbar/main/docs/drag-swipes.jpg"
+            ],
+            "official_site": "https://goblin.red/articles/?a=goblin-drag",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "UnTouchID",
             "short_description": "Use your phone's fingerprint to authenticate on any Mac.",
             "categories": [
