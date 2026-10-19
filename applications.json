@@ -14431,6 +14431,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tungsten Edge",
+            "short_description": "Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/moonbai-studio/tungsten-edge",
+            "icon_url": "https://raw.githubusercontent.com/moonbai-studio/tungsten-edge/master/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/moonbai-studio/tungsten-edge/master/assets/demo.gif"
+            ],
+            "official_site": "https://tungstenedge.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
