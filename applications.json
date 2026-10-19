@@ -14060,6 +14060,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Yap MCP",
+            "short_description": "Speech-to-text MCP server and command-line tool that transcribes audio and video files on the Mac with Parakeet, without uploading anything or needing an API key.",
+            "categories": [
+                "audio",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/founden-bot/yap-mcp",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://yapapp.cc/mcp",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
