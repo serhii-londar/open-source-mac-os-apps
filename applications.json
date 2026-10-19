@@ -14555,6 +14555,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "JuiceMount",
+            "short_description": "Mounts a NAS as a real Finder volume and streams video in blocks through a local SSD cache, with offline pinning.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/lelanddutcher/juicemount",
+            "icon_url": "https://raw.githubusercontent.com/lelanddutcher/juicemount/main/logos/color.png",
+            "screenshots": [],
+            "official_site": "https://juicemount.com",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
