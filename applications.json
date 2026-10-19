@@ -14364,6 +14364,23 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Assistant",
+            "short_description": "Voice assistant for Claude Code: say its name, ask out loud, and it answers by voice while it works in your repositories, with speech transcribed on your Mac by a local Whisper.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "development"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/voice-assistant",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/voice-assistant/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://ciromaciel.click/tools/voice-assistant",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
         }
     ]
 }
