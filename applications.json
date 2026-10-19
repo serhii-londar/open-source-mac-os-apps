@@ -14364,6 +14364,25 @@
             "languages": [
                 "shell"
             ]
+        },
+        {
+            "title": "Cleaner",
+            "short_description": "Mac cleaner that shows everything before it deletes anything: every rule is public in one JSON file and removed items wait 7 days in a quarantine you can restore from.",
+            "categories": [
+                "utilities",
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ciro-maciel/cleaner",
+            "icon_url": "https://raw.githubusercontent.com/ciro-maciel/cleaner/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ciro-maciel/cleaner/main/docs/overview.webp",
+                "https://raw.githubusercontent.com/ciro-maciel/cleaner/main/docs/cleanup.webp"
+            ],
+            "official_site": "https://ciromaciel.click/tools/cleaner",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
