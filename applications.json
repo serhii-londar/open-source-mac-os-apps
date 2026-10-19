@@ -11386,6 +11386,24 @@
             ]
         },
         {
+            "short_description": "Self-hosted remote desktop: view and control your Mac from any browser or phone through your own PHP hosting, no viewer app needed.",
+            "categories": [
+                "utilities",
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/goblin-red/Goblin-Remote",
+            "title": "GOBL(in) Remote",
+            "icon_url": "https://raw.githubusercontent.com/goblin-red/Goblin-Remote/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/goblin-red/Goblin-Remote/main/docs/banner.png"
+            ],
+            "official_site": "https://goblin.red/articles/?a=goblin-remote",
+            "languages": [
+                "python",
+                "javascript"
+            ]
+        },
+        {
             "title": "Repose",
             "short_description": "Break reminder for macOS that automatically pauses during meetings.",
             "categories": [
