@@ -13601,6 +13601,251 @@
             ]
         },
         {
+            "short_description": "Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.",
+            "categories": [
+                "window-management",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mmathys/noswoosh",
+            "title": "noswoosh",
+            "icon_url": "https://raw.githubusercontent.com/mmathys/noswoosh/main/assets/icon-rounded.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mmathys/noswoosh/main/assets/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Fast access to Apple Mail from the command line and AI clients (MCP). Sub-millisecond full-text search using Mail's own SQLite index, verified sends, reviewed bulk triage.",
+            "categories": [
+                "mail",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/parasxos/apple-mail-mcp",
+            "title": "apple-mail-mcp",
+            "icon_url": "https://raw.githubusercontent.com/parasxos/apple-mail-mcp/main/docs/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://pypi.org/project/apple-mailbox-mcp/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "title": "FutureOS",
+            "short_description": "One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.",
+            "categories": [
+                "productivity",
+                "chat"
+            ],
+            "repo_url": "https://github.com/futuregene/future-os",
+            "icon_url": "https://raw.githubusercontent.com/futuregene/future-os/main/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/futuregene/future-os/main/docs/desktop-screenshot.png"
+            ],
+            "official_site": "https://future-os.cn",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Searches your saved browser bookmarks by meaning rather than by title, using a one-line description it writes for each link.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/migsilva89/unbury",
+            "title": "Unbury",
+            "icon_url": "https://raw.githubusercontent.com/migsilva89/unbury/main/.github/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/migsilva89/unbury/main/.github/assets/unbury-search.png"
+            ],
+            "official_site": "https://unbury.migsilva.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Mooziac",
+            "short_description": "Lightweight native macOS menu bar player for YouTube Music and local audio with trackpad gestures.",
+            "categories": [
+                "music",
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/shirkeharsh/mooziac",
+            "icon_url": "https://raw.githubusercontent.com/shirkeharsh/mooziac/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shirkeharsh/mooziac/main/Resources/Animals.png"
+            ],
+            "official_site": "https://mooziac.pages.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Whisk",
+            "short_description": "Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nathan-poncet/whisk",
+            "icon_url": "https://raw.githubusercontent.com/nathan-poncet/whisk/main/Assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nathan-poncet/whisk/main/docs/media/screenshot.png"
+            ],
+            "official_site": "https://nathan-poncet.github.io/whisk/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Candela",
+            "short_description": "Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Rydersel/Candela",
+            "icon_url": "https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/hero.webp"
+            ],
+            "official_site": "https://candela.fyi",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Devie AI Quota Tracker",
+            "short_description": "Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.",
+            "categories": [
+                "menubar",
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mathdevie/devie-ai-quota-tracker",
+            "icon_url": "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/logo/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/theme-light.png",
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/popover.png",
+                "https://raw.githubusercontent.com/mathdevie/devie-ai-quota-tracker/main/docs/screenshots/menu-bar.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.",
+            "categories": [
+                "chat",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/GigaDuckAI/conduck",
+            "title": "Conduck",
+            "icon_url": "https://conduck.com/conduck-icon-256.png",
+            "screenshots": [],
+            "official_site": "https://conduck.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Higgs",
+            "short_description": "Dashboard and chat app for the Higgs inference server: runs MLX models on Apple Silicon behind OpenAI- and Anthropic-compatible APIs, routes to remote providers, and traces every request.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/panbanda/higgs",
+            "icon_url": "https://raw.githubusercontent.com/panbanda/higgs/main/apps/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/panbanda/higgs/main/docs/images/desktop-overview.png",
+                "https://raw.githubusercontent.com/panbanda/higgs/main/docs/images/desktop-chat.png"
+            ],
+            "official_site": "https://github.com/panbanda/higgs",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Safety-first disk cleaner and space analyzer with local scanning and review before deletion.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/harry0703/MangoDisk",
+            "title": "MangoDisk",
+            "icon_url": "https://raw.githubusercontent.com/harry0703/MangoDisk/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://assets.mangodisk.app/images/screenshots/en/light-01-deep-cleanup.jpg",
+                "https://assets.mangodisk.app/images/screenshots/en/light-05-disk-space-analysis.jpg"
+            ],
+            "official_site": "https://mangodisk.app/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "One-way, resumable sync of macOS Photos libraries to self-hosted or local storage.",
+            "categories": [
+                "backup"
+            ],
+            "repo_url": "https://github.com/moontechs/files-nest",
+            "title": "FilesNest",
+            "icon_url": "https://raw.githubusercontent.com/moontechs/files-nest/main/apple/macos/FilesNest/FilesNest/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/moontechs/files-nest/main/imgs/menubar-sync-status.png",
+                "https://raw.githubusercontent.com/moontechs/files-nest/main/imgs/settings-server.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "go"
+            ]
+        },
+        {
+            "title": "Superagent",
+            "short_description": "Desktop app that gives coding agents like Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/pungme/superagent-desktop",
+            "icon_url": "https://raw.githubusercontent.com/pungme/superagent-desktop/main/app/build/icon.png",
+            "screenshots": [],
+            "official_site": "https://superagent.computer",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
+        },
+        {
+            "title": "OmniMac",
+            "short_description": "Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/BySergiMM/OmniMac",
+            "icon_url": "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-media.png",
+                "https://raw.githubusercontent.com/BySergiMM/OmniMac/main/docs/site/img/en/notch-performance.png"
+            ],
+            "official_site": "https://bysergimm.github.io/OmniMac/en/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Hardly Working",
             "short_description": "Menu bar app that nudges the cursor by one pixel after a chosen idle time, so chat apps don't mark you away.",
             "categories": [
