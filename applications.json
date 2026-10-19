@@ -14259,6 +14259,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SpreadPaper",
+            "short_description": "Spread a single high-resolution wallpaper across multiple monitors, with compensation for the bezel gaps between displays.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/spreadpaper/SpreadPaper",
+            "icon_url": "https://raw.githubusercontent.com/spreadpaper/SpreadPaper/main/.github/assets/app-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/spreadpaper/SpreadPaper/main/.github/assets/screenshot-editor-light-dark.png",
+                "https://raw.githubusercontent.com/spreadpaper/SpreadPaper/main/.github/assets/screenshot-new-wallpaper-static.png",
+                "https://raw.githubusercontent.com/spreadpaper/SpreadPaper/main/.github/assets/website-hero-image.png"
+            ],
+            "official_site": "https://spreadpaper.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
