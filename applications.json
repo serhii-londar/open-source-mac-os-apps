@@ -14522,6 +14522,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Voicely",
+            "short_description": "Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/StulkovLD/Voicely",
+            "icon_url": "https://raw.githubusercontent.com/StulkovLD/Voicely/main/.github/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://voicely.art",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
