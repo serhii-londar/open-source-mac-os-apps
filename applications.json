@@ -14925,6 +14925,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Realign",
+            "short_description": "Saves a window layout per display setup and puts every window back with one shortcut, or automatically when you dock or undock.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hunterphillips/realign",
+            "icon_url": "https://raw.githubusercontent.com/hunterphillips/realign/main/assets/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hunterphillips/realign/main/assets/before-after.png"
+            ],
+            "official_site": "https://github.com/hunterphillips/realign",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
