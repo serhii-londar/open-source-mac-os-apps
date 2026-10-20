@@ -14908,6 +14908,23 @@
                 "typescript",
                 "swift"
             ]
+        },
+        {
+            "title": "BitMatch",
+            "short_description": "Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.",
+            "categories": [
+                "backup",
+                "video"
+            ],
+            "repo_url": "https://github.com/BitmatchApp/Bitmatch",
+            "icon_url": "https://raw.githubusercontent.com/BitmatchApp/Bitmatch/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/BitmatchApp/Bitmatch/main/docs/screenshots/mac.png"
+            ],
+            "official_site": "https://bitmatchapp.github.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
