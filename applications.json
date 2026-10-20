@@ -14769,6 +14769,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Frame Player",
+            "short_description": "Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/risenxxx/frame-player",
+            "icon_url": "https://raw.githubusercontent.com/risenxxx/frame-player/main/src-tauri/icons/128x128%402x.png",
+            "screenshots": [],
+            "official_site": "https://frameplayer.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
