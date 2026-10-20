@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "DockPin",
+            "short_description": "Menu bar utility that helps keep the macOS Dock on a chosen display in multi-monitor setups.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kangaroo-demo/DockPin",
+            "icon_url": "https://raw.githubusercontent.com/kangaroo-demo/DockPin/main/docs/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kangaroo-demo/DockPin/main/docs/images/dockpin-menu-en.png"
+            ],
+            "official_site": "https://kangaroo-demo.github.io/DockPin/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
