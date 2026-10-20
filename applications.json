@@ -15080,6 +15080,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DBine",
+            "short_description": "Database manager for 130+ SQL and NoSQL databases and cloud services, with notebooks, schema and data compare, and a local MCP server.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/addlayer-io/dbine",
+            "icon_url": "https://raw.githubusercontent.com/addlayer-io/dbine/main/assets/dbine-icon.png",
+            "screenshots": [],
+            "official_site": "https://dbine.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
