@@ -15080,6 +15080,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "DropKeeper",
+            "short_description": "Menu bar app that gives every new download an expiry and moves expired files to the Trash, with Undo.",
+            "categories": [
+                "menubar",
+                "finder"
+            ],
+            "repo_url": "https://github.com/direcat/dropkeeper",
+            "icon_url": "https://raw.githubusercontent.com/direcat/dropkeeper/master/site/assets/appicon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/direcat/dropkeeper/master/assets/demo/prompt.png",
+                "https://raw.githubusercontent.com/direcat/dropkeeper/master/assets/demo/list.png"
+            ],
+            "official_site": "https://direcat.github.io/dropkeeper/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
