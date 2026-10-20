@@ -14890,6 +14890,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "CPU load, memory pressure and disk space as tiny live meters in the menu bar, with top processes on click.",
+            "categories": [
+                "system",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/turhe123/resource-glance-bar",
+            "title": "ResourceGlanceBar",
+            "icon_url": "https://raw.githubusercontent.com/turhe123/resource-glance-bar/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://turhe123.github.io/resource-glance-bar/screenshots/01-cpu.png",
+                "https://turhe123.github.io/resource-glance-bar/screenshots/02-memory.png"
+            ],
+            "official_site": "https://turhe123.github.io/resource-glance-bar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
