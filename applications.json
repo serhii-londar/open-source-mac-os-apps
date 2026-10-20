@@ -14890,6 +14890,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Evoo",
+            "short_description": "Push-to-talk voice dictation that runs entirely on-device, with a fine-tuned local model that cleans up fillers and self-corrections.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/chndr-prksh/evoo",
+            "icon_url": "https://raw.githubusercontent.com/chndr-prksh/evoo/main/site/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chndr-prksh/evoo/main/site/og.png"
+            ],
+            "official_site": "https://chndr-prksh.github.io/evoo/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
