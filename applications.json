@@ -15041,6 +15041,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Yalqen",
+            "short_description": "Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/YSamed/yalqen",
+            "icon_url": "https://raw.githubusercontent.com/YSamed/yalqen/main/apps/browser/resources/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YSamed/yalqen/main/assets/screenshots/website.webp"
+            ],
+            "official_site": "https://yalqen.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
