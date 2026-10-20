@@ -15080,6 +15080,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Koru",
+            "short_description": "Local-first workspace for notes, docs and files with terminal tabs and a local MCP server. No account required; imports Evernote, Notion, OneNote, Google Docs and Markdown.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/koruworks/mono",
+            "icon_url": "https://raw.githubusercontent.com/koruworks/mono/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/koruworks/mono/main/.github/readme/koru-workspace.webp"
+            ],
+            "official_site": "https://www.koru.do/en",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
