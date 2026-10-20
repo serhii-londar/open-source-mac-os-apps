@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal.",
+            "categories": [
+                "utilities",
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hasanzadee/convertino",
+            "title": "Convertino",
+            "icon_url": "https://raw.githubusercontent.com/hasanzadee/convertino/main/packaging/linux/icons/convertino-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/themes.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "c_sharp"
+            ]
         }
     ]
 }
