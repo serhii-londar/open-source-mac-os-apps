@@ -15006,6 +15006,24 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "Tequila",
+            "short_description": "A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/caiyuyou1227-glitch/tequila",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/focus.png",
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/calendar.png"
+            ],
+            "official_site": "https://github.com/caiyuyou1227-glitch/tequila",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
