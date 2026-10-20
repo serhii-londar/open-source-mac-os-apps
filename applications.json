@@ -14890,6 +14890,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Select text anywhere and a small floating bar offers copy, search, case changes and more.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/turhe123/select-pop-actions",
+            "title": "SelectPopActions",
+            "icon_url": "https://raw.githubusercontent.com/turhe123/select-pop-actions/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://turhe123.github.io/select-pop-actions/screenshots/01-actions.png"
+            ],
+            "official_site": "https://turhe123.github.io/select-pop-actions/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
