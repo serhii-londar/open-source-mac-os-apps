@@ -14855,6 +14855,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Shotnix",
+            "short_description": "Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.",
+            "categories": [
+                "images",
+                "video"
+            ],
+            "repo_url": "https://github.com/OMARVII/Shotnix",
+            "icon_url": "https://shotnix.com/shotnix-icon-512.png",
+            "screenshots": [
+                "https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png",
+                "https://shotnix.com/screenshots/shotnix-video-editor.png"
+            ],
+            "official_site": "https://shotnix.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
