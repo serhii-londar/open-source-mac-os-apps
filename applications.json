@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "Juice Bar",
+            "short_description": "Minimalist native menu-bar companion for CLIProxyAPI and CPAMC that shows pooled Claude and Codex subscription capacity and account renewal times.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/mindtheflo/juice-bar",
+            "icon_url": "https://raw.githubusercontent.com/mindtheflo/juice-bar/858dea6/assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mindtheflo/juice-bar/858dea6/assets/screenshots/overview.png",
+                "https://raw.githubusercontent.com/mindtheflo/juice-bar/858dea6/assets/screenshots/account.png",
+                "https://raw.githubusercontent.com/mindtheflo/juice-bar/858dea6/assets/screenshots/settings.png"
+            ],
+            "official_site": "https://github.com/mindtheflo/juice-bar",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
