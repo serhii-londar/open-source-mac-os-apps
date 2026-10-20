@@ -14957,6 +14957,23 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "Quest for Duskara",
+            "short_description": "Single-player island strategy game where you build a town, trade, raise an army, and conquer a 15-city archipelago.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/Dbhardwaj99/Quest-For-Duskara",
+            "icon_url": "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Assets/AppIcon.icon/Assets/icon-default.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/village.jpg",
+                "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/world-map.jpg"
+            ],
+            "official_site": "https://dbhardwaj99.github.io/Quest-For-Duskara/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
