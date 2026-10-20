@@ -8632,17 +8632,17 @@
             ]
         },
         {
-            "short_description": "Open-source macOS menu bar app to monitor Vercel deployment status in real time.",
+            "short_description": "Vercel and Cloudflare deploy status in your Mac menu bar.",
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/andrewk17/vercel-deployment-menu-bar",
-            "title": "Vercel Deployment Menu Bar",
-            "icon_url": "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/app-icon.png",
+            "repo_url": "https://github.com/andrewk17/deploylight",
+            "title": "Deploylight",
+            "icon_url": "https://raw.githubusercontent.com/andrewk17/deploylight/main/app-icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png"
+                "https://raw.githubusercontent.com/andrewk17/deploylight/main/vercel-menu-bar-deployment-status-macos.png"
             ],
-            "official_site": "https://vercel-deployment-menu-bar.vercel.app/",
+            "official_site": "https://deploylight.akim.workers.dev/",
             "languages": [
                 "swift"
             ]
