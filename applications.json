@@ -14712,6 +14712,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Nightwatch",
+            "short_description": "Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/rsutcliffe/nightwatch",
+            "icon_url": "https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/Resources/AppIcon/Nightwatch.icon/Assets/Nightwatch.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-popover-clear-night.png",
+                "https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-target.jpg",
+                "https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-dark-sites.png"
+            ],
+            "official_site": "https://delphi-dolphin.com/nightwatch",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
