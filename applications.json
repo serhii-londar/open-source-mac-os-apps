@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OpenNavo",
+            "short_description": "Homebrew GUI and app store that installs and updates apps in one click and scans them for malware before installing.",
+            "categories": [
+                "utilities",
+                "security"
+            ],
+            "repo_url": "https://github.com/opennavo/OpenNavo",
+            "icon_url": "https://raw.githubusercontent.com/opennavo/OpenNavo/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/opennavo/OpenNavo/main/.github/assets/en-US/screenshot-discover.webp",
+                "https://raw.githubusercontent.com/opennavo/OpenNavo/main/.github/assets/en-US/screenshot-detail.webp"
+            ],
+            "official_site": "https://opennavo.com",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
