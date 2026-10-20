@@ -14890,6 +14890,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Hide crowded menu bar icons behind a divider and re-hide them automatically, no permissions needed.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/turhe123/menu-bar-collapse",
+            "title": "MenuBarCollapse",
+            "icon_url": "https://raw.githubusercontent.com/turhe123/menu-bar-collapse/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://turhe123.github.io/menu-bar-collapse/screenshots/01-menu.png",
+                "https://turhe123.github.io/menu-bar-collapse/screenshots/02-settings.png"
+            ],
+            "official_site": "https://turhe123.github.io/menu-bar-collapse/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
