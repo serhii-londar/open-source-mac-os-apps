@@ -14890,6 +14890,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Temporary drag-and-drop shelf at the screen edge that holds files, links and text until you need them.",
+            "categories": [
+                "utilities",
+                "productivity",
+                "finder"
+            ],
+            "repo_url": "https://github.com/turhe123/edge-drop-shelf",
+            "title": "EdgeDropShelf",
+            "icon_url": "https://raw.githubusercontent.com/turhe123/edge-drop-shelf/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://turhe123.github.io/edge-drop-shelf/screenshots/01-shelf.png"
+            ],
+            "official_site": "https://turhe123.github.io/edge-drop-shelf/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
