@@ -14974,6 +14974,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vocula",
+            "short_description": "Hold-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/vitaly-kashtalyan/vocula",
+            "icon_url": "https://raw.githubusercontent.com/vitaly-kashtalyan/vocula/main/App/Vocula/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [],
+            "official_site": "https://vocula.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
