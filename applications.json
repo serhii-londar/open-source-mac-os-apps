@@ -15080,6 +15080,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Quick Look extension for folders: real size including subfolders, file-type breakdown, largest and newest files, git branch and status, and the README rendered inline. Also previews zip contents and Markdown.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/justadityaraj/foldout-folder-preview",
+            "title": "Foldout",
+            "icon_url": "https://media.stallioncognitive.com/file/dev-site/foldout-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/justadityaraj/foldout-folder-preview/main/docs/repo-readme.png",
+                "https://raw.githubusercontent.com/justadityaraj/foldout-folder-preview/main/docs/photos.png"
+            ],
+            "official_site": "https://dev.adityarajsingh.com/foldout/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
