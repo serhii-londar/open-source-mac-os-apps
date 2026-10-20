@@ -15024,6 +15024,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MacFanPro",
+            "short_description": "Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/macfanpro/macfanpro",
+            "icon_url": "https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png"
+            ],
+            "official_site": "https://github.com/macfanpro/macfanpro",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
