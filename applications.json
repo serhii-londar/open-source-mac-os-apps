@@ -269,23 +269,6 @@
             ]
         },
         {
-            "title": "ClaudeUsageBar",
-            "short_description": "See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.",
-            "categories": [
-                "menubar",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/yagcioglutoprak/ClaudeUsageBar",
-            "icon_url": "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/claude_icon.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif"
-            ],
-            "official_site": "https://yagcioglutoprak.github.io/AIQuotaBar/",
-            "languages": [
-                "python"
-            ]
-        },
-        {
             "short_description": "Locally hosted web application that allows you to perform various operations on PDF files",
             "categories": [
                 "utilities"
@@ -11138,14 +11121,15 @@
         },
         {
             "title": "AIQuotaBar",
-            "short_description": "See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.",
+            "short_description": "Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.",
             "categories": [
-                "menubar"
+                "menubar",
+                "utilities"
             ],
             "repo_url": "https://github.com/yagcioglutoprak/AIQuotaBar",
-            "icon_url": "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/claude_icon.png",
+            "icon_url": "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/logo.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/demo.gif"
+                "https://raw.githubusercontent.com/yagcioglutoprak/AIQuotaBar/main/assets/screens/readme-hero.png"
             ],
             "official_site": "https://yagcioglutoprak.github.io/AIQuotaBar/",
             "languages": [
@@ -14902,6 +14886,207 @@
             "icon_url": "https://raw.githubusercontent.com/Mohit-Sharma-ML/voltio/main/Resources/AppIcon-1024.png",
             "screenshots": [],
             "official_site": "https://github.com/Mohit-Sharma-ML/voltio",
+            "title": "Ravenpass",
+            "short_description": "Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/dortanes/ravenpass",
+            "icon_url": "https://raw.githubusercontent.com/dortanes/ravenpass/main/apps/desktop/build/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dortanes/ravenpass/main/.github/assets/screenshot.png"
+            ],
+            "official_site": "https://ravenpass.org",
+            "languages": [
+                "go",
+                "typescript",
+                "swift"
+            ]
+        },
+        {
+            "title": "BitMatch",
+            "short_description": "Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.",
+            "categories": [
+                "backup",
+                "video"
+            ],
+            "repo_url": "https://github.com/BitmatchApp/Bitmatch",
+            "icon_url": "https://raw.githubusercontent.com/BitmatchApp/Bitmatch/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/BitmatchApp/Bitmatch/main/docs/screenshots/mac.png"
+            ],
+            "official_site": "https://bitmatchapp.github.io",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Realign",
+            "short_description": "Saves a window layout per display setup and puts every window back with one shortcut, or automatically when you dock or undock.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hunterphillips/realign",
+            "icon_url": "https://raw.githubusercontent.com/hunterphillips/realign/main/assets/app-icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hunterphillips/realign/main/assets/before-after.png"
+            ],
+            "official_site": "https://github.com/hunterphillips/realign",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Vortix",
+            "short_description": "Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.",
+            "categories": [
+                "vpn--proxy",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/Harry-kp/vortix",
+            "icon_url": "https://raw.githubusercontent.com/Harry-kp/vortix/main/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://github.com/Harry-kp/vortix",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "title": "Quest for Duskara",
+            "short_description": "Single-player island strategy game where you build a town, trade, raise an army, and conquer a 15-city archipelago.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/Dbhardwaj99/Quest-For-Duskara",
+            "icon_url": "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Assets/AppIcon.icon/Assets/icon-default.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/village.jpg",
+                "https://raw.githubusercontent.com/Dbhardwaj99/Quest-For-Duskara/main/Screenshots/v0.02/world-map.jpg"
+            ],
+            "official_site": "https://dbhardwaj99.github.io/Quest-For-Duskara/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Vocula",
+            "short_description": "Hold-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/vitaly-kashtalyan/vocula",
+            "icon_url": "https://raw.githubusercontent.com/vitaly-kashtalyan/vocula/main/App/Vocula/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [],
+            "official_site": "https://vocula.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "SquirrelDisk",
+            "short_description": "Disk usage analyzer with animated sunburst and treemap views that can also scan SSH servers and cloud storage via rclone.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/adileo/squirreldisk",
+            "icon_url": "https://raw.githubusercontent.com/adileo/squirreldisk/main/assets/icon/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adileo/squirreldisk/main/screenshots/overview.png",
+                "https://raw.githubusercontent.com/adileo/squirreldisk/main/screenshots/explore.png"
+            ],
+            "official_site": "https://www.squirreldisk.com",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "title": "Tequila",
+            "short_description": "A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/caiyuyou1227-glitch/tequila",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/focus.png",
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/calendar.png"
+            ],
+            "official_site": "https://github.com/caiyuyou1227-glitch/tequila",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "MacFanPro",
+            "short_description": "Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/macfanpro/macfanpro",
+            "icon_url": "https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png"
+            ],
+            "official_site": "https://github.com/macfanpro/macfanpro",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Yalqen",
+            "short_description": "Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/YSamed/yalqen",
+            "icon_url": "https://raw.githubusercontent.com/YSamed/yalqen/main/apps/browser/resources/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YSamed/yalqen/main/assets/screenshots/website.webp"
+            ],
+            "official_site": "https://yalqen.com",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "title": "Vespertine",
+            "short_description": "Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/szeremeta1/Vespertine",
+            "icon_url": "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/bit-perfect-fiio-24-96.png",
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/spatial-audio-airpods-max.png",
+                "https://raw.githubusercontent.com/szeremeta1/Vespertine/main/docs/screenshots/fake-hi-res-detection.png"
+            ],
+            "official_site": "https://szeremeta1.github.io/Vespertine/",
+            "languages": [
+                "swift",
+                "c"
+            ]
+        },
+        {
+            "title": "horita",
+            "short_description": "Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/cordwainersmith/horita",
+            "icon_url": "https://raw.githubusercontent.com/cordwainersmith/horita/main/App/Assets.xcassets/AppIcon.appiconset/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/dropdown.png",
+                "https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/meeting-details.png"
+            ],
+            "official_site": "https://horita.app",
             "languages": [
                 "swift"
             ]
