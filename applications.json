@@ -14732,6 +14732,25 @@
                 "swift",
                 "c"
             ]
+        },
+        {
+            "title": "Depflush",
+            "short_description": "Finds what Docker, node_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/cypriennkeneng/depflush",
+            "icon_url": "https://raw.githubusercontent.com/cypriennkeneng/depflush/main/Resources/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/docker.png",
+                "https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/duplicates.png"
+            ],
+            "official_site": "https://depflush.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
