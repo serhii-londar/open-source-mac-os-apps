@@ -14890,6 +14890,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Keyboard-first clipboard history popup that filters as you type and pastes with one key.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/turhe123/clip-recall-bar",
+            "title": "ClipRecallBar",
+            "icon_url": "https://raw.githubusercontent.com/turhe123/clip-recall-bar/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://turhe123.github.io/clip-recall-bar/screenshots/01-history-panel.png",
+                "https://turhe123.github.io/clip-recall-bar/screenshots/02-filter-as-you-type.png"
+            ],
+            "official_site": "https://turhe123.github.io/clip-recall-bar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
