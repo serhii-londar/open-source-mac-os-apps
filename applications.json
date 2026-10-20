@@ -14890,6 +14890,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TMPlayer",
+            "short_description": "Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/dracu-lah/TMPlayer",
+            "icon_url": "https://raw.githubusercontent.com/dracu-lah/TMPlayer/main/site/public/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dracu-lah/TMPlayer/main/docs/screenshots/desktop-grid.webp",
+                "https://raw.githubusercontent.com/dracu-lah/TMPlayer/main/docs/screenshots/desktop-player.webp"
+            ],
+            "official_site": "https://tmplayer.org",
+            "languages": [
+                "kotlin"
+            ]
         }
     ]
 }
