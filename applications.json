@@ -1,6 +1,19 @@
 {
     "applications": [
         {
+  "short_description": "Menu bar break reminder where your own avatar shows a 30-second desk exercise, including while Claude Code works.",
+  "categories": ["productivity", "menubar"],
+  "repo_url": "https://github.com/harpreetkbadhan/exercise-moose",
+  "title": "Exercise Moose",
+  "icon_url": "https://raw.githubusercontent.com/harpreetkbadhan/exercise-moose/main/docs/logo.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/harpreetkbadhan/exercise-moose/main/docs/readme/card-light.gif",
+    "https://raw.githubusercontent.com/harpreetkbadhan/exercise-moose/main/docs/readme/menu-light.png"
+  ],
+  "official_site": "https://harpreetkbadhan.github.io/exercise-moose/",
+  "languages": ["swift"]
+       },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
