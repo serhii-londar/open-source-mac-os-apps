@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-927-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-930-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2021,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 927 |
+| 📱 Total Applications | 930 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 473 • Objective-C: 142 • Javascript: 125 • Typescript: 82 • C++: 64 |
+| 🔝 Top Languages | Swift: 475 • Objective-C: 142 • Javascript: 125 • Typescript: 83 • C++: 64 |
 
 ## Languages
 
@@ -1028,7 +1028,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
-### 🌐 Browser (17)
+### 🌐 Browser (18)
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.  
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -1166,6 +1166,23 @@ You can see in which language an app is written. Currently there are following l
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS. 
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+- [Vane](https://github.com/notnaki/vane) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://notnaki.github.io/vane/](https://notnaki.github.io/vane/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-spaces.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-split.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Yalqen](https://github.com/YSamed/yalqen) - Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.
 
@@ -2830,7 +2847,26 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 🔧 Other Development (6)
+#### 🔧 Other Development (7)
+- [AI Switcher](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://aiswitcher.dev/desktop/](https://aiswitcher.dev/desktop/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://aiswitcher.dev/media/desktop-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://aiswitcher.dev/media/desktop-profiles.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://aiswitcher.dev/media/desktop-workspace-rules.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -5978,7 +6014,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (149)
+### 📊 Menubar (150)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6541,6 +6577,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/yagcioglutoprak/dusty/main/docs/screenshots/panel.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [EK Bridge](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/bereciartua/ek-bridge](https://github.com/bereciartua/ek-bridge)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/overview-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/approval-panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/access-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9068,7 +9123,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (147)
+### ⏱️ Productivity (148)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -9518,6 +9573,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [EK Bridge](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/bereciartua/ek-bridge](https://github.com/bereciartua/ek-bridge)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/overview-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/approval-panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/access-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12507,7 +12581,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (221)
+### 🛠️ Utilities (222)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -12565,6 +12639,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/tobymarks/esp32-ai-monitor/main/installer/assets/app-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/tobymarks/esp32-ai-monitor/main/installer/assets/display-view-rings.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [AI Switcher](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://aiswitcher.dev/desktop/](https://aiswitcher.dev/desktop/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://aiswitcher.dev/media/desktop-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://aiswitcher.dev/media/desktop-profiles.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://aiswitcher.dev/media/desktop-workspace-rules.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
