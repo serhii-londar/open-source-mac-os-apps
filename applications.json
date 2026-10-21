@@ -15083,7 +15083,7 @@
         },
         {
             "title": "Perch",
-            "short_description": "A notch bird for macOS that tracks coding agent status, turns waiting pauses into 30-second stretches, and visualizes your flow.",
+            "short_description": "A tiny bird in your Mac's notch that nudges you to take 30-second stretch breaks while coding agents work, tracks their status, and visualizes your focus rhythm.",
             "categories": [
                 "menubar",
                 "productivity"
