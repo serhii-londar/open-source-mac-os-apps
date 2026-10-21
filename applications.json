@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "NotchFlow",
+            "short_description": "Native macOS notch workspace for coding agent activity, GitHub Actions, timers, and files.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/argahv/notchflow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/argahv/notchflow/main/docs/media/light-workspace.png",
+                "https://raw.githubusercontent.com/argahv/notchflow/main/docs/media/split-island.png"
+            ],
+            "official_site": "https://github.com/argahv/notchflow",
+            "languages": [
+                "swift",
+                "python"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
