@@ -15080,6 +15080,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "mu",
+            "short_description": "Coding agent with a CLI and a desktop app, in which a small, fast judge model makes routine decisions such as what enters the context and whether a command is safe.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/qybaihe/mu",
+            "icon_url": "https://raw.githubusercontent.com/qybaihe/mu/main/desktop/resources/app.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qybaihe/mu/main/docs/readme/board.png",
+                "https://raw.githubusercontent.com/qybaihe/mu/main/docs/readme/swarm.png"
+            ],
+            "official_site": "https://usemu.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
