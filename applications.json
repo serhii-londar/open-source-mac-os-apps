@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "Porter for Claude Desktop",
+            "short_description": "Menu bar app that moves Claude Code sessions between Claude Desktop accounts when one hits its usage limit, and runs several Claude Desktops side by side.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/matteogilioli/porter-for-claude-desktop",
+            "icon_url": "https://raw.githubusercontent.com/matteogilioli/porter-for-claude-desktop/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/matteogilioli/porter-for-claude-desktop/main/assets/readme/panel.svg",
+                "https://raw.githubusercontent.com/matteogilioli/porter-for-claude-desktop/main/assets/readme/window.svg"
+            ],
+            "official_site": "https://github.com/matteogilioli/porter-for-claude-desktop",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
