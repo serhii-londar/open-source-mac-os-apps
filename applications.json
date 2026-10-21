@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Atticus",
+            "short_description": "Voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help and background agents.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/SaarthurR/atticus-mac",
+            "icon_url": "https://raw.githubusercontent.com/SaarthurR/atticus-mac/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SaarthurR/atticus-mac/main/docs/banner.png",
+                "https://raw.githubusercontent.com/SaarthurR/atticus-mac/main/docs/demo.gif"
+            ],
+            "official_site": "https://saarthurr.github.io/atticus-mac/",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
