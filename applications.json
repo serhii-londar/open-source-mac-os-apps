@@ -15080,6 +15080,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "IPTVMac",
+            "short_description": "Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/Goelir/IPTVMac",
+            "icon_url": "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/01-live.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/02-search.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/03-movies.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/06-pip.jpg"
+            ],
+            "official_site": "https://goelir.github.io/IPTVMac/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
