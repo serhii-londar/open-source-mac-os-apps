@@ -15080,6 +15080,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cove",
+            "short_description": "Native macOS composer, session sidebar and diff viewer for Claude Code and Codex, available as an Apple Silicon preview.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/huyanxius/Cove",
+            "icon_url": "https://raw.githubusercontent.com/huyanxius/Cove/v0.1.0/docs/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://huyanxius.github.io/Cove/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
