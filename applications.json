@@ -15080,6 +15080,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Profiley",
+            "short_description": "Opens each link in the right browser profile, asking once per site and remembering the choice.",
+            "categories": [
+                "browser",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/kamal0808/profiley",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kamal0808/profiley/main/docs/picker.png"
+            ],
+            "official_site": "https://profiley.topc.social",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
