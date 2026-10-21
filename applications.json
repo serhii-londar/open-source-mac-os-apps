@@ -15080,6 +15080,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Shiyin",
+            "short_description": "Meeting notes app that records Zoom, Meet and Teams without a bot, transcribes on-device with whisper.cpp, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT.",
+            "categories": [
+                "notes",
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/juinwei7/Shiyin",
+            "icon_url": "https://raw.githubusercontent.com/juinwei7/Shiyin/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/juinwei7/Shiyin/main/docs/images/en/summary.png",
+                "https://raw.githubusercontent.com/juinwei7/Shiyin/main/docs/images/en/transcript.png",
+                "https://raw.githubusercontent.com/juinwei7/Shiyin/main/docs/images/en/recording.png"
+            ],
+            "official_site": "https://shiyin.weibuilds.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
