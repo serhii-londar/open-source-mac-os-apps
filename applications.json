@@ -15080,6 +15080,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Dayside",
+            "short_description": "Menu bar world clock that paints each city's row in its real sky color and finds meeting times across time zones.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/ninondev/Dayside",
+            "icon_url": "https://raw.githubusercontent.com/ninondev/Dayside/main/Dayside/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ninondev/Dayside/main/.github/readme/dayside-hero-en.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
