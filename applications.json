@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FinderRight",
+            "short_description": "Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/funny-dog/FinderRight",
+            "icon_url": "https://raw.githubusercontent.com/funny-dog/FinderRight/main/website/dist/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/funny-dog/FinderRight/main/docs/images/demo.gif",
+                "https://raw.githubusercontent.com/funny-dog/FinderRight/main/docs/images/menu-new-file.png",
+                "https://raw.githubusercontent.com/funny-dog/FinderRight/main/docs/images/cut-badge.png"
+            ],
+            "official_site": "https://finderright.erhuerhu.dpdns.org/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
