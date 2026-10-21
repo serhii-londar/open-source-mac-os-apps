@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS menu bar app to organize apps and websites into groups, with per-group Dock icons and keyboard shortcuts.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ercanatay/cybokron-dock-groups",
+            "title": "Cybokron Dock Groups",
+            "icon_url": "https://cybokron.com/img/dock-groups/icon.webp",
+            "screenshots": [
+                "https://cybokron.com/img/dock-groups/popup.webp",
+                "https://cybokron.com/img/dock-groups/groups-window.webp"
+            ],
+            "official_site": "https://cybokron.com/dock-groups/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
