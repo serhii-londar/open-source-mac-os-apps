@@ -15168,6 +15168,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Earnote",
+            "short_description": "Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model.",
+            "categories": [
+                "notes",
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/louiskl/Earnote",
+            "icon_url": "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png",
+                "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png"
+            ],
+            "official_site": "https://earnote.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
