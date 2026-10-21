@@ -15240,6 +15240,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AI Switcher",
+            "short_description": "Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/burakdede/aisw-desktop",
+            "icon_url": "https://aiswitcher.dev/ai-switcher-desktop-icon.png",
+            "screenshots": [
+                "https://aiswitcher.dev/media/desktop-overview.png",
+                "https://aiswitcher.dev/media/desktop-profiles.png",
+                "https://aiswitcher.dev/media/desktop-workspace-rules.png"
+            ],
+            "official_site": "https://aiswitcher.dev/desktop/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
