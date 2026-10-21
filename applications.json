@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ccx",
+            "short_description": "Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit.",
+            "categories": [
+                "menubar",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/aaronwong1999/ccx",
+            "icon_url": "https://raw.githubusercontent.com/aaronwong1999/ccx/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aaronwong1999/ccx/main/docs/hero.png",
+                "https://raw.githubusercontent.com/aaronwong1999/ccx/main/docs/demo.png"
+            ],
+            "official_site": "https://github.com/aaronwong1999/ccx",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
