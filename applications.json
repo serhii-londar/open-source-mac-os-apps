@@ -15151,6 +15151,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "teebe",
+            "short_description": "Shows every git worktree across your repos, marks which ones a coding agent (Claude Code, Codex) is working in, and live-diffs the files they change.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/klein-t/teebe",
+            "icon_url": "https://raw.githubusercontent.com/klein-t/teebe/main/Sources/Teebe/Resources/teebe-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-light.png",
+                "https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-dark.png"
+            ],
+            "official_site": "https://teebe.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
