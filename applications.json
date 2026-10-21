@@ -15080,6 +15080,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Yetda",
+            "short_description": "Menu bar app that pastes a screenshot straight into a coding agent such as Claude Code or Codex, masking API keys and passwords on-device first.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/woonmayer/yetda",
+            "icon_url": "https://raw.githubusercontent.com/woonmayer/yetda/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/woonmayer/yetda/main/assets/demo.gif"
+            ],
+            "official_site": "https://yetda.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
