@@ -15080,6 +15080,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NotchHub",
+            "short_description": "Turns the MacBook notch into a Claude Code companion with a file shelf, clipboard history and a pixel mascot.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/bounjee/NotchHub",
+            "icon_url": "https://raw.githubusercontent.com/bounjee/NotchHub/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bounjee/NotchHub/main/docs/open-panel.png",
+                "https://raw.githubusercontent.com/bounjee/NotchHub/main/docs/open-shelf.png",
+                "https://raw.githubusercontent.com/bounjee/NotchHub/main/docs/open-clipboard.png"
+            ],
+            "official_site": "https://github.com/bounjee/NotchHub",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
