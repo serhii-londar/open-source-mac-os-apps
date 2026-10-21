@@ -15080,6 +15080,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Overdrive is a music player for macOS. It plays your music folders with no database. It has synced lyrics, the same volume for all songs, Last.fm scrobbles, and YouTube music videos.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/skhaz/overdrive",
+            "title": "Overdrive",
+            "icon_url": "https://raw.githubusercontent.com/skhaz/overdrive/main/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/skhaz/overdrive/main/.github/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
