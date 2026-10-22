@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Skillshare App",
+            "short_description": "Desktop app for the skillshare CLI that keeps AI coding agent skills in sync across tools, with a menu bar tray, auto-sync and update checks.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/runkids/skillshare-app",
+            "icon_url": "https://raw.githubusercontent.com/runkids/skillshare-app/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/runkids/skillshare-app/main/docs/images/dashboard.png"
+            ],
+            "official_site": "https://skillshare.runkids.cc",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
