@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Kumquat",
+            "short_description": "Menu bar file converter: drag files, tap Shift and drop them on a wheel to convert images, audio, video and documents, compress, OCR, trim and annotate.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "images",
+                "video"
+            ],
+            "repo_url": "https://github.com/TheAlexRay/kumquat",
+            "icon_url": "https://raw.githubusercontent.com/TheAlexRay/kumquat/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/TheAlexRay/kumquat/main/docs/screens/palette-fan-root.png",
+                "https://raw.githubusercontent.com/TheAlexRay/kumquat/main/docs/screens/editor-annotate.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
