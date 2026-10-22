@@ -3535,6 +3535,23 @@
             ]
         },
         {
+            "title": "Borne",
+            "short_description": "Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D…) in the spirit of MAMEUI, with MAME and the game engines included.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/gpasa/borne",
+            "icon_url": "https://raw.githubusercontent.com/gpasa/borne/main/website/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gpasa/borne/main/website/images/borne-arcade.jpg",
+                "https://raw.githubusercontent.com/gpasa/borne/main/website/images/borne-jeux-pc.jpg"
+            ],
+            "official_site": "https://borne.pasahome.org",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Re-implementation of RollerCoaster Tycoon 2. ",
             "categories": [
                 "games"
