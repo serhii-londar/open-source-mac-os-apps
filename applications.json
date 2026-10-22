@@ -13617,6 +13617,24 @@
             ]
         },
         {
+            "short_description": "Fast, native email client with a Rust mail engine and a Qt 6 / QML interface: Smart Inbox, unified inbox, Undo Send and Send Later.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/karem505/rusty-inbox",
+            "title": "Rusty Inbox",
+            "icon_url": "https://raw.githubusercontent.com/karem505/rusty-inbox/main/app/icons/app.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/karem505/rusty-inbox/main/docs/screenshots/smart-inbox.jpg",
+                "https://raw.githubusercontent.com/karem505/rusty-inbox/main/docs/screenshots/reader.jpg",
+                "https://raw.githubusercontent.com/karem505/rusty-inbox/main/docs/screenshots/composer.jpg"
+            ],
+            "official_site": "https://aboelmakarem.pro/apps/rusty-inbox",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "title": "FutureOS",
             "short_description": "One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.",
             "categories": [
