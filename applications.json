@@ -15082,6 +15082,204 @@
             ]
         },
         {
+            "title": "IPTVMac",
+            "short_description": "Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/Goelir/IPTVMac",
+            "icon_url": "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/01-live.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/02-search.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/03-movies.jpg",
+                "https://raw.githubusercontent.com/Goelir/IPTVMac/main/docs/screenshots/06-pip.jpg"
+            ],
+            "official_site": "https://goelir.github.io/IPTVMac/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Makes Cmd+Tab restore minimized and closed windows with zero permissions.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Feng6611/mac-command-reopen",
+            "title": "Command Reopen",
+            "icon_url": "https://raw.githubusercontent.com/Feng6611/mac-command-reopen/main/CmdReopen/Resources/Assets.xcassets/AppIcon.appiconset/CommandTab-iOS-Default-1024x1024@1x.png",
+            "screenshots": [],
+            "official_site": "https://commandreopen.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Haze",
+            "short_description": "Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar.",
+            "categories": [
+                "wallpaper",
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/adrbn/haze",
+            "icon_url": "https://raw.githubusercontent.com/adrbn/haze/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adrbn/haze/main/assets/demo.webp"
+            ],
+            "official_site": "https://github.com/adrbn/haze",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Device Hub Pro",
+            "short_description": "Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.",
+            "categories": [
+                "development",
+                "ios--macos",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gitemre/device-hub-pro",
+            "icon_url": "https://raw.githubusercontent.com/gitemre/device-hub-pro/main/docs/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gitemre/device-hub-pro/main/docs/assets/hero.png"
+            ],
+            "official_site": "https://github.com/gitemre/device-hub-pro",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "teebe",
+            "short_description": "Shows every git worktree across your repos, marks which ones a coding agent (Claude Code, Codex) is working in, and live-diffs the files they change.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/klein-t/teebe",
+            "icon_url": "https://raw.githubusercontent.com/klein-t/teebe/main/Sources/Teebe/Resources/teebe-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-light.png",
+                "https://raw.githubusercontent.com/klein-t/teebe/main/assets/teebe-dark.png"
+            ],
+            "official_site": "https://teebe.io",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Earnote",
+            "short_description": "Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model.",
+            "categories": [
+                "notes",
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/louiskl/Earnote",
+            "icon_url": "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png",
+                "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png"
+            ],
+            "official_site": "https://earnote.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "inlaut",
+            "short_description": "Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tobymarks/inlaut",
+            "icon_url": "https://inlaut.de/icon-512.png",
+            "screenshots": [
+                "https://inlaut.de/screens/einstellungen.png"
+            ],
+            "official_site": "https://inlaut.de",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "EK Bridge",
+            "short_description": "Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/bereciartua/ek-bridge",
+            "icon_url": "https://raw.githubusercontent.com/bereciartua/ek-bridge/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/overview-light.png",
+                "https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/approval-panel-light.png",
+                "https://raw.githubusercontent.com/bereciartua/ek-bridge/main/docs/images/access-light.png"
+            ],
+            "official_site": "https://github.com/bereciartua/ek-bridge",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Vane",
+            "short_description": "Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/notnaki/vane",
+            "icon_url": "https://raw.githubusercontent.com/notnaki/vane/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-spaces.png",
+                "https://raw.githubusercontent.com/notnaki/vane/main/docs/media/vane-display-split.png"
+            ],
+            "official_site": "https://notnaki.github.io/vane/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "AI Switcher",
+            "short_description": "Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/burakdede/aisw-desktop",
+            "icon_url": "https://aiswitcher.dev/ai-switcher-desktop-icon.png",
+            "screenshots": [
+                "https://aiswitcher.dev/media/desktop-overview.png",
+                "https://aiswitcher.dev/media/desktop-profiles.png",
+                "https://aiswitcher.dev/media/desktop-workspace-rules.png"
+            ],
+            "official_site": "https://aiswitcher.dev/desktop/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
+            "title": "Reprise",
+            "short_description": "Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nikiomori/reprise",
+            "icon_url": "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/library-light.png",
+                "https://raw.githubusercontent.com/nikiomori/reprise/main/docs/media/island-recording-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Perch",
             "short_description": "A tiny bird in your Mac's notch that nudges you to take 30-second stretch breaks while coding agents work, tracks their status, and visualizes your focus rhythm.",
             "categories": [
