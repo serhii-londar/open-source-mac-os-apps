@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Voltip",
+            "short_description": "Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/sunerpy/voltip",
+            "icon_url": "https://raw.githubusercontent.com/sunerpy/voltip/main/apps/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sunerpy/voltip/main/docs/site/public/screens/home-en-light.webp",
+                "https://raw.githubusercontent.com/sunerpy/voltip/main/docs/site/public/screens/overlay-inserted-en-light.webp"
+            ],
+            "official_site": "https://voltip.firlab.app/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
