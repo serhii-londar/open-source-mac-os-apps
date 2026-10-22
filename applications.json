@@ -6555,6 +6555,24 @@
             ]
         },
         {
+            "short_description": "Menu bar utility that prevents idle sleep with timed sessions and a battery cutoff.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rekurt/Mac-Coffee",
+            "title": "Mac Coffee",
+            "icon_url": "https://raw.githubusercontent.com/rekurt/Mac-Coffee/main/site/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rekurt/Mac-Coffee/main/docs/images/panel-en.png",
+                "https://raw.githubusercontent.com/rekurt/Mac-Coffee/main/docs/images/settings-ru.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ",
             "categories": [
                 "system"
