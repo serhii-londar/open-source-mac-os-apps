@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "GlideDeck",
+            "short_description": "Zooming presentations on an infinite canvas, with PowerPoint import and export.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nirlotan/GlideDeck",
+            "icon_url": "https://raw.githubusercontent.com/nirlotan/GlideDeck/main/assets/icon/glidedeck-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nirlotan/GlideDeck/main/docs/screenshots/editor.png",
+                "https://raw.githubusercontent.com/nirlotan/GlideDeck/main/docs/screenshots/carousel.png",
+                "https://raw.githubusercontent.com/nirlotan/GlideDeck/main/docs/screenshots/presenter.png"
+            ],
+            "official_site": "https://github.com/nirlotan/GlideDeck",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
