@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ClawTank",
+            "short_description": "RDP server for macOS: connect to your Mac, including a headless Mac mini, from Windows App, mstsc, iPad or FreeRDP with hardware H.264 video, a virtual display sized to the client window, audio, clipboard and file copy.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/HMAKT99/ClawTank",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HMAKT99/ClawTank/main/docs/media/settings.png",
+                "https://raw.githubusercontent.com/HMAKT99/ClawTank/main/docs/media/connect-guide.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
