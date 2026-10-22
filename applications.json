@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Scrap",
+            "short_description": "Menu bar scratchpad with a fixed set of pads kept as plain Markdown files, live Markdown styling and search across all pads.",
+            "categories": [
+                "notes",
+                "menubar",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/Anubhavdxt/scrap",
+            "icon_url": "https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-hero.png",
+                "https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-search.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
