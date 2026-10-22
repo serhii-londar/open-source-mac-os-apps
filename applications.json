@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Perch",
+            "short_description": "A tiny bird in your Mac's notch that nudges you to take 30-second stretch breaks while coding agents work, tracks their status, and visualizes your focus rhythm.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/mossfinch/perch",
+            "icon_url": "https://raw.githubusercontent.com/mossfinch/perch/main/perch-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mossfinch/perch/main/perch-demo.gif",
+                "https://raw.githubusercontent.com/mossfinch/perch/main/perch-card.png"
+            ],
+            "official_site": "https://github.com/mossfinch/perch",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
