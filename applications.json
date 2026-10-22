@@ -15087,14 +15087,14 @@
                 "finder",
                 "utilities"
             ],
-            "repo_url": "https://github.com/justadityaraj/foldout-folder-preview",
-            "title": "Foldout",
+            "repo_url": "https://github.com/justadityaraj/folderglass",
+            "title": "Folderglass",
             "icon_url": "https://media.stallioncognitive.com/file/dev-site/foldout-icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/justadityaraj/foldout-folder-preview/main/docs/repo-readme.png",
-                "https://raw.githubusercontent.com/justadityaraj/foldout-folder-preview/main/docs/photos.png"
+                "https://raw.githubusercontent.com/justadityaraj/folderglass/main/docs/repo-readme.png",
+                "https://raw.githubusercontent.com/justadityaraj/folderglass/main/docs/photos.png"
             ],
-            "official_site": "https://dev.adityarajsingh.com/foldout/",
+            "official_site": "https://dev.adityarajsingh.com/folderglass/",
             "languages": [
                 "swift"
             ]
