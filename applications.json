@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "NetworkMonitor",
+            "short_description": "Live network speed in the menu bar, a per-app breakdown of your data usage, and automatic updates paused on hotspots.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/kevinabouhanna/NetworkMonitor",
+            "icon_url": "https://raw.githubusercontent.com/kevinabouhanna/NetworkMonitor/main/Resources/README/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kevinabouhanna/NetworkMonitor/main/Resources/README/screenshot.png",
+                "https://raw.githubusercontent.com/kevinabouhanna/NetworkMonitor/main/Resources/README/speed-test.png"
+            ],
+            "official_site": "https://kevinabouhanna.github.io/NetworkMonitor/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
