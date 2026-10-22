@@ -15278,6 +15278,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Mosaic",
+            "short_description": "The Mosaic screen saver from Mac OS X Leopard, rebuilt for macOS 15 and later, on your own photographs.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/vastunghia/mosaic-screensaver-revived",
+            "icon_url": "https://raw.githubusercontent.com/vastunghia/mosaic-screensaver-revived/main/docs/media/icon.png",
+            "screenshots": [
+                "https://vastunghia.github.io/mosaic-screensaver-revived/media/poster.jpg"
+            ],
+            "official_site": "https://vastunghia.github.io/mosaic-screensaver-revived/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
