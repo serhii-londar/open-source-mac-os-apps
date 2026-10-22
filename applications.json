@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lumi",
+            "short_description": "Ask from any app by voice or text and get the answer on screen, from your own Claude Code.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/loomtable/lumi",
+            "icon_url": "https://lumi.loomtable.com/assets/favicon/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/loomtable/lumi/main/docs/media/lumi-hero.gif"
+            ],
+            "official_site": "https://lumi.loomtable.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
