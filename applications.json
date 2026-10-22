@@ -12244,6 +12244,24 @@
             ]
         },
         {
+            "short_description": "Teleprompter and recorder for talking-head videos. An AI agent (Claude Code, Codex or pi) cuts the edit and drafts the posts.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/marvtub/takes-public",
+            "title": "Takes",
+            "icon_url": "https://raw.githubusercontent.com/marvtub/takes-public/main/assets/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/marvtub/takes-public/main/docs/gallery/1-main.jpg",
+                "https://raw.githubusercontent.com/marvtub/takes-public/main/docs/gallery/2-record.jpg",
+                "https://raw.githubusercontent.com/marvtub/takes-public/main/docs/gallery/4-edit.jpg"
+            ],
+            "official_site": "https://gettakes.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "SSH Tunnel Manager",
             "short_description": "Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.",
             "categories": [
