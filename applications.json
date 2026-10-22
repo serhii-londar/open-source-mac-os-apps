@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "DockFlip",
+            "short_description": "Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/geezery/DockFlip",
+            "icon_url": "https://geezery.github.io/DockFlip/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-dock.gif",
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-flip.gif",
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-snap.gif"
+            ],
+            "official_site": "https://geezery.github.io/DockFlip/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
