@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Godmode Bot",
+            "short_description": "Turns your Claude subscription into persistent AI agents that do computer work in their own browser with your logins, with a vault that fills passwords and 2FA codes without the AI seeing them.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/codextde/godmode-bot",
+            "icon_url": "https://raw.githubusercontent.com/codextde/godmode-bot/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/chat.png",
+                "https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/agents.png",
+                "https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/tasks.png"
+            ],
+            "official_site": "https://usegodmode.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
