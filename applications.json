@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Dopamine",
+            "short_description": "Keep-awake power utility with closed-lid display backlight cutoff for Apple Silicon.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/UniversalSDK/Dopamine",
+            "icon_url": "https://dopamine.33rd.pro/assets/icon.jpg",
+            "screenshots": [
+                "https://dopamine.33rd.pro/assets/icon.jpg"
+            ],
+            "official_site": "https://dopamine.33rd.pro",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
