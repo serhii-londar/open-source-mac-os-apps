@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "LightsOut",
+            "short_description": "Menu bar app that turns off the screen and keyboard light and locks the Mac in one click, while builds, downloads and AI agents keep running.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sickpuppy1/lightsout",
+            "icon_url": "https://raw.githubusercontent.com/sickpuppy1/lightsout/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sickpuppy1/lightsout/main/assets/settings-light.png",
+                "https://raw.githubusercontent.com/sickpuppy1/lightsout/main/assets/settings-dark.png"
+            ],
+            "official_site": "https://github.com/sickpuppy1/lightsout",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
