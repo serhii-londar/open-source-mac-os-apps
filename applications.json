@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "FinchGram",
+            "short_description": "Unofficial Telegram client built on TDLib, with a screenshot tool, WebDAV downloads and opt-in MCP access for AI assistants.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/FinchGram/FinchGram",
+            "icon_url": "https://raw.githubusercontent.com/FinchGram/FinchGram/main/ui/logo/png/FinchGram-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FinchGram/FinchGram/main/docs/screenshots/workbench-light-chats.png",
+                "https://raw.githubusercontent.com/FinchGram/FinchGram/main/docs/screenshots/workbench-light-shot-annotated.png"
+            ],
+            "official_site": "https://www.finchgram.com",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
