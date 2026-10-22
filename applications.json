@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SpaceMap",
+            "short_description": "Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/renkagod/spacemap",
+            "icon_url": "https://raw.githubusercontent.com/renkagod/spacemap/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/renkagod/spacemap/main/docs/screenshots/en/map.png",
+                "https://raw.githubusercontent.com/renkagod/spacemap/main/docs/screenshots/en/types.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
