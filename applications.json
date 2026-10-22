@@ -14876,6 +14876,16 @@
             ]
         },
         {
+            "short_description": "Native macOS menu bar battery monitor with live power-flow visualization, connected-device battery tracking, charge-limit status, and desktop widgets.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/Mohit-Sharma-ML/voltio",
+            "title": "Voltio",
+            "icon_url": "https://raw.githubusercontent.com/Mohit-Sharma-ML/voltio/main/Resources/AppIcon-1024.png",
+            "screenshots": [],
+            "official_site": "https://github.com/Mohit-Sharma-ML/voltio",
             "title": "Ravenpass",
             "short_description": "Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.",
             "categories": [
