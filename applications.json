@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Liubai",
+            "short_description": "Markdown editor that formats as you type and keeps your files as plain .md, with math, Mermaid diagrams, and PDF and Word export.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/echoVic/liubai",
+            "icon_url": "https://raw.githubusercontent.com/echoVic/liubai/main/resources/icon.png",
+            "screenshots": [
+                "https://liubai.echovic.com/assets/liubai/write-light.png",
+                "https://liubai.echovic.com/assets/liubai/split-light.png"
+            ],
+            "official_site": "https://liubai.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
