@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Unterm",
+            "short_description": "GPU-accelerated terminal that runs a local MCP server so AI coding agents can open panes, run commands and read the screen, and shows the state of agents running in its panes.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/zhitongblog/unterm",
+            "icon_url": "https://unterm.app/assets/icon-512.png",
+            "screenshots": [
+                "https://unterm.app/assets/shots/hero-macos-1000.webp",
+                "https://unterm.app/assets/shots/inbox-macos-1000.webp"
+            ],
+            "official_site": "https://unterm.app",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
