@@ -15278,6 +15278,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Meridian",
+            "short_description": "Open-source Arc-style browser with spaces, one-click Arc import (including logins) and a built-in MCP server so AI coding agents like Claude Code or Codex can drive it.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/Undermove/meridian-browser",
+            "icon_url": "https://undermove.github.io/meridian-browser/icon.png",
+            "screenshots": [
+                "https://undermove.github.io/meridian-browser/screenshot.jpg"
+            ],
+            "official_site": "https://undermove.github.io/meridian-browser/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
