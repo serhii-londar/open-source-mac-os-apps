@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Sixty",
+            "short_description": "Break reminder that locks the screen for a 60-second stand-up break every hour, with no Skip button, and never during a call.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/leplik/sixty",
+            "icon_url": "https://raw.githubusercontent.com/leplik/sixty/main/site/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/leplik/sixty/main/docs/media/lock.png",
+                "https://raw.githubusercontent.com/leplik/sixty/main/docs/media/call.png"
+            ],
+            "official_site": "https://leplik.github.io/sixty/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
