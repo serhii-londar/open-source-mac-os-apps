@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SpotAsk",
+            "short_description": "One hotkey to ask any AI from the Mac menu bar: in-app answers with your own API key, or smart routing to web AI, CLI agents and desktop apps.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/shiquda/SpotAsk",
+            "icon_url": "https://raw.githubusercontent.com/shiquda/SpotAsk/main/images/spotask-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shiquda/SpotAsk/main/images/spotask-hero.png",
+                "https://raw.githubusercontent.com/shiquda/SpotAsk/main/images/spotask-chat.png"
+            ],
+            "official_site": "https://shiquda.github.io/SpotAsk/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
