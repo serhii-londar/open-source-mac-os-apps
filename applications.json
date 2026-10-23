@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MD QuickLook",
+            "short_description": "Native Quick Look extension for Markdown with GFM, syntax highlighting, math, Mermaid diagrams and Finder thumbnails, without a web engine.",
+            "categories": [
+                "utilities",
+                "markdown"
+            ],
+            "repo_url": "https://github.com/armamut/md-quicklook",
+            "icon_url": "https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-light.png",
+                "https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-dark.png"
+            ],
+            "official_site": "https://github.com/armamut/md-quicklook",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
