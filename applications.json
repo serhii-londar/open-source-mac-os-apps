@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MomentStays",
+            "short_description": "Convert Android Motion Photos to Apple Live Photos and back, keeping the original video, audio and HDR gain maps.",
+            "categories": [
+                "images",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/LinoFish/MomentStays",
+            "icon_url": "https://raw.githubusercontent.com/LinoFish/MomentStays/main/docs/branding/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/LinoFish/MomentStays/main/docs/branding/social-preview.png"
+            ],
+            "official_site": "https://linofish.github.io/MomentStays/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
