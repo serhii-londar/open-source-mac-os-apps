@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Scrolling window manager in the style of niri and PaperWM: windows are columns on a strip you swipe or scroll through.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/majnioui/SlideScroll",
+            "title": "SlideScroll",
+            "icon_url": "https://slidescroll.majnioui.me/assets/icon-256.png",
+            "screenshots": [
+                "https://slidescroll.majnioui.me/assets/slidescroll-demo.gif",
+                "https://slidescroll.majnioui.me/assets/settings-general.webp",
+                "https://slidescroll.majnioui.me/assets/settings-shortcuts.webp"
+            ],
+            "official_site": "https://slidescroll.majnioui.me",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
