@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "PitchTap",
+            "short_description": "Menu bar app that changes the key of any app's audio live, such as Spotify or Apple Music, without changing the tempo.",
+            "categories": [
+                "audio",
+                "music",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/gkudva96/pitchtap",
+            "icon_url": "https://raw.githubusercontent.com/gkudva96/pitchtap/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gkudva96/pitchtap/main/docs/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "cpp",
+                "c"
+            ]
         }
     ]
 }
