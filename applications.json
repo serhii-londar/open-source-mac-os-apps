@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SheepTerm",
+            "short_description": "SSH, serial console and local shell terminal for network engineers, with vendor-aware output highlighting, split panes, saved hosts and session logs.",
+            "categories": [
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/bestonehxh/SheepTerm",
+            "icon_url": "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/docs/images/hero.webp",
+                "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/docs/images/highlight.webp"
+            ],
+            "official_site": "https://sheepterm.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
