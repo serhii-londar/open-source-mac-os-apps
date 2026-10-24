@@ -15278,6 +15278,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Leaf",
+            "short_description": "Minimal EPUB, MOBI and AZW3 reader that opens files straight from Finder, with no library.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/chengffei/leaf",
+            "icon_url": "https://raw.githubusercontent.com/chengffei/leaf/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chengffei/leaf/main/docs/images/reading.png"
+            ],
+            "official_site": "https://chengffei.github.io/leaf/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
