@@ -15280,19 +15280,19 @@
             ]
         },
         {
-            "title": "Clippo",
+            "title": "Kurenai",
             "short_description": "Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted.",
             "categories": [
                 "productivity",
                 "menubar"
             ],
-            "repo_url": "https://github.com/Lorder19/clippo",
-            "icon_url": "https://raw.githubusercontent.com/Lorder19/clippo/main/docs/icon.png",
+            "repo_url": "https://github.com/Lorder19/kurenai",
+            "icon_url": "https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/Lorder19/clippo/main/docs/screenshots/history.png",
-                "https://raw.githubusercontent.com/Lorder19/clippo/main/docs/screenshots/queue.png"
+                "https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/history.png",
+                "https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/queue.png"
             ],
-            "official_site": "https://lorder19.github.io/clippo/",
+            "official_site": "https://lorder19.github.io/kurenai/",
             "languages": [
                 "swift"
             ]
