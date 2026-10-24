@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MenuBarMijia",
+            "short_description": "Menu bar app to control Xiaomi Mi Home devices by voice or keyboard, via Mi Cloud QR login or Home Assistant.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/jryang1997/MenuBarMijia",
+            "icon_url": "https://raw.githubusercontent.com/jryang1997/MenuBarMijia/main/docs/assets/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jryang1997/MenuBarMijia/main/docs/assets/panel.png",
+                "https://raw.githubusercontent.com/jryang1997/MenuBarMijia/main/docs/assets/menubar.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
