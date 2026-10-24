@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Clipstack",
+            "short_description": "Clipboard history for your Mac with search, type filters, pins and optional iCloud sync.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chiranjeebhub/ClipStack",
+            "icon_url": "https://raw.githubusercontent.com/chiranjeebhub/ClipStack/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chiranjeebhub/ClipStack/main/docs/images/screenshots/1-panel.jpg",
+                "https://raw.githubusercontent.com/chiranjeebhub/ClipStack/main/docs/images/screenshots/3-pinned.jpg"
+            ],
+            "official_site": "https://chiranjeebhub.github.io/clipstack-site/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
