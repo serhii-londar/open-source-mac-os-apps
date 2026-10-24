@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Ledge",
+            "short_description": "Turns the MacBook notch into a status area for now playing, a timer, your next meeting, weather, notes and Keep Awake.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/egemertbalcik/Ledge",
+            "icon_url": "https://ledgeapp.dev/img/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/egemertbalcik/Ledge/main/docs/media/music.gif",
+                "https://raw.githubusercontent.com/egemertbalcik/Ledge/main/docs/media/calendar.gif",
+                "https://raw.githubusercontent.com/egemertbalcik/Ledge/main/docs/media/notes.gif"
+            ],
+            "official_site": "https://ledgeapp.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
