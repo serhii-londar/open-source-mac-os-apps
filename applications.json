@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Clip",
+            "short_description": "Menu bar screenshot tool: double-tap ⌘ to capture, annotate, record the region to MP4/GIF, and OCR text to the clipboard.",
+            "categories": [
+                "images",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/chengffei/clip",
+            "icon_url": "https://raw.githubusercontent.com/chengffei/clip/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chengffei/clip/main/docs/images/hero.png"
+            ],
+            "official_site": "https://chengffei.github.io/clip/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
