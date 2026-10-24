@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "GhostMouse",
+            "short_description": "Menu bar mouse mover and awake utility with invisible stealth mode, instant input auto-deactivation, work schedules, and countdown timers.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/joeystdio/GhostMouse",
+            "icon_url": "https://raw.githubusercontent.com/joeystdio/GhostMouse/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joeystdio/GhostMouse/main/assets/screenshot.png"
+            ],
+            "official_site": "https://joeystdio.github.io/GhostMouse/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
