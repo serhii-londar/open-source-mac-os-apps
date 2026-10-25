@@ -11593,7 +11593,7 @@
         },
         {
             "title": "Bzz",
-            "short_description": "Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like \"ghbdtn\" and replaces with \"привет\" on the fly. Open-source replacement for the abandoned Punto Switcher.",
+            "short_description": "Automatic keyboard layout switcher (RU\u2194EN). Detects mistyped words like \"ghbdtn\" and replaces with \"\u043f\u0440\u0438\u0432\u0435\u0442\" on the fly. Open-source replacement for the abandoned Punto Switcher.",
             "categories": [
                 "utilities",
                 "productivity"
@@ -11610,7 +11610,7 @@
         },
         {
             "title": "WhatCable",
-            "short_description": "Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.",
+            "short_description": "Tells you, in plain English, what each USB-C cable plugged into your Mac can do \u2014 speed, power, and e-marker info \u2014 from the menu bar.",
             "categories": [
                 "menubar",
                 "utilities"
@@ -11645,7 +11645,7 @@
         },
         {
             "title": "OpenQuack",
-            "short_description": "Local-only voice dictation for macOS — press a hotkey, speak, and the transcript is pasted at the cursor. Runs WhisperKit on Apple Silicon with no telemetry.",
+            "short_description": "Local-only voice dictation for macOS \u2014 press a hotkey, speak, and the transcript is pasted at the cursor. Runs WhisperKit on Apple Silicon with no telemetry.",
             "categories": [
                 "utilities",
                 "menubar"
@@ -11703,7 +11703,7 @@
         },
         {
             "title": "Notepad++ for Mac",
-            "short_description": "Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.",
+            "short_description": "Native macOS port of the Notepad++ code editor \u2014 no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.",
             "categories": [
                 "editors",
                 "text",
@@ -11935,7 +11935,7 @@
         },
         {
             "title": "TopOff",
-            "short_description": "Menu bar app for Homebrew — a full beer mug when packages are fresh, half a mug when it's time to refill.",
+            "short_description": "Menu bar app for Homebrew \u2014 a full beer mug when packages are fresh, half a mug when it's time to refill.",
             "categories": [
                 "menubar"
             ],
@@ -12035,7 +12035,7 @@
         },
         {
             "title": "Lurar",
-            "short_description": "Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.",
+            "short_description": "Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap \u2014 no virtual audio driver.",
             "categories": [
                 "audio",
                 "menubar"
@@ -12091,7 +12091,7 @@
         },
         {
             "title": "Presspeech",
-            "short_description": "Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.",
+            "short_description": "Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release \u2014 the transcript pastes at the cursor in about 100 ms, fully on-device.",
             "categories": [
                 "utilities",
                 "menubar"
@@ -12107,7 +12107,7 @@
         },
         {
             "title": "Claude Usage",
-            "short_description": "Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits.",
+            "short_description": "Menu bar app that shows your Claude Code usage \u2014 current session, weekly, Sonnet, and credits.",
             "categories": [
                 "menubar"
             ],
@@ -12209,7 +12209,7 @@
             ]
         },
         {
-            "short_description": "Fast, private, developer-first clipboard manager with type-aware history, ⌘K transforms, and history encrypted at rest.",
+            "short_description": "Fast, private, developer-first clipboard manager with type-aware history, \u2318K transforms, and history encrypted at rest.",
             "categories": [
                 "productivity",
                 "utilities"
@@ -12625,7 +12625,7 @@
         },
         {
             "title": "Logue",
-            "short_description": "Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes — runs entirely on Apple Silicon.",
+            "short_description": "Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes \u2014 runs entirely on Apple Silicon.",
             "categories": [
                 "notes",
                 "productivity"
@@ -13811,7 +13811,7 @@
         },
         {
             "title": "OmniMac",
-            "short_description": "Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.",
+            "short_description": "Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, \u2318Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner.",
             "categories": [
                 "menubar",
                 "utilities",
@@ -13987,7 +13987,7 @@
                 "menubar"
             ],
             "repo_url": "https://github.com/sarrazola/dictamelo",
-            "title": "Dictámelo",
+            "title": "Dict\u00e1melo",
             "icon_url": "https://raw.githubusercontent.com/sarrazola/dictamelo/main/assets/logo-original.png",
             "screenshots": [],
             "official_site": "https://www.dictamelo.com/en",
@@ -15280,19 +15280,33 @@
             ]
         },
         {
-            "title": "GhostMouse",
-            "short_description": "Menu bar mouse mover and awake utility with invisible stealth mode, instant input auto-deactivation, work schedules, and countdown timers.",
+            "title": "PortRadar",
+            "short_description": "Menu bar localhost and developer port manager to monitor listening TCP ports, auto-detect frameworks, view live RAM/CPU, and kill stuck ports in 1 click.",
             "categories": [
+                "development",
                 "menubar",
-                "utilities",
-                "productivity"
+                "utilities"
             ],
-            "repo_url": "https://github.com/joeystdio/GhostMouse",
-            "icon_url": "https://raw.githubusercontent.com/joeystdio/GhostMouse/main/assets/icon.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/joeystdio/GhostMouse/main/assets/screenshot.png"
+            "repo_url": "https://github.com/joeystdio/PortRadar",
+            "icon_url": "https://raw.githubusercontent.com/joeystdio/PortRadar/main/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://joeystdio.github.io/PortRadar/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "PortRadar",
+            "short_description": "Menu bar localhost and developer port manager to monitor listening TCP ports, auto-detect frameworks, view live RAM/CPU, and kill stuck ports in 1 click.",
+            "categories": [
+                "development",
+                "menubar",
+                "utilities"
             ],
-            "official_site": "https://joeystdio.github.io/GhostMouse/",
+            "repo_url": "https://github.com/joeystdio/PortRadar",
+            "icon_url": "https://raw.githubusercontent.com/joeystdio/PortRadar/main/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://joeystdio.github.io/PortRadar/",
             "languages": [
                 "swift"
             ]
