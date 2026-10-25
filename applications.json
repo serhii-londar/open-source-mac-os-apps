@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Keyboard-first launcher, a Spotlight, Alfred and Raycast alternative with clipboard history, emoji picker, calculator, color picker and script commands.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/leoAnimesh/lodestar",
+            "title": "Lodestar",
+            "icon_url": "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/screenshots/launcher.png",
+                "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/screenshots/clipboard.png"
+            ],
+            "official_site": "https://leoanimesh.github.io/lodestar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
