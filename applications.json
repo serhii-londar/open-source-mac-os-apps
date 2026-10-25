@@ -3177,6 +3177,26 @@
             ]
         },
         {
+            "title": "OpenTypora",
+            "short_description": "Native Markdown editor built from scratch in AppKit and WKWebView, with inline live preview and byte-exact round-trip saves.",
+            "categories": [
+                "markdown",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/SingleTime/opentypora",
+            "icon_url": "https://raw.githubusercontent.com/SingleTime/opentypora/main/docs/opentypora-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SingleTime/opentypora/main/docs/opentypora-tabs.png",
+                "https://raw.githubusercontent.com/SingleTime/opentypora/main/docs/opentypora-live.png"
+            ],
+            "official_site": "https://github.com/SingleTime/opentypora",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
