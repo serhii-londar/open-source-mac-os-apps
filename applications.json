@@ -15287,12 +15287,12 @@
             ],
             "repo_url": "https://github.com/leoAnimesh/lodestar",
             "title": "Lodestar",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/icon.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/screenshots/launcher.png",
                 "https://raw.githubusercontent.com/leoAnimesh/lodestar/main/docs/screenshots/clipboard.png"
             ],
-            "official_site": "",
+            "official_site": "https://leoanimesh.github.io/lodestar/",
             "languages": [
                 "swift"
             ]
