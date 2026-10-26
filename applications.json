@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Krill",
+            "short_description": "Native Rust workspace for running AI coding agents such as Claude Code and Codex in parallel Git worktrees, with terminal sessions that survive app restarts.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/craftowen/krill",
+            "icon_url": "https://krill.page/icon-192.png",
+            "screenshots": [
+                "https://krill.page/app-screenshot-en.png"
+            ],
+            "official_site": "https://krill.page/en",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
