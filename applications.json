@@ -15278,6 +15278,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Novaframe Engine",
+            "short_description": "Open-source live wallpaper engine and runtime for interactive WebGL, shaders, and dynamic HTML5 canvases.",
+            "categories": [
+                "wallpaper",
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/novaframe-hq/novaframe-engine",
+            "icon_url": "https://raw.githubusercontent.com/novaframe-hq/novaframe-engine/main/src-tauri/icons/icon.png",
+            "screenshots": [],
+            "official_site": "https://www.novaframe.co.uk",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
