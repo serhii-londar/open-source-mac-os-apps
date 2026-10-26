@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tidymint",
+            "short_description": "Disk cleaner that only moves items to the Trash and checks whether your project scripts still reference a duplicate before removing it.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/HaiTrung-Workspace/tidymint",
+            "icon_url": "https://raw.githubusercontent.com/HaiTrung-Workspace/tidymint/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HaiTrung-Workspace/tidymint/main/docs/smart.jpg",
+                "https://raw.githubusercontent.com/HaiTrung-Workspace/tidymint/main/docs/dupes.jpg",
+                "https://raw.githubusercontent.com/HaiTrung-Workspace/tidymint/main/docs/lens.jpg"
+            ],
+            "official_site": "https://tidymint.app",
+            "languages": [
+                "swift"
+            ]
         }
-    ]
+]
 }
