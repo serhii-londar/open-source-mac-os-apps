@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Clipferry",
+            "short_description": "Shared clipboard between your Mac and Windows PCs over Wi-Fi, end-to-end encrypted, with searchable history and automatic expiry for copied passwords.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/bkrdmrcioglu/clipferry",
+            "icon_url": "https://raw.githubusercontent.com/bkrdmrcioglu/clipferry/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bkrdmrcioglu/clipferry/main/docs/screenshot.png",
+                "https://raw.githubusercontent.com/bkrdmrcioglu/clipferry/main/docs/pairing-and-settings.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
