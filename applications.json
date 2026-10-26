@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Sotto",
+            "short_description": "Meeting copilot that transcribes calls, answers questions mid-meeting and writes notes, using only the Apple Intelligence built into macOS.",
+            "categories": [
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/JiyauddinSaiyad/sotto",
+            "icon_url": "https://raw.githubusercontent.com/JiyauddinSaiyad/sotto/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JiyauddinSaiyad/sotto/main/docs/demo.gif"
+            ],
+            "official_site": "https://jiyauddinsaiyad.github.io/sotto/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
