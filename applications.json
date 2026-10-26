@@ -15278,6 +15278,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/vladsboev-web/SpatialAudio",
+            "title": "SpatialAudio",
+            "icon_url": "https://raw.githubusercontent.com/vladsboev-web/SpatialAudio/main/Resources/AppIcon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/vladsboev-web/SpatialAudio",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
