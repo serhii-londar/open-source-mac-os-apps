@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Unformat USB",
+            "short_description": "Recover a USB drive or memory card formatted by mistake, with its original folders, file names and dates (exFAT, FAT32, NTFS). Read-only, no size limits.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/aluhxp/unformat-usb",
+            "icon_url": "https://raw.githubusercontent.com/aluhxp/unformat-usb/main/packaging/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aluhxp/unformat-usb/main/docs/img/en/3-tree.png",
+                "https://raw.githubusercontent.com/aluhxp/unformat-usb/main/docs/img/en/5-done.png"
+            ],
+            "official_site": "https://aluhxp.github.io/unformat-usb/",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
