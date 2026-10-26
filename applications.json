@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Open-source Mac cleaner that uses AI to explain what each file is and whether it is safe to delete, with an uninstaller and a menu bar system monitor.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/black-robe-sanfeng/pika-clean",
+            "title": "Pika Clean",
+            "icon_url": "https://raw.githubusercontent.com/black-robe-sanfeng/pika-clean/main/website/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/black-robe-sanfeng/pika-clean/main/website/main.jpg"
+            ],
+            "official_site": "https://pikaclean.daoly.top",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
