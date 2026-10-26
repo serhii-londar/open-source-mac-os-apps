@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Eyeshift",
+            "short_description": "Moves keyboard focus to the screen, window or split pane you're looking at, using your webcam.",
+            "categories": [
+                "window-management",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/itssarthak/eyeshift",
+            "icon_url": "https://raw.githubusercontent.com/itssarthak/eyeshift/main/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/itssarthak/eyeshift/main/assets/social-preview.png"
+            ],
+            "official_site": "https://sarthakchhabra.com/eyeshift/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
