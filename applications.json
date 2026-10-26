@@ -15281,7 +15281,7 @@
         },
         {
             "title": "Orbit Play",
-            "short_description": "Remote Play client for jailbroken PS5 consoles that streams over the local network without a PSN sign-in.",
+            "short_description": "Remote Play client for jailbroken PS5 consoles that streams at home or over the internet without a PSN sign-in.",
             "categories": [
                 "games"
             ],
@@ -15289,12 +15289,14 @@
             "icon_url": "https://raw.githubusercontent.com/saawant12/orbit-play-ps5/main/assets/brand/orbit-play-icon.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/saawant12/orbit-play-ps5/main/assets/screenshots/0.4.0/01-main-menu.jpg",
+                "https://raw.githubusercontent.com/saawant12/orbit-play-ps5/main/assets/screenshots/0.5.0/16-connected-away.jpg",
                 "https://raw.githubusercontent.com/saawant12/orbit-play-ps5/main/assets/screenshots/0.2.0-beta.1/06-ready-to-play.jpg"
             ],
             "official_site": "https://orbitplay.dev",
             "languages": [
                 "python",
-                "c"
+                "c",
+                "rust"
             ]
         }
     ]
