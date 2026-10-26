@@ -15278,6 +15278,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cockpit",
+            "short_description": "Unified productivity heads-up display for macOS and iPadOS consolidating Calendar, Music, Notion, and Mail into a modular control surface.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Yvsleyen00941/Cockpit",
+            "icon_url": "https://raw.githubusercontent.com/Yvsleyen00941/Cockpit/main/icon.png",
+            "screenshots": [],
+            "official_site": "https://yorben.me",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
