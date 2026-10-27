@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Glint",
+            "short_description": "Screenshot tool that pixelates emails, IBANs, card numbers and API keys on-device before you share.",
+            "categories": [
+                "images",
+                "security"
+            ],
+            "repo_url": "https://github.com/brentc22/glint",
+            "icon_url": "https://raw.githubusercontent.com/brentc22/glint/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/brentc22/glint/main/docs/redact.png",
+                "https://raw.githubusercontent.com/brentc22/glint/main/docs/editor.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
