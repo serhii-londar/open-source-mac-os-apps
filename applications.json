@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "mcpock",
+            "short_description": "Menu bar app that checks every MCP server your AI agents use and shows which are broken, slow, waiting for a sign-in, or set up differently.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/aka-kika/mcpock",
+            "icon_url": "https://mcpock.com/assets/icons/icon-dark.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aka-kika/mcpock/main/docs/images/mcpock-servers.png"
+            ],
+            "official_site": "https://mcpock.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
