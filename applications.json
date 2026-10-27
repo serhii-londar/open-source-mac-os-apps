@@ -15352,6 +15352,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Bulchimbeon",
+            "short_description": "Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/s3onghyun/bulchimbeon",
+            "icon_url": "https://raw.githubusercontent.com/s3onghyun/bulchimbeon/main/build-icons/AppIcon.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/s3onghyun/bulchimbeon/main/docs/media/demo.gif"
+            ],
+            "official_site": "https://github.com/s3onghyun/bulchimbeon",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
