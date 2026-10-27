@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Castbar",
+            "short_description": "Control Chromecast, Google Home and Nest speakers from the menu bar, with playback controls and per-device volume.",
+            "categories": [
+                "menubar",
+                "audio"
+            ],
+            "repo_url": "https://github.com/itssarthak/castbar",
+            "icon_url": "https://raw.githubusercontent.com/itssarthak/castbar/main/docs/logo/castbar-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/itssarthak/castbar/main/docs/producthunt/gallery-2.png",
+                "https://raw.githubusercontent.com/itssarthak/castbar/main/docs/producthunt/gallery-3.png"
+            ],
+            "official_site": "https://sarthakchhabra.com/castbar/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
