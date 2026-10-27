@@ -15278,6 +15278,27 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tamka",
+            "short_description": "On-device dictation that runs NVIDIA's Parakeet speech models on the Neural Engine and types at the cursor in any app.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/piedol/tamka",
+            "icon_url": "https://raw.githubusercontent.com/piedol/tamka/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/piedol/tamka/main/docs/images/showcase.png",
+                "https://raw.githubusercontent.com/piedol/tamka/main/docs/images/menu.png",
+                "https://raw.githubusercontent.com/piedol/tamka/main/docs/images/settings-text.png"
+            ],
+            "official_site": "https://www.piedol.top/tamka/",
+            "languages": [
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
