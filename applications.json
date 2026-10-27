@@ -15281,7 +15281,7 @@
         },
         {
             "title": "Photon",
-            "short_description": "Screenshots, markup and screen recording from the menu bar in a native app under 1 MB, for macOS and Windows.",
+            "short_description": "Screenshots, markup and screen recording from the menu bar, for macOS and Windows.",
             "categories": [
                 "images",
                 "video",
