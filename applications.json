@@ -15297,6 +15297,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "JET Pilot",
+            "short_description": "Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/unxsist/jet-pilot",
+            "icon_url": "https://raw.githubusercontent.com/unxsist/jet-pilot/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://www.jet-pilot.app/images/app/clusters-hub-dark-1280.webp",
+                "https://www.jet-pilot.app/images/app/graph-dark-1280.webp",
+                "https://www.jet-pilot.app/images/app/logs-dark-1280.webp"
+            ],
+            "official_site": "https://jet-pilot.app",
+            "languages": [
+                "rust",
+                "typescript",
+                "vue"
+            ]
         }
     ]
 }
