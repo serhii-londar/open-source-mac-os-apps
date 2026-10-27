@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Kipimo",
+            "short_description": "Menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk, review startup items and check for app updates.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/piedol/kipimo",
+            "icon_url": "https://raw.githubusercontent.com/piedol/kipimo/master/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/piedol/kipimo/master/docs/images/showcase.png",
+                "https://raw.githubusercontent.com/piedol/kipimo/master/docs/images/panel.png",
+                "https://raw.githubusercontent.com/piedol/kipimo/master/docs/images/tools-uninstall.png"
+            ],
+            "official_site": "https://www.piedol.top/kipimo/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
