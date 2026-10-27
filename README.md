@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-937-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-939-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 937 |
+| 📱 Total Applications | 939 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 481 • Objective-C: 142 • Javascript: 125 • Typescript: 84 • C++: 64 |
+| 🔝 Top Languages | Swift: 483 • Objective-C: 142 • Javascript: 125 • Typescript: 84 • C++: 64 |
 
 ## Languages
 
@@ -125,7 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (62)
+### 🎵 Audio (63)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -317,6 +317,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/Bouliw/earshot/raw/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6082,7 +6095,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (154)
+### 📊 Menubar (155)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6660,6 +6673,19 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/yagcioglutoprak/dusty/main/docs/screenshots/panel.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/Bouliw/earshot/raw/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9257,7 +9283,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (149)
+### ⏱️ Productivity (150)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -9707,6 +9733,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/screenshot-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/shot-dark-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/Bouliw/earshot/raw/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12448,7 +12487,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
-### 📺 Terminal (26)
+### 📺 Terminal (27)
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -12634,6 +12673,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gnome-terminator.org](https://gnome-terminator.org)
+
+- [Termstead](https://github.com/pkhorenyan/termstead) - Native SSH client with a session tree, jump hosts, split panes and SFTP beside the terminal.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://khorenyan.com/termstead/](https://khorenyan.com/termstead/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/pkhorenyan/termstead/main/docs/images/main-window.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/pkhorenyan/termstead/main/docs/images/panes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Tintpad](https://github.com/sorkila/tintpad) - Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
 
