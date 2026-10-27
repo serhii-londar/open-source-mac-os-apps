@@ -15565,6 +15565,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "SomedayX",
+            "short_description": "Search your X (Twitter) bookmarks and likes by meaning, including text in images, fully on-device from the menu bar.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "social-networking"
+            ],
+            "repo_url": "https://github.com/priyank-saarthios-ai/somedayx",
+            "icon_url": "https://raw.githubusercontent.com/priyank-saarthios-ai/somedayx/main/site/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/priyank-saarthios-ai/somedayx/main/site/media/demo.jpg"
+            ],
+            "official_site": "https://somedayx.com",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
