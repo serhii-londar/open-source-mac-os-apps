@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-945-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-946-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 945 |
+| 📱 Total Applications | 946 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 487 • Objective-C: 142 • Javascript: 125 • Typescript: 87 • C++: 64 |
+| 🔝 Top Languages | Swift: 488 • Objective-C: 142 • Javascript: 125 • Typescript: 87 • C++: 64 |
 
 ## Languages
 
@@ -4813,7 +4813,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔍 Finder (17)
+### 🔍 Finder (18)
 - [Burette](https://github.com/SergeiNikolenko/Burette) - Molecular workspace and Finder Quick Look extension for macOS: 3D structures, chemistry grids, and local workflow-artifact inspection.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4997,6 +4997,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://shuffleapp.co](https://shuffleapp.co)
+
+- [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://stratafiles.app](https://stratafiles.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal.
 
@@ -12931,7 +12950,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (226)
+### 🛠️ Utilities (227)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -15371,6 +15390,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java <code>html</code> <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>html</code> 
 
   **Website:** [stirlingpdf.com](stirlingpdf.com)
+
+- [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://stratafiles.app](https://stratafiles.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 
