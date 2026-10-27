@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Agent Standup",
+            "short_description": "Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files.",
+            "categories": [
+                "other-development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Atoll92/agent-standup",
+            "icon_url": "https://raw.githubusercontent.com/Atoll92/agent-standup/main/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Atoll92/agent-standup/main/docs/media/hero.jpg",
+                "https://raw.githubusercontent.com/Atoll92/agent-standup/main/docs/media/terminal-output.jpg"
+            ],
+            "official_site": "https://agent-standup.com",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
