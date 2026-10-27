@@ -15511,6 +15511,23 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Clipboard manager with searchable history, previews, reusable snippets, and paste transformations.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Frazer/clipM",
+            "title": "Clip’M",
+            "icon_url": "https://frazer.github.io/clipM/images/icon.png",
+            "screenshots": [
+                "https://frazer.github.io/clipM/images/search.png"
+            ],
+            "official_site": "https://frazer.github.io/clipM/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
