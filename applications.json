@@ -15281,7 +15281,7 @@
         },
         {
             "title": "Konverter",
-            "short_description": "Menu bar app that converts and compresses images and video by dragging files onto a radial wheel.",
+            "short_description": "Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel.",
             "categories": [
                 "utilities",
                 "menubar"
