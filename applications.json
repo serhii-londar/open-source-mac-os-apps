@@ -15278,6 +15278,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Photon",
+            "short_description": "Screenshots, markup and screen recording from the menu bar, for macOS and Windows.",
+            "categories": [
+                "images",
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/piedol/photon",
+            "icon_url": "https://raw.githubusercontent.com/piedol/photon/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/piedol/photon/main/docs/images/showcase.png",
+                "https://raw.githubusercontent.com/piedol/photon/main/docs/images/markup.png",
+                "https://raw.githubusercontent.com/piedol/photon/main/docs/images/recording.png"
+            ],
+            "official_site": "https://www.piedol.top/photon/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
