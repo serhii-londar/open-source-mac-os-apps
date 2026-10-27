@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Stash",
+            "short_description": "Hides menu bar icons behind a single arrow on macOS 27.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/brentc22/stash",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/brentc22/stash/main/docs/images/menubar-expanded.png",
+                "https://raw.githubusercontent.com/brentc22/stash/main/docs/images/menubar-collapsed.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
