@@ -15565,6 +15565,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Files and Folders",
+            "short_description": "Fast, keyboard-first two-panel file manager in the spirit of Norton Commander and Total Commander.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/krocon/files-and-folders-tauri",
+            "icon_url": "https://raw.githubusercontent.com/krocon/files-and-folders-tauri/main/docs/icons/icon-new.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/krocon/files-and-folders-tauri/main/site/img/main.png",
+                "https://raw.githubusercontent.com/krocon/files-and-folders-tauri/main/site/img/command-palette.png",
+                "https://raw.githubusercontent.com/krocon/files-and-folders-tauri/main/site/img/multi-rename-dialog.png"
+            ],
+            "official_site": "https://krocon.de/products/fnf/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
