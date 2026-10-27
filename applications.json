@@ -15278,6 +15278,7 @@
             "languages": [
                 "swift"
             ]
-        }
+        },
+        {"title": "Tidymint", "short_description": "Free Mac cleaner that shows what it found before you press Clean, moves everything to the Trash with Undo, and cleans caches, duplicates, app leftovers and per-app data.", "categories": ["system", "utilities"], "repo_url": "https://github.com/HaiTrung-Workspace/tidymint", "icon_url": "https://raw.githubusercontent.com/HaiTrung-Workspace/tidymint/main/docs/icon.png", "screenshots": ["https://tidymint.app/smart.jpg", "https://tidymint.app/byapp.jpg"], "official_site": "https://tidymint.app", "languages": ["swift"]}
     ]
 }
