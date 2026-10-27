@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "short_description": "Manage Claude Code and Codex sessions, accounts, usage limits, and resource usage in one local-first dashboard.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/figurehead-ai/AI-juggler",
+            "title": "AI Juggler",
+            "icon_url": "https://raw.githubusercontent.com/figurehead-ai/AI-juggler/v0.1.8/crates/juggler-app/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/figurehead-ai/AI-juggler/v0.1.8/docs/assets/readme/home-dark.png",
+                "https://raw.githubusercontent.com/figurehead-ai/AI-juggler/v0.1.8/docs/assets/readme/project-dark.png"
+            ],
+            "official_site": "https://figurehead.ai/ai-juggler",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
