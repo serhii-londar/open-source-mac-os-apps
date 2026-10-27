@@ -7576,6 +7576,25 @@
                 "javascript"
             ]
         },
+            {
+        "short_description": "Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app.",
+        "categories": [
+            "menubar",
+            "utilities",
+            "productivity"
+        ],
+        "repo_url": "https://github.com/tom-bonte/Octo",
+        "title": "Octo",
+        "icon_url": "https://raw.githubusercontent.com/tom-bonte/Octo/main/docs/icon.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/tom-bonte/Octo/main/docs/panel.png",
+            "https://raw.githubusercontent.com/tom-bonte/Octo/main/docs/settings-light.png"
+        ],
+        "official_site": "",
+        "languages": [
+            "swift"
+        ]
+        },
         {
             "short_description": "Easy to use, quick to learn, and surprisingly powerful video editor. ",
             "categories": [
