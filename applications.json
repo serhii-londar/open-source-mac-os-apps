@@ -15278,6 +15278,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tercana",
+            "short_description": "Translates game subtitles live while you play with PS Remote Play, on-device, and includes a PSN trophy tracker.",
+            "categories": [
+                "menubar",
+                "games"
+            ],
+            "repo_url": "https://github.com/Rumpony/Tercana",
+            "icon_url": "https://raw.githubusercontent.com/Rumpony/Tercana/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Rumpony/Tercana/main/docs/media/0-game.png",
+                "https://raw.githubusercontent.com/Rumpony/Tercana/main/docs/media/2-trophies-profile.png"
+            ],
+            "official_site": "https://rumpony.github.io/Tercana/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
