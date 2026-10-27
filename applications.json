@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Portside",
+            "short_description": "Lists every dev server on your Mac in the menu bar, grouped by repo and git worktree.",
+            "categories": [
+                "menubar",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/brentc22/portside",
+            "icon_url": "https://raw.githubusercontent.com/brentc22/portside/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/brentc22/portside/main/docs/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
