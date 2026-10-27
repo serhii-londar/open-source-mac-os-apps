@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Yardlet",
+            "short_description": "Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/zzunkie/yardlet",
+            "icon_url": "https://raw.githubusercontent.com/zzunkie/yardlet/main/Packaging/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zzunkie/yardlet/main/docs/images/main-light.png",
+                "https://raw.githubusercontent.com/zzunkie/yardlet/main/docs/images/review-light.png"
+            ],
+            "official_site": "https://yardlet.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
