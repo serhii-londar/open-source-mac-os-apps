@@ -15458,6 +15458,23 @@
                 "typescript",
                 "swift"
             ]
+        },
+        {
+            "title": "Arroxy",
+            "short_description": "Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/antonio-orionus/Arroxy",
+            "icon_url": "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/src/renderer/src/assets/App-icon-HQ.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/screenshots/en/Explore-browsing-screenshot.webp",
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/screenshots/en/Main-screenshot.webp"
+            ],
+            "official_site": "https://arroxy.com/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
