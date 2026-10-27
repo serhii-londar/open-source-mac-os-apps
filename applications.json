@@ -15439,6 +15439,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Kopi",
+            "short_description": "Local-first clipboard manager with searchable history, pinboards and plain-text paste. Skips password manager copies.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/code-devanshu/kopi",
+            "icon_url": "https://raw.githubusercontent.com/code-devanshu/kopi/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/code-devanshu/kopi/main/docs/images/panel-light.png"
+            ],
+            "official_site": "https://kopi.devanshuverma.in",
+            "languages": [
+                "rust",
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
