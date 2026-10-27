@@ -15547,6 +15547,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "KeyEcho",
+            "short_description": "Plays recorded mechanical keyboard sounds as you type.",
+            "categories": [
+                "audio",
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/ZacharyL2/KeyEcho",
+            "icon_url": "https://raw.githubusercontent.com/ZacharyL2/KeyEcho/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZacharyL2/KeyEcho/main/docs/assets/keyecho-hero.png"
+            ],
+            "official_site": "https://keyecho.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
