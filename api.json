@@ -9,7 +9,7 @@
     "csv" : 1,
     "database" : 19,
     "development" : 35,
-    "downloader" : 9,
+    "downloader" : 10,
     "editors" : 4,
     "Editors" : 1,
     "extensions" : 12,
@@ -35,7 +35,7 @@
     "other-development" : 7,
     "player" : 7,
     "podcast" : 6,
-    "productivity" : 90,
+    "productivity" : 91,
     "screensaver" : 11,
     "security" : 12,
     "sharing-files" : 13,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
-    "window-management" : 24
+    "window-management" : 25
   },
-  "generated_at" : "2026-10-27T11:17:21Z",
-  "total_apps" : 939,
+  "generated_at" : "2026-10-27T11:17:58Z",
+  "total_apps" : 942,
   "total_categories" : 49
 }
