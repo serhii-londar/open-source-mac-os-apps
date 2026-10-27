@@ -15403,6 +15403,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Earshot",
+            "short_description": "Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Bouliw/earshot",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/earshot/raw/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
