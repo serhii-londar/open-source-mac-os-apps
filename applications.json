@@ -15278,6 +15278,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native file manager with tabs, split panes, a built-in terminal, and hover previews.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/andronasef/shark",
+            "title": "Shark - Better Finder",
+            "icon_url": "https://raw.githubusercontent.com/andronasef/shark/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/andronasef/shark/main/docs/screenshots/tabs-and-split.png",
+                "https://raw.githubusercontent.com/andronasef/shark/main/docs/screenshots/terminal.png"
+            ],
+            "official_site": "https://shark.andronasef.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
