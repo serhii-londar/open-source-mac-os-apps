@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "StockDock",
+            "short_description": "Menu bar app that tracks stocks, ETFs, indices, crypto and your portfolio P&L in real time, with pre-market and after-hours prices, alerts and a full desktop window.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/simonsruggi/StockDock",
+            "icon_url": "https://raw.githubusercontent.com/simonsruggi/StockDock/main/StockDock/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/simonsruggi/StockDock/main/screenshots/menubar.png",
+                "https://raw.githubusercontent.com/simonsruggi/StockDock/main/screenshots/desktop.png"
+            ],
+            "official_site": "https://stockdockapp.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
