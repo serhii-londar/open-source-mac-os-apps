@@ -15565,6 +15565,20 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Vesalius",
+            "short_description": "On-device code graph for Claude Code with an MCP server, CLI, Mac app, and VS Code extension.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/haplollc/Vesalius",
+            "icon_url": "https://raw.githubusercontent.com/haplollc/Vesalius/main/Vesalius/Assets.xcassets/AppIcon.appiconset/icon_1024.png",
+            "screenshots": [],
+            "official_site": "https://github.com/haplollc/Vesalius",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
