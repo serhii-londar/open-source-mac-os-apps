@@ -15777,6 +15777,25 @@
                 "swift",
                 "typescript"
             ]
+        },
+        {
+            "title": "JUMP",
+            "short_description": "Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse.",
+            "categories": [
+                "keyboard",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alvaldes/jump",
+            "icon_url": "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/landing-hints.webp",
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-appearance.webp",
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-behavior.webp"
+            ],
+            "official_site": "https://alvaldes.github.io/jump/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
