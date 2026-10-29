@@ -16259,6 +16259,25 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Local Transcriber",
+            "short_description": "Menu bar app that records meetings and calls and transcribes them locally with Whisper and pyannote speaker recognition, with dictation into any app.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/teconomix/local-transcriber",
+            "icon_url": "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-aufnahme.png",
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-diktat.png"
+            ],
+            "official_site": "https://transcriber.teconomix.net",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
