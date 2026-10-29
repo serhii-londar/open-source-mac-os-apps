@@ -15796,6 +15796,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "PullBull",
+            "short_description": "GitHub pull requests, issues and Projects boards in the menu bar.",
+            "categories": [
+                "git",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rustycamper/pullbull",
+            "icon_url": "https://raw.githubusercontent.com/rustycamper/pullbull/main/docs/icon/AppIcon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rustycamper/pullbull/main/docs/media/popover-dark.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
