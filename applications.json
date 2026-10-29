@@ -15690,6 +15690,23 @@
                 "typescript",
                 "rust"
             ]
+        },
+        {
+            "title": "HideNotch",
+            "short_description": "Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/niklasravnsborg/HideNotch",
+            "icon_url": "https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/readme.png"
+            ],
+            "official_site": "https://hidenotch.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
