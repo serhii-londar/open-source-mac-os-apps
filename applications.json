@@ -15918,6 +15918,22 @@
                 "python"
             ],
             "macos_version": "14.0+"
+        },
+        {
+            "title": "Volt",
+            "short_description": "Open-source AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits.",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/LeulAria/VOLT",
+            "icon_url": "https://raw.githubusercontent.com/LeulAria/VOLT/main/apps/docs/public/volt-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/LeulAria/VOLT/main/docs/assets/readme/volt-hero.png"
+            ],
+            "official_site": "https://getvolt.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
