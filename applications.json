@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Shotloop",
+            "short_description": "Make short explainer videos from code with AI, one shot at a time: 2D (HTML) or 3D (Blender) shots, each fixed and re-rendered on its own.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/chihyungchang/Shotloop",
+            "icon_url": "https://raw.githubusercontent.com/chihyungchang/Shotloop/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://oliverz.dev/products/shotloop/2-studio.en.webp",
+                "https://oliverz.dev/products/shotloop/1-plan.en.webp"
+            ],
+            "official_site": "https://oliverz.dev/products/shotloop",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
