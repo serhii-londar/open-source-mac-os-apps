@@ -17,7 +17,7 @@
     "games" : 16,
     "git" : 22,
     "graphics" : 18,
-    "ide" : 15,
+    "ide" : 16,
     "images" : 19,
     "ios--macos" : 40,
     "json" : 2,
@@ -35,7 +35,7 @@
     "other-development" : 7,
     "player" : 7,
     "podcast" : 6,
-    "productivity" : 93,
+    "productivity" : 94,
     "screensaver" : 11,
     "security" : 13,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:26:23Z",
-  "total_apps" : 966,
+  "generated_at" : "2026-10-29T18:34:27Z",
+  "total_apps" : 968,
   "total_categories" : 49
 }
