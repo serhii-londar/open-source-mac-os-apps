@@ -15565,6 +15565,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Mac Monitor",
+            "short_description": "Lightweight menu-bar system monitor for RAM, CPU, network and disk that tracks memory pressure.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Ahmadjondev/MacMonitor",
+            "icon_url": "https://raw.githubusercontent.com/Ahmadjondev/MacMonitor/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ahmadjondev/MacMonitor/main/assets/window.png",
+                "https://raw.githubusercontent.com/Ahmadjondev/MacMonitor/main/assets/popover.png",
+                "https://raw.githubusercontent.com/Ahmadjondev/MacMonitor/main/assets/menubar.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
