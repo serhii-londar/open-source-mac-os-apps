@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Shandian",
+            "short_description": "Native download manager for magnet links, torrents, ed2k, HTTP files and video sites (YouTube, Bilibili, Douyin and more) in one window, with a browser extension and stream-while-downloading. Chinese UI.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/chenmozhe008/shandian-download",
+            "icon_url": "https://raw.githubusercontent.com/chenmozhe008/shandian-download/master/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chenmozhe008/shandian-download/master/docs/images/screenshot-downloading.png",
+                "https://raw.githubusercontent.com/chenmozhe008/shandian-download/master/docs/images/screenshot-library.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
