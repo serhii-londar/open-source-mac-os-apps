@@ -15831,6 +15831,22 @@
             "languages": [
                 "go"
             ]
+        },
+        {
+            "title": "Anki Miner",
+            "short_description": "Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/0xzerolight/anki_miner",
+            "icon_url": "https://raw.githubusercontent.com/0xzerolight/anki_miner/main/anki_miner/gui/resources/icons/anki_miner.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/0xzerolight/anki_miner/main/gifs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
