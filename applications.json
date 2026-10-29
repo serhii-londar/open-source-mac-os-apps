@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Monny",
+            "short_description": "Menu bar system monitor with process lookup and a battery charge limit.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/Blinks44/monny",
+            "icon_url": "https://raw.githubusercontent.com/Blinks44/monny/main/docs/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Blinks44/monny/main/apps/website/src/assets/product/popover.png",
+                "https://raw.githubusercontent.com/Blinks44/monny/main/apps/website/src/assets/product/overview.png"
+            ],
+            "official_site": "https://monny.moduix.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
