@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Amical",
+            "short_description": "AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/amicalhq/amical",
+            "icon_url": "https://amical.ai/amical-icon.png",
+            "screenshots": [
+                "https://amical.ai/brand/amical-hero-2100x1080.png"
+            ],
+            "official_site": "https://amical.ai",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
