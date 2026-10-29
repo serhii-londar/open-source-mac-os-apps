@@ -15565,6 +15565,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "SculptForge",
+            "short_description": "Free, open-source digital sculpting app in the style of ZBrush, with SubTools, subdivision levels, sculpt layers, dynamic topology, voxel remesh, quad retopology, polypaint and map baking.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/islandmed/SculptForge",
+            "icon_url": "https://sculptforge.app/img/icon-256.png",
+            "screenshots": [
+                "https://sculptforge.app/press/sculptforge-lion.jpg"
+            ],
+            "official_site": "https://sculptforge.app/",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
