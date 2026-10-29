@@ -16059,6 +16059,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "ParrotFlow",
+            "short_description": "Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/znat/parrotflow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/znat/parrotflow/main/Resources/readme/rules.webp",
+                "https://raw.githubusercontent.com/znat/parrotflow/main/Resources/readme/vocab.webp"
+            ],
+            "official_site": "https://parrotflow.io/",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
