@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-979-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-981-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 979 |
+| 📱 Total Applications | 981 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 513 • Objective-C: 142 • Javascript: 125 • Typescript: 93 • C++: 64 |
+| 🔝 Top Languages | Swift: 514 • Objective-C: 142 • Javascript: 125 • Typescript: 94 • C++: 64 |
 
 ## Languages
 
@@ -125,7 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (70)
+### 🎵 Audio (71)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -135,6 +135,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://cloud.githubusercontent.com/assets/235208/10419593/143171fc-704a-11e5-8270-374ca898685b.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://geiserx.github.io/akou/](https://geiserx.github.io/akou/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/calls.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/recording.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6491,7 +6508,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (174)
+### 📊 Menubar (175)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8771,6 +8788,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://rakushkatop.github.io/wolfclip/](https://rakushkatop.github.io/wolfclip/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar. 
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
@@ -9958,7 +9992,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (163)
+### ⏱️ Productivity (165)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -10017,6 +10051,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://airpoise.vercel.app/](https://airpoise.vercel.app/)
+
+- [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://geiserx.github.io/akou/](https://geiserx.github.io/akou/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/calls.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/recording.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Aman Disk](https://github.com/MidZai/aman_disk) - S.M.A.R.T. health, temperature history and performance test for your Mac's internal drives.
 
@@ -12056,6 +12107,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/nathan-poncet/whisk/main/docs/media/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://rakushkatop.github.io/wolfclip/](https://rakushkatop.github.io/wolfclip/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
