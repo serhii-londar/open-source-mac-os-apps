@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-965-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-966-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 965 |
+| 📱 Total Applications | 966 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 502 • Objective-C: 142 • Javascript: 125 • Typescript: 91 • C++: 64 |
+| 🔝 Top Languages | Swift: 503 • Objective-C: 142 • Javascript: 125 • Typescript: 91 • C++: 64 |
 
 ## Languages
 
@@ -6363,7 +6363,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (169)
+### 📊 Menubar (170)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8418,6 +8418,19 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://typecue.app](https://typecue.app)
 
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool/main/docs/images/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [usage](https://github.com/aqua5230/usage) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -9747,7 +9760,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (158)
+### ⏱️ Productivity (159)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -11662,6 +11675,19 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool/main/docs/images/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
