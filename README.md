@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-959-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-960-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 959 |
+| 📱 Total Applications | 960 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 498 • Objective-C: 142 • Javascript: 125 • Typescript: 91 • C++: 64 |
+| 🔝 Top Languages | Swift: 499 • Objective-C: 142 • Javascript: 125 • Typescript: 91 • C++: 64 |
 
 ## Languages
 
@@ -6035,7 +6035,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
-### ⌨️ Keyboard (16)
+### ⌨️ Keyboard (17)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6104,6 +6104,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://inputsource.pro](https://inputsource.pro)
+
+- [JUMP](https://github.com/alvaldes/jump) - Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://alvaldes.github.io/jump/](https://alvaldes.github.io/jump/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/landing-hints.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-appearance.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-behavior.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
@@ -9641,7 +9660,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (155)
+### ⏱️ Productivity (156)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -10367,6 +10386,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/tools.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/co_editing.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [JUMP](https://github.com/alvaldes/jump) - Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://alvaldes.github.io/jump/](https://alvaldes.github.io/jump/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/landing-hints.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-appearance.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-behavior.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
