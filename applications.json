@@ -16079,6 +16079,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Matcha",
+            "short_description": "Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jakeantelis/Matcha",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jakeantelis/Matcha/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
