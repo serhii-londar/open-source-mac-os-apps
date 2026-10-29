@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-983-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-984-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 983 |
+| 📱 Total Applications | 984 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 515 • Objective-C: 142 • Javascript: 125 • Typescript: 94 • C++: 64 |
+| 🔝 Top Languages | Swift: 516 • Objective-C: 142 • Javascript: 125 • Typescript: 94 • C++: 64 |
 
 ## Languages
 
@@ -3173,7 +3173,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 🔧 Other Development (8)
+#### 🔧 Other Development (9)
 - [AI Switcher](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -3204,6 +3204,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/IvanMathy/Boop/main/Boop/Documentation/Images/UI.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Cellar](https://github.com/tuhage/Cellar) - Homebrew manager for formulae, casks, and services that previews what brew will change before it runs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/tuhage/Cellar](https://github.com/tuhage/Cellar)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/updates.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -13896,7 +13913,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (233)
+### 🛠️ Utilities (234)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -14431,6 +14448,23 @@ You can see in which language an app is written. Currently there are following l
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Cellar](https://github.com/tuhage/Cellar) - Homebrew manager for formulae, casks, and services that previews what brew will change before it runs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/tuhage/Cellar](https://github.com/tuhage/Cellar)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/dashboard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/updates.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Claude Statistics](https://github.com/sj719045032/claude-statistics) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time.
 
