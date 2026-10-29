@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Sway",
+            "short_description": "Calm menu bar break reminder with a countdown, a heads-up popover and a soft full-screen break overlay with snooze.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/gusalvestavo/sway",
+            "icon_url": "https://raw.githubusercontent.com/gusalvestavo/sway/main/docs/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gusalvestavo/sway/main/docs/break.gif",
+                "https://raw.githubusercontent.com/gusalvestavo/sway/main/docs/popover.png"
+            ],
+            "official_site": "https://github.com/gusalvestavo/sway",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
