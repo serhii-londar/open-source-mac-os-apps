@@ -24,7 +24,7 @@
     "json-parsing" : 4,
     "keyboard" : 16,
     "mail" : 8,
-    "markdown" : 20,
+    "markdown" : 21,
     "medical" : 1,
     "menubar" : 92,
     "music" : 13,
@@ -42,7 +42,7 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 36,
+    "system" : 37,
     "terminal" : 19,
     "tex" : 1,
     "text" : 8,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:49:08Z",
-  "total_apps" : 981,
+  "generated_at" : "2026-10-29T18:49:40Z",
+  "total_apps" : 983,
   "total_categories" : 49
 }
