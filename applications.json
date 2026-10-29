@@ -16116,6 +16116,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "tern",
+            "short_description": "Native SSH client written in Rust on GPUI, with saved hosts, a command picker, SFTP browser, split panes, port forwards and encrypted sync.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/your-moon/tern",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/your-moon/tern/main/docs/screenshots/hero.jpg"
+            ],
+            "official_site": "https://tern.carrot-soft.tech",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
