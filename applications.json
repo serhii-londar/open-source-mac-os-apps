@@ -15582,6 +15582,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OLIV",
+            "short_description": "Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chayapats/oliv",
+            "icon_url": "https://raw.githubusercontent.com/chayapats/oliv/main/oliv_logo_assets/oliv-app-icon-light-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/demo.gif",
+                "https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/settings.png"
+            ],
+            "official_site": "https://chayapats.github.io/oliv/",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
