@@ -11431,8 +11431,8 @@
             "icon_url": "https://raw.githubusercontent.com/ayenora/screen-loupe/main/ScreenLoupe/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/01-zoom-ruler-grid.png",
-                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/02-color-meter.png",
-                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/03-reference-layers.png"
+                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/02-color-meter-contrast.png",
+                "https://raw.githubusercontent.com/ayenora/screen-loupe/main/docs/images/04-reference-difference.png"
             ],
             "official_site": "https://ayenora.github.io/screen-loupe/",
             "languages": [
