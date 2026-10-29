@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Nano Buddha",
+            "short_description": "Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit grows 15 seconds longer.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/knorthfield/nano-buddha",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/bd/3d/15bd3db4-0284-440d-e1ac-30d1c913b4ad/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/mac/1-home.png",
+                "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/mac/2-sit.png"
+            ],
+            "official_site": "https://apps.apple.com/app/id6824602807",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
