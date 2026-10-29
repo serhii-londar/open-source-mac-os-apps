@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-984-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-985-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 984 |
+| 📱 Total Applications | 985 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 516 • Objective-C: 142 • Javascript: 125 • Typescript: 94 • C++: 64 |
+| 🔝 Top Languages | Swift: 517 • Objective-C: 142 • Javascript: 125 • Typescript: 94 • C++: 64 |
 
 ## Languages
 
@@ -5514,7 +5514,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🎨 Graphics (20)
+### 🎨 Graphics (21)
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -5788,6 +5788,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://gwenn-ha-dev.github.io/Siliconed/](https://gwenn-ha-dev.github.io/Siliconed/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/window.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/edit.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 ### 💻 IDE (16)
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
@@ -5971,7 +5988,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🖼️ Images (22)
+### 🖼️ Images (23)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6219,6 +6236,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://shotnix.com/screenshots/shotnix-video-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://gwenn-ha-dev.github.io/Siliconed/](https://gwenn-ha-dev.github.io/Siliconed/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/window.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/edit.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
