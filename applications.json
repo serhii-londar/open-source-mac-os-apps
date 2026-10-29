@@ -15813,6 +15813,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Lumilo",
+            "short_description": "Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/kotuke/lumilo",
+            "icon_url": "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/hero-light.png",
+                "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/demo-light.gif"
+            ],
+            "official_site": "https://github.com/kotuke/lumilo",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
