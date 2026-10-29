@@ -15847,6 +15847,24 @@
             "languages": [
                 "python"
             ]
+        },
+        {
+            "title": "Çentik",
+            "short_description": "Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/YusufEmreYazici/Centik",
+            "icon_url": "https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif"
+            ],
+            "official_site": "https://github.com/YusufEmreYazici/Centik",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
