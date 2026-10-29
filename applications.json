@@ -15934,6 +15934,25 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Pullo",
+            "short_description": "Your GitHub pull requests and Actions runs in the MacBook notch, with alerts when CI fails, a PR is approved or a review is requested.",
+            "categories": [
+                "git",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jordan-cod/pullo",
+            "icon_url": "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/prs.png",
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/alert.png",
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/actions.png"
+            ],
+            "official_site": "https://pullo.jrdan.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
