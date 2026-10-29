@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "FaceLock",
+            "short_description": "Native biometric application shield for macOS with sub-second neural camera check, intruder photo capture, and Telegram alerts.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/MaxSphinx/FaceLock",
+            "icon_url": "https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/lockscreen_demo.png",
+                "https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/settings_demo.png"
+            ],
+            "official_site": "https://github.com/MaxSphinx/FaceLock",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
