@@ -15898,6 +15898,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Inkvolt PDF",
+            "short_description": "Free PDF reader and editor to fill and sign forms, edit text, redact, OCR and organize pages, with no account or ads.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/gabandres/inkvolt",
+            "icon_url": "https://raw.githubusercontent.com/gabandres/inkvolt/master/mac/InkvoltPdf/assets/AppIcon.iconset/icon_256x256.png",
+            "screenshots": [],
+            "official_site": "https://bermudezsystems.com/products/inkvolt/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
