@@ -15565,6 +15565,28 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Dojo",
+            "short_description": "Local-first study-plan app: one daily ticket, a board, a journal, locally graded code and system-design practice.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/pratikgh0se/dojo",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pratikgh0se/dojo/main/docs/screenshots/readme-today-1280.png",
+                "https://raw.githubusercontent.com/pratikgh0se/dojo/main/docs/screenshots/readme-board-1280.png",
+                "https://raw.githubusercontent.com/pratikgh0se/dojo/main/docs/screenshots/readme-journal-1280.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript",
+                "javascript",
+                "css",
+                "go",
+                "python"
+            ]
         }
     ]
 }
