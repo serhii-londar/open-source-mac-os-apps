@@ -15758,6 +15758,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TokenTracker",
+            "short_description": "Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/xiufengsun/TokenTracker",
+            "icon_url": "https://www.tokentracker.cc/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xiufengsun/TokenTracker/main/docs/screenshots/dashboard-light.png",
+                "https://raw.githubusercontent.com/xiufengsun/TokenTracker/main/docs/screenshots/widgets-overview.png"
+            ],
+            "official_site": "https://www.tokentracker.cc",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
         }
     ]
 }
