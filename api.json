@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 61,
+    "audio" : 62,
     "backup" : 8,
     "browser" : 16,
     "chat" : 22,
@@ -26,7 +26,7 @@
     "mail" : 8,
     "markdown" : 20,
     "medical" : 1,
-    "menubar" : 87,
+    "menubar" : 88,
     "music" : 13,
     "news" : 5,
     "notes" : 19,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
-    "window-management" : 25
+    "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:21:05Z",
-  "total_apps" : 954,
+  "generated_at" : "2026-10-29T18:21:50Z",
+  "total_apps" : 957,
   "total_categories" : 49
 }
