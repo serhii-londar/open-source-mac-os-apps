@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Rebind",
+            "short_description": "Remap keys, mouse buttons and trackpad gestures to shortcuts and system actions.",
+            "categories": [
+                "keyboard",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Blinks44/rebind",
+            "icon_url": "https://raw.githubusercontent.com/Blinks44/rebind/main/docs/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Blinks44/rebind/main/apps/website/src/assets/product/keyboard.png",
+                "https://raw.githubusercontent.com/Blinks44/rebind/main/apps/website/src/assets/product/mouse.png"
+            ],
+            "official_site": "https://rebind.moduix.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
