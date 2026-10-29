@@ -16278,6 +16278,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Splat",
+            "short_description": "Markdown editor with a live, editable preview that turns edits in the preview into minimal changes to the source.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/sventmueller/splat",
+            "icon_url": "https://raw.githubusercontent.com/sventmueller/splat/main/assets/readme-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sventmueller/splat/main/assets/readme-screenshot.png"
+            ],
+            "official_site": "https://github.com/sventmueller/splat",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
