@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "AerialSwap",
+            "short_description": "Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down.",
+            "categories": [
+                "wallpaper",
+                "video"
+            ],
+            "repo_url": "https://github.com/mxpalm/AerialSwap",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mxpalm/AerialSwap/main/docs/images/library.jpg",
+                "https://raw.githubusercontent.com/mxpalm/AerialSwap/main/docs/images/trim.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
