@@ -15620,6 +15620,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Ghbdtn",
+            "short_description": "Menu bar app that fixes text typed in the wrong keyboard layout (English/Russian) with an Option+Command tap: converts the selection or the last word and switches the layout.",
+            "categories": [
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/skriptoff/Ghbdtn",
+            "icon_url": "https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
