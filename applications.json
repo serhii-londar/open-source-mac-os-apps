@@ -15881,6 +15881,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "UMST",
+            "short_description": "Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool/main/docs/images/themes.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
