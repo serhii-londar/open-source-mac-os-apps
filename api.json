@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 62,
+    "audio" : 63,
     "backup" : 8,
     "browser" : 16,
     "chat" : 22,
@@ -26,7 +26,7 @@
     "mail" : 8,
     "markdown" : 20,
     "medical" : 1,
-    "menubar" : 88,
+    "menubar" : 89,
     "music" : 13,
     "news" : 5,
     "notes" : 19,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:22:12Z",
-  "total_apps" : 957,
+  "generated_at" : "2026-10-29T18:22:51Z",
+  "total_apps" : 959,
   "total_categories" : 49
 }
