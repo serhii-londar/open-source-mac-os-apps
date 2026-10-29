@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 63,
+    "audio" : 64,
     "backup" : 8,
     "browser" : 16,
     "chat" : 22,
@@ -22,7 +22,7 @@
     "ios--macos" : 40,
     "json" : 2,
     "json-parsing" : 4,
-    "keyboard" : 15,
+    "keyboard" : 16,
     "mail" : 8,
     "markdown" : 20,
     "medical" : 1,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:35:43Z",
-  "total_apps" : 972,
+  "generated_at" : "2026-10-29T18:36:15Z",
+  "total_apps" : 974,
   "total_categories" : 49
 }
