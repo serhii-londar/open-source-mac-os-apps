@@ -15565,6 +15565,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "mac-keepawake",
+            "short_description": "Keeps a MacBook awake with the lid closed, automatically on AC and on demand on battery, and turns the backlight off while it is shut.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fainir/mac-keepawake",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fainir/mac-keepawake/main/assets/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "shell",
+                "c"
+            ]
         }
     ]
 }
