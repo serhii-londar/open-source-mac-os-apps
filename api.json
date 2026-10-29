@@ -47,14 +47,14 @@
     "tex" : 1,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 99,
+    "utilities" : 100,
     "video" : 21,
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:37:08Z",
-  "total_apps" : 976,
+  "generated_at" : "2026-10-29T18:47:30Z",
+  "total_apps" : 977,
   "total_categories" : 49
 }
