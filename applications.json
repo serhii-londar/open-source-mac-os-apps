@@ -15565,6 +15565,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "SATF",
+            "short_description": "Drag a file, give it a little shake, and convert or copy it from a tiny radial menu.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tran-minh-khoi/SATF",
+            "icon_url": "https://raw.githubusercontent.com/tran-minh-khoi/SATF/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tran-minh-khoi/SATF/main/docs/images/hero.jpg",
+                "https://raw.githubusercontent.com/tran-minh-khoi/SATF/main/docs/images/radial-convert.jpg",
+                "https://raw.githubusercontent.com/tran-minh-khoi/SATF/main/docs/images/shelf.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
