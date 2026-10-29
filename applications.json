@@ -15740,6 +15740,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Vauta",
+            "short_description": "Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/MaquinaTech/Vauta",
+            "icon_url": "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/meetings-minutes-en-dark.png",
+                "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/menubar-panel-recording-en-dark.png"
+            ],
+            "official_site": "https://vauta.vercel.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
