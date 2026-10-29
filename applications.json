@@ -15655,6 +15655,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Batch convert, compress, resize and rename images into web-ready JPEG, PNG, WebP and AVIF, with responsive widths and presets.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/heysidhant/pixtamer",
+            "title": "Pixtamer",
+            "icon_url": "https://raw.githubusercontent.com/heysidhant/pixtamer/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/heysidhant/pixtamer/main/docs/screenshot.png"
+            ],
+            "official_site": "https://sidhantsinha.com/apps/pixtamer",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
