@@ -16005,6 +16005,24 @@
                 "kotlin",
                 "swift"
             ]
+        },
+        {
+            "title": "TICS",
+            "short_description": "Menu bar app that plays mechanical keyboard sounds as you type, and mouse sounds as you click, drag and scroll.",
+            "categories": [
+                "keyboard",
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/yestoall/tics",
+            "icon_url": "https://www.yestoall.com/tics/icon.png",
+            "screenshots": [
+                "https://www.yestoall.com/tics/demo-poster.jpg"
+            ],
+            "official_site": "https://www.yestoall.com/tics/en",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
