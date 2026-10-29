@@ -15898,6 +15898,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OS-intent",
+            "short_description": "Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/vdk888/os-intent",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vdk888/os-intent/main/docs/img/02-cross.png",
+                "https://raw.githubusercontent.com/vdk888/os-intent/main/docs/img/03-glide.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python"
+            ],
+            "macos_version": "14.0+"
         }
     ]
 }
