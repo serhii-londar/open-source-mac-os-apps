@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-948-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-951-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 948 |
+| 📱 Total Applications | 951 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 489 • Objective-C: 142 • Javascript: 125 • Typescript: 88 • C++: 64 |
+| 🔝 Top Languages | Swift: 492 • Objective-C: 142 • Javascript: 125 • Typescript: 88 • C++: 64 |
 
 ## Languages
 
@@ -125,7 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (64)
+### 🎵 Audio (65)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -664,6 +664,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/marks-zyz/NoMicSwitch/main/assets/install-terminal.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [OLIV](https://github.com/chayapats/oliv) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://chayapats.github.io/oliv/](https://chayapats.github.io/oliv/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/settings.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5950,7 +5967,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
-### ⌨️ Keyboard (15)
+### ⌨️ Keyboard (16)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -5996,6 +6013,19 @@ You can see in which language an app is written. Currently there are following l
 - [Fluor](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Ghbdtn](https://github.com/skriptoff/Ghbdtn) - Menu bar app that fixes text typed in the wrong keyboard layout (English/Russian) with an Option+Command tap: converts the selection or the last word and switches the layout.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - Karabiner-Elements configuration manager, rescue to bloated karabiner.json 
 
@@ -6210,7 +6240,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (158)
+### 📊 Menubar (161)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6695,6 +6725,23 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://conduck.com/](https://conduck.com/)
 
+- [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://stanczykwyatt.github.io/copy-2fa/](https://stanczykwyatt.github.io/copy-2fa/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/notice-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/picker-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Core-Monitor](https://github.com/offyotto/Core-Monitor) - Open-source macOS system monitor with menu bar stats, a full dashboard, optional fan control, and Touch Bar widgets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6929,6 +6976,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-home.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/JoshuaT1105/FunNotch/main/screenshots/open-focus.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Ghbdtn](https://github.com/skriptoff/Ghbdtn) - Menu bar app that fixes text typed in the wrong keyboard layout (English/Russian) with an Option+Command tap: converts the selection or the last word and switches the layout.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7531,6 +7591,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Offsend/Offsend/main/apps/macos/assets/docs.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Offsend/Offsend/main/apps/macos/assets/projects.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [OLIV](https://github.com/chayapats/oliv) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://chayapats.github.io/oliv/](https://chayapats.github.io/oliv/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/settings.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9443,7 +9520,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (152)
+### ⏱️ Productivity (153)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -10520,6 +10597,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/McanKul/offpdf/main/docs/assets/offpdf-home.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [OLIV](https://github.com/chayapats/oliv) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://chayapats.github.io/oliv/](https://chayapats.github.io/oliv/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/settings.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -11618,7 +11712,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔒 Security (20)
+### 🔒 Security (21)
 - [AppLocker](https://github.com/TranPhuong319/AppLocker) - Kernel-level application locking tool built with Apple Endpoint Security and Liquid Glass UI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -11653,6 +11747,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://github.com/spieglt/Cloaker/blob/master/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://stanczykwyatt.github.io/copy-2fa/](https://stanczykwyatt.github.io/copy-2fa/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/notice-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/picker-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>

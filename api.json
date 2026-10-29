@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 60,
+    "audio" : 61,
     "backup" : 8,
     "browser" : 16,
     "chat" : 22,
@@ -22,7 +22,7 @@
     "ios--macos" : 40,
     "json" : 2,
     "json-parsing" : 4,
-    "keyboard" : 12,
+    "keyboard" : 13,
     "mail" : 8,
     "markdown" : 20,
     "medical" : 1,
@@ -37,7 +37,7 @@
     "podcast" : 6,
     "productivity" : 92,
     "screensaver" : 11,
-    "security" : 12,
+    "security" : 13,
     "sharing-files" : 13,
     "social-networking" : 9,
     "streaming" : 2,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 25
   },
-  "generated_at" : "2026-10-29T18:15:34Z",
-  "total_apps" : 948,
+  "generated_at" : "2026-10-29T18:20:23Z",
+  "total_apps" : 951,
   "total_categories" : 49
 }
