@@ -15865,6 +15865,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AURA Switcher",
+            "short_description": "Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.",
+            "categories": [
+                "keyboard",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/klbk/aura-switcher-app",
+            "icon_url": "https://raw.githubusercontent.com/klbk/aura-switcher-app/main/icon.svg",
+            "screenshots": [],
+            "official_site": "https://klbk.github.io/aura-switcher/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
