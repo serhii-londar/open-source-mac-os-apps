@@ -15565,6 +15565,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "shroom",
+            "short_description": "A free, open-source Mac screen recorder: stop, and the link is ready. Your videos and your team's live in your own Cloudflare account, so you pay only for what you keep.",
+            "categories": [
+                "video",
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/bagrat/shroom",
+            "icon_url": "https://raw.githubusercontent.com/bagrat/shroom/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [],
+            "official_site": "https://shroom.am",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
