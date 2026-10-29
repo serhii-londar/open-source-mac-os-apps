@@ -15602,6 +15602,24 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "Copy 2FA",
+            "short_description": "Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.",
+            "categories": [
+                "security",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stanczykwyatt/copy-2fa",
+            "icon_url": "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/notice-light.png",
+                "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/picker-light.png"
+            ],
+            "official_site": "https://stanczykwyatt.github.io/copy-2fa/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
