@@ -15953,6 +15953,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Jutsu Studio",
+            "short_description": "Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/jutsu-studio",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/assets/icons/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/docs/assets/hero-banner.png",
+                "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/docs/assets/demo.gif"
+            ],
+            "official_site": "https://jutsustudio.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
