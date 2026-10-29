@@ -15565,6 +15565,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lucid",
+            "short_description": "Live 4K wallpapers of space, nature and ocean loops on every display, plus Apple Aerials.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/jedbrnth-eng/lucid-live-wallpaper",
+            "icon_url": "https://raw.githubusercontent.com/jedbrnth-eng/lucid-live-wallpaper/main/icon/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jedbrnth-eng/lucid-live-wallpaper/main/docs/screenshot.png"
+            ],
+            "official_site": "https://lucid-wallpaper.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
