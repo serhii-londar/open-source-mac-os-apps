@@ -15572,12 +15572,12 @@
             "categories": [
                 "video"
             ],
-            "repo_url": "https://github.com/wyverselabs/cutfac",
+            "repo_url": "https://github.com/cutfac/cutfac",
             "icon_url": "https://cutfac.com/apple-icon",
             "screenshots": [
-                "https://raw.githubusercontent.com/wyverselabs/cutfac/main/.github/assets/editor.png",
-                "https://raw.githubusercontent.com/wyverselabs/cutfac/main/.github/assets/board.png",
-                "https://raw.githubusercontent.com/wyverselabs/cutfac/main/.github/assets/templates.png"
+                "https://raw.githubusercontent.com/cutfac/cutfac/main/.github/assets/editor.png",
+                "https://raw.githubusercontent.com/cutfac/cutfac/main/.github/assets/board.png",
+                "https://raw.githubusercontent.com/cutfac/cutfac/main/.github/assets/templates.png"
             ],
             "official_site": "https://cutfac.com",
             "languages": [
