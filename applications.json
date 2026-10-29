@@ -15671,6 +15671,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Content Factory",
+            "short_description": "Faceless video generator for TikTok, YouTube Shorts and Reels: a script becomes a vertical video with AI frames, voiceover and subtitles.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/content-factory",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/content-factory/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/content-factory/main/docs/assets/banner.png",
+                "https://raw.githubusercontent.com/jutsuhq/content-factory/main/docs/assets/what-if-you-fell-into-jupiter.jpg"
+            ],
+            "official_site": "https://jutsustudio.com/content-factory/",
+            "languages": [
+                "python",
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
