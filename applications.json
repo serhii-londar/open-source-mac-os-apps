@@ -15970,6 +15970,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Swapjutsu",
+            "short_description": "Character swap for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/swapjutsu-seedance-character-swap",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/app.png",
+                "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/how-it-works/00-overview.png"
+            ],
+            "official_site": "https://jutsustudio.com/swapjutsu/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
