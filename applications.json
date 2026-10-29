@@ -15565,6 +15565,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tsuba",
+            "short_description": "Menu bar app that checks unfamiliar code before it first runs: curl | bash scripts, npm installs, cloned repos, DMGs, VS Code extensions and MCP servers.",
+            "categories": [
+                "security",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chihyungchang/Tsuba",
+            "icon_url": "https://raw.githubusercontent.com/chihyungchang/Tsuba/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://oliverz.dev/products/tsuba/1-overview.en.webp",
+                "https://oliverz.dev/products/tsuba/2-history.en.webp"
+            ],
+            "official_site": "https://oliverz.dev/products/tsuba",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
