@@ -16098,6 +16098,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "littleguys",
+            "short_description": "WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent).",
+            "categories": [
+                "chat",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/herval/littleguys",
+            "icon_url": "https://www.littleguys.dev/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/herval/littleguys/main/docs/littleguys.gif"
+            ],
+            "official_site": "https://www.littleguys.dev",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
