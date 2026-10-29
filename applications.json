@@ -15987,6 +15987,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Posato",
+            "short_description": "Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/dees91/posato",
+            "icon_url": "https://raw.githubusercontent.com/dees91/posato/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/forest.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-websites.png",
+                "https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-duration.png"
+            ],
+            "official_site": "https://posato.app",
+            "languages": [
+                "kotlin",
+                "swift"
+            ]
         }
     ]
 }
