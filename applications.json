@@ -16023,6 +16023,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "JackMate is a native macOS app to start, configure and patch the JACK audio server, with a visual patchbay, saved studios and a menu bar mode.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/zinc75/JackMate",
+            "title": "JackMate",
+            "icon_url": "https://jackmate.app/assets/icon.png",
+            "screenshots": [
+                "https://jackmate.app/assets/screenshots/jackmoebius-routing-in-jackmate.png",
+                "https://jackmate.app/assets/screenshots/configuration.png"
+            ],
+            "official_site": "https://jackmate.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
