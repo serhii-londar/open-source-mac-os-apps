@@ -15565,6 +15565,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "peek",
+            "short_description": "One-shot terminal snapshot of CPU, RAM, GPU and SSD usage with the top processes for each, no sudo needed.",
+            "categories": [
+                "system",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/vedntp/peek",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vedntp/peek/main/assets/demo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
