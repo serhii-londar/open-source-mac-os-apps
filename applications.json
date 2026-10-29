@@ -15707,6 +15707,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "QuietSpeech",
+            "short_description": "Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/harshtomar6/quietspeech",
+            "icon_url": "https://quietspeech.app/assets/icon-512.png",
+            "screenshots": [],
+            "official_site": "https://quietspeech.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
