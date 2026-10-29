@@ -48,13 +48,13 @@
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 99,
-    "video" : 19,
+    "video" : 21,
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-10-29T18:34:47Z",
-  "total_apps" : 969,
+  "generated_at" : "2026-10-29T18:35:13Z",
+  "total_apps" : 971,
   "total_categories" : 49
 }
