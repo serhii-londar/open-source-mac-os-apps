@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-971-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-972-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2029,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 971 |
+| 📱 Total Applications | 972 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 507 • Objective-C: 142 • Javascript: 125 • Typescript: 92 • C++: 64 |
+| 🔝 Top Languages | Swift: 508 • Objective-C: 142 • Javascript: 125 • Typescript: 92 • C++: 64 |
 
 ## Languages
 
@@ -9813,7 +9813,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (160)
+### ⏱️ Productivity (161)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -11132,6 +11132,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/screenshots/preview.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Posato](https://github.com/dees91/posato) - Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud.
+
+  **Languages:** <code>kotlin</code> <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://posato.app](https://posato.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-websites.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-duration.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
