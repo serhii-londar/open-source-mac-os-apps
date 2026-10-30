@@ -16278,6 +16278,26 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Swamp Converter",
+            "short_description": "Menu-bar file converter: drag a file, a wheel appears, drop it on the format you want.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "video"
+            ],
+            "repo_url": "https://github.com/aansonsa/swamp-converter",
+            "icon_url": "https://raw.githubusercontent.com/aansonsa/swamp-converter/main/Resources/AppIcon-source.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aansonsa/swamp-converter/main/docs/screenshots/wheel-convert.png",
+                "https://raw.githubusercontent.com/aansonsa/swamp-converter/main/docs/screenshots/studio-video.png"
+            ],
+            "official_site": "https://github.com/aansonsa/swamp-converter/releases/latest",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "26.0+"
         }
     ]
 }
