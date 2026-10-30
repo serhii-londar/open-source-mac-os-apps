@@ -16278,6 +16278,25 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "short_description": "Menu-bar panel that shows which AI coding-agent session is running, queued, waiting on you or failed — it reads the logs six agents already write and makes no network calls.",
+            "categories": [
+                "menubar",
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/DreamOfXM/agent-ping",
+            "title": "Agent Ping",
+            "icon_url": "https://raw.githubusercontent.com/DreamOfXM/agent-ping/main/website/public/favicon-192.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/DreamOfXM/agent-ping/main/docs/fig-01-queue-en.png",
+                "https://raw.githubusercontent.com/DreamOfXM/agent-ping/main/docs/fig-02-quota-en.png"
+            ],
+            "official_site": "https://dreamofxm.github.io/agent-ping/en/",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
