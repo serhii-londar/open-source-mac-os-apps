@@ -16278,6 +16278,22 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Lipik",
+            "short_description": "Hold fn, talk, and clean text lands in any app. On-device dictation for Apple Silicon that removes filler words and self-corrections, with Hinglish support and meeting notes without a bot in the call.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Gourav2609/lipik",
+            "icon_url": "https://raw.githubusercontent.com/Gourav2609/lipik/main/website/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://lipik.pages.dev",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
