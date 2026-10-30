@@ -15280,6 +15280,1006 @@
             ]
         },
         {
+            "title": "Muster",
+            "short_description": "Menu bar app that monitors Claude Code, Codex and Cursor sessions, answers Claude Code and Codex permission prompts from alerts, and switches sessions with Option-Tab.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/josefchen/muster",
+            "icon_url": "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/alert-light.jpg",
+                "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/switcher-dark.jpg",
+                "https://raw.githubusercontent.com/josefchen/muster/main/docs/media/deck-light.jpg"
+            ],
+            "official_site": "https://agentmuster.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "JET Pilot",
+            "short_description": "Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/unxsist/jet-pilot",
+            "icon_url": "https://raw.githubusercontent.com/unxsist/jet-pilot/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://www.jet-pilot.app/images/app/clusters-hub-dark-1280.webp",
+                "https://www.jet-pilot.app/images/app/graph-dark-1280.webp",
+                "https://www.jet-pilot.app/images/app/logs-dark-1280.webp"
+            ],
+            "official_site": "https://jet-pilot.app",
+            "languages": [
+                "rust",
+                "typescript",
+                "vue"
+            ]
+        },
+        {
+            "title": "ftop",
+            "short_description": "Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Nongfsq/ftop",
+            "icon_url": "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/sizes.png",
+                "https://raw.githubusercontent.com/Nongfsq/ftop/main/docs/media/large.png"
+            ],
+            "official_site": "https://github.com/Nongfsq/ftop",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Nogrammerly",
+            "short_description": "On-device writing assistant that checks spelling, grammar and tone and rewrites text in any app, using Apple Intelligence.",
+            "categories": [
+                "productivity",
+                "text"
+            ],
+            "repo_url": "https://github.com/gaurabh-pei/nogrammerly",
+            "icon_url": "https://raw.githubusercontent.com/gaurabh-pei/nogrammerly/main/Assets/Nogrammerly-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gaurabh-pei/nogrammerly/main/Assets/demo.gif"
+            ],
+            "official_site": "https://github.com/gaurabh-pei/nogrammerly",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Bulchimbeon",
+            "short_description": "Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/s3onghyun/bulchimbeon",
+            "icon_url": "https://raw.githubusercontent.com/s3onghyun/bulchimbeon/main/build-icons/AppIcon.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/s3onghyun/bulchimbeon/main/docs/media/demo.gif"
+            ],
+            "official_site": "https://github.com/s3onghyun/bulchimbeon",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Free Mac cleaner that explains each item, quarantines what it removes for undo, and includes an app uninstaller, disk map and menu bar monitor.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/leoAnimesh/OpenClean",
+            "title": "OpenClean",
+            "icon_url": "https://leoanimesh.github.io/OpenClean/apple-touch-icon.png",
+            "screenshots": [
+                "https://leoanimesh.github.io/OpenClean/assets/smart-scan-results.webp"
+            ],
+            "official_site": "https://leoanimesh.github.io/OpenClean/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Termstead",
+            "short_description": "Native SSH client with a session tree, jump hosts, split panes and SFTP beside the terminal.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/pkhorenyan/termstead",
+            "icon_url": "https://raw.githubusercontent.com/pkhorenyan/termstead/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pkhorenyan/termstead/main/docs/images/main-window.png",
+                "https://raw.githubusercontent.com/pkhorenyan/termstead/main/docs/images/panes.png"
+            ],
+            "official_site": "https://khorenyan.com/termstead/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Earshot",
+            "short_description": "Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Bouliw/earshot",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/earshot/raw/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Remembers window layouts per external monitor and restores position, size and Space (macOS 26+) on reconnect, with DDC brightness keys on Apple Silicon.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/tumingke0/LayoutKeeper",
+            "title": "LayoutKeeper",
+            "icon_url": "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/menu.png",
+                "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/images/main-window.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Kopi",
+            "short_description": "Local-first clipboard manager with searchable history, pinboards and plain-text paste. Skips password manager copies.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/code-devanshu/kopi",
+            "icon_url": "https://raw.githubusercontent.com/code-devanshu/kopi/main/apps/desktop/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/code-devanshu/kopi/main/docs/images/panel-light.png"
+            ],
+            "official_site": "https://kopi.devanshuverma.in",
+            "languages": [
+                "rust",
+                "typescript",
+                "swift"
+            ]
+        },
+        {
+            "title": "Arroxy",
+            "short_description": "Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/antonio-orionus/Arroxy",
+            "icon_url": "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/src/renderer/src/assets/App-icon-HQ.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/screenshots/en/Explore-browsing-screenshot.webp",
+                "https://raw.githubusercontent.com/antonio-orionus/Arroxy/main/build/screenshots/en/Main-screenshot.webp"
+            ],
+            "official_site": "https://arroxy.com/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "title": "JoeBro",
+            "short_description": "Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.",
+            "categories": [
+                "productivity",
+                "chat"
+            ],
+            "repo_url": "https://github.com/joexk1/JoeBro",
+            "icon_url": "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/tools.png",
+                "https://raw.githubusercontent.com/joexk1/JoeBro/main/README_assets/co_editing.png"
+            ],
+            "official_site": "https://joexk1.github.io/joebro/",
+            "languages": [
+                "swift",
+                "python"
+            ]
+        },
+        {
+            "title": "GithubStarsManager",
+            "short_description": "AI-powered, local-first app to organize your GitHub stars with auto-summaries, tags, semantic search, and release tracking.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/AmintaCCCP/GithubStarsManager",
+            "icon_url": "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/brand/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/screenshots/repo.png",
+                "https://raw.githubusercontent.com/AmintaCCCP/GithubStarsManager/main/assets/readme/screenshots/search.png"
+            ],
+            "official_site": "https://gsm.aminta.top",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Clipboard manager with searchable history, previews, reusable snippets, and paste transformations.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Frazer/clipM",
+            "title": "Clip’M",
+            "icon_url": "https://frazer.github.io/clipM/images/icon.png",
+            "screenshots": [
+                "https://frazer.github.io/clipM/images/search.png"
+            ],
+            "official_site": "https://frazer.github.io/clipM/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Strata Files",
+            "short_description": "Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cristipufu/strata-files",
+            "icon_url": "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png",
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png",
+                "https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png"
+            ],
+            "official_site": "https://stratafiles.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "KeyEcho",
+            "short_description": "Plays recorded mechanical keyboard sounds as you type.",
+            "categories": [
+                "audio",
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/ZacharyL2/KeyEcho",
+            "icon_url": "https://raw.githubusercontent.com/ZacharyL2/KeyEcho/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZacharyL2/KeyEcho/main/docs/assets/keyecho-hero.png"
+            ],
+            "official_site": "https://keyecho.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "title": "mcpock",
+            "short_description": "Menu bar app that checks every MCP server your AI agents use and shows which are broken, slow, waiting for a sign-in, or set up differently.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/aka-kika/mcpock",
+            "icon_url": "https://mcpock.com/assets/icons/icon-dark.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aka-kika/mcpock/main/docs/images/mcpock-servers.png"
+            ],
+            "official_site": "https://mcpock.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "OLIV",
+            "short_description": "Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chayapats/oliv",
+            "icon_url": "https://raw.githubusercontent.com/chayapats/oliv/main/oliv_logo_assets/oliv-app-icon-light-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/demo.gif",
+                "https://raw.githubusercontent.com/chayapats/oliv/main/docs/img/readme/settings.png"
+            ],
+            "official_site": "https://chayapats.github.io/oliv/",
+            "languages": [
+                "swift",
+                "rust"
+            ]
+        },
+        {
+            "title": "Copy 2FA",
+            "short_description": "Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.",
+            "categories": [
+                "security",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stanczykwyatt/copy-2fa",
+            "icon_url": "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/notice-light.png",
+                "https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/picker-light.png"
+            ],
+            "official_site": "https://stanczykwyatt.github.io/copy-2fa/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Ghbdtn",
+            "short_description": "Menu bar app that fixes text typed in the wrong keyboard layout (English/Russian) with an Option+Command tap: converts the selection or the last word and switches the layout.",
+            "categories": [
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/skriptoff/Ghbdtn",
+            "icon_url": "https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/skriptoff/Ghbdtn/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "ghostty-designer",
+            "short_description": "Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/reemus-dev/ghostty-designer",
+            "icon_url": "https://raw.githubusercontent.com/reemus-dev/ghostty-designer/main/crates/app/icons/512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/reemus-dev/ghostty-designer/main/assets/cover.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Batch convert, compress, resize and rename images into web-ready JPEG, PNG, WebP and AVIF, with responsive widths and presets.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/heysidhant/pixtamer",
+            "title": "Pixtamer",
+            "icon_url": "https://raw.githubusercontent.com/heysidhant/pixtamer/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/heysidhant/pixtamer/main/docs/screenshot.png"
+            ],
+            "official_site": "https://sidhantsinha.com/apps/pixtamer",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Content Factory",
+            "short_description": "Faceless video generator for TikTok, YouTube Shorts and Reels: a script becomes a vertical video with AI frames, voiceover and subtitles.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/content-factory",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/content-factory/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/content-factory/main/docs/assets/banner.png",
+                "https://raw.githubusercontent.com/jutsuhq/content-factory/main/docs/assets/what-if-you-fell-into-jupiter.jpg"
+            ],
+            "official_site": "https://jutsustudio.com/content-factory/",
+            "languages": [
+                "python",
+                "typescript",
+                "rust"
+            ]
+        },
+        {
+            "title": "HideNotch",
+            "short_description": "Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/niklasravnsborg/HideNotch",
+            "icon_url": "https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/readme.png"
+            ],
+            "official_site": "https://hidenotch.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "QuietSpeech",
+            "short_description": "Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/harshtomar6/quietspeech",
+            "icon_url": "https://quietspeech.app/assets/icon-512.png",
+            "screenshots": [],
+            "official_site": "https://quietspeech.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Show Desktop",
+            "short_description": "Hides every window with one click or a shortcut to show the Desktop, then brings them all back exactly as they were.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stanczykwyatt/show-desktop",
+            "icon_url": "https://raw.githubusercontent.com/stanczykwyatt/show-desktop/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stanczykwyatt/show-desktop/main/docs/demo.gif"
+            ],
+            "official_site": "https://stanczykwyatt.github.io/show-desktop/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Vauta",
+            "short_description": "Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/MaquinaTech/Vauta",
+            "icon_url": "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/meetings-minutes-en-dark.png",
+                "https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/menubar-panel-recording-en-dark.png"
+            ],
+            "official_site": "https://vauta.vercel.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "TokenTracker",
+            "short_description": "Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/xiufengsun/TokenTracker",
+            "icon_url": "https://www.tokentracker.cc/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xiufengsun/TokenTracker/main/docs/screenshots/dashboard-light.png",
+                "https://raw.githubusercontent.com/xiufengsun/TokenTracker/main/docs/screenshots/widgets-overview.png"
+            ],
+            "official_site": "https://www.tokentracker.cc",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
+        },
+        {
+            "title": "JUMP",
+            "short_description": "Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse.",
+            "categories": [
+                "keyboard",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alvaldes/jump",
+            "icon_url": "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/landing-hints.webp",
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-appearance.webp",
+                "https://raw.githubusercontent.com/alvaldes/jump/main/docs/assets/screenshots/settings-behavior.webp"
+            ],
+            "official_site": "https://alvaldes.github.io/jump/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "PullBull",
+            "short_description": "GitHub pull requests, issues and Projects boards in the menu bar.",
+            "categories": [
+                "git",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rustycamper/pullbull",
+            "icon_url": "https://raw.githubusercontent.com/rustycamper/pullbull/main/docs/icon/AppIcon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rustycamper/pullbull/main/docs/media/popover-dark.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Lumilo",
+            "short_description": "Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/kotuke/lumilo",
+            "icon_url": "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/hero-light.png",
+                "https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/demo-light.gif"
+            ],
+            "official_site": "https://github.com/kotuke/lumilo",
+            "languages": [
+                "go"
+            ]
+        },
+        {
+            "title": "Anki Miner",
+            "short_description": "Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/0xzerolight/anki_miner",
+            "icon_url": "https://raw.githubusercontent.com/0xzerolight/anki_miner/main/anki_miner/gui/resources/icons/anki_miner.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/0xzerolight/anki_miner/main/gifs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "title": "Çentik",
+            "short_description": "Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/YusufEmreYazici/Centik",
+            "icon_url": "https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif"
+            ],
+            "official_site": "https://github.com/YusufEmreYazici/Centik",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "AURA Switcher",
+            "short_description": "Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.",
+            "categories": [
+                "keyboard",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/klbk/aura-switcher-app",
+            "icon_url": "https://raw.githubusercontent.com/klbk/aura-switcher-app/main/icon.svg",
+            "screenshots": [],
+            "official_site": "https://klbk.github.io/aura-switcher/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "UMST",
+            "short_description": "Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool/main/docs/images/themes.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "OS-intent",
+            "short_description": "Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/vdk888/os-intent",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vdk888/os-intent/main/docs/img/02-cross.png",
+                "https://raw.githubusercontent.com/vdk888/os-intent/main/docs/img/03-glide.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python"
+            ],
+            "macos_version": "14.0+"
+        },
+        {
+            "title": "Volt",
+            "short_description": "Open-source AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits.",
+            "categories": [
+                "ide"
+            ],
+            "repo_url": "https://github.com/LeulAria/VOLT",
+            "icon_url": "https://raw.githubusercontent.com/LeulAria/VOLT/main/apps/docs/public/volt-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/LeulAria/VOLT/main/docs/assets/readme/volt-hero.png"
+            ],
+            "official_site": "https://getvolt.dev",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "title": "Pullo",
+            "short_description": "Your GitHub pull requests and Actions runs in the MacBook notch, with alerts when CI fails, a PR is approved or a review is requested.",
+            "categories": [
+                "git",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jordan-cod/pullo",
+            "icon_url": "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/prs.png",
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/alert.png",
+                "https://raw.githubusercontent.com/jordan-cod/pullo/main/docs/media/actions.png"
+            ],
+            "official_site": "https://pullo.jrdan.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Jutsu Studio",
+            "short_description": "Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/jutsu-studio",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/assets/icons/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/docs/assets/hero-banner.png",
+                "https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/docs/assets/demo.gif"
+            ],
+            "official_site": "https://jutsustudio.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Swapjutsu",
+            "short_description": "Character swap for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/jutsuhq/swapjutsu-seedance-character-swap",
+            "icon_url": "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/app.png",
+                "https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/how-it-works/00-overview.png"
+            ],
+            "official_site": "https://jutsustudio.com/swapjutsu/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Posato",
+            "short_description": "Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/dees91/posato",
+            "icon_url": "https://raw.githubusercontent.com/dees91/posato/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/forest.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-websites.png",
+                "https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-duration.png"
+            ],
+            "official_site": "https://posato.app",
+            "languages": [
+                "kotlin",
+                "swift"
+            ]
+        },
+        {
+            "title": "TICS",
+            "short_description": "Menu bar app that plays mechanical keyboard sounds as you type, and mouse sounds as you click, drag and scroll.",
+            "categories": [
+                "keyboard",
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/yestoall/tics",
+            "icon_url": "https://www.yestoall.com/tics/icon.png",
+            "screenshots": [
+                "https://www.yestoall.com/tics/demo-poster.jpg"
+            ],
+            "official_site": "https://www.yestoall.com/tics/en",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "JackMate is a native macOS app to start, configure and patch the JACK audio server, with a visual patchbay, saved studios and a menu bar mode.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/zinc75/JackMate",
+            "title": "JackMate",
+            "icon_url": "https://jackmate.app/assets/icon.png",
+            "screenshots": [
+                "https://jackmate.app/assets/screenshots/jackmoebius-routing-in-jackmate.png",
+                "https://jackmate.app/assets/screenshots/configuration.png"
+            ],
+            "official_site": "https://jackmate.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "StableBar",
+            "short_description": "Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Seb-GRAF/StableBar",
+            "icon_url": "https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/site/images/social-card.png",
+                "https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/themes-light.webp",
+                "https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/popups-dark.webp"
+            ],
+            "official_site": "https://stablebar.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "ParrotFlow",
+            "short_description": "Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/znat/parrotflow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/znat/parrotflow/main/Resources/readme/rules.webp",
+                "https://raw.githubusercontent.com/znat/parrotflow/main/Resources/readme/vocab.webp"
+            ],
+            "official_site": "https://parrotflow.io/",
+            "languages": [
+                "swift",
+                "python"
+            ]
+        },
+        {
+            "title": "Aman Check",
+            "short_description": "Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/MidZai/aman_check",
+            "icon_url": "https://raw.githubusercontent.com/MidZai/aman_check/main/Branding/Aman-Disk-brand/app-icon/AppIcon.appiconset/icon_256x256%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/locks.png",
+                "https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/report.png"
+            ],
+            "official_site": "https://midzai.github.io/aman_check/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "littleguys",
+            "short_description": "WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent).",
+            "categories": [
+                "chat",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/herval/littleguys",
+            "icon_url": "https://www.littleguys.dev/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/herval/littleguys/main/docs/littleguys.gif"
+            ],
+            "official_site": "https://www.littleguys.dev",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "title": "tern",
+            "short_description": "Native SSH client written in Rust on GPUI, with saved hosts, a command picker, SFTP browser, split panes, port forwards and encrypted sync.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/your-moon/tern",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/your-moon/tern/main/docs/screenshots/hero.jpg"
+            ],
+            "official_site": "https://tern.carrot-soft.tech",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "title": "WolfClip",
+            "short_description": "Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/RakushkaTOP/wolfclip",
+            "icon_url": "https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/RakushkaTOP/wolfclip/main/docs/themes.png"
+            ],
+            "official_site": "https://rakushkatop.github.io/wolfclip/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/GeiserX/akou",
+            "title": "akou",
+            "icon_url": "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/calls.png",
+                "https://raw.githubusercontent.com/GeiserX/akou/main/docs/images/screenshots/recording.png"
+            ],
+            "official_site": "https://geiserx.github.io/akou/",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
+            "short_description": "Fan control and temperature monitor for Apple Silicon Macs, with Auto Boost rules, custom curves, a fail-safe helper and a CLI.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/zyvren/FanPilot",
+            "title": "FanPilot",
+            "icon_url": "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/zyvren/FanPilot/main/docs/screenshots/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "writui",
+            "short_description": "A terminal Markdown writing app with a local encrypted vault, automatic saving, and named versions.",
+            "categories": [
+                "markdown",
+                "text",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/aakashns/writui",
+            "icon_url": "https://raw.githubusercontent.com/aakashns/writui/main/site/static/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aakashns/writui/main/site/static/demo.png"
+            ],
+            "official_site": "https://writui.com",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "title": "Cellar",
+            "short_description": "Homebrew manager for formulae, casks, and services that previews what brew will change before it runs.",
+            "categories": [
+                "utilities",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/tuhage/Cellar",
+            "icon_url": "https://raw.githubusercontent.com/tuhage/Cellar/main/logo.jpg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/dashboard.png",
+                "https://raw.githubusercontent.com/tuhage/Cellar/main/.github/assets/updates.png"
+            ],
+            "official_site": "https://github.com/tuhage/Cellar",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Siliconed",
+            "short_description": "Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.",
+            "categories": [
+                "graphics",
+                "images"
+            ],
+            "repo_url": "https://github.com/gwenn-ha-dev/Siliconed",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/window.jpg",
+                "https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/edit.jpg"
+            ],
+            "official_site": "https://gwenn-ha-dev.github.io/Siliconed/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Alchemist Coder",
+            "short_description": "Desktop app for Claude Code and Codex that shows every agent and subagent live, searches your coding-agent history and runs agents on local models.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Alekla0126/alchemist-coder",
+            "icon_url": "https://raw.githubusercontent.com/Alekla0126/alchemist-coder/main/apps/desktop/build/icon.png",
+            "screenshots": [
+                "https://coder.alekla.com/preview/en-agents.webp",
+                "https://coder.alekla.com/preview/en-editor.webp"
+            ],
+            "official_site": "https://coder.alekla.com",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "title": "Local Transcriber",
+            "short_description": "Menu bar app that records meetings and calls and transcribes them locally with Whisper and pyannote speaker recognition, with dictation into any app.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/teconomix/local-transcriber",
+            "icon_url": "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-aufnahme.png",
+                "https://raw.githubusercontent.com/teconomix/local-transcriber/main/website/assets/en/ui-diktat.png"
+            ],
+            "official_site": "https://transcriber.teconomix.net",
+            "languages": [
+                "swift",
+                "python"
+            ]
+        },
+        {
             "title": "Perch",
             "short_description": "Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact window or terminal pane.",
             "categories": [
