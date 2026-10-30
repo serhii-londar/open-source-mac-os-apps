@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Griasa",
+            "short_description": "Local-first meeting recorder that finds who promised what, with pre-meeting briefs, dictation and a read-only MCP server.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Stari-am/griasa",
+            "icon_url": "https://raw.githubusercontent.com/Stari-am/griasa/main/docs/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Stari-am/griasa/main/docs/screenshot-prep.png",
+                "https://raw.githubusercontent.com/Stari-am/griasa/main/docs/screenshot-commitments.png"
+            ],
+            "official_site": "https://stari-am.github.io/griasa/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
