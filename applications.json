@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Double Shot",
+            "short_description": "Keeps your Mac awake, with the lid closed too, for a set time or while AI coding agents are working, then lets it sleep.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/noahelhadedy/double-shot",
+            "icon_url": "https://raw.githubusercontent.com/noahelhadedy/double-shot/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/noahelhadedy/double-shot/main/docs/hero.jpg",
+                "https://raw.githubusercontent.com/noahelhadedy/double-shot/main/docs/demo.gif"
+            ],
+            "official_site": "https://github.com/noahelhadedy/double-shot",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
