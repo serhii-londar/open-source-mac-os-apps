@@ -16278,6 +16278,25 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Apolo",
+            "short_description": "Image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG with the same engines as cwebp, cjpeg, oxipng, avifenc and cjxl, showing the loss and its SSIMULACRA 2 score before saving. Batch folders, CLI and MCP server.",
+            "categories": [
+                "images",
+                "graphics"
+            ],
+            "repo_url": "https://github.com/webcafeina/Apolo",
+            "icon_url": "https://apolo.webcafeina.com/icono-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/webcafeina/Apolo/main/.github/readme/apolo-macos-claro-en.webp",
+                "https://raw.githubusercontent.com/webcafeina/Apolo/main/.github/readme/apolo-macos-oscuro-en.webp"
+            ],
+            "official_site": "https://apolo.webcafeina.com/en/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
