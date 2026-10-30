@@ -16278,6 +16278,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "reshelf",
+            "short_description": "Catalogs open-source GitHub repos on shelves, clones them by category, and shows when a clone has updates to pull.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/aka-kika/reshelf",
+            "icon_url": "https://raw.githubusercontent.com/aka-kika/reshelf/main/assets/reshelf-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aka-kika/reshelf/main/assets/reshelf-catalog.png"
+            ],
+            "official_site": "https://aka-kika.github.io/reshelf/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
