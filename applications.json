@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "short_description": "Runs coding agents in a Linux micro-VM on a copy-on-write clone of your project and lets you review and apply their changes like a pull request.",
+            "categories": [
+                "development",
+                "security"
+            ],
+            "repo_url": "https://github.com/Kernel-Hunter/mudroom",
+            "title": "Mudroom",
+            "icon_url": "https://raw.githubusercontent.com/Kernel-Hunter/mudroom/main/App/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Kernel-Hunter/mudroom/main/docs/screenshots/review-light.png",
+                "https://raw.githubusercontent.com/Kernel-Hunter/mudroom/main/docs/screenshots/network-light.png"
+            ],
+            "official_site": "https://github.com/Kernel-Hunter/mudroom",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
