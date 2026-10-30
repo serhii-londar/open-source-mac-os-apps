@@ -16278,6 +16278,26 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "short_description": "Menu bar app for memory and disk that shows what is really using your memory, keeps a week of history, pauses apps instead of quitting them, and only cleans caches that rebuild themselves.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Kernel-Hunter/boost",
+            "title": "Boost",
+            "icon_url": "https://raw.githubusercontent.com/Kernel-Hunter/boost/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Kernel-Hunter/boost/main/docs/images/popover.png",
+                "https://raw.githubusercontent.com/Kernel-Hunter/boost/main/docs/images/memory.png",
+                "https://raw.githubusercontent.com/Kernel-Hunter/boost/main/docs/images/disk.png"
+            ],
+            "official_site": "https://kernel-hunter.github.io/boost/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
