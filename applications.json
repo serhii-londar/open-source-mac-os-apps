@@ -16278,6 +16278,22 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Glass",
+            "short_description": "Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Ntarasiuk/glass",
+            "icon_url": "https://raw.githubusercontent.com/Ntarasiuk/glass/main/site/public/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Ntarasiuk/glass/main/site/public/og.png"
+            ],
+            "official_site": "https://glassdesk.dev",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
