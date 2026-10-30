@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Safelight",
+            "short_description": "Menu bar app that puts the color filter, brightness and Light/Dark appearance on one schedule, fading the screen from white to deep red at night.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mopfaff/Safelight",
+            "icon_url": "https://raw.githubusercontent.com/mopfaff/Safelight/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mopfaff/Safelight/main/docs/popover-light.png",
+                "https://raw.githubusercontent.com/mopfaff/Safelight/main/docs/schedule-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
