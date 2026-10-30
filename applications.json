@@ -14334,6 +14334,21 @@
             ]
         },
         {
+            "title": "Kilobat CLI",
+            "short_description": "Monitor and diagnose Mac networks from the command line or through an MCP server.",
+            "categories": [
+                "utilities",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/seifip/kilobat-cli",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://kilobat.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Mole",
             "short_description": "Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
             "categories": [
