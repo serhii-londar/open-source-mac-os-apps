@@ -16278,6 +16278,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Flickbar",
+            "short_description": "Snap, resize and move windows with two-finger trackpad gestures on their title bars.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/flickbar/flickbar",
+            "icon_url": "https://raw.githubusercontent.com/flickbar/flickbar/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/flickbar/flickbar/main/docs/images/settings-gestures.png",
+                "https://raw.githubusercontent.com/flickbar/flickbar/main/docs/images/tutorial.png"
+            ],
+            "official_site": "https://flickbar.github.io/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
