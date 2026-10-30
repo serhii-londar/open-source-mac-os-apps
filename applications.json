@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Mail client your AI agent can use, for Microsoft 365, Gmail and IMAP: nothing is sent until you approve it with Touch ID.",
+            "categories": [
+                "mail",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/adecubed/gigamail",
+            "title": "GigaMail",
+            "icon_url": "https://raw.githubusercontent.com/adecubed/gigamail/main/docs/brand/gigamail-logo-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adecubed/gigamail/main/docs/demo/poster.png"
+            ],
+            "official_site": "https://gigamail.ai",
+            "languages": [
+                "python",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
