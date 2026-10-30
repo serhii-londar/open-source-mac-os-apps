@@ -16278,6 +16278,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Lirnyk",
+            "short_description": "Rewrite selected text in any app with one hotkey per profile, using cloud AI or local Ollama.",
+            "categories": [
+                "menubar",
+                "text"
+            ],
+            "repo_url": "https://github.com/cheyako/lirnyk-app",
+            "icon_url": "https://raw.githubusercontent.com/cheyako/lirnyk-app/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cheyako/lirnyk-app/main/docs/images/lirnyk-demo-1200.gif"
+            ],
+            "official_site": "https://lirnyk.app/?ref=osmac",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
