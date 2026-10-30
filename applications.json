@@ -16278,6 +16278,22 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "RAVE LIVE",
+            "short_description": "Festival light show for your Mac that locks to the beat of whatever you're playing, with stage lights, lasers and MilkDrop presets.",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/jedbrnth-eng/rave-live",
+            "icon_url": "https://raw.githubusercontent.com/jedbrnth-eng/rave-live/main/Resources/AppIcon/master_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jedbrnth-eng/rave-live/main/docs/visuals-reel.webp"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
