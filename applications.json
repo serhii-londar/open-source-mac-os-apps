@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "ContainerDesk",
+            "short_description": "Native SwiftUI workspace for Apple's container runtime, with live resource monitoring and an integrated terminal.",
+            "categories": [
+                "development",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/MacHatter1/ContainerDesk",
+            "icon_url": "https://raw.githubusercontent.com/MacHatter1/ContainerDesk/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MacHatter1/ContainerDesk/main/docs/images/hero-light.png",
+                "https://raw.githubusercontent.com/MacHatter1/ContainerDesk/main/docs/images/terminal.png"
+            ],
+            "official_site": "https://github.com/MacHatter1/ContainerDesk",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
