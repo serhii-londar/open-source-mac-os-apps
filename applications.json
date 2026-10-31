@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Netty",
+            "short_description": "Menu bar dot that shows whether the internet really answers, with latency, jitter, loss, speed tests and drop notifications.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/alvaldes/netty",
+            "icon_url": "https://raw.githubusercontent.com/alvaldes/netty/main/docs/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alvaldes/netty/main/docs/assets/screenshots/popover-online-dark.png",
+                "https://raw.githubusercontent.com/alvaldes/netty/main/docs/assets/screenshots/popover-degraded-dark.png",
+                "https://raw.githubusercontent.com/alvaldes/netty/main/docs/assets/screenshots/settings-popover.png"
+            ],
+            "official_site": "https://alvaldes.github.io/netty/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
