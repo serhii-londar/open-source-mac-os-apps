@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Menu bar app that shows the dev servers, simulators, Docker stacks and build data AI coding agents leave running, and cleans up with a preview first.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/samirmaikap/spawnsweep",
+            "title": "SpawnSweep",
+            "icon_url": "https://raw.githubusercontent.com/samirmaikap/spawnsweep/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/samirmaikap/spawnsweep/main/docs/images/this-mac.jpg",
+                "https://raw.githubusercontent.com/samirmaikap/spawnsweep/main/docs/images/autopilot.jpg"
+            ],
+            "official_site": "https://github.com/samirmaikap/spawnsweep",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
