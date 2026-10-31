@@ -16278,6 +16278,23 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "ThunderTalk",
+            "short_description": "On-device voice input: press a key, speak Chinese or English, text lands at the cursor. Also transcribes links, reads aloud and composes songs.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/realAllenSong/ThunderTalk",
+            "icon_url": "https://raw.githubusercontent.com/realAllenSong/ThunderTalk/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/realAllenSong/ThunderTalk/main/assets/demo.gif"
+            ],
+            "official_site": "https://realallensong.github.io/ThunderTalk/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
