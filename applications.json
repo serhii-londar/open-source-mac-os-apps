@@ -8996,6 +8996,24 @@
             ]
         },
         {
+            "title": "Slapss",
+            "short_description": "Full-screen meeting reminder that takes over the screen when a meeting starts, with one-click Join for Zoom, Teams and Meet.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/theshiver/slapss-app",
+            "icon_url": "https://raw.githubusercontent.com/theshiver/slapss-app/main/docs/app-icon.png",
+            "screenshots": [
+                "https://slapss-app.com/overlay.jpg"
+            ],
+            "official_site": "https://slapss-app.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Your GitHub notifications on your menu bar.",
             "categories": [
                 "git"
