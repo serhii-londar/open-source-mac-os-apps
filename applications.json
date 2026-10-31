@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "short_description": "Native Swift window switcher with a persistent app bar and saved window groups.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/zshnb/open-contexts",
+            "title": "Open Contexts",
+            "icon_url": "https://raw.githubusercontent.com/zshnb/open-contexts/main/assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zshnb/open-contexts/main/docs/screenshots/window-switcher.png",
+                "https://raw.githubusercontent.com/zshnb/open-contexts/main/docs/screenshots/sidebar-left.png"
+            ],
+            "official_site": "https://opencontexts.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
