@@ -6267,6 +6267,24 @@
             ]
         },
         {
+            "short_description": "Keeps AirPods and iPhones from taking over the Mac's microphone, and can lock the input level.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fratayaydn/mickeeper",
+            "title": "MicKeeper",
+            "icon_url": "https://raw.githubusercontent.com/fratayaydn/mickeeper/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fratayaydn/mickeeper/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
+        },
+        {
             "short_description": "share and discover your favorite new products and applications. ",
             "categories": [
                 "social-networking"
