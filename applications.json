@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+                {
+            "short_description": "Dock window lists with browser tabs, a Flip 3D style ⌘Tab window switcher and Windows-style snapping in one app, without Screen Recording permission.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/geezery/DockFlip",
+            "title": "DockFlip",
+            "icon_url": "https://raw.githubusercontent.com/geezery/DockFlip/main/Resources/AppIcon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-flip.gif",
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-dock.gif",
+                "https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-snap.gif"
+            ],
+            "official_site": "https://geezery.github.io/DockFlip/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
