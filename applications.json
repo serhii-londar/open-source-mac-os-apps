@@ -11772,6 +11772,24 @@
             ]
         },
         {
+            "title": "Wavefunction",
+            "short_description": "Open-source desktop coding agent with parallel chats, MCP connectors and any model: local, your own API keys or a ChatGPT sign-in.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/stoyan-stoyanov/wavefunction",
+            "icon_url": "https://raw.githubusercontent.com/stoyan-stoyanov/wavefunction/main/assets/branding/wavefunction-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stoyan-stoyanov/wavefunction/main/docs/assets/wavefunction-new-chat-dark.png"
+            ],
+            "official_site": "https://www.wavefunction.si",
+            "languages": [
+                "python",
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "title": "Mac Sai",
             "short_description": "Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.",
             "categories": [
