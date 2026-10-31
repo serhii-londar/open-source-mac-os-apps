@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Local dictation and meeting transcription with speaker labels, free and unlimited for dictation.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/glimpse-hq/Glimpse",
+            "title": "Glimpse",
+            "icon_url": "https://raw.githubusercontent.com/glimpse-hq/Glimpse/main/assets/readme/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/glimpse-hq/Glimpse/main/assets/readme/home.png",
+                "https://raw.githubusercontent.com/glimpse-hq/Glimpse/main/assets/readme/library.png"
+            ],
+            "official_site": "https://tryglimpse.cc/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
