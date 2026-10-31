@@ -16297,8 +16297,8 @@
                 "rust",
                 "typescript"
             ]
-        },
-                {
+          },
+          {
             "short_description": "Dock window lists with browser tabs, a Flip 3D style ⌘Tab window switcher and Windows-style snapping in one app, without Screen Recording permission.",
             "categories": [
                 "window-management"
