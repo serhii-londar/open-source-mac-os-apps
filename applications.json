@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Hertzwise",
+            "short_description": "Menu bar app that switches the DAC's sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/zeetabit/Hertzwise",
+            "icon_url": "https://raw.githubusercontent.com/zeetabit/Hertzwise/main/branding/icon_1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zeetabit/Hertzwise/main/branding/screenshots/panel-light.png",
+                "https://raw.githubusercontent.com/zeetabit/Hertzwise/main/branding/screenshots/panel-dark.png"
+            ],
+            "official_site": "https://zeetabit.github.io/Hertzwise/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
