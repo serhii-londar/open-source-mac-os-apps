@@ -4615,6 +4615,23 @@
             ]
         },
         {
+            "short_description": "Menu bar app that gives any external mouse haptic scroll and click feedback through the MacBook trackpad.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ZANYANBU/haptic-mouse",
+            "title": "HapticMouse",
+            "icon_url": "https://raw.githubusercontent.com/ZANYANBU/haptic-mouse/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZANYANBU/haptic-mouse/main/assets/screenshot.jpg"
+            ],
+            "official_site": "https://zanyanbu.github.io/haptic-mouse/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "macOS menu bar app that gives you more control over Night Shift. ",
             "categories": [
                 "menubar"
