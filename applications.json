@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "Tarn",
+            "short_description": "A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jakeantelis/Tarn",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jakeantelis/Tarn/main/docs/images/tour.gif",
+                "https://raw.githubusercontent.com/jakeantelis/Tarn/main/docs/images/hero.png"
+            ],
+            "official_site": "https://antelislabs.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
