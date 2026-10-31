@@ -16280,6 +16280,25 @@
             ]
         },
         {
+            "title": "CC Switch",
+            "short_description": "Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/farion1231/cc-switch",
+            "icon_url": "https://raw.githubusercontent.com/farion1231/cc-switch/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/screenshots/main-en.png",
+                "https://raw.githubusercontent.com/farion1231/cc-switch/main/assets/screenshots/add-en.png"
+            ],
+            "official_site": "https://ccswitch.io",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
             "title": "Hardly Working",
             "short_description": "Menu bar app that nudges the cursor by one pixel after a chosen idle time, so chat apps don't mark you away.",
             "categories": [
