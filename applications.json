@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Liquid Glass torrent client, a redesigned fork of Transmission.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/Nik-code/nagare",
+            "title": "Nagare",
+            "icon_url": "https://raw.githubusercontent.com/Nik-code/nagare/nagare/docs/nagare/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Nik-code/nagare/nagare/docs/nagare/hero.png",
+                "https://raw.githubusercontent.com/Nik-code/nagare/nagare/docs/nagare/light.png"
+            ],
+            "official_site": "https://github.com/Nik-code/nagare",
+            "languages": [
+                "objective-c",
+                "c++"
+            ]
         }
     ]
 }
