@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Corral",
+            "short_description": "Native macOS and iPhone client to follow, manage, and reply to parallel Claude Code, Codex, OpenCode, and Cursor terminal sessions with split panes.",
+            "categories": [
+                "development",
+                "terminal",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/corral-dev/corral-apple",
+            "icon_url": "https://raw.githubusercontent.com/corral-dev/corral-apple/main/docs/images/corral-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/corral-dev/corral-apple/main/docs/screenshots/mac-split-dark.png",
+                "https://raw.githubusercontent.com/corral-dev/corral-apple/main/docs/screenshots/iphone-chat-dark.png"
+            ],
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
