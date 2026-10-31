@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Agentch",
+            "short_description": "Lives in the MacBook notch and shows how much is left of your AI coding subscriptions (Claude Code, Codex, Cursor, GitHub Copilot and more), with reset times. No account or servers.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/Osmait/agentch",
+            "icon_url": "https://raw.githubusercontent.com/Osmait/agentch/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Osmait/agentch/main/docs/images/panel.png",
+                "https://raw.githubusercontent.com/Osmait/agentch/main/docs/images/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
