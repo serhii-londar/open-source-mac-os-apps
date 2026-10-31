@@ -16278,6 +16278,24 @@
                 "swift",
                 "python"
             ]
+        },
+        {
+            "title": "HarnessBridge",
+            "short_description": "Open-source app for migrating AI coding-agent sessions between Claude Code, Codex, DeepSeek Harness, OMP, Qoder, and 40+ harnesses.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Larrtroffen/harnessbridge",
+            "icon_url": "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/screenshots/home.png",
+                "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/screenshots/detail.png"
+            ],
+            "official_site": "https://github.com/Larrtroffen/harnessbridge",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
