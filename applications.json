@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "xcpurge",
+            "short_description": "Command line tool that finds and safely removes unused assets, localized strings and files in Xcode and SwiftPM projects, with no build needed.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/iasaeed/xcpurge",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/iasaeed/xcpurge/main/docs/report-light.png"
+            ],
+            "official_site": "https://github.com/iasaeed/xcpurge",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
