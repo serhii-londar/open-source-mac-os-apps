@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "MP4Flow",
+            "short_description": "Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/ixiehao/MP4Flow",
+            "icon_url": "https://raw.githubusercontent.com/ixiehao/MP4Flow/main/website/assets/mp4flow-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ixiehao/MP4Flow/main/website/assets/mp4flow-v150-queue-en.jpg",
+                "https://raw.githubusercontent.com/ixiehao/MP4Flow/main/website/assets/mp4flow-v150-crop-en.jpg"
+            ],
+            "official_site": "https://ixiehao.github.io/MP4Flow/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
