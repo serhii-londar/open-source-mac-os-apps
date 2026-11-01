@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Mercury CLI",
+            "short_description": "Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/Whq02/MercuryCLI",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Whq02/MercuryCLI/main/docs/media/session-board-stream.gif"
+            ],
+            "official_site": "https://mercury-cli.ai",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
