@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "CCSwitcher",
+            "short_description": "Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/XueshiQiao/CCSwitcher",
+            "icon_url": "https://raw.githubusercontent.com/XueshiQiao/CCSwitcher/main/assets/CCSwitcher-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/XueshiQiao/CCSwitcher/main/assets/CCSwitcher-light.png",
+                "https://raw.githubusercontent.com/XueshiQiao/CCSwitcher/main/assets/CCSwitcher-dark.png"
+            ],
+            "official_site": "https://github.com/XueshiQiao/CCSwitcher",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
