@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Coincide",
+            "short_description": "Native app that runs Claude Code, Codex, Cursor, Grok Build, OpenCode and Antigravity in one window, with your existing sign-ins, and lets a thread switch agents mid-conversation.",
+            "categories": [
+                "development",
+                "ide"
+            ],
+            "repo_url": "https://github.com/apoorvdarshan/coincide",
+            "icon_url": "https://raw.githubusercontent.com/apoorvdarshan/coincide/main/website/public/img/icon-512.png",
+            "screenshots": [],
+            "official_site": "https://coincide.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
