@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Nexonic Download Manager",
+            "short_description": "Free download manager that splits files into up to 32 connections, resumes after restarts, catches browser downloads and saves videos, with a scheduler and queues.",
+            "categories": [
+                "downloader",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Shahrukhalid/nexonic-download-manager",
+            "icon_url": "https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/main/packaging/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/mac-main.png"
+            ],
+            "official_site": "https://github.com/Shahrukhalid/nexonic-download-manager",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
