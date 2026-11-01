@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Shutterbar",
+            "short_description": "ShareX-style screenshots: ⌘C a region to the clipboard, after-capture tasks, last-region recapture and scrolling capture.",
+            "categories": [
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/mucahitimre/Shutterbar",
+            "icon_url": "https://raw.githubusercontent.com/mucahitimre/Shutterbar/main/docs/images/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mucahitimre/Shutterbar/main/docs/images/screenshot.png",
+                "https://raw.githubusercontent.com/mucahitimre/Shutterbar/main/docs/images/editor.png"
+            ],
+            "official_site": "https://github.com/mucahitimre/Shutterbar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
