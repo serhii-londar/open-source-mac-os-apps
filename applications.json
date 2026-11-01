@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "ShotMap",
+            "short_description": "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/ixiehao/ShotMap",
+            "icon_url": "https://raw.githubusercontent.com/ixiehao/ShotMap/main/website/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ixiehao/ShotMap/main/website/assets/workspace-en.webp",
+                "https://raw.githubusercontent.com/ixiehao/ShotMap/main/website/assets/manual-en.webp"
+            ],
+            "official_site": "https://ixiehao.github.io/ShotMap/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
