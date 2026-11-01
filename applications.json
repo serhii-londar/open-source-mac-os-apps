@@ -16297,6 +16297,18 @@
                 "rust",
                 "typescript"
             ]
-        }
+        },
+        {
+            "title": "Piomio",
+            "short_description": "Open-source team of personal AI agents that runs on your Mac using your Claude Code or Codex subscription or an API key, and asks for approval before sending or buying anything.",
+            "categories": ["productivity"],
+            "repo_url": "https://github.com/legostin/piomio",
+            "icon_url": "https://raw.githubusercontent.co
+
+
+
+
+
+
     ]
 }
