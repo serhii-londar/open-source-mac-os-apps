@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "TurboKiller",
+            "short_description": "A free, open-source macOS menu bar app for toggling Intel Turbo Boost on Intel Macs.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/nicotech-studio/turbo-killer",
+            "icon_url": "https://raw.githubusercontent.com/nicotech-studio/turbo-killer/main/TurboKiller/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://turbokiller.nicotech.cc/assets/screenshots/app-en.png"
+            ],
+            "official_site": "https://turbokiller.nicotech.cc/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
