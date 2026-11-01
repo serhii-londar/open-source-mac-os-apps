@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AnyDrag",
+            "short_description": "Move any window by holding a modifier key and dragging anywhere on it, as smooth as a native title bar.",
+            "categories": [
+                "window-management",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/XueshiQiao/AnyDrag",
+            "icon_url": "https://raw.githubusercontent.com/XueshiQiao/AnyDrag/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/XueshiQiao/AnyDrag/main/screenshots/AnyDrag-drag-en.jpg",
+                "https://raw.githubusercontent.com/XueshiQiao/AnyDrag/main/screenshots/AnyDrag-middle-mouse-en.jpg"
+            ],
+            "official_site": "https://xueshi.dev/anydrag",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
