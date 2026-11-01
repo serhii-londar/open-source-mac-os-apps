@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "LumaView",
+            "short_description": "Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/ixiehao/LumaView",
+            "icon_url": "https://raw.githubusercontent.com/ixiehao/LumaView/main/website/assets/lumaview-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ixiehao/LumaView/main/docs/assets/lumaview-browse.png",
+                "https://raw.githubusercontent.com/ixiehao/LumaView/main/docs/assets/lumaview-welcome.png"
+            ],
+            "official_site": "https://ixiehao.github.io/LumaView/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
