@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "KeepMeOn",
+            "short_description": "Menu bar app that keeps Microsoft Teams from showing you as Away during short breaks, without moving the mouse or typing.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/christianmusumeci00/KeepMeOn",
+            "icon_url": "https://raw.githubusercontent.com/christianmusumeci00/KeepMeOn/main/docs/icona.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/christianmusumeci00/KeepMeOn/main/docs/benvenuto.png",
+                "https://raw.githubusercontent.com/christianmusumeci00/KeepMeOn/main/docs/orari.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
