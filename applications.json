@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OpenTape",
+            "short_description": "Simple, free screen recorder with zooms where you click and a smoothed cursor.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/aidankmcalister/OpenTape",
+            "icon_url": "https://opentape.app/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aidankmcalister/OpenTape/main/.github/screenshots/record.png",
+                "https://raw.githubusercontent.com/aidankmcalister/OpenTape/main/.github/screenshots/editor.png"
+            ],
+            "official_site": "https://opentape.app",
+            "languages": [
+                "typescript",
+                "rust"
+            ],
+            "macos_version": "15"
         }
     ]
 }
