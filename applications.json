@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AudioAnchor",
+            "short_description": "Menu bar app that keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/wata/AudioAnchor",
+            "icon_url": "https://raw.githubusercontent.com/wata/AudioAnchor/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wata/AudioAnchor/main/screenshots/screenshot-1.png"
+            ],
+            "official_site": "https://github.com/wata/AudioAnchor",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
