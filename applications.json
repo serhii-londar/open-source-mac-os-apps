@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Louppe",
+            "short_description": "Photo viewer and sorter for browsing JPEG and RAW folders without a library import, choosing keepers with the keyboard, and copying them to another folder.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/murlexander/louppe-media-culler",
+            "icon_url": "https://raw.githubusercontent.com/murlexander/louppe-media-culler/main/AppIcon/AppIcon.iconset/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/murlexander/louppe-media-culler/main/Docs/Media/2026-09-26/gallery-info.png",
+                "https://raw.githubusercontent.com/murlexander/louppe-media-culler/main/Docs/Media/2026-09-26/grid-overview.png"
+            ],
+            "official_site": "https://louppe.eu/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
