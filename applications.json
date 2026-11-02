@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Architect",
+            "short_description": "Ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/abhiramshaji-cyber/Architect",
+            "icon_url": "https://raw.githubusercontent.com/abhiramshaji-cyber/Architect/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/abhiramshaji-cyber/Architect/main/docs/screenshots/functions-list.png",
+                "https://raw.githubusercontent.com/abhiramshaji-cyber/Architect/main/docs/screenshots/functions-tree.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
