@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Friday",
+            "short_description": "Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/splashxmoon/friday",
+            "icon_url": "https://raw.githubusercontent.com/splashxmoon/friday/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/splashxmoon/friday/main/docs/assets/handoff.png",
+                "https://raw.githubusercontent.com/splashxmoon/friday/main/docs/assets/hero.png"
+            ],
+            "official_site": "https://www.tryfridaywork.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
