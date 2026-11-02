@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Carbon",
+            "short_description": "Menu bar app that transcribes your meetings on device and saves each one as a Markdown file, with no bot and no cloud.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/AlexDemzz/carbon",
+            "icon_url": "https://carbon.alexandrejoly.me/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AlexDemzz/carbon/main/docs/images/carbon-window.png"
+            ],
+            "official_site": "https://carbon.alexandrejoly.me",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
