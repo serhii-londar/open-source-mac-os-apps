@@ -15742,6 +15742,20 @@
             ]
         },
         {
+            "short_description": "Move large Mac apps to an external drive with a symlink left behind; automatic backup before migration and rollback on failure.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://github.com/xfanchuang-dot/suishouqian",
+            "title": "Suishouqian",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Vauta",
             "short_description": "Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.",
             "categories": [
