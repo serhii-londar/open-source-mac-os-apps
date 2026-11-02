@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Poinky",
+            "short_description": "Notch app that lets you talk to Claude Code: it sees your screen, answers by voice, sketches explanations and runs background agents.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tomyud1/poinky",
+            "icon_url": "https://raw.githubusercontent.com/tomyud1/poinky/main/docs/media/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tomyud1/poinky/main/docs/media/demo.gif"
+            ],
+            "official_site": "https://github.com/tomyud1/poinky",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
