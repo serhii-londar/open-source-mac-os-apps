@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/HSMM/MacroSIP",
+            "title": "MacroSIP",
+            "icon_url": "https://raw.githubusercontent.com/HSMM/MacroSIP/main/packaging/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HSMM/MacroSIP/main/docs/screenshots/light/dialpad-calls.png",
+                "https://raw.githubusercontent.com/HSMM/MacroSIP/main/docs/screenshots/dark/dialpad-calls.png",
+                "https://raw.githubusercontent.com/HSMM/MacroSIP/main/docs/screenshots/light/contacts-presence.png"
+            ],
+            "official_site": "https://github.com/HSMM/MacroSIP",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
