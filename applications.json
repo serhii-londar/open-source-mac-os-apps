@@ -7679,6 +7679,24 @@
             ]
         },
         {
+            "short_description": "Video player that plays MKV, AVI and HEVC through libmpv and helps clean up video folders with lossless splitting, contact sheets, re-encoding and one-key delete.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/ctengiz/viplay",
+            "title": "ViPlay",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ctengiz/viplay/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "go",
+                "vue"
+            ]
+        },
+        {
             "short_description": "3D 180/360 video player for macOS for PSVR with head tracking. ",
             "categories": [
                 "player"
