@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "FM Mini",
+            "short_description": "Minimal chat window for Apple's on-device language model (macOS 27). Attach a document, nothing leaves your Mac. Builds without Xcode.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/acromega/fm-mini",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/acromega/fm-mini/main/docs/accueil.png",
+                "https://raw.githubusercontent.com/acromega/fm-mini/main/docs/aller-plus-loin.png"
+            ],
+            "official_site": "https://github.com/acromega/fm-mini",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "27.0+"
         }
     ]
 }
