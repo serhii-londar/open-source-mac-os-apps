@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tarn",
+            "short_description": "Private AI chat that picks a local model sized for your Mac and runs it offline.",
+            "categories": [
+                "chat",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Rishab87/tarn",
+            "icon_url": "https://raw.githubusercontent.com/Rishab87/tarn/main/website/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Rishab87/tarn/main/website/assets/app-light.jpg",
+                "https://raw.githubusercontent.com/Rishab87/tarn/main/website/assets/app-dark.jpg"
+            ],
+            "official_site": "https://tarn-ai.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
