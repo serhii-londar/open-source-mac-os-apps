@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "WakeMeUpBT",
+            "short_description": "Turns Bluetooth off when a MacBook sleeps and on again when it wakes. Stops the DarkWake loop that drains the battery on M5 MacBook Pros.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/elmarbeckmann/WakeMeUpBT",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
