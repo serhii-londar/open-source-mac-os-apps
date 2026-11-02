@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "WYSIWYG Markdown editor that renders in place with no preview pane, with Mermaid and D2 diagrams, math and offline voice typing.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/solancer/sarala",
+            "title": "Sarala",
+            "icon_url": "https://raw.githubusercontent.com/solancer/sarala/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/solancer/sarala/main/screenshots/banner.webp"
+            ],
+            "official_site": "https://sarala.solancer.com",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
