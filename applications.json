@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "mirroir-mcp",
+            "short_description": "MCP server and CLI that lets AI agents see, tap, swipe and type on a real iPhone through iPhone Mirroring, with replayable test skills and no Developer Mode or Xcode.",
+            "categories": [
+                "development",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/jfarcand/mirroir-mcp",
+            "icon_url": "https://raw.githubusercontent.com/jfarcand/mirroir-mcp/main/website/public/logo-robot.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jfarcand/mirroir-mcp/main/website/public/video1-expo-login.gif",
+                "https://raw.githubusercontent.com/jfarcand/mirroir-mcp/main/website/public/video2-waze-slack.gif"
+            ],
+            "official_site": "https://mirroir.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
