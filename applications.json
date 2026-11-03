@@ -1,6 +1,20 @@
 {
     "applications": [
         {
+            "short_description": "Radial menu for switching apps, windows, and browser tabs on macOS.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/potatoQi/LumaRing",
+            "title": "LumaRing",
+            "icon_url": "https://raw.githubusercontent.com/potatoQi/LumaRing/main/docs/assets/logo.png",
+            "screenshots": [],
+            "official_site": "https://github.com/potatoQi/LumaRing",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
