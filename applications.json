@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "ClickPulse",
+            "short_description": "Offline keyboard and mouse activity tracker with daily trends, keyboard heatmaps, and a floating mini window.",
+            "categories": [
+                "productivity",
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/endNone/ClickPulse",
+            "icon_url": "https://raw.githubusercontent.com/endNone/ClickPulse/main/assets/clickpulse-blue-cursor-v3.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/endNone/ClickPulse/main/docs/images/overview-en.jpg",
+                "https://raw.githubusercontent.com/endNone/ClickPulse/main/docs/images/keyboard-en.jpg"
+            ],
+            "official_site": "https://github.com/endNone/ClickPulse",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
