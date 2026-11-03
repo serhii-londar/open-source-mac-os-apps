@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Murmury",
+            "short_description": "Answers questions from your own documents during video calls, in a floating window hidden from screen sharing.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/GianlucaBave/murmury",
+            "icon_url": "https://raw.githubusercontent.com/GianlucaBave/murmury/main/copilot/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GianlucaBave/murmury/main/docs/assets/meeting.webp"
+            ],
+            "official_site": "https://murmury.pages.dev",
+            "languages": [
+                "python",
+                "swift"
+            ]
         }
     ]
 }
