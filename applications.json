@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Chronoface",
+            "short_description": "Analog watch face screensaver with 16 dial themes, a luminescent night mode and live weather.",
+            "categories": [
+                "screensaver"
+            ],
+            "repo_url": "https://github.com/qwq-qwq/Chronoface",
+            "icon_url": "https://raw.githubusercontent.com/qwq-qwq/Chronoface/main/Chronoface/ChronofaceApp/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qwq-qwq/Chronoface/main/web/html/themes-grid.jpg",
+                "https://raw.githubusercontent.com/qwq-qwq/Chronoface/main/Chronoface/Chronoface/thumbnail.png"
+            ],
+            "official_site": "https://chronoface.perek.rest",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
