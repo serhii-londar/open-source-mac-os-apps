@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AI Footprint",
+            "short_description": "Shows the disk, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/stanczykwyatt/ai-footprint",
+            "icon_url": "https://raw.githubusercontent.com/stanczykwyatt/ai-footprint/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stanczykwyatt/ai-footprint/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/stanczykwyatt/ai-footprint/main/docs/screenshot-light.png"
+            ],
+            "official_site": "https://stanczykwyatt.github.io/ai-footprint/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
