@@ -6803,6 +6803,25 @@
             ]
         },
         {
+            "title": "SSHTermaq",
+            "short_description": "PuTTY-compatible SSH, Telnet and serial terminal with tabs, split panes, an SFTP/SCP file manager and one-click PuTTY session import.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/f1resh/sshtermaq",
+            "icon_url": "https://raw.githubusercontent.com/f1resh/sshtermaq/main/native/res/icon-256.png",
+            "screenshots": [
+                "https://f1resh.github.io/sshtermaq/img/split-panes.png",
+                "https://f1resh.github.io/sshtermaq/img/sftp-panel.png",
+                "https://f1resh.github.io/sshtermaq/img/putty-import.png"
+            ],
+            "official_site": "https://f1resh.github.io/sshtermaq/",
+            "languages": [
+                "cpp",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "wallpapper is a console application for creating dynamic wallpapers for Mojave. ",
             "categories": [
                 "terminal"
