@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "InputConfig",
+            "short_description": "Map game controllers, keyboards, mice, trackpads and MIDI devices to keys, clicks, scrolling, macros and system actions.",
+            "categories": [
+                "utilities",
+                "games"
+            ],
+            "repo_url": "https://github.com/ryleighnewman/InputConfig",
+            "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/InputConfig_app_icon.png",
+            "screenshots": [
+                "https://upload.wikimedia.org/wikipedia/commons/b/b8/InputConfig_main_window.png"
+            ],
+            "official_site": "https://inputconfig.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
