@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Unblock Eject",
+            "short_description": "Shows which apps have files open on a disk that won't eject, quits them politely and ejects.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/stanczykwyatt/unblock-eject",
+            "icon_url": "https://raw.githubusercontent.com/stanczykwyatt/unblock-eject/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stanczykwyatt/unblock-eject/main/docs/demo.gif",
+                "https://raw.githubusercontent.com/stanczykwyatt/unblock-eject/main/docs/screenshot-light.png"
+            ],
+            "official_site": "https://stanczykwyatt.github.io/unblock-eject/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
