@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Claws for Concern",
+            "short_description": "Menu bar app that puts a small Clawd in a screen corner for each Claude Code session that needs you; hover for a recap, click to jump to its terminal tab.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/patildhruv/claws-for-concern",
+            "icon_url": "https://raw.githubusercontent.com/patildhruv/claws-for-concern/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/patildhruv/claws-for-concern/main/docs/media/hero-light.jpg",
+                "https://raw.githubusercontent.com/patildhruv/claws-for-concern/main/docs/media/demo.gif"
+            ],
+            "official_site": "https://github.com/patildhruv/claws-for-concern",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
