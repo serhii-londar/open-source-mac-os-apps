@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tingo",
+            "short_description": "Local-first meeting notes: records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tancheng33/tingo",
+            "icon_url": "https://raw.githubusercontent.com/tancheng33/tingo/main/app/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tancheng33/tingo/main/docs/screenshots/detail.png",
+                "https://raw.githubusercontent.com/tancheng33/tingo/main/docs/screenshots/fishbone.png"
+            ],
+            "official_site": "https://github.com/tancheng33/tingo",
+            "languages": [
+                "rust",
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
