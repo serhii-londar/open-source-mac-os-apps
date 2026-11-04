@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "gas",
+            "short_description": "Menu bar app and floating panel that show Claude Code, Codex and Grok plan usage limits and reset times.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/gilador/gas",
+            "icon_url": "https://raw.githubusercontent.com/gilador/gas/main/App/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gilador/gas/main/docs/images/menu-and-panel.png"
+            ],
+            "official_site": "https://github.com/gilador/gas",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
