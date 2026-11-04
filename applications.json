@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Gitceps",
+            "short_description": "A gym bro who lifts your code every time you git push, and blocks pushes that contain passwords or API keys.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/ArturVah/gitceps",
+            "icon_url": "https://raw.githubusercontent.com/ArturVah/gitceps/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ArturVah/gitceps/main/.github/assets/demo.gif"
+            ],
+            "official_site": "https://gitceps.app",
+            "languages": [
+                "swift",
+                "shell",
+                "javascript"
+            ]
         }
     ]
 }
