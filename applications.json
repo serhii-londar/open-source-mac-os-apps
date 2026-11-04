@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "NonSleep",
+            "short_description": "Keeps a Mac awake with the lid closed while AI coding agents work, and sleeps the moment they finish.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/Tran-Duc-Duy/nonsleep",
+            "icon_url": "https://raw.githubusercontent.com/Tran-Duc-Duy/nonsleep/main/Resources/AppIcon.png",
+            "screenshots": [],
+            "official_site": "https://nonsleep.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
