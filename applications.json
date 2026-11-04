@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Snap2Link",
+            "short_description": "Capture a screen region with a hotkey and get a shareable Google Drive link in your clipboard.",
+            "categories": [
+                "images",
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/amys94fr/Snap2Link",
+            "icon_url": "https://raw.githubusercontent.com/amys94fr/Snap2Link/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/amys94fr/Snap2Link/main/docs/snap2link-demo.gif"
+            ],
+            "official_site": "https://snap2link.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
