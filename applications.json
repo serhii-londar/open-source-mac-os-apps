@@ -8090,13 +8090,11 @@
             ],
             "repo_url": "https://github.com/lwouis/alt-tab-macos",
             "title": "AltTab",
-            "icon_url": "https://raw.githubusercontent.com/lwouis/alt-tab-macos/44ac1e1012c677572397c1ab12955b9c54b6a175/resources/icons/app/app.svg",
+            "icon_url": "https://raw.githubusercontent.com/lwouis/alt-tab-macos/c500294bdb01186011a5c64a412b04cef9931bef/resources/icons/app/app.png",
             "screenshots": [
-                "https://alt-tab-macos.netlify.app/public/demo/1-row.jpg",
-                "https://alt-tab-macos.netlify.app/public/demo/2-rows.jpg",
-                "https://alt-tab-macos.netlify.app/public/demo/windows-theme.jpg"
+                "https://raw.githubusercontent.com/lwouis/alt-tab-macos/c500294bdb01186011a5c64a412b04cef9931bef/docs/readme/screenshot-source.webp"
             ],
-            "official_site": "https://alt-tab-macos.netlify.app/",
+            "official_site": "https://alt-tab.app/",
             "languages": [
                 "swift",
                 "shell"
@@ -10769,22 +10767,6 @@
                 "rust",
                 "typescript",
                 "go"
-            ]
-        },
-        {
-            "short_description": "Switch between open applications on macOS with a Windows-like Alt+Tab experience.",
-            "categories": [
-                "window-management"
-            ],
-            "repo_url": "https://github.com/lwouis/alt-tab-macos",
-            "title": "AltTab",
-            "icon_url": "https://github.com/lwouis/alt-tab-macos/blob/master/resources/icons/app/app.svg",
-            "screenshots": [
-                "https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg"
-            ],
-            "official_site": "https://alt-tab-macos.netlify.app/",
-            "languages": [
-                "swift"
             ]
         },
         {
