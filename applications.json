@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Saywing",
+            "short_description": "Read selected screen regions aloud with on-device OCR and neural speech, and dictate English or German offline.",
+            "categories": [
+                "utilities",
+                "menubar",
+                "audio"
+            ],
+            "repo_url": "https://github.com/ChrBoebel/saywing",
+            "icon_url": "https://raw.githubusercontent.com/ChrBoebel/saywing/main/.github/assets/saywing-icon-256.png",
+            "screenshots": [],
+            "official_site": "https://www.christopherboebel.com/en/saywing",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
