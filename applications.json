@@ -16244,6 +16244,23 @@
             ]
         },
         {
+            "title": "Flipic",
+            "short_description": "Photo culling viewer for photographers: arrow-key paging through a folder, 100% focus check, XMP ratings Lightroom reads, on-device cleanup mode.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/xmasdong/flipic",
+            "icon_url": "https://flipic.app/icon-256.png",
+            "screenshots": [
+                "https://flipic.app/shots/2f0e9fea/browse-01.webp",
+                "https://flipic.app/shots/2f0e9fea/cleanup.webp"
+            ],
+            "official_site": "https://flipic.app/en/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Alchemist Coder",
             "short_description": "Desktop app for Claude Code and Codex that shows every agent and subagent live, searches your coding-agent history and runs agents on local models.",
             "categories": [
