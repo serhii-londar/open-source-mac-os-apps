@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder.",
+            "categories": [
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/33to9/TinyRecorder",
+            "title": "TinyRecorder",
+            "icon_url": "https://raw.githubusercontent.com/33to9/TinyRecorder/main/TinyRecorder-Brand-Kit/branding/png/app-icon-light-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/33to9/TinyRecorder/main/img/tinyrecorder-header.png"
+            ],
+            "official_site": "https://www.tinyrecorder.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
