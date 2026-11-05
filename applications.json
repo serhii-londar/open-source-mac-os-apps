@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Edge Odyssey",
+            "short_description": "Pomodoro timer drawn as a thin screen-edge border that a tiny Odysseus travels as the session passes, with optional Claude Code status signals.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/s3onghyun/edge-odyssey",
+            "icon_url": "https://raw.githubusercontent.com/s3onghyun/edge-odyssey/main/assets/icon/AppIcon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/s3onghyun/edge-odyssey/main/assets/screenshots/voyage.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
