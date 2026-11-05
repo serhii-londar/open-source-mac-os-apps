@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Token Yugong",
+            "short_description": "Pixel-art menu-bar pet that shows Claude Code and Codex usage limits as Grandpa Yugong filling his carrier and wearing down a mountain.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/s3onghyun/token-yugong",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/s3onghyun/token-yugong/main/docs/hero.gif",
+                "https://raw.githubusercontent.com/s3onghyun/token-yugong/main/docs/title-rewards.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
