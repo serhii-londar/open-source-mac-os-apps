@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "AudioEnhancerMAX",
+            "short_description": "Audio editor with local processing, reviewable non-destructive edits, and traceable processing reports.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/sev7enITA/AudioEnhancerMAX",
+            "icon_url": "https://raw.githubusercontent.com/sev7enITA/AudioEnhancerMAX/main/frontend/img/audioenhancermax-logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sev7enITA/AudioEnhancerMAX/main/web/img/governance/03-precision-editor.png",
+                "https://raw.githubusercontent.com/sev7enITA/AudioEnhancerMAX/main/web/img/governance/05-processing-report.png"
+            ],
+            "official_site": "https://fabriziodegni.com/AudioEnhancerMAX/",
+            "languages": [
+                "python",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
