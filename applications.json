@@ -16300,7 +16300,7 @@
         },
         {
             "title": "Gitceps",
-            "short_description": "A gym bro who lifts your code every time you git push, and blocks pushes that contain passwords or API keys.",
+            "short_description": "A gym bro who pushes your code to the cloud every time you git push, and blocks pushes that contain passwords or API keys.",
             "categories": [
                 "git"
             ],
