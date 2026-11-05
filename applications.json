@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Perry",
+            "short_description": "Notch app that points at the button you need in any app, or clicks it for you, using your ChatGPT or Claude plan, an API key, or a local model.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hridaya423/perry",
+            "icon_url": "https://raw.githubusercontent.com/hridaya423/perry/main/App/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hridaya423/perry/main/.github/assets/guide.png",
+                "https://raw.githubusercontent.com/hridaya423/perry/main/.github/assets/task.png"
+            ],
+            "official_site": "https://perry-chi.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
