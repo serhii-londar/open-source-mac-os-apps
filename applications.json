@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Toaster",
+            "short_description": "Listens to whatever is playing and writes it out as live Strudel code, with visuals that move to the music.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/StopBanning/toaster",
+            "icon_url": "https://raw.githubusercontent.com/StopBanning/toaster/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/StopBanning/toaster/main/docs/hero-code.webp"
+            ],
+            "official_site": "https://toaster.locust.lol",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
