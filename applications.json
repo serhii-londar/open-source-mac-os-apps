@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Open-source AI video studio running locally on Apple Silicon Macs, distinct from the Phosphene video wallpaper app.",
+            "categories": [
+                "graphics",
+                "video"
+            ],
+            "repo_url": "https://github.com/mrbizarro/Phosphene",
+            "title": "Phosphene AI",
+            "icon_url": "https://raw.githubusercontent.com/mrbizarro/Phosphene/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mrbizarro/Phosphene/main/assets/phosphene_banner.png"
+            ],
+            "official_site": "https://phosphene.video/",
+            "languages": [
+                "python",
+                "javascript"
+            ]
         }
     ]
 }
