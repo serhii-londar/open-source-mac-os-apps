@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Buddy",
+            "short_description": "Study helper in the notch that explains what is on your screen out loud while drawing on it, and walks you through apps one step at a time.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/projects-hacks/buddy",
+            "icon_url": "https://raw.githubusercontent.com/projects-hacks/buddy/main/docs/images/buddy-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/projects-hacks/buddy/main/docs/images/demo.gif",
+                "https://raw.githubusercontent.com/projects-hacks/buddy/main/docs/images/diagram-review.png"
+            ],
+            "official_site": "https://github.com/projects-hacks/buddy",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
