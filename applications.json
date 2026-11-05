@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Graphis",
+            "short_description": "Generate images from text on Apple silicon with the open MOSS-Image model, running locally through a bundled mflux and MLX engine.",
+            "categories": [
+                "graphics",
+                "images"
+            ],
+            "repo_url": "https://github.com/Campfire7/graphis",
+            "icon_url": "https://raw.githubusercontent.com/Campfire7/graphis/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Campfire7/graphis/main/docs/screenshot-result.png",
+                "https://raw.githubusercontent.com/Campfire7/graphis/main/docs/screenshot-prompt.png"
+            ],
+            "official_site": "https://github.com/Campfire7/graphis",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
