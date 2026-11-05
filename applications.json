@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Radif",
+            "short_description": "Unofficial YouTube Music client built with Tauri, with synced lyrics, a fullscreen player and a video mode. Needs YouTube Music Premium.",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/yuvrajangadsingh/radif",
+            "icon_url": "https://raw.githubusercontent.com/yuvrajangadsingh/radif/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yuvrajangadsingh/radif/main/assets/screenshots/fullscreen.jpg",
+                "https://raw.githubusercontent.com/yuvrajangadsingh/radif/main/assets/screenshots/notch-peek.jpg",
+                "https://raw.githubusercontent.com/yuvrajangadsingh/radif/main/assets/screenshots/video-quality.jpg"
+            ],
+            "official_site": "https://www.yuvrajangadsingh.com/radif",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
