@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "PlayPets",
+            "short_description": "Desktop pets that chat with each other through the AI you choose, tend a garden in their own yard, and react to Claude Code, Codex and other coding agents.",
+            "categories": [
+                "other",
+                "development"
+            ],
+            "repo_url": "https://github.com/gaerae/playpets",
+            "icon_url": "https://raw.githubusercontent.com/gaerae/playpets/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gaerae/playpets/main/website/public/shots/1.5.0/en/yard-talk.webp",
+                "https://raw.githubusercontent.com/gaerae/playpets/main/website/public/shots/1.5.0/en/desktop.webp",
+                "https://raw.githubusercontent.com/gaerae/playpets/main/website/public/shots/1.5.0/en/settings-agents.webp"
+            ],
+            "official_site": "https://playpets.gaerae.com/",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
