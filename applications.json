@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Volumist",
+            "short_description": "Menu bar mixer with per-app volume, output, EQ and leveling, and automatic lowering during calls.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jpdominguez/volumist",
+            "icon_url": "https://raw.githubusercontent.com/jpdominguez/volumist/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jpdominguez/volumist/main/docs/screenshot.png"
+            ],
+            "official_site": "https://github.com/jpdominguez/volumist",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
