@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Wavo",
+            "short_description": "Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/vladkens/wavo-app",
+            "icon_url": "https://raw.githubusercontent.com/vladkens/wavo-app/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vladkens/wavo-app/assets/wavo-greeting.webp"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
