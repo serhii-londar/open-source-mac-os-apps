@@ -93,6 +93,23 @@
             ]
         },
         {
+            "short_description": "Menu bar app for monitoring remote NVIDIA GPU servers over SSH with nvidia-smi.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/jaein4722/NVBeacon",
+            "title": "NVBeacon",
+            "icon_url": "https://raw.githubusercontent.com/jaein4722/NVBeacon/master/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jaein4722/NVBeacon/master/assets/popover-overview.png"
+            ],
+            "official_site": "https://jaein4722.github.io/NVBeacon/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "OnionShare",
             "short_description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network.",
             "categories": [
