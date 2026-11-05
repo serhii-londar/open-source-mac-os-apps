@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Awake",
+            "short_description": "Keep your MacBook awake with the lid closed on battery or power, with a Control Center toggle, Menu Bar timer, CLI, instant screen lock on lid close, and a thermal and battery guard.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/Illyism/awake",
+            "icon_url": "https://raw.githubusercontent.com/Illyism/awake/main/assets/awake-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Illyism/awake/main/assets/awake-hero.jpg"
+            ],
+            "official_site": "https://il.ly/awake",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
