@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "encore",
+            "short_description": "Native clipboard manager with a visual shelf, searchable library, snippets and end-to-end encrypted Mac-to-Mac sharing.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Kamasoutra/encore",
+            "icon_url": "https://raw.githubusercontent.com/Kamasoutra/encore/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Kamasoutra/encore/main/assets/shelf-dark.png",
+                "https://raw.githubusercontent.com/Kamasoutra/encore/main/assets/workspace.png",
+                "https://raw.githubusercontent.com/Kamasoutra/encore/main/assets/snippet-editor.png"
+            ],
+            "official_site": "https://kamasoutra.github.io/encore/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
