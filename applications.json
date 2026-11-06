@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Open Libary",
+            "short_description": "Sample browser for music producers that searches your own sample folders, plays on select, drags into the DAW and keeps a license record for free CC0 and CC BY sounds.",
+            "categories": [
+                "audio",
+                "music"
+            ],
+            "repo_url": "https://github.com/jyxpi/open-libary",
+            "icon_url": "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/library.png",
+                "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/web.png"
+            ],
+            "official_site": "https://github.com/jyxpi/open-libary",
+            "languages": [
+                "python",
+                "javascript",
+                "objective_c"
+            ]
         }
     ]
 }
