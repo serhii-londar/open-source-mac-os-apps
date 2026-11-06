@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Yokoi",
+            "short_description": "Native cleaner for developers that reclaims disk space from node_modules, build artifacts, package caches, Docker images and old simulators, moving everything to the Trash with Put Back.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/indieocean/yokoi",
+            "icon_url": "https://indieocean.github.io/yokoi/img/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/indieocean/yokoi/main/assets/readme/screenshots/dashboard.png",
+                "https://raw.githubusercontent.com/indieocean/yokoi/main/assets/readme/screenshots/npm-node-modules.png"
+            ],
+            "official_site": "https://indieocean.github.io/yokoi/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
