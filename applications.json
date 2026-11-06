@@ -35,21 +35,6 @@
             ]
         },
         {
-            "short_description": "Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent.",
-            "categories": [
-                "security",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/sinhong2011/triwarden",
-            "title": "Triwarden",
-            "icon_url": "",
-            "screenshots": [],
-            "official_site": "https://triwarden.cc/",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
@@ -6220,6 +6205,21 @@
             "official_site": "",
             "languages": [
                 "python"
+            ]
+        },
+        {
+            "short_description": "Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sinhong2011/triwarden",
+            "title": "Triwarden",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://triwarden.cc/",
+            "languages": [
+                "swift"
             ]
         },
         {
