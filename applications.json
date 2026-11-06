@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tendedero",
+            "short_description": "Every screenshot you take hangs on a line just above your screen, ready to drag into any app or folder.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/alejandrobujan/tendedero",
+            "icon_url": "https://tendedero.app/assets/press/tendedero-icon-1024.png",
+            "screenshots": [
+                "https://tendedero.app/assets/press/tendedero-hero-light.png",
+                "https://tendedero.app/assets/press/tendedero-gestures-light.png"
+            ],
+            "official_site": "https://tendedero.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
