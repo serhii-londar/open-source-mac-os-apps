@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lyncat Tria",
+            "short_description": "Command-line tool that names and files documents with AI, following rules written in plain language, and never deletes or overwrites anything.",
+            "categories": [
+                "productivity",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/startcat/tria",
+            "icon_url": "https://tria.lyn.cat/marca/icono-tria.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/startcat/tria/main/docs/demo.gif"
+            ],
+            "official_site": "https://tria.lyn.cat",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
