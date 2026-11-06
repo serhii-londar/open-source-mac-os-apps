@@ -16305,13 +16305,13 @@
                 "audio",
                 "music"
             ],
-            "repo_url": "https://github.com/Kflsox/open-libary",
-            "icon_url": "https://raw.githubusercontent.com/Kflsox/open-libary/main/docs/media/icon.png",
+            "repo_url": "https://github.com/jyxpi/open-libary",
+            "icon_url": "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/Kflsox/open-libary/main/docs/media/library.png",
-                "https://raw.githubusercontent.com/Kflsox/open-libary/main/docs/media/web.png"
+                "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/library.png",
+                "https://raw.githubusercontent.com/jyxpi/open-libary/main/docs/media/web.png"
             ],
-            "official_site": "https://github.com/Kflsox/open-libary",
+            "official_site": "https://github.com/jyxpi/open-libary",
             "languages": [
                 "python",
                 "javascript",
