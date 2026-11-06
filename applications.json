@@ -9357,6 +9357,22 @@
             ]
         },
         {
+            "repo_url": "https://github.com/Aliasviejo/Mando",
+            "official_site": "",
+            "title": "Mando",
+            "icon_url": "https://raw.githubusercontent.com/Aliasviejo/Mando/main/docs/icon.png",
+            "screenshots": [],
+            "short_description": "Native volume and brightness keys for HDMI and DisplayPort monitors and TVs, with the macOS bezel and a virtual audio device.",
+            "languages": [
+                "swift",
+                "c"
+            ],
+            "categories": [
+                "audio",
+                "menubar"
+            ]
+        },
+        {
             "short_description": "Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
             "categories": [
                 "browser"
