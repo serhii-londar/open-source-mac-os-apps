@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "NetMeter",
+            "short_description": "Tiny menu bar app that shows your live upload and download speed.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/pr4th4meshh/net-meter",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pr4th4meshh/net-meter/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
