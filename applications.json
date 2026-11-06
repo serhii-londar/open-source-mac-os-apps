@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "MiaoYan",
+            "short_description": "Lightweight local-first Markdown notes app with split editor and preview, LaTeX, Mermaid and wikilinks.",
+            "categories": [
+                "markdown",
+                "text"
+            ],
+            "repo_url": "https://github.com/tw93/MiaoYan",
+            "icon_url": "https://raw.githubusercontent.com/tw93/MiaoYan/main/Resources/app.icon/Assets/43.png",
+            "screenshots": [
+                "https://miaoyan.app/assets/shots/en-split-2400.webp"
+            ],
+            "official_site": "https://miaoyan.app/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
