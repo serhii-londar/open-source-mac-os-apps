@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Proton VPN Menu Bar",
+            "short_description": "Unofficial menu bar app for Proton VPN, with country search, Secure Core, NetShield, kill switch and port forwarding.",
+            "categories": [
+                "vpn--proxy",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stevelacey/proton-vpn-menubar",
+            "icon_url": "https://raw.githubusercontent.com/stevelacey/proton-vpn-menubar/main/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stevelacey/proton-vpn-menubar/main/screenshot.png",
+                "https://raw.githubusercontent.com/stevelacey/proton-vpn-menubar/main/menubar-icons.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
