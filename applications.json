@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "lmux",
+            "short_description": "Lightweight native macOS terminal built on libghostty for running Claude Code and Codex sessions, with sidebar workspaces, splits and tabs, and live agent status in the sidebar.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/sooftware/lmux",
+            "icon_url": "https://raw.githubusercontent.com/sooftware/lmux/main/docs/site/img/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sooftware/lmux/main/assets/screenshots/hero-dark.png",
+                "https://raw.githubusercontent.com/sooftware/lmux/main/assets/screenshots/hero-light.png"
+            ],
+            "official_site": "https://lmux.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
