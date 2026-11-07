@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Voice Island",
+            "short_description": "Dictation, voice commands and a spoken assistant in one menu bar app, with speech recognition and the language model running on the Mac.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Voice-Island/voice-island",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Voice-Island/voice-island/main/docs/demo.gif"
+            ],
+            "official_site": "https://voice-island.vercel.app",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
