@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Hey Mac",
+            "short_description": "On-device face unlock for the lock screen and privacy shields for selected apps.",
+            "categories": [
+                "security",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/iharshitmaurya/HeyMac",
+            "icon_url": "https://heymacapp.com/icon-224.webp",
+            "screenshots": [
+                "https://heymacapp.com/media/applock.webp"
+            ],
+            "official_site": "https://heymacapp.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
