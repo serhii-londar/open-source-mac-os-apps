@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Chime 4 Breakfast",
+            "short_description": "Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/onekapisch/chime-4-breakfast",
+            "icon_url": "https://raw.githubusercontent.com/onekapisch/chime-4-breakfast/main/Sources/Chime4BreakfastApp/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/onekapisch/chime-4-breakfast/main/.github/assets/popover.png",
+                "https://raw.githubusercontent.com/onekapisch/chime-4-breakfast/main/.github/assets/hero.png"
+            ],
+            "official_site": "https://www.onekapisch.com/products/chime-4-breakfast/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
