@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "NeatWebApp",
+            "short_description": "Native macOS WebKit app that turns websites into focused apps, launched from the notch with an edge-tucking activity Dock.",
+            "categories": [
+                "browser",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/NeatMacApps/NeatWebApp",
+            "icon_url": "https://raw.githubusercontent.com/NeatMacApps/NeatWebApp/main/docs/images/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/NeatMacApps/NeatWebApp/main/docs/images/launcher.png",
+                "https://raw.githubusercontent.com/NeatMacApps/NeatWebApp/main/docs/images/activity-dock-dark.png"
+            ],
+            "official_site": "https://github.com/NeatMacApps/NeatWebApp",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
