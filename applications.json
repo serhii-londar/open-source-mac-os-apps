@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Bower",
+            "short_description": "Window and workspace manager with nine named layouts across every display, switched with ⌥1–9, plus snapping and a radial Snap Wheel.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/truthofmatthew/bower",
+            "icon_url": "https://raw.githubusercontent.com/truthofmatthew/bower/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/truthofmatthew/bower/main/docs/screenshots/wheel.png",
+                "https://raw.githubusercontent.com/truthofmatthew/bower/main/docs/screenshots/layouts-bar.png"
+            ],
+            "official_site": "https://truthofmatthew.com/projects/bower/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
