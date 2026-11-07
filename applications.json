@@ -1818,6 +1818,22 @@
             ]
         },
         {
+            "short_description": "Git client that automatically picks the right GitHub account for every repository.",
+            "categories": [
+                "git"
+            ],
+            "repo_url": "https://github.com/Dhunu/gitOS",
+            "title": "GitOS",
+            "icon_url": "https://raw.githubusercontent.com/Dhunu/gitOS/main/website/assets/favicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Dhunu/gitOS/main/website/assets/themes/gitos.png"
+            ],
+            "official_site": "https://gitos.angelsaikia.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Minimalistic Git client for Mac. ",
             "categories": [
                 "git"
