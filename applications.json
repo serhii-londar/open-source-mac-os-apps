@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Cue",
+            "short_description": "Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hridaya423/cue",
+            "icon_url": "https://raw.githubusercontent.com/hridaya423/cue/main/web/public/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hridaya423/cue/main/docs/demo.gif"
+            ],
+            "official_site": "https://cue.hridya.tech",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
