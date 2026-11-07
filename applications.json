@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Easy Write",
+            "short_description": "Menu bar app that translates and rewrites selected text in place with on-device Apple Intelligence, in a formal or informal tone.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/onekapisch/easy-write",
+            "icon_url": "https://www.onekapisch.com/assets/icon-easy-write.png",
+            "screenshots": [
+                "https://www.onekapisch.com/assets/easy-write-v2/hero-daylight.webp",
+                "https://www.onekapisch.com/assets/easy-write-v2/menu-bar.webp",
+                "https://www.onekapisch.com/assets/easy-write-v2/tones.webp"
+            ],
+            "official_site": "https://www.onekapisch.com/products/easy-write/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
