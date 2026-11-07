@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lumio",
+            "short_description": "Open-source keyboard launcher for macOS with a native SwiftUI interface, Rust core, app and file search, clipboard history, and OCR.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/cavaldos/Lumio",
+            "icon_url": "https://raw.githubusercontent.com/cavaldos/Lumio/main/apps/macos/LauncherApp/lumio-app/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/cavaldos/Lumio/main/assets/lumio-ui/1.png",
+                "https://raw.githubusercontent.com/cavaldos/Lumio/main/assets/lumio-ui/2.png",
+                "https://raw.githubusercontent.com/cavaldos/Lumio/main/assets/lumio-ui/3.png"
+            ],
+            "official_site": "https://github.com/cavaldos/Lumio",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
