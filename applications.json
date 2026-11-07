@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "hYYa Digital Footprint Check",
+            "short_description": "Privacy check-up that shows what any app can learn about your Mac, with steps to reduce it.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/hyya-dev/hYYa-Digital-Footprint-Check",
+            "icon_url": "https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/App/Resources/Assets.xcassets/AppIcon.appiconset/mac-512@1x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/mac/01-results.png",
+                "https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/mac/05-checkup.png"
+            ],
+            "official_site": "https://hyya.com/hyya-digital-footprint-check.html",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
