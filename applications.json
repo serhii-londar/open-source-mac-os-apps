@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Foundry",
+            "short_description": "Native launcher with clipboard history, snippets, window layouts, file search and AI chat in one panel.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hridaya423/foundry",
+            "icon_url": "https://raw.githubusercontent.com/hridaya423/foundry/main/Supporting/AppIcon.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hridaya423/foundry/main/docs/qa/2026-09-29-live/live-search.png",
+                "https://raw.githubusercontent.com/hridaya423/foundry/main/docs/qa/2026-11-01-last-20/phase6/clipboard-text-dark.png"
+            ],
+            "official_site": "https://foundry.hridya.tech",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
