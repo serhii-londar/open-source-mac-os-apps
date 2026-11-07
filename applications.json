@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Upscale, denoise and restore photos and videos on your own computer with current AI models.",
+            "categories": [
+                "images",
+                "video"
+            ],
+            "repo_url": "https://github.com/HerRei/local-upscale",
+            "title": "LocalSR",
+            "icon_url": "https://herrei.github.io/localsr/press/localsr-icon.png",
+            "screenshots": [
+                "https://herrei.github.io/localsr/press/localsr-window.webp",
+                "https://herrei.github.io/localsr/press/localsr-model-library.webp"
+            ],
+            "official_site": "https://herrei.github.io/localsr/",
+            "languages": [
+                "rust",
+                "typescript",
+                "python"
+            ]
         }
     ]
 }
