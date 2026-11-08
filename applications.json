@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "MightyMouse",
+            "short_description": "Voice typing in any app with local Whisper, Claude Code and Codex agents that keep working while you're out, and your Mac on your phone.",
+            "categories": [
+                "productivity",
+                "development"
+            ],
+            "repo_url": "https://github.com/royherma/mightymouse",
+            "icon_url": "https://raw.githubusercontent.com/royherma/mightymouse/main/.github/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/royherma/mightymouse/main/.github/assets/hero.webp",
+                "https://raw.githubusercontent.com/royherma/mightymouse/main/.github/assets/desktop-code.webp"
+            ],
+            "official_site": "https://getmightymouse.com",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
