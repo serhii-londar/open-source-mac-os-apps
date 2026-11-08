@@ -16305,7 +16305,7 @@
                 "wallpaper"
             ],
             "repo_url": "https://github.com/dpsk/museum-wallpapers-macos",
-            "icon_url": "",
+            "icon_url": "https://raw.githubusercontent.com/dpsk/museum-wallpapers-macos/main/assets/icon.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/dpsk/museum-wallpapers-macos/main/screenshots/card-en.jpg",
                 "https://raw.githubusercontent.com/dpsk/museum-wallpapers-macos/main/screenshots/caption.jpg"
