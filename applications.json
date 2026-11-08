@@ -1184,6 +1184,23 @@
             ]
         },
         {
+            "short_description": "Link picker that asks which browser, Chrome profile or Zen space a link should open in.",
+            "categories": [
+                "browser",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/schowave/doorman",
+            "title": "Doorman",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/schowave/doorman/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ",
             "categories": [
                 "browser"
