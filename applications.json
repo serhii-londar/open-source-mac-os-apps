@@ -1294,6 +1294,24 @@
             ]
         },
         {
+            "short_description": "Native local development environment for PHP and Laravel with .test domains, HTTPS, databases and a mail catcher.",
+            "categories": [
+                "web-development"
+            ],
+            "repo_url": "https://github.com/flock-php/flock",
+            "title": "Flock",
+            "icon_url": "https://raw.githubusercontent.com/flock-php/flock/main/windows/Flock.Tray/Assets/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/flock-php/flock/main/.github/art/panel-running-light.png",
+                "https://raw.githubusercontent.com/flock-php/flock/main/.github/art/mail-window-light.png"
+            ],
+            "official_site": "https://flockphp.com",
+            "languages": [
+                "swift",
+                "go"
+            ]
+        },
+        {
             "short_description": "Franz is messaging application for services like WhatsApp, Slack, Messenger and many more. ",
             "categories": [
                 "chat"
