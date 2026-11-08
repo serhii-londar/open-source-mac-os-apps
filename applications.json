@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Show Bar",
+            "short_description": "Native macOS menu-bar utility with a Windows-style Command-Tab window switcher, live Dock hover previews, window snapping, clipboard history, and a screenshot shelf.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/rept0rix/show-bar",
+            "icon_url": "https://raw.githubusercontent.com/rept0rix/show-bar/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rept0rix/show-bar/main/docs/hero.png",
+                "https://raw.githubusercontent.com/rept0rix/show-bar/main/docs/product.png",
+                "https://raw.githubusercontent.com/rept0rix/show-bar/main/docs/features.png"
+            ],
+            "official_site": "https://rept0rix.github.io/show-bar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
