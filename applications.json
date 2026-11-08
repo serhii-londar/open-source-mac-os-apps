@@ -75,6 +75,23 @@
             ]
         },
         {
+            "title": "trackmend",
+            "short_description": "Repairs a Music library of local files: clean titles, artwork and album info, lyrics, duplicates and full albums split into tracks.",
+            "categories": [
+                "music",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Bouliw/trackmend",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/trackmend/raw/main/docs/scan-before-after.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Blazingly fast, customisable multi tool, application launcher",
             "categories": [
                 "productivity",
