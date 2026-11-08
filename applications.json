@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Wound",
+            "short_description": "Mechanical skeleton watch you have to wind by scrolling its crown; its 40-hour power reserve drains in real time.",
+            "categories": [
+                "utilities",
+                "other"
+            ],
+            "repo_url": "https://github.com/s3onghyun/wound",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/s3onghyun/wound/main/screenshots/skeleton-running.png",
+                "https://raw.githubusercontent.com/s3onghyun/wound/main/screenshots/caseback-rotor.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
