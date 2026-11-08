@@ -35,6 +35,25 @@
             ]
         },
         {
+            "title": "Boulito",
+            "short_description": "Voice assistant that runs entirely on your Mac to control apps, YouTube in Safari, music, timers and dictation in English or French.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Bouliw/boulito",
+            "icon_url": "https://github.com/Bouliw/boulito/raw/main/app/icon/Boulito.iconset/icon_256x256.png",
+            "screenshots": [
+                "https://github.com/Bouliw/boulito/raw/main/docs/banner-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python",
+                "objective_c"
+            ]
+        },
+        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
