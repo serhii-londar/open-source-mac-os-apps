@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Polka",
+            "short_description": "Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/romabmstu/polka",
+            "icon_url": "https://raw.githubusercontent.com/romabmstu/polka/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/romabmstu/polka/main/docs/assets/demo-en.gif"
+            ],
+            "official_site": "https://romabmstu.github.io/polka/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
