@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Paperwing",
+            "short_description": "Offline PDF editor for editing text and images, signing, forms, OCR, redaction, compression, and Office conversion.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/rohanvijaykumar/paperwing",
+            "icon_url": "https://raw.githubusercontent.com/rohanvijaykumar/paperwing/main/desktop/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rohanvijaykumar/paperwing/main/docs/screenshots/hero.png",
+                "https://raw.githubusercontent.com/rohanvijaykumar/paperwing/main/docs/screenshots/edit-text.png"
+            ],
+            "official_site": "https://paperwingapp.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
