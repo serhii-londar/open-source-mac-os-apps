@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "ShinyMac",
+            "short_description": "Mac cleaner with a native SwiftUI interface: Smart Care, complete app uninstaller, junk and Xcode cleanup, Space Lens and hidden macOS settings.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/pballada/shinyMac",
+            "icon_url": "https://raw.githubusercontent.com/pballada/shinyMac/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pballada/shinyMac/main/docs/screenshots/smart-care.jpg",
+                "https://raw.githubusercontent.com/pballada/shinyMac/main/docs/screenshots/uninstaller.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
