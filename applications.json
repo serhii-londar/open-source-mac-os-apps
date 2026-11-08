@@ -217,6 +217,23 @@
             ]
         },
         {
+            "title": "Takeline",
+            "short_description": "Teleprompter that follows your voice in French and English, entirely on the Mac, based on Textream.",
+            "categories": [
+                "productivity",
+                "video"
+            ],
+            "repo_url": "https://github.com/Bouliw/takeline",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/takeline/raw/master/docs/video.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Allows users to easily host their local images to the internet through multiple services and available on App Store.",
             "categories": [
                 "sharing-files"
