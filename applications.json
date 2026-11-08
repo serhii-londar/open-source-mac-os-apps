@@ -110,6 +110,23 @@
             ]
         },
         {
+            "title": "Vigie",
+            "short_description": "Blue team tool that runs Sigma detection rules on macOS, Windows and Linux logs and writes a report mapped to MITRE ATT&CK.",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/Bouliw/vigie",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/vigie/raw/main/docs/ui-home.png",
+                "https://github.com/Bouliw/vigie/raw/main/docs/report-preview.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
             "short_description": "Three-finger trackpad gestures for middle-click and middle-drag.",
             "categories": [
                 "utilities"
