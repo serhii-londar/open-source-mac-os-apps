@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "PrimeSnap",
+            "short_description": "Menu bar app to capture, frame, annotate and redact screenshots, with on-device auto-redaction of emails and API keys.",
+            "categories": [
+                "menubar",
+                "images",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nivohavi/primesnap",
+            "icon_url": "https://raw.githubusercontent.com/nivohavi/primesnap/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nivohavi/primesnap/main/docs/screenshot.png",
+                "https://raw.githubusercontent.com/nivohavi/primesnap/main/docs/result.png"
+            ],
+            "official_site": "https://github.com/nivohavi/primesnap",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
