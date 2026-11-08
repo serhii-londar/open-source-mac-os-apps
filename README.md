@@ -14015,7 +14015,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (235)
+### 🛠️ Utilities (236)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -16609,6 +16609,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://yorben.me/#tape](https://yorben.me/#tape)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://yorben.me/assets/work/tape/corner.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
