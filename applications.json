@@ -145,6 +145,24 @@
             ]
         },
         {
+            "title": "doc-indexer-macos",
+            "short_description": "Private on-device OCR and text extraction for a folder of paperwork, ready for grep or an AI agent.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Bouliw/doc-indexer-macos",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/doc-indexer-macos/raw/main/docs/demo.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python",
+                "swift"
+            ]
+        },
+        {
             "short_description": "A visual editor of Markdown document, tasks and tables.",
             "categories": [
                 "markdown",
