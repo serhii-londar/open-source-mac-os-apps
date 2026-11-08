@@ -251,6 +251,22 @@
             ]
         },
         {
+            "title": "mac-toolkit",
+            "short_description": "Install script for small everyday tools: link cleaning, Bluetooth headset audio fixes, Finder quick actions and Safari share actions.",
+            "categories": [
+                "utilities",
+                "finder"
+            ],
+            "repo_url": "https://github.com/Bouliw/mac-toolkit",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "shell",
+                "swift"
+            ]
+        },
+        {
             "short_description": "A minimal native macOS app to quickly view and Bulk kill running processes.",
             "categories": [
                 "menubar",
