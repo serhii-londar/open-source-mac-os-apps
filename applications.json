@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Museum Wallpapers",
+            "short_description": "Endless public-domain paintings from museums worldwide as your wallpaper, with the title, artist and story one click away in the menu bar.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/dpsk/museum-wallpapers-macos",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dpsk/museum-wallpapers-macos/main/screenshots/card-en.jpg",
+                "https://raw.githubusercontent.com/dpsk/museum-wallpapers-macos/main/screenshots/caption.jpg"
+            ],
+            "official_site": "https://nikaliuk.in/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
