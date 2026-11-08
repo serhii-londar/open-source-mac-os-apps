@@ -182,6 +182,23 @@
             ]
         },
         {
+            "title": "Roughcut",
+            "short_description": "Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and AI-chosen cuts.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/Bouliw/fcpxml-roughcut",
+            "icon_url": "",
+            "screenshots": [
+                "https://github.com/Bouliw/fcpxml-roughcut/raw/main/docs/before-after.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python",
+                "swift"
+            ]
+        },
+        {
             "short_description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
             "categories": [
                 "games"
