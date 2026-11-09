@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Fan Curve",
+            "short_description": "Temperature-based fan curve controller for Apple Silicon Macs.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/jonathancostin/fan-curve",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/jonathancostin/fan-curve",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
