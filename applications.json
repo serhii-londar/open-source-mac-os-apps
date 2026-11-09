@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Pizzinu",
+            "short_description": "Native sticky notes that look like real paper: floating notes, ⌥⌘N from any app, reminders, checklists, Markdown and password-encrypted secret notes. Local-first, no dependencies.",
+            "categories": [
+                "notes",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/piratepxl/pizzinu",
+            "icon_url": "https://raw.githubusercontent.com/piratepxl/pizzinu/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/piratepxl/pizzinu/main/docs/images/hero.png",
+                "https://raw.githubusercontent.com/piratepxl/pizzinu/main/docs/images/desktop.png"
+            ],
+            "official_site": "https://www.piratepixel.it/pizzinu/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
