@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lampo",
+            "short_description": "Menu bar app that brings Apple's on-device model to your selection, screen and clipboard: correct, rewrite, translate, reply, dictate and ask about any window, offline and private.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/christianmusumeci00/Lampo",
+            "icon_url": "https://raw.githubusercontent.com/christianmusumeci00/Lampo/main/Lampo/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/christianmusumeci00/Lampo/main/docs/media/panel.gif",
+                "https://raw.githubusercontent.com/christianmusumeci00/Lampo/main/docs/media/create-event.png"
+            ],
+            "official_site": "https://github.com/christianmusumeci00/Lampo",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
