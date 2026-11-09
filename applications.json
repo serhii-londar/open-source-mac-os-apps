@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "CleanMac",
+            "short_description": "Local storage assistant that finds large files, duplicates, junk and developer caches, with per-app protections, a treemap and Trash-first, undoable cleanup.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/kadirmertabatay/clean-mac",
+            "icon_url": "https://raw.githubusercontent.com/kadirmertabatay/clean-mac/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/kadirmertabatay/clean-mac/main/docs/images/assistant.png",
+                "https://raw.githubusercontent.com/kadirmertabatay/clean-mac/main/docs/images/smart-cleanup.png",
+                "https://raw.githubusercontent.com/kadirmertabatay/clean-mac/main/docs/images/treemap.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
