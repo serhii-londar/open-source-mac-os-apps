@@ -5931,6 +5931,12 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
+- [Exody](https://github.com/timamar187-creator/exody-releases) - Local-first autonomous AI coding agent, canvas-first Design Studio, and BYOK multi-model router (Claude, GPT, Gemini, Grok, Ollama) for macOS.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://www.exody.ai](https://www.exody.ai)
+
 - [Geany](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
