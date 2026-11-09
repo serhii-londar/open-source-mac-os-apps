@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "#HEX",
+            "short_description": "Color picker: a click on any pixel of the screen copies its HEX code.",
+            "categories": [
+                "graphics",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/hex",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/hex/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://geragaraza.com/apps/hex/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
