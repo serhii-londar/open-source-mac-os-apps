@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "#HEX",
+            "short_description": "Open-source color picker that opens the macOS color sampler with a keyboard shortcut and copies the clicked pixel as a HEX code.",
+            "categories": [
+                "graphics",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/hex",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/hex/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://geragaraza.com/apps/hex/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
