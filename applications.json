@@ -16305,9 +16305,9 @@
                 "window-management"
             ],
             "repo_url": "https://github.com/eugene-tea/stage-manager",
-            "icon_url": "https://raw.githubusercontent.com/eugene-tea/stage-manager/main/docs/assets/app-icon.png",
+            "icon_url": "https://raw.githubusercontent.com/eugene-tea/stage-manager/master/docs/assets/app-icon.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/eugene-tea/stage-manager/main/docs/assets/screenshot.jpg"
+                "https://raw.githubusercontent.com/eugene-tea/stage-manager/master/docs/assets/screenshot.jpg"
             ],
             "official_site": "https://eugene-tea.github.io/stage-manager/",
             "languages": [
