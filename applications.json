@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OCR",
+            "short_description": "Open-source screen OCR tool that copies the text or QR code content of any area selected with a keyboard shortcut, offline with Apple Vision.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/geragarazagh/ocr",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/ocr/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://geragaraza.com/apps/ocr/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
