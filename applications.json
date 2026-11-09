@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Grids",
+            "short_description": "Open-source grid overlay that lays halves and quarters, the golden ratio, thirds or an 8-pt grid over the whole screen, with clicks passing through.",
+            "categories": [
+                "graphics",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/grids",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/grids/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://geragaraza.com/apps/grids/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
