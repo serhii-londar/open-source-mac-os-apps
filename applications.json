@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "ihatecrypto",
+            "short_description": "Crypto harness and self-custody wallet where your own AI model lays out swaps, bridges and trades as cards, and nothing moves until you confirm with Touch ID.",
+            "categories": [
+                "cryptocurrency"
+            ],
+            "repo_url": "https://github.com/ihatecryptoai/ihatecrypto",
+            "icon_url": "https://ihatecrypto.ai/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ihatecryptoai/ihatecrypto/main/images/app-light.png",
+                "https://raw.githubusercontent.com/ihatecryptoai/ihatecrypto/main/images/route-light.png"
+            ],
+            "official_site": "https://ihatecrypto.ai",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
