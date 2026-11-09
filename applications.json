@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Rind",
+            "short_description": "Open-source macOS uninstaller and cleaner that explains why every leftover belongs to an app, moves everything to the Trash with one-click restore, and keeps protected areas like the Keychain, Mail and Photos libraries off-limits.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/ahjdzx/rind",
+            "icon_url": "https://raw.githubusercontent.com/ahjdzx/rind/main/docs/images/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ahjdzx/rind/main/docs/images/en/overview.jpg",
+                "https://raw.githubusercontent.com/ahjdzx/rind/main/docs/images/en/apps.jpg"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
