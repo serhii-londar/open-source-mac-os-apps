@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Quack",
+            "short_description": "Offline, open source API client with no account or telemetry that imports Postman, OpenAPI and .http files and saves collections as YAML for git.",
+            "categories": [
+                "development",
+                "web-development"
+            ],
+            "repo_url": "https://github.com/itsmunzir/quack",
+            "icon_url": "https://raw.githubusercontent.com/itsmunzir/quack/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/itsmunzir/quack/main/docs/screenshot-light.png",
+                "https://raw.githubusercontent.com/itsmunzir/quack/main/docs/screenshot-dark.png"
+            ],
+            "official_site": "https://github.com/itsmunzir/quack",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
