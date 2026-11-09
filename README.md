@@ -17954,3 +17954,5 @@ Thanks to all the people who contribute:
 [shell_icon]: ./icons/shell-64.png 'Shell language.'
 [swift_icon]: ./icons/swift-64.png 'Swift language.'
 [typescript_icon]: ./icons/typescript-64.png 'TypeScript language.'
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac, in the empty corner beside the Dock. `Free` `Swift`
