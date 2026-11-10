@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Ieum",
+            "short_description": "Live captions and translation for meetings between English, Korean, Japanese and Chinese. Speech recognition and translation run fully on-device with Apple's Speech and Translation frameworks.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stoneidev/ieum",
+            "icon_url": "https://raw.githubusercontent.com/stoneidev/ieum/main/site/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stoneidev/ieum/main/docs/images/bar-done.png",
+                "https://raw.githubusercontent.com/stoneidev/ieum/main/docs/images/panel.png"
+            ],
+            "official_site": "https://ieum.calmwork.today",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
