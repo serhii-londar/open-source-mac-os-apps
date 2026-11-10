@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "BatteryBar",
+            "short_description": "Ultra-lightweight native macOS Menu Bar widget displaying battery time remaining, health, cycle count, and live power draw in pure Rust.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/culcat/BatteryBar-MacOS",
+            "icon_url": "https://raw.githubusercontent.com/culcat/BatteryBar-MacOS/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/culcat/BatteryBar-MacOS/main/assets/screenshot.jpg"
+            ],
+            "official_site": "https://github.com/culcat/BatteryBar-MacOS",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
