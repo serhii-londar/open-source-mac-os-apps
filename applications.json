@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
-        }
+        },
+  {
+    "title": "AFFiNE",
+    "short_description": "Open source knowledge base combining docs, a whiteboard and databases.",
+    "categories": [
+      "notes",
+      "productivity"
+    ],
+    "repo_url": "https://github.com/toeverything/AFFiNE",
+    "icon_url": "",
+    "screenshots": [],
+    "official_site": "https://affine.pro",
+    "languages": [
+      "typescript"
+    ]
+  }
     ]
 }
