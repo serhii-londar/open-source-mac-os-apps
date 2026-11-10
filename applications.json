@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "twistel",
+            "short_description": "Menu bar app that converts and edits files from a ring menu while you drag them in the Finder, fully offline.",
+            "categories": [
+                "utilities",
+                "finder"
+            ],
+            "repo_url": "https://github.com/jonasnlt/twistel",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jonasnlt/twistel/main/docs/twistel-demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
