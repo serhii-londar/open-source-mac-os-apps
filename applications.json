@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Brigade",
+            "short_description": "Open-source app that runs a team of AI teammates for support, marketing, sales and code, each one Claude Code or Codex signed in with your own Claude or ChatGPT plan.",
+            "categories": [
+                "productivity",
+                "development"
+            ],
+            "repo_url": "https://github.com/gmpetrov/brigade",
+            "icon_url": "https://raw.githubusercontent.com/gmpetrov/brigade/main/apps/desktop/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gmpetrov/brigade/main/apps/web/public/landing/demo-light.webp"
+            ],
+            "official_site": "https://www.brigade.lol",
+            "languages": [
+                "typescript",
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
