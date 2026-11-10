@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Dimmerly",
+            "short_description": "Menu bar app for per-display brightness, warmth, and contrast, with presets, sunrise and sunset schedules, and DDC/CI monitor control.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/olujicz/Dimmerly",
+            "icon_url": "https://raw.githubusercontent.com/olujicz/Dimmerly/main/IconComposerLayers/AppIcon-IconComposer/rendered/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/olujicz/Dimmerly/main/images/app-store/01-dim-and-warm-every-display.png",
+                "https://raw.githubusercontent.com/olujicz/Dimmerly/main/images/image1.png"
+            ],
+            "official_site": "https://dimmerly.olujic.in.rs/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
