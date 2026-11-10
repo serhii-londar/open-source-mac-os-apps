@@ -429,7 +429,7 @@ extension String {
     static let subsection = "####"
     static let iconPrefix = "_icon"
     static let anchorHTMLbegin = "<a name=\""
-    static let anchorHTMLend = "\">"
+    static let anchorHTMLend = "\"/>"
 }
 
 extension JSONApplication {
