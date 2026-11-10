@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Native Screen",
+            "short_description": "Screen recorder and demo video editor with a multi-track timeline, automatic zooms that follow your clicks, on-device captions and hardware-accelerated export.",
+            "categories": [
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/maitrungduc1410/NativeScreen",
+            "icon_url": "https://raw.githubusercontent.com/maitrungduc1410/NativeScreen/121ef1ce6ffa4ce3a3b23a5c6ed9dada0527dd54/macos/NativeScreen/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maitrungduc1410/NativeScreen/121ef1ce6ffa4ce3a3b23a5c6ed9dada0527dd54/site/public/assets/shots/editor-light.jpg",
+                "https://raw.githubusercontent.com/maitrungduc1410/NativeScreen/121ef1ce6ffa4ce3a3b23a5c6ed9dada0527dd54/site/public/assets/shots/timeline.jpg"
+            ],
+            "official_site": "https://nativescreen.app",
+            "languages": [
+                "swift",
+                "metal"
+            ]
         }
     ]
 }
