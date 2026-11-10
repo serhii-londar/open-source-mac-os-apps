@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "TurboFieldfare",
+            "short_description": "Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/drumih/turbo-fieldfare",
+            "icon_url": "https://raw.githubusercontent.com/drumih/turbo-fieldfare/main/Sources/TurboFieldfareApp/Mac/Resources/turbofieldfare-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/drumih/turbo-fieldfare/main/docs/assets/turbofieldfare-app.webp"
+            ],
+            "official_site": "https://github.com/drumih/turbo-fieldfare",
+            "languages": [
+                "swift",
+                "metal"
+            ]
         }
     ]
 }
