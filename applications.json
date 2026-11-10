@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Volant",
+            "short_description": "Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents, with sandboxed WebAssembly extensions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mysticcoders/volant",
+            "icon_url": "https://usevolant.com/images/volant-icon.png",
+            "screenshots": [
+                "https://usevolant.com/images/launcher-dark.png",
+                "https://usevolant.com/images/launcher-light.png"
+            ],
+            "official_site": "https://usevolant.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
