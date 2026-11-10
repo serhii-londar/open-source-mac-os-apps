@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "HoldQ",
+            "short_description": "Open-source app that makes ⌘Q quit an app only when held for a second, so a slip of the finger on the way to ⌘W or ⌘Tab closes nothing; it needs no permissions.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/holdq",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/holdq/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geragarazagh/holdq/main/docs/scene.webp"
+            ],
+            "official_site": "https://geragaraza.com/apps/holdq/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
