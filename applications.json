@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Airbag",
+            "short_description": "Menu bar app and CLI that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files, a git reset --hard or a wiped .env can be undone.",
+            "categories": [
+                "development",
+                "backup",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/a1murt/airbag",
+            "icon_url": "https://raw.githubusercontent.com/a1murt/airbag/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/a1murt/airbag/main/docs/images/main-timeline-light.png",
+                "https://raw.githubusercontent.com/a1murt/airbag/main/docs/images/popover-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
