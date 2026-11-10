@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Plativka",
+            "short_description": "Winamp-style player for local music with album-art accent colors, compact view, mini player and media keys.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/dkindratyuk-web/plativka",
+            "icon_url": "https://raw.githubusercontent.com/dkindratyuk-web/plativka/main/packaging/icons/plativka.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dkindratyuk-web/plativka/main/docs/img/desk-mac-en-full.png",
+                "https://raw.githubusercontent.com/dkindratyuk-web/plativka/main/docs/img/desk-mac-en-compact-dark.png",
+                "https://raw.githubusercontent.com/dkindratyuk-web/plativka/main/docs/img/desk-mac-en-mini.png"
+            ],
+            "official_site": "https://github.com/dkindratyuk-web/plativka",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
