@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "RunWisp",
+            "short_description": "Cron job manager and process supervisor with a terminal UI, web dashboard and a history of every run.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/runwisp/runwisp",
+            "icon_url": "https://runwisp.com/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/runwisp/runwisp/main/apps/docs/src/assets/screenshots/tui-home.png"
+            ],
+            "official_site": "https://runwisp.com",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
