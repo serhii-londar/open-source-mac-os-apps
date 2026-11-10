@@ -1189,11 +1189,11 @@
                 "browser",
                 "menubar"
             ],
-            "repo_url": "https://github.com/schowave/doorman",
-            "title": "Doorman",
+            "repo_url": "https://github.com/schowave/browserdoor",
+            "title": "Browserdoor",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/schowave/doorman/main/docs/demo.gif"
+                "https://raw.githubusercontent.com/schowave/browserdoor/main/docs/demo.gif"
             ],
             "official_site": "",
             "languages": [
