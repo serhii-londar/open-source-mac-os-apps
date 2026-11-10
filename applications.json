@@ -10334,6 +10334,25 @@
             ]
         },
         {
+            "title": "Bedrock Launcher",
+            "short_description": "Runs your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon Macs, fully offline, through a locally built WineGDK with DXMT.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/pragyaangaur/Minecraft-Bedrock-macOS",
+            "icon_url": "https://raw.githubusercontent.com/pragyaangaur/Minecraft-Bedrock-macOS/main/site/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pragyaangaur/Minecraft-Bedrock-macOS/main/site/images/title.jpg",
+                "https://raw.githubusercontent.com/pragyaangaur/Minecraft-Bedrock-macOS/main/site/images/coast.jpg"
+            ],
+            "official_site": "https://pragyaangaur.github.io/Minecraft-Bedrock-macOS/",
+            "languages": [
+                "shell",
+                "python",
+                "c"
+            ]
+        },
+        {
             "short_description": "An editor for macOS",
             "categories": [
                 "editors"
