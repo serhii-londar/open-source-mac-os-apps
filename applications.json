@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Writeshaper",
+            "short_description": "Private writing assistant: select text in any app and press a shortcut to fix it or make it clearer, shorter or more professional. The model runs on your Mac.",
+            "categories": [
+                "productivity",
+                "text"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/writeshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/writeshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/writeshaper/main/docs/img/app-write.webp",
+                "https://raw.githubusercontent.com/hollowbit-dev/writeshaper/main/docs/img/app-shortcut.webp"
+            ],
+            "official_site": "https://hollowbit.dev/writeshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
