@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "macos-cli",
+            "short_description": "Command-line tool that reads and changes Calendar, Contacts, Mail, Notes, Reminders, windows and the screen, with JSON output for scripts and AI agents.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/manuaudio/macos-cli",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/manuaudio/macos-cli/main/docs/demo.svg"
+            ],
+            "official_site": "https://manuaudio.com/open-source/macos-cli/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
