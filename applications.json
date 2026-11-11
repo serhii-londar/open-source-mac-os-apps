@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Fileshaper",
+            "short_description": "Offline file toolbox to compress videos to a target size, convert HEIC photos, and merge, split or sign PDFs.",
+            "categories": [
+                "utilities",
+                "video",
+                "images"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/fileshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/fileshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/fileshaper/main/docs/img/video-working.webp",
+                "https://raw.githubusercontent.com/hollowbit-dev/fileshaper/main/docs/img/pdf-sign.webp"
+            ],
+            "official_site": "https://fileshaper.app/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
