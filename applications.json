@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Pake",
+            "short_description": "Turn any webpage into a lightweight desktop app with one command, built on Tauri and the system web view.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tw93/Pake",
+            "icon_url": "https://raw.githubusercontent.com/tw93/Pake/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tw93/static/main/pake/pake1.gif"
+            ],
+            "official_site": "https://pake.run/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
