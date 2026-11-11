@@ -1,6 +1,21 @@
 {
     "applications": [
         {
+            "short_description": "Native keyboard launcher for macOS with app and file search, clipboard history, and system actions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Acckion/Keylane",
+            "title": "Keylane",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/Acckion/Keylane",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
