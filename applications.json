@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lumela",
+            "short_description": "Cross-platform screenshot tool that blurs emails, card numbers, IPs and API keys with on-device OCR, then adds background, padding and shadow.",
+            "categories": [
+                "graphics",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/tw4/lumela",
+            "icon_url": "https://raw.githubusercontent.com/tw4/lumela/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tw4/lumela/main/docs/screenshots/editor-dark.png",
+                "https://raw.githubusercontent.com/tw4/lumela/main/docs/screenshots/result.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
