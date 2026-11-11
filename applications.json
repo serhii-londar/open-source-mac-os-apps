@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "hbkit",
+            "short_description": "Read and restore Synology Hyper Backup (.hbk) archives without a NAS, from the command line or a TUI.",
+            "categories": [
+                "backup",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/YordiLorenzo/hbkit",
+            "icon_url": "https://raw.githubusercontent.com/YordiLorenzo/hbkit/main/docs/images/icon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/YordiLorenzo/hbkit/main/docs/images/tui.png"
+            ],
+            "official_site": "https://hbkit.dev/",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
