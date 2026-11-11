@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lockpaw",
+            "short_description": "Covers the screen and keeps your Mac awake while AI agents, builds and downloads run, and glows when Claude Code, Codex or Gemini needs you.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sorkila/lockpaw",
+            "icon_url": "https://getlockpaw.com/icon.png",
+            "screenshots": [
+                "https://getlockpaw.com/img/lock-glow.jpg"
+            ],
+            "official_site": "https://getlockpaw.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
