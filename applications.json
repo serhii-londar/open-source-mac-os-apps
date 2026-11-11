@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Retyper",
+            "short_description": "Open-source app that retypes a word typed in the wrong keyboard layout (ghbdtn → привет) in the right one and switches the input source, by itself at the end of the word or by the language key; English, Russian and Ukrainian.",
+            "categories": [
+                "keyboard"
+            ],
+            "repo_url": "https://github.com/geragarazagh/retyper",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/retyper/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geragarazagh/retyper/main/docs/scene.webp"
+            ],
+            "official_site": "https://geragaraza.com/apps/retyper/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
