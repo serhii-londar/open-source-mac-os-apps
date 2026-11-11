@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "LockPlus",
+            "short_description": "WireGuard and OpenVPN client with a kill switch that macOS itself enforces, built on Network Extension.",
+            "categories": [
+                "vpn--proxy",
+                "menubar",
+                "security"
+            ],
+            "repo_url": "https://github.com/steiale/lockplus",
+            "icon_url": "https://raw.githubusercontent.com/steiale/lockplus/main/docs/appicon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/steiale/lockplus/main/docs/screenshots/2.0/main-protected-light.png",
+                "https://raw.githubusercontent.com/steiale/lockplus/main/docs/screenshots/2.0/menu-protected-dark.png"
+            ],
+            "official_site": "https://github.com/steiale/lockplus",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
