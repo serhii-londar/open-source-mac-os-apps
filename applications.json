@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Diskshaper",
+            "short_description": "Storage cleaner that sorts caches, game leftovers and editing caches into plain groups and only moves files to the Trash.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/diskshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/diskshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/diskshaper/main/docs/img/app-overview.webp",
+                "https://raw.githubusercontent.com/hollowbit-dev/diskshaper/main/docs/img/app-games.webp"
+            ],
+            "official_site": "https://hollowbit.dev/diskshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
