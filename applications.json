@@ -16306,10 +16306,10 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/Ark0N/LogoLight",
-            "icon_url": "https://raw.githubusercontent.com/Ark0N/LogoLight/main/site/public/images/app-icon-256.png",
+            "icon_url": "https://raw.githubusercontent.com/Ark0N/LogoLight/v1.3.1/site/public/images/app-icon-256.png",
             "screenshots": [
-                "https://raw.githubusercontent.com/Ark0N/LogoLight/main/site/public/images/menu-on-light.png",
-                "https://raw.githubusercontent.com/Ark0N/LogoLight/main/docs/media/menu-breathe-light.gif"
+                "https://raw.githubusercontent.com/Ark0N/LogoLight/v1.3.1/site/public/images/menu-on-light-130.png",
+                "https://raw.githubusercontent.com/Ark0N/LogoLight/v1.3.1/docs/media/menu-breathe-light.gif"
             ],
             "official_site": "https://logolight.app",
             "languages": [
