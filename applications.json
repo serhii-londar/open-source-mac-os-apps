@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Pullbell",
+            "short_description": "GitHub inbox in the menu bar: banners for review requests, comments, approvals and PRs ready to merge, with everything else in a quiet FYI list.",
+            "categories": [
+                "git",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/aaronsuns/pullbell",
+            "icon_url": "https://raw.githubusercontent.com/aaronsuns/pullbell/main/docs/icon-1024.png",
+            "screenshots": [],
+            "official_site": "https://pullbell.zexa.se",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
