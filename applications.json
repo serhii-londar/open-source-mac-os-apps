@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OpenValet",
+            "short_description": "Voice and WhatsApp agent that runs Claude Code on your own Claude login, with local wake word, speech recognition and voices, and a gate that asks before anything irreversible.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/SamarthY06/OpenValet",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/SamarthY06/OpenValet/main/docs/media/social-preview.png"
+            ],
+            "official_site": "https://github.com/SamarthY06/OpenValet",
+            "languages": [
+                "swift",
+                "python",
+                "go"
+            ]
         }
     ]
 }
