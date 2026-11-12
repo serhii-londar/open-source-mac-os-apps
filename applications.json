@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "DiskPilot",
+            "short_description": "Storage analyzer and cleaner for developers that explains every folder (Docker, node_modules, Xcode DerivedData, AI tool caches), shows what is safe to delete and moves everything to the Trash first.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Devanshgoel-123/diskpilot",
+            "icon_url": "https://raw.githubusercontent.com/Devanshgoel-123/diskpilot/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Devanshgoel-123/diskpilot/main/docs/images/overview-dark.jpg",
+                "https://raw.githubusercontent.com/Devanshgoel-123/diskpilot/main/docs/images/cleanup-dark.jpg"
+            ],
+            "official_site": "https://diskpilot.live",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
