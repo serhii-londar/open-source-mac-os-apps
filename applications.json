@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "LinkUnbound",
+            "short_description": "Browser picker that asks which browser or browser profile opens each link, with rules by site or by the app the link came from.",
+            "categories": [
+                "browser",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/rgdevment/LinkUnbound",
+            "icon_url": "https://raw.githubusercontent.com/rgdevment/LinkUnbound/main/app/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rgdevment/LinkUnbound/main/resources/assets/store/screenshots/en/01-picker.png",
+                "https://raw.githubusercontent.com/rgdevment/LinkUnbound/main/resources/assets/store/screenshots/en/03-rules.png"
+            ],
+            "official_site": "https://www.linkunbound.app/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
