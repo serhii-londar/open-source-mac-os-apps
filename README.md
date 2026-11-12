@@ -4189,7 +4189,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📝 Editors (12)
+### 📝 Editors (13)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4350,6 +4350,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/puppyone-ai/puppyone-desktop/main/public/assets/media/screenshots/puppyone-editor-overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Minimalist macOS PDF reader where everything outside the page freezes into frosted ice for distraction-free focus.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://yorben.me/rime/](https://yorben.me/rime/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://yorben.me/assets/work/rime/reading.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
