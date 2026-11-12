@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "V2Mac",
+            "short_description": "Native menu bar client for Xray-core with VLESS, REALITY, VMess, Trojan, Shadowsocks, Hysteria2 and WireGuard subscriptions, routing rules and TUN mode.",
+            "categories": [
+                "vpn--proxy",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/v2macapp/v2mac",
+            "icon_url": "https://raw.githubusercontent.com/v2macapp/v2mac/main/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/v2macapp/v2mac/main/docs/images/screenshots/main.png",
+                "https://raw.githubusercontent.com/v2macapp/v2mac/main/docs/images/screenshots/routing-settings.png"
+            ],
+            "official_site": "https://v2macapp.github.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
