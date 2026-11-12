@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Mail, calendar and contacts client for any IMAP, POP3 or JMAP provider, built with Nuxt and Electron.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/citrusmail/citrusmail",
+            "title": "CitrusMail",
+            "icon_url": "https://raw.githubusercontent.com/citrusmail/citrusmail/main/desktop/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/citrusmail/citrusmail/main/.github/screenshot.webp"
+            ],
+            "official_site": "https://faivelo.com/citrus-mail",
+            "languages": [
+                "typescript",
+                "vue"
+            ]
         }
     ]
 }
