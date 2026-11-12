@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "nowPlayingDesktops",
+            "short_description": "Composes a frosted-glass Spotify now-playing tile onto the actual macOS desktop wallpaper, then restores the original wallpaper on pause or exit.",
+            "categories": [
+                "wallpaper",
+                "music"
+            ],
+            "repo_url": "https://github.com/hippi345/nowPlayingDesktops",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hippi345/nowPlayingDesktops/main/docs/screenshot-don-toliver.png",
+                "https://raw.githubusercontent.com/hippi345/nowPlayingDesktops/main/docs/screenshot-ariana-grande.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+
         }
     ]
 }
