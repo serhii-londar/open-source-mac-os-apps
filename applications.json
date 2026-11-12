@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Featherview",
+            "short_description": "Fast, keyboard-driven image viewer that browses whole folders with the arrow keys, opens huge PSD, PSB and TIFF files in seconds, reads many formats macOS can't, and batch converts and renames.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/featherview/featherview",
+            "icon_url": "https://featherview.mynetx.net/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/featherview/featherview/main/docs/screenshots/viewer.png",
+                "https://raw.githubusercontent.com/featherview/featherview/main/docs/screenshots/batch.png"
+            ],
+            "official_site": "https://featherview.mynetx.net",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
