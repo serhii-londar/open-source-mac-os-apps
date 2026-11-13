@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "MacSweep",
+            "short_description": "Fast, lightweight Mac cleaner that removes junk, finds large files and fully uninstalls apps without touching user data.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/nihal4/macsweep",
+            "icon_url": "https://raw.githubusercontent.com/nihal4/macsweep/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nihal4/macsweep/main/docs/smart-scan-results.jpg",
+                "https://raw.githubusercontent.com/nihal4/macsweep/main/docs/uninstaller.jpg"
+            ],
+            "official_site": "https://github.com/nihal4/macsweep",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
