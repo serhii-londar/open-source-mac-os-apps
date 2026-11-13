@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "LD Manager",
+            "short_description": "launchd manager and CLI that shows every LaunchAgent and LaunchDaemon, explains why a job isn't running, and edits plists losslessly with diffs and backups.",
+            "categories": [
+                "system",
+                "development"
+            ],
+            "repo_url": "https://github.com/roeehrl/ldmanager",
+            "icon_url": "https://raw.githubusercontent.com/roeehrl/ldmanager/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/roeehrl/ldmanager/main/docs/assets/hero-light.png",
+                "https://raw.githubusercontent.com/roeehrl/ldmanager/main/docs/assets/doctor-light.png",
+                "https://raw.githubusercontent.com/roeehrl/ldmanager/main/docs/assets/editor-light.png"
+            ],
+            "official_site": "https://codonic.dev/apps/ldmanager",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
