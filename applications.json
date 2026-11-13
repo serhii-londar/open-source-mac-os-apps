@@ -7938,6 +7938,20 @@
             ]
         },
         {
+            "short_description": "Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/itsnajam/daily-wallpaper",
+            "title": "Daily Wallpaper",
+            "icon_url": "https://raw.githubusercontent.com/itsnajam/daily-wallpaper/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://itsnajam.github.io/daily-wallpaper/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Automatic tiling window manager for macOS. ",
             "categories": [
                 "window-management"
