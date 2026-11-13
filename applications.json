@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "o8",
+            "short_description": "Review and merge layer for coding agents. An independent agent reviews each diff and nothing merges until it is approved.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/o8-run/o8",
+            "icon_url": "https://raw.githubusercontent.com/o8-run/o8/main/assets/o8-icon.png",
+            "screenshots": [],
+            "official_site": "https://o8.run",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
