@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AgentRail",
+            "short_description": "Menu bar app that shows running Claude Code and Codex jobs as live progress rails with stage-tagged steps, subagents, token use and a history of finished jobs, read from local files.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/Zenonix-Studio/agent-rail",
+            "icon_url": "https://raw.githubusercontent.com/Zenonix-Studio/agent-rail/main/menubar/AgentRail/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Zenonix-Studio/agent-rail/main/docs/images/menubar.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
