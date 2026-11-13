@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "vsux",
+            "short_description": "Lightweight editor for parallel projects with split terminals, file editing and Git review.",
+            "categories": [
+                "editors",
+                "development"
+            ],
+            "repo_url": "https://github.com/shadowDragons/vsux",
+            "icon_url": "https://raw.githubusercontent.com/shadowDragons/vsux/main/Resources/AppIcon.iconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/shadowDragons/vsux/main/web/public/assets/workspace-en.webp",
+                "https://raw.githubusercontent.com/shadowDragons/vsux/main/web/public/assets/editor-en.webp"
+            ],
+            "official_site": "https://vsux.sphrag.com/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
