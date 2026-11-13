@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Yogurt",
+            "short_description": "Meeting notes that stay on your Mac: records calls without joining them, transcribes locally with Whisper and writes summaries with an on-device model.",
+            "categories": [
+                "notes",
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/FrigadeHQ/yogurt",
+            "icon_url": "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/app/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/docs/assets/yogurt-screenshot.webp"
+            ],
+            "official_site": "https://yogurt.so",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
