@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "SimpleScreenTab",
+            "short_description": "Per-monitor Cmd-Tab app switcher that shows only the apps on the display under the mouse.",
+            "categories": [
+                "window-management",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/k33ssa/SimpleScreenTab",
+            "icon_url": "https://raw.githubusercontent.com/k33ssa/SimpleScreenTab/master/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/k33ssa/SimpleScreenTab/master/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
