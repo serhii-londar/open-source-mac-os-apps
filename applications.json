@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Rake",
+            "short_description": "Disk map that explains each block before you clean it. Recognizes what AI agents leave behind (VMs, caches, local models). You review the exact list before anything moves.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/JonasJoe233/rake-mac",
+            "icon_url": "https://raw.githubusercontent.com/JonasJoe233/rake-mac/main/site/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JonasJoe233/rake-mac/main/site/og.png"
+            ],
+            "official_site": "https://jonasjoe233.github.io/rake-mac/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
