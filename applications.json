@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "EXR Converter",
+            "short_description": "Desktop app and CLI for EXR to video and video to EXR conversion, built for VFX dailies, review exports, and plate round-trips, with OpenColorIO color management, camera RAW support, slates and burn-ins.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/derek-rein/exr-converter",
+            "icon_url": "https://raw.githubusercontent.com/derek-rein/exr-converter/main/resources/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/derek-rein/exr-converter/main/resources/screenshots/exr_converter_screenshot.png"
+            ],
+            "official_site": "https://vfx.systems/exr-converter",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
