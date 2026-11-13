@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "title": "Vafa",
+            "short_description": "VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up.",
+            "categories": [
+                "vpn--proxy",
+                "security"
+            ],
+            "repo_url": "https://github.com/k33ssa/vafa",
+            "icon_url": "https://raw.githubusercontent.com/k33ssa/vafa/master/assets/logo.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "shell",
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
