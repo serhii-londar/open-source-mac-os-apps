@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Startshaper",
+            "short_description": "Shows every app and background helper that starts at login, explains each one in plain words and switches off the ones you don't need, with one-click undo.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/startshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/startshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/startshaper/main/screenshots/startup.webp",
+                "https://raw.githubusercontent.com/hollowbit-dev/startshaper/main/screenshots/advice.webp"
+            ],
+            "official_site": "https://hollowbit.dev/startshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
