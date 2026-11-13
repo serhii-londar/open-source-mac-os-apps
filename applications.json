@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "flipfile",
+            "short_description": "File converter for photos, PDFs, Office documents, video and audio that opens a ring of formats around a circle you drag files onto.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/wcksnrdn/flipfile",
+            "icon_url": "https://raw.githubusercontent.com/wcksnrdn/flipfile/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wcksnrdn/flipfile/main/docs/media/hero.webp",
+                "https://raw.githubusercontent.com/wcksnrdn/flipfile/main/docs/media/drag.webp"
+            ],
+            "official_site": "https://flipfile.satria.cloud",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
