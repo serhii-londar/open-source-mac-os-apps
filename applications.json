@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tendbar",
+            "short_description": "Menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/DabuSoft-pl/tendbar",
+            "icon_url": "https://raw.githubusercontent.com/DabuSoft-pl/tendbar/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/DabuSoft-pl/tendbar/main/docs/images/panel-light.png",
+                "https://raw.githubusercontent.com/DabuSoft-pl/tendbar/main/docs/images/notch-expanded.png",
+                "https://raw.githubusercontent.com/DabuSoft-pl/tendbar/main/docs/images/settings-light.png"
+            ],
+            "official_site": "https://github.com/DabuSoft-pl/tendbar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
