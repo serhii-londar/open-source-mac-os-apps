@@ -7122,6 +7122,27 @@
             ]
         },
         {
+            "short_description": "Turn a website or local HTML project into a standalone desktop app for macOS, Windows, and Linux.",
+            "categories": [
+                "utilities",
+                "development"
+            ],
+            "repo_url": "https://github.com/sinhong2011/mypack",
+            "title": "MyPack",
+            "icon_url": "https://mypack.pages.dev/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sinhong2011/mypack/main/docs/screenshots/real-library.png",
+                "https://raw.githubusercontent.com/sinhong2011/mypack/main/docs/screenshots/readme-create.png",
+                "https://raw.githubusercontent.com/sinhong2011/mypack/main/docs/screenshots/readme-installed.png",
+                "https://raw.githubusercontent.com/sinhong2011/mypack/main/docs/screenshots/readme-discover.png",
+                "https://raw.githubusercontent.com/sinhong2011/mypack/main/docs/screenshots/readme-app-settings.png"
+            ],
+            "official_site": "https://mypack.pages.dev",
+            "languages": [
+                "go"
+            ]
+        },
+        {
             "short_description": "Receive Android notifications on your mac (with PushBullet). ",
             "categories": [
                 "utilities"
