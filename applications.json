@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "WaifuX",
+            "short_description": "ACG wallpaper and anime browser for macOS that aggregates Wallhaven and 4K Wallpapers for static and live wallpapers, parses anime sources with user-installable rules, and plays video, Steam Workshop and Wallpaper Engine scenes on the desktop.",
+            "categories": [
+                "wallpaper",
+                "video"
+            ],
+            "repo_url": "https://github.com/jipika/WaifuX",
+            "icon_url": "https://raw.githubusercontent.com/jipika/WaifuX/main/Design/Logo/AppIcon_512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jipika/WaifuX/main/screenshots/home.png",
+                "https://raw.githubusercontent.com/jipika/WaifuX/main/screenshots/wallpaper.png",
+                "https://raw.githubusercontent.com/jipika/WaifuX/main/screenshots/anime_detail.png"
+            ],
+            "official_site": "https://jipika.github.io/WaifuX",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "14.0"
         }
     ]
 }
