@@ -4,7 +4,8 @@
             "short_description": "Self-hosted web application for organizing a personal video game collection with libraries, collections, ratings, search, and optional IGDB metadata.",
             "categories": [
                 "games",
-                "utilities"
+                "utilities",
+                "media"
             ],
             "repo_url": "https://github.com/myhomegames/myhomegames-server",
             "title": "MyHomeGames",
