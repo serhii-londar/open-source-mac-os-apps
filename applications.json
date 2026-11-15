@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "zest",
+            "short_description": "Autocomplete popup for zsh: subcommands, options, git branches and files with descriptions under the cursor in Terminal, VS Code and Cursor.",
+            "categories": [
+                "terminal",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rostik32/zest",
+            "icon_url": "https://raw.githubusercontent.com/rostik32/zest/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/rostik32/zest/main/docs/images/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
