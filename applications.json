@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Hoply",
+            "short_description": "Menu bar app that shows live Claude Code, Codex, Copilot CLI and Qwen Code sessions, which ones are waiting on you, what each run costs, Claude plan limits and local model server speed.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/Milos5611/hoply",
+            "icon_url": "https://hoply.dev/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Milos5611/hoply/main/docs/images/panel-light.png",
+                "https://raw.githubusercontent.com/Milos5611/hoply/main/docs/images/panel-dark.png"
+            ],
+            "official_site": "https://hoply.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
