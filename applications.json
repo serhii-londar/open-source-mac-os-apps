@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Max Watch",
+            "short_description": "100% offline motion-detection video recorder with a password-protected AES-256 vault that keeps recording while your Mac screen is locked.",
+            "categories": [
+                "security",
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/MaxFreedomPollard/Max-Watch",
+            "icon_url": "https://maxfreedompollard.github.io/Max-Watch/assets/icon.png",
+            "screenshots": [
+                "https://maxfreedompollard.github.io/Max-Watch/assets/01_live_motion_studio.png",
+                "https://maxfreedompollard.github.io/Max-Watch/assets/02_fast_ball_scrubber_12x.png"
+            ],
+            "official_site": "https://maxfreedompollard.github.io/Max-Watch/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
