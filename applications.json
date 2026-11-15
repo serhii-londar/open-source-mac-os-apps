@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Lightshaper",
+            "short_description": "Free, offline photo editor for RAW and JPEG with sliders, tone curve, gradient and radial masks, looks, Lightroom preset import and batch export. Originals are never changed.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/lightshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/lightshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/lightshaper/main/screenshots/editor.webp",
+                "https://raw.githubusercontent.com/hollowbit-dev/lightshaper/main/screenshots/masks.webp"
+            ],
+            "official_site": "https://hollowbit.dev/lightshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
