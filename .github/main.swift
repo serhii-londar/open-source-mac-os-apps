@@ -9,7 +9,7 @@
 import Foundation
 
 // MARK: - Dynamic Header Generator
-func generateHeader(totalApps: Int, categoriesCount: Int, languageStats: [String: Int]) -> String {
+func generateHeader(totalApps: Int, categoriesCount: Int, languageStats: [String: Int], contents: String) -> String {
     let dateFormatter = DateFormatter()
     dateFormatter.dateFormat = "MMMM d, yyyy"
     let lastUpdated = dateFormatter.string(from: Date())
@@ -96,54 +96,10 @@ You can see in which language an app is written. Currently there are following l
 | TypeScript | <img src='./icons/typescript-64.png' alt='TypeScript' height='16'/> |
 | Metal | <img src='./icons/metal-64.png' alt='Metal' height='16'/> |
 
+\(anchorTag("contents"))
+
 ## Contents
-- [Audio](#audio)
-- [Backup](#backup)
-- [Browser](#browser)
-- [Chat](#chat)
-- [Cryptocurrency](#cryptocurrency)
-- [Database](#database)
-- [Development](#development)
-- [Git](#git)
-- [iOS / macOS](#ios--macos)
-- [JSON Parsing](#json-parsing)
-- [Web development](#web-development)
-- [Other development](#other-development)
-- [Downloader](#downloader)
-- [Editors](#editors)
-- [CSV](#csv)
-- [JSON](#json)
-- [Markdown](#markdown)
-- [TeX](#tex)
-- [Text](#text)
-- [Extensions](#extensions)
-- [Finder](#finder)
-- [Games](#games)
-- [Graphics](#graphics)
-- [IDE](#ide)
-- [Images](#images)
-- [Keyboard](#keyboard)
-- [Mail](#mail)
-- [Menubar](#menubar)
-- [Music](#music)
-- [News](#news)
-- [Notes](#notes)
-- [Other](#other)
-- [Podcast](#podcast)
-- [Productivity](#productivity)
-- [Screensaver](#screensaver)
-- [Security](#security)
-- [Sharing Files](#sharing-files)
-- [Social Networking](#social-networking)
-- [Streaming](#streaming)
-- [System](#system)
-- [Terminal](#terminal)
-- [Touch Bar](#touch-bar)
-- [Utilities](#utilities)
-- [VPN & Proxy](#vpn--proxy)
-- [Video](#video)
-- [Wallpaper](#wallpaper)
-- [Window Management](#window-management)
+\(contents)
 
 ## Applications
 
@@ -291,8 +247,12 @@ class ReadmeGenerator {
             let applicationsObject = try jsonDecoder.decode(JSONApplications.self, from: applicationsData)
             let categoriesObject = try jsonDecoder.decode(Categories.self, from: categoriesData)
             
-            var categories = categoriesObject.categories
-            let subcategories = categories.filter({ $0.parent != nil && !$0.parent!.isEmpty })
+            // Split by the `parent` field rather than by position in categories.json,
+            // so a new category can be added anywhere in the file.
+            let allCategories = categoriesObject.categories
+            let subcategories = allCategories.filter({ !($0.parent ?? "").isEmpty })
+            var categories = allCategories.filter({ ($0.parent ?? "").isEmpty })
+            try validateCategories(allCategories)
             let applications = applicationsObject.applications
             
             // Validate applications
@@ -315,19 +275,27 @@ class ReadmeGenerator {
                 }
             }
             
-            for subcategory in subcategories {
-                if let index = categories.lastIndex(where: { $0.parent != subcategory.id }) {
-                    categories.remove(at: index)
+            categories = categories.sorted(by: { $0.title < $1.title })
+
+            // Build the Contents list from categories.json, in the same order as the
+            // sections below, so every category (including new ones) is listed.
+            var contentsLines: [String] = []
+            for category in categories {
+                contentsLines.append("- [\(category.title)](#\(category.id))")
+                let children = subcategories
+                    .filter({ $0.parent == category.id })
+                    .sorted(by: { $0.title < $1.title })
+                for subcategory in children {
+                    contentsLines.append("  - [\(subcategory.title)](#\(subcategory.id))")
                 }
             }
-            
-            categories = categories.sorted(by: { $0.title < $1.title })
-            
+
             // Generate header with statistics
             let header = generateHeader(
                 totalApps: validApplications.count,
                 categoriesCount: categories.count + subcategories.count,
-                languageStats: languageStats
+                languageStats: languageStats,
+                contents: contentsLines.joined(separator: String.enter)
             )
             
             readmeString.append(header)
@@ -338,6 +306,7 @@ class ReadmeGenerator {
                 let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
+                appendAnchor(category.id)
                 readmeString.append(String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
@@ -358,6 +327,7 @@ class ReadmeGenerator {
                     let subcategoryApps = validApplications.filter({ $0.categories.contains(subcategory.id) })
                     let subcategoryCount = subcategoryApps.count
                     let subcategoryEmoji = getCategoryEmoji(subcategory.id)
+                    appendAnchor(subcategory.id)
                     readmeString.append(String.subsection + String.space + subcategoryEmoji + String.space + subcategory.title + String.space + "(\(subcategoryCount))" + String.enter)
                     
                     var categoryApplications = subcategoryApps
@@ -373,6 +343,8 @@ class ReadmeGenerator {
             }
             print("Finish iteration...")
             readmeString.append(footer)
+            // Refuse to write a README whose in-page links point nowhere.
+            try validateInternalLinks(readmeString)
             try readmeString.data(using: .utf8)?.write(to: url.appendingPathComponent(FilePaths.readme.rawValue))
             
             // Generate JSON API file for external consumers
@@ -381,9 +353,23 @@ class ReadmeGenerator {
             print("✅ Finish - Generated README.md and api.json")
         } catch {
             print("❌ Error: \(error)")
+            exit(1)
         }
     }
-    
+
+    // Write an explicit, stable anchor before a section heading. Headings contain an
+    // emoji and an app count, so GitHub's automatic heading anchors (e.g. "#-audio-72")
+    // never match the links and change whenever the count changes. The anchor uses the
+    // category id from categories.json, which is also what every link points to.
+    // The blank lines around it are required: without them the heading below would be
+    // swallowed into the HTML block and shown as raw "### ..." text.
+    private func appendAnchor(_ id: String) {
+        if !readmeString.hasSuffix(String.enter + String.enter) {
+            readmeString.append(String.enter)
+        }
+        readmeString.append(anchorTag(id) + String.enter + String.enter)
+    }
+
     // Generate a JSON API file for external consumers
     private func generateAPIFile(applications: [JSONApplication], categories: [Category], to baseURL: URL) throws {
         let apiData: [String: Any] = [
@@ -397,6 +383,64 @@ class ReadmeGenerator {
         let jsonData = try JSONSerialization.data(withJSONObject: apiData, options: [.prettyPrinted, .sortedKeys])
         try jsonData.write(to: baseURL.appendingPathComponent("api.json"))
     }
+}
+
+// MARK: - Anchors and link validation
+
+struct ReadmeValidationError: Error, CustomStringConvertible {
+    let problems: [String]
+    var description: String {
+        return "README validation failed:\n" + problems.map { "  - " + $0 }.joined(separator: "\n")
+    }
+}
+
+func anchorTag(_ id: String) -> String {
+    return "<a name=\"\(id)\"></a>"
+}
+
+// Category ids are used directly as link targets, so they must be unique and URL-safe,
+// and every subcategory must point at an existing top-level category.
+func validateCategories(_ categories: [Category]) throws {
+    var problems: [String] = []
+    let validId = try NSRegularExpression(pattern: "^[a-z0-9]+(-[a-z0-9]+|--[a-z0-9]+)*$")
+    var seen = Set<String>()
+    let topLevelIds = Set(categories.filter({ ($0.parent ?? "").isEmpty }).map { $0.id })
+    for category in categories {
+        let range = NSRange(category.id.startIndex..., in: category.id)
+        if validId.firstMatch(in: category.id, range: range) == nil {
+            problems.append("Category id '\(category.id)' must use only lowercase letters, digits and hyphens")
+        }
+        if !seen.insert(category.id).inserted {
+            problems.append("Category id '\(category.id)' is used more than once")
+        }
+        if let parent = category.parent, !parent.isEmpty, !topLevelIds.contains(parent) {
+            problems.append("Subcategory '\(category.id)' has parent '\(parent)', which is not a top-level category")
+        }
+    }
+    if !problems.isEmpty {
+        throw ReadmeValidationError(problems: problems)
+    }
+}
+
+// Every in-page link ("#something") in the README must have a matching anchor.
+func validateInternalLinks(_ readme: String) throws {
+    func matches(_ pattern: String) throws -> [String] {
+        let regex = try NSRegularExpression(pattern: pattern)
+        let range = NSRange(readme.startIndex..., in: readme)
+        return regex.matches(in: readme, range: range).compactMap { match in
+            Range(match.range(at: 1), in: readme).map { String(readme[$0]) }
+        }
+    }
+    let anchors = Set(try matches("<a name=\"([^\"]+)\"></a>"))
+    let links = try matches("href=\"#([^\"]+)\"") + matches("\\]\\(#([^)\\s]+)\\)")
+    var missing: [String] = []
+    for link in links where !anchors.contains(link) && !missing.contains(link) {
+        missing.append(link)
+    }
+    if !missing.isEmpty {
+        throw ReadmeValidationError(problems: missing.map { "Link '#\($0)' has no matching anchor in README.md" })
+    }
+    print("🔗 Checked \(links.count) in-page links against \(anchors.count) anchors")
 }
 
 // Helper function to normalize language names for statistics

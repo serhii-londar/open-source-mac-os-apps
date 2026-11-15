@@ -35,7 +35,9 @@ jobs:
             # api.json can never be committed from an outdated base.
             git fetch --quiet origin master
             git reset --hard --quiet origin/master
-            swift ./.github/main.swift
+            # Stop if generation or its link check fails, rather than pushing nothing
+            # and reporting success.
+            swift ./.github/main.swift || exit 1
 
             git add README.md api.json
             if git diff --cached --quiet; then
