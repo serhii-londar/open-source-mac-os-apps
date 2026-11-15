@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Hoku",
+            "short_description": "Menu bar app for Philips Hue with rooms, scenes, global shortcuts, wake-up light and Siri commands that work on the Mac without an iPhone.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Philoni/hoku",
+            "icon_url": "https://raw.githubusercontent.com/Philoni/hoku/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Philoni/hoku/main/docs/images/hero.jpg"
+            ],
+            "official_site": "https://philoni.github.io/hoku/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
