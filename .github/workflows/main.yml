@@ -1,16 +1,58 @@
 name: Generate Readme
-on: 
+on:
   push:
-    branches:    
+    branches:
       - master
+
+# Serialize runs: two pushes to master in quick succession must not race
+# each other on the final `git push`. Only the newest pending run is kept,
+# and it regenerates from the latest master.
+concurrency:
+  group: generate-readme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   generate-readme:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v6
-      - run: swift ./.github/main.swift
-      - run: git config user.name "serhii-londar"
-      - run: git config user.email "serhii.londar@gmail.com"
-      - run: git add README.md
-      - run: git commit -m "Generate README"
-      - run: git push --quiet "https://${API_TOKEN}@github.com/serhii-londar/open-source-mac-os-apps.git"  master:master > /dev/null 2>&1
+        with:
+          fetch-depth: 0
+
+      - name: Generate README and push
+        env:
+          API_TOKEN: ${{ github.token }}
+        run: |
+          set -uo pipefail
+          git config user.name "serhii-londar"
+          git config user.email "serhii.londar@gmail.com"
+
+          for attempt in 1 2 3 4 5; do
+            # Always regenerate from the newest master, so README.md and
+            # api.json can never be committed from an outdated base.
+            git fetch --quiet origin master
+            git reset --hard --quiet origin/master
+            swift ./.github/main.swift
+
+            git add README.md api.json
+            if git diff --cached --quiet; then
+              echo "README.md and api.json are already up to date"
+              exit 0
+            fi
+
+            git commit --quiet -m "Generate README"
+
+            if git push "https://x-access-token:${API_TOKEN}@github.com/serhii-londar/open-source-mac-os-apps.git" HEAD:master; then
+              echo "Pushed regenerated README on attempt ${attempt}"
+              exit 0
+            fi
+
+            echo "::warning::Push rejected on attempt ${attempt} (master moved), retrying from the latest master"
+            sleep 5
+          done
+
+          echo "::error::Could not push the regenerated README after 5 attempts"
+          exit 1
