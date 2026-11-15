@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "diskmap",
+            "short_description": "Partition map and layout planner for external drives: every change is a diskutil command you see before it runs, NTFS and ext4 included.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/zapotylok/diskmap",
+            "icon_url": "https://raw.githubusercontent.com/zapotylok/diskmap/main/assets/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zapotylok/diskmap/main/assets/screenshots/map-light.png",
+                "https://raw.githubusercontent.com/zapotylok/diskmap/main/assets/screenshots/plan-light.png",
+                "https://raw.githubusercontent.com/zapotylok/diskmap/main/assets/screenshots/steps-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python",
+                "javascript",
+                "swift"
+            ]
         }
     ]
 }
