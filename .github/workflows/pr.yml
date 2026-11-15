@@ -12,3 +12,10 @@ jobs:
       - run: gem install danger
       - uses: actions/checkout@v6
       - run: awesome_bot applications.json -w https://matrix.org,https://camo.githubusercontent.com,http://joshparnham.com,https://pock.pigigaldi.com,https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6,https://adequate.systems/ --allow 429
+  readme:
+    # Generates the README from the PR's applications.json and categories.json.
+    # Fails if a category id is invalid or any in-page link has no anchor.
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v6
+      - run: swift ./.github/main.swift
