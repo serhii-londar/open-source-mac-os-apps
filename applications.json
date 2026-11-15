@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AInnotator",
+            "short_description": "Screenshot annotation tool that turns numbered marks, notes and redactions into one self-explaining image to paste into Claude Code, Codex or ChatGPT, including over SSH.",
+            "categories": [
+                "images",
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/porco-rs/ainnotator",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/porco-rs/ainnotator/main/assets/readme/hero.gif",
+                "https://raw.githubusercontent.com/porco-rs/ainnotator/main/assets/readme/card-anatomy.png"
+            ],
+            "official_site": "https://github.com/porco-rs/ainnotator",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
