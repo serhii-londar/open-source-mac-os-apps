@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Resume Bar",
+            "short_description": "Menu bar app that files Claude Code and Codex sessions by project and resumes any of them in a new terminal window from a global hotkey.",
+            "categories": [
+                "menubar",
+                "development",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/porco-rs/resume-bar",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/porco-rs/resume-bar/main/assets/readme/hero.gif",
+                "https://raw.githubusercontent.com/porco-rs/resume-bar/main/assets/readme/close-the-pile.png"
+            ],
+            "official_site": "https://github.com/porco-rs/resume-bar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
