@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "NotchDeck",
+            "short_description": "Control center around the MacBook notch: system metrics, now playing, quick notes, screen recording and task profiles.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/systemAdmin-ai/NotchDeck",
+            "icon_url": "https://raw.githubusercontent.com/systemAdmin-ai/NotchDeck/main/Assets/Logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/systemAdmin-ai/NotchDeck/main/docs/screenshots/01-panel.png",
+                "https://raw.githubusercontent.com/systemAdmin-ai/NotchDeck/main/docs/screenshots/06-settings-design.png"
+            ],
+            "official_site": "https://github.com/systemAdmin-ai/NotchDeck",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
