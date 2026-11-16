@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "AGASTHY",
+            "short_description": "Maps your developer machine in one knowledge graph: repositories, runtimes, packages and AI coding agents, with token usage, impact analysis and safe disk cleanup.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/HMAKT99/Agasthy",
+            "icon_url": "https://raw.githubusercontent.com/HMAKT99/Agasthy/main/apps/desktop/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/HMAKT99/Agasthy/main/docs/screenshots/overview.png",
+                "https://raw.githubusercontent.com/HMAKT99/Agasthy/main/docs/screenshots/graph.png",
+                "https://raw.githubusercontent.com/HMAKT99/Agasthy/main/docs/screenshots/agents.png",
+                "https://raw.githubusercontent.com/HMAKT99/Agasthy/main/docs/screenshots/impact.png"
+            ],
+            "official_site": "https://github.com/HMAKT99/Agasthy",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
