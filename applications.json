@@ -16306,7 +16306,9 @@
             "repo_url": "https://github.com/ATTILA-KRB/bar27",
             "title": "Bar27",
             "icon_url": "https://raw.githubusercontent.com/ATTILA-KRB/bar27/main/Bar27/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ATTILA-KRB/bar27/main/docs/screenshots/arrange-window.png"
+            ],
             "official_site": "",
             "languages": [
                 "swift"
