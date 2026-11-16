@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Aris",
+            "short_description": "AI agent that lives in the MacBook notch: talk or type, and it acts in your apps with the AI you already use (Claude Code, Codex, an API key or a local model), asking before anything that sends, writes or deletes.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/LumenJSN/Aris",
+            "icon_url": "https://raw.githubusercontent.com/LumenJSN/Aris/main/Aris/Assets.xcassets/AppIcon.appiconset/AppIcon-256@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/LumenJSN/Aris/main/.github/launch-film.webp"
+            ],
+            "official_site": "https://arismac.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
