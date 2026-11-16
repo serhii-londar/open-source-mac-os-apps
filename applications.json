@@ -16300,7 +16300,7 @@
         },
         {
             "title": "zest",
-            "short_description": "Autocomplete popup for zsh: subcommands, options, git branches and files with descriptions under the cursor in Terminal, iTerm2, VS Code and Cursor.",
+            "short_description": "Autocomplete popup for zsh: subcommands, options, git branches and files with descriptions under the cursor in Terminal, iTerm2, Ghostty, VS Code and Cursor.",
             "categories": [
                 "terminal",
                 "menubar"
