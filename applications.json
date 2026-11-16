@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "SecretBar",
+            "short_description": "Command line tool and menu bar app that stores API keys and tokens in the Secure Enclave, reads them with Touch ID and injects them into one command's environment.",
+            "categories": [
+                "security",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/secretbar/secretbar",
+            "icon_url": "https://raw.githubusercontent.com/secretbar/secretbar/main/docs/img/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/secretbar/secretbar/main/docs/img/menubar-light.png",
+                "https://raw.githubusercontent.com/secretbar/secretbar/main/docs/img/main-light.png"
+            ],
+            "official_site": "https://secretbar.github.io",
+            "languages": [
+                "swift",
+                "shell"
+            ]
         }
     ]
 }
