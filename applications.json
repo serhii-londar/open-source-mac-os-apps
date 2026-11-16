@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Convrt",
+            "short_description": "Menu bar file converter: hold Shift while dragging files and drop them on a wheel to convert images, audio, video and PDFs, fully offline.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/atuuuuuuu/Convrt",
+            "icon_url": "https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/Convrt/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/wheels.png",
+                "https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
