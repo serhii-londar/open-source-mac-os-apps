@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "title": "EdgeEver",
+            "short_description": "Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/tianma-if/edgeever",
+            "icon_url": "https://raw.githubusercontent.com/tianma-if/edgeever/main/apps/desktop/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tianma-if/edgeever/main/assets/readme/edgeever-hero-v8-en.png"
+            ],
+            "official_site": "https://edgeever.org",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
