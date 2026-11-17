@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "WhisPaste",
+            "short_description": "Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/whispaste/whispaste",
+            "icon_url": "https://whispaste.de/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/whispaste/whispaste/main/resources/screenshots/history-overview-dark.png",
+                "https://raw.githubusercontent.com/whispaste/whispaste/main/resources/screenshots/history-detail-dark.png"
+            ],
+            "official_site": "https://whispaste.de/en/",
+            "languages": [
+                "dart",
+                "cpp",
+                "swift"
+            ]
         }
     ]
 }
