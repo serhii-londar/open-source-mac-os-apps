@@ -1,6 +1,23 @@
 {
     "applications": [
         {
+            "title": "Suelta",
+            "short_description": "Private journaling ritual: write what you carry, choose who it's for, then let it go as a paper plane, to the bottom of the sea or into the trash.",
+            "categories": [
+                "notes"
+            ],
+            "repo_url": "https://github.com/bybryanchavez-dev/suelta",
+            "icon_url": "https://raw.githubusercontent.com/bybryanchavez-dev/suelta/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bybryanchavez-dev/suelta/main/docs/sea.gif",
+                "https://raw.githubusercontent.com/bybryanchavez-dev/suelta/main/docs/plane.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
