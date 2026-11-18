@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Runout Bar",
+            "short_description": "Menu bar app that shows Claude and Codex usage for several accounts pooled by a local TeamClaude proxy, with pace forecasts and the time the pool runs out.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/RobinVivant/runout-bar",
+            "icon_url": "https://raw.githubusercontent.com/RobinVivant/runout-bar/main/docs/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RobinVivant/runout-bar/main/docs/screenshots/usage-dark.png",
+                "https://raw.githubusercontent.com/RobinVivant/runout-bar/main/docs/screenshots/detail-dark.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
