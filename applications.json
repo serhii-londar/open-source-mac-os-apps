@@ -1,6 +1,26 @@
 {
     "applications": [
         {
+            "short_description": "The Windows 11 desktop on your Mac: taskbar, Start menu, Quick Settings, Snap Layouts, Alt+Tab and clipboard history.",
+            "categories": [
+                "window-management",
+                "system"
+            ],
+            "repo_url": "https://github.com/PRMotorWorks/Fenestra",
+            "title": "Fenestra",
+            "icon_url": "https://raw.githubusercontent.com/PRMotorWorks/Fenestra/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PRMotorWorks/Fenestra/main/docs/images/hero.jpg",
+                "https://raw.githubusercontent.com/PRMotorWorks/Fenestra/main/docs/images/start-menu.jpg",
+                "https://raw.githubusercontent.com/PRMotorWorks/Fenestra/main/docs/images/snap-layouts.jpg"
+            ],
+            "official_site": "https://github.com/PRMotorWorks/Fenestra",
+            "languages": [
+                "swift",
+                "shell"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
