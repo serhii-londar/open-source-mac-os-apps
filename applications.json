@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Agneta",
+            "short_description": "Menu bar app that lets Mac apps run AI agents (Codex, Claude Code, Goose, OpenCode) on your own ChatGPT or Claude plan or API key, with per-app consent, a sandbox per task, and a stop button for every task.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/olofd/agneta",
+            "icon_url": "https://raw.githubusercontent.com/olofd/agneta/main/site/src/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/olofd/agneta/main/docs/images/panel.png",
+                "https://raw.githubusercontent.com/olofd/agneta/main/docs/images/approval.png"
+            ],
+            "official_site": "https://agneta.dahlbom.io",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
