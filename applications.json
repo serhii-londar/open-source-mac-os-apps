@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "REA",
+            "short_description": "Local CLI and MCP server for inspecting Mach-O binaries and packaged apps with supporting evidence.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/morluto/rea",
+            "icon_url": "https://raw.githubusercontent.com/morluto/rea/main/assets/rea-plugin.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/morluto/rea/main/docs/assets/rea-hopper-analysis.png"
+            ],
+            "official_site": "https://rea.tools/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
