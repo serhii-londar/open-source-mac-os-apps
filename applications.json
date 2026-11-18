@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Kiri",
+            "short_description": "A tiny, fast container runtime that replaces Docker Desktop and OrbStack. Runs Docker images in one small Linux VM, works with the docker CLI, Compose and buildx, and adds local HTTPS domains, a one-command Kubernetes cluster and a native window.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/libracoder/kiri",
+            "icon_url": "https://raw.githubusercontent.com/libracoder/kiri/main/brand/icon/png/kiri-app-icon-128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/libracoder/kiri/main/docs/images/kiri-window.png"
+            ],
+            "official_site": "https://runkiri.com",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
