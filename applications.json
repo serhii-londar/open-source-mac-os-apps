@@ -1,6 +1,16 @@
 {
     "applications": [
         {
+            "title": "mm2t",
+            "short_description": "Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries.",
+            "categories": ["audio", "notes", "productivity"],
+            "repo_url": "https://github.com/yuzen9622/mm2t",
+            "icon_url": "https://raw.githubusercontent.com/yuzen9622/mm2t/main/docs/assets/icon.png",
+            "screenshots": ["https://raw.githubusercontent.com/yuzen9622/mm2t/main/docs/assets/en/feature-summary.png"],
+            "official_site": "https://mm2t.yuzen.dev/en/",
+            "languages": ["swift"]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
