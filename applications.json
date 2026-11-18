@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "PanelRest",
+            "short_description": "Menu bar app that turns Mini-LED and OLED displays fully black while the display stays connected and the Mac keeps working. It wakes only for real human input, not for AI agents or automation.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/myyccccc/PanelRest",
+            "icon_url": "https://raw.githubusercontent.com/myyccccc/PanelRest/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/myyccccc/PanelRest/main/docs/images/settings.png",
+                "https://raw.githubusercontent.com/myyccccc/PanelRest/main/docs/images/settings-2.png"
+            ],
+            "official_site": "https://panelrest.pages.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
