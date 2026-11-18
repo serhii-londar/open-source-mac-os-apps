@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Open-source macOS dictation with on-device speech recognition and app-specific modes.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/Beingpax/VoiceInk",
+            "title": "VoiceInk",
+            "icon_url": "https://tryvoiceink.com/icons/appIcon-1024.png",
+            "screenshots": [
+                "https://tryvoiceink.com/images/features/locals.png"
+            ],
+            "official_site": "https://tryvoiceink.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
