@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Agent Monitor",
+            "short_description": "Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/paveler/agent-monitor",
+            "icon_url": "https://raw.githubusercontent.com/paveler/agent-monitor/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/paveler/agent-monitor/main/docs/waiting.png",
+                "https://raw.githubusercontent.com/paveler/agent-monitor/main/docs/hero.png"
+            ],
+            "official_site": "https://github.com/paveler/agent-monitor",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
