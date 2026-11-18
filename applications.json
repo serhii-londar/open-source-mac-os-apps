@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "App Vanish",
+            "short_description": "Drop an app on the bin to remove it and the files it left behind, moving everything to the Trash.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/heysidhant/appvanish",
+            "icon_url": "https://raw.githubusercontent.com/heysidhant/appvanish/main/App/Assets.xcassets/AppIcon.appiconset/icon_512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/heysidhant/appvanish/main/docs/screenshot.png"
+            ],
+            "official_site": "https://appvanish.pages.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
