@@ -9536,6 +9536,22 @@
             ]
         },
         {
+            "short_description": "Medieval war strategy game where you win seven great houses by war or by your word.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/off-grid-ai/game-of-crowns",
+            "title": "Game of Crowns",
+            "icon_url": "https://raw.githubusercontent.com/off-grid-ai/game-of-crowns/main/media/brand-kit/icons/goc-128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/off-grid-ai/game-of-crowns/main/docs/play/v07/court_hall.jpg"
+            ],
+            "official_site": "https://github.com/off-grid-ai/game-of-crowns/releases/latest",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Real-time strategy game of ancient warfare",
             "categories": [
                 "games"
