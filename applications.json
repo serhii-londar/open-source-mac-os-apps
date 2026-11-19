@@ -11744,17 +11744,21 @@
         },
         {
             "title": "Live Translator",
-            "short_description": "Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.",
+            "short_description": "Menu bar app that captures any system audio, transcribes it and shows a live translation in a floating overlay, translated on-device with TranslateGemma via MLX by default, with optional OpenAI, Gemini or Anthropic keys.",
             "categories": [
                 "utilities",
                 "menubar"
             ],
             "repo_url": "https://github.com/umutcetinkaya/live-translator",
             "icon_url": "https://raw.githubusercontent.com/umutcetinkaya/live-translator/main/assets/icon.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/umutcetinkaya/live-translator/main/assets/videos/en-to-tr-demo.gif"
+            ],
             "official_site": "https://github.com/umutcetinkaya/live-translator",
             "languages": [
-                "python"
+                "python",
+                "swift",
+                "c"
             ]
         },
         {
