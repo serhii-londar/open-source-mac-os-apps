@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "5dive",
+            "short_description": "Desktop app for 5dive, which runs Claude Code, Codex, OpenClaw and other AI agents as one team. The menu bar shows a count when an agent is waiting on you.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/5dive-ai/5dive-desktop",
+            "icon_url": "https://raw.githubusercontent.com/5dive-ai/5dive-desktop/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/5dive-ai/5dive-desktop/main/docs/screenshot.png"
+            ],
+            "official_site": "https://5dive.ai",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
