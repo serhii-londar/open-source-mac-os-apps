@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Copia",
+            "short_description": "Clipboard manager that keeps every copy and pastes several at once or one by one.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/copia",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/copia/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geragarazagh/copia/main/docs/scene.webp"
+            ],
+            "official_site": "https://geragaraza.com/apps/copia/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
