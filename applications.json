@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Private AI meeting notes. Records calls without a bot, then transcribes and summarizes them on your Mac.",
+            "categories": [
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/FrigadeHQ/yogurt",
+            "title": "Yogurt",
+            "icon_url": "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/app/build/icons/256x256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/docs/assets/yogurt-screenshot.webp"
+            ],
+            "official_site": "https://yogurt.so",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
