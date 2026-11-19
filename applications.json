@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "Vitrine Studio",
+            "short_description": "Design App Store and Google Play screenshots on one continuous canvas and render them for every language and device, with an MCP server for AI agents and a CLI for CI.",
+            "categories": [
+                "graphics",
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/vitrinestudio-app/vitrine",
+            "icon_url": "https://raw.githubusercontent.com/vitrinestudio-app/vitrine/main/assets/brand/vitrine-studio.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/vitrinestudio-app/vitrine/main/docs/gui/editor.jpg",
+                "https://raw.githubusercontent.com/vitrinestudio-app/vitrine/main/docs/example/warm-stay-matrix.jpg"
+            ],
+            "official_site": "https://www.vitrinestudio.app",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
