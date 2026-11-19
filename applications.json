@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "TernaryCode",
+            "short_description": "Native terminal workspace for many projects and the AI coding agents in them (Claude Code, Codex, OpenCode). Shows which agent is waiting for you, with a browser panel agents can drive, diff review and git worktrees.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/ilhamnadhif/ternarycode",
+            "icon_url": "https://raw.githubusercontent.com/ilhamnadhif/ternarycode/main/assets/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ilhamnadhif/ternarycode/main/docs/screenshots/grid.png",
+                "https://raw.githubusercontent.com/ilhamnadhif/ternarycode/main/docs/screenshots/focus.png"
+            ],
+            "official_site": "https://ilhamnadhif.github.io/ternarycode/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
