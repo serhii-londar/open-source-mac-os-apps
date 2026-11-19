@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Keeps external monitors connected after sleep and restart, with DDC brightness, disconnect-without-unplugging, resolution switching and a CLI.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Hitesh-Sisara/DisplayLatch",
+            "title": "DisplayLatch",
+            "icon_url": "https://raw.githubusercontent.com/Hitesh-Sisara/DisplayLatch/main/docs/images/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Hitesh-Sisara/DisplayLatch/main/docs/images/popover-dark.png"
+            ],
+            "official_site": "https://displaylatch.sisara.in/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
