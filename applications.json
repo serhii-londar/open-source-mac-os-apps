@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Finder Grouping Assistant",
+            "short_description": "Menu bar app that makes every Finder window use your chosen grouping and sorting automatically. Never moves or deletes files.",
+            "categories": [
+                "finder",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/myyccccc/Finder-Grouping-Assistant",
+            "screenshots": [
+                "https://raw.githubusercontent.com/myyccccc/Finder-Grouping-Assistant/main/docs/hero.png"
+            ],
+            "official_site": "https://github.com/myyccccc/Finder-Grouping-Assistant",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
