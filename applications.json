@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Driftwall",
+            "short_description": "Play any video as a looping live wallpaper behind your desktop icons, on every display.",
+            "categories": [
+                "wallpaper",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dhitalkamal/driftwall",
+            "icon_url": "https://raw.githubusercontent.com/dhitalkamal/driftwall/main/site/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dhitalkamal/driftwall/main/docs/screenshots/settings-wallpaper.png",
+                "https://raw.githubusercontent.com/dhitalkamal/driftwall/main/docs/screenshots/settings-playlist.png",
+                "https://raw.githubusercontent.com/dhitalkamal/driftwall/main/docs/screenshots/settings-behavior.png"
+            ],
+            "official_site": "https://driftwall.kamaldhital.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
