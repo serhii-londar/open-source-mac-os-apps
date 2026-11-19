@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "unbraid",
+            "short_description": "Per-app VPN client: each app can use its own exit, from one or more providers, with Tailscale running too.",
+            "categories": [
+                "vpn--proxy"
+            ],
+            "repo_url": "https://github.com/quiet-crafts/unbraid-mac",
+            "icon_url": "https://raw.githubusercontent.com/quiet-crafts/unbraid-mac/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/quiet-crafts/unbraid-mac/main/.github/screenshots/apps.png"
+            ],
+            "official_site": "https://unbraid.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
