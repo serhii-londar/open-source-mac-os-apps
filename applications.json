@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "WhimsyDesk",
+            "short_description": "Real-feeling desktop objects that hold your files: a fridge, a drawer, a post box and a vending machine.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Electrofist/WhimsyDesk",
+            "icon_url": "https://raw.githubusercontent.com/Electrofist/WhimsyDesk/main/objects/fridge/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Electrofist/WhimsyDesk/main/objects/fridge/media/open.png",
+                "https://raw.githubusercontent.com/Electrofist/WhimsyDesk/main/objects/drawer/media/closed.png",
+                "https://raw.githubusercontent.com/Electrofist/WhimsyDesk/main/objects/mailbox/media/open.png"
+            ],
+            "official_site": "https://whimsydesk.art",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
