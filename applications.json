@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "CalmMouse",
+            "short_description": "Menu bar app that stops the Magic Mouse scrolling the page every time you click, with straight-line scrolling, tap to click and per-app rules; it also smooths scroll-wheel mice and turns a game controller into a mouse.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Malik1942/CalmMouse",
+            "icon_url": "https://raw.githubusercontent.com/Malik1942/CalmMouse/main/docs/images/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Malik1942/CalmMouse/main/docs/images/settings-devices.png",
+                "https://raw.githubusercontent.com/Malik1942/CalmMouse/main/docs/images/welcome-devices.png"
+            ],
+            "official_site": "https://calmmouse.malikzhang.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
