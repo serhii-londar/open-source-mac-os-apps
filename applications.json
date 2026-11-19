@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "bot-inator",
+            "short_description": "Local-first menu bar agent that notices what you do, offers help on approval cards, and writes its own sandboxed tools.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Bforsyth1234/bot-inator",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bforsyth1234/bot-inator/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
