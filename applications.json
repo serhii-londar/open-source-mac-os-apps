@@ -5801,6 +5801,22 @@
             ]
         },
         {
+            "short_description": "Safari extension for macOS that hides YouTube Shorts and Reels from Instagram and Facebook and limits distracting feeds.",
+            "categories": [
+                "productivity",
+                "extensions"
+            ],
+            "repo_url": "https://github.com/skar404/slowth",
+            "title": "Slowth",
+            "icon_url": "https://raw.githubusercontent.com/skar404/slowth/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://slowth.app/",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
             "short_description": "Simple macOS app to keep TODO-list in status bar. ",
             "categories": [
                 "productivity"
