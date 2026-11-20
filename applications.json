@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "HyprMac",
+            "short_description": "Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle (BSP) layout and ten workspaces.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/zacharytgray/HyprMac",
+            "icon_url": "https://raw.githubusercontent.com/zacharytgray/HyprMac/main/HyprMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zacharytgray/HyprMac/main/docs/readme/hero.webp",
+                "https://raw.githubusercontent.com/zacharytgray/HyprMac/main/docs/readme/workspaces.webp"
+            ],
+            "official_site": "https://hyprmac.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
