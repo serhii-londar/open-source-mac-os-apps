@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "mtfy",
+            "short_description": "Native menu bar client for ntfy with desktop notifications, searchable history, multiple servers and a CLI.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/acidvegas/mtfy",
+            "icon_url": "https://raw.githubusercontent.com/acidvegas/mtfy/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/acidvegas/mtfy/main/docs/main.png",
+                "https://raw.githubusercontent.com/acidvegas/mtfy/main/docs/compose.png",
+                "https://raw.githubusercontent.com/acidvegas/mtfy/main/docs/menu.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
