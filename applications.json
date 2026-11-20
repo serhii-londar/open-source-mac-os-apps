@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "PasteFerry",
+            "short_description": "Clipboard sync, searchable history and file transfer between Mac, Windows, Linux and Android, peer-to-peer and end-to-end encrypted.",
+            "categories": [
+                "productivity",
+                "sharing-files",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/baiyuze/pasteferry",
+            "icon_url": "https://raw.githubusercontent.com/baiyuze/pasteferry/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/baiyuze/pasteferry/main/docs/assets/screenshots/en/card-picker-dark.png"
+            ],
+            "official_site": "https://pasteferry.cc/en/",
+            "languages": [
+                "dart",
+                "go"
+            ]
         }
     ]
 }
