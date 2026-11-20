@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Trina AX",
+            "short_description": "Team AI workspace with one shared drive, chat rooms and per-person folder permissions, run on your own server.",
+            "categories": [
+                "productivity",
+                "chat"
+            ],
+            "repo_url": "https://github.com/trina-app/trina-ax",
+            "icon_url": "https://raw.githubusercontent.com/trina-app/trina-ax/main/desktop/build-resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/trina-app/trina-ax/main/docs/images/readme/v4/team-drive.webp"
+            ],
+            "official_site": "https://ax.trina.app",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
