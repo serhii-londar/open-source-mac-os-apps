@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "GravityNotch",
+            "short_description": "Turns the MacBook notch into a Dynamic Island with system HUDs that work on macOS Tahoe, a lock screen player with synced lyrics, clipboard history, screen OCR and live Claude Code agent tracking.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/adrielakak/GravityNotch",
+            "icon_url": "https://raw.githubusercontent.com/adrielakak/GravityNotch/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/adrielakak/GravityNotch/main/docs/assets/readme-demo.gif",
+                "https://raw.githubusercontent.com/adrielakak/GravityNotch/main/docs/assets/video/lock_screen.jpg"
+            ],
+            "official_site": "https://adrielakak.github.io/GravityNotch/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
