@@ -7850,6 +7850,22 @@
             ]
         },
         {
+            "short_description": "Lightweight native macOS menu bar utility that keeps your Desktop clean automatically.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/mrpixoff/desktop-cleaner",
+            "title": "Desktop Cleaner",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mrpixoff/desktop-cleaner/main/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
             "short_description": "Win / Linux / macOS tool for managing and cycling desktop wallpapers. ",
             "categories": [
                 "wallpaper"
