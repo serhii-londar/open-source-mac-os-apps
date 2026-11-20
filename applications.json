@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "TokenBar",
+            "short_description": "Menu bar app that shows your Claude Code, Codex, Copilot, Cursor, Gemini and other AI usage limits and reset times on a dot-matrix LED display, mirrored to iPhone, Apple Watch and Android over Wi-Fi.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/ChaconLucas/tokenbar",
+            "icon_url": "https://raw.githubusercontent.com/ChaconLucas/tokenbar/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ChaconLucas/tokenbar/main/docs/mac-device.png",
+                "https://raw.githubusercontent.com/ChaconLucas/tokenbar/main/docs/mac-notch.png",
+                "https://raw.githubusercontent.com/ChaconLucas/tokenbar/main/docs/iphone-device.png"
+            ],
+            "official_site": "https://chaconlucas.github.io/tokenbar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
