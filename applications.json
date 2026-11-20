@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Orchestrator.inc",
+            "short_description": "Desktop workspace for planning, running and supervising fleets of coding agents such as Claude Code and Codex, each in its own git worktree, from task to merged pull request.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/OrchestratorInc/agent-orchestrator",
+            "icon_url": "https://raw.githubusercontent.com/OrchestratorInc/agent-orchestrator/main/frontend/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/OrchestratorInc/agent-orchestrator/main/docs/assets/readme/hero.png",
+                "https://raw.githubusercontent.com/OrchestratorInc/agent-orchestrator/main/docs/assets/readme/dashboard.png"
+            ],
+            "official_site": "https://orchestrator.inc",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
