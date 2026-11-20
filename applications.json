@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Mic Control",
+            "short_description": "Unofficial app to control DJI Mic 3 wireless microphone receivers over USB: live levels, gain, mute, noise cancelling, internal recording and battery, without a phone or DJI Mimo. Mic Mini supported with fewer settings.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/qubik89/DJIMic3",
+            "icon_url": "https://raw.githubusercontent.com/qubik89/DJIMic3/main/gui/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qubik89/DJIMic3/main/docs/screenshots/main-dark.png",
+                "https://raw.githubusercontent.com/qubik89/DJIMic3/main/docs/screenshots/main-light.png"
+            ],
+            "official_site": "https://miccontrol.app/en/?ref=awesome-macos-oss",
+            "languages": [
+                "rust",
+                "javascript"
+            ],
+            "homebrew_cask": "qubik89/tap/mic-control"
         }
     ]
 }
