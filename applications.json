@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Linggen",
+            "short_description": "Local-first personal AI assistant engine and web UI for music, money, health and play, with one memory shared across them and the model you choose.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/linggen/linggen",
+            "icon_url": "https://raw.githubusercontent.com/linggen/linggen/main/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/linggen/linggen/main/doc/media/demo.gif"
+            ],
+            "official_site": "https://linggen.dev",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
