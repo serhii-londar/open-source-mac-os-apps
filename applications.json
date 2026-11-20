@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tietie",
+            "short_description": "Clipboard history with number-key pasting, search for text inside copied images and clean plain-text pasting; interface in Traditional Chinese.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/KLWSharpe/tietie",
+            "icon_url": "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/screenshot-list.png",
+                "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/demo-en.gif"
+            ],
+            "official_site": "https://github.com/KLWSharpe/tietie/blob/main/README.en.md",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
