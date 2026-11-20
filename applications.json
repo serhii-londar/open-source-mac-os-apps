@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Stelix",
+            "short_description": "Live stem separation for your Mac: splits what any app is playing into vocals, drums, bass and other in real time, so you can turn each one up or down or hear it alone.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/stelix-app/stelix",
+            "icon_url": "https://getstelix.com/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/stelix-app/stelix/main/assets/hero.png"
+            ],
+            "official_site": "https://getstelix.com",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
