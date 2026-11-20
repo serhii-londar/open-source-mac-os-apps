@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "TidyLeft",
+            "short_description": "Uninstall apps with all their files, find leftovers of deleted apps, clear developer caches, see disk usage and reset broken settings, moving everything to the Trash.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/seanay-sys/tidyleft",
+            "icon_url": "https://raw.githubusercontent.com/seanay-sys/tidyleft/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/seanay-sys/tidyleft/main/docs/screenshot.png"
+            ],
+            "official_site": "https://github.com/seanay-sys/tidyleft",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
