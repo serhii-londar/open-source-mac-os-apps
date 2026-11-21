@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Adventure journal for World of Warcraft – a logging-only addon plus an app with quests, route maps, dungeon and delve runs, DPS/HPS and loot drop rates.",
+            "categories": [
+                "games",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dirkkredinger/azeroth-tagebuch",
+            "title": "Azeroth-Tagebuch",
+            "icon_url": "https://raw.githubusercontent.com/dirkkredinger/azeroth-tagebuch/main/app/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dirkkredinger/azeroth-tagebuch/main/docs/bilder/en/1-uebersicht.png",
+                "https://raw.githubusercontent.com/dirkkredinger/azeroth-tagebuch/main/docs/bilder/en/3-karte.png",
+                "https://raw.githubusercontent.com/dirkkredinger/azeroth-tagebuch/main/docs/bilder/en/7-instanzen.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript",
+                "lua"
+            ]
         }
     ]
 }
