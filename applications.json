@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "FreeMacDroid",
+            "short_description": "Mount Android phones directly in Finder over USB without USB debugging.",
+            "categories": [
+                "finder",
+                "sharing-files",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/abolfazl-moeini/FreeMacDroid",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/abolfazl-moeini/FreeMacDroid",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
