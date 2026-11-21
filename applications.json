@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "VoxtMini",
+            "short_description": "Voice input on local models: transcribe, translate and rewrite by voice in any app, in English, Chinese and Japanese.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hehehai/VoxtMini",
+            "icon_url": "https://storage.actnow.dev/www/press/voxtmini/icon-512-5671635b77.png",
+            "screenshots": [
+                "https://storage.actnow.dev/www/press/voxtmini/en/models-021cd34ab7.png",
+                "https://storage.actnow.dev/www/press/voxtmini/en/history-88f85bb149.png"
+            ],
+            "official_site": "https://actnow.dev/voxtmini",
+            "languages": [
+                "go",
+                "swift",
+                "cpp"
+            ]
         }
     ]
 }
