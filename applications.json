@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Keyboard-first web browser with built-in ad and tracker blocking, spaces, and separate profiles.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/Quavon-dev/tarn-browser",
+            "title": "Tarn Browser",
+            "icon_url": "https://raw.githubusercontent.com/Quavon-dev/tarn-browser/main/docs/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Quavon-dev/tarn-browser/main/docs/media/hero.png",
+                "https://raw.githubusercontent.com/Quavon-dev/tarn-browser/main/docs/media/split-view.png"
+            ],
+            "official_site": "https://tarnbrowser.com/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
