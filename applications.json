@@ -16297,6 +16297,22 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Open Agent API",
+            "short_description": "Desktop app and local gateway that let existing programs call configured coding agents through their usual SDKs and inspect runs in a console.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/jiangxingfan1-coder/Open-Agent-API",
+            "icon_url": "https://raw.githubusercontent.com/jiangxingfan1-coder/Open-Agent-API/main/site/favicon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jiangxingfan1-coder/Open-Agent-API/main/docs/assets/hero-light-en.png"
+            ],
+            "official_site": "https://openagentapi.pages.dev/",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
