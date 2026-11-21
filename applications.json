@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "DoppelDock",
+            "short_description": "Use two accounts in the same Electron app, such as Slack, Discord or VS Code: a second, separately signed-in copy with its own Dock icon.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/ZarinLab/doppeldock",
+            "icon_url": "https://raw.githubusercontent.com/ZarinLab/doppeldock/main/docs/doppeldock-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ZarinLab/doppeldock/main/docs/main-light.png"
+            ],
+            "official_site": "https://zarinlab.github.io/doppeldock/",
+            "languages": [
+                "shell",
+                "javascript"
+            ]
         }
     ]
 }
