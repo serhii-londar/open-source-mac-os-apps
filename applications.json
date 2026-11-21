@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "EQ",
+            "short_description": "System-wide parametric equalizer for macOS that needs no audio driver, with AutoEq import and per-output curves.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/dylenq/macos-parametric-eq",
+            "icon_url": "https://raw.githubusercontent.com/dylenq/macos-parametric-eq/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dylenq/macos-parametric-eq/main/docs/screenshot-light.png",
+                "https://raw.githubusercontent.com/dylenq/macos-parametric-eq/main/docs/screenshot-graphic-light.png"
+            ],
+            "official_site": "https://dylenq.github.io/macos-parametric-eq/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
