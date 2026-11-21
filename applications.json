@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Ragdoll Mail",
+            "short_description": "IMAP mail client with instant local full-text search (also Chinese, Japanese and Korean), and a command line that scripts and AI agents can use to search mail and write drafts.",
+            "categories": [
+                "mail"
+            ],
+            "repo_url": "https://github.com/erict16/ragdoll-mail",
+            "icon_url": "https://raw.githubusercontent.com/erict16/ragdoll-mail/main/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/erict16/ragdoll-mail/main/docs/hero-light.png",
+                "https://raw.githubusercontent.com/erict16/ragdoll-mail/main/docs/search-light.png"
+            ],
+            "official_site": "https://erict16.github.io/ragdoll-mail/",
+            "languages": [
+                "python",
+                "javascript"
+            ]
         }
     ]
 }
