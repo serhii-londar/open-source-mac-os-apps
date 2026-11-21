@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Bindars",
+            "short_description": "Markdown and Fountain reader with highlights and notes that leave your files unchanged.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/tcraid0/Bindars",
+            "icon_url": "https://raw.githubusercontent.com/tcraid0/Bindars/main/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tcraid0/Bindars/main/assets/readme/reading-light.webp",
+                "https://raw.githubusercontent.com/tcraid0/Bindars/main/assets/readme/fountain-light.png"
+            ],
+            "official_site": "https://bindars.dev",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
