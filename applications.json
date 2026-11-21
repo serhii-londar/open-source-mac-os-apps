@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Terento",
+            "short_description": "Install free maps on Garmin watches and Edge bike computers.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/VooZ2/terento",
+            "icon_url": "https://raw.githubusercontent.com/VooZ2/terento/main/app/Terento/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/VooZ2/terento/main/site/assets/app/masters/your-garmin.png",
+                "https://raw.githubusercontent.com/VooZ2/terento/main/site/assets/app/masters/map-selected.png",
+                "https://raw.githubusercontent.com/VooZ2/terento/main/site/assets/app/masters/maps-done.png"
+            ],
+            "official_site": "https://terento.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
