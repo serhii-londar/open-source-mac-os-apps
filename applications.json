@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OpenGestures",
+            "short_description": "Free trackpad gestures mapped to window, app, shortcut and script actions, set up in a visual editor and one config file.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/01wil/OpenGestures",
+            "icon_url": "https://raw.githubusercontent.com/01wil/OpenGestures/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/01wil/OpenGestures/main/docs/images/gestures-light.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
