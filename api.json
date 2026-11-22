@@ -32,7 +32,7 @@
     "notes" : 22,
     "other" : 25,
     "Other" : 1,
-    "other-development" : 7,
+    "other-development" : 8,
     "player" : 7,
     "podcast" : 6,
     "productivity" : 101,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 27
   },
-  "generated_at" : "2026-11-22T23:33:14Z",
-  "total_apps" : 1025,
+  "generated_at" : "2026-11-22T23:43:10Z",
+  "total_apps" : 1026,
   "total_categories" : 49
 }
