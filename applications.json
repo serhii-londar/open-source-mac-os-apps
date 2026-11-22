@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Relay",
+            "short_description": "Menu bar app that switches the Claude app between accounts, shares Claude Code history across them and shows every account's 5-hour and weekly usage limits.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/ahmetcankacar54/relay",
+            "icon_url": "https://raw.githubusercontent.com/ahmetcankacar54/relay/main/assets/icons/app-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ahmetcankacar54/relay/main/docs/images/overview-dark.webp",
+                "https://raw.githubusercontent.com/ahmetcankacar54/relay/main/docs/images/panel-dark.webp"
+            ],
+            "official_site": "https://github.com/ahmetcankacar54/relay",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
