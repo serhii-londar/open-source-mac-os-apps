@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.",
+            "categories": [
+                "json",
+                "json-parsing",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sundegan/JsonStudio",
+            "title": "JsonStudio",
+            "icon_url": "https://raw.githubusercontent.com/sundegan/JsonStudio/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sundegan/JsonStudio/main/docs/media/jsonstudio-demo.gif"
+            ],
+            "official_site": "https://jsonstudio.js.org/",
+            "languages": [
+                "rust",
+                "typescript",
+                "svelte"
+            ]
         }
     ]
 }
