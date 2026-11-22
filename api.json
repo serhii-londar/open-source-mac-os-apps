@@ -26,7 +26,7 @@
     "mail" : 9,
     "markdown" : 21,
     "medical" : 1,
-    "menubar" : 95,
+    "menubar" : 97,
     "music" : 13,
     "news" : 5,
     "notes" : 21,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 27
   },
-  "generated_at" : "2026-11-22T23:31:12Z",
-  "total_apps" : 1022,
+  "generated_at" : "2026-11-22T23:32:33Z",
+  "total_apps" : 1024,
   "total_categories" : 49
 }
