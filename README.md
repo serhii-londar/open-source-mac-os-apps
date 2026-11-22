@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1017-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1020-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1017 |
+| 📱 Total Applications | 1020 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 533 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 75 |
+| 🔝 Top Languages | Swift: 536 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 76 |
 
 ## Languages
 
@@ -4587,7 +4587,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 📝 Markdown (23)
+#### 📝 Markdown (24)
 - [Coluracetam](https://github.com/kageroumado/coluracetam) - Markdown reader with Quick Look and thumbnail extensions, so .md files render on spacebar and in Finder.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4741,6 +4741,23 @@ You can see in which language an app is written. Currently there are following l
 - [Markup](https://github.com/oratis/Markup) - Reader-first, native macOS Markdown editor: renders notes like a web page and edits on demand, with a vault, backlinks, graph view and full-text search.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+- [MD QuickLook](https://github.com/armamut/md-quicklook) - Native Quick Look extension for Markdown with GFM, syntax highlighting, math, Mermaid diagrams and Finder thumbnails, without a web engine.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://github.com/armamut/md-quicklook](https://github.com/armamut/md-quicklook)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [md-preview](https://github.com/vorojar/md-preview) - Ultra-lightweight Markdown preview app (~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support.
 
@@ -6931,7 +6948,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (183)
+### 📊 Menubar (185)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -7935,6 +7952,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Kurenai](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://lorder19.github.io/kurenai/](https://lorder19.github.io/kurenai/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/history.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/queue.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [LanGuard](https://github.com/roypadina/LanGuard) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8905,6 +8939,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [SpotAsk](https://github.com/shiquda/SpotAsk) - One hotkey to ask any AI from the Mac menu bar: in-app answers with your own API key, or smart routing to web AI, CLI agents and desktop apps.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://shiquda.github.io/SpotAsk/](https://shiquda.github.io/SpotAsk/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/shiquda/SpotAsk/main/images/spotask-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/shiquda/SpotAsk/main/images/spotask-chat.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -10573,7 +10624,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (176)
+### ⏱️ Productivity (177)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -11492,6 +11543,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/koruworks/mono/main/.github/readme/koru-workspace.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Kurenai](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://lorder19.github.io/kurenai/](https://lorder19.github.io/kurenai/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/history.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Lorder19/kurenai/main/docs/screenshots/queue.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -14713,7 +14781,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (247)
+### 🛠️ Utilities (248)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -16393,6 +16461,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/ruspg/markdown-quicklook](https://github.com/ruspg/markdown-quicklook)
+
+- [MD QuickLook](https://github.com/armamut/md-quicklook) - Native Quick Look extension for Markdown with GFM, syntax highlighting, math, Mermaid diagrams and Finder thumbnails, without a web engine.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://github.com/armamut/md-quicklook](https://github.com/armamut/md-quicklook)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/armamut/md-quicklook/main/docs/screenshot-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings
 
