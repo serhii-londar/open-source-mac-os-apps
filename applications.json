@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "MySpotify",
+            "short_description": "Unofficial lightweight native Spotify desktop client built with Go (MyGo), featuring floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, AppleScript support, and notch mini-player.",
+            "categories": [
+                "music",
+                "audio"
+            ],
+            "repo_url": "https://github.com/margbug01/MySpotify",
+            "icon_url": "https://raw.githubusercontent.com/margbug01/MySpotify/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/margbug01/MySpotify/main/docs/screenshots/en/hero.webp",
+                "https://raw.githubusercontent.com/margbug01/MySpotify/main/docs/screenshots/en/playing.webp"
+            ],
+            "official_site": "https://margbug01.github.io/MySpotify/en.html",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
