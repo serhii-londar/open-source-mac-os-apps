@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1013-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1015-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1013 |
+| 📱 Total Applications | 1015 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 529 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 74 |
+| 🔝 Top Languages | Swift: 531 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 75 |
 
 ## Languages
 
@@ -12938,7 +12938,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🌙 Screensaver (12)
+### 🌙 Screensaver (13)
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -13067,6 +13067,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://github.com/mattiarossini/MinimalClock/blob/master/Screenshot.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Mosaic](https://github.com/vastunghia/mosaic-screensaver-revived) - The Mosaic screen saver from Mac OS X Leopard, rebuilt for macOS 15 and later, on your own photographs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://vastunghia.github.io/mosaic-screensaver-revived/](https://vastunghia.github.io/mosaic-screensaver-revived/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://vastunghia.github.io/mosaic-screensaver-revived/media/poster.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -14668,7 +14683,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (246)
+### 🛠️ Utilities (247)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -15301,6 +15316,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://claudoscope.com/health-1600.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://claudoscope.com/skills-1600.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [ClawTank](https://github.com/HMAKT99/ClawTank) - RDP server for macOS: connect to your Mac, including a headless Mac mini, from Windows App, mstsc, iPad or FreeRDP with hardware H.264 video, a virtual display sized to the client window, audio, clipboard and file copy.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/HMAKT99/ClawTank/main/docs/media/settings.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/HMAKT99/ClawTank/main/docs/media/connect-guide.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
