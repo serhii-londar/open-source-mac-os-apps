@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1026-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1027-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1026 |
+| 📱 Total Applications | 1027 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 541 • Objective-C: 142 • Javascript: 127 • Typescript: 102 • Rust: 77 |
+| 🔝 Top Languages | Swift: 542 • Objective-C: 142 • Javascript: 127 • Typescript: 102 • Rust: 77 |
 
 ## Languages
 
@@ -13400,7 +13400,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔒 Security (22)
+### 🔒 Security (23)
 - [AppLocker](https://github.com/TranPhuong319/AppLocker) - Kernel-level application locking tool built with Apple Endpoint Security and Liquid Glass UI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -13461,6 +13461,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://cryptomator.org/](https://cryptomator.org/)
+
+- [FaceLock](https://github.com/MaxSphinx/FaceLock) - Native biometric application shield for macOS with sub-second neural camera check, intruder photo capture, and Telegram alerts.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/MaxSphinx/FaceLock](https://github.com/MaxSphinx/FaceLock)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/lockscreen_demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/settings_demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances.
 
@@ -14986,7 +15003,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (249)
+### 🛠️ Utilities (250)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -16024,6 +16041,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [FaceLock](https://github.com/MaxSphinx/FaceLock) - Native biometric application shield for macOS with sub-second neural camera check, intruder photo capture, and Telegram alerts.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/MaxSphinx/FaceLock](https://github.com/MaxSphinx/FaceLock)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/lockscreen_demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MaxSphinx/FaceLock/main/docs/screenshots/settings_demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
