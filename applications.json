@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Lightweight native macOS app with animated cursor characters, click effects and optional sounds.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/smcnab1/pokelet",
+            "title": "Pokelet",
+            "icon_url": "https://raw.githubusercontent.com/smcnab1/pokelet/main/docs/site/assets/pokelet-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/smcnab1/pokelet/main/docs/screenshots/pokelet-settings-pointer-dark.png",
+                "https://raw.githubusercontent.com/smcnab1/pokelet/main/docs/screenshots/pokelet-studio-presenter-preview-dark.png"
+            ],
+            "official_site": "https://smcnab1.github.io/pokelet/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
