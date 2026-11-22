@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 69,
+    "audio" : 70,
     "backup" : 8,
     "browser" : 16,
     "chat" : 24,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 27
   },
-  "generated_at" : "2026-11-22T23:44:34Z",
-  "total_apps" : 1027,
+  "generated_at" : "2026-11-22T23:45:46Z",
+  "total_apps" : 1028,
   "total_categories" : 49
 }
