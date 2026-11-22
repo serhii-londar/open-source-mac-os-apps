@@ -43,18 +43,18 @@
     "streaming" : 2,
     "subtitles" : 3,
     "system" : 39,
-    "terminal" : 20,
+    "terminal" : 21,
     "tex" : 1,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 107,
+    "utilities" : 108,
     "video" : 21,
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
     "window-management" : 27
   },
-  "generated_at" : "2026-11-22T23:30:15Z",
-  "total_apps" : 1020,
+  "generated_at" : "2026-11-22T23:30:46Z",
+  "total_apps" : 1022,
   "total_categories" : 49
 }
