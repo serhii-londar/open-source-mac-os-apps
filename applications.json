@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Rota",
+            "short_description": "Menu bar app that schedules routines on Claude Code, Codex, Grok Build, Antigravity, or a shell, shows the results in one inbox, and continues each conversation.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/wiltodelta/rota",
+            "icon_url": "https://wiltodelta.com/brand/rota.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wiltodelta/rota/main/docs/screenshots/sessions-light.png",
+                "https://raw.githubusercontent.com/wiltodelta/rota/main/docs/screenshots/questions-light.png"
+            ],
+            "official_site": "https://wiltodelta.com/projects/rota/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
