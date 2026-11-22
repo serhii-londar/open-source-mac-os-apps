@@ -16592,6 +16592,25 @@
                 "go",
                 "javascript"
             ]
+        },
+        {
+            "title": "Adieu",
+            "short_description": "Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees.",
+            "categories": [
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/lijunyu726/adieu",
+            "icon_url": "https://raw.githubusercontent.com/lijunyu726/adieu/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lijunyu726/adieu/main/docs/images/home.webp",
+                "https://raw.githubusercontent.com/lijunyu726/adieu/main/docs/images/apps.webp",
+                "https://raw.githubusercontent.com/lijunyu726/adieu/main/docs/images/leftovers.webp"
+            ],
+            "official_site": "https://adieu.lijunyu.com.cn",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
