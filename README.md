@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1024-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1025-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1024 |
+| 📱 Total Applications | 1025 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 539 • Objective-C: 142 • Javascript: 127 • Typescript: 102 • Rust: 77 |
+| 🔝 Top Languages | Swift: 540 • Objective-C: 142 • Javascript: 127 • Typescript: 102 • Rust: 77 |
 
 ## Languages
 
@@ -4636,7 +4636,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 📝 Markdown (24)
+#### 📝 Markdown (25)
 - [Coluracetam](https://github.com/kageroumado/coluracetam) - Markdown reader with Quick Look and thumbnail extensions, so .md files render on spacebar and in Finder.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -4909,6 +4909,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/screenshots/en/02-reader.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/liuhang798/quillite-markdown/main/screenshots/en/03-split-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Scrap](https://github.com/Anubhavdxt/scrap) - Menu bar scratchpad with a fixed set of pads kept as plain Markdown files, live Markdown styling and search across all pads.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-search.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6997,7 +7012,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (188)
+### 📊 Menubar (189)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8956,6 +8971,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Scrap](https://github.com/Anubhavdxt/scrap) - Menu bar scratchpad with a fixed set of pads kept as plain Markdown files, live Markdown styling and search across all pads.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-search.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -9892,7 +9922,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📔 Notes (28)
+### 📔 Notes (29)
 - [AutoDoc](https://github.com/DuetDisplay/AutoDoc) - Private, local-first meeting notes with on-device transcription and AI summaries.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -10182,6 +10212,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://www.qownnotes.org/screenshots/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Scrap](https://github.com/Anubhavdxt/scrap) - Menu bar scratchpad with a fixed set of pads kept as plain Markdown files, live Markdown styling and search across all pads.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Anubhavdxt/scrap/main/docs/screenshot-search.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>

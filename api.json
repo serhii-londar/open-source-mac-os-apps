@@ -29,7 +29,7 @@
     "menubar" : 97,
     "music" : 13,
     "news" : 5,
-    "notes" : 21,
+    "notes" : 22,
     "other" : 25,
     "Other" : 1,
     "other-development" : 7,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 27
   },
-  "generated_at" : "2026-11-22T23:32:33Z",
-  "total_apps" : 1024,
+  "generated_at" : "2026-11-22T23:32:50Z",
+  "total_apps" : 1025,
   "total_categories" : 49
 }
