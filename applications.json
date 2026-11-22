@@ -16297,6 +16297,21 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Hush",
+            "short_description": "Lets AI agents see and use any Mac app in the background, about 178 ms per action, without taking focus or moving your pointer.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/OgnjenAdzic28/hush",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
