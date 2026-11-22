@@ -16297,6 +16297,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Localix Studio",
+            "short_description": "Agentic development environment: an AI agent and its subagents work with you in an editor, terminals and a browser, on any model, including one run locally.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/localixai/localix-studio",
+            "icon_url": "https://raw.githubusercontent.com/localixai/localix-studio/main/apps/desktop-tauri/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/localixai/localix-studio/main/assets/workspace-dark.png",
+                "https://raw.githubusercontent.com/localixai/localix-studio/main/assets/editor-dark.png",
+                "https://raw.githubusercontent.com/localixai/localix-studio/main/assets/subagents-dark.png"
+            ],
+            "official_site": "https://studio.localix.ai",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
         }
     ]
 }
