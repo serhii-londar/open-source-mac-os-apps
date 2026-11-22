@@ -69,33 +69,6 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 | 📂 Categories | \(categoriesCount) |
 | 🔝 Top Languages | \(languagesSummary) |
 
-## Languages
-
-You can see in which language an app is written. Currently there are following languages:
-
-| Language | Icon |
-|----------|------|
-| C | <img src='./icons/c-64.png' alt='C' height='16'/> |
-| C++ | <img src='./icons/cpp-64.png' alt='C++' height='16'/> |
-| C# | <img src='./icons/csharp-64.png' alt='C#' height='16'/> |
-| Clojure | <img src='./icons/clojure-64.png' alt='Clojure' height='16'/> |
-| CoffeeScript | <img src='./icons/coffeescript-64.png' alt='CoffeeScript' height='16'/> |
-| CSS | <img src='./icons/css-64.png' alt='CSS' height='16'/> |
-| Elm | <img src='./icons/elm-64.png' alt='Elm' height='16'/> |
-| Go | <img src='./icons/golang-64.png' alt='Go' height='16'/> |
-| Haskell | <img src='./icons/haskell-64.png' alt='Haskell' height='16'/> |
-| Java | <img src='./icons/java-64.png' alt='Java' height='16'/> |
-| JavaScript | <img src='./icons/javascript-64.png' alt='JavaScript' height='16'/> |
-| Lua | <img src='./icons/Lua-64.png' alt='Lua' height='16'/> |
-| Objective-C | <img src='./icons/objective-c-64.png' alt='Objective-C' height='16'/> |
-| Python | <img src='./icons/python-64.png' alt='Python' height='16'/> |
-| Ruby | <img src='./icons/ruby-64.png' alt='Ruby' height='16'/> |
-| Rust | <img src='./icons/rust-64.png' alt='Rust' height='16'/> |
-| Shell | <img src='./icons/shell-64.png' alt='Shell' height='16'/> |
-| Swift | <img src='./icons/swift-64.png' alt='Swift' height='16'/> |
-| TypeScript | <img src='./icons/typescript-64.png' alt='TypeScript' height='16'/> |
-| Metal | <img src='./icons/metal-64.png' alt='Metal' height='16'/> |
-
 ## Contents
 - [Audio](#audio)
 - [Backup](#backup)
@@ -159,28 +132,6 @@ let footer = """
 Thanks to all the people who contribute:
 
 <a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
-
-[app_store]: ./icons/app_store-64.png 'App Store.'
-[c_icon]: ./icons/c-64.png 'C language.'
-[cpp_icon]: ./icons/cpp-64.png 'C++ language.'
-[c_sharp_icon]: ./icons/csharp-64.png 'C# Language'
-[clojure_icon]: ./icons/clojure-64.png 'Clojure Language'
-[coffee_script_icon]: ./icons/coffeescript-64.png 'CoffeeScript language.'
-[css_icon]: ./icons/css-64.png 'CSS language.'
-[go_icon]: ./icons/golang-64.png 'Go language.'
-[elm_icon]: ./icons/elm-64.png 'Elm Language'
-[haskell_icon]: ./icons/haskell-64.png 'Haskell language.'
-[java_icon]: ./icons/java-64.png 'Java language.'
-[javascript_icon]: ./icons/javascript-64.png 'JavaScript language.'
-[lua_icon]: ./icons/Lua-64.png 'Lua language.'
-[metal_icon]: ./icons/metal-64.png 'Metal language.'
-[objective_c_icon]: ./icons/objective-c-64.png 'Objective-C language.'
-[python_icon]: ./icons/python-64.png 'Python language.'
-[ruby_icon]: ./icons/ruby-64.png 'Ruby language.'
-[rust_icon]: ./icons/rust-64.png 'Rust language.'
-[shell_icon]: ./icons/shell-64.png 'Shell language.'
-[swift_icon]: ./icons/swift-64.png 'Swift language.'
-[typescript_icon]: ./icons/typescript-64.png 'TypeScript language.'
 """
 
 class JSONApplications: Codable {
@@ -345,10 +296,8 @@ class ReadmeGenerator {
                 
                 for application in categoryApplications {
                     readmeString.append(application.markdownDescription())
-                    readmeString.append(String.enter)
                 }
-                
-
+                readmeString.append(String.enter)
                 
                 var subcategories = subcategories.filter({ $0.parent == category.id })
                 guard subcategories.count > 0 else { continue }
@@ -365,10 +314,8 @@ class ReadmeGenerator {
                     
                     for application in categoryApplications {
                         readmeString.append(application.markdownDescription())
-                        readmeString.append(String.enter)
                     }
-                    
-
+                    readmeString.append(String.enter)
                 }
             }
             print("Finish iteration...")
@@ -399,13 +346,29 @@ class ReadmeGenerator {
     }
 }
 
-// Helper function to normalize language names for statistics
+// Helper function to normalize language names for statistics and labels
 func normalizeLanguageName(_ lang: String) -> String {
     switch lang.lowercased() {
-    case "objective_c": return "Objective-C"
+    case "c": return "C"
     case "cpp": return "C++"
     case "c_sharp": return "C#"
+    case "clojure": return "Clojure"
     case "coffee_script": return "CoffeeScript"
+    case "css": return "CSS"
+    case "elm": return "Elm"
+    case "go": return "Go"
+    case "haskell": return "Haskell"
+    case "java": return "Java"
+    case "javascript": return "JavaScript"
+    case "lua": return "Lua"
+    case "metal": return "Metal"
+    case "objective_c": return "Objective-C"
+    case "python": return "Python"
+    case "ruby": return "Ruby"
+    case "rust": return "Rust"
+    case "shell": return "Shell"
+    case "swift": return "Swift"
+    case "typescript": return "TypeScript"
     default: return lang.capitalized
     }
 }
@@ -431,84 +394,15 @@ extension String {
 
 extension JSONApplication {
     func markdownDescription() -> String {
-        var markdownDescription = String.empty
-        var languages: String = String.empty
-        for lang in self.languages {
-            languages.append(languageIconHTML(for: lang) + " ")
-        }
-        
-        // Header line with a standard Markdown link so it's always clickable
-        // Add deprecated indicator if the app is marked as deprecated
         let deprecatedIndicator = (self.deprecated ?? false) ? " ⚠️ **[Deprecated]**" : ""
-        let macOSBadge = self.macOSVersion.map { " ![macOS \($0)+](https://img.shields.io/badge/macOS-\($0)%2B-blue)" } ?? ""
-        markdownDescription.append("- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(self.shortDescription)\n")
+        let macOSBadge = self.macOSVersion.map { " `(macOS \($0)+)`" } ?? ""
+        let cleanSite = self.officialSite.trimmingCharacters(in: .whitespacesAndNewlines)
+        let websiteLink = cleanSite.isEmpty ? "" : " ([Website](\(cleanSite)))"
+        let cleanDesc = self.shortDescription.trimmingCharacters(in: .whitespacesAndNewlines)
+        let languageTags = self.languages.map { "`\(normalizeLanguageName($0))`" }.joined(separator: " ")
+        let languagesSuffix = languageTags.isEmpty ? "" : " — \(languageTags)"
         
-        let indent = "  "
-        if !languages.isEmpty {
-            markdownDescription.append("\n\(indent)**Languages:** \(languages)\n")
-        }
-
-        if !self.officialSite.isEmpty {
-            let websitePrefix = languages.isEmpty ? "" : "\n"
-            markdownDescription.append("\(websitePrefix)\(indent)**Website:** [\(self.officialSite)](\(self.officialSite))\n")
-        }
-
-        // Collapsible screenshots to avoid eager image loading
-        let validScreenshots = self.screenshots.filter { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty }
-        if validScreenshots.count > 0 {
-            markdownDescription.append("\n" + indent + "<details>\n")
-            markdownDescription.append(indent + "<summary>Screenshots</summary>\n")
-            markdownDescription.append(indent + "<p>\n\n")
-
-            // Limit to first 3 screenshots to reduce load time
-            let limitedScreenshots = validScreenshots.count > 3 ? Array(validScreenshots.prefix(3)) : validScreenshots
-
-            limitedScreenshots.forEach({
-                markdownDescription.append("  <img src='\($0)' width='400' loading='lazy' decoding='async' fetchpriority='low'/>\n\n")
-            })
-
-            // Add a note if there are more screenshots
-            if validScreenshots.count > 3 {
-                markdownDescription.append("  *(\(validScreenshots.count - 3) more screenshots available in the repository)*\n\n")
-            }
-
-            markdownDescription.append(indent + "</p>\n")
-            markdownDescription.append(indent + "</details>\n")
-        }
-        
-        return markdownDescription
-    }
-}
-
-// Build HTML <img> tags for language icons to ensure rendering inside HTML blocks
-private func languageIconHTML(for languageKey: String) -> String {
-    struct LanguageIcon { let fileName: String; let label: String }
-    let icons: [String: LanguageIcon] = [
-        "c": .init(fileName: "c-64.png", label: "C"),
-        "cpp": .init(fileName: "cpp-64.png", label: "C++"),
-        "c_sharp": .init(fileName: "csharp-64.png", label: "C#"),
-        "clojure": .init(fileName: "clojure-64.png", label: "Clojure"),
-        "coffee_script": .init(fileName: "coffeescript-64.png", label: "CoffeeScript"),
-        "css": .init(fileName: "css-64.png", label: "CSS"),
-        "elm": .init(fileName: "elm-64.png", label: "Elm"),
-        "go": .init(fileName: "golang-64.png", label: "Go"),
-        "haskell": .init(fileName: "haskell-64.png", label: "Haskell"),
-        "java": .init(fileName: "java-64.png", label: "Java"),
-        "javascript": .init(fileName: "javascript-64.png", label: "JavaScript"),
-        "lua": .init(fileName: "Lua-64.png", label: "Lua"),
-        "objective_c": .init(fileName: "objective-c-64.png", label: "Objective-C"),
-        "python": .init(fileName: "python-64.png", label: "Python"),
-        "ruby": .init(fileName: "ruby-64.png", label: "Ruby"),
-        "rust": .init(fileName: "rust-64.png", label: "Rust"),
-        "shell": .init(fileName: "shell-64.png", label: "Shell"),
-        "swift": .init(fileName: "swift-64.png", label: "Swift"),
-        "typescript": .init(fileName: "typescript-64.png", label: "TypeScript")
-    ]
-    let key = languageKey.lowercased()
-    if let icon = icons[key] {
-        return "<img src='./icons/\(icon.fileName)' alt='\(icon.label) icon' title='\(icon.label)' height='16'/> \(icon.label)"
-    } else {
-        return "<code>\(languageKey)</code>"
+        return "- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(cleanDesc)\(websiteLink)\(languagesSuffix)\n"
     }
 }
 
