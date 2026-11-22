@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Native read-only macOS menu-bar monitor for Codex, Claude Code and Antigravity sessions, repositories, lifecycle states and provider health.",
+            "categories": [
+                "other-development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chaiwithcode/Loom",
+            "title": "Loom",
+            "icon_url": "https://raw.githubusercontent.com/chaiwithcode/Loom/main/Resources/LoomIconMaster.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/chaiwithcode/Loom/main/docs/menu-navigation-sessions.png",
+                "https://raw.githubusercontent.com/chaiwithcode/Loom/main/docs/widget-showcase.png"
+            ],
+            "official_site": "https://chaiwithcode.github.io/Loom/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "ActivityWatch",
             "short_description": "Open-source automated time tracker that tracks how you spend time on your devices.",
             "categories": [
