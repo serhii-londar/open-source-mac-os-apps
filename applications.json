@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "VoiceFn",
+            "short_description": "Press fn, speak, press fn again: on-device Whisper dictation that types into any app, with an optional OpenRouter cloud model.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/relsett/voicefn",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/9f/07/c29f078c-cdf6-30fe-a636-bf599cd889a7/AppIcon-0-0-85-220-0-6-0-2x.png/512x512bb.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/relsett/voicefn/main/AppStore/screenshots/en-1.png",
+                "https://raw.githubusercontent.com/relsett/voicefn/main/AppStore/screenshots/en-2.png"
+            ],
+            "official_site": "https://relsett.github.io/voicefn/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
