@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "MyAgents",
+            "short_description": "Desktop workspace for running AI agents with different runtimes and scheduling recurring tasks.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hAcKlyc/MyAgents",
+            "icon_url": "https://raw.githubusercontent.com/hAcKlyc/MyAgents/v0.5.14/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hAcKlyc/MyAgents/v0.5.14/specs/assets/readme/v050-launcher-zh.png",
+                "https://raw.githubusercontent.com/hAcKlyc/MyAgents/v0.5.14/specs/assets/readme/v050-model-providers-zh.png"
+            ],
+            "official_site": "https://myagents.io/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
