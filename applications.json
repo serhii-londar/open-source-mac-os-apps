@@ -16297,6 +16297,27 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Free, cross-platform break reminder that blurs your desktop into a calm break screen, with posture and blink reminders and smart pause during calls.",
+            "categories": [
+                "productivity",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RMoura98/yonder",
+            "title": "Yonder",
+            "icon_url": "https://raw.githubusercontent.com/RMoura98/yonder/main/app/src-tauri/icons/128x128%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/hero-poster.png",
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/settings-poster.png",
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/reminders-poster.png"
+            ],
+            "official_site": "https://rmoura98.github.io/yonder/",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
