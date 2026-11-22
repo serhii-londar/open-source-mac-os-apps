@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Tally",
+            "short_description": "Menu bar app that shows usage limits, reset times and spend for Claude Code, Codex, Cursor, Grok and OpenCode.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/PratikRai0101/tally",
+            "icon_url": "https://raw.githubusercontent.com/PratikRai0101/tally/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PratikRai0101/tally/main/docs/panel.png",
+                "https://raw.githubusercontent.com/PratikRai0101/tally/main/docs/menubar.png"
+            ],
+            "official_site": "https://tally-site.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
