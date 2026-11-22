@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Vaquero",
+            "short_description": "Learns a face from a few photos, then finds every photo and video of that person in your folders and copies or moves them, fully offline.",
+            "categories": [
+                "images",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/BitWise-0x/Vaquero",
+            "icon_url": "https://raw.githubusercontent.com/BitWise-0x/Vaquero/main/assets/Vaquero.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/BitWise-0x/Vaquero/main/docs/screenshots/results.png",
+                "https://raw.githubusercontent.com/BitWise-0x/Vaquero/main/docs/screenshots/settings.png",
+                "https://raw.githubusercontent.com/BitWise-0x/Vaquero/main/docs/screenshots/menubar.png"
+            ],
+            "official_site": "https://vaquero.bitwise0x.com",
+            "languages": [
+                "python"
+            ]
         }
     ]
 }
