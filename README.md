@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1015-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1017-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1015 |
+| 📱 Total Applications | 1017 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 531 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 75 |
+| 🔝 Top Languages | Swift: 533 • Objective-C: 142 • Javascript: 126 • Typescript: 102 • Rust: 75 |
 
 ## Languages
 
@@ -6931,7 +6931,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (182)
+### 📊 Menubar (183)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8227,6 +8227,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/alishansnsn/mysa/main/demo-poster.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [NetworkMonitor](https://github.com/kevinabouhanna/NetworkMonitor) - Live network speed in the menu bar, a per-app breakdown of your data usage, and automatic updates paused on hotspots.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://kevinabouhanna.github.io/NetworkMonitor/](https://kevinabouhanna.github.io/NetworkMonitor/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/kevinabouhanna/NetworkMonitor/main/Resources/README/speed-test.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -13624,7 +13639,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⚙️ System (51)
+### ⚙️ System (52)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -14108,6 +14123,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/TadelUnso/mole-widget/main/assets/widget.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [NetworkMonitor](https://github.com/kevinabouhanna/NetworkMonitor) - Live network speed in the menu bar, a per-app breakdown of your data usage, and automatic updates paused on hotspots.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://kevinabouhanna.github.io/NetworkMonitor/](https://kevinabouhanna.github.io/NetworkMonitor/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/kevinabouhanna/NetworkMonitor/main/Resources/README/speed-test.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -18449,7 +18479,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
-### 🪟 Window Management (28)
+### 🪟 Window Management (29)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
@@ -18533,6 +18563,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/Themes.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/mamiksik/Desktop-Profiles/master/doc_assets/iTerm.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [DockFlip](https://github.com/geezery/DockFlip) - Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://geezery.github.io/DockFlip/](https://geezery.github.io/DockFlip/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-dock.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-flip.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/geezery/DockFlip/main/docs/assets/feature-snap.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
