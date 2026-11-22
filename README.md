@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1003-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1004-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1003 |
+| 📱 Total Applications | 1004 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 525 • Objective-C: 142 • Javascript: 125 • Typescript: 100 • Rust: 70 |
+| 🔝 Top Languages | Swift: 525 • Objective-C: 142 • Javascript: 126 • Typescript: 100 • Rust: 70 |
 
 ## Languages
 
@@ -6213,7 +6213,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🖼️ Images (24)
+### 🖼️ Images (25)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6304,6 +6304,23 @@ You can see in which language an app is written. Currently there are following l
 - [Gimp](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program. 
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+- [IconCraft](https://github.com/gshipman223/IconCraft) - Give any app a custom name and icon, safely and reversibly, without changing the app underneath.
+
+  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://iconcraft.co](https://iconcraft.co)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/gshipman223/IconCraft/main/website/assets/shot-apps.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/gshipman223/IconCraft/main/website/assets/shot-picker.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
 
@@ -14432,7 +14449,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (241)
+### 🛠️ Utilities (242)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -15726,6 +15743,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [IconCraft](https://github.com/gshipman223/IconCraft) - Give any app a custom name and icon, safely and reversibly, without changing the app underneath.
+
+  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://iconcraft.co](https://iconcraft.co)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/gshipman223/IconCraft/main/website/assets/shot-apps.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/gshipman223/IconCraft/main/website/assets/shot-picker.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
