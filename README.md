@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-992-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-994-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 992 |
+| 📱 Total Applications | 994 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 519 • Objective-C: 142 • Javascript: 125 • Typescript: 97 • Rust: 65 |
+| 🔝 Top Languages | Swift: 520 • Objective-C: 142 • Javascript: 125 • Typescript: 97 • Rust: 65 |
 
 ## Languages
 
@@ -5235,7 +5235,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔍 Finder (18)
+### 🔍 Finder (19)
 - [Burette](https://github.com/SergeiNikolenko/Burette) - Molecular workspace and Finder Quick Look extension for macOS: 3D structures, chemistry grids, and local workflow-artifact inspection.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -5435,6 +5435,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://jonathanlotan.github.io/Swivel/](https://jonathanlotan.github.io/Swivel/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-convert.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-tools.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6118,10 +6135,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🖼️ Images (23)
+### 🖼️ Images (24)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Convertino](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal.
+
+  **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [CrossGen](https://github.com/Bliveren/CrossGen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.
 
@@ -6719,7 +6751,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (177)
+### 📊 Menubar (179)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -7209,6 +7241,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://conduck.com/](https://conduck.com/)
+
+- [Convertino](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal.
+
+  **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.
 
@@ -8697,6 +8744,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://swiftbar.app](https://swiftbar.app)
+
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://jonathanlotan.github.io/Swivel/](https://jonathanlotan.github.io/Swivel/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-convert.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-tools.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [TetherShot](https://github.com/apoorvdarshan/TetherShot) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.
 
@@ -14126,7 +14190,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (236)
+### 🛠️ Utilities (238)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -14815,6 +14879,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/kykim79/Cluxo/main/docs/screenshots/01-hero-en.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Convertino](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal.
+
+  **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/hasanzadee/convertino/main/docs/themes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -16735,6 +16814,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/johannesjo/super-productivity/master/screens/screen_standard.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://jonathanlotan.github.io/Swivel/](https://jonathanlotan.github.io/Swivel/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-convert.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/jonathanlotan/Swivel/main/docs/images/wheel-tools.light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>

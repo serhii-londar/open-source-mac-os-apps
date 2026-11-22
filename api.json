@@ -13,7 +13,7 @@
     "editors" : 4,
     "Editors" : 1,
     "extensions" : 12,
-    "finder" : 18,
+    "finder" : 19,
     "games" : 16,
     "git" : 23,
     "graphics" : 19,
@@ -47,14 +47,14 @@
     "tex" : 1,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 101,
+    "utilities" : 102,
     "video" : 21,
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-11-22T23:10:19Z",
-  "total_apps" : 992,
+  "generated_at" : "2026-11-22T23:22:27Z",
+  "total_apps" : 994,
   "total_categories" : 49
 }
