@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "ProxyAudit",
+            "short_description": "Intercepting proxy for web security testing with Repeater, Intruder, an out-of-band listener and a built-in AI agent that audits captured traffic.",
+            "categories": [
+                "security",
+                "web-development"
+            ],
+            "repo_url": "https://github.com/evilboyajay/proxyaudit",
+            "icon_url": "https://evilboyajay.github.io/proxyaudit/icon.png",
+            "screenshots": [
+                "https://evilboyajay.github.io/proxyaudit/poster.jpg",
+                "https://raw.githubusercontent.com/evilboyajay/proxyaudit/main/docs/clip-repeater-idor.gif"
+            ],
+            "official_site": "https://evilboyajay.github.io/proxyaudit/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
