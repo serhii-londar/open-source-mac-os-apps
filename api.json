@@ -7,13 +7,13 @@
     "chat" : 23,
     "cryptocurrency" : 6,
     "csv" : 1,
-    "database" : 19,
+    "database" : 20,
     "development" : 38,
     "downloader" : 11,
     "editors" : 4,
     "Editors" : 1,
     "extensions" : 12,
-    "finder" : 19,
+    "finder" : 20,
     "games" : 16,
     "git" : 23,
     "graphics" : 19,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-11-22T23:23:04Z",
-  "total_apps" : 996,
+  "generated_at" : "2026-11-22T23:23:45Z",
+  "total_apps" : 998,
   "total_categories" : 49
 }
