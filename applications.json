@@ -16297,6 +16297,23 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "TripleClick",
+            "short_description": "Menu bar app that turns a three-finger trackpad click into a middle click, with optional middle-drag that leaves three-finger swipes to macOS.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/wilu222/tripleclick",
+            "icon_url": "https://raw.githubusercontent.com/wilu222/tripleclick/main/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wilu222/tripleclick/main/media/menubar.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
