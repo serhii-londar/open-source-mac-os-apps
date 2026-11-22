@@ -9,7 +9,7 @@
     "csv" : 1,
     "database" : 19,
     "development" : 38,
-    "downloader" : 10,
+    "downloader" : 11,
     "editors" : 4,
     "Editors" : 1,
     "extensions" : 12,
@@ -43,7 +43,7 @@
     "streaming" : 2,
     "subtitles" : 3,
     "system" : 37,
-    "terminal" : 19,
+    "terminal" : 20,
     "tex" : 1,
     "text" : 8,
     "touch-bar" : 6,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 26
   },
-  "generated_at" : "2026-11-22T23:09:35Z",
-  "total_apps" : 990,
+  "generated_at" : "2026-11-22T23:10:02Z",
+  "total_apps" : 992,
   "total_categories" : 49
 }
