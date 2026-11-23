@@ -22445,6 +22445,26 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "Tomoru",
+            "short_description": "Live bilingual subtitles for streams, anime, games, and meetings, plus instant screen text translation — works offline on your Mac or in the cloud, with glossaries that keep character names right.",
+            "categories": [
+                "audio",
+                "video",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ACAne0320/Tomoru",
+            "icon_url": "https://raw.githubusercontent.com/ACAne0320/Tomoru/main/site/public/assets/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ACAne0320/Tomoru/main/.github/assets/en/demo.webp"
+            ],
+            "official_site": "https://tomoru.acane.dev",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
