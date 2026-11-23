@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1291-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1293-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1291 |
+| 📱 Total Applications | 1293 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 723 • TypeScript: 156 • Objective-C: 145 • JavaScript: 142 • Rust: 128 |
+| 🔝 Top Languages | Swift: 724 • TypeScript: 157 • Objective-C: 145 • JavaScript: 142 • Rust: 129 |
 
 ## Contents
 - [Audio](#audio)
@@ -848,7 +848,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (276)
+### 📊 Menubar (277)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -890,6 +890,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
 - [ccx](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
 - [Chime 4 Breakfast](https://github.com/onekapisch/chime-4-breakfast) - Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention. ([Website](https://www.onekapisch.com/products/chime-4-breakfast/)) — `Swift`
+- [ClamDown](https://github.com/delef/ClamDown) - Keeps coding agents running on a closed MacBook: drives the fans by CPU temperature, locks the screen, and lets the Mac sleep before the battery runs low or it gets too hot. ([Website](https://clamdown.app)) — `Swift`
 - [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Menu bar app that switches the Claude desktop app between your accounts with one click, without losing sessions. — `Swift` `Python`
 - [Claude Statistics](https://github.com/sj719045032/claude-statistics) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time. ([Website](https://claudestatistics.vercel.app/)) — `Swift`
 - [Claude Usage](https://github.com/Bread-bang/claude-usage) - Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits. ([Website](https://github.com/Bread-bang/claude-usage)) — `Swift`
@@ -1597,7 +1598,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 
-### ⚙️ System (81)
+### ⚙️ System (83)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1611,12 +1612,14 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [BlueNap](https://github.com/jorchford/BlueNap) - Sleeping Mac, Silent Bluetooth & Intelligent Auto-WiFi manager. ([Website](https://www.needai.top/app/bluenap)) — `Swift`
 - [Boost](https://github.com/Kernel-Hunter/boost) - Menu bar app for memory and disk that shows what is really using your memory, keeps a week of history, pauses apps instead of quitting them, and only cleans caches that rebuild themselves. ([Website](https://kernel-hunter.github.io/boost/)) — `Swift`
 - [Burrow](https://github.com/khan-umirzakoff/Mole-GUI) - Native SwiftUI app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and monitor the Mac, all through Mole's safety checks. ([Website](https://github.com/khan-umirzakoff/Mole-GUI)) — `Swift`
+- [ClamDown](https://github.com/delef/ClamDown) - Keeps coding agents running on a closed MacBook: drives the fans by CPU temperature, locks the screen, and lets the Mac sleep before the battery runs low or it gets too hot. ([Website](https://clamdown.app)) — `Swift`
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...). — `Swift`
 - [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to reclaim disk space on macOS. ([Website](https://bysiber.github.io/cleardisk)) — `Swift`
 - [Core-Monitor](https://github.com/offyotto/Core-Monitor) - Open-source macOS system monitor with menu bar stats, a full dashboard, optional fan control, and Touch Bar widgets. ([Website](https://github.com/offyotto/Core-Monitor)) — `Swift`
 - [Depflush](https://github.com/cypriennkeneng/depflush) - Finds what Docker, node_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default. ([Website](https://depflush.com)) — `Swift`
 - [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. — `Swift`
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. — `Objective-C`
+- [DiskPilot](https://github.com/Devanshgoel-123/diskpilot) - Storage analyzer and cleaner for developers that explains every folder (Docker, node_modules, Xcode DerivedData, AI tool caches), shows what is safe to delete and moves everything to the Trash first. ([Website](https://diskpilot.live)) — `Rust` `TypeScript`
 - [Diskshaper](https://github.com/hollowbit-dev/diskshaper) - Storage cleaner that sorts caches, game leftovers and editing caches into plain groups and only moves files to the Trash. ([Website](https://hollowbit.dev/diskshaper/)) — `JavaScript`
 - [DiskWise](https://github.com/DreamOfXM/diskwise) - Disk cleaner that moves everything it removes to the Trash and keeps it undoable, covering app caches, node_modules, Xcode DerivedData and Docker usage. ([Website](https://github.com/DreamOfXM/diskwise)) — `Swift`
 - [Double Shot](https://github.com/noahelhadedy/double-shot) - Keeps your Mac awake, with the lid closed too, for a set time or while AI coding agents are working, then lets it sleep. ([Website](https://github.com/noahelhadedy/double-shot)) — `Swift`
@@ -1735,7 +1738,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (344)
+### 🛠️ Utilities (345)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1815,6 +1818,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. ([Website](https://github.com/gitemre/device-hub-pro)) — `Swift`
 - [Devie AI Quota Tracker](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization. — `Rust` `TypeScript`
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ([Website](https://devutils.com)) — `Swift`
+- [DiskPilot](https://github.com/Devanshgoel-123/diskpilot) - Storage analyzer and cleaner for developers that explains every folder (Docker, node_modules, Xcode DerivedData, AI tool caches), shows what is safe to delete and moves everything to the Trash first. ([Website](https://diskpilot.live)) — `Rust` `TypeScript`
 - [Diskshaper](https://github.com/hollowbit-dev/diskshaper) - Storage cleaner that sorts caches, game leftovers and editing caches into plain groups and only moves files to the Trash. ([Website](https://hollowbit.dev/diskshaper/)) — `JavaScript`
 - [DiskWise](https://github.com/DreamOfXM/diskwise) - Disk cleaner that moves everything it removes to the Trash and keeps it undoable, covering app caches, node_modules, Xcode DerivedData and Docker usage. ([Website](https://github.com/DreamOfXM/diskwise)) — `Swift`
 - [DockPin](https://github.com/kangaroo-demo/DockPin) - Menu bar utility that helps keep the macOS Dock on a chosen display in multi-monitor setups. ([Website](https://kangaroo-demo.github.io/DockPin/)) — `Swift`
