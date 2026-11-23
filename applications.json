@@ -22733,6 +22733,24 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "WhisPaste",
+            "short_description": "Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/whispaste/whispaste",
+            "icon_url": "https://whispaste.de/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://whispaste.de/en/",
+            "languages": [
+                "dart",
+                "cpp",
+                "swift"
+            ]
         }
     ]
 }
