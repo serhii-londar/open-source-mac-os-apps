@@ -43,7 +43,7 @@
     "streaming" : 2,
     "subtitles" : 3,
     "system" : 48,
-    "terminal" : 25,
+    "terminal" : 26,
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:17:27Z",
-  "total_apps" : 1183,
+  "generated_at" : "2026-11-23T09:17:58Z",
+  "total_apps" : 1184,
   "total_categories" : 49
 }

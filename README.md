@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1183-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1184-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1183 |
+| 📱 Total Applications | 1184 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 647 • Objective-C: 144 • TypeScript: 135 • JavaScript: 134 • Rust: 107 |
+| 🔝 Top Languages | Swift: 647 • Objective-C: 144 • TypeScript: 136 • JavaScript: 134 • Rust: 107 |
 
 ## Contents
 - [Audio](#audio)
@@ -284,7 +284,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (90)
+### 👨‍💻 Development (91)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -334,6 +334,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app for Claude Code and Codex: live status of every session, weekly and five-hour usage limits, desktop widgets and activity statistics. ([Website](https://lovach.github.io/Lunavect/)) — `Swift`
 - [M-Courtyard](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline. ([Website](https://github.com/Mcourtyard/m-courtyard)) — `TypeScript` `Rust` `Python`
 - [mcpock](https://github.com/aka-kika/mcpock) - Menu bar app that checks every MCP server your AI agents use and shows which are broken, slow, waiting for a sign-in, or set up differently. ([Website](https://mcpock.com)) — `Swift`
+- [Mercury CLI](https://github.com/Whq02/MercuryCLI) - Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models. ([Website](https://mercury-cli.ai)) — `TypeScript`
 - [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. ([Website](https://github.com/us/mocker)) — `Swift`
 - [mu](https://github.com/qybaihe/mu) - Coding agent with a CLI and a desktop app, in which a small, fast judge model makes routine decisions such as what enters the context and whether a command is safe. ([Website](https://usemu.dev)) — `TypeScript`
 - [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Runs coding agents in a Linux micro-VM on a copy-on-write clone of your project and lets you review and apply their changes like a pull request. ([Website](https://github.com/Kernel-Hunter/mudroom)) — `Swift`
@@ -1524,7 +1525,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voltio](https://github.com/Mohit-Sharma-ML/voltio) - Native macOS menu bar battery monitor with live power-flow visualization, connected-device battery tracking, charge-limit status, and desktop widgets. ([Website](https://github.com/Mohit-Sharma-ML/voltio)) — `Swift`
 - [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ([Website](https://www.wireshark.org/)) — `C` `C++`
 
-### 📺 Terminal (37)
+### 📺 Terminal (38)
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. — `Rust`
 - [Aster](https://github.com/OpenFabrica/aster) - Native macOS terminal workspace built with AppKit and Ghostty, with recursive splits, file browsing, and previews. ([Website](https://aster.foo/)) — `Swift`
@@ -1543,6 +1544,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. — `Python` `C`
 - [Krill](https://github.com/craftowen/krill) - Native Rust workspace for running AI coding agents such as Claude Code and Codex in parallel Git worktrees, with terminal sessions that survive app restarts. ([Website](https://krill.page/en)) — `Rust`
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. — `Shell`
+- [Mercury CLI](https://github.com/Whq02/MercuryCLI) - Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models. ([Website](https://mercury-cli.ai)) — `TypeScript`
 - [Mole](https://github.com/tw93/Mole) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. ([Website](https://mole.fit)) — `Shell`
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. — `Swift`
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. — `Swift`
