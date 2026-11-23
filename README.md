@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1234-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1237-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1234 |
+| 📱 Total Applications | 1237 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 685 • TypeScript: 145 • Objective-C: 144 • JavaScript: 138 • Rust: 115 |
+| 🔝 Top Languages | Swift: 687 • TypeScript: 145 • Objective-C: 144 • JavaScript: 139 • Rust: 115 |
 
 ## Contents
 - [Audio](#audio)
@@ -208,12 +208,13 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. ([Website](https://github.com/wata/TimeMachineEjector)) — `Swift`
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. — `C++` `C`
 
-### 🌐 Browser (20)
+### 🌐 Browser (21)
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser. — `JavaScript`
 - [Brave Browser](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. — `JavaScript`
 - [BrowBro](https://github.com/tiagomoraes/browbro) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile. ([Website](https://browbro.tiagomoraes.cloud)) — `Swift`
 - [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS. ([Website](https://cookiebridge.apoorvdarshan.com)) — `Swift` `JavaScript`
 - [browserosaurus](https://github.com/will-stone/browserosaurus) - macOS tool that prompts you to choose a browser when opening a link. — `JavaScript`
+- [camber](https://github.com/yuvrajangadsingh/camber) - Browser with Arc's sidebar, spaces, pinned tabs and command bar that imports your Arc spaces. ([Website](https://www.yuvrajangadsingh.com/camber)) — `JavaScript`
 - [Chromium](https://chromium.googlesource.com/chromium/src/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. ([Website](https://www.chromium.org/)) — `JavaScript` `C++` `C`
 - [Dao Browser](https://github.com/msgbyte/dao-browser) - An open-source Chromium-based, Arc-like browser for macOS with a content-first UI, BYOK AI, and MCP support. ([Website](https://dao.msgbyte.com)) — `C++` `TypeScript`
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. — `Swift`
@@ -295,7 +296,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (98)
+### 👨‍💻 Development (99)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -343,6 +344,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ([Website](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)) — `Swift`
 - [LibreMerge](https://github.com/iagodpassos/libremerge) - Compare and merge files, folders, tables and images, 2-way and 3-way, with the WinMerge engine. ([Website](https://github.com/iagodpassos/libremerge)) — `C++`
 - [Llamaport](https://github.com/smkamranqadri/llamaport) - Run local GGUF models with llama-server. Reads model headers directly for real quantisation and context length, shows the full launch command before starting, reports live token rates and memory pressure, and downloads models from Hugging Face with resume that survives a kill. ([Website](https://github.com/smkamranqadri/llamaport)) — `Rust` `TypeScript`
+- [lmux](https://github.com/sooftware/lmux) - Lightweight native macOS terminal built on libghostty for running Claude Code and Codex sessions, with sidebar workspaces, splits and tabs, and live agent status in the sidebar. ([Website](https://lmux.dev)) — `Swift`
 - [Loadout](https://github.com/migsilva89/loadout) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs. ([Website](https://loadout.migsilva.dev)) — `Swift`
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location. ([Website](https://schlaubischlump.github.io/LocationSimulator)) — `Swift`
 - [Lumilo](https://github.com/kotuke/lumilo) - Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face. ([Website](https://github.com/kotuke/lumilo)) — `Go`
@@ -1456,7 +1458,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Predator](https://github.com/vpeschenkov/Predator) - A predator-inspired clock screensaver for macOS — `Swift`
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS. — `JavaScript`
 
-### 🔒 Security (28)
+### 🔒 Security (29)
 - [AppLocker](https://github.com/TranPhuong319/AppLocker) - Kernel-level application locking tool built with Apple Endpoint Security and Liquid Glass UI. ([Website](https://github.com/TranPhuong319/AppLocker)) — `Swift`
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. ([Website](https://astermail.org)) — `TypeScript` `Rust`
 - [bodycam](https://github.com/omlahore/bodycam) - Menu bar app and CLI that record what AI coding agents do on your Mac, including the files and secrets they read. ([Website](https://omlahore.github.io/bodycam/)) — `Go` `Swift`
@@ -1483,6 +1485,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. — `Python`
 - [Swifty](https://github.com/swiftyapp/swifty) - Free and offline password manager. ([Website](https://getswifty.pro)) — `JavaScript`
+- [Triwarden](https://github.com/sinhong2011/triwarden) - Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent. ([Website](https://triwarden.cc/)) — `Swift`
 - [UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac. ([Website](https://github.com/HMAKT99/UnTouchID)) — `Swift` `C`
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt. ([Website](https://www.veracrypt.fr)) — `C` `C++`
 
@@ -1601,7 +1604,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voltio](https://github.com/Mohit-Sharma-ML/voltio) - Native macOS menu bar battery monitor with live power-flow visualization, connected-device battery tracking, charge-limit status, and desktop widgets. ([Website](https://github.com/Mohit-Sharma-ML/voltio)) — `Swift`
 - [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ([Website](https://www.wireshark.org/)) — `C` `C++`
 
-### 📺 Terminal (40)
+### 📺 Terminal (41)
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. — `Rust`
 - [Aster](https://github.com/OpenFabrica/aster) - Native macOS terminal workspace built with AppKit and Ghostty, with recursive splits, file browsing, and previews. ([Website](https://aster.foo/)) — `Swift`
@@ -1619,6 +1622,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Monitor and diagnose Mac networks from the command line or through an MCP server. ([Website](https://kilobat.app)) — `Swift`
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. — `Python` `C`
 - [Krill](https://github.com/craftowen/krill) - Native Rust workspace for running AI coding agents such as Claude Code and Codex in parallel Git worktrees, with terminal sessions that survive app restarts. ([Website](https://krill.page/en)) — `Rust`
+- [lmux](https://github.com/sooftware/lmux) - Lightweight native macOS terminal built on libghostty for running Claude Code and Codex sessions, with sidebar workspaces, splits and tabs, and live agent status in the sidebar. ([Website](https://lmux.dev)) — `Swift`
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. — `Shell`
 - [Mercury CLI](https://github.com/Whq02/MercuryCLI) - Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models. ([Website](https://mercury-cli.ai)) — `TypeScript`
 - [Mole](https://github.com/tw93/Mole) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. ([Website](https://mole.fit)) — `Shell`
@@ -1652,7 +1656,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (317)
+### 🛠️ Utilities (318)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1950,6 +1954,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. — `Swift`
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions. ([Website](https://rockxy.io/tracexy)) — `Swift`
 - [TRex](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR. ([Website](https://trex.ameba.co/)) — `Swift`
+- [Triwarden](https://github.com/sinhong2011/triwarden) - Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent. ([Website](https://triwarden.cc/)) — `Swift`
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari — `Swift`
 - [Unbury](https://github.com/migsilva89/unbury) - Searches your saved browser bookmarks by meaning rather than by title, using a one-line description it writes for each link. ([Website](https://unbury.migsilva.dev)) — `Swift`
 - [Unfoldly](https://github.com/Unary-Works/Unfoldly) - Local-first AI file search for macOS that indexes selected personal files on-device with embeddings, visual search, and local GGUF models. ([Website](https://www.unfoldly.io/)) — `TypeScript` `Rust` `Python`
