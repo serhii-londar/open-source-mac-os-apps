@@ -25,7 +25,7 @@
     "keyboard" : 16,
     "mail" : 9,
     "markdown" : 24,
-    "medical" : 1,
+    "medical" : 2,
     "menubar" : 103,
     "music" : 14,
     "news" : 5,
@@ -33,7 +33,7 @@
     "other" : 25,
     "Other" : 1,
     "other-development" : 10,
-    "player" : 7,
+    "player" : 8,
     "podcast" : 6,
     "productivity" : 103,
     "screensaver" : 12,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:32:34Z",
-  "total_apps" : 1057,
+  "generated_at" : "2026-11-23T00:33:11Z",
+  "total_apps" : 1059,
   "total_categories" : 49
 }

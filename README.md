@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1057-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1059-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1057 |
+| 📱 Total Applications | 1059 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 561 • Objective-C: 142 • JavaScript: 129 • TypeScript: 112 • Rust: 84 |
+| 🔝 Top Languages | Swift: 562 • Objective-C: 142 • JavaScript: 129 • TypeScript: 112 • Rust: 84 |
 
 ## Contents
 - [Audio](#audio)
@@ -411,7 +411,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ([Website](https://simplelocalize.io)) — `Swift`
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services. — `Swift`
 
-#### 📱 iOS / macOS (46)
+#### 📱 iOS / macOS (47)
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account. — `Objective-C`
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps. — `Swift`
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times. — `Swift`
@@ -446,6 +446,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel. — `Swift`
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts — `Swift`
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile. — `Swift`
+- [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac. — `Objective-C`
 - [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android. — `JavaScript`
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the macOS terminal: storage, apps, media, syslog. No jailbreak. — `Rust`
@@ -715,8 +716,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SimpleLogin](https://github.com/simple-login/mac-app) - Email Alias solution: protect your real email address. — `Swift`
 - [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client. ([Website](https://www.thunderbird.net/en-US/)) — `C++` `JavaScript` `Rust`
 
-### 🏥 Medical (1)
+### 🏥 Medical (2)
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
+- [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
 ### 📊 Menubar (202)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
@@ -1015,7 +1017,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources. — `Objective-C`
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS. — `Objective-C`
 
-### ▶️ Player (10)
+### ▶️ Player (11)
 - [Frame Player](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync. ([Website](https://frameplayer.app)) — `Rust` `TypeScript`
 - [IINA](https://github.com/iina/iina) - The modern video player for macOS. ([Website](https://iina.io)) — `Swift`
 - [IPTVMac](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. ([Website](https://goelir.github.io/IPTVMac/)) — `Swift`
@@ -1025,6 +1027,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. — `Objective-C`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
+- [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram. ([Website](https://tmplayer.org)) — `Kotlin`
 - [Vespertine](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files. ([Website](https://szeremeta1.github.io/Vespertine/)) — `Swift` `C`
 
 ### 🎙️ Podcast (7)
@@ -1671,7 +1674,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://github.com/GeiserX/VPN-Bypass)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (34)
+### 🎬 Video (35)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
 - [BitMatch](https://github.com/BitmatchApp/Bitmatch) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased. ([Website](https://bitmatchapp.github.io)) — `Swift`
@@ -1700,6 +1703,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) - Character swap for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon. ([Website](https://jutsustudio.com/swapjutsu/)) — `Swift`
 - [Takes](https://github.com/marvtub/takes-public) - Teleprompter and recorder for talking-head videos. An AI agent (Claude Code, Codex or pi) cuts the edit and drafts the posts. ([Website](https://gettakes.app)) — `Swift`
 - [TBD](https://github.com/eliorpom-cmd/to-be-downloaded) - Native YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can drive. ([Website](https://tbd.yt/)) — `Swift`
+- [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram. ([Website](https://tmplayer.org)) — `Kotlin`
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. — `Swift`
 - [VLC](https://github.com/videolan/vlc) - VLC is a free and open source cross-platform multimedia player ([Website](https://www.videolan.org/vlc/)) — `C`
 - [Wave Subs](https://github.com/jason-jm/wavesubs) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline. ([Website](https://wavesubs.com)) — `TypeScript`
