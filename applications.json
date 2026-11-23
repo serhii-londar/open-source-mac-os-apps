@@ -23639,6 +23639,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AudioSmith",
+            "short_description": "Offline voice studio for Apple silicon: text to speech, voice cloning, audiobooks, video dubbing and transcripts with speakers.",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/hehehai/AudioSmith",
+            "icon_url": "https://storage.actnow.dev/www/press/audiosmith/icon-512-b1ed15dbd7.png",
+            "screenshots": [
+                "https://storage.actnow.dev/www/press/audiosmith/en/hero-93a2ef8bfb.png",
+                "https://storage.actnow.dev/www/press/audiosmith/en/audiobook-1865f46d57.png"
+            ],
+            "official_site": "https://actnow.dev/audiosmith",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
