@@ -22751,6 +22751,21 @@
                 "cpp",
                 "swift"
             ]
+        },
+        {
+            "title": "Musset",
+            "short_description": "Writing app for books: chapters and scenes as plain Markdown files, versions kept in git, manuscript and EPUB export, and an optional AI editor that annotates but never writes for you.",
+            "categories": [
+                "editors",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Musset-App/musset",
+            "icon_url": "https://raw.githubusercontent.com/Musset-App/musset/main/Musset/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+            "screenshots": [],
+            "official_site": "https://musset.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
