@@ -23,10 +23,10 @@
     "json" : 3,
     "json-parsing" : 4,
     "keyboard" : 16,
-    "mail" : 9,
+    "mail" : 10,
     "markdown" : 24,
     "medical" : 2,
-    "menubar" : 104,
+    "menubar" : 105,
     "music" : 14,
     "news" : 5,
     "notes" : 22,
@@ -35,7 +35,7 @@
     "other-development" : 10,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 103,
+    "productivity" : 104,
     "screensaver" : 12,
     "security" : 14,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T07:10:15Z",
-  "total_apps" : 1061,
+  "generated_at" : "2026-11-23T07:12:42Z",
+  "total_apps" : 1064,
   "total_categories" : 49
 }
