@@ -23767,6 +23767,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "AFFiNE",
+            "short_description": "Open source knowledge base combining docs, a whiteboard and databases.",
+            "categories": [
+                "notes",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/toeverything/AFFiNE",
+            "icon_url": "https://raw.githubusercontent.com/toeverything/AFFiNE/canary/packages/frontend/apps/electron/resources/icons/icon_stable_512x512.png",
+            "screenshots": [
+                "https://cdn.affine.pro/Github_hero_image2.png"
+            ],
+            "official_site": "https://affine.pro",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
