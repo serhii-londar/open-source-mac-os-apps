@@ -2,8 +2,8 @@
   "apps_by_category" : {
     "Android" : 1,
     "audio" : 93,
-    "backup" : 10,
-    "browser" : 21,
+    "backup" : 11,
+    "browser" : 22,
     "chat" : 27,
     "cryptocurrency" : 6,
     "csv" : 1,
@@ -54,7 +54,7 @@
     "web-development" : 16,
     "window-management" : 35
   },
-  "generated_at" : "2026-11-23T13:38:55Z",
-  "total_apps" : 1286,
+  "generated_at" : "2026-11-23T13:39:27Z",
+  "total_apps" : 1288,
   "total_categories" : 49
 }
