@@ -17597,6 +17597,21 @@
             "languages": [
                 "swift"
             ]
+                },
+        {
+            "title": "Rapid-MLX",
+            "short_description": "Native app and local inference server for Apple Silicon that runs MLX language, image and speech models behind OpenAI- and Anthropic-compatible APIs.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/raullenchai/Rapid-MLX",
+            "icon_url": "https://raw.githubusercontent.com/raullenchai/Rapid-MLX/main/apps/rapid-mac/Sources/Rapid/Resources/Assets.xcassets/RapidLogo.imageset/RapidLogo@3x.png",
+            "screenshots": [],
+            "official_site": "https://rapidmlx.com",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
