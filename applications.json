@@ -16384,6 +16384,24 @@
             ]
         },
         {
+            "title": "HarnessBridge",
+            "short_description": "Open-source app for migrating AI coding-agent sessions between Claude Code, Codex, DeepSeek Harness, OMP, Qoder, and 40+ harnesses.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Larrtroffen/harnessbridge",
+            "icon_url": "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/screenshots/home.png",
+                "https://raw.githubusercontent.com/Larrtroffen/harnessbridge/main/docs/assets/screenshots/detail.png"
+            ],
+            "official_site": "https://github.com/Larrtroffen/harnessbridge",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Burrow",
             "short_description": "Native SwiftUI app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and monitor the Mac, all through Mole's safety checks.",
             "categories": [
