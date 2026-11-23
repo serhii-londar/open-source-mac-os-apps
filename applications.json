@@ -22303,6 +22303,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Fotollection",
+            "short_description": "Offline app that prepares photos for printing: culling, crops to print sizes, date stamps, collage sheets, postcards, RAW develop and LUTs.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/hoangphi01/fotollection",
+            "icon_url": "https://raw.githubusercontent.com/hoangphi01/fotollection/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hoangphi01/fotollection/main/site/assets/img/grid-en-light.webp",
+                "https://raw.githubusercontent.com/hoangphi01/fotollection/main/site/assets/img/grid-en-dark.webp"
+            ],
+            "official_site": "https://fotollection.org",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
