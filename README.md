@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1156-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1157-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1156 |
+| 📱 Total Applications | 1157 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 624 • Objective-C: 144 • JavaScript: 134 • TypeScript: 133 • Rust: 103 |
+| 🔝 Top Languages | Swift: 625 • Objective-C: 144 • JavaScript: 134 • TypeScript: 133 • Rust: 103 |
 
 ## Contents
 - [Audio](#audio)
@@ -1130,7 +1130,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (211)
+### ⏱️ Productivity (212)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1280,6 +1280,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher ([Website](https://rustcast.umangsurana.com)) — `Rust`
 - [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy. ([Website](https://sanesales.com)) — `Swift`
+- [SATF](https://github.com/tran-minh-khoi/SATF) - Drag a file, give it a little shake, and convert or copy it from a tiny radial menu. — `Swift`
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly. ([Website](https://screenhint.com)) — `Swift`
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative. ([Website](https://screenpi.pe)) — `Rust` `TypeScript`
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. — `Objective-C`
@@ -1538,7 +1539,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (293)
+### 🛠️ Utilities (294)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1773,6 +1774,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy. ([Website](https://sanesales.com)) — `Swift`
+- [SATF](https://github.com/tran-minh-khoi/SATF) - Drag a file, give it a little shake, and convert or copy it from a tiny radial menu. — `Swift`
 - [ScreenCat](https://github.com/maxogden/screencat) - ScreenCat is a screen sharing + remote collaboration application. — `JavaScript` `CSS`
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly. ([Website](https://screenhint.com)) — `Swift`
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative. ([Website](https://screenpi.pe)) — `Rust` `TypeScript`
