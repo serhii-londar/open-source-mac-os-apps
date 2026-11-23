@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 81,
+    "audio" : 82,
     "backup" : 9,
     "browser" : 18,
     "chat" : 26,
@@ -18,7 +18,7 @@
     "git" : 23,
     "graphics" : 20,
     "ide" : 16,
-    "images" : 25,
+    "images" : 26,
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:38:00Z",
-  "total_apps" : 1196,
+  "generated_at" : "2026-11-23T09:38:42Z",
+  "total_apps" : 1198,
   "total_categories" : 49
 }
