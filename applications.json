@@ -20345,6 +20345,21 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "WE Screenshot",
+            "short_description": "Menu bar tool for area screenshots with annotation, printing and upload to your own Google Drive.",
+            "categories": [
+                "images",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/JaffarSk24/WE-Screenshot",
+            "icon_url": "https://raw.githubusercontent.com/JaffarSk24/WE-Screenshot/main/Resources/icon/AppIcon-1024.png",
+            "screenshots": [],
+            "official_site": "https://whiteeagles.sk/en/apps/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
