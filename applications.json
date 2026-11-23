@@ -20426,6 +20426,23 @@
                 "shell",
                 "javascript"
             ]
+        },
+        {
+            "title": "hark",
+            "short_description": "Capture microphone, system or per-app audio and transcribe it on-device from a single native CLI.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/PhantomYdn/hark",
+            "icon_url": "https://raw.githubusercontent.com/PhantomYdn/hark/main/assets/logo.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PhantomYdn/hark/main/assets/demo-speakers.gif"
+            ],
+            "official_site": "https://github.com/PhantomYdn/hark",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
