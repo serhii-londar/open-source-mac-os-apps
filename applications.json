@@ -20345,6 +20345,24 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "TubeHaus",
+            "short_description": "Private YouTube client for macOS that can run on its own or with a self-hosted server.",
+            "categories": [
+                "video",
+                "player"
+            ],
+            "repo_url": "https://github.com/biolend83/tubehaus",
+            "icon_url": "https://raw.githubusercontent.com/biolend83/tubehaus/main/docs/icon.svg",
+            "screenshots": [
+                "https://raw.githubusercontent.com/biolend83/tubehaus/main/docs/screenshot-home.jpg",
+                "https://raw.githubusercontent.com/biolend83/tubehaus/main/docs/devices.jpg"
+            ],
+            "official_site": "https://biolend83.github.io/tubehaus/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
