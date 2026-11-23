@@ -23804,6 +23804,27 @@
                 "rust",
                 "javascript"
             ]
+        },
+        {
+            "title": "Voxt",
+            "short_description": "Voice input for macOS on local models: transcribe, translate and rewrite by voice in any app.",
+            "categories": [
+                "ai",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hehehai/voxt",
+            "icon_url": "https://github.com/user-attachments/assets/d5b2eb99-a2a5-4972-a874-fae2b5d43dc2",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/6bd6d9fa-4eb0-46f1-885d-515676bdb9c1",
+                "https://github.com/user-attachments/assets/17f3a29a-6078-4387-9e2e-67e4c24838cb",
+                "https://github.com/user-attachments/assets/eaf8b248-19d7-43fe-ab5c-2b58df7a4495"
+            ],
+            "official_site": "https://voxt.actnow.dev/",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
