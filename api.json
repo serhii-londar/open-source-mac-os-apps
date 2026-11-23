@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 91,
+    "audio" : 92,
     "backup" : 10,
     "browser" : 20,
     "chat" : 26,
@@ -26,7 +26,7 @@
     "mail" : 11,
     "markdown" : 29,
     "medical" : 2,
-    "menubar" : 135,
+    "menubar" : 136,
     "music" : 16,
     "news" : 5,
     "notes" : 27,
@@ -43,7 +43,7 @@
     "streaming" : 2,
     "subtitles" : 3,
     "system" : 51,
-    "terminal" : 30,
+    "terminal" : 31,
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
@@ -54,7 +54,7 @@
     "web-development" : 16,
     "window-management" : 35
   },
-  "generated_at" : "2026-11-23T13:35:10Z",
-  "total_apps" : 1271,
+  "generated_at" : "2026-11-23T13:35:49Z",
+  "total_apps" : 1274,
   "total_categories" : 49
 }
