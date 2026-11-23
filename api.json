@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 70,
+    "audio" : 71,
     "backup" : 8,
     "browser" : 17,
     "chat" : 24,
@@ -42,7 +42,7 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 39,
+    "system" : 40,
     "terminal" : 21,
     "tex" : 1,
     "text" : 8,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:29:39Z",
-  "total_apps" : 1045,
+  "generated_at" : "2026-11-23T00:30:08Z",
+  "total_apps" : 1047,
   "total_categories" : 49
 }
