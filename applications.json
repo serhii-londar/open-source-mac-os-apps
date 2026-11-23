@@ -20943,6 +20943,20 @@
                 "typescript",
                 "python"
             ]
+        },
+        {
+            "title": "WE Time Tracker",
+            "short_description": "Time tracker with hourly rates per client and project, a payment ledger with balances, and CSV reports.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/JaffarSk24/WE-Time-Tracker",
+            "icon_url": "https://raw.githubusercontent.com/JaffarSk24/WE-Time-Tracker/main/icon.png",
+            "screenshots": [],
+            "official_site": "https://whiteeagles.sk/en/apps/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
