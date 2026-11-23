@@ -18530,6 +18530,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Sub-millisecond native instant file search tool for macOS powered by a Rust engine and AppKit.",
+            "categories": [
+                "finder",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/huangy7/lokii",
+            "title": "Lokii",
+            "icon_url": "https://raw.githubusercontent.com/huangy7/lokii/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/huangy7/lokii/main/assets/screenshot-main.png"
+            ],
+            "official_site": "https://lokii.huangy.top",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
