@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1211-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1212-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1211 |
+| 📱 Total Applications | 1212 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 670 • Objective-C: 144 • TypeScript: 141 • JavaScript: 134 • Rust: 111 |
+| 🔝 Top Languages | Swift: 671 • Objective-C: 144 • TypeScript: 141 • JavaScript: 134 • Rust: 111 |
 
 ## Contents
 - [Audio](#audio)
@@ -803,7 +803,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (250)
+### 📊 Menubar (251)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -1051,6 +1051,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking. ([Website](https://wifi-lens.shiinalabs.com)) — `Swift`
 - [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in. ([Website](https://rakushkatop.github.io/wolfclip/)) — `Swift`
 - [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar. — `Objective-C`
+- [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
 - [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download. ([Website](https://frigade.com/yap)) — `Swift`
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
@@ -1182,7 +1183,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (227)
+### ⏱️ Productivity (228)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1404,6 +1405,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
 - [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in. ([Website](https://rakushkatop.github.io/wolfclip/)) — `Swift`
 - [Xournal++](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease — `C++` `Lua` `C` `Python`
+- [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
 - [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download. ([Website](https://frigade.com/yap)) — `Swift`
 - [Yardlet](https://github.com/zzunkie/yardlet) - Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. ([Website](https://yardlet.app)) — `Swift`
 - [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager ([Website](https://yippy.mattdavo.com)) — `Swift`
@@ -1616,7 +1618,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (311)
+### 🛠️ Utilities (312)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1925,6 +1927,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WindowCycle](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel. ([Website](https://github.com/WhiteMinds/window-cycle)) — `Swift`
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ([Website](https://www.wireshark.org)) — `C++`
 - [Xournal++](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease — `C++` `Lua` `C` `Python`
+- [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. — `Rust`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. — `Objective-C`
