@@ -22192,6 +22192,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS menu bar utility for smooth mouse-wheel scrolling with adjustable speed, smoothing, and per-app exclusions.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/AntonMazur/SmoothWheel",
+            "title": "SmoothWheel",
+            "icon_url": "https://smoothwheel.vercel.app/assets/favicon-256.png",
+            "screenshots": [],
+            "official_site": "https://smoothwheel.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
