@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Menu bar fan curves, temperatures and CPU/GPU power for Apple Silicon Macs, with automatic profile switching and no kernel extension.",
+            "categories": [
+                "system",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/fexxdev/Mystral",
+            "title": "Mystral",
+            "icon_url": "https://raw.githubusercontent.com/fexxdev/Mystral/main/Mystral/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/8f58606a-a3d3-4066-ae61-1c5e6805ccfe",
+                "https://github.com/user-attachments/assets/046d4514-0c96-4686-8a03-f6c6191086f4"
+            ],
+            "official_site": "https://github.com/fexxdev/Mystral",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
