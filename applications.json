@@ -20345,6 +20345,25 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Open-source macOS storage and maintenance app with storage groups, app activity, and reviewable cleanup plans.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/bucabay/breathing-room-app",
+            "title": "Breathing Room",
+            "icon_url": "https://raw.githubusercontent.com/bucabay/breathing-room-app/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bucabay/breathing-room-app/main/docs/screenshots/home-preview.png"
+            ],
+            "official_site": "https://breathing-room.chatic.ai/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
