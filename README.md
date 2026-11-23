@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1140-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1142-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1140 |
+| 📱 Total Applications | 1142 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 613 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 101 |
+| 🔝 Top Languages | Swift: 615 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 101 |
 
 ## Contents
 - [Audio](#audio)
@@ -282,7 +282,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (82)
+### 👨‍💻 Development (83)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -364,6 +364,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [usage](https://github.com/aqua5230/usage) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files. ([Website](https://aqua5230.github.io/usage/)) — `Python`
 - [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems. ([Website](https://mac.getutm.app/)) — `Swift` `Objective-C`
 - [Vigil](https://github.com/butterlatte-zhang/vigil) - Native terminal that runs manager-led trees of coding agents (Claude Code, Codex, OpenCode), with worker results rolling up as summaries while every node keeps its own TUI. ([Website](https://butterlatte-zhang.github.io/vigil/)) — `Swift`
+- [Yardlet](https://github.com/zzunkie/yardlet) - Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. ([Website](https://yardlet.app)) — `Swift`
 - [YYLO CLI](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with isolated task worktrees, Kanban task state, and a typed merge queue. — `TypeScript`
 
 #### 📦 Git (26)
@@ -766,7 +767,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (227)
+### 📊 Menubar (228)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -905,6 +906,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Notchly](https://github.com/Notchly/Notchly) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs. ([Website](https://notchly.xyz)) — `Swift`
 - [NotchMuse](https://github.com/Xiye88/NotchMuse) - Synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the macOS menu bar, beside the notch, or above the Dock. ([Website](https://notchmuse.com)) — `Swift`
 - [OATS](https://github.com/ariso-ai/oats) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode. ([Website](https://ariso.ai/oats)) — `Rust` `TypeScript`
+- [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
 - [Offsend](https://github.com/Offsend/Offsend) - Local-first menu bar app that prepares projects, files, and clipboard text for AI tools by detecting and masking sensitive data. ([Website](https://offsend.io)) — `Swift`
 - [OLIV](https://github.com/chayapats/oliv) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script. ([Website](https://chayapats.github.io/oliv/)) — `Swift` `Rust`
 - [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. ([Website](https://bysergimm.github.io/OmniMac/en/)) — `Swift`
@@ -1118,7 +1120,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (205)
+### ⏱️ Productivity (207)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1226,6 +1228,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [NoteGen](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. ([Website](https://notegen.top/)) — `TypeScript` `Rust`
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS ([Website](https://numi.app/)) — `JavaScript`
 - [OATS](https://github.com/ariso-ai/oats) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode. ([Website](https://ariso.ai/oats)) — `Rust` `TypeScript`
+- [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud. ([Website](https://getoffgridai.co/)) — `TypeScript`
 - [OffPDF](https://github.com/McanKul/offpdf) - An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more. ([Website](https://offpdf.com)) — `TypeScript` `Rust`
 - [OLIV](https://github.com/chayapats/oliv) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script. ([Website](https://chayapats.github.io/oliv/)) — `Swift` `Rust`
@@ -1320,6 +1323,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in. ([Website](https://rakushkatop.github.io/wolfclip/)) — `Swift`
 - [Xournal++](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease — `C++` `Lua` `C` `Python`
 - [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download. ([Website](https://frigade.com/yap)) — `Swift`
+- [Yardlet](https://github.com/zzunkie/yardlet) - Native app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. ([Website](https://yardlet.app)) — `Swift`
 - [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager ([Website](https://yippy.mattdavo.com)) — `Swift`
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. — `Swift`
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
@@ -1516,7 +1520,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (288)
+### 🛠️ Utilities (289)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1699,6 +1703,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). — `Swift`
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS ([Website](https://numi.app/)) — `JavaScript`
 - [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager. — `Shell`
+- [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
 - [OffPDF](https://github.com/McanKul/offpdf) - An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more. ([Website](https://offpdf.com)) — `TypeScript` `Rust`
 - [Offsend](https://github.com/Offsend/Offsend) - Local-first menu bar app that prepares projects, files, and clipboard text for AI tools by detecting and masking sensitive data. ([Website](https://offsend.io)) — `Swift`
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit. ([Website](https://github.com/ateymoori/oh-my-android)) — `Swift`
