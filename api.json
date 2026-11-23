@@ -1,9 +1,9 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 92,
+    "audio" : 93,
     "backup" : 10,
-    "browser" : 20,
+    "browser" : 21,
     "chat" : 26,
     "cryptocurrency" : 6,
     "csv" : 1,
@@ -48,13 +48,13 @@
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 134,
-    "video" : 32,
+    "video" : 33,
     "vpn--proxy" : 9,
     "wallpaper" : 19,
     "web-development" : 16,
     "window-management" : 35
   },
-  "generated_at" : "2026-11-23T13:35:49Z",
-  "total_apps" : 1274,
+  "generated_at" : "2026-11-23T13:36:29Z",
+  "total_apps" : 1277,
   "total_categories" : 49
 }
