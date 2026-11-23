@@ -20852,6 +20852,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Novadeck",
+            "short_description": "Desktop terminal for running Claude Code, Codex and Antigravity side by side, with one Inbox for their questions and approvals.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/novadeck-org/novadeck",
+            "icon_url": "https://raw.githubusercontent.com/novadeck-org/novadeck/main/apps/desktop/resources/icons/128x128.png",
+            "screenshots": [],
+            "official_site": "https://novadeck.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
