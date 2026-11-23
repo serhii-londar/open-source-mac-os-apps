@@ -8,7 +8,7 @@
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 21,
-    "development" : 62,
+    "development" : 63,
     "downloader" : 14,
     "editors" : 5,
     "Editors" : 1,
@@ -26,8 +26,8 @@
     "mail" : 11,
     "markdown" : 29,
     "medical" : 2,
-    "menubar" : 131,
-    "music" : 15,
+    "menubar" : 132,
+    "music" : 16,
     "news" : 5,
     "notes" : 27,
     "other" : 26,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 34
   },
-  "generated_at" : "2026-11-23T12:51:56Z",
-  "total_apps" : 1253,
+  "generated_at" : "2026-11-23T12:52:39Z",
+  "total_apps" : 1256,
   "total_categories" : 49
 }
