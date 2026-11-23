@@ -17294,6 +17294,25 @@
                 "typescript",
                 "rust"
             ]
+        },
+        {
+            "short_description": "Precision menu bar telemetry instrument and 26-switch industrial command deck for macOS with 1-click Bluetooth RF, multi-volume disk management, and live Mach kernel CPU/RAM gauges.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/tr0drigues/TactileBar",
+            "title": "TactileBar",
+            "icon_url": "https://raw.githubusercontent.com/tr0drigues/TactileBar/main/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tr0drigues/TactileBar/main/telemetry-deck-preview.png",
+                "https://raw.githubusercontent.com/tr0drigues/TactileBar/main/tactile-telemetry-canvas.png"
+            ],
+            "official_site": "https://github.com/tr0drigues/TactileBar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
