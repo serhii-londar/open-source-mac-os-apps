@@ -15,7 +15,7 @@
     "extensions" : 12,
     "finder" : 23,
     "games" : 18,
-    "git" : 23,
+    "git" : 24,
     "graphics" : 20,
     "ide" : 16,
     "images" : 28,
@@ -29,7 +29,7 @@
     "menubar" : 124,
     "music" : 15,
     "news" : 5,
-    "notes" : 26,
+    "notes" : 27,
     "other" : 25,
     "Other" : 1,
     "other-development" : 12,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 34
   },
-  "generated_at" : "2026-11-23T12:34:39Z",
-  "total_apps" : 1219,
+  "generated_at" : "2026-11-23T12:35:13Z",
+  "total_apps" : 1221,
   "total_categories" : 49
 }
