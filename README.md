@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1260-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1261-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1260 |
+| 📱 Total Applications | 1261 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 704 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
+| 🔝 Top Languages | Swift: 705 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
 
 ## Contents
 - [Audio](#audio)
@@ -1236,7 +1236,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (241)
+### ⏱️ Productivity (242)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1364,6 +1364,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [NoteGen](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. ([Website](https://notegen.top/)) — `TypeScript` `Rust`
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS ([Website](https://numi.app/)) — `JavaScript`
 - [OATS](https://github.com/ariso-ai/oats) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode. ([Website](https://ariso.ai/oats)) — `Rust` `TypeScript`
+- [OCR](https://github.com/geragarazagh/ocr) - Screen text recognition: the text of any selected area of the screen is copied to the clipboard. ([Website](https://geragaraza.com/apps/ocr/)) — `Swift`
 - [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud. ([Website](https://getoffgridai.co/)) — `TypeScript`
 - [OffPDF](https://github.com/McanKul/offpdf) - An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more. ([Website](https://offpdf.com)) — `TypeScript` `Rust`
@@ -1695,7 +1696,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (325)
+### 🛠️ Utilities (326)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1899,6 +1900,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [NTFSTool](https://github.com/ntfstool/ntfstool) - Read and write NTFS drives on macOS using Apple's FSKit, with no kernel extension and no macFUSE. ([Website](https://ntfstool.com)) — `Swift`
 - [Numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS ([Website](https://numi.app/)) — `JavaScript`
 - [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager. — `Shell`
+- [OCR](https://github.com/geragarazagh/ocr) - Screen text recognition: the text of any selected area of the screen is copied to the clipboard. ([Website](https://geragaraza.com/apps/ocr/)) — `Swift`
 - [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
 - [OffPDF](https://github.com/McanKul/offpdf) - An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more. ([Website](https://offpdf.com)) — `TypeScript` `Rust`
 - [Offsend](https://github.com/Offsend/Offsend) - Local-first menu bar app that prepares projects, files, and clipboard text for AI tools by detecting and masking sensitive data. ([Website](https://offsend.io)) — `Swift`
