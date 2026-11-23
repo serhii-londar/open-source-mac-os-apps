@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Auralink",
+            "short_description": "Voice input for any app: press fn, speak, and the text is cleaned up, translated or rewritten at the cursor, using the speech and AI services you choose with your own API keys.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hehehai/Auralink",
+            "icon_url": "https://storage.actnow.dev/www/press/auralink/icon-512-c6d0b86f4c.png",
+            "screenshots": [
+                "https://storage.actnow.dev/www/press/auralink/en/app-enhancement-3321789ec8.png",
+                "https://storage.actnow.dev/www/press/auralink/en/dictionary-da51a58f2f.png"
+            ],
+            "official_site": "https://actnow.dev/auralink",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
