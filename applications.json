@@ -16384,6 +16384,24 @@
             ]
         },
         {
+            "title": "BlueNap",
+            "short_description": "Sleeping Mac, Silent Bluetooth & Intelligent Auto-WiFi manager.",
+            "categories": [
+                "system",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jorchford/BlueNap",
+            "icon_url": "https://raw.githubusercontent.com/jorchford/BlueNap/main/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jorchford/BlueNap/main/images/bluenap_general_settings_en.png"
+            ],
+            "official_site": "https://www.needai.top/app/bluenap",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "AerialSwap",
             "short_description": "Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down.",
             "categories": [
