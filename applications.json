@@ -22413,6 +22413,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native SSH client for macOS with tabs, SFTP browser beside the shell, tunnels, multi-execution and a built-in X11 server, built on the system OpenSSH.",
+            "categories": [
+                "terminal"
+            ],
+            "repo_url": "https://github.com/ATTILA-KRB/escale",
+            "title": "Escale",
+            "icon_url": "https://raw.githubusercontent.com/ATTILA-KRB/escale/main/web/public/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ATTILA-KRB/escale/main/web/src/assets/shots/hero.png"
+            ],
+            "official_site": "https://escale-ssh.vercel.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
