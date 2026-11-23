@@ -23639,6 +23639,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Download manager that splits each file over up to 32 connections, resumes after a crash, catches downloads from the browser and saves video or MP3 through yt-dlp, with torrents, queues and a scheduler.",
+            "categories": [
+                "downloader"
+            ],
+            "repo_url": "https://github.com/FortoGraphy/prism-download-manager",
+            "title": "Prism",
+            "icon_url": "https://raw.githubusercontent.com/FortoGraphy/prism-download-manager/main/assets/brand/png/app-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/FortoGraphy/prism-download-manager/main/site/assets/img/main-dark.webp",
+                "https://raw.githubusercontent.com/FortoGraphy/prism-download-manager/main/site/assets/img/main-light.webp",
+                "https://raw.githubusercontent.com/FortoGraphy/prism-download-manager/main/docs/screenshots/video-dialog.png"
+            ],
+            "official_site": "https://prismdl.site",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
