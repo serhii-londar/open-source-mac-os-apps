@@ -22,11 +22,11 @@
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
-    "keyboard" : 20,
+    "keyboard" : 21,
     "mail" : 11,
     "markdown" : 26,
     "medical" : 2,
-    "menubar" : 119,
+    "menubar" : 120,
     "music" : 15,
     "news" : 5,
     "notes" : 25,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 8,
     "wallpaper" : 18,
     "web-development" : 15,
-    "window-management" : 31
+    "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:16:16Z",
-  "total_apps" : 1178,
+  "generated_at" : "2026-11-23T09:16:52Z",
+  "total_apps" : 1181,
   "total_categories" : 49
 }
