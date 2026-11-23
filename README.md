@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1085-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1086-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1085 |
+| 📱 Total Applications | 1086 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 131 • TypeScript: 118 • Rust: 87 |
+| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 131 • TypeScript: 119 • Rust: 87 |
 
 ## Contents
 - [Audio](#audio)
@@ -189,7 +189,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Syncalicious](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be. — `Swift`
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. — `C++` `C`
 
-### 🌐 Browser (19)
+### 🌐 Browser (20)
 - [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser. — `JavaScript`
 - [Brave Browser](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux. — `JavaScript`
 - [BrowBro](https://github.com/tiagomoraes/browbro) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile. ([Website](https://browbro.tiagomoraes.cloud)) — `Swift`
@@ -200,6 +200,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Finicky](https://github.com/johnste/finicky) - Always opens the right browser. — `Swift`
 - [Firefox](https://hg.mozilla.org/mozilla-central/) - Fast, privacy aware browser from a non-profit. Runs on Windows, macOS and Linux. ([Website](https://www.mozilla.org/en-US/firefox/browsers/)) — `JavaScript` `Rust` `C++`
 - [Helium](https://github.com/JadenGeller/Helium) - Floating browser window for macOS. — `Objective-C` `Swift`
+- [Meridian](https://github.com/Undermove/meridian-browser) - Open-source Arc-style browser built on Chromium with spaces, pinned tabs, a command bar, one-click import from Arc and Chrome, and a built-in MCP server for AI agents. ([Website](https://undermove.github.io/meridian-browser/)) — `C++` `TypeScript`
 - [Min Browser](https://github.com/minbrowser/min) - A fast and efficient minimal web browser. ([Website](https://minbrowser.org)) — `JavaScript`
 - [otter-browser](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5. — `C++`
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium. — `JavaScript`

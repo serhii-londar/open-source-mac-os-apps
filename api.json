@@ -3,7 +3,7 @@
     "Android" : 1,
     "audio" : 72,
     "backup" : 8,
-    "browser" : 17,
+    "browser" : 18,
     "chat" : 24,
     "cryptocurrency" : 6,
     "csv" : 1,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T07:18:39Z",
-  "total_apps" : 1085,
+  "generated_at" : "2026-11-23T07:19:13Z",
+  "total_apps" : 1086,
   "total_categories" : 49
 }
