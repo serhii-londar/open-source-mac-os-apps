@@ -22207,6 +22207,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "neatly",
+            "short_description": "AI file renamer that gives downloads, screenshots and photos clear names by their content, on-device with Apple Intelligence.",
+            "categories": [
+                "finder",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/alpozaydin/neatly",
+            "icon_url": "https://raw.githubusercontent.com/alpozaydin/neatly/main/docs/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/alpozaydin/neatly/main/docs/assets/demo.gif",
+                "https://raw.githubusercontent.com/alpozaydin/neatly/main/docs/assets/hero.png"
+            ],
+            "official_site": "https://alpozaydin.github.io/neatly/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
