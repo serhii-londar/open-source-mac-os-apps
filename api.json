@@ -1,5 +1,6 @@
 {
   "apps_by_category" : {
+    "ai" : 1,
     "Android" : 1,
     "audio" : 106,
     "backup" : 11,
@@ -47,14 +48,14 @@
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 152,
+    "utilities" : 153,
     "video" : 35,
     "vpn--proxy" : 13,
     "wallpaper" : 21,
     "web-development" : 16,
     "window-management" : 38
   },
-  "generated_at" : "2026-11-23T22:35:00Z",
-  "total_apps" : 1409,
+  "generated_at" : "2026-11-23T22:39:12Z",
+  "total_apps" : 1411,
   "total_categories" : 49
 }
