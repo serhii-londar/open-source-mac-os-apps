@@ -13,7 +13,7 @@
     "editors" : 5,
     "Editors" : 1,
     "extensions" : 12,
-    "finder" : 22,
+    "finder" : 23,
     "games" : 18,
     "git" : 23,
     "graphics" : 19,
@@ -42,7 +42,7 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 42,
+    "system" : 44,
     "terminal" : 25,
     "tex" : 2,
     "text" : 8,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 30
   },
-  "generated_at" : "2026-11-23T08:51:16Z",
-  "total_apps" : 1137,
+  "generated_at" : "2026-11-23T08:51:46Z",
+  "total_apps" : 1140,
   "total_categories" : 49
 }

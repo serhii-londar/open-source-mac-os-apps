@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1137-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1140-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1137 |
+| 📱 Total Applications | 1140 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 611 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 100 |
+| 🔝 Top Languages | Swift: 613 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 101 |
 
 ## Contents
 - [Audio](#audio)
@@ -605,7 +605,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari — `Swift`
 - [Yape](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar. — `Swift`
 
-### 🔍 Finder (23)
+### 🔍 Finder (24)
 - [Burette](https://github.com/SergeiNikolenko/Burette) - Molecular workspace and Finder Quick Look extension for macOS: 3D structures, chemistry grids, and local workflow-artifact inspection. ([Website](https://burette-landing.vercel.app)) — `TypeScript` `Rust` `Swift`
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal — `Objective-C`
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. — `Swift`
@@ -625,6 +625,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Preview3MF](https://github.com/cavoco/Preview3MF) - Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files. ([Website](https://cavoco.github.io/Preview3MF/)) — `Swift`
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers. — `Objective-C` `C`
 - [SaneClick](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools. ([Website](https://saneclick.com)) — `Swift`
+- [Shark - Better Finder](https://github.com/andronasef/shark) - Native file manager with tabs, split panes, a built-in terminal, and hover previews. ([Website](https://shark.andronasef.com)) — `Swift`
 - [Shuffle](https://github.com/WizenPainter/shuffle) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming. ([Website](https://shuffleapp.co)) — `Rust`
 - [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. ([Website](https://stratafiles.app)) — `Swift`
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline. ([Website](https://jonathanlotan.github.io/Swivel/)) — `Swift`
@@ -765,7 +766,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (226)
+### 📊 Menubar (227)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -857,6 +858,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [inlaut](https://github.com/tobymarks/inlaut) - Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor. ([Website](https://inlaut.de)) — `Swift`
 - [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar. ([Website](https://www.mowglii.com/itsycal/)) — `Objective-C`
 - [Keyameleon](https://github.com/mastro993/keyameleon) - Menu bar app that gives each physical keyboard its own input source and switches to it automatically as you type. ([Website](https://keyameleon.app)) — `Swift`
+- [Kipimo](https://github.com/piedol/kipimo) - Menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk, review startup items and check for app updates. ([Website](https://www.piedol.top/kipimo/)) — `Rust`
 - [Konverter](https://github.com/davidpraznik/Konverter) - Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel. — `Swift`
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac. — `Swift`
 - [Kurenai](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted. ([Website](https://lorder19.github.io/kurenai/)) — `Swift`
@@ -1400,7 +1402,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 
-### ⚙️ System (63)
+### ⚙️ System (65)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1428,6 +1430,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS. — `C++`
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. — `Swift`
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. — `Objective-C`
+- [Kipimo](https://github.com/piedol/kipimo) - Menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk, review startup items and check for app updates. ([Website](https://www.piedol.top/kipimo/)) — `Rust`
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. — `Swift`
 - [LeftHandy](https://github.com/writronic/LeftHandy) - Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time. ([Website](https://writronic.com/lefthandy/)) — `Swift` `Objective-C`
 - [LidAwake](https://github.com/Vladimir-Podgornyi/LidAwake) - Menu bar app that keeps your Mac awake, even with the lid closed, and stops by itself on overheating, low battery or a timer. ([Website](https://github.com/Vladimir-Podgornyi/LidAwake)) — `Swift`
@@ -1458,6 +1461,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. — `TypeScript` `Swift`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar — `Swift`
 - [TactileBar](https://github.com/tr0drigues/TactileBar) - Precision menu bar telemetry instrument and 26-switch industrial command deck for macOS with 1-click Bluetooth RF, multi-volume disk management, and live Mach kernel CPU/RAM gauges. ([Website](https://github.com/tr0drigues/TactileBar)) — `Swift`
+- [Tidymint](https://github.com/HaiTrung-Workspace/tidymint) - Free Mac cleaner that shows what it found before you press Clean, moves everything to the Trash with Undo, and cleans caches, duplicates, app leftovers and per-app data. ([Website](https://tidymint.app)) — `Swift`
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions. ([Website](https://rockxy.io/tracexy)) — `Swift`
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature. — `Objective-C`
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock. — `Swift`
@@ -1512,7 +1516,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (286)
+### 🛠️ Utilities (288)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1633,6 +1637,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [KeeWeb](https://github.com/keeweb/keeweb) - Cross-platform password manager compatible with KeePass. — `JavaScript`
 - [Keka](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ([Website](https://www.keka.io/en/)) — `Swift`
 - [KIAgent](https://github.com/edjafarov/kiagent-core) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP. ([Website](https://localkiagent.com)) — `TypeScript`
+- [Kipimo](https://github.com/piedol/kipimo) - Menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk, review startup items and check for app updates. ([Website](https://www.piedol.top/kipimo/)) — `Rust`
 - [Konverter](https://github.com/davidpraznik/Konverter) - Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel. — `Swift`
 - [Kopi](https://github.com/code-devanshu/kopi) - Local-first clipboard manager with searchable history, pinboards and plain-text paste. Skips password manager copies. ([Website](https://kopi.devanshuverma.in)) — `Rust` `TypeScript` `Swift`
 - [Kumquat](https://github.com/iandifilippo/Kumquat) - Convert or edit any file mid-drag: tap Shift and drop it on a ring of formats and tools. ([Website](https://iandifilippo.github.io/Kumquat/)) — `Swift`
@@ -1777,6 +1782,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Thaw](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls. ([Website](https://www.getthaw.app)) — `Swift`
 - [The Blockstack Browser](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. — `JavaScript`
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' — `Swift`
+- [Tidymint](https://github.com/HaiTrung-Workspace/tidymint) - Free Mac cleaner that shows what it found before you press Clean, moves everything to the Trash with Undo, and cleans caches, duplicates, app leftovers and per-app data. ([Website](https://tidymint.app)) — `Swift`
 - [Toma](https://github.com/felipebasurto/toma) - Menu bar app that records a region of the screen and saves it as MP4, HEVC or GIF, like ⇧⌘4 for video. ([Website](https://toma.felipebasurto.com)) — `Swift`
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. — `Swift`
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions. ([Website](https://rockxy.io/tracexy)) — `Swift`
