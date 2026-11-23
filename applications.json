@@ -17597,6 +17597,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Desktop app that pairs any two coding agents (Claude Code, Codex, Ollama, LM Studio, Gemini CLI, Aider) in one workspace, showing both side by side with interrupt and broadcast.",
+            "categories": [
+                "other-development"
+            ],
+            "repo_url": "https://github.com/aaryanbindage/twinbraid",
+            "title": "Twinbraid",
+            "icon_url": "https://raw.githubusercontent.com/aaryanbindage/twinbraid/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aaryanbindage/twinbraid/main/assets/screenshot.png"
+            ],
+            "official_site": "https://aaryanbindage.github.io/twinbraid/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
