@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1031-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1032-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1031 |
+| 📱 Total Applications | 1032 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 545 • Objective-C: 142 • JavaScript: 127 • TypeScript: 103 • Rust: 79 |
+| 🔝 Top Languages | Swift: 546 • Objective-C: 142 • JavaScript: 128 • TypeScript: 103 • Rust: 79 |
 
 ## Contents
 - [Audio](#audio)
@@ -268,9 +268,10 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (67)
+### 👨‍💻 Development (68)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
+- [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
 - [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) - Desktop app for Claude Code and Codex that shows every agent and subagent live, searches your coding-agent history and runs agents on local models. ([Website](https://coder.alekla.com)) — `TypeScript`
 - [Anima](https://github.com/btangonan/anima) - Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Built with Tauri v2. ([Website](https://github.com/btangonan/anima)) — `Rust` `JavaScript`
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ([Website](https://netbeans.apache.org/)) — `Java`
@@ -700,9 +701,10 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 ### 🏥 Medical (1)
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 
-### 📊 Menubar (192)
+### 📊 Menubar (193)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
+- [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings. ([Website](https://yagcioglutoprak.github.io/AIQuotaBar/)) — `Python`
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. — `JavaScript`
 - [AirPoise](https://github.com/jaskirat1616/AirPoise) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. ([Website](https://airpoise.vercel.app/)) — `Swift`
