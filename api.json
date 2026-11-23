@@ -18,7 +18,7 @@
     "git" : 23,
     "graphics" : 19,
     "ide" : 16,
-    "images" : 19,
+    "images" : 20,
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
@@ -32,7 +32,7 @@
     "notes" : 22,
     "other" : 25,
     "Other" : 1,
-    "other-development" : 9,
+    "other-development" : 10,
     "player" : 7,
     "podcast" : 6,
     "productivity" : 103,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:30:08Z",
-  "total_apps" : 1047,
+  "generated_at" : "2026-11-23T00:30:37Z",
+  "total_apps" : 1049,
   "total_categories" : 49
 }
