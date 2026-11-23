@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1170-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1173-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1170 |
+| 📱 Total Applications | 1173 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 636 • Objective-C: 144 • JavaScript: 134 • TypeScript: 134 • Rust: 105 |
+| 🔝 Top Languages | Swift: 638 • Objective-C: 144 • JavaScript: 134 • TypeScript: 134 • Rust: 106 |
 
 ## Contents
 - [Audio](#audio)
@@ -492,7 +492,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. — `Swift`
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. — `Objective-C`
 
-### ⬇️ Downloader (14)
+### ⬇️ Downloader (15)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. — `Swift`
 - [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs. ([Website](https://appfair.app)) — `Swift`
 - [Applite](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ([Website](https://aerolite.dev/applite)) — `Swift`
@@ -501,6 +501,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client. ([Website](https://filezilla-project.org)) — `C++`
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. — `Swift`
 - [Ketch](https://github.com/linroid/Ketch) - Download manager with parallel transfers, pause and resume, and support for HTTP, FTP and BitTorrent. ([Website](https://github.com/linroid/Ketch)) — `Kotlin`
+- [MacYT](https://github.com/sameerbajaj/MacYT) - Native macOS app for downloading video and audio from any URL with format selection and SponsorBlock integration. ([Website](https://sameerbajaj.com/tools/macyt/)) — `Swift`
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager. ([Website](https://motrix.app/)) — `JavaScript`
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C. — `Objective-C` `Swift`
 - [Shandian](https://github.com/chenmozhe008/shandian-download) - Native download manager for magnet links, torrents, ed2k, HTTP files and video sites (YouTube, Bilibili, Douyin and more) in one window, with a browser extension and stream-while-downloading. Chinese UI. — `Swift`
@@ -1556,7 +1557,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (298)
+### 🛠️ Utilities (300)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1653,6 +1654,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Funky](https://github.com/thecatalinstan/Funky) - Easily toggle the function key on your Mac on a per app basis. — `Objective-C`
 - [FunNotch](https://github.com/JoshuaT1105/FunNotch) - Puts the MacBook notch to work: media controls, a drag-and-drop file shelf, clipboard history, focus sessions that block sites and apps, and twelve configurable widgets. ([Website](https://funnotch.xyz)) — `Swift`
 - [Glance](https://github.com/glanceformac/glance) - Turns the MacBook notch into a live island with music and synced lyrics, Cinema mode that makes the screen and Touch Bar glow with Chrome video, Claude Code approvals, a teleprompter, a file shelf and keep awake. ([Website](https://glanceformac.vercel.app)) — `Swift`
+- [Glass](https://github.com/Ntarasiuk/glass) - Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device. ([Website](https://glassdesk.dev)) — `Rust`
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ([Website](https://github.com/NeoPanic/Glim)) — `Rust` `Swift`
 - [GrandPerspective](https://git.code.sf.net/p/grandperspectiv/source) - Small utility for visualizing disk usage using tree maps. ([Website](https://grandperspectiv.sourceforge.net)) — `Objective-C`
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button — `Swift`
@@ -1710,6 +1712,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MacPass](https://github.com/MacPass/MacPass) - Native macOS KeePass client. — `Objective-C`
 - [MacSift](https://github.com/Lcharvol/MacSift) - Transparent disk cleaner that groups reclaimable files by the app that owns them and moves them to the Trash instead of deleting them. ([Website](https://lcharvol.github.io/MacSift/)) — `Swift`
 - [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import. ([Website](https://writronic.com/macursor/)) — `Swift` `Objective-C`
+- [MacYT](https://github.com/sameerbajaj/MacYT) - Native macOS app for downloading video and audio from any URL with format selection and SponsorBlock integration. ([Website](https://sameerbajaj.com/tools/macyt/)) — `Swift`
 - [MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer with local scanning and review before deletion. ([Website](https://mangodisk.app/)) — `Rust` `TypeScript`
 - [Maria](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool. — `Swift`
 - [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle. ([Website](https://github.com/ruspg/markdown-quicklook)) — `Swift`
@@ -1869,7 +1872,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (43)
+### 🎬 Video (44)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
@@ -1888,6 +1891,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Kaset](https://github.com/sozercan/kaset) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI. ([Website](https://github.com/sozercan/kaset)) — `Swift`
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding. ([Website](https://mifi.no/losslesscut/)) — `JavaScript`
 - [Mac Classic Player](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic. ([Website](https://mcp.kkweb.io/)) — `Rust` `TypeScript`
+- [MacYT](https://github.com/sameerbajaj/MacYT) - Native macOS app for downloading video and audio from any URL with format selection and SponsorBlock integration. ([Website](https://sameerbajaj.com/tools/macyt/)) — `Swift`
 - [Manul](https://github.com/hormuz-labs/manul) - Open-source AI video editor: describe the edit in plain language, point at a frame when something is off, and review a before/after of every change, all edited locally. ([Website](https://manul.si)) — `TypeScript`
 - [MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! — `JavaScript`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
@@ -1934,7 +1938,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in. ([Website](https://www.wallpapermachine.app)) — `Swift` `Rust` `C++`
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. — `Ruby`
 
-### 🪟 Window Management (32)
+### 🪟 Window Management (33)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift` `Shell`
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
@@ -1944,6 +1948,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [DockFlip](https://github.com/geezery/DockFlip) - Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app. ([Website](https://geezery.github.io/DockFlip/)) — `Swift`
 - [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen. ([Website]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))) — `Swift`
 - [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. — `Swift`
+- [Flickbar](https://github.com/flickbar/flickbar) - Snap, resize and move windows with two-finger trackpad gestures on their title bars. ([Website](https://flickbar.github.io/)) — `Swift`
 - [Hammerdeck](https://github.com/kouxing2000/hammerdeck) - Keyboard window manager for large and multiple displays, with grid placement, moves and swaps between displays, one-key undo, and rules that rearrange windows when a display connects. ([Website](https://hammerdeck.peach-studio.com)) — `Swift` `Lua`
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. — `Lua` `Objective-C`
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features. ([Website](https://icemenubar.app/)) — `Swift`

@@ -9,7 +9,7 @@
     "csv" : 1,
     "database" : 21,
     "development" : 57,
-    "downloader" : 13,
+    "downloader" : 14,
     "editors" : 5,
     "Editors" : 1,
     "extensions" : 12,
@@ -47,14 +47,14 @@
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 125,
+    "utilities" : 126,
     "video" : 27,
     "vpn--proxy" : 8,
     "wallpaper" : 18,
     "web-development" : 15,
-    "window-management" : 30
+    "window-management" : 31
   },
-  "generated_at" : "2026-11-23T09:14:34Z",
-  "total_apps" : 1170,
+  "generated_at" : "2026-11-23T09:15:07Z",
+  "total_apps" : 1173,
   "total_categories" : 49
 }
