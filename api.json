@@ -24,7 +24,7 @@
     "json-parsing" : 4,
     "keyboard" : 21,
     "mail" : 11,
-    "markdown" : 28,
+    "markdown" : 29,
     "medical" : 2,
     "menubar" : 131,
     "music" : 15,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 9,
     "wallpaper" : 19,
     "web-development" : 15,
-    "window-management" : 33
+    "window-management" : 34
   },
-  "generated_at" : "2026-11-23T12:47:57Z",
-  "total_apps" : 1249,
+  "generated_at" : "2026-11-23T12:51:26Z",
+  "total_apps" : 1251,
   "total_categories" : 49
 }
