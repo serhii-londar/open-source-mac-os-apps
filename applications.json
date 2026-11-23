@@ -23784,6 +23784,23 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Docks Picture in Picture video into the MacBook notch.",
+            "categories": [
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/NikOneZ1/cinenotch",
+            "title": "CineNotch",
+            "icon_url": "https://cinenotch.cam/assets/icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/NikOneZ1/cinenotch/main/docs/screenshot.png"
+            ],
+            "official_site": "https://cinenotch.cam",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
