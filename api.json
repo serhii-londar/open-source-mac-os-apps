@@ -14,11 +14,11 @@
     "Editors" : 1,
     "extensions" : 12,
     "finder" : 21,
-    "games" : 16,
+    "games" : 17,
     "git" : 23,
     "graphics" : 19,
     "ide" : 16,
-    "images" : 20,
+    "images" : 21,
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
@@ -43,7 +43,7 @@
     "streaming" : 2,
     "subtitles" : 3,
     "system" : 41,
-    "terminal" : 21,
+    "terminal" : 22,
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T07:14:54Z",
-  "total_apps" : 1071,
+  "generated_at" : "2026-11-23T07:15:38Z",
+  "total_apps" : 1074,
   "total_categories" : 49
 }
