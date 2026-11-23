@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1086-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1088-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1086 |
+| 📱 Total Applications | 1088 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 131 • TypeScript: 119 • Rust: 87 |
+| 🔝 Top Languages | Swift: 580 • Objective-C: 143 • JavaScript: 131 • TypeScript: 119 • Rust: 88 |
 
 ## Contents
 - [Audio](#audio)
@@ -1436,7 +1436,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (273)
+### 🛠️ Utilities (274)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1563,6 +1563,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups. ([Website](https://kytto.jakubhecht.sk/)) — `Swift`
 - [LanGuard](https://github.com/roypadina/LanGuard) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required. ([Website](https://github.com/roypadina/LanGuard)) — `Swift`
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ([Website](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)) — `Swift`
+- [Leaf](https://github.com/chengffei/leaf) - Minimal EPUB, MOBI and AZW3 reader that opens files straight from Finder, with no library. ([Website](https://chengffei.github.io/leaf/)) — `Swift`
 - [LeftHandy](https://github.com/writronic/LeftHandy) - Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time. ([Website](https://writronic.com/lefthandy/)) — `Swift` `Objective-C`
 - [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) - Free, open-source calculators with worked steps, diagrams, and lessons. ([Website](https://librecalculator.com/)) — `TypeScript` `Rust`
 - [Live Translator](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini. ([Website](https://github.com/umutcetinkaya/live-translator)) — `Python`
@@ -1781,7 +1782,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in. ([Website](https://www.wallpapermachine.app)) — `Swift` `Rust` `C++`
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. — `Ruby`
 
-### 🪟 Window Management (30)
+### 🪟 Window Management (31)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift` `Shell`
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
@@ -1806,6 +1807,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. — `Objective-C`
 - [Show Desktop](https://github.com/stanczykwyatt/show-desktop) - Hides every window with one click or a shortcut to show the Desktop, then brings them all back exactly as they were. ([Website](https://stanczykwyatt.github.io/show-desktop/)) — `Swift`
 - [Slate](https://github.com/jigish/slate) - Slate is a window management application similar to Divvy and SizeUp — `Objective-C`
+- [SlideScroll](https://github.com/majnioui/SlideScroll) - Scrolling window manager in the style of niri and PaperWM: windows are columns on a strip you swipe or scroll through. ([Website](https://slidescroll.majnioui.me)) — `Rust`
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. — `Objective-C`
 - [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away. ([Website](https://tungstenedge.app)) — `Swift`
 - [Window Glue](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one. — `Swift`
