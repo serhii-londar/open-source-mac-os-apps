@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1272-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1271-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1272 |
+| 📱 Total Applications | 1271 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 713 • TypeScript: 150 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
+| 🔝 Top Languages | Swift: 712 • TypeScript: 150 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
 
 ## Contents
 - [Audio](#audio)
@@ -660,7 +660,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari — `Swift`
 - [Yape](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar. — `Swift`
 
-### 🔍 Finder (26)
+### 🔍 Finder (25)
 - [Burette](https://github.com/SergeiNikolenko/Burette) - Molecular workspace and Finder Quick Look extension for macOS: 3D structures, chemistry grids, and local workflow-artifact inspection. ([Website](https://burette-landing.vercel.app)) — `TypeScript` `Rust` `Swift`
 - [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal — `Objective-C`
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS. — `Swift`
@@ -684,7 +684,6 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Shuffle](https://github.com/WizenPainter/shuffle) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming. ([Website](https://shuffleapp.co)) — `Rust`
 - [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. ([Website](https://stratafiles.app)) — `Swift`
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline. ([Website](https://jonathanlotan.github.io/Swivel/)) — `Swift`
-- [twistel](https://github.com/jonasnlt/twistel) - Menu bar app that converts and edits files from a ring menu while you drag them in the Finder, fully offline. — `Swift`
 - [twistel](https://github.com/jonasnlt/twistel) - Menu bar app that converts and edits files from a ring menu while you drag them in the Finder, fully offline. — `Swift`
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. — `Rust`
 
@@ -1707,7 +1706,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (334)
+### 🛠️ Utilities (333)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2019,7 +2018,6 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions. ([Website](https://rockxy.io/tracexy)) — `Swift`
 - [TRex](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR. ([Website](https://trex.ameba.co/)) — `Swift`
 - [Triwarden](https://github.com/sinhong2011/triwarden) - Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent. ([Website](https://triwarden.cc/)) — `Swift`
-- [twistel](https://github.com/jonasnlt/twistel) - Menu bar app that converts and edits files from a ring menu while you drag them in the Finder, fully offline. — `Swift`
 - [twistel](https://github.com/jonasnlt/twistel) - Menu bar app that converts and edits files from a ring menu while you drag them in the Finder, fully offline. — `Swift`
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari — `Swift`
 - [Unbury](https://github.com/migsilva89/unbury) - Searches your saved browser bookmarks by meaning rather than by title, using a one-line description it writes for each link. ([Website](https://unbury.migsilva.dev)) — `Swift`
