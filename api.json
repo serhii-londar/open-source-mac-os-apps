@@ -24,7 +24,7 @@
     "json-parsing" : 4,
     "keyboard" : 20,
     "mail" : 11,
-    "markdown" : 25,
+    "markdown" : 26,
     "medical" : 2,
     "menubar" : 118,
     "music" : 14,
@@ -42,7 +42,7 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 47,
+    "system" : 48,
     "terminal" : 25,
     "tex" : 2,
     "text" : 8,
@@ -50,11 +50,11 @@
     "utilities" : 124,
     "video" : 27,
     "vpn--proxy" : 8,
-    "wallpaper" : 16,
+    "wallpaper" : 17,
     "web-development" : 15,
     "window-management" : 30
   },
-  "generated_at" : "2026-11-23T09:12:42Z",
-  "total_apps" : 1161,
+  "generated_at" : "2026-11-23T09:13:16Z",
+  "total_apps" : 1164,
   "total_categories" : 49
 }
