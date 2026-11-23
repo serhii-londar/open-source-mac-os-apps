@@ -26,7 +26,7 @@
     "mail" : 11,
     "markdown" : 25,
     "medical" : 2,
-    "menubar" : 115,
+    "menubar" : 117,
     "music" : 14,
     "news" : 5,
     "notes" : 25,
@@ -37,7 +37,7 @@
     "podcast" : 6,
     "productivity" : 111,
     "screensaver" : 12,
-    "security" : 14,
+    "security" : 15,
     "sharing-files" : 13,
     "social-networking" : 9,
     "streaming" : 2,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 30
   },
-  "generated_at" : "2026-11-23T08:52:04Z",
-  "total_apps" : 1142,
+  "generated_at" : "2026-11-23T08:52:30Z",
+  "total_apps" : 1145,
   "total_categories" : 49
 }

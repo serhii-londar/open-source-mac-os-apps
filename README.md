@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1142-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1145-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1142 |
+| 📱 Total Applications | 1145 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 615 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 101 |
+| 🔝 Top Languages | Swift: 618 • Objective-C: 144 • JavaScript: 134 • TypeScript: 129 • Rust: 101 |
 
 ## Contents
 - [Audio](#audio)
@@ -767,7 +767,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (228)
+### 📊 Menubar (230)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -960,7 +960,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops. ([Website](https://github.com/0fuz/ssh-tunnel-manager)) — `Swift`
 - [StableBar](https://github.com/Seb-GRAF/StableBar) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. ([Website](https://stablebar.app)) — `Swift`
 - [Stargazer Bar](https://github.com/jazzyalex/stargazer-bar) - Track one public GitHub repo's stars and release downloads from the menu bar. ([Website](https://jazzyalex.github.io/stargazer-bar/)) — `Swift`
+- [Stash](https://github.com/brentc22/stash) - Hides menu bar icons behind a single arrow on macOS 27. — `Swift`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar — `Swift`
+- [StockDock](https://github.com/simonsruggi/StockDock) - Menu bar app that tracks stocks, ETFs, indices, crypto and your portfolio P&L in real time, with pre-market and after-hours prices, alerts and a full desktop window. ([Website](https://stockdockapp.com)) — `Swift`
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ([Website](https://swiftbar.app)) — `Swift`
 - [Switchboard](https://github.com/justadityaraj/switchboard-browser-picker) - Menu-bar browser picker that opens each link in the right browser, Chrome or Brave profile, or private window, with rules by site, URL or source app and built-in link cleanup. ([Website](https://dev.adityarajsingh.com/switchboard/)) — `Swift`
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline. ([Website](https://jonathanlotan.github.io/Swivel/)) — `Swift`
@@ -1120,7 +1122,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (207)
+### ⏱️ Productivity (208)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1286,6 +1288,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Starcat](https://github.com/starcat-app/Starcat) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base. ([Website](https://starcat.ink/)) — `Swift`
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar. — `Swift`
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ([Website](https://github.com/LumingYin/StickyNotes/releases)) — `Swift`
+- [StockDock](https://github.com/simonsruggi/StockDock) - Menu bar app that tracks stocks, ETFs, indices, crypto and your portfolio P&L in real time, with pre-market and after-hours prices, alerts and a full desktop window. ([Website](https://stockdockapp.com)) — `Swift`
 - [Strategr](https://github.com/khrykin/StrategrDesktop) - No-fuss time management. ([Website](https://khrykin.github.io/StrategrDesktop/)) — `C++` `Objective-C`
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer. — `JavaScript`
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ([Website](https://super-productivity.com)) — `TypeScript` `JavaScript`
@@ -1344,7 +1347,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Predator](https://github.com/vpeschenkov/Predator) - A predator-inspired clock screensaver for macOS — `Swift`
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS. — `JavaScript`
 
-### 🔒 Security (27)
+### 🔒 Security (28)
 - [AppLocker](https://github.com/TranPhuong319/AppLocker) - Kernel-level application locking tool built with Apple Endpoint Security and Liquid Glass UI. ([Website](https://github.com/TranPhuong319/AppLocker)) — `Swift`
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. ([Website](https://astermail.org)) — `TypeScript` `Rust`
 - [bodycam](https://github.com/omlahore/bodycam) - Menu bar app and CLI that record what AI coding agents do on your Mac, including the files and secrets they read. ([Website](https://omlahore.github.io/bodycam/)) — `Go` `Swift`
@@ -1354,6 +1357,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes. ([Website](https://stanczykwyatt.github.io/copy-2fa/)) — `Swift`
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud. ([Website](https://cryptomator.org/)) — `Java`
 - [FaceLock](https://github.com/MaxSphinx/FaceLock) - Native biometric application shield for macOS with sub-second neural camera check, intruder photo capture, and Telegram alerts. ([Website](https://github.com/MaxSphinx/FaceLock)) — `Swift`
+- [Hey Mac](https://github.com/iharshitmaurya/HeyMac) - On-device face unlock for the lock screen and privacy shields for selected apps. ([Website](https://heymacapp.com/)) — `Swift`
 - [Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances. ([Website](https://holeberryapp.com)) — `Swift`
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic. — `Objective-C`
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. — `Shell`
@@ -1520,7 +1524,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (289)
+### 🛠️ Utilities (291)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1625,6 +1629,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Hangar](https://github.com/0fuz/hangar) - Menu bar launcher for one-click, toggleable terminal and app snippets. ([Website](https://github.com/0fuz/hangar)) — `Swift`
 - [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard. ([Website](https://hardviz.com/)) — `Rust` `TypeScript`
 - [Headroom](https://github.com/Ryware/Headroom) - Fast disk space analyzer with a folder tree, treemap, duplicate finder and Safe / Caution / Never verdicts for caches and developer junk. ([Website](https://headroom-app.org)) — `Swift`
+- [Hey Mac](https://github.com/iharshitmaurya/HeyMac) - On-device face unlock for the lock screen and privacy shields for selected apps. ([Website](https://heymacapp.com/)) — `Swift`
 - [HideNotch](https://github.com/niklasravnsborg/HideNotch) - Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners. ([Website](https://hidenotch.app)) — `Swift`
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries ([Website](https://brew.sh/)) — `Ruby`
 - [HomeRec](https://github.com/melissa-pereira-deel/home-rec) - Lightweight native macOS app for recording system audio as high-quality WAV files using ScreenCaptureKit. — `Swift`
@@ -1771,6 +1776,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops. ([Website](https://github.com/0fuz/ssh-tunnel-manager)) — `Swift`
 - [StableBar](https://github.com/Seb-GRAF/StableBar) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. ([Website](https://stablebar.app)) — `Swift`
 - [Stackyard](https://github.com/AqibJavedZeepalm/stackyard) - Shows every installed SDK and toolchain version (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which local projects use each one, and cleans up the ones nothing needs. ([Website](https://aqibjaved.dev/apps/stackyard/)) — `Dart`
+- [Stash](https://github.com/brentc22/stash) - Hides menu bar icons behind a single arrow on macOS 27. — `Swift`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar — `Swift`
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files ([Website](stirlingpdf.com)) — `Java` `Html` `JavaScript` `Html`
 - [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. ([Website](https://stratafiles.app)) — `Swift`
