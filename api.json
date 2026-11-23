@@ -35,7 +35,7 @@
     "other-development" : 11,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 114,
+    "productivity" : 115,
     "screensaver" : 12,
     "security" : 15,
     "sharing-files" : 13,
@@ -48,13 +48,13 @@
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 127,
-    "video" : 29,
+    "video" : 30,
     "vpn--proxy" : 8,
-    "wallpaper" : 18,
+    "wallpaper" : 19,
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:36:54Z",
-  "total_apps" : 1192,
+  "generated_at" : "2026-11-23T09:37:35Z",
+  "total_apps" : 1195,
   "total_categories" : 49
 }

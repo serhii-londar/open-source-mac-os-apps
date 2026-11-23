@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1192-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1195-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1192 |
+| 📱 Total Applications | 1195 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 654 • Objective-C: 144 • TypeScript: 137 • JavaScript: 134 • Rust: 107 |
+| 🔝 Top Languages | Swift: 656 • Objective-C: 144 • TypeScript: 138 • JavaScript: 134 • Rust: 108 |
 
 ## Contents
 - [Audio](#audio)
@@ -1136,7 +1136,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources. — `Objective-C`
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS. — `Objective-C`
 
-### ▶️ Player (13)
+### ▶️ Player (14)
 - [Frame Player](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync. ([Website](https://frameplayer.app)) — `Rust` `TypeScript`
 - [IINA](https://github.com/iina/iina) - The modern video player for macOS. ([Website](https://iina.io)) — `Swift`
 - [IPTVMac](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. ([Website](https://goelir.github.io/IPTVMac/)) — `Swift`
@@ -1146,6 +1146,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+. — `Haskell`
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS. — `Objective-C`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
+- [Muralume](https://github.com/MisakiHCL/Muralume) `(macOS 14.0+)` - Lightweight native video player and dynamic desktop app with a refined interface, playlists, and synchronized or independent playback across displays. ([Website](https://hclgame.com/muralume)) — `Swift`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 - [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram. ([Website](https://tmplayer.org)) — `Kotlin`
 - [Vespertine](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files. ([Website](https://szeremeta1.github.io/Vespertine/)) — `Swift` `C`
@@ -1160,7 +1161,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (220)
+### ⏱️ Productivity (221)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1296,6 +1297,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Perch](https://github.com/asafofer/perch) - Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact window or terminal pane. ([Website](https://perchapp.dev)) — `Swift` `JavaScript`
 - [Pesty](https://github.com/momenbasel/pesty) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting. ([Website](https://github.com/momenbasel/pesty)) — `Swift`
 - [Platypus Notes](https://github.com/pixelsmasher13/platypus) - Local-first notes app that records meetings without a bot, transcribes them on-device with Whisper, and lets you chat with your notes using your own AI provider or Ollama. ([Website](https://platypusnotes.com)) — `Rust` `TypeScript`
+- [Poinky](https://github.com/tomyud1/poinky) - Notch app that lets you talk to Claude Code: it sees your screen, answers by voice, sketches explanations and runs background agents. ([Website](https://github.com/tomyud1/poinky)) — `Swift`
 - [Pomodoro Cycle](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS ([Website](https://github.com/ziulev/pomodoro-cycle-app/releases)) — `TypeScript`
 - [Posato](https://github.com/dees91/posato) - Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud. ([Website](https://posato.app)) — `Kotlin` `Swift`
 - [Posnic](https://github.com/Posnic/POS) - Offline-first open source POS and billing software for retail shops and restaurants. ([Website](https://www.posnic.com/)) — `JavaScript`
@@ -1586,7 +1588,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (306)
+### 🛠️ Utilities (307)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1808,6 +1810,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. — `Swift`
 - [Plonk](https://github.com/ostapondo/Plonk) - Ten menu bar utilities in one app: a window manager with snap zones you draw yourself, workspaces that reopen your apps on the right monitor, on-device OCR, keep-awake, screenshot annotation, pointer tools and a shortcut guide. An AI agent can drive all of it over MCP. ([Website](https://ostapondo.github.io/Plonk/)) — `Swift`
 - [PlugNPlayMac](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac — `Shell`
+- [Poinky](https://github.com/tomyud1/poinky) - Notch app that lets you talk to Claude Code: it sees your screen, answers by voice, sketches explanations and runs background agents. ([Website](https://github.com/tomyud1/poinky)) — `Swift`
 - [PowerShell](https://github.com/powershell/powershell) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools. — `C#`
 - [Presspeech](https://github.com/rcourtman/presspeech) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device. ([Website](https://rcourtman.github.io/presspeech/)) — `Python` `Swift`
 - [PureMac](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. ([Website](https://github.com/momenbasel/PureMac)) — `Swift`
@@ -1907,7 +1910,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (46)
+### 🎬 Video (47)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
@@ -1933,6 +1936,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
 - [OpenScreen](https://github.com/getopenscreen/openscreen) - Screen recorder and video editor for product demos, with automatic zooms on clicks, an editable cursor and on-device captions. ([Website](https://getopenscreen.com)) — `TypeScript` `Rust`
 - [OpenShot](https://github.com/OpenShot/openshot-qt) - Easy to use, quick to learn, and surprisingly powerful video editor. — `Python`
+- [OpenTape](https://github.com/aidankmcalister/OpenTape) `(macOS 15+)` - Simple, free screen recorder with zooms where you click and a smoothed cursor. ([Website](https://opentape.app)) — `TypeScript` `Rust`
 - [Petalwheel](https://github.com/TheAlexRay/petalwheel) - Menu bar file converter: drag files, tap Shift and drop them on a wheel to convert images, audio, video and documents, compress, OCR, trim and annotate. — `Swift`
 - [Photon](https://github.com/piedol/photon) - Screenshots, markup and screen recording from the menu bar, for macOS and Windows. ([Website](https://www.piedol.top/photon/)) — `Rust`
 - [Quick Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes. ([Website](https://apps.apple.com/app/quick-caption/id1363610340)) — `Swift`
@@ -1955,7 +1959,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Yape](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar. — `Swift`
 - [Yoda](https://github.com/whoisandy/yoda) - Nifty macOS application which enables you to browse and download videos from YouTube. — `JavaScript`
 
-### 🖥️ Wallpaper (18)
+### 🖥️ Wallpaper (19)
 - [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. — `Swift`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone — `Swift`
@@ -1965,6 +1969,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Equinox](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers. ([Website](https://equinoxmac.com)) — `Swift`
 - [Haze](https://github.com/adrbn/haze) - Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar. ([Website](https://github.com/adrbn/haze)) — `Swift`
 - [Lucid](https://github.com/jedbrnth-eng/lucid-live-wallpaper) - Live 4K wallpapers of space, nature and ocean loops on every display, plus Apple Aerials. ([Website](https://lucid-wallpaper.vercel.app)) — `Swift`
+- [Muralume](https://github.com/MisakiHCL/Muralume) `(macOS 14.0+)` - Lightweight native video player and dynamic desktop app with a refined interface, playlists, and synchronized or independent playback across displays. ([Website](https://hclgame.com/muralume)) — `Swift`
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. — `Swift`
 - [Phosphene](https://github.com/kageroumado/phosphene) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings. ([Website](https://kagerou.glass/phosphene/)) — `Swift`
 - [pyDailyChanger](https://github.com/IngoMeyer441/pyDailyChanger) - pyDailyChanger is a program that changes your wallpaper daily. — `Python`
