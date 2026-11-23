@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 72,
+    "audio" : 73,
     "backup" : 8,
     "browser" : 18,
     "chat" : 24,
@@ -14,7 +14,7 @@
     "Editors" : 1,
     "extensions" : 12,
     "finder" : 21,
-    "games" : 17,
+    "games" : 18,
     "git" : 23,
     "graphics" : 19,
     "ide" : 16,
@@ -35,7 +35,7 @@
     "other-development" : 10,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 105,
+    "productivity" : 106,
     "screensaver" : 12,
     "security" : 14,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 29
   },
-  "generated_at" : "2026-11-23T07:19:48Z",
-  "total_apps" : 1088,
+  "generated_at" : "2026-11-23T07:20:29Z",
+  "total_apps" : 1091,
   "total_categories" : 49
 }
