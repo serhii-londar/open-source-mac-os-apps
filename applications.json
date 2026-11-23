@@ -22715,6 +22715,24 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "IDE TEA",
+            "short_description": "A quiet, cross-platform IDE written in Rust, for neurodivergent developers working alongside coding agents.",
+            "categories": [
+                "ide",
+                "editors"
+            ],
+            "repo_url": "https://github.com/fabiocmazzo/idetea",
+            "icon_url": "https://raw.githubusercontent.com/fabiocmazzo/idetea/main/assets/idetea.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fabiocmazzo/idetea/main/assets/demo-poster.png",
+                "https://raw.githubusercontent.com/fabiocmazzo/idetea/main/assets/demo-preview.gif"
+            ],
+            "official_site": "https://idetea.belabs.cloud/",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
