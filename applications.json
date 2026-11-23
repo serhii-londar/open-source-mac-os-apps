@@ -16629,6 +16629,24 @@
             ]
         },
         {
+            "title": "Screen Capture",
+            "short_description": "Native, private-by-design macOS screenshot and scrolling long-capture utility with inline vector annotation and sticky-header/footer deduplication.",
+            "categories": [
+                "images",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nasadunadu/screen-capture-macos",
+            "icon_url": "https://raw.githubusercontent.com/nasadunadu/screen-capture-macos/main/ScreenCapture/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nasadunadu/screen-capture-macos/main/docs/images/settings.png"
+            ],
+            "official_site": "https://github.com/nasadunadu/screen-capture-macos/releases/latest",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Splat",
             "short_description": "Markdown editor with a live, editable preview that turns edits in the preview into minimal changes to the source.",
             "categories": [
