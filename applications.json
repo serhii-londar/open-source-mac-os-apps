@@ -22534,6 +22534,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A menu-bar app that shows the lyrics of the song playing in Spotify or Apple Music, word by word, over the desktop and above the lock screen, in 23 styles.",
+            "categories": [
+                "music",
+                "menubar",
+                "audio"
+            ],
+            "repo_url": "https://github.com/Rayhanson-Git/stanza",
+            "title": "Stanza",
+            "icon_url": "https://raw.githubusercontent.com/Rayhanson-Git/stanza/main/assets/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Rayhanson-Git/stanza/main/assets/window.png",
+                "https://raw.githubusercontent.com/Rayhanson-Git/stanza/main/assets/style-departureboard.png",
+                "https://raw.githubusercontent.com/Rayhanson-Git/stanza/main/assets/style-messages.png"
+            ],
+            "official_site": "https://rayhanson.tech/projects/stanza/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
