@@ -18522,10 +18522,7 @@
             "repo_url": "https://github.com/bcourbage/unison-ui-mac",
             "title": "Unison UI for macOS",
             "icon_url": "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/Unison-macOS-Default-512x512@1x.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/screenshot-sync-review.png",
-                "https://raw.githubusercontent.com/bcourbage/unison-ui-mac/main/assets/screenshot-profile-editor.png"
-            ],
+            "screenshots": [],
             "official_site": "https://bcourbage.github.io/unison-ui-mac/",
             "languages": [
                 "swift"
@@ -18557,7 +18554,7 @@
                 "utilities"
             ],
             "repo_url": "https://github.com/huangy7/MeowOut",
-            "icon_url": "https://raw.githubusercontent.com/huangy7/MeowOut/main/.github/assets/icon.png",
+            "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/huangy7/MeowOut/main/.github/assets/hero.gif"
             ],
@@ -18715,10 +18712,7 @@
             ],
             "repo_url": "https://github.com/bestonehxh/SheepTerm",
             "icon_url": "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/.github/icon.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/docs/images/hero.webp",
-                "https://raw.githubusercontent.com/bestonehxh/SheepTerm/main/docs/images/highlight.webp"
-            ],
+            "screenshots": [],
             "official_site": "https://sheepterm.com/",
             "languages": [
                 "swift"
