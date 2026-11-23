@@ -20345,6 +20345,20 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "Clipshaper",
+            "short_description": "Free, offline clip maker that turns long videos into short vertical clips with captions and no watermark.",
+            "categories": [
+                "video"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/clipshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/clipshaper/main/assets/icon.png",
+            "screenshots": [],
+            "official_site": "https://hollowbit.dev/clipshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
