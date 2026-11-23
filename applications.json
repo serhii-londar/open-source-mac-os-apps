@@ -18003,6 +18003,24 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Lights the MacBook keyboard backlight only when you type on the built-in keyboard.",
+            "categories": [
+                "keyboard",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fratayaydn/nightkeys",
+            "title": "NightKeys",
+            "icon_url": "https://raw.githubusercontent.com/fratayaydn/nightkeys/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fratayaydn/nightkeys/main/docs/screenshot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
         }
     ]
 }
