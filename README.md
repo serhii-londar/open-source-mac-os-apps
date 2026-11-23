@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1401-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1402-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1401 |
+| 📱 Total Applications | 1402 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 787 • TypeScript: 186 • Rust: 153 • JavaScript: 150 • Objective-C: 145 |
+| 🔝 Top Languages | Swift: 787 • TypeScript: 187 • Rust: 154 • JavaScript: 150 • Objective-C: 145 |
 
 ## Contents
 - [Audio](#audio)
@@ -580,7 +580,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. — `Swift`
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files. — `Objective-C`
 
-### ⬇️ Downloader (16)
+### ⬇️ Downloader (17)
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. — `Swift`
 - [App Fair](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs. ([Website](https://appfair.app)) — `Swift`
 - [Applite](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ([Website](https://aerolite.dev/applite)) — `Swift`
@@ -593,6 +593,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MacYT](https://github.com/sameerbajaj/MacYT) - Native macOS app for downloading video and audio from any URL with format selection and SponsorBlock integration. ([Website](https://sameerbajaj.com/tools/macyt/)) — `Swift`
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager. ([Website](https://motrix.app/)) — `JavaScript`
 - [Pillager](https://github.com/Pjirlip/Pillager) - macOS Video Downloader written in Swift and Objective-C. — `Objective-C` `Swift`
+- [Prism](https://github.com/FortoGraphy/prism-download-manager) - Download manager that splits each file over up to 32 connections, resumes after a crash, catches downloads from the browser and saves video or MP3 through yt-dlp, with torrents, queues and a scheduler. ([Website](https://prismdl.site)) — `Rust` `TypeScript`
 - [Shandian](https://github.com/chenmozhe008/shandian-download) - Native download manager for magnet links, torrents, ed2k, HTTP files and video sites (YouTube, Bilibili, Douyin and more) in one window, with a browser extension and stream-while-downloading. Chinese UI. — `Swift`
 - [TBD](https://github.com/eliorpom-cmd/to-be-downloaded) - Native YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can drive. ([Website](https://tbd.yt/)) — `Swift`
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses. — `JavaScript`

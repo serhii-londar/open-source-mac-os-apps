@@ -9,7 +9,7 @@
     "csv" : 1,
     "database" : 21,
     "development" : 78,
-    "downloader" : 15,
+    "downloader" : 16,
     "editors" : 7,
     "Editors" : 1,
     "extensions" : 12,
@@ -54,7 +54,7 @@
     "web-development" : 16,
     "window-management" : 38
   },
-  "generated_at" : "2026-11-23T17:03:18Z",
-  "total_apps" : 1401,
+  "generated_at" : "2026-11-23T18:41:31Z",
+  "total_apps" : 1402,
   "total_categories" : 49
 }
