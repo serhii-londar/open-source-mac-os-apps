@@ -17597,6 +17597,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "CurlGo",
+            "short_description": "Open-source API client for HTTP, SSE and WebSocket with local workspaces, curl, Postman and Bruno import, and response assertions.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/echoVic/curlgo",
+            "icon_url": "https://curlgo.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://curlgo.echovic.com/assets/curlgo/workspace-light.png"
+            ],
+            "official_site": "https://curlgo.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
