@@ -16629,6 +16629,26 @@
             ]
         },
         {
+            "short_description": "Turn a Mac into an Apple TV-style box with a tvOS-style home screen, streaming apps at full quality and your phone as the remote.",
+            "categories": [
+                "video",
+                "streaming",
+                "player"
+            ],
+            "repo_url": "https://github.com/Arunprakaash/mac-tv",
+            "title": "Mac TV",
+            "icon_url": "https://raw.githubusercontent.com/Arunprakaash/mac-tv/620d2b30dddaeade9707c4e98a6cdd55b1a32d10/docs/screenshots/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Arunprakaash/mac-tv/620d2b30dddaeade9707c4e98a6cdd55b1a32d10/docs/screenshots/home.png",
+                "https://raw.githubusercontent.com/Arunprakaash/mac-tv/620d2b30dddaeade9707c4e98a6cdd55b1a32d10/docs/screenshots/top-shelf.png",
+                "https://raw.githubusercontent.com/Arunprakaash/mac-tv/620d2b30dddaeade9707c4e98a6cdd55b1a32d10/docs/screenshots/app-grid.png"
+            ],
+            "official_site": "https://arunprakaash.github.io/mac-tv/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Screen Capture",
             "short_description": "Native, private-by-design macOS screenshot and scrolling long-capture utility with inline vector annotation and sticky-header/footer deduplication.",
             "categories": [
