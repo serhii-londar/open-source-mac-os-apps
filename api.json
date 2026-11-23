@@ -42,7 +42,7 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 40,
+    "system" : 41,
     "terminal" : 21,
     "tex" : 1,
     "text" : 8,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:30:57Z",
-  "total_apps" : 1050,
+  "generated_at" : "2026-11-23T00:31:13Z",
+  "total_apps" : 1051,
   "total_categories" : 49
 }
