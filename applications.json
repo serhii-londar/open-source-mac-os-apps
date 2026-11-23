@@ -17597,6 +17597,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SpecWithCode",
+            "short_description": "Desktop app that runs Claude Code, Codex and GitHub Copilot threads side by side, with a project coordinator and one git worktree per task.",
+            "categories": [
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/anton-abyzov/specwithcode",
+            "icon_url": "https://raw.githubusercontent.com/anton-abyzov/specwithcode/main/assets/prod/black-macos-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/anton-abyzov/specwithcode/main/assets/readme/app-window.webp"
+            ],
+            "official_site": "https://specwithcode.com",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
