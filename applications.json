@@ -22321,6 +22321,26 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "BitSpring",
+            "short_description": "Bit-perfect music player: native DSD, each track at its own sample rate up to 768 kHz, exclusive (hog) mode, gapless playback, and an optional parametric EQ with AutoEQ headphone profiles, crossfeed and upsampling.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/crash2bash/bitspring",
+            "icon_url": "https://raw.githubusercontent.com/crash2bash/bitspring/main/apps/desktop/src-tauri/icons/128x128%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/crash2bash/bitspring/main/apps/website/public/screens/player-glass.webp",
+                "https://raw.githubusercontent.com/crash2bash/bitspring/main/apps/website/public/screens/eq-glass.webp"
+            ],
+            "official_site": "https://bitspring.app",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
