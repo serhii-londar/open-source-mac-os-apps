@@ -42,19 +42,19 @@
     "social-networking" : 9,
     "streaming" : 2,
     "subtitles" : 3,
-    "system" : 51,
+    "system" : 52,
     "terminal" : 31,
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 134,
     "video" : 33,
-    "vpn--proxy" : 9,
+    "vpn--proxy" : 10,
     "wallpaper" : 19,
     "web-development" : 16,
     "window-management" : 35
   },
-  "generated_at" : "2026-11-23T13:38:29Z",
-  "total_apps" : 1284,
+  "generated_at" : "2026-11-23T13:38:55Z",
+  "total_apps" : 1286,
   "total_categories" : 49
 }
