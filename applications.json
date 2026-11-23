@@ -21227,6 +21227,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Tape",
+            "short_description": "Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Yvsleyen00941/Tape",
+            "icon_url": "https://raw.githubusercontent.com/Yvsleyen00941/Tape/main/icon.png",
+            "screenshots": [
+                "https://yorben.me/assets/work/tape/corner.webp"
+            ],
+            "official_site": "https://yorben.me/#tape",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
