@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1290-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1291-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1290 |
+| 📱 Total Applications | 1291 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 722 • TypeScript: 156 • Objective-C: 145 • JavaScript: 142 • Rust: 128 |
+| 🔝 Top Languages | Swift: 723 • TypeScript: 156 • Objective-C: 145 • JavaScript: 142 • Rust: 128 |
 
 ## Contents
 - [Audio](#audio)
@@ -848,7 +848,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (275)
+### 📊 Menubar (276)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -1031,6 +1031,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - Menu bar app for the Razer Naga V2 HyperSpeed: remaps the 12 side buttons, saves profiles to the mouse, sets DPI and polling rate. ([Website](https://github.com/Zer0codestuff/OpenNaga)) — `Swift`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Local-only voice dictation for macOS — press a hotkey, speak, and the transcript is pasted at the cursor. Runs WhisperKit on Apple Silicon with no telemetry. ([Website](https://larryxiao.github.io/openquack)) — `Swift`
 - [OpenSpatial](https://github.com/dortanes/openspatial) - Spatial audio for any headphones that plays every app as 7.1 surround, with head tracking through the camera. — `Swift`
+- [OpenValet](https://github.com/SamarthY06/OpenValet) - Voice and WhatsApp agent that runs Claude Code on your own Claude login, with local wake word, speech recognition and voices, and a gate that asks before anything irreversible. ([Website](https://github.com/SamarthY06/OpenValet)) — `Swift` `Python` `Go`
 - [OpusBar](https://github.com/kushalBanda/OpusBar) - A cat in your menu bar that watches your Claude Code and Codex sessions: it takes on the state of the most urgent one, flags the session that needs you, and tracks plan limits and billing. ([Website](https://kushalbanda.com/opusbar/)) — `Swift`
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene. ([Website](https://paretosecurity.com/)) — `Swift`
 - [ParrotFlow](https://github.com/znat/parrotflow) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links. ([Website](https://parrotflow.io/)) — `Swift` `Python`
@@ -1259,7 +1260,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (249)
+### ⏱️ Productivity (250)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1400,6 +1401,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OmniPrompt](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac ([Website](https://omniprompt.app/)) — `Swift`
 - [OpenClip](https://github.com/ganeshmshetty/openclip) - Lightweight floating action bar for macOS that turns selected text into instant actions. ([Website](https://getopenclip.app)) — `Swift`
 - [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device. ([Website](https://openhabittracker.net)) — `C#`
+- [OpenValet](https://github.com/SamarthY06/OpenValet) - Voice and WhatsApp agent that runs Claude Code on your own Claude login, with local wake word, speech recognition and voices, and a gate that asks before anything irreversible. ([Website](https://github.com/SamarthY06/OpenValet)) — `Swift` `Python` `Go`
 - [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) - On-device voice dictation for macOS with local transcription and optional text cleanup. ([Website](https://openvoiceflow.com)) — `Swift` `Objective-C` `Python` `Shell`
 - [Orca](https://github.com/stablyai/orca) - AI orchestrator that runs Codex, Claude Code, OpenCode or Pi side-by-side, each in its own git worktree and tracked in one place. ([Website](https://onorca.dev)) — `TypeScript`
 - [Orchestrator](https://github.com/zachealy1/orchestrator) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review. ([Website](https://github.com/zachealy1/orchestrator)) — `TypeScript` `Rust`
