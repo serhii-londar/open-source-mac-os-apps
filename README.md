@@ -14,7 +14,7 @@
   <p>
     <img src="https://img.shields.io/badge/Total%20Apps-1028-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-November%2022,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -605,7 +605,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Gifcurry](https://github.com/lettier/gifcurry) - Video to GIF maker with a graphical interface capable of cropping, adding text, seeking, and trimming. — `Haskell`
 - [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs. — `Swift`
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application. — `Swift`
-- [ItsPaint](https://github.com/joshlin2201/itspaint) - Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry. ([Website](https://itspaintmac.com/)) — `Swift`
+- [ItsPaint](https://github.com/joshlin2201/itspaint) - Focused paint and screenshot markup app. Step badges, pixelate, Instant Alpha. No account, no telemetry. ([Website](https://itspaintmac.com/)) — `Swift`
 - [Krita](https://invent.kde.org/graphics/krita) - Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations. ([Website](https://krita.org/en/)) — `C++` `Python` `C`
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers. ([Website](https://librecad.org)) — `C++` `C`
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom) - Digital darkroom and RAW developer with physically modelled film stock simulation. ([Website](https://lighttable.app)) — `Python` `Rust` `Swift`
@@ -745,6 +745,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. — `Swift`
 - [Dayside](https://github.com/ninondev/Dayside) - Menu bar world clock that paints each city's row in its real sky color and finds meeting times across time zones. — `Swift` `Rust`
 - [Deckle](https://github.com/Kelvanic/deckle) - Subtle paper-grain texture overlay for the whole screen. Click-through menu bar app with 18 textures, global hotkey, and per-display control. ([Website](https://kelvanic.com/products/deckle/)) — `Swift`
+- [Deploylight](https://github.com/andrewk17/deploylight) - Vercel and Cloudflare deploy status in your Mac menu bar. ([Website](https://deploylight.akim.workers.dev/)) — `Swift`
 - [Devie AI Quota Tracker](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization. — `Rust` `TypeScript`
 - [Dictámelo](https://github.com/sarrazola/dictamelo) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut. ([Website](https://www.dictamelo.com/en)) — `Rust` `JavaScript`
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. — `Swift`
@@ -809,7 +810,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro. — `Swift`
 - [Nocturne](https://github.com/dotcomjack/nocturne) - Makes the menu bar clock unreadable so it stops telling you how late it is, without hiding anything or asking for permissions. ([Website](https://dotcomjack.com/nocturne)) — `Swift`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar. — `Swift`
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support. ([Website](https://github.com/deepshal99/notch-so-good)) — `Swift`
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek, a tiny 3D character, lives in your MacBook's notch and watches Claude Code and Codex: permission approvals and replies from the notch, and every session and usage limit at a glance. ([Website](https://github.com/deepshal99/notch-so-good)) — `Swift`
 - [Notchi](https://github.com/cyrus-cai/notchi) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents. ([Website](https://www.notch.website/)) — `Swift`
 - [Notchly](https://github.com/Notchly/Notchly) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs. ([Website](https://notchly.xyz)) — `Swift`
 - [OATS](https://github.com/ariso-ai/oats) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode. ([Website](https://ariso.ai/oats)) — `Rust` `TypeScript`
@@ -874,7 +875,6 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [TypeCue](https://github.com/alexpolonsky/TypeCue) - Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations. ([Website](https://typecue.app)) — `Swift`
 - [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget that shows Google, iCloud and Outlook calendars, Apple Reminders, Canvas, Blackboard, Moodle and other LMS deadlines, and Todoist, Asana and Trello tasks, with menu bar quick add. — `Swift`
 - [usage](https://github.com/aqua5230/usage) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files. ([Website](https://aqua5230.github.io/usage/)) — `Python`
-- [Vercel Deployment Menu Bar](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time. ([Website](https://vercel-deployment-menu-bar.vercel.app/)) — `Swift`
 - [Vitals](https://github.com/slawek19926/Vitals) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health. ([Website](https://github.com/slawek19926/Vitals)) — `Swift` `C++`
 - [Vocula](https://github.com/vitaly-kashtalyan/vocula) - Hold-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor. ([Website](https://vocula.app)) — `Swift`
 - [Voicely](https://github.com/StulkovLD/Voicely) - Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model. ([Website](https://voicely.art)) — `Swift`
@@ -1506,7 +1506,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Nocturne](https://github.com/dotcomjack/nocturne) - Makes the menu bar clock unreadable so it stops telling you how late it is, without hiding anything or asking for permissions. ([Website](https://dotcomjack.com/nocturne)) — `Swift`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar. — `Swift`
 - [noswoosh](https://github.com/mmathys/noswoosh) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys. — `Swift`
-- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support. ([Website](https://github.com/deepshal99/notch-so-good)) — `Swift`
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - Peek, a tiny 3D character, lives in your MacBook's notch and watches Claude Code and Codex: permission approvals and replies from the notch, and every session and usage limit at a glance. ([Website](https://github.com/deepshal99/notch-so-good)) — `Swift`
 - [Notchi](https://github.com/cyrus-cai/notchi) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents. ([Website](https://www.notch.website/)) — `Swift`
 - [Notchly](https://github.com/Notchly/Notchly) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs. ([Website](https://notchly.xyz)) — `Swift`
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet). — `Swift`
