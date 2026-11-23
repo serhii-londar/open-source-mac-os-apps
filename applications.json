@@ -22783,6 +22783,25 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "short_description": "Desktop workbench for Douyin that queues batch downloads, keeps a local library and records live streams, with anonymous identities generated on the device.",
+            "categories": [
+                "downloader",
+                "video"
+            ],
+            "repo_url": "https://github.com/firethief6/douyintai",
+            "title": "DouyinTai",
+            "icon_url": "https://raw.githubusercontent.com/firethief6/douyintai/main/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/firethief6/douyintai/main/docs/screenshots/feed.webp",
+                "https://raw.githubusercontent.com/firethief6/douyintai/main/docs/screenshots/library.webp"
+            ],
+            "official_site": "https://github.com/firethief6/douyintai",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
