@@ -17864,6 +17864,23 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Omnimount",
+            "short_description": "Menu bar app and CLI for mounting ext4 and NTFS drives on macOS, with raw image cloning and restoration.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/ramdoor/omnimount",
+            "icon_url": "https://omnimount.es/assets/icon-512.png",
+            "screenshots": [
+                "https://omnimount.es/assets/panel.png"
+            ],
+            "official_site": "https://omnimount.es/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
