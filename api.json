@@ -22,7 +22,7 @@
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
-    "keyboard" : 17,
+    "keyboard" : 18,
     "mail" : 10,
     "markdown" : 24,
     "medical" : 2,
@@ -44,7 +44,7 @@
     "subtitles" : 3,
     "system" : 41,
     "terminal" : 21,
-    "tex" : 1,
+    "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 113,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T07:14:00Z",
-  "total_apps" : 1069,
+  "generated_at" : "2026-11-23T07:14:31Z",
+  "total_apps" : 1071,
   "total_categories" : 49
 }
