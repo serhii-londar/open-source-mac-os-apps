@@ -22156,6 +22156,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Purr",
+            "short_description": "Dictation that types into any app, plus meeting notes with speaker labels and summaries, all on-device with Parakeet or Whisper.",
+            "categories": [
+                "audio",
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/iamarunbrahma/purr",
+            "icon_url": "https://raw.githubusercontent.com/iamarunbrahma/purr/main/Resources/purr_app_logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/iamarunbrahma/purr/main/Resources/screenshots/setup-engine.png",
+                "https://raw.githubusercontent.com/iamarunbrahma/purr/main/Resources/screenshots/settings-meetings.png"
+            ],
+            "official_site": "https://purr.arunbrahma.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
