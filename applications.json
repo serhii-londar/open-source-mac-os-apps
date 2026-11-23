@@ -13708,11 +13708,13 @@
         },
         {
             "title": "Mooziac",
-            "short_description": "Lightweight native macOS menu bar player for YouTube Music and local audio with trackpad gestures.",
+            "short_description": "Native macOS 4K YouTube video and menu bar music player with hardware acceleration, Hero Player mode, SponsorBlock, and trackpad gestures.",
             "categories": [
                 "music",
                 "audio",
-                "menubar"
+                "menubar",
+                "player",
+                "video"
             ],
             "repo_url": "https://github.com/shirkeharsh/mooziac",
             "icon_url": "https://raw.githubusercontent.com/shirkeharsh/mooziac/main/Resources/AppIcon.png",
