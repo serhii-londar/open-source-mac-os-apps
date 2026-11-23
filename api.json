@@ -4,7 +4,7 @@
     "audio" : 73,
     "backup" : 8,
     "browser" : 18,
-    "chat" : 24,
+    "chat" : 25,
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 20,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 29
   },
-  "generated_at" : "2026-11-23T07:20:49Z",
-  "total_apps" : 1091,
+  "generated_at" : "2026-11-23T07:27:54Z",
+  "total_apps" : 1092,
   "total_categories" : 49
 }
