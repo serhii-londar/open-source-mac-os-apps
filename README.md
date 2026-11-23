@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1259-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1260-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1259 |
+| 📱 Total Applications | 1260 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 703 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
+| 🔝 Top Languages | Swift: 704 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
 
 ## Contents
 - [Audio](#audio)
@@ -833,7 +833,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (267)
+### 📊 Menubar (268)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -1025,6 +1025,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Plainsay](https://github.com/conrader/plainsay) - Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+). ([Website](https://plainsay.app/)) — `Swift`
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar. — `Swift`
 - [Plonk](https://github.com/ostapondo/Plonk) - Ten menu bar utilities in one app: a window manager with snap zones you draw yourself, workspaces that reopen your apps on the right monitor, on-device OCR, keep-awake, screenshot annotation, pointer tools and a shortcut guide. An AI agent can drive all of it over MCP. ([Website](https://ostapondo.github.io/Plonk/)) — `Swift`
+- [Polka](https://github.com/romabmstu/polka) - Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. ([Website](https://romabmstu.github.io/polka/)) — `Swift`
 - [Presspeech](https://github.com/rcourtman/presspeech) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device. ([Website](https://rcourtman.github.io/presspeech/)) — `Python` `Swift`
 - [PrimeSnap](https://github.com/nivohavi/primesnap) - Menu bar app to capture, frame, annotate and redact screenshots, with on-device auto-redaction of emails and API keys. ([Website](https://github.com/nivohavi/primesnap)) — `Swift`
 - [Proton VPN Menu Bar](https://github.com/stevelacey/proton-vpn-menubar) - Unofficial menu bar app for Proton VPN, with country search, Secure Core, NetShield, kill switch and port forwarding. — `Swift`
@@ -1235,7 +1236,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (240)
+### ⏱️ Productivity (241)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1385,6 +1386,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Pesty](https://github.com/momenbasel/pesty) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting. ([Website](https://github.com/momenbasel/pesty)) — `Swift`
 - [Platypus Notes](https://github.com/pixelsmasher13/platypus) - Local-first notes app that records meetings without a bot, transcribes them on-device with Whisper, and lets you chat with your notes using your own AI provider or Ollama. ([Website](https://platypusnotes.com)) — `Rust` `TypeScript`
 - [Poinky](https://github.com/tomyud1/poinky) - Notch app that lets you talk to Claude Code: it sees your screen, answers by voice, sketches explanations and runs background agents. ([Website](https://github.com/tomyud1/poinky)) — `Swift`
+- [Polka](https://github.com/romabmstu/polka) - Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. ([Website](https://romabmstu.github.io/polka/)) — `Swift`
 - [Pomodoro Cycle](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS ([Website](https://github.com/ziulev/pomodoro-cycle-app/releases)) — `TypeScript`
 - [Posato](https://github.com/dees91/posato) - Blocks the websites and apps you choose for a timed pause, now or on a schedule, with optional end-to-end encrypted sync to iPhone through iCloud. ([Website](https://posato.app)) — `Kotlin` `Swift`
 - [Posnic](https://github.com/Posnic/POS) - Offline-first open source POS and billing software for retail shops and restaurants. ([Website](https://www.posnic.com/)) — `JavaScript`
