@@ -20659,6 +20659,20 @@
                 "swift",
                 "go"
             ]
+        },
+        {
+            "title": "camber",
+            "short_description": "Browser with Arc's sidebar, spaces, pinned tabs and command bar that imports your Arc spaces.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/yuvrajangadsingh/camber",
+            "icon_url": "https://raw.githubusercontent.com/yuvrajangadsingh/camber/main/build/icon.png",
+            "screenshots": [],
+            "official_site": "https://www.yuvrajangadsingh.com/camber",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
