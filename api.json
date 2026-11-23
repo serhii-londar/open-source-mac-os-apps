@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 84,
+    "audio" : 85,
     "backup" : 10,
     "browser" : 18,
     "chat" : 26,
@@ -35,7 +35,7 @@
     "other-development" : 11,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 115,
+    "productivity" : 116,
     "screensaver" : 12,
     "security" : 15,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:40:25Z",
-  "total_apps" : 1203,
+  "generated_at" : "2026-11-23T09:41:00Z",
+  "total_apps" : 1205,
   "total_categories" : 49
 }
