@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1263-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1266-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1263 |
+| 📱 Total Applications | 1266 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 707 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
+| 🔝 Top Languages | Swift: 708 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
 
 ## Contents
 - [Audio](#audio)
@@ -1566,7 +1566,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 
-### ⚙️ System (78)
+### ⚙️ System (80)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1630,6 +1630,8 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles. — `Objective-C`
 - [PureMac](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. ([Website](https://github.com/momenbasel/PureMac)) — `Swift`
 - [Qingo](https://github.com/chenmozhe008/qingo) - Cache cleaner that recognizes 60+ video, design and AI tools, clears only caches that rebuild automatically and moves them to the Trash with undo, leaving projects and conversations untouched. Chinese UI. — `Swift`
+- [Rind](https://github.com/ahjdzx/rind) - Open-source macOS uninstaller and cleaner that explains why every leftover belongs to an app, moves everything to the Trash with one-click restore, and keeps protected areas like the Keychain, Mail and Photos libraries off-limits. — `Rust`
+- [ShinyMac](https://github.com/pballada/shinyMac) - Mac cleaner with a native SwiftUI interface: Smart Care, complete app uninstaller, junk and Xcode cleanup, Space Lens and hidden macOS settings. — `Swift`
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs. — `Swift`
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system. — `Objective-C`
 - [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs. — `Swift`
@@ -1699,7 +1701,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (328)
+### 🛠️ Utilities (330)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1954,6 +1956,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Repose](https://github.com/fikrikarim/repose) - Break reminder for macOS that automatically pauses during meetings. ([Website](https://github.com/fikrikarim/repose)) — `Swift`
 - [Retrova](https://github.com/jishnumahanta/retrova) - Read-only data recovery for drives that won't mount, with undelete, careful imaging and byte-for-byte verification of every copy. ([Website](https://retrova.jishnumahanta.in)) — `Python` `JavaScript`
 - [Rilmazafone](https://github.com/kageroumado/rilmazafone) - Design DMG installers on a WYSIWYG canvas and build exactly what you drew. ([Website](https://kagerou.glass/rilmazafone/)) — `Swift`
+- [Rind](https://github.com/ahjdzx/rind) - Open-source macOS uninstaller and cleaner that explains why every leftover belongs to an app, moves everything to the Trash with one-click restore, and keeps protected areas like the Keychain, Mail and Photos libraries off-limits. — `Rust`
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ([Website](https://swiftyfinch.github.io/en/2021-03-09-rugby-story/)) — `Swift`
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher ([Website](https://rustcast.umangsurana.com)) — `Rust`
 - [SaneBar](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers. ([Website](https://sanebar.com)) — `Swift`
@@ -1969,6 +1972,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation. ([Website](https://screentranslate.filient.ai)) — `Swift`
 - [Sesame](https://github.com/qiwei66/sesame) - Local library of the dashboards, reports, sites, PRs and files Claude Code and Codex delivered; type or say a few words to reopen one. ([Website](https://qiwei66.github.io/sesame/)) — `Swift` `TypeScript`
 - [SheepTerm](https://github.com/bestonehxh/SheepTerm) - SSH, serial console and local shell terminal for network engineers, with vendor-aware output highlighting, split panes, saved hosts and session logs. ([Website](https://sheepterm.com/)) — `Swift`
+- [ShinyMac](https://github.com/pballada/shinyMac) - Mac cleaner with a native SwiftUI interface: Smart Care, complete app uninstaller, junk and Xcode cleanup, Space Lens and hidden macOS settings. — `Swift`
 - [Shuffle](https://github.com/WizenPainter/shuffle) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming. ([Website](https://shuffleapp.co)) — `Rust`
 - [sigstop](https://github.com/Mohamed-Elshesheny/sigstop) - Menu bar break reminder that infers what you are doing and holds the break during calls, with zero permissions. ([Website](https://sigstop-app.vercel.app)) — `Swift`
 - [Skilly](https://github.com/tryskilly/skilly) - Voice-first AI tutor that watches your screen and points at on-screen UI elements to teach creative software like Blender, Figma, and Premiere. ([Website](https://tryskilly.app)) — `Swift`
@@ -2117,7 +2121,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in. ([Website](https://www.wallpapermachine.app)) — `Swift` `Rust` `C++`
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. — `Ruby`
 
-### 🪟 Window Management (36)
+### 🪟 Window Management (37)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab.app/)) — `Swift` `Shell`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
 - [AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Move any window by holding a modifier key and dragging anywhere on it, as smooth as a native title bar. ([Website](https://xueshi.dev/anydrag)) — `Swift`
@@ -2149,6 +2153,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Slate](https://github.com/jigish/slate) - Slate is a window management application similar to Divvy and SizeUp — `Objective-C`
 - [SlideScroll](https://github.com/majnioui/SlideScroll) - Scrolling window manager in the style of niri and PaperWM: windows are columns on a strip you swipe or scroll through. ([Website](https://slidescroll.majnioui.me)) — `Rust`
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. — `Objective-C`
+- [Stage Manager](https://github.com/eugene-tea/stage-manager) - Replacement for Apple's Stage Manager with stages that survive a restart and keyboard switching. ([Website](https://eugene-tea.github.io/stage-manager/)) — `Rust`
 - [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away. ([Website](https://tungstenedge.app)) — `Swift`
 - [Window Glue](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one. — `Swift`
 - [WindowCycle](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel. ([Website](https://github.com/WhiteMinds/window-cycle)) — `Swift`
