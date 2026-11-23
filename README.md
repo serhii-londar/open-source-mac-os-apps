@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1210-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1211-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1210 |
+| 📱 Total Applications | 1211 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 670 • Objective-C: 144 • TypeScript: 140 • JavaScript: 134 • Rust: 110 |
+| 🔝 Top Languages | Swift: 670 • Objective-C: 144 • TypeScript: 141 • JavaScript: 134 • Rust: 111 |
 
 ## Contents
 - [Audio](#audio)
@@ -723,7 +723,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor ([Website](https://zed.dev)) — `Rust`
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. — `Lua`
 
-### 🖼️ Images (34)
+### 🖼️ Images (35)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. — `Swift`
 - [Arras](https://github.com/yashashwi-s/Arras) - Desktop photo widgets and editable collages with slideshows and adjustable layers. ([Website](https://tryarras.tech/)) — `Swift`
 - [Convertino](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal. — `C#`
@@ -756,6 +756,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Seashore](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us. — `Objective-C`
 - [Shotnix](https://github.com/OMARVII/Shotnix) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor. ([Website](https://shotnix.com/)) — `Swift`
 - [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs. ([Website](https://gwenn-ha-dev.github.io/Siliconed/)) — `Swift`
+- [Snap2Link](https://github.com/amys94fr/Snap2Link) - Capture a screen region with a hotkey and get a shareable Google Drive link in your clipboard. ([Website](https://snap2link.app)) — `Rust` `TypeScript`
 - [TetherShot](https://github.com/apoorvdarshan/TetherShot) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi. ([Website](https://tethershot.apoorvdarshan.com)) — `Swift`
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. — `Swift` `C`
 
@@ -1455,7 +1456,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac. ([Website](https://github.com/HMAKT99/UnTouchID)) — `Swift` `C`
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt. ([Website](https://www.veracrypt.fr)) — `C` `C++`
 
-### 📤 Sharing Files (15)
+### 📤 Sharing Files (16)
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ([Website](https://cyberduck.io)) — `Java`
 - [Deluge](https://github.com/deluge-torrent/deluge) - Lightweight cross-platform BitTorrent client. — `Python`
 - [Easy Share Uploader](https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader) - Allows users to easily host their local images to the internet through multiple services and available on App Store. ([Website](https://ariessciences.com/highlight?product=easy-share-uploader)) — `Objective-C`
@@ -1467,6 +1468,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt. — `C++`
 - [Rhea](https://github.com/timonus/Rhea) - macOS status bar app for quickly sharing files and URLs. — `Objective-C`
 - [shroom](https://github.com/bagrat/shroom) - A free, open-source Mac screen recorder: stop, and the link is ready. Your videos and your team's live in your own Cloudflare account, so you pay only for what you keep. ([Website](https://shroom.am)) — `Rust` `TypeScript`
+- [Snap2Link](https://github.com/amys94fr/Snap2Link) - Capture a screen region with a hotkey and get a shareable Google Drive link in your clipboard. ([Website](https://snap2link.app)) — `Rust` `TypeScript`
 - [Soduto](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets. ([Website](https://soduto.com/)) — `Swift` `Objective-C`
 - [Transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository. — `Objective-C` `C`
 - [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - Native SwiftUI remote for the Transmission daemon with torrent rules, RSS auto-download and tracker/folder filters; a modern transgui alternative. ([Website](https://epaxpax.github.io/transmission-remote-gui/)) — `Swift`
