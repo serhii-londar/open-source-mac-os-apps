@@ -26,13 +26,13 @@
     "mail" : 9,
     "markdown" : 21,
     "medical" : 1,
-    "menubar" : 100,
+    "menubar" : 101,
     "music" : 13,
     "news" : 5,
     "notes" : 22,
     "other" : 25,
     "Other" : 1,
-    "other-development" : 8,
+    "other-development" : 9,
     "player" : 7,
     "podcast" : 6,
     "productivity" : 103,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
-    "window-management" : 27
+    "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:25:20Z",
-  "total_apps" : 1036,
+  "generated_at" : "2026-11-23T00:28:01Z",
+  "total_apps" : 1039,
   "total_categories" : 49
 }

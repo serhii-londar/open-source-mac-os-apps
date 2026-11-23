@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1036-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1039-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1036 |
+| 📱 Total Applications | 1039 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 549 • Objective-C: 142 • JavaScript: 128 • TypeScript: 103 • Rust: 79 |
+| 🔝 Top Languages | Swift: 551 • Objective-C: 142 • JavaScript: 128 • TypeScript: 104 • Rust: 79 |
 
 ## Contents
 - [Audio](#audio)
@@ -374,7 +374,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. — `Swift`
 - [JsonStudio](https://github.com/sundegan/JsonStudio) - Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs. ([Website](https://jsonstudio.js.org/)) — `Rust` `TypeScript` `Svelte`
 
-#### 🔧 Other Development (11)
+#### 🔧 Other Development (12)
 - [AI Switcher](https://github.com/burakdede/aisw-desktop) - Switch Claude Code, Codex, Gemini CLI and Antigravity CLI accounts with named profiles, one-click contexts and per-repository rules. ([Website](https://aiswitcher.dev/desktop/)) — `TypeScript` `Rust`
 - [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. ([Website](https://boop.okat.best)) — `Swift` `JavaScript`
 - [ccx](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
@@ -383,6 +383,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [JET Pilot](https://github.com/unxsist/jet-pilot) - Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal. ([Website](https://jet-pilot.app)) — `Rust` `TypeScript` `Vue`
 - [Loadout](https://github.com/migsilva89/loadout) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs. ([Website](https://loadout.migsilva.dev)) — `Swift`
 - [Loom](https://github.com/chaiwithcode/Loom) - Native read-only macOS menu-bar monitor for Codex, Claude Code and Antigravity sessions, repositories, lifecycle states and provider health. ([Website](https://chaiwithcode.github.io/Loom/)) — `Swift`
+- [Lumovi](https://github.com/Lumovi/Lumovi) - Calm, fast Kubernetes dashboard for every cluster in your kubeconfig, with failing things first, every change's kubectl command, and a built-in MCP server for AI agents. ([Website](https://lumovi.dev)) — `TypeScript`
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries. — `Objective-C`
 - [MQTTX](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. — `JavaScript` `TypeScript`
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. — `JavaScript`
@@ -703,7 +704,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 ### 🏥 Medical (1)
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 
-### 📊 Menubar (194)
+### 📊 Menubar (196)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -757,6 +758,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Devie AI Quota Tracker](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization. — `Rust` `TypeScript`
 - [Dictámelo](https://github.com/sarrazola/dictamelo) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut. ([Website](https://www.dictamelo.com/en)) — `Rust` `JavaScript`
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. — `Swift`
+- [DockPin](https://github.com/kangaroo-demo/DockPin) - Menu bar utility that helps keep the macOS Dock on a chosen display in multi-monitor setups. ([Website](https://kangaroo-demo.github.io/DockPin/)) — `Swift`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. — `Swift`
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing anything. ([Website](https://toprak.sh/dusty/)) — `Swift`
 - [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams. — `Swift`
@@ -804,6 +806,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings — `Swift`
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar. — `JavaScript`
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS. — `Objective-C`
+- [mFix](https://github.com/Zingzy/mFix) - Window snapping with layouts, a Cmd+Tab window switcher with live previews, Dock window previews and Cut and paste in Finder. — `Swift`
 - [MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators. ([Website](https://www.minisim.app/)) — `Swift`
 - [Mole Widget](https://github.com/TadelUnso/mole-widget) - Lightweight macOS desktop system monitor with live CPU, memory, disk, network, battery, and process metrics, managed from the menu bar. ([Website](https://github.com/TadelUnso/mole-widget)) — `Swift`
 - [Monitor Bar](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. — `Swift`
@@ -1365,7 +1368,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (254)
+### 🛠️ Utilities (255)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1434,6 +1437,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Devie AI Quota Tracker](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization. — `Rust` `TypeScript`
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ([Website](https://devutils.com)) — `Swift`
 - [DiskWise](https://github.com/DreamOfXM/diskwise) - Disk cleaner that moves everything it removes to the Trash and keeps it undoable, covering app caches, node_modules, Xcode DerivedData and Docker usage. ([Website](https://github.com/DreamOfXM/diskwise)) — `Swift`
+- [DockPin](https://github.com/kangaroo-demo/DockPin) - Menu bar utility that helps keep the macOS Dock on a chosen display in multi-monitor setups. ([Website](https://kangaroo-demo.github.io/DockPin/)) — `Swift`
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram. ([Website](https://dorothyai.app)) — `TypeScript`
 - [DSH Desk Pet](https://github.com/anneheartrecord/dsh-desk-pet) - Desktop pet that mirrors your coding agent's state, with skins generated from a photo of your own pet. ([Website](https://github.com/anneheartrecord/dsh-desk-pet)) — `Python`
 - [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. ([Website](https://dupeguru.voltaicideas.net/)) — `Objective-C`
@@ -1686,7 +1690,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in. ([Website](https://www.wallpapermachine.app)) — `Swift` `Rust` `C++`
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. — `Ruby`
 
-### 🪟 Window Management (29)
+### 🪟 Window Management (30)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift` `Shell`
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
@@ -1700,6 +1704,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features. ([Website](https://icemenubar.app/)) — `Swift`
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Remembers window layouts per external monitor and restores position, size and Space (macOS 26+) on reconnect, with DDC brightness keys on Apple Silicon. — `Swift`
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. — `Swift`
+- [mFix](https://github.com/Zingzy/mFix) - Window snapping with layouts, a Cmd+Tab window switcher with live previews, Dock window previews and Cut and paste in Finder. — `Swift`
 - [noswoosh](https://github.com/mmathys/noswoosh) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys. — `Swift`
 - [Nudge](https://github.com/mikusnuz/nudge) - Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping. ([Website](https://nudge.run)) — `Swift`
 - [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu-bar app: keep-awake, ⌘Tab by windows, window shortcuts and layouts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. ([Website](https://bysergimm.github.io/OmniMac/en/)) — `Swift`
