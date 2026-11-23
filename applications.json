@@ -17597,6 +17597,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Little Reef",
+            "short_description": "Open-source focus timer that grows a reef as you finish sessions, with menu bar controls, ambient sounds and a desktop widget.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/echoVic/little-reef",
+            "icon_url": "https://reef.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://reef.echovic.com/assets/reef/hero-0.4.2.png"
+            ],
+            "official_site": "https://reef.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
