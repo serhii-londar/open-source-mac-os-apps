@@ -16,7 +16,7 @@
     "finder" : 23,
     "games" : 18,
     "git" : 24,
-    "graphics" : 20,
+    "graphics" : 21,
     "ide" : 16,
     "images" : 28,
     "ios--macos" : 40,
@@ -26,11 +26,11 @@
     "mail" : 11,
     "markdown" : 27,
     "medical" : 2,
-    "menubar" : 125,
+    "menubar" : 126,
     "music" : 15,
     "news" : 5,
     "notes" : 27,
-    "other" : 25,
+    "other" : 26,
     "Other" : 1,
     "other-development" : 12,
     "player" : 8,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 34
   },
-  "generated_at" : "2026-11-23T12:35:42Z",
-  "total_apps" : 1223,
+  "generated_at" : "2026-11-23T12:36:23Z",
+  "total_apps" : 1226,
   "total_categories" : 49
 }
