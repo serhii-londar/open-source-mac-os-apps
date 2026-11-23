@@ -22646,6 +22646,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Hourmint",
+            "short_description": "Menu bar time tracker for freelancers with a work log, timesheets and PDF invoices. Local-first, no account needed.",
+            "categories": [
+                "productivity",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/abdurrahmanriyad/hourmint",
+            "icon_url": "https://hourmint.abdur.tech/img/icon.png",
+            "screenshots": [
+                "https://hourmint.abdur.tech/img/hero.webp"
+            ],
+            "official_site": "https://hourmint.abdur.tech",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
