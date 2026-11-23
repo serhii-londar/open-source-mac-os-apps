@@ -17987,6 +17987,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Frink",
+            "short_description": "Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/benord-labs/frink",
+            "icon_url": "https://raw.githubusercontent.com/benord-labs/frink/main/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/benord-labs/frink/main/docs/assets/readme/overview.jpg"
+            ],
+            "official_site": "https://frink.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
