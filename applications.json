@@ -21366,6 +21366,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TTS",
+            "short_description": "Text to speech app that reads text aloud with the voices of macOS, Siri’s included, and saves it as MP3.",
+            "categories": [
+                "audio",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/tts",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/tts/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geragarazagh/tts/main/docs/scene.webp"
+            ],
+            "official_site": "https://geragaraza.com/apps/tts/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
