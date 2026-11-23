@@ -21296,6 +21296,22 @@
                 "swift",
                 "go"
             ]
+        },
+        {
+            "title": "WE Budget",
+            "short_description": "Budget planner built around a payment calendar, with envelopes for money set aside and bank statement import.",
+            "categories": [
+                "finance"
+            ],
+            "repo_url": "https://github.com/JaffarSk24/WE-Budget",
+            "icon_url": "https://raw.githubusercontent.com/JaffarSk24/WE-Budget/main/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JaffarSk24/WE-Budget/main/docs/screenshots/overview.png"
+            ],
+            "official_site": "https://whiteeagles.sk/en/apps/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
