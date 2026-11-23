@@ -20461,6 +20461,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app for monitoring remote NVIDIA GPU servers over SSH with nvidia-smi.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/jaein4722/NVBeacon",
+            "title": "NVBeacon",
+            "icon_url": "https://raw.githubusercontent.com/jaein4722/NVBeacon/master/icon.png",
+            "screenshots": [],
+            "official_site": "https://jaein4722.github.io/NVBeacon/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
