@@ -165,6 +165,7 @@ class JSONApplication: Codable {
     var macOSVersion: String?  // Minimum macOS version required
     var appStoreID: String?    // Mac App Store ID for direct linking
     var deprecated: Bool?      // Mark if app is no longer maintained
+    var sourceAvailable: Bool? // Mark if the license is source-available, not OSI open source
     
     enum CodingKeys: String, CodingKey {
         case title
@@ -179,6 +180,7 @@ class JSONApplication: Codable {
         case macOSVersion = "macos_version"
         case appStoreID = "app_store_id"
         case deprecated
+        case sourceAvailable = "source_available"
     }
     
     init(title: String, iconURL: String, repoURL: String, shortDescription: String, languages: [String], screenshots: [String], categories: [String], officialSite: String, homebrewCask: String? = nil, macOSVersion: String? = nil, appStoreID: String? = nil, deprecated: Bool? = nil) {
@@ -398,6 +400,7 @@ extension String {
 extension JSONApplication {
     func markdownDescription() -> String {
         let deprecatedIndicator = (self.deprecated ?? false) ? " ⚠️ **[Deprecated]**" : ""
+        let sourceAvailableIndicator = (self.sourceAvailable ?? false) ? " ⚠️ **[Source-available, not OSI]**" : ""
         let macOSBadge = self.macOSVersion.map { " `(macOS \($0)+)`" } ?? ""
         let cleanSite = self.officialSite.trimmingCharacters(in: .whitespacesAndNewlines)
         let websiteLink = cleanSite.isEmpty ? "" : " ([Website](\(cleanSite)))"
@@ -405,7 +408,7 @@ extension JSONApplication {
         let languageTags = self.languages.map { "`\(normalizeLanguageName($0))`" }.joined(separator: " ")
         let languagesSuffix = languageTags.isEmpty ? "" : " — \(languageTags)"
         
-        return "- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(macOSBadge) - \(cleanDesc)\(websiteLink)\(languagesSuffix)\n"
+        return "- [\(self.title)](\(self.repoURL))\(deprecatedIndicator)\(sourceAvailableIndicator)\(macOSBadge) - \(cleanDesc)\(websiteLink)\(languagesSuffix)\n"
     }
 }
 

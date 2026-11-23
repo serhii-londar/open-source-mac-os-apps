@@ -767,7 +767,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. — `Swift`
 - [Preview3MF](https://github.com/cavoco/Preview3MF) - Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files. ([Website](https://cavoco.github.io/Preview3MF/)) — `Swift`
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers. — `Objective-C` `C`
-- [SaneClick](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools. ([Website](https://saneclick.com)) — `Swift`
+- [SaneClick](https://github.com/sane-apps/SaneClick) ⚠️ **[Source-available, not OSI]** - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools. ([Website](https://saneclick.com)) — `Swift`
 - [Shark - Better Finder](https://github.com/andronasef/shark) - Native file manager with tabs, split panes, a built-in terminal, and hover previews. ([Website](https://shark.andronasef.com)) — `Swift`
 - [Shuffle](https://github.com/WizenPainter/shuffle) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming. ([Website](https://shuffleapp.co)) — `Rust`
 - [Strata Files](https://github.com/cristipufu/strata-files) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. ([Website](https://stratafiles.app)) — `Swift`
@@ -1639,7 +1639,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [reshelf](https://github.com/aka-kika/reshelf) - Catalogs open-source GitHub repos on shelves, clones them by category, and shows when a clone has updates to pull. ([Website](https://aka-kika.github.io/reshelf/)) — `Swift`
 - [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. — `TypeScript` `Swift`
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher ([Website](https://rustcast.umangsurana.com)) — `Rust`
-- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
+- [SaneClip](https://github.com/sane-apps/SaneClip) ⚠️ **[Source-available, not OSI]** - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy. ([Website](https://sanesales.com)) — `Swift`
 - [SATF](https://github.com/tran-minh-khoi/SATF) - Drag a file, give it a little shake, and convert or copy it from a tiny radial menu. — `Swift`
 - [ScreenHint](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly. ([Website](https://screenhint.com)) — `Swift`
@@ -1763,8 +1763,8 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [QuickFaceBlur](https://github.com/plan-teddy/QuickFaceBlur) - Offline local AI desktop app that blurs every face in a group photo in 0.04s with eye-aligned bokeh, mosaic, selective unblur, and EXIF/GPS stripping. ([Website](https://github.com/plan-teddy/QuickFaceBlur/releases/latest)) — `Python`
 - [Ravenpass](https://github.com/dortanes/ravenpass) - Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required. ([Website](https://ravenpass.org)) — `Go` `TypeScript` `Swift`
 - [Recall](https://github.com/cnazk/recall-mac) - Local-first clipboard manager with on-device semantic search, two-factor codes, and credentials that delete themselves. ([Website](https://github.com/cnazk/recall-mac)) — `Swift`
-- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
-- [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
+- [SaneClip](https://github.com/sane-apps/SaneClip) ⚠️ **[Source-available, not OSI]** - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
+- [SaneHosts](https://github.com/sane-apps/SaneHosts) ⚠️ **[Source-available, not OSI]** - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal. — `Python`
 - [Swifty](https://github.com/swiftyapp/swifty) - Free and offline password manager. ([Website](https://getswifty.pro)) — `JavaScript`
 - [Triwarden](https://github.com/sinhong2011/triwarden) - Native Mac password manager for Vaultwarden and Bitwarden with Touch ID, AutoFill, and SSH agent. ([Website](https://triwarden.cc/)) — `Swift`
@@ -2281,9 +2281,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ([Website](https://swiftyfinch.github.io/en/2021-03-09-rugby-story/)) — `Swift`
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher ([Website](https://rustcast.umangsurana.com)) — `Rust`
 - [SaneBar](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers. ([Website](https://sanebar.com)) — `Swift`
-- [SaneClick](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools. ([Website](https://saneclick.com)) — `Swift`
-- [SaneClip](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
-- [SaneHosts](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
+- [SaneClick](https://github.com/sane-apps/SaneClick) ⚠️ **[Source-available, not OSI]** - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools. ([Website](https://saneclick.com)) — `Swift`
+- [SaneClip](https://github.com/sane-apps/SaneClip) ⚠️ **[Source-available, not OSI]** - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection. ([Website](https://saneclip.com)) — `Swift`
+- [SaneHosts](https://github.com/sane-apps/SaneHosts) ⚠️ **[Source-available, not OSI]** - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection. ([Website](https://sanehosts.com)) — `Swift`
 - [SaneSales](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy. ([Website](https://sanesales.com)) — `Swift`
 - [SATF](https://github.com/tran-minh-khoi/SATF) - Drag a file, give it a little shake, and convert or copy it from a tiny radial menu. — `Swift`
 - [Screen Capture](https://github.com/nasadunadu/screen-capture-macos) - Native, private-by-design macOS screenshot and scrolling long-capture utility with inline vector annotation and sticky-header/footer deduplication. ([Website](https://github.com/nasadunadu/screen-capture-macos/releases/latest)) — `Swift`
