@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1160-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1161-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1160 |
+| 📱 Total Applications | 1161 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 627 • Objective-C: 144 • JavaScript: 134 • TypeScript: 134 • Rust: 104 |
+| 🔝 Top Languages | Swift: 628 • Objective-C: 144 • TypeScript: 134 • JavaScript: 134 • Rust: 104 |
 
 ## Contents
 - [Audio](#audio)
@@ -774,7 +774,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (232)
+### 📊 Menubar (233)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -883,6 +883,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app for Claude Code and Codex: live status of every session, weekly and five-hour usage limits, desktop widgets and activity statistics. ([Website](https://lovach.github.io/Lunavect/)) — `Swift`
 - [Lurar](https://github.com/lsjoberg/lurar) - Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver. ([Website](https://lurar.app/)) — `Swift`
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling. ([Website](https://yudaotor.github.io/lyrimuse/)) — `Swift` `Go`
+- [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu-bar system monitor for RAM, CPU, network and disk that tracks memory pressure. — `Swift`
 - [MAC-LIMPO](https://github.com/alexkads/MAC-LIMPO) - Menu bar disk cleaner for developers (Xcode, Docker, simulators, node_modules and 40+ caches) with a fast disk usage treemap in 2D and 3D. ([Website](https://alexkads.github.io/MAC-LIMPO/)) — `Swift`
 - [MacFanPro](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI. ([Website](https://github.com/macfanpro/macfanpro)) — `Swift`
 - [MacNTop](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics. ([Website](https://github.com/CorvidLabs/MacNTop)) — `Swift`
@@ -1424,7 +1425,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 
-### ⚙️ System (68)
+### ⚙️ System (69)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1458,6 +1459,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [LidAwake](https://github.com/Vladimir-Podgornyi/LidAwake) - Menu bar app that keeps your Mac awake, even with the lid closed, and stops by itself on overheating, low battery or a timer. ([Website](https://github.com/Vladimir-Podgornyi/LidAwake)) — `Swift`
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS. — `Objective-C`
 - [Mac Android Subsystem](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on Apple silicon Macs, each in its own window with its own Dock icon, notifications and controller support. ([Website](https://harkhowalia-1.github.io/MacSubsystemForAndroid/)) — `Swift`
+- [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu-bar system monitor for RAM, CPU, network and disk that tracks memory pressure. — `Swift`
 - [Mac Sai](https://github.com/iliyami/MacSai) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. ([Website](https://github.com/iliyami/MacSai)) — `Swift`
 - [MAC-LIMPO](https://github.com/alexkads/MAC-LIMPO) - Menu bar disk cleaner for developers (Xcode, Docker, simulators, node_modules and 40+ caches) with a fast disk usage treemap in 2D and 3D. ([Website](https://alexkads.github.io/MAC-LIMPO/)) — `Swift`
 - [MacDirStat](https://github.com/phalladar/MacDirStat) - Disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. ([Website](https://github.com/phalladar/MacDirStat)) — `Swift`
@@ -1542,7 +1544,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (295)
+### 🛠️ Utilities (296)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1686,6 +1688,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays. — `Swift`
 - [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app for Claude Code and Codex: live status of every session, weekly and five-hour usage limits, desktop widgets and activity statistics. ([Website](https://lovach.github.io/Lunavect/)) — `Swift`
 - [Mac Android Subsystem](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on Apple silicon Macs, each in its own window with its own Dock icon, notifications and controller support. ([Website](https://harkhowalia-1.github.io/MacSubsystemForAndroid/)) — `Swift`
+- [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - Lightweight menu-bar system monitor for RAM, CPU, network and disk that tracks memory pressure. — `Swift`
 - [Mac Sai](https://github.com/iliyami/MacSai) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. ([Website](https://github.com/iliyami/MacSai)) — `Swift`
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler. — `Swift`
 - [MacDirStat](https://github.com/phalladar/MacDirStat) - Disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. ([Website](https://github.com/phalladar/MacDirStat)) — `Swift`
