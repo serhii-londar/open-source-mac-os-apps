@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1229-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1231-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1229 |
+| 📱 Total Applications | 1231 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 682 • TypeScript: 144 • Objective-C: 144 • JavaScript: 138 • Rust: 113 |
+| 🔝 Top Languages | Swift: 682 • TypeScript: 145 • Objective-C: 144 • JavaScript: 138 • Rust: 115 |
 
 ## Contents
 - [Audio](#audio)
@@ -98,7 +98,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (93)
+### 🎵 Audio (94)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. — `Objective-C` `C`
 - [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP. ([Website](https://geiserx.github.io/akou/)) — `TypeScript` `Rust`
 - [Amical](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
@@ -191,6 +191,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voicely](https://github.com/StulkovLD/Voicely) - Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model. ([Website](https://voicely.art)) — `Swift`
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device. — `Swift`
+- [Wavo](https://github.com/vladkens/wavo-app) - Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview. — `Rust`
 - [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
 
 ### 💾 Backup (11)
@@ -293,7 +294,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (97)
+### 👨‍💻 Development (98)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -353,6 +354,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [mu](https://github.com/qybaihe/mu) - Coding agent with a CLI and a desktop app, in which a small, fast judge model makes routine decisions such as what enters the context and whether a command is safe. ([Website](https://usemu.dev)) — `TypeScript`
 - [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Runs coding agents in a Linux micro-VM on a copy-on-write clone of your project and lets you review and apply their changes like a pull request. ([Website](https://github.com/Kernel-Hunter/mudroom)) — `Swift`
 - [Muster](https://github.com/josefchen/muster) - Menu bar app that monitors Claude Code, Codex and Cursor sessions, answers Claude Code and Codex permission prompts from alerts, and switches sessions with Option-Tab. ([Website](https://agentmuster.app)) — `Swift`
+- [Muxflow](https://github.com/gal064/muxflow) - Remote-first tmux IDE for coding agents, with agent notifications, voice replies, screenshot paste over SSH, multi-host, ports, files and Git. ([Website](https://gal064.github.io/muxflow/)) — `Rust` `TypeScript`
 - [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs. ([Website](https://nextpad.org)) — `C++` `Objective-C`
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud. ([Website](https://getoffgridai.co/)) — `TypeScript`
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit. ([Website](https://github.com/ateymoori/oh-my-android)) — `Swift`
@@ -815,7 +817,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (255)
+### 📊 Menubar (256)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -1062,6 +1064,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Vortex](https://github.com/OrtexIsArtem/vortex) - Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them. ([Website](https://vortex-notch.web.app)) — `Swift`
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [Vuvuzela](https://github.com/TadelUnso/vuvuzela) - FIFA World Cup 2026 desktop widget with live scores, group standings, and the knockout bracket. ([Website](https://github.com/TadelUnso/vuvuzela)) — `Swift`
+- [Wavo](https://github.com/vladkens/wavo-app) - Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview. — `Rust`
 - [WhatCable](https://github.com/darrylmorley/whatcable) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar. ([Website](https://whatcable.uk)) — `Swift`
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews. ([Website](https://nathan-poncet.github.io/whisk/)) — `Swift`
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking. ([Website](https://wifi-lens.shiinalabs.com)) — `Swift`
@@ -1202,7 +1205,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (229)
+### ⏱️ Productivity (230)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1420,6 +1423,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
 - [Vortex](https://github.com/OrtexIsArtem/vortex) - Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them. ([Website](https://vortex-notch.web.app)) — `Swift`
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking. — `Python`
+- [Wavo](https://github.com/vladkens/wavo-app) - Free dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. No webview. — `Rust`
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. — `JavaScript`
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews. ([Website](https://nathan-poncet.github.io/whisk/)) — `Swift`
 - [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
@@ -1592,7 +1596,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voltio](https://github.com/Mohit-Sharma-ML/voltio) - Native macOS menu bar battery monitor with live power-flow visualization, connected-device battery tracking, charge-limit status, and desktop widgets. ([Website](https://github.com/Mohit-Sharma-ML/voltio)) — `Swift`
 - [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ([Website](https://www.wireshark.org/)) — `C` `C++`
 
-### 📺 Terminal (39)
+### 📺 Terminal (40)
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. — `Rust`
 - [Aster](https://github.com/OpenFabrica/aster) - Native macOS terminal workspace built with AppKit and Ghostty, with recursive splits, file browsing, and previews. ([Website](https://aster.foo/)) — `Swift`
@@ -1613,6 +1617,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper. — `Shell`
 - [Mercury CLI](https://github.com/Whq02/MercuryCLI) - Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models. ([Website](https://mercury-cli.ai)) — `TypeScript`
 - [Mole](https://github.com/tw93/Mole) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. ([Website](https://mole.fit)) — `Shell`
+- [Muxflow](https://github.com/gal064/muxflow) - Remote-first tmux IDE for coding agents, with agent notifications, voice replies, screenshot paste over SSH, multi-host, ports, files and Git. ([Website](https://gal064.github.io/muxflow/)) — `Rust` `TypeScript`
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. — `Swift`
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app. — `Swift`
 - [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from the macOS terminal: storage, apps, media, syslog. No jailbreak. — `Rust`
