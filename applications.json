@@ -20345,6 +20345,21 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "WE KeySwitcher",
+            "short_description": "Menu bar tool that retypes text entered in the wrong keyboard layout and switches the layout, for Russian, English and Slovak.",
+            "categories": [
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/JaffarSk24/WE-KeySwitcher",
+            "icon_url": "https://raw.githubusercontent.com/JaffarSk24/WE-KeySwitcher/main/Resources/icon/AppIcon-1024.png",
+            "screenshots": [],
+            "official_site": "https://whiteeagles.sk/en/apps/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
