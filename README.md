@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1247-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1249-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1247 |
+| 📱 Total Applications | 1249 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 695 • TypeScript: 146 • Objective-C: 145 • JavaScript: 140 • Rust: 116 |
+| 🔝 Top Languages | Swift: 697 • TypeScript: 146 • Objective-C: 145 • JavaScript: 140 • Rust: 116 |
 
 ## Contents
 - [Audio](#audio)
@@ -825,7 +825,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (262)
+### 📊 Menubar (264)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -865,6 +865,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Carbon](https://github.com/AlexDemzz/carbon) - Menu bar app that transcribes your meetings on device and saves each one as a Markdown file, with no bot and no cloud. ([Website](https://carbon.alexandrejoly.me)) — `Swift`
 - [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
 - [ccx](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
+- [Chime 4 Breakfast](https://github.com/onekapisch/chime-4-breakfast) - Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention. ([Website](https://www.onekapisch.com/products/chime-4-breakfast/)) — `Swift`
 - [Claude Statistics](https://github.com/sj719045032/claude-statistics) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time. ([Website](https://claudestatistics.vercel.app/)) — `Swift`
 - [Claude Usage](https://github.com/Bread-bang/claude-usage) - Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits. ([Website](https://github.com/Bread-bang/claude-usage)) — `Swift`
 - [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers. ([Website](https://github.com/theDanButuc/Claude-Usage-Monitor)) — `Swift`
@@ -902,6 +903,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. — `Swift`
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path and size before removing anything. ([Website](https://toprak.sh/dusty/)) — `Swift`
 - [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams. — `Swift`
+- [Easy Write](https://github.com/onekapisch/easy-write) - Menu bar app that translates and rewrites selected text in place with on-device Apple Intelligence, in a formal or informal tone. ([Website](https://www.onekapisch.com/products/easy-write/)) — `Swift`
 - [EK Bridge](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change. ([Website](https://github.com/bereciartua/ek-bridge)) — `Swift`
 - [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI. — `Swift`
 - [Fader](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. ([Website](https://fader.pantafive.dev)) — `Swift`
@@ -1220,7 +1222,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (234)
+### ⏱️ Productivity (235)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1276,6 +1278,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [DSH Desk Pet](https://github.com/anneheartrecord/dsh-desk-pet) - Desktop pet that mirrors your coding agent's state, with skins generated from a photo of your own pet. ([Website](https://github.com/anneheartrecord/dsh-desk-pet)) — `Python`
 - [Earnote](https://github.com/louiskl/Earnote) - Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model. ([Website](https://earnote.dev)) — `Swift`
 - [Earshot](https://github.com/Bouliw/earshot) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams. — `Swift`
+- [Easy Write](https://github.com/onekapisch/easy-write) - Menu bar app that translates and rewrites selected text in place with on-device Apple Intelligence, in a formal or informal tone. ([Website](https://www.onekapisch.com/products/easy-write/)) — `Swift`
 - [EK Bridge](https://github.com/bereciartua/ek-bridge) - Menu bar app that lets AI agents such as Claude, Codex and Cursor use only the calendars and reminder lists you choose, over MCP, and asks you before each change. ([Website](https://github.com/bereciartua/ek-bridge)) — `Swift`
 - [encore](https://github.com/Kamasoutra/encore) - Native clipboard manager with a visual shelf, searchable library, snippets and end-to-end encrypted Mac-to-Mac sharing. ([Website](https://kamasoutra.github.io/encore/)) — `Swift`
 - [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ([Website](https://espanso.org)) — `Rust`
