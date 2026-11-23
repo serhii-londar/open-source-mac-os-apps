@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 77,
+    "audio" : 78,
     "backup" : 9,
     "browser" : 18,
     "chat" : 25,
@@ -18,7 +18,7 @@
     "git" : 23,
     "graphics" : 19,
     "ide" : 16,
-    "images" : 22,
+    "images" : 23,
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
@@ -32,7 +32,7 @@
     "notes" : 25,
     "other" : 25,
     "Other" : 1,
-    "other-development" : 10,
+    "other-development" : 11,
     "player" : 8,
     "podcast" : 6,
     "productivity" : 111,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 30
   },
-  "generated_at" : "2026-11-23T08:50:48Z",
-  "total_apps" : 1134,
+  "generated_at" : "2026-11-23T08:51:16Z",
+  "total_apps" : 1137,
   "total_categories" : 49
 }
