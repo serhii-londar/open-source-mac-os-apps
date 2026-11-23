@@ -21122,6 +21122,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OCR",
+            "short_description": "Screen text recognition: the text of any selected area of the screen is copied to the clipboard.",
+            "categories": [
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/geragarazagh/ocr",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/ocr/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "https://geragaraza.com/apps/ocr/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
