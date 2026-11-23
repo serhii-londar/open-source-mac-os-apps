@@ -20378,6 +20378,20 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Flipic",
+            "short_description": "Photo culling viewer for photographers: arrow-key paging through a folder, 100% focus check, XMP ratings Lightroom reads, on-device cleanup mode.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/xmasdong/flipic",
+            "icon_url": "https://flipic.app/icon-256.png",
+            "screenshots": [],
+            "official_site": "https://flipic.app/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
