@@ -32,7 +32,7 @@
     "notes" : 26,
     "other" : 25,
     "Other" : 1,
-    "other-development" : 11,
+    "other-development" : 12,
     "player" : 8,
     "podcast" : 6,
     "productivity" : 117,
@@ -48,13 +48,13 @@
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 128,
-    "video" : 30,
+    "video" : 31,
     "vpn--proxy" : 8,
     "wallpaper" : 19,
     "web-development" : 15,
     "window-management" : 34
   },
-  "generated_at" : "2026-11-23T09:43:41Z",
-  "total_apps" : 1212,
+  "generated_at" : "2026-11-23T09:44:26Z",
+  "total_apps" : 1214,
   "total_categories" : 49
 }
