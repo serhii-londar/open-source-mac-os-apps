@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1195-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1196-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1195 |
+| 📱 Total Applications | 1196 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 656 • Objective-C: 144 • TypeScript: 138 • JavaScript: 134 • Rust: 108 |
+| 🔝 Top Languages | Swift: 657 • Objective-C: 144 • TypeScript: 138 • JavaScript: 134 • Rust: 108 |
 
 ## Contents
 - [Audio](#audio)
@@ -791,7 +791,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (242)
+### 📊 Menubar (243)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -1024,6 +1024,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voicely](https://github.com/StulkovLD/Voicely) - Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model. ([Website](https://voicely.art)) — `Swift`
 - [Voltio](https://github.com/Mohit-Sharma-ML/voltio) - Native macOS menu bar battery monitor with live power-flow visualization, connected-device battery tracking, charge-limit status, and desktop widgets. ([Website](https://github.com/Mohit-Sharma-ML/voltio)) — `Swift`
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
+- [Vortex](https://github.com/OrtexIsArtem/vortex) - Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them. ([Website](https://vortex-notch.web.app)) — `Swift`
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [Vuvuzela](https://github.com/TadelUnso/vuvuzela) - FIFA World Cup 2026 desktop widget with live scores, group standings, and the knockout bracket. ([Website](https://github.com/TadelUnso/vuvuzela)) — `Swift`
 - [WhatCable](https://github.com/darrylmorley/whatcable) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar. ([Website](https://whatcable.uk)) — `Swift`
@@ -1161,7 +1162,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (221)
+### ⏱️ Productivity (222)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1371,6 +1372,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Vocula](https://github.com/vitaly-kashtalyan/vocula) - Hold-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor. ([Website](https://vocula.app)) — `Swift`
 - [Voicely](https://github.com/StulkovLD/Voicely) - Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model. ([Website](https://voicely.art)) — `Swift`
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
+- [Vortex](https://github.com/OrtexIsArtem/vortex) - Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them. ([Website](https://vortex-notch.web.app)) — `Swift`
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking. — `Python`
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. — `JavaScript`
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews. ([Website](https://nathan-poncet.github.io/whisk/)) — `Swift`
@@ -1588,7 +1590,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (307)
+### 🛠️ Utilities (308)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1884,6 +1886,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Unison UI for macOS](https://github.com/bcourbage/unison-ui-mac) - Native macOS GUI for the Unison file synchronizer, with two-way sync over SSH and conflict review. ([Website](https://bcourbage.github.io/unison-ui-mac/)) — `Swift`
 - [UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac. ([Website](https://github.com/HMAKT99/UnTouchID)) — `Swift` `C`
 - [Vitals](https://github.com/slawek19926/Vitals) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health. ([Website](https://github.com/slawek19926/Vitals)) — `Swift` `C++`
+- [Vortex](https://github.com/OrtexIsArtem/vortex) - Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them. ([Website](https://vortex-notch.web.app)) — `Swift`
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [Wave Subs](https://github.com/jason-jm/wavesubs) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline. ([Website](https://wavesubs.com)) — `TypeScript`
 - [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ([Website](https://wechsel.weise.io)) — `Swift`
