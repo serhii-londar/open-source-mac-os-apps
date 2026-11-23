@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1249-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1250-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1249 |
+| 📱 Total Applications | 1250 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 697 • TypeScript: 146 • Objective-C: 145 • JavaScript: 140 • Rust: 116 |
+| 🔝 Top Languages | Swift: 697 • TypeScript: 147 • Objective-C: 145 • JavaScript: 140 • Rust: 117 |
 
 ## Contents
 - [Audio](#audio)
@@ -743,7 +743,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor ([Website](https://zed.dev)) — `Rust`
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines. — `Lua`
 
-### 🖼️ Images (37)
+### 🖼️ Images (38)
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. — `Swift`
 - [Arras](https://github.com/yashashwi-s/Arras) - Desktop photo widgets and editable collages with slideshows and adjustable layers. ([Website](https://tryarras.tech/)) — `Swift`
 - [Convertino](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it: images, PDF, video, OCR and offline background removal. — `C#`
@@ -765,6 +765,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Katana](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar. — `JavaScript` `CSS`
 - [Krita](https://invent.kde.org/graphics/krita) - Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations. ([Website](https://krita.org/en/)) — `C++` `Python` `C`
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom) - Digital darkroom and RAW developer with physically modelled film stock simulation. ([Website](https://lighttable.app)) — `Python` `Rust` `Swift`
+- [LocalSR](https://github.com/HerRei/local-upscale) - Upscale, denoise and restore photos and videos on your own computer with current AI models. ([Website](https://herrei.github.io/localsr/)) — `Rust` `TypeScript` `Python`
 - [Louppe](https://github.com/murlexander/louppe-media-culler) - Photo viewer and sorter for browsing JPEG and RAW folders without a library import, choosing keepers with the keyboard, and copying them to another folder. ([Website](https://louppe.eu/)) — `Swift`
 - [LumaView](https://github.com/ixiehao/LumaView) - Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs. ([Website](https://ixiehao.github.io/LumaView/en/)) — `Swift`
 - [P-Pass](https://github.com/hawkeye-xb/P-Pass) - Phones back up photos automatically to this Mac, with no account and no cloud storage. ([Website](https://p-pass.hawkeye-xb.com)) — `Rust` `TypeScript`
@@ -2013,7 +2014,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (50)
+### 🎬 Video (51)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
@@ -2030,6 +2031,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [IPTVMac](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. ([Website](https://goelir.github.io/IPTVMac/)) — `Swift`
 - [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio) - Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk. ([Website](https://jutsustudio.com/)) — `Swift`
 - [Kaset](https://github.com/sozercan/kaset) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI. ([Website](https://github.com/sozercan/kaset)) — `Swift`
+- [LocalSR](https://github.com/HerRei/local-upscale) - Upscale, denoise and restore photos and videos on your own computer with current AI models. ([Website](https://herrei.github.io/localsr/)) — `Rust` `TypeScript` `Python`
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding. ([Website](https://mifi.no/losslesscut/)) — `JavaScript`
 - [Mac Classic Player](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic. ([Website](https://mcp.kkweb.io/)) — `Rust` `TypeScript`
 - [Mac TV](https://github.com/Arunprakaash/mac-tv) - Turn a Mac into an Apple TV-style box with a tvOS-style home screen, streaming apps at full quality and your phone as the remote. ([Website](https://arunprakaash.github.io/mac-tv/)) — `Swift`
