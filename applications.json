@@ -17597,6 +17597,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Pilion",
+            "short_description": "Open-source desktop browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and takeover.",
+            "categories": [
+                "browser",
+                "development"
+            ],
+            "repo_url": "https://github.com/echoVic/pilion-browser",
+            "icon_url": "https://pilion.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://pilion.echovic.com/assets/web/pilion-agent-spaces.png"
+            ],
+            "official_site": "https://pilion.echovic.com/en/",
+            "languages": [
+                "typescript",
+                "javascript"
+            ]
         }
     ]
 }
