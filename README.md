@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1261-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1263-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1261 |
+| 📱 Total Applications | 1263 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 705 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
+| 🔝 Top Languages | Swift: 707 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 119 |
 
 ## Contents
 - [Audio](#audio)
@@ -833,7 +833,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (268)
+### 📊 Menubar (270)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -874,6 +874,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
 - [ccx](https://github.com/aaronwong1999/ccx) - Menu bar app that hands a Claude Code session to Codex (and back) with the full context, so you keep working when one side hits its usage limit. ([Website](https://github.com/aaronwong1999/ccx)) — `Swift` `Python`
 - [Chime 4 Breakfast](https://github.com/onekapisch/chime-4-breakfast) - Menu bar app that plays a sound, glows the screen edge or shows a banner when a Codex or Claude Desktop response finishes or needs your attention. ([Website](https://www.onekapisch.com/products/chime-4-breakfast/)) — `Swift`
+- [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Menu bar app that switches the Claude desktop app between your accounts with one click, without losing sessions. — `Swift` `Python`
 - [Claude Statistics](https://github.com/sj719045032/claude-statistics) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time. ([Website](https://claudestatistics.vercel.app/)) — `Swift`
 - [Claude Usage](https://github.com/Bread-bang/claude-usage) - Menu bar app that shows your Claude Code usage — current session, weekly, Sonnet, and credits. ([Website](https://github.com/Bread-bang/claude-usage)) — `Swift`
 - [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers. ([Website](https://github.com/theDanButuc/Claude-Usage-Monitor)) — `Swift`
@@ -917,6 +918,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Fader](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. ([Website](https://fader.pantafive.dev)) — `Swift`
 - [FanPilot](https://github.com/zyvren/FanPilot) - Fan control and temperature monitor for Apple Silicon Macs, with Auto Boost rules, custom curves, a fail-safe helper and a CLI. — `Swift`
 - [Featherbar](https://github.com/nim444/featherbar) - Featherweight menu bar system monitor showing CPU, RAM, power, and temperature in two color-coded lines. ([Website](https://crates.io/crates/featherbar)) — `Rust`
+- [FixStat](https://github.com/Lapsely/fixstat) - Menu bar monitor and diagnostics for Mac repair technicians: per-model sensor names, battery cell data, SSD SMART, panic history and hardware tests. ([Website](https://lapsely.github.io/fixstat/)) — `Swift`
 - [FlowPeek](https://github.com/FlowPeek/flowpeek) - Previews the Mermaid diagram already on screen, read from a selection, the clipboard, the block under the pointer, or a file. ([Website](https://flowpeek.github.io/flowpeek/)) — `Swift`
 - [Frost](https://github.com/frostbar/frost) - Menu bar manager that shows icons hidden by the MacBook notch in a drop-down panel. — `Swift`
 - [ftop](https://github.com/Nongfsq/ftop) - Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network. ([Website](https://github.com/Nongfsq/ftop)) — `Swift`
@@ -1564,7 +1566,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 
-### ⚙️ System (77)
+### ⚙️ System (78)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1590,6 +1592,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center. — `Objective-C`
 - [FanPilot](https://github.com/zyvren/FanPilot) - Fan control and temperature monitor for Apple Silicon Macs, with Auto Boost rules, custom curves, a fail-safe helper and a CLI. — `Swift`
 - [Featherbar](https://github.com/nim444/featherbar) - Featherweight menu bar system monitor showing CPU, RAM, power, and temperature in two color-coded lines. ([Website](https://crates.io/crates/featherbar)) — `Rust`
+- [FixStat](https://github.com/Lapsely/fixstat) - Menu bar monitor and diagnostics for Mac repair technicians: per-model sensor names, battery cell data, SSD SMART, panic history and hardware tests. ([Website](https://lapsely.github.io/fixstat/)) — `Swift`
 - [ftop](https://github.com/Nongfsq/ftop) - Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network. ([Website](https://github.com/Nongfsq/ftop)) — `Swift`
 - [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard. ([Website](https://hardviz.com/)) — `Rust` `TypeScript`
 - [Headroom](https://github.com/Ryware/Headroom) - Fast disk space analyzer with a folder tree, treemap, duplicate finder and Safe / Caution / Never verdicts for caches and developer junk. ([Website](https://headroom-app.org)) — `Swift`
@@ -1696,7 +1699,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (326)
+### 🛠️ Utilities (328)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1750,6 +1753,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. — `Swift`
 - [CC Switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents. ([Website](https://ccswitch.io)) — `Rust` `TypeScript`
 - [Cellar](https://github.com/tuhage/Cellar) - Homebrew manager for formulae, casks, and services that previews what brew will change before it runs. ([Website](https://github.com/tuhage/Cellar)) — `Swift`
+- [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Menu bar app that switches the Claude desktop app between your accounts with one click, without losing sessions. — `Swift` `Python`
 - [Claude Statistics](https://github.com/sj719045032/claude-statistics) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time. ([Website](https://claudestatistics.vercel.app/)) — `Swift`
 - [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers. ([Website](https://github.com/theDanButuc/Claude-Usage-Monitor)) — `Swift`
 - [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking. ([Website](https://claudoscope.com/)) — `Swift`
@@ -1790,6 +1794,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Featherbar](https://github.com/nim444/featherbar) - Featherweight menu bar system monitor showing CPU, RAM, power, and temperature in two color-coded lines. ([Website](https://crates.io/crates/featherbar)) — `Rust`
 - [File Architect](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions. ([Website](https://filearchitect.com)) — `TypeScript` `Rust`
 - [FinderRight](https://github.com/funny-dog/FinderRight) - Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu, featuring a beautiful, modern interface. ([Website](https://finderright.erhutech.com/)) — `Swift`
+- [FixStat](https://github.com/Lapsely/fixstat) - Menu bar monitor and diagnostics for Mac repair technicians: per-model sensor names, battery cell data, SSD SMART, panic history and hardware tests. ([Website](https://lapsely.github.io/fixstat/)) — `Swift`
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux. ([Website](https://adequate.systems/)) — `Go`
 - [FolderForge](https://github.com/KeplSiv/FolderForge) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling. ([Website](https://folder-forge.vercel.app/)) — `Swift`
 - [Folderglass](https://github.com/justadityaraj/folderglass) - Quick Look extension for folders: real size including subfolders, file-type breakdown, largest and newest files, git branch and status, and the README rendered inline. Also previews zip contents and Markdown. ([Website](https://dev.adityarajsingh.com/folderglass/)) — `Swift`
