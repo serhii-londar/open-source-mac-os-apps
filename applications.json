@@ -22482,6 +22482,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native keyboard launcher for macOS with app and file search, clipboard history, and system actions.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Acckion/Keylane",
+            "title": "Keylane",
+            "icon_url": "https://raw.githubusercontent.com/Acckion/Keylane/main/website/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Acckion/Keylane/main/website/assets/calculator.png",
+                "https://raw.githubusercontent.com/Acckion/Keylane/main/website/assets/emoji.png"
+            ],
+            "official_site": "https://acckion.github.io/Keylane/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
