@@ -19969,6 +19969,25 @@
                 "rust"
             ],
             "macos_version": "15"
+        },
+        {
+            "title": "Vortex",
+            "short_description": "Turns the MacBook notch into a focus timer, clipboard history and a file shelf that catches new builds, with tasks taken from the screen with OCR and keys Claude Code can use without seeing them.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/OrtexIsArtem/vortex",
+            "icon_url": "https://raw.githubusercontent.com/OrtexIsArtem/vortex/main/site/public/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/OrtexIsArtem/vortex/main/.github/media/hero.gif",
+                "https://raw.githubusercontent.com/OrtexIsArtem/vortex/main/.github/media/keys.gif"
+            ],
+            "official_site": "https://vortex-notch.web.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
