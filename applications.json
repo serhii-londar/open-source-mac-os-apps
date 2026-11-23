@@ -22664,6 +22664,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OmegaStar",
+            "short_description": "Turns the Claude Code you already use, with its browser, models and logins, into a team of AI employees with scoped objectives, who learn by talking and keep each lesson as a skill.",
+            "categories": [
+                "productivity",
+                "development"
+            ],
+            "repo_url": "https://github.com/itsfutsy/OmegaStar",
+            "icon_url": "https://raw.githubusercontent.com/itsfutsy/OmegaStar/master/src-tauri/icons/128x128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/itsfutsy/OmegaStar/master/.github/assets/banner.png"
+            ],
+            "official_site": "https://abramindustries.com/#omega-star",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
