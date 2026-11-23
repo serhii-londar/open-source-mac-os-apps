@@ -18565,6 +18565,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "SeshBuddy",
+            "short_description": "Desktop workbench and session explorer for AI coding agents (Claude Code, OpenCode, Codex).",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/huangy7/seshbuddy",
+            "icon_url": "https://raw.githubusercontent.com/huangy7/seshbuddy/main/src/assets/mascot.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/huangy7/seshbuddy/main/assets/screenshot-main.png"
+            ],
+            "official_site": "https://seshbuddy.huangy.top",
+            "languages": [
+                "rust",
+                "vue",
+                "typescript"
+            ]
         }
     ]
 }
