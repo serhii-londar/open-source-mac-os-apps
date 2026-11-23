@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1278-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1280-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1278 |
+| 📱 Total Applications | 1280 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 717 • TypeScript: 150 • Objective-C: 145 • JavaScript: 141 • Rust: 122 |
+| 🔝 Top Languages | Swift: 719 • TypeScript: 151 • Objective-C: 145 • JavaScript: 141 • Rust: 123 |
 
 ## Contents
 - [Audio](#audio)
@@ -237,7 +237,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Vane](https://github.com/notnaki/vane) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later. ([Website](https://notnaki.github.io/vane/)) — `Swift`
 - [Yalqen](https://github.com/YSamed/yalqen) - Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking. ([Website](https://yalqen.com)) — `TypeScript`
 
-### 💬 Chat (31)
+### 💬 Chat (32)
 - [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ([Website](https://adium.im/)) — `C`
 - [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption. ([Website](https://beagle.im/)) — `Swift`
 - [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web. — `Objective-C`
@@ -267,6 +267,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. — `Objective-C`
 - [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client. ([Website](https://www.thunderbird.net/en-US/)) — `C++` `JavaScript` `Rust`
 - [Torchat-Mac](https://github.com/javerous/TorChat-Mac) - TorChat for Mac is a macOS native and unofficial port of torchat. — `Objective-C`
+- [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) - Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs. ([Website](https://github.com/drumih/turbo-fieldfare)) — `Swift` `Metal`
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar. — `Swift`
 - [Wire Desktop](https://github.com/wireapp/wire-desktop) - Standalone Electron app for the chatapp Wire. — `JavaScript`
 
@@ -302,7 +303,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (105)
+### 👨‍💻 Development (106)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -312,6 +313,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ([Website](https://netbeans.apache.org/)) — `Java`
 - [Blave Agent](https://github.com/Blave-TW/blave-agent) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges. ([Website](https://blave.org)) — `Python` `JavaScript`
 - [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ([Website](https://brackets.io/)) — `JavaScript`
+- [Brigade](https://github.com/gmpetrov/brigade) - Open-source app that runs a team of AI teammates for support, marketing, sales and code, each one Claude Code or Codex signed in with your own Claude or ChatGPT plan. ([Website](https://www.brigade.lol)) — `TypeScript` `Rust` `Swift`
 - [Caprock](https://github.com/dspv/caprock) - Desktop app that runs Claude Code, Codex, OpenCode and Gemini CLI side by side and shows what every session and pull request costs, read from the agents' local logs. ([Website](https://caprock.dev)) — `Go` `TypeScript` `Rust`
 - [CC Switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents. ([Website](https://ccswitch.io)) — `Rust` `TypeScript`
 - [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) - Menu bar app to switch between multiple Claude Code accounts in one click and monitor their usage. ([Website](https://github.com/XueshiQiao/CCSwitcher)) — `Swift`
@@ -1247,7 +1249,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (246)
+### ⏱️ Productivity (247)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1268,6 +1270,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography ([Website](https://bibdesk.sourceforge.io)) — `Objective-C`
 - [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux. ([Website](https://blinkeye.vercel.app/)) — `TypeScript` `Rust`
 - [Blurt](https://github.com/AssemblyAI/blurt) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key). ([Website](https://www.assemblyai.com/blurt)) — `Swift`
+- [Brigade](https://github.com/gmpetrov/brigade) - Open-source app that runs a team of AI teammates for support, marketing, sales and code, each one Claude Code or Codex signed in with your own Claude or ChatGPT plan. ([Website](https://www.brigade.lol)) — `TypeScript` `Rust` `Swift`
 - [Brink](https://github.com/StepanBlaha/Brink) - A notch on your screen edge that keeps your Notion pages and tasks one hover away. ([Website](https://brinknotch.site)) — `Swift`
 - [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes. ([Website](https://github.com/designsbymuzeer/Bye-Mac-App)) — `Swift`
 - [Bzz](https://github.com/zlopixatel/bzz) - Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like "ghbdtn" and replaces with "привет" on the fly. Open-source replacement for the abandoned Punto Switcher. ([Website](https://github.com/zlopixatel/bzz)) — `Go`
