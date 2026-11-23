@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Records calls in any app without a bot and transcribes them on device in 25 languages, with speaker labels, summaries and dictation.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/neurendal/bandje",
+            "title": "Band·je",
+            "icon_url": "https://band.je/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/neurendal/bandje/main/.github/readme/mac-04-window-light.webp"
+            ],
+            "official_site": "https://band.je/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
