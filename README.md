@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1198-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1200-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1198 |
+| 📱 Total Applications | 1200 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 659 • Objective-C: 144 • TypeScript: 138 • JavaScript: 134 • Rust: 108 |
+| 🔝 Top Languages | Swift: 660 • Objective-C: 144 • TypeScript: 139 • JavaScript: 134 • Rust: 109 |
 
 ## Contents
 - [Audio](#audio)
@@ -98,7 +98,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (88)
+### 🎵 Audio (89)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. — `Objective-C` `C`
 - [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP. ([Website](https://geiserx.github.io/akou/)) — `TypeScript` `Rust`
 - [Amical](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
@@ -140,6 +140,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing. — `Objective-C` `Swift`
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. — `Swift`
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling. ([Website](https://yudaotor.github.io/lyrimuse/)) — `Swift` `Go`
+- [MacroSIP](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. — `Swift` `Objective-C`
 - [Mooziac](https://github.com/shirkeharsh/mooziac) - Lightweight native macOS menu bar player for YouTube Music and local audio with trackpad gestures. ([Website](https://mooziac.pages.dev)) — `Swift`
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. — `C++`
@@ -518,7 +519,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses. — `JavaScript`
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. — `Swift`
 
-### 📝 Editors (18)
+### 📝 Editors (19)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. ([Website](https://auroraeditor.com)) — `Swift`
 - [Backtickle](https://github.com/masud90/backtickle) - Markdown reader and editor with side-by-side preview, six flavors, math, Mermaid diagrams, citations and PDF/Word export. ([Website](https://masud90.github.io/backtickle/)) — `TypeScript` `Rust`
 - [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS ([Website](https://www.chimehq.com/)) — `Swift`
@@ -534,6 +535,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables. ([Website](https://github.com/maxnd/mxMarkEdit)) — `Free-Pascal`
 - [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs. ([Website](https://nextpad.org)) — `C++` `Objective-C`
 - [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) - A local-first workspace where you and your AI work on the same files. ([Website](https://www.puppyone.ai)) — `TypeScript`
+- [Sarala](https://github.com/solancer/sarala) - WYSIWYG Markdown editor that renders in place with no preview pane, with Mermaid and D2 diagrams, math and offline voice typing. ([Website](https://sarala.solancer.com)) — `TypeScript` `Rust`
 - [Splat](https://github.com/sventmueller/splat) - Markdown editor with a live, editable preview that turns edits in the preview into minimal changes to the source. ([Website](https://github.com/sventmueller/splat)) — `Rust`
 - [Textus](https://github.com/CatVinci-Studio/Textus) - The next-generation Markdown editor and knowledge tool, made for writing with AI: math, tables, Mermaid diagrams, plugins, and an AI whose every edit is a suggestion, with cloud or local models. ([Website](https://textus.md)) — `TypeScript` `Rust`
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor ([Website](https://zed.dev)) — `Rust`
@@ -548,7 +550,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. — `JavaScript`
 - [JsonStudio](https://github.com/sundegan/JsonStudio) - Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs. ([Website](https://jsonstudio.js.org/)) — `Rust` `TypeScript` `Svelte`
 
-#### 📝 Markdown (34)
+#### 📝 Markdown (35)
 - [Backtickle](https://github.com/masud90/backtickle) - Markdown reader and editor with side-by-side preview, six flavors, math, Mermaid diagrams, citations and PDF/Word export. ([Website](https://masud90.github.io/backtickle/)) — `TypeScript` `Rust`
 - [Coluracetam](https://github.com/kageroumado/coluracetam) - Markdown reader with Quick Look and thumbnail extensions, so .md files render on spacebar and in Finder. ([Website](https://kagerou.glass/coluracetam/)) — `Swift`
 - [Downright](https://github.com/ezzy1630/Downright) - Native macOS Markdown reader and editor for ordinary files, with Quick Look, Finder thumbnails, source-preserving rendering, and safe review of external rewrites. ([Website](https://downright.cc/)) — `Swift`
@@ -578,6 +580,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Pinto Notes](https://github.com/pinto-notes/pinto-notes) - Apple Notes-style notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with every AI edit highlighted and undoable. ([Website](https://pintonotes.com)) — `Swift`
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration. ([Website](https://www.qownnotes.org/)) — `C++`
 - [Quillite Markdown](https://github.com/liuhang798/quillite-markdown) - Lightweight, local-first Markdown reader and editor with live preview, visual diagrams, math, and multi-format export. ([Website](https://qm.ssssa.cn/)) — `Go` `JavaScript`
+- [Sarala](https://github.com/solancer/sarala) - WYSIWYG Markdown editor that renders in place with no preview pane, with Mermaid and D2 diagrams, math and offline voice typing. ([Website](https://sarala.solancer.com)) — `TypeScript` `Rust`
 - [Scrap](https://github.com/Anubhavdxt/scrap) - Menu bar scratchpad with a fixed set of pads kept as plain Markdown files, live Markdown styling and search across all pads. — `Swift`
 - [Splat](https://github.com/sventmueller/splat) - Markdown editor with a live, editable preview that turns edits in the preview into minimal changes to the source. ([Website](https://github.com/sventmueller/splat)) — `Rust`
 - [Textus](https://github.com/CatVinci-Studio/Textus) - The next-generation Markdown editor and knowledge tool, made for writing with AI: math, tables, Mermaid diagrams, plugins, and an AI whose every edit is a suggestion, with cloud or local models. ([Website](https://textus.md)) — `TypeScript` `Rust`
@@ -793,7 +796,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (244)
+### 📊 Menubar (245)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -914,6 +917,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MAC-LIMPO](https://github.com/alexkads/MAC-LIMPO) - Menu bar disk cleaner for developers (Xcode, Docker, simulators, node_modules and 40+ caches) with a fast disk usage treemap in 2D and 3D. ([Website](https://alexkads.github.io/MAC-LIMPO/)) — `Swift`
 - [MacFanPro](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI. ([Website](https://github.com/macfanpro/macfanpro)) — `Swift`
 - [MacNTop](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics. ([Website](https://github.com/CorvidLabs/MacNTop)) — `Swift`
+- [MacroSIP](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
 - [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay. ([Website](https://dutkiewiczmaciej.github.io/MakLock/)) — `Swift`
 - [Market Bar](https://github.com/mnndnl/market-bar ) - Tiny stocks watcher for the menu bar. — `Swift`
 - [mcpock](https://github.com/aka-kika/mcpock) - Menu bar app that checks every MCP server your AI agents use and shows which are broken, slow, waiting for a sign-in, or set up differently. ([Website](https://mcpock.com)) — `Swift`
@@ -1165,7 +1169,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (223)
+### ⏱️ Productivity (224)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1268,6 +1272,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Mac Screenshot Tracker](https://github.com/instance01/mac-screenshot-tracker) - An open source, free and hackable screenshot tracker. Re-watch what you've been working on! — `Python`
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager. — `Swift`
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files. — `Swift`
+- [MacroSIP](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. — `JavaScript`
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings — `Swift`
 - [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse — `C`
