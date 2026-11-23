@@ -22138,6 +22138,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Pixlift",
+            "short_description": "Screenshots and screen recording, plus text and color from the screen; each capture is saved, copied to the clipboard, or both.",
+            "categories": [
+                "images",
+                "video",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/geragarazagh/pixlift",
+            "icon_url": "https://raw.githubusercontent.com/geragarazagh/pixlift/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/geragarazagh/pixlift/main/docs/scene.webp"
+            ],
+            "official_site": "https://geragaraza.com/apps/pixlift/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
