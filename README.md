@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1084-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1085-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1084 |
+| 📱 Total Applications | 1085 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 130 • TypeScript: 118 • Rust: 87 |
+| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 131 • TypeScript: 118 • Rust: 87 |
 
 ## Contents
 - [Audio](#audio)
@@ -178,12 +178,13 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device. — `Swift`
 
-### 💾 Backup (8)
+### 💾 Backup (9)
 - [backy](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups. — `Go`
 - [BitMatch](https://github.com/BitmatchApp/Bitmatch) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased. ([Website](https://bitmatchapp.github.io)) — `Swift`
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups ([Website](https://www.borgbase.com/)) — `Python`
 - [FilesNest](https://github.com/moontechs/files-nest) - One-way, resumable sync of macOS Photos libraries to self-hosted or local storage. — `Swift` `Go`
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux). — `Python`
+- [Retrova](https://github.com/jishnumahanta/retrova) - Read-only data recovery for drives that won't mount, with undelete, careful imaging and byte-for-byte verification of every copy. ([Website](https://retrova.jishnumahanta.in)) — `Python` `JavaScript`
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more. — `Python`
 - [Syncalicious](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be. — `Swift`
 - [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. — `C++` `C`
@@ -1434,7 +1435,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (272)
+### 🛠️ Utilities (273)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1646,6 +1647,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Rekody](https://github.com/rekody/rekody) - Voice dictation CLI for macOS: hold a hotkey, speak, and on-device transcription types the text at the cursor in any app. ([Website](https://rekody.com)) — `Rust`
 - [reminal](https://github.com/harshalgajjar/Reminal) - Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly. ([Website](https://reminal.app)) — `Go` `Swift`
 - [Repose](https://github.com/fikrikarim/repose) - Break reminder for macOS that automatically pauses during meetings. ([Website](https://github.com/fikrikarim/repose)) — `Swift`
+- [Retrova](https://github.com/jishnumahanta/retrova) - Read-only data recovery for drives that won't mount, with undelete, careful imaging and byte-for-byte verification of every copy. ([Website](https://retrova.jishnumahanta.in)) — `Python` `JavaScript`
 - [Rilmazafone](https://github.com/kageroumado/rilmazafone) - Design DMG installers on a WYSIWYG canvas and build exactly what you drew. ([Website](https://kagerou.glass/rilmazafone/)) — `Swift`
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ([Website](https://swiftyfinch.github.io/en/2021-03-09-rugby-story/)) — `Swift`
 - [RustCast](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher ([Website](https://rustcast.umangsurana.com)) — `Rust`
