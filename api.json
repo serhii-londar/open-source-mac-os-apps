@@ -8,7 +8,7 @@
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 21,
-    "development" : 60,
+    "development" : 61,
     "downloader" : 14,
     "editors" : 5,
     "Editors" : 1,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:39:57Z",
-  "total_apps" : 1202,
+  "generated_at" : "2026-11-23T09:40:25Z",
+  "total_apps" : 1203,
   "total_categories" : 49
 }
