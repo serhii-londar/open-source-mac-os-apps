@@ -35,7 +35,7 @@
     "other-development" : 10,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 106,
+    "productivity" : 107,
     "screensaver" : 12,
     "security" : 14,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 29
   },
-  "generated_at" : "2026-11-23T07:27:54Z",
-  "total_apps" : 1092,
+  "generated_at" : "2026-11-23T08:25:27Z",
+  "total_apps" : 1093,
   "total_categories" : 49
 }
