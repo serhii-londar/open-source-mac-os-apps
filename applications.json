@@ -17028,6 +17028,26 @@
                 "cpp",
                 "c"
             ]
+        },
+        {
+            "title": "Glim",
+            "short_description": "Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.",
+            "categories": [
+                "utilities",
+                "markdown",
+                "json",
+                "csv"
+            ],
+            "repo_url": "https://github.com/NeoPanic/Glim",
+            "icon_url": "https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/branding/glim.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/readme/workspace.png"
+            ],
+            "official_site": "https://github.com/NeoPanic/Glim",
+            "languages": [
+                "rust",
+                "swift"
+            ]
         }
     ]
 }
