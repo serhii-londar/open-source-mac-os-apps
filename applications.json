@@ -20199,6 +20199,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "MultiScreenDock",
+            "short_description": "Mirrors your live macOS Dock across all connected displays, including stacked upper monitors, with native Folder Stacks and a 120 Hz magnification wave.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/fgomsan/MultiScreenDock",
+            "icon_url": "https://raw.githubusercontent.com/fgomsan/MultiScreenDock/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/fgomsan/MultiScreenDock/main/docs/screenshot.png",
+                "https://raw.githubusercontent.com/fgomsan/MultiScreenDock/main/docs/demo.gif"
+            ],
+            "official_site": "https://multiscreendock.fgomsan.here.now",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
