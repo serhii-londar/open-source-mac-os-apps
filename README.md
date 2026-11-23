@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1081-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1084-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1081 |
+| 📱 Total Applications | 1084 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 577 • Objective-C: 142 • JavaScript: 130 • TypeScript: 117 • Rust: 87 |
+| 🔝 Top Languages | Swift: 579 • Objective-C: 143 • JavaScript: 130 • TypeScript: 118 • Rust: 87 |
 
 ## Contents
 - [Audio](#audio)
@@ -271,7 +271,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (74)
+### 👨‍💻 Development (75)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -296,6 +296,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram. ([Website](https://dorothyai.app)) — `TypeScript`
 - [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment. ([Website](https://www.eclipse.org)) — `Java`
 - [FlowPeek](https://github.com/FlowPeek/flowpeek) - Previews the Mermaid diagram already on screen, read from a selection, the clipboard, the block under the pointer, or a file. ([Website](https://flowpeek.github.io/flowpeek/)) — `Swift`
+- [Frink](https://github.com/benord-labs/frink) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. ([Website](https://frink.dev)) — `TypeScript`
 - [gadak](https://github.com/midagedev/gadak) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account. ([Website](https://gadak.dev)) — `Go` `TypeScript`
 - [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals. — `Rust` `TypeScript`
 - [GitAhead](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ([Website](https://gitahead.github.io/gitahead.com/)) — `C++` `C`
@@ -692,7 +693,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [TetherShot](https://github.com/apoorvdarshan/TetherShot) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi. ([Website](https://tethershot.apoorvdarshan.com)) — `Swift`
 - [WebPonize](https://github.com/1000ch/WebPonize) - WebPonize is a macOS App for converting PNG, JPEG, animated (or not) GIF images into WebP. — `Swift` `C`
 
-### ⌨️ Keyboard (21)
+### ⌨️ Keyboard (22)
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth. — `Swift`
 - [AURA Switcher](https://github.com/klbk/aura-switcher-app) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative. ([Website](https://klbk.github.io/aura-switcher/)) — `Swift`
 - [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) - Local-first voice input for macOS. Hold a shortcut, speak, and text is typed at your cursor. No account, no telemetry. ([Website](https://dragonkingio.github.io/cadenza-site/)) — `Swift`
@@ -710,6 +711,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualizer. — `Objective-C`
 - [KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Plays recorded mechanical keyboard sounds as you type. ([Website](https://keyecho.app)) — `Rust` `TypeScript`
 - [LangSwitcher](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter for macOS. ([Website](https://reg2005.github.io/langSwitcher/)) — `Swift`
+- [NightKeys](https://github.com/fratayaydn/nightkeys) - Lights the MacBook keyboard backlight only when you type on the built-in keyboard. — `Swift` `Objective-C`
 - [Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. — `Swift`
 - [TICS](https://github.com/yestoall/tics) - Menu bar app that plays mechanical keyboard sounds as you type, and mouse sounds as you click, drag and scroll. ([Website](https://www.yestoall.com/tics/en)) — `Swift`
 - [Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard ([Website](https://unshaky.nestederror.com/)) — `Swift`
@@ -1432,7 +1434,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (270)
+### 🛠️ Utilities (272)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1591,6 +1593,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - Cross-platform GUI desktop client for FRP (frpc) intranet exposure. Turn your local services into public addresses with one click. ([Website](https://moonproxy.app)) — `Rust` `TypeScript`
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction — `Swift`
 - [MQTTX](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. — `JavaScript` `TypeScript`
+- [NightKeys](https://github.com/fratayaydn/nightkeys) - Lights the MacBook keyboard backlight only when you type on the built-in keyboard. — `Swift` `Objective-C`
 - [Nightwatch](https://github.com/rsutcliffe/nightwatch) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at. ([Website](https://delphi-dolphin.com/nightwatch)) — `Swift` `C`
 - [Nimclip](https://github.com/hukdoesn/Nimclip) `(macOS 15.0++)` - Native, local-first clipboard history manager with search, tags, image support, and quick paste. ([Website](https://hukdoesn.github.io/Nimclip/)) — `Swift`
 - [nix-package-manager](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. ([Website](https://nixos.org/explore.html)) — `C++` `Shell` `Nix`
@@ -1683,6 +1686,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Thaw](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls. ([Website](https://www.getthaw.app)) — `Swift`
 - [The Blockstack Browser](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. — `JavaScript`
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' — `Swift`
+- [Toma](https://github.com/felipebasurto/toma) - Menu bar app that records a region of the screen and saves it as MP4, HEVC or GIF, like ⇧⌘4 for video. ([Website](https://toma.felipebasurto.com)) — `Swift`
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top. — `Swift`
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions. ([Website](https://rockxy.io/tracexy)) — `Swift`
 - [TRex](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR. ([Website](https://trex.ameba.co/)) — `Swift`
@@ -1717,7 +1721,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (36)
+### 🎬 Video (37)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
 - [BitMatch](https://github.com/BitmatchApp/Bitmatch) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased. ([Website](https://bitmatchapp.github.io)) — `Swift`
@@ -1748,6 +1752,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Takes](https://github.com/marvtub/takes-public) - Teleprompter and recorder for talking-head videos. An AI agent (Claude Code, Codex or pi) cuts the edit and drafts the posts. ([Website](https://gettakes.app)) — `Swift`
 - [TBD](https://github.com/eliorpom-cmd/to-be-downloaded) - Native YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can drive. ([Website](https://tbd.yt/)) — `Swift`
 - [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram. ([Website](https://tmplayer.org)) — `Kotlin`
+- [Toma](https://github.com/felipebasurto/toma) - Menu bar app that records a region of the screen and saves it as MP4, HEVC or GIF, like ⇧⌘4 for video. ([Website](https://toma.felipebasurto.com)) — `Swift`
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API. — `Swift`
 - [VLC](https://github.com/videolan/vlc) - VLC is a free and open source cross-platform multimedia player ([Website](https://www.videolan.org/vlc/)) — `C`
 - [Wave Subs](https://github.com/jason-jm/wavesubs) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline. ([Website](https://wavesubs.com)) — `TypeScript`
