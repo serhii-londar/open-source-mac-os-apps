@@ -27,7 +27,7 @@
     "markdown" : 21,
     "medical" : 1,
     "menubar" : 101,
-    "music" : 13,
+    "music" : 14,
     "news" : 5,
     "notes" : 22,
     "other" : 25,
@@ -47,14 +47,14 @@
     "tex" : 1,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 109,
+    "utilities" : 110,
     "video" : 22,
     "vpn--proxy" : 8,
     "wallpaper" : 15,
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T00:28:01Z",
-  "total_apps" : 1039,
+  "generated_at" : "2026-11-23T00:28:31Z",
+  "total_apps" : 1041,
   "total_categories" : 49
 }
