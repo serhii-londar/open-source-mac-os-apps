@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1269-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1270-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1269 |
+| 📱 Total Applications | 1270 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 710 • TypeScript: 150 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
+| 🔝 Top Languages | Swift: 711 • TypeScript: 150 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
 
 ## Contents
 - [Audio](#audio)
@@ -460,10 +460,11 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [StoneSVN](https://github.com/firzen/StoneSVN) - Open-source SVN desktop client with working-copy switching, diff review, selective commits and local shelving. ([Website](https://stonesvn.github.io/en/)) — `Rust` `TypeScript`
 - [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger. — `JavaScript`
 
-#### 🌍 Web Development (15)
+#### 🌍 Web Development (16)
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. — `JavaScript`
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. — `Swift`
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac. — `Objective-C`
+- [Flock](https://github.com/flock-php/flock) - Native local development environment for PHP and Laravel with .test domains, HTTPS, databases and a mail catcher. ([Website](https://flockphp.com)) — `Swift` `Go`
 - [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP. ([Website](https://httptoolkit.com/)) — `TypeScript`
 - [Insomnia](https://github.com/Kong/insomnia) - Insomnia is a cross-platform REST client, built on top of Electron. — `JavaScript`
 - [iTunesConnect](https://github.com/trulyronak/itunesconnect) - macOS app to let you access iTunesConnect. — `Swift`
