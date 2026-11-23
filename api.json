@@ -29,7 +29,7 @@
     "menubar" : 123,
     "music" : 15,
     "news" : 5,
-    "notes" : 25,
+    "notes" : 26,
     "other" : 25,
     "Other" : 1,
     "other-development" : 11,
@@ -52,9 +52,9 @@
     "vpn--proxy" : 8,
     "wallpaper" : 19,
     "web-development" : 15,
-    "window-management" : 33
+    "window-management" : 34
   },
-  "generated_at" : "2026-11-23T09:42:05Z",
-  "total_apps" : 1208,
+  "generated_at" : "2026-11-23T09:42:35Z",
+  "total_apps" : 1210,
   "total_categories" : 49
 }
