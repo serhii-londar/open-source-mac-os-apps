@@ -26,7 +26,7 @@
     "mail" : 10,
     "markdown" : 24,
     "medical" : 2,
-    "menubar" : 105,
+    "menubar" : 106,
     "music" : 14,
     "news" : 5,
     "notes" : 22,
@@ -50,11 +50,11 @@
     "utilities" : 113,
     "video" : 23,
     "vpn--proxy" : 8,
-    "wallpaper" : 15,
+    "wallpaper" : 16,
     "web-development" : 15,
     "window-management" : 28
   },
-  "generated_at" : "2026-11-23T07:13:25Z",
-  "total_apps" : 1067,
+  "generated_at" : "2026-11-23T07:14:00Z",
+  "total_apps" : 1069,
   "total_categories" : 49
 }
