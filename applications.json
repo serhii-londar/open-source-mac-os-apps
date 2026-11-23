@@ -22264,6 +22264,23 @@
                 "python",
                 "javascript"
             ]
+        },
+        {
+            "title": "Treewise",
+            "short_description": "A file manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/mag243/treewise",
+            "icon_url": "https://treewise.m-domain.me/images/icon.png",
+            "screenshots": [
+                "https://treewise.m-domain.me/images/01-main-light.webp",
+                "https://treewise.m-domain.me/images/04-beside-light.webp"
+            ],
+            "official_site": "https://treewise.m-domain.me",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
