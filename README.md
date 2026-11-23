@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1266-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1267-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1266 |
+| 📱 Total Applications | 1267 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 708 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
+| 🔝 Top Languages | Swift: 709 • TypeScript: 149 • Objective-C: 145 • JavaScript: 140 • Rust: 121 |
 
 ## Contents
 - [Audio](#audio)
@@ -1701,7 +1701,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (330)
+### 🛠️ Utilities (331)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1996,6 +1996,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar app that opens a radial menu while you drag files in Finder, to convert, resize, compress or OCR them offline. ([Website](https://jonathanlotan.github.io/Swivel/)) — `Swift`
 - [TactileBar](https://github.com/tr0drigues/TactileBar) - Precision menu bar telemetry instrument and 26-switch industrial command deck for macOS with 1-click Bluetooth RF, multi-volume disk management, and live Mach kernel CPU/RAM gauges. ([Website](https://github.com/tr0drigues/TactileBar)) — `Swift`
 - [talkflow](https://github.com/saamirkhrl/talkflow) - Hold a key, speak, and your words are typed into any app, transcribed on your Mac by Whisper (whisper.cpp) with no account or word limit. ([Website](https://talkflow.live)) — `Swift`
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour. ([Website](https://yorben.me/#tape)) — `Swift`
 - [Tapflow](https://github.com/Alienwang1980/tapflow) - Turn your iPad or Android tablet into a customizable touch control panel for your Mac. ([Website](https://tapflow.work)) — `Python`
 - [Telephone](https://github.com/64characters/Telephone) - SIP softphone for macOS. — `Objective-C` `Swift`
 - [Tequila](https://github.com/caiyuyou1227-glitch/tequila) - A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs. ([Website](https://github.com/caiyuyou1227-glitch/tequila)) — `Swift`
