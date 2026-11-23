@@ -16384,6 +16384,24 @@
             ]
         },
         {
+            "title": "Burrow",
+            "short_description": "Native SwiftUI app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and monitor the Mac, all through Mole's safety checks.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/khan-umirzakoff/Mole-GUI",
+            "icon_url": "https://raw.githubusercontent.com/khan-umirzakoff/Mole-GUI/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/khan-umirzakoff/Mole-GUI/main/docs/overview.jpg",
+                "https://raw.githubusercontent.com/khan-umirzakoff/Mole-GUI/main/docs/demo.gif"
+            ],
+            "official_site": "https://github.com/khan-umirzakoff/Mole-GUI",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "title": "Glass",
             "short_description": "Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.",
             "categories": [
