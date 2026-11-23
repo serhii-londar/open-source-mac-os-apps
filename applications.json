@@ -22299,6 +22299,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Per-app volume, mute and output device for every Mac app, from the menu bar. No audio driver.",
+            "categories": [
+                "audio",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rokoov/smorza",
+            "title": "Smorza",
+            "icon_url": "https://smorza.app/assets/icon.png",
+            "screenshots": [
+                "https://smorza.app/assets/og-v2.jpg",
+                "https://smorza.app/assets/screenshot-light.png"
+            ],
+            "official_site": "https://smorza.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
