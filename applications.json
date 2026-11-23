@@ -21243,6 +21243,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Link picker that asks which browser, Chrome profile or Zen space a link should open in.",
+            "categories": [
+                "browser",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/schowave/browserdoor",
+            "title": "Browserdoor",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/schowave/browserdoor/main/docs/demo.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
