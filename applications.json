@@ -22517,6 +22517,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Chat with your own PDFs, notes and scans using Apple Intelligence, with retrieval on the device, offline use and a cited page for every answer.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/Gunnarguy/OpenIntelligence",
+            "title": "OpenIntelligence",
+            "icon_url": "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/openintelligence-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-cited-answer.png",
+                "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-library.png"
+            ],
+            "official_site": "https://openintelligence.me",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
