@@ -22103,6 +22103,24 @@
             "languages": [
                 "rust"
             ]
+        },
+        {
+            "title": "SoloPDF",
+            "short_description": "Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes (.annotations.md), with on-device OCR, visual blink diff, and a 56-tool MCP server.",
+            "categories": [
+                "productivity",
+                "notes"
+            ],
+            "repo_url": "https://github.com/zhitongblog/solopdf",
+            "icon_url": "https://raw.githubusercontent.com/zhitongblog/solopdf/main/appstore-assets/google-play/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/zhitongblog/solopdf/main/appstore-assets/mac-1.png",
+                "https://raw.githubusercontent.com/zhitongblog/solopdf/main/appstore-assets/mac-3.png"
+            ],
+            "official_site": "https://solopdf.doaipm.com",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
