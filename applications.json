@@ -20345,6 +20345,24 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "Moveshaper",
+            "short_description": "Move files, apps, bookmarks, Wi-Fi networks and wallpaper to a new computer over your own network, between Mac and Windows.",
+            "categories": [
+                "sharing-files",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/moveshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/moveshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://hollowbit.dev/assets/img/moveshaper-app.webp",
+                "https://hollowbit.dev/assets/img/moveshaper-apps.webp"
+            ],
+            "official_site": "https://hollowbit.dev/moveshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
