@@ -4,7 +4,7 @@
     "audio" : 81,
     "backup" : 9,
     "browser" : 18,
-    "chat" : 25,
+    "chat" : 26,
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 21,
@@ -35,7 +35,7 @@
     "other-development" : 11,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 113,
+    "productivity" : 114,
     "screensaver" : 12,
     "security" : 15,
     "sharing-files" : 13,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 32
   },
-  "generated_at" : "2026-11-23T09:36:24Z",
-  "total_apps" : 1190,
+  "generated_at" : "2026-11-23T09:36:54Z",
+  "total_apps" : 1192,
   "total_categories" : 49
 }
