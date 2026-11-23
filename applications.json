@@ -19844,6 +19844,25 @@
                 "swift",
                 "c"
             ]
+        },
+        {
+            "title": "Kiteline",
+            "short_description": "Follow, reply to and approve Claude Code, Codex and OpenCode sessions running on your Mac from iPhone, iPad and Apple Watch.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hon6/kiteline",
+            "icon_url": "https://raw.githubusercontent.com/hon6/kiteline/main/assets/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hon6/kiteline/main/assets/images/hero-en.jpg",
+                "https://raw.githubusercontent.com/hon6/kiteline/main/assets/images/mac-browser-en.jpg"
+            ],
+            "official_site": "https://tars.betac.cn/en/",
+            "languages": [
+                "swift",
+                "python"
+            ]
         }
     ]
 }
