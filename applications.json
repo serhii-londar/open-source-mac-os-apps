@@ -23784,6 +23784,26 @@
             "languages": [
                 "typescript"
             ]
+        },
+        {
+            "title": "Mythpen",
+            "short_description": "Open-source AI-assisted novel writing desktop app with chapter management, world-building, characters, and timeline. The AI agent writes directly into your project.",
+            "categories": [
+                "utilities",
+                "editors/text",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/niyongsheng/mythpen",
+            "icon_url": "https://raw.githubusercontent.com/niyongsheng/mythpen/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://github.com/user-attachments/assets/87ba980c-492b-4bd2-af75-e14faa3cec68"
+            ],
+            "official_site": "https://niyongsheng.github.io/mythpen/index.html",
+            "languages": [
+                "typescript",
+                "rust",
+                "javascript"
+            ]
         }
     ]
 }
