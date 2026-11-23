@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1243-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1244-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1243 |
+| 📱 Total Applications | 1244 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 692 • TypeScript: 145 • Objective-C: 145 • JavaScript: 140 • Rust: 115 |
+| 🔝 Top Languages | Swift: 693 • Objective-C: 145 • TypeScript: 145 • JavaScript: 140 • Rust: 115 |
 
 ## Contents
 - [Audio](#audio)
@@ -297,7 +297,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (99)
+### 👨‍💻 Development (100)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -362,6 +362,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs. ([Website](https://nextpad.org)) — `C++` `Objective-C`
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud. ([Website](https://getoffgridai.co/)) — `TypeScript`
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit. ([Website](https://github.com/ateymoori/oh-my-android)) — `Swift`
+- [Openbar](https://github.com/MF-DEEV/Openbar) - Puts Claude Code, Codex and other coding agent sessions in the notch, where you can allow tool calls with the diff in view, answer questions and send replies, plus an optional menu bar toolkit. — `Swift`
 - [OpusBar](https://github.com/kushalBanda/OpusBar) - A cat in your menu bar that watches your Claude Code and Codex sessions: it takes on the state of the most urgent one, flags the session that needs you, and tracks plan limits and billing. ([Website](https://kushalbanda.com/opusbar/)) — `Swift`
 - [Orca](https://github.com/stablyai/orca) - AI orchestrator that runs Codex, Claude Code, OpenCode or Pi side-by-side, each in its own git worktree and tracked in one place. ([Website](https://onorca.dev)) — `TypeScript`
 - [Orchestrator](https://github.com/zachealy1/orchestrator) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review. ([Website](https://github.com/zachealy1/orchestrator)) — `TypeScript` `Rust`
@@ -823,7 +824,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (261)
+### 📊 Menubar (262)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -991,6 +992,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Omnimount](https://github.com/ramdoor/omnimount) - Menu bar app and CLI for mounting ext4 and NTFS drives on macOS, with raw image cloning and restoration. ([Website](https://omnimount.es/)) — `Swift`
 - [Onebox](https://github.com/stek765/OneBox) - Menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, with regex notification filters and quiet hours. ([Website](https://github.com/stek765/OneBox)) — `JavaScript`
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts ([Website](https://www.jacklandrin.com/2021/12/01/onlyswitch/)) — `Swift`
+- [Openbar](https://github.com/MF-DEEV/Openbar) - Puts Claude Code, Codex and other coding agent sessions in the notch, where you can allow tool calls with the diff in view, answer questions and send replies, plus an optional menu bar toolkit. — `Swift`
 - [OpenClip](https://github.com/ganeshmshetty/openclip) - Lightweight floating action bar for macOS that turns selected text into instant actions. ([Website](https://getopenclip.app)) — `Swift`
 - [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - Menu bar app for the Razer Naga V2 HyperSpeed: remaps the 12 side buttons, saves profiles to the mouse, sets DPI and polling rate. ([Website](https://github.com/Zer0codestuff/OpenNaga)) — `Swift`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Local-only voice dictation for macOS — press a hotkey, speak, and the transcript is pasted at the cursor. Runs WhisperKit on Apple Silicon with no telemetry. ([Website](https://larryxiao.github.io/openquack)) — `Swift`
@@ -1665,7 +1667,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (320)
+### 🛠️ Utilities (321)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1873,6 +1875,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Omnimount](https://github.com/ramdoor/omnimount) - Menu bar app and CLI for mounting ext4 and NTFS drives on macOS, with raw image cloning and restoration. ([Website](https://omnimount.es/)) — `Swift`
 - [OmniPrompt](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac ([Website](https://omniprompt.app/)) — `Swift`
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts ([Website](https://www.jacklandrin.com/2021/12/01/onlyswitch/)) — `Swift`
+- [Openbar](https://github.com/MF-DEEV/Openbar) - Puts Claude Code, Codex and other coding agent sessions in the notch, where you can allow tool calls with the diff in view, answer questions and send replies, plus an optional menu bar toolkit. — `Swift`
 - [OpenClean](https://github.com/leoAnimesh/OpenClean) - Free Mac cleaner that explains each item, quarantines what it removes for undo, and includes an app uninstaller, disk map and menu bar monitor. ([Website](https://leoanimesh.github.io/OpenClean/)) — `Swift`
 - [OpenClip](https://github.com/ganeshmshetty/openclip) - Lightweight floating action bar for macOS that turns selected text into instant actions. ([Website](https://getopenclip.app)) — `Swift`
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs. ([Website](https://dortania.github.io/OpenCore-Legacy-Patcher/)) — `Python`
