@@ -17597,6 +17597,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Cleanzo",
+            "short_description": "Open-source cleaner for macOS and Windows that shows system and disk usage and clears caches, large files and idle build output after review.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/echoVic/cleanzo",
+            "icon_url": "https://cleanzo.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://cleanzo.echovic.com/assets/cleanzo/en/clean-light.png"
+            ],
+            "official_site": "https://cleanzo.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
