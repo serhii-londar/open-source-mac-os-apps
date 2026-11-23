@@ -16629,6 +16629,21 @@
             ]
         },
         {
+            "title": "Mercury CLI",
+            "short_description": "Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models.",
+            "categories": [
+                "terminal",
+                "development"
+            ],
+            "repo_url": "https://github.com/Whq02/MercuryCLI",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://mercury-cli.ai",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "title": "QDuo",
             "short_description": "Select text in any app and get custom actions beside the cursor: translate, polish, search, read aloud or ask an LLM.",
             "categories": [
