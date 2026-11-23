@@ -22071,6 +22071,21 @@
             "languages": [
                 "javascript"
             ]
+        },
+        {
+            "title": "filex",
+            "short_description": "Client for filex, a self-hosted file manager and sharing server: browse its files and keep chosen folders in two-way sync.",
+            "categories": [
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/BRF-Tech/filex",
+            "icon_url": "https://raw.githubusercontent.com/BRF-Tech/filex/main/docs/logo.png",
+            "screenshots": [],
+            "official_site": "https://filex.sh",
+            "languages": [
+                "typescript",
+                "go"
+            ]
         }
     ]
 }
