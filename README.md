@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1188-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1190-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1188 |
+| 📱 Total Applications | 1190 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 651 • Objective-C: 144 • TypeScript: 136 • JavaScript: 134 • Rust: 107 |
+| 🔝 Top Languages | Swift: 652 • Objective-C: 144 • TypeScript: 137 • JavaScript: 134 • Rust: 107 |
 
 ## Contents
 - [Audio](#audio)
@@ -285,7 +285,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (91)
+### 👨‍💻 Development (93)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -313,6 +313,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram. ([Website](https://dorothyai.app)) — `TypeScript`
 - [Eclipse](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment. ([Website](https://www.eclipse.org)) — `Java`
 - [FlowPeek](https://github.com/FlowPeek/flowpeek) - Previews the Mermaid diagram already on screen, read from a selection, the clipboard, the block under the pointer, or a file. ([Website](https://flowpeek.github.io/flowpeek/)) — `Swift`
+- [Friday](https://github.com/splashxmoon/friday) - Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit. ([Website](https://www.tryfridaywork.com)) — `TypeScript`
 - [Frink](https://github.com/benord-labs/frink) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. ([Website](https://frink.dev)) — `TypeScript`
 - [gadak](https://github.com/midagedev/gadak) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account. ([Website](https://gadak.dev)) — `Go` `TypeScript`
 - [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals. — `Rust` `TypeScript`
@@ -324,6 +325,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [JustTags](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags. ([Website](https://kaphacius.github.io/just-tags/)) — `Swift`
 - [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation. ([Website](https://www.kicad.org/)) — `C++` `C`
 - [KinetAios](https://github.com/phinn/KinetAios) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools. ([Website](https://phinn.github.io/KinetAios/)) — `TypeScript`
+- [Kiteline](https://github.com/hon6/kiteline) - Follow, reply to and approve Claude Code, Codex and OpenCode sessions running on your Mac from iPhone, iPad and Apple Watch. ([Website](https://tars.betac.cn/en/)) — `Swift` `Python`
 - [Krill](https://github.com/craftowen/krill) - Native Rust workspace for running AI coding agents such as Claude Code and Codex in parallel Git worktrees, with terminal sessions that survive app restarts. ([Website](https://krill.page/en)) — `Rust`
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups. ([Website](https://kytto.jakubhecht.sk/)) — `Swift`
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ([Website](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)) — `Swift`
@@ -788,7 +790,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (240)
+### 📊 Menubar (241)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -887,6 +889,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio. ([Website](https://github.com/Tekkiech/jdsp4mac)) — `Swift` `C`
 - [Keyameleon](https://github.com/mastro993/keyameleon) - Menu bar app that gives each physical keyboard its own input source and switches to it automatically as you type. ([Website](https://keyameleon.app)) — `Swift`
 - [Kipimo](https://github.com/piedol/kipimo) - Menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk, review startup items and check for app updates. ([Website](https://www.piedol.top/kipimo/)) — `Rust`
+- [Kiteline](https://github.com/hon6/kiteline) - Follow, reply to and approve Claude Code, Codex and OpenCode sessions running on your Mac from iPhone, iPad and Apple Watch. ([Website](https://tars.betac.cn/en/)) — `Swift` `Python`
 - [Konverter](https://github.com/davidpraznik/Konverter) - Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel. — `Swift`
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac. — `Swift`
 - [Kurenai](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted. ([Website](https://lorder19.github.io/kurenai/)) — `Swift`
@@ -1155,7 +1158,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (217)
+### ⏱️ Productivity (218)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
@@ -1216,6 +1219,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers. — `Objective-C`
 - [FolderForge](https://github.com/KeplSiv/FolderForge) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling. ([Website](https://folder-forge.vercel.app/)) — `Swift`
 - [Freeter](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. ([Website](https://freeter.io/)) — `TypeScript`
+- [Friday](https://github.com/splashxmoon/friday) - Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit. ([Website](https://www.tryfridaywork.com)) — `TypeScript`
 - [FunNotch](https://github.com/JoshuaT1105/FunNotch) - Puts the MacBook notch to work: media controls, a drag-and-drop file shelf, clipboard history, focus sessions that block sites and apps, and twelve configurable widgets. ([Website](https://funnotch.xyz)) — `Swift`
 - [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend. ([Website](https://future-os.cn)) — `Rust` `TypeScript`
 - [gadak](https://github.com/midagedev/gadak) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account. ([Website](https://gadak.dev)) — `Go` `TypeScript`
