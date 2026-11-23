@@ -17670,6 +17670,22 @@
                 "python",
                 "javascript"
             ]
+        },
+        {
+            "title": "Cadenza",
+            "short_description": "Local-first voice input for macOS. Hold a shortcut, speak, and text is typed at your cursor. No account, no telemetry.",
+            "categories": [
+                "keyboard",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/DragonKingIO/Cadenza-voice",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://dragonkingio.github.io/cadenza-site/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
