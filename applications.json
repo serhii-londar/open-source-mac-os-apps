@@ -23713,6 +23713,26 @@
             "languages": [
                 "go"
             ]
+        },
+        {
+            "title": "Clipy (Cross-Platform)",
+            "short_description": "Local-first clipboard manager with encrypted LAN sync across macOS, Windows, and Android, file transfer, Android notification mirroring, screenshots, and on-device OCR.",
+            "categories": [
+                "menubar",
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/JunWeiUp/Clipy",
+            "icon_url": "https://raw.githubusercontent.com/JunWeiUp/Clipy/main/Logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/JunWeiUp/Clipy/main/res/screenshots/macos-history-en.webp",
+                "https://raw.githubusercontent.com/JunWeiUp/Clipy/main/res/screenshots/macos-capture-en.webp"
+            ],
+            "official_site": "https://github.com/JunWeiUp/Clipy",
+            "languages": [
+                "swift",
+                "dart"
+            ]
         }
     ]
 }
