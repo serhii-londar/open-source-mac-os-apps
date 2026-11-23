@@ -22054,6 +22054,23 @@
                 "swift"
             ],
             "macos_version": "14.0"
+        },
+        {
+            "title": "Cyberdog",
+            "short_description": "SSH/SFTP client with a built-in terminal, a server health dashboard, and FTP, S3, WebDAV and cloud drive support.",
+            "categories": [
+                "terminal",
+                "sharing-files"
+            ],
+            "repo_url": "https://github.com/pickywawa/cyberdog",
+            "icon_url": "https://raw.githubusercontent.com/pickywawa/cyberdog/main/docs/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pickywawa/cyberdog/main/docs/screenshots/dashboard.png"
+            ],
+            "official_site": "https://pickywawa.github.io/cyberdog/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
