@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1402-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1406-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1402 |
+| 📱 Total Applications | 1406 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 787 • TypeScript: 187 • Rust: 154 • JavaScript: 150 • Objective-C: 145 |
+| 🔝 Top Languages | Swift: 790 • TypeScript: 187 • Rust: 154 • JavaScript: 150 • Objective-C: 145 |
 
 ## Contents
 - [Audio](#audio)
@@ -98,7 +98,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (112)
+### 🎵 Audio (115)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. — `Objective-C` `C`
 - [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP. ([Website](https://geiserx.github.io/akou/)) — `TypeScript` `Rust`
 - [Amical](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
@@ -106,6 +106,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone. ([Website](https://github.com/camguillory/Audio-Priority-Bar)) — `Swift`
 - [AudioAnchor](https://github.com/wata/AudioAnchor) - Menu bar app that keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else. ([Website](https://github.com/wata/AudioAnchor)) — `Swift`
 - [AudioEnhancerMAX](https://github.com/sev7enITA/AudioEnhancerMAX) - Audio editor with local processing, reviewable non-destructive edits, and traceable processing reports. ([Website](https://fabriziodegni.com/AudioEnhancerMAX/)) — `Python` `JavaScript`
+- [AudioSmith](https://github.com/hehehai/AudioSmith) - Offline voice studio for Apple silicon: text to speech, voice cloning, audiobooks, video dubbing and transcripts with speakers. ([Website](https://actnow.dev/audiosmith)) — `Go` `Swift`
 - [AudioSync](https://github.com/yassersutojoyo/audiosync) - Play your Mac's audio on AirPlay, Google Cast and local speakers at once, with a delay per speaker so they stay in sync. — `Swift` `Rust`
 - [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API. — `Swift`
 - [Aural Player](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use. — `Swift`
@@ -139,6 +140,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [LazyTune](https://github.com/Vic3z/LazyTune) - Lightweight menu bar per-app audio mixer and universal media key controller (F7/F8/F9) for web browsers and desktop media players. ([Website](https://github.com/Vic3z/LazyTune)) — `Swift`
 - [Local Transcriber](https://github.com/teconomix/local-transcriber) - Menu bar app that records meetings and calls and transcribes them locally with Whisper and pyannote speaker recognition, with dictation into any app. ([Website](https://transcriber.teconomix.net)) — `Swift` `Python`
 - [LocalRadio](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices. — `Objective-C`
+- [LocalScribe](https://github.com/maddylaneeee/ShengJi) - On-device speech-to-text for microphone, system audio and media files using Apple Speech, Whisper, SenseVoice or Parakeet, with floating live captions, a subtitle editor, offline translation and subtitle burn-in. ([Website](https://lixinchen.ca/docs/localscribe/)) — `Swift`
 - [LokalBot](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP for coding agents. ([Website](https://www.lokalbot.com)) — `Swift` `Rust`
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding. ([Website](https://mifi.no/losslesscut/)) — `JavaScript`
 - [Lowspeak](https://github.com/sventmueller/lowspeak) - Ultrafast native AI speech-to-text for every Mac app: hold fn, talk, let go. Free online with your own Groq key or offline with Whisper and NVIDIA Parakeet, written in Rust, 35 languages. — `Rust`
@@ -154,6 +156,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Mooziac](https://github.com/shirkeharsh/mooziac) - Native macOS 4K YouTube video and menu bar music player with hardware acceleration, Hero Player mode, SponsorBlock, and trackpad gestures. ([Website](https://mooziac.pages.dev)) — `Swift`
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS. — `C++`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
+- [MySpotify](https://github.com/margbug01/MySpotify) - Unofficial lightweight native Spotify desktop client built with Go (MyGo), featuring floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, AppleScript support, and notch mini-player. ([Website](https://margbug01.github.io/MySpotify/en.html)) — `Go`
 - [NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude) - Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud. ([Website](https://github.com/nicedreamzapp/NarrateClaude)) — `Swift` `Python` `Shell`
 - [nastro](https://github.com/scaccogatto/nastro) - Terminal call recorder for macOS that captures system audio and mic (no bot joins the call) and transcribes on-device with speaker diarization, via TUI or headless CLI. ([Website](https://github.com/scaccogatto/nastro)) — `Go` `Swift`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar. — `Swift`
@@ -910,7 +913,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [InVesalius](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software — `Python`
 - [Prism](https://github.com/soma-intelligence/prism) - Health app that reads Apple Health and computes daily sleep, recovery, strain, stress, and energy scores on device. ([Website](https://somalabs.me/prism)) — `Swift`
 
-### 📊 Menubar (312)
+### 📊 Menubar (313)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -967,6 +970,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Clipboard Router](https://github.com/ibrolord/clipboard-router) - Native macOS clipboard manager with searchable history, text transforms, paste queues, reviewed actions, and an encrypted Vault. ([Website](https://ibrolord.github.io/clipboard-router-releases/)) — `Swift`
 - [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup. ([Website](https://github.com/praneeth552/clipflow)) — `Swift`
 - [Clipward](https://github.com/ypankovych/clipward) - Private clipboard manager with AES-256 encrypted history, auto-clearing clipboard and support for every data type. Works on macOS 10.13+. ([Website](https://github.com/ypankovych/clipward)) — `Swift`
+- [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows, and Android, file transfer, Android notification mirroring, screenshots, and on-device OCR. ([Website](https://github.com/JunWeiUp/Clipy)) — `Swift` `Dart`
 - [Clip’M](https://github.com/Frazer/clipM) - Clipboard manager with searchable history, previews, reusable snippets, and paste transformations. ([Website](https://frazer.github.io/clipM/)) — `Swift`
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List. — `Objective-C`
 - [Cluxo](https://github.com/kykim79/Cluxo) - Menu bar app that highlights your mouse cursor for screencasts, presentations, and pair programming. ([Website](https://github.com/kykim79/Cluxo)) — `Swift`
@@ -1224,7 +1228,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
 
-### 🎧 Music (33)
+### 🎧 Music (34)
 - [BitSpring](https://github.com/crash2bash/bitspring) - Bit-perfect music player: native DSD, each track at its own sample rate up to 768 kHz, exclusive (hog) mode, gapless playback, and an optional parametric EQ with AutoEQ headphone profiles, crossfeed and upsampling. ([Website](https://bitspring.app)) — `Rust` `TypeScript`
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. — `C#`
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! — `Swift`
@@ -1239,6 +1243,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Mooziac](https://github.com/shirkeharsh/mooziac) - Native macOS 4K YouTube video and menu bar music player with hardware acceleration, Hero Player mode, SponsorBlock, and trackpad gestures. ([Website](https://mooziac.pages.dev)) — `Swift`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
 - [Music Router](https://github.com/drumandbytes/music-router) - Menu-bar utility that stops Music.app from auto-launching and routes media keys to the app you actually use, like Spotify. ([Website](https://github.com/drumandbytes/music-router)) — `Swift`
+- [MySpotify](https://github.com/margbug01/MySpotify) - Unofficial lightweight native Spotify desktop client built with Go (MyGo), featuring floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, AppleScript support, and notch mini-player. ([Website](https://margbug01.github.io/MySpotify/en.html)) — `Go`
 - [Nimbus](https://github.com/Dearonski/Nimbus) - Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and AirPlay, and a full-screen vinyl player. — `Swift`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar. — `Swift`
 - [NotchMuse](https://github.com/Xiye88/NotchMuse) - Synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the macOS menu bar, beside the notch, or above the Dock. ([Website](https://notchmuse.com)) — `Swift`
@@ -1371,7 +1376,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (278)
+### ⏱️ Productivity (280)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
 - [Agent Standup](https://github.com/Atoll92/agent-standup) - Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, stuck, or waiting for you, read from local session files. ([Website](https://agent-standup.com)) — `JavaScript`
@@ -1411,6 +1416,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard manager for macOS. — `Objective-C`
 - [Clipnest](https://github.com/echoVic/clipnest) - Open-source clipboard history for macOS and Windows with keyboard-first search, pinned panels and on-device text recognition for screenshots. ([Website](https://clipnest.echovic.com/en/)) — `Go` `TypeScript`
 - [Clipward](https://github.com/ypankovych/clipward) - Private clipboard manager with AES-256 encrypted history, auto-clearing clipboard and support for every data type. Works on macOS 10.13+. ([Website](https://github.com/ypankovych/clipward)) — `Swift`
+- [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows, and Android, file transfer, Android notification mirroring, screenshots, and on-device OCR. ([Website](https://github.com/JunWeiUp/Clipy)) — `Swift` `Dart`
 - [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones. — `Objective-C`
 - [CmdPalm](https://github.com/rahatsagor/CmdPalm) - Use the phone you already have to see and control your Mac over your local network. Screen mirroring, a trackpad, keyboard, and shortcut deck all work in your phone’s browser. No phone app needed. ([Website](https://cmdpalm.app)) — `Swift` `Rust` `TypeScript`
 - [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified productivity heads-up display for macOS and iPadOS consolidating Calendar, Music, Notion, and Mail into a modular control surface. ([Website](https://yorben.me)) — `Swift`
@@ -1488,6 +1494,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas. — `Swift`
 - [Little Reef](https://github.com/echoVic/little-reef) - Open-source focus timer that grows a reef as you finish sessions, with menu bar controls, ambient sounds and a desktop widget. ([Website](https://reef.echovic.com/en/)) — `Go` `TypeScript`
 - [littleguys](https://github.com/herval/littleguys) - WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent). ([Website](https://www.littleguys.dev)) — `Rust` `TypeScript`
+- [LocalScribe](https://github.com/maddylaneeee/ShengJi) - On-device speech-to-text for microphone, system audio and media files using Apple Speech, Whisper, SenseVoice or Parakeet, with floating live captions, a subtitle editor, offline translation and subtitle burn-in. ([Website](https://lixinchen.ca/docs/localscribe/)) — `Swift`
 - [Lodestar](https://github.com/leoAnimesh/lodestar) - Keyboard-first launcher, a Spotlight, Alfred and Raycast alternative with clipboard history, emoji picker, calculator, color picker and script commands. ([Website](https://leoanimesh.github.io/lodestar/)) — `Swift`
 - [Logue](https://github.com/bitwize-ai/Logue) - Privacy-first AI meeting notes and writing assistant with on-device transcription, smart minutes, action items, and 60+ writing modes — runs entirely on Apple Silicon. ([Website](https://github.com/bitwize-ai/Logue)) — `Swift`
 - [LokalBot](https://github.com/stevyhacker/LokalBot) - Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP for coding agents. ([Website](https://www.lokalbot.com)) — `Swift` `Rust`
@@ -1895,7 +1902,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (386)
+### 🛠️ Utilities (387)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1963,6 +1970,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Clipboard Router](https://github.com/ibrolord/clipboard-router) - Native macOS clipboard manager with searchable history, text transforms, paste queues, reviewed actions, and an encrypted Vault. ([Website](https://ibrolord.github.io/clipboard-router-releases/)) — `Swift`
 - [ClipFlow](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup. ([Website](https://github.com/praneeth552/clipflow)) — `Swift`
 - [Clipnest](https://github.com/echoVic/clipnest) - Open-source clipboard history for macOS and Windows with keyboard-first search, pinned panels and on-device text recognition for screenshots. ([Website](https://clipnest.echovic.com/en/)) — `Go` `TypeScript`
+- [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows, and Android, file transfer, Android notification mirroring, screenshots, and on-device OCR. ([Website](https://github.com/JunWeiUp/Clipy)) — `Swift` `Dart`
 - [Clip’M](https://github.com/Frazer/clipM) - Clipboard manager with searchable history, previews, reusable snippets, and paste transformations. ([Website](https://frazer.github.io/clipM/)) — `Swift`
 - [Cluxo](https://github.com/kykim79/Cluxo) - Menu bar app that highlights your mouse cursor for screencasts, presentations, and pair programming. ([Website](https://github.com/kykim79/Cluxo)) — `Swift`
 - [CmdPalm](https://github.com/rahatsagor/CmdPalm) - Use the phone you already have to see and control your Mac over your local network. Screen mirroring, a trackpad, keyboard, and shortcut deck all work in your phone’s browser. No phone app needed. ([Website](https://cmdpalm.app)) — `Swift` `Rust` `TypeScript`
@@ -2301,7 +2309,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected. ([Website](https://geiserx.github.io/VPN-Bypass/)) — `Swift`
 - [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel. ([Website](https://www.wireguard.com/)) — `Swift`
 
-### 🎬 Video (59)
+### 🎬 Video (60)
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. — `C++`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS. — `Objective-C`
@@ -2320,6 +2328,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [IPTVMac](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. ([Website](https://goelir.github.io/IPTVMac/)) — `Swift`
 - [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio) - Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk. ([Website](https://jutsustudio.com/)) — `Swift`
 - [Kaset](https://github.com/sozercan/kaset) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI. ([Website](https://github.com/sozercan/kaset)) — `Swift`
+- [LocalScribe](https://github.com/maddylaneeee/ShengJi) - On-device speech-to-text for microphone, system audio and media files using Apple Speech, Whisper, SenseVoice or Parakeet, with floating live captions, a subtitle editor, offline translation and subtitle burn-in. ([Website](https://lixinchen.ca/docs/localscribe/)) — `Swift`
 - [LocalSR](https://github.com/HerRei/local-upscale) - Upscale, denoise and restore photos and videos on your own computer with current AI models. ([Website](https://herrei.github.io/localsr/)) — `Rust` `TypeScript` `Python`
 - [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding. ([Website](https://mifi.no/losslesscut/)) — `JavaScript`
 - [Mac Classic Player](https://github.com/piro0919/mac-classic-player) - Keyboard-driven media player for macOS, in the spirit of Media Player Classic. ([Website](https://mcp.kkweb.io/)) — `Rust` `TypeScript`
