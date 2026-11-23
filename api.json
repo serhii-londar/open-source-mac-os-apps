@@ -1,7 +1,7 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 86,
+    "audio" : 87,
     "backup" : 10,
     "browser" : 18,
     "chat" : 26,
@@ -16,7 +16,7 @@
     "finder" : 23,
     "games" : 18,
     "git" : 24,
-    "graphics" : 21,
+    "graphics" : 22,
     "ide" : 16,
     "images" : 28,
     "ios--macos" : 40,
@@ -48,13 +48,13 @@
     "text" : 8,
     "touch-bar" : 6,
     "utilities" : 129,
-    "video" : 31,
+    "video" : 32,
     "vpn--proxy" : 8,
     "wallpaper" : 19,
     "web-development" : 15,
     "window-management" : 34
   },
-  "generated_at" : "2026-11-23T12:36:23Z",
-  "total_apps" : 1226,
+  "generated_at" : "2026-11-23T12:37:04Z",
+  "total_apps" : 1229,
   "total_categories" : 49
 }
