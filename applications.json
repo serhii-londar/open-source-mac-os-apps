@@ -17597,6 +17597,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Clipnest",
+            "short_description": "Open-source clipboard history for macOS and Windows with keyboard-first search, pinned panels and on-device text recognition for screenshots.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/echoVic/clipnest",
+            "icon_url": "https://clipnest.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://clipnest.echovic.com/assets/clipnest/panel-light.png"
+            ],
+            "official_site": "https://clipnest.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
