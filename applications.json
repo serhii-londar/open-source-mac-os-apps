@@ -20345,6 +20345,24 @@
                 "cpp",
                 "typescript"
             ]
+        },
+        {
+            "title": "Melodyshaper",
+            "short_description": "Free, offline music maker for beginners that turns a hummed tune into real instruments, with chords, drums, guitar input and MIDI export.",
+            "categories": [
+                "music",
+                "audio"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/melodyshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/screenshots/melodyshaper-app.png",
+                "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/screenshots/melodyshaper-chords.png"
+            ],
+            "official_site": "https://hollowbit.dev/melodyshaper/",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
