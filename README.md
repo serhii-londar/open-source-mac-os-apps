@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1093-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1096-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1093 |
+| 📱 Total Applications | 1096 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 583 • Objective-C: 143 • JavaScript: 132 • TypeScript: 119 • Rust: 90 |
+| 🔝 Top Languages | Swift: 585 • Objective-C: 143 • JavaScript: 133 • TypeScript: 120 • Rust: 90 |
 
 ## Contents
 - [Audio](#audio)
@@ -275,7 +275,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (75)
+### 👨‍💻 Development (76)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -335,6 +335,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word. ([Website](https://github.com/QwenAudio/qwen-audio-agent)) — `JavaScript`
 - [Rilmazafone](https://github.com/kageroumado/rilmazafone) - Design DMG installers on a WYSIWYG canvas and build exactly what you drew. ([Website](https://kagerou.glass/rilmazafone/)) — `Swift`
 - [Shark](https://github.com/SSBun/Shark) - Cursor IDE workspace manager for macOS. ([Website](https://ssbun.github.io/Shark)) — `Swift`
+- [Solenta](https://github.com/currentbits/solenta) - Local-first desktop app for running coding-agent CLIs (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) with shared memory across sessions, a GitHub-issues planboard and one git worktree per thread. ([Website](https://solenta.app)) — `JavaScript` `TypeScript`
 - [Spyhop](https://github.com/leeleelee3264/spyhop) - Board that shows every running Claude Code, Codex and OMP session with its progress as steps (done, now, next), putting sessions that wait for input on top. ([Website](https://leeleelee3264.github.io/spyhop/)) — `Python` `Swift`
 - [Stackyard](https://github.com/AqibJavedZeepalm/stackyard) - Shows every installed SDK and toolchain version (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which local projects use each one, and cleans up the ones nothing needs. ([Website](https://aqibjaved.dev/apps/stackyard/)) — `Dart`
 - [Starcat](https://github.com/starcat-app/Starcat) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base. ([Website](https://starcat.ink/)) — `Swift`
@@ -1072,7 +1073,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Podlive for macOS](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de). — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### ⏱️ Productivity (188)
+### ⏱️ Productivity (191)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [AI Gist](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager with variable filling, Jinja templates, AI generation, and WebDAV/iCloud backup. ([Website](https://getaigist.com)) — `TypeScript` `JavaScript`
@@ -1112,6 +1113,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ([Website](https://devutils.com)) — `Swift`
 - [Dictámelo](https://github.com/sarrazola/dictamelo) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut. ([Website](https://www.dictamelo.com/en)) — `Rust` `JavaScript`
 - [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen. ([Website]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))) — `Swift`
+- [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. — `Swift`
 - [DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows. — `JavaScript`
 - [DSH Desk Pet](https://github.com/anneheartrecord/dsh-desk-pet) - Desktop pet that mirrors your coding agent's state, with skins generated from a photo of your own pet. ([Website](https://github.com/anneheartrecord/dsh-desk-pet)) — `Python`
 - [Earnote](https://github.com/louiskl/Earnote) - Records lectures, meetings and calls, transcribes them locally with Whisper and writes structured notes with an on-device AI model. ([Website](https://earnote.dev)) — `Swift`
@@ -1150,6 +1152,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ([Website](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)) — `Swift`
 - [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write. ([Website](https://github.com/fus3r/lemma)) — `Swift`
 - [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) - Free, open-source calculators with worked steps, diagrams, and lessons. ([Website](https://librecalculator.com/)) — `TypeScript` `Rust`
+- [Liftoff](https://github.com/firstfu/Liftoff) - Launchpad replacement for macOS 26+ with live window previews, window-title search and one-click Smart Organize. ([Website](https://firstfu.github.io/Liftoff/)) — `Swift`
 - [linked](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. ([Website](https://uselinked.com)) — `JavaScript` `Vue` `CSS`
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas. — `Swift`
 - [littleguys](https://github.com/herval/littleguys) - WhatsApp-style app for talking to your AI agents (OpenClaw, Hermes, Claude Code, Codex and any ACP agent). ([Website](https://www.littleguys.dev)) — `Rust` `TypeScript`
@@ -1216,6 +1219,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sigstop](https://github.com/Mohamed-Elshesheny/sigstop) - Menu bar break reminder that infers what you are doing and holds the break during calls, with zero permissions. ([Website](https://sigstop-app.vercel.app)) — `Swift`
 - [Skilly](https://github.com/tryskilly/skilly) - Voice-first AI tutor that watches your screen and points at on-screen UI elements to teach creative software like Blender, Figma, and Premiere. ([Website](https://tryskilly.app)) — `Swift`
 - [Slime](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI — `Swift`
+- [Solenta](https://github.com/currentbits/solenta) - Local-first desktop app for running coding-agent CLIs (Claude Code, Codex, Cursor, Kimi, Grok, OpenCode) with shared memory across sessions, a GitHub-issues planboard and one git worktree per thread. ([Website](https://solenta.app)) — `JavaScript` `TypeScript`
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ([Website](https://apps.apple.com/app/speed-reader/id1258448209)) — `Swift`
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. — `TypeScript` `Swift`
 - [Spyhop](https://github.com/leeleelee3264/spyhop) - Board that shows every running Claude Code, Codex and OMP session with its progress as steps (done, now, next), putting sessions that wait for input on top. ([Website](https://leeleelee3264.github.io/spyhop/)) — `Python` `Swift`
@@ -1445,7 +1449,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. — `Swift`
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. — `Swift`
 
-### 🛠️ Utilities (275)
+### 🛠️ Utilities (276)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -1575,6 +1579,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Leaf](https://github.com/chengffei/leaf) - Minimal EPUB, MOBI and AZW3 reader that opens files straight from Finder, with no library. ([Website](https://chengffei.github.io/leaf/)) — `Swift`
 - [LeftHandy](https://github.com/writronic/LeftHandy) - Left-handed mouse and cursor support: mirrors system cursors so the tip points naturally and swaps left/right click in real time. ([Website](https://writronic.com/lefthandy/)) — `Swift` `Objective-C`
 - [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) - Free, open-source calculators with worked steps, diagrams, and lessons. ([Website](https://librecalculator.com/)) — `TypeScript` `Rust`
+- [Liftoff](https://github.com/firstfu/Liftoff) - Launchpad replacement for macOS 26+ with live window previews, window-title search and one-click Smart Organize. ([Website](https://firstfu.github.io/Liftoff/)) — `Swift`
 - [Live Translator](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini. ([Website](https://github.com/umutcetinkaya/live-translator)) — `Python`
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location. ([Website](https://schlaubischlump.github.io/LocationSimulator)) — `Swift`
 - [Lumi](https://github.com/loomtable/lumi) - Ask from any app by voice or text and get the answer on screen, from your own Claude Code. ([Website](https://lumi.loomtable.com)) — `Swift`
@@ -1792,7 +1797,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in. ([Website](https://www.wallpapermachine.app)) — `Swift` `Rust` `C++`
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. — `Ruby`
 
-### 🪟 Window Management (31)
+### 🪟 Window Management (32)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift` `Shell`
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience. ([Website](https://alt-tab-macos.netlify.app/)) — `Swift`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
@@ -1801,6 +1806,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS — `Swift`
 - [DockFlip](https://github.com/geezery/DockFlip) - Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app. ([Website](https://geezery.github.io/DockFlip/)) — `Swift`
 - [Dockit](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen. ([Website]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))) — `Swift`
+- [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. — `Swift`
 - [Hammerdeck](https://github.com/kouxing2000/hammerdeck) - Keyboard window manager for large and multiple displays, with grid placement, moves and swaps between displays, one-key undo, and rules that rearrange windows when a display connects. ([Website](https://hammerdeck.peach-studio.com)) — `Swift` `Lua`
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. — `Lua` `Objective-C`
 - [Ice](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features. ([Website](https://icemenubar.app/)) — `Swift`

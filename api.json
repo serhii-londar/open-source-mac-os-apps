@@ -8,7 +8,7 @@
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 20,
-    "development" : 45,
+    "development" : 46,
     "downloader" : 11,
     "editors" : 4,
     "Editors" : 1,
@@ -47,14 +47,14 @@
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 118,
+    "utilities" : 119,
     "video" : 24,
     "vpn--proxy" : 8,
     "wallpaper" : 16,
     "web-development" : 15,
-    "window-management" : 29
+    "window-management" : 30
   },
-  "generated_at" : "2026-11-23T08:25:27Z",
-  "total_apps" : 1093,
+  "generated_at" : "2026-11-23T08:26:06Z",
+  "total_apps" : 1096,
   "total_categories" : 49
 }
