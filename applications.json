@@ -17597,6 +17597,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app that keeps a MacBook running with the lid closed and no external display until Claude Code finishes, the battery runs low or a timer ends, with control from your phone.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/aaryanbindage/Lidwake",
+            "title": "LidWake",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/aaryanbindage/Lidwake",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
