@@ -23515,6 +23515,24 @@
                 "typescript",
                 "javascript"
             ]
+        },
+        {
+            "title": "Pinstill",
+            "short_description": "Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.",
+            "categories": [
+                "utilities",
+                "images"
+            ],
+            "repo_url": "https://github.com/echoVic/Pinstill",
+            "icon_url": "https://pinstill.echovic.com/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/echoVic/Pinstill/main/outputs/pinstill-overlay.jpg"
+            ],
+            "official_site": "https://pinstill.echovic.com/en/",
+            "languages": [
+                "go",
+                "typescript"
+            ]
         }
     ]
 }
