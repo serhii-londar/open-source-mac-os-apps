@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1128-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1131-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2023,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1128 |
+| 📱 Total Applications | 1131 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 607 • Objective-C: 143 • JavaScript: 133 • TypeScript: 129 • Rust: 97 |
+| 🔝 Top Languages | Swift: 608 • Objective-C: 144 • JavaScript: 133 • TypeScript: 129 • Rust: 97 |
 
 ## Contents
 - [Audio](#audio)
@@ -98,7 +98,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (81)
+### 🎵 Audio (82)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. — `Objective-C` `C`
 - [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP. ([Website](https://geiserx.github.io/akou/)) — `TypeScript` `Rust`
 - [Audacity](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software ([Website](https://www.audacityteam.org/)) — `C`
@@ -176,6 +176,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Tuner](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner ([Website](https://billthefarmer.github.io/ctuner/)) — `Swift`
 - [Vauta](https://github.com/MaquinaTech/Vauta) - Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks. ([Website](https://vauta.vercel.app/)) — `Swift`
 - [Vespertine](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files. ([Website](https://szeremeta1.github.io/Vespertine/)) — `Swift` `C`
+- [Vibe](https://github.com/cmicali/vibe) - Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output. ([Website](https://vibeplayer.app)) — `Objective-C`
 - [Voicely](https://github.com/StulkovLD/Voicely) - Offline dictation into any app, call recording with speaker labels and audio/video file transcription, all on-device with a local speech model. ([Website](https://voicely.art)) — `Swift`
 - [Voltip](https://github.com/sunerpy/voltip) - Push-to-talk dictation that inserts text at the cursor, with on-device or cloud speech recognition, optional AI polish, a personal dictionary and an Android phone that can act as the microphone. ([Website](https://voltip.firlab.app/)) — `Rust` `TypeScript`
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device. — `Swift`
@@ -279,7 +280,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [sqlectron](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ([Website](https://sqlectron.github.io/)) — `TypeScript`
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. ([Website](https://tablepro.app)) — `Swift`
 
-### 👨‍💻 Development (80)
+### 👨‍💻 Development (81)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers. ([Website](https://agentteams.live)) — `TypeScript`
 - [agent-manager](https://github.com/wainmann/agent-manager) - Terminal UI that runs Claude Code, Codex and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review. ([Website](https://agent-manager.dev)) — `Go`
 - [AgentBar](https://github.com/michalstrnadel/AgentBar) - Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and others), with Allow and Deny for Claude Code, Codex and Copilot permission requests. ([Website](https://michalstrnadel.com/agentbar)) — `Swift` `JavaScript`
@@ -316,6 +317,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [KinetAios](https://github.com/phinn/KinetAios) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools. ([Website](https://phinn.github.io/KinetAios/)) — `TypeScript`
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups. ([Website](https://kytto.jakubhecht.sk/)) — `Swift`
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView. ([Website](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)) — `Swift`
+- [LibreMerge](https://github.com/iagodpassos/libremerge) - Compare and merge files, folders, tables and images, 2-way and 3-way, with the WinMerge engine. ([Website](https://github.com/iagodpassos/libremerge)) — `C++`
 - [Llamaport](https://github.com/smkamranqadri/llamaport) - Run local GGUF models with llama-server. Reads model headers directly for real quantisation and context length, shows the full launch command before starting, reports live token rates and memory pressure, and downloads models from Hugging Face with resume that survives a kill. ([Website](https://github.com/smkamranqadri/llamaport)) — `Rust` `TypeScript`
 - [Loadout](https://github.com/migsilva89/loadout) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs. ([Website](https://loadout.migsilva.dev)) — `Swift`
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location. ([Website](https://schlaubischlump.github.io/LocationSimulator)) — `Swift`
@@ -361,7 +363,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Vigil](https://github.com/butterlatte-zhang/vigil) - Native terminal that runs manager-led trees of coding agents (Claude Code, Codex, OpenCode), with worker results rolling up as summaries while every node keeps its own TUI. ([Website](https://butterlatte-zhang.github.io/vigil/)) — `Swift`
 - [YYLO CLI](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with isolated task worktrees, Kanban task state, and a typed merge queue. — `TypeScript`
 
-#### 📦 Git (25)
+#### 📦 Git (26)
 - [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. — `Objective-C` `C`
 - [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase. ([Website](https://gitrebasetool.mitmaro.ca/)) — `Rust`
 - [GitAhead](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ([Website](https://gitahead.github.io/gitahead.com/)) — `C++` `C`
@@ -377,6 +379,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived. — `Objective-C`
 - [GitX](https://github.com/gitx/gitx) - Graphical client for the git version control system. — `Objective-C`
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects. — `Swift`
+- [LibreMerge](https://github.com/iagodpassos/libremerge) - Compare and merge files, folders, tables and images, 2-way and 3-way, with the WinMerge engine. ([Website](https://github.com/iagodpassos/libremerge)) — `C++`
 - [osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. — `Shell` `Applescript`
 - [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. ([Website](https://prcockpit.com)) — `TypeScript`
 - [PullBull](https://github.com/rustycamper/pullbull) - GitHub pull requests, issues and Projects boards in the menu bar. — `Swift`
@@ -521,7 +524,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data. — `JavaScript`
 - [JsonStudio](https://github.com/sundegan/JsonStudio) - Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs. ([Website](https://jsonstudio.js.org/)) — `Rust` `TypeScript` `Svelte`
 
-#### 📝 Markdown (32)
+#### 📝 Markdown (33)
 - [Backtickle](https://github.com/masud90/backtickle) - Markdown reader and editor with side-by-side preview, six flavors, math, Mermaid diagrams, citations and PDF/Word export. ([Website](https://masud90.github.io/backtickle/)) — `TypeScript` `Rust`
 - [Coluracetam](https://github.com/kageroumado/coluracetam) - Markdown reader with Quick Look and thumbnail extensions, so .md files render on spacebar and in Finder. ([Website](https://kagerou.glass/coluracetam/)) — `Swift`
 - [Downright](https://github.com/ezzy1630/Downright) - Native macOS Markdown reader and editor for ordinary files, with Quick Look, Finder thumbnails, source-preserving rendering, and safe review of external rewrites. ([Website](https://downright.cc/)) — `Swift`
@@ -543,6 +546,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [md-preview](https://github.com/vorojar/md-preview) - Ultra-lightweight Markdown preview app (~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support. ([Website](https://vorojar.github.io/md-preview/)) — `Rust`
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables. ([Website](https://github.com/maxnd/mxMarkEdit)) — `Free-Pascal`
 - [NoteGen](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. ([Website](https://notegen.top/)) — `TypeScript` `Rust`
+- [NoteM](https://github.com/mikagosz/NoteM) - Native notes app that stores every note as a plain folder with Markdown inside, with no database and no account. ([Website](https://fractal8.eu/program?p=notem&lang=en)) — `Swift`
 - [Notenik](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ([Website](https://notenik.app)) — `Swift`
 - [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. ([Website](https://obsidian.md/)) — `JavaScript`
 - [Oleafly](https://github.com/Oleafly/Oleafly) - Desktop editor for writing research papers, theses, reports and resumes in LaTeX, Typst and Markdown, with a built-in LaTeX engine and live PDF preview. ([Website](https://oleafly.com)) — `Rust` `TypeScript`
@@ -981,7 +985,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
 
-### 🎧 Music (24)
+### 🎧 Music (25)
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. — `C#`
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! — `Swift`
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS. — `CoffeeScript`
@@ -1005,6 +1009,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes: — `JavaScript`
 - [StargateDAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite — `C` `Python`
 - [Vespertine](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files. ([Website](https://szeremeta1.github.io/Vespertine/)) — `Swift` `C`
+- [Vibe](https://github.com/cmicali/vibe) - Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output. ([Website](https://vibeplayer.app)) — `Objective-C`
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. — `Swift`
 
 ### 📰 News (6)
@@ -1015,7 +1020,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - Vienna is a RSS/Atom newsreader for macOS. — `Objective-C`
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ([Website](https://getstream.io/winds/)) — `JavaScript`
 
-### 📔 Notes (33)
+### 📔 Notes (34)
 - [AutoDoc](https://github.com/DuetDisplay/AutoDoc) - Private, local-first meeting notes with on-device transcription and AI summaries. ([Website](https://getautodoc.com/)) — `TypeScript` `Swift`
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography ([Website](https://bibdesk.sourceforge.io)) — `Objective-C`
 - [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. — `JavaScript`
@@ -1033,6 +1038,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [notable](https://github.com/jmcfarlane/notable) - Simple note taking application. — `JavaScript`
 - [Notchi](https://github.com/cyrus-cai/notchi) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents. ([Website](https://www.notch.website/)) — `Swift`
 - [NoteGen](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. ([Website](https://notegen.top/)) — `TypeScript` `Rust`
+- [NoteM](https://github.com/mikagosz/NoteM) - Native notes app that stores every note as a plain folder with Markdown inside, with no database and no account. ([Website](https://fractal8.eu/program?p=notem&lang=en)) — `Swift`
 - [Notenik](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ([Website](https://notenik.app)) — `Swift`
 - [Notes](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. — `Swift`
 - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote. ([Website](https://notesnook.com)) — `JavaScript` `TypeScript`
@@ -1079,7 +1085,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Unused](https://github.com/jeffhodnett/Unused) - Mac app for checking Xcode projects for unused resources. — `Objective-C`
 - [Vagrant Manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for macOS. — `Objective-C`
 
-### ▶️ Player (11)
+### ▶️ Player (12)
 - [Frame Player](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync. ([Website](https://frameplayer.app)) — `Rust` `TypeScript`
 - [IINA](https://github.com/iina/iina) - The modern video player for macOS. ([Website](https://iina.io)) — `Swift`
 - [IPTVMac](https://github.com/Goelir/IPTVMac) - Native IPTV player for Xtream Codes and M3U playlists, with instant search, a built-in mpv player, Picture in Picture and catch-up. ([Website](https://goelir.github.io/IPTVMac/)) — `Swift`
@@ -1091,6 +1097,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Plug](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine. ([Website](https://www.plugformac.com/)) — `Swift`
 - [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats, which starts while the file is still downloading, with subtitles, audio tracks and series grouping. Unofficial, not affiliated with Telegram. ([Website](https://tmplayer.org)) — `Kotlin`
 - [Vespertine](https://github.com/szeremeta1/Vespertine) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files. ([Website](https://szeremeta1.github.io/Vespertine/)) — `Swift` `C`
+- [Vibe](https://github.com/cmicali/vibe) - Fast, minimal music file player with a seekable waveform, a turntable-style pitch fader, DJ FX, and bit-perfect output. ([Website](https://vibeplayer.app)) — `Objective-C`
 
 ### 🎙️ Podcast (7)
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app. — `JavaScript`

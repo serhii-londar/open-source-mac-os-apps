@@ -1,14 +1,14 @@
 {
   "apps_by_category" : {
     "Android" : 1,
-    "audio" : 75,
+    "audio" : 76,
     "backup" : 9,
     "browser" : 18,
     "chat" : 25,
     "cryptocurrency" : 6,
     "csv" : 1,
     "database" : 21,
-    "development" : 50,
+    "development" : 51,
     "downloader" : 12,
     "editors" : 5,
     "Editors" : 1,
@@ -29,7 +29,7 @@
     "menubar" : 114,
     "music" : 14,
     "news" : 5,
-    "notes" : 24,
+    "notes" : 25,
     "other" : 25,
     "Other" : 1,
     "other-development" : 10,
@@ -54,7 +54,7 @@
     "web-development" : 15,
     "window-management" : 30
   },
-  "generated_at" : "2026-11-23T08:49:46Z",
-  "total_apps" : 1128,
+  "generated_at" : "2026-11-23T08:50:19Z",
+  "total_apps" : 1131,
   "total_categories" : 49
 }
