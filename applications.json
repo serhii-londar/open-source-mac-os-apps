@@ -18040,6 +18040,23 @@
                 "python",
                 "javascript"
             ]
+        },
+        {
+            "title": "Meridian",
+            "short_description": "Open-source Arc-style browser built on Chromium with spaces, pinned tabs, a command bar, one-click import from Arc and Chrome, and a built-in MCP server for AI agents.",
+            "categories": [
+                "browser"
+            ],
+            "repo_url": "https://github.com/Undermove/meridian-browser",
+            "icon_url": "https://undermove.github.io/meridian-browser/icon.png",
+            "screenshots": [
+                "https://undermove.github.io/meridian-browser/screenshot.jpg"
+            ],
+            "official_site": "https://undermove.github.io/meridian-browser/",
+            "languages": [
+                "cpp",
+                "typescript"
+            ]
         }
     ]
 }
