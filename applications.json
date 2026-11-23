@@ -18548,6 +18548,23 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "MeowOut",
+            "short_description": "Lightweight macOS menu bar toolbox with clipboard manager, 2FA authenticator, and a pixel pet companion.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/huangy7/MeowOut",
+            "icon_url": "https://raw.githubusercontent.com/huangy7/MeowOut/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/huangy7/MeowOut/main/.github/assets/hero.gif"
+            ],
+            "official_site": "https://meow.huangy.top",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
