@@ -289,7 +289,7 @@ class ReadmeGenerator {
                 let categoryApps = validApplications.filter({ $0.categories.contains(category.id) })
                 let categoryCount = categoryApps.count
                 let categoryEmoji = getCategoryEmoji(category.id)
-                readmeString.append(String.anchorHTMLbegin + generateAnchorId(category.id) + String.anchorHTMLend + String.enter)
+                readmeString.append(String.anchorHTMLbegin + generateAnchorId(category.id) + String.anchorHTMLend + String.enter + String.enter)
                 readmeString.append(String.section + String.space + categoryEmoji + String.space + category.title + String.space + "(\(categoryCount))" + String.enter)
                 
                 var categoryApplications = categoryApps
