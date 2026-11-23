@@ -22500,6 +22500,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Seshka",
+            "short_description": "Menu bar app that finds the dev servers, watchers and browsers closed Claude Code sessions left running, and kills them.",
+            "categories": [
+                "development",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/jigjoy-ai/seshka",
+            "icon_url": "https://www.seshka.dev/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/jigjoy-ai/seshka/main/docs/screenshot.png"
+            ],
+            "official_site": "https://seshka.dev",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
