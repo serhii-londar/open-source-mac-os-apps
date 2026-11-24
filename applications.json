@@ -23825,6 +23825,26 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "VYSHYVKA BAR",
+            "short_description": "Touch Bar replacement with animated Ukrainian embroidery, a 7-day weather forecast, brightness, volume and Low Power Mode controls.",
+            "categories": [
+                "touch-bar",
+                "menubar",
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/sapio-sat/vyshyvka-bar",
+            "icon_url": "https://raw.githubusercontent.com/sapio-sat/vyshyvka-bar/main/docs/img/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sapio-sat/vyshyvka-bar/main/docs/img/touchbar.gif",
+                "https://raw.githubusercontent.com/sapio-sat/vyshyvka-bar/main/docs/img/forecast.png",
+                "https://raw.githubusercontent.com/sapio-sat/vyshyvka-bar/main/docs/img/weather-window.png"
+            ],
+            "official_site": "https://sapio-sat.github.io/vyshyvka-bar/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
