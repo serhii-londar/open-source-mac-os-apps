@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Claude Code and Codex usage limits in the menu bar and Dock: session and weekly limits, reset times and what is using them, read locally without touching your tokens.",
+            "categories": [
+                "menubar",
+                "development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/navbuildz/ai-usage-menu",
+            "title": "AI Usage Menu",
+            "icon_url": "https://raw.githubusercontent.com/navbuildz/ai-usage-menu/main/app/Assets.xcassets/AppIcon.appiconset/icon_256x256%401x.png",
+            "screenshots": [
+                "https://aiusagemenu.com/art/og-home.jpg"
+            ],
+            "official_site": "https://aiusagemenu.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
