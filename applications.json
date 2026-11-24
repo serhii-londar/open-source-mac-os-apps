@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "macOS workspace navigator that switches apps and windows from the menu bar.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/open-dawn/dawn",
+            "title": "DAWN",
+            "icon_url": "https://raw.githubusercontent.com/open-dawn/dawn/main/.github/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/open-dawn/dawn/main/.github/media/demo.gif"
+            ],
+            "official_site": "https://opendawn.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
