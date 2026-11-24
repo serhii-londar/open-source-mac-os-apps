@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "FocusBae",
+            "short_description": "Records any meeting without a bot, transcribes it on-device, and tracks action items with the exact sentence they came from and who owes what to whom.",
+            "categories": [
+                "notes",
+                "productivity",
+                "audio"
+            ],
+            "repo_url": "https://github.com/focusbae/focusbae",
+            "icon_url": "https://raw.githubusercontent.com/focusbae/focusbae/main/build/icons/icon-256.png",
+            "screenshots": [],
+            "official_site": "https://www.focusbae.com",
+            "languages": [
+                "javascript",
+                "swift"
+            ]
         }
     ]
 }
