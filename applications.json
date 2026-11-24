@@ -16297,6 +16297,24 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "Larynx",
+            "short_description": "Offline dictation for Apple Silicon Macs that types cleaned-up text at your cursor in any app, using Parakeet speech recognition on the Neural Engine.",
+            "categories": [
+                "audio",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/StopBanning/larynx",
+            "icon_url": "https://raw.githubusercontent.com/StopBanning/larynx/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/StopBanning/larynx/main/docs/images/history.png",
+                "https://raw.githubusercontent.com/StopBanning/larynx/main/docs/images/settings-general.png"
+            ],
+            "official_site": "https://larynx.cc",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
