@@ -23825,6 +23825,20 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "MacLight",
+            "short_description": "Modern, lightweight system cleaner, duplicate file finder and performance suite for macOS.",
+            "categories": [
+                "utilities",
+                "system"
+            ],
+            "repo_url": "https://github.com/ToolNPlay/maclight",
+            "icon_url": "https://toolnplay.com/uploads/main/favicon.jpeg",
+            "official_site": "https://toolnplay.com",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
