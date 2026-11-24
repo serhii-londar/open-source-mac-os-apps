@@ -23825,6 +23825,22 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "DockDesk",
+            "short_description": "Two separate desktops on two monitors through a single Dell WD19 dock cable, working around the missing DisplayPort MST support in macOS.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/chdominguez/DockDesk",
+            "icon_url": "https://raw.githubusercontent.com/chdominguez/DockDesk/main/Resources/AppIcon.png",
+            "screenshots": [],
+            "official_site": "https://github.com/chdominguez/DockDesk",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
