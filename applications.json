@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Interactive command-line tool that fixes common macOS annoyances with reversible defaults tweaks.",
+            "categories": [
+                "utilities",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/Thominho/unannoy",
+            "title": "unannoy",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Thominho/unannoy/main/assets/demo.svg"
+            ],
+            "official_site": "",
+            "languages": [
+                "shell"
+            ]
         }
     ]
 }
