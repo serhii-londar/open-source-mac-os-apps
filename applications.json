@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native macOS Markdown reader with live reload, Quick Look, offline Mermaid diagrams, and LaTeX math.",
+            "categories": [
+                "markdown",
+                "editors"
+            ],
+            "repo_url": "https://github.com/deeflect/typeset",
+            "title": "Typeset.md",
+            "icon_url": "https://raw.githubusercontent.com/deeflect/typeset/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/deeflect/typeset/main/assets/hero-light.png",
+                "https://raw.githubusercontent.com/deeflect/typeset/main/assets/hero-dark.png"
+            ],
+            "official_site": "https://typeset.md",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
