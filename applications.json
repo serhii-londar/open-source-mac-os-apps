@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Native Swift app that brings voice dictation, meeting notes, and a desktop AI agent to the Mac notch.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AbsoluteMode/whytap",
+            "title": "Whytap",
+            "icon_url": "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/whytap-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/onboarding-speech.png",
+                "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/readme/demo-todo-still.webp"
+            ],
+            "official_site": "https://whytap.ai/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
