@@ -23825,6 +23825,28 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "iCanHazMusic",
+            "short_description": "Old-school music player with gapless playback, CUE sheets, huge playlists, Subsonic-compatible servers, scrobbling and lyrics.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/deseven/iCanHazMusic",
+            "icon_url": "https://icanhazapps.d7.wtf/images/ichm_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/main.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/search.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/waveform-dark.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/spectrogram-left-np-dark-plsel.png"
+            ],
+            "official_site": "https://icanhazapps.d7.wtf/music",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "15.4"
         }
     ]
 }
