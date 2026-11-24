@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar app that remembers window positions per set of monitors and restores named snapshots, including which Mission Control desktop each window is on.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Carpe-Futurum/autowindow",
+            "title": "AutoWindow",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Carpe-Futurum/autowindow/main/docs/images/editor-screenshot-light.png"
+            ],
+            "official_site": "https://zein.nl/autowindow/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
