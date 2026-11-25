@@ -20,3 +20,4 @@ mxMarkEdit is a free software for Mac for writing texts and todo items in Markdo
 - [X] Screenshots(s) added if any
 - [X] Has a commit from less than 2 years ago
 - [X] Has a **clear** README in English
+- [ ] The repository has at least 5 stars
