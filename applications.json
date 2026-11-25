@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Fast file search that understands plain English, typos and dates, with Quick Look, move/undo and a free-up-space view.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/aluz123/rover",
+            "title": "Rover",
+            "icon_url": "https://raw.githubusercontent.com/aluz123/rover/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aluz123/rover/main/docs/assets/hero.jpg"
+            ],
+            "official_site": "https://getrover.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
