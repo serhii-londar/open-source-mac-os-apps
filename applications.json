@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "PowerLock",
+            "short_description": "Menu bar app that keeps your Mac running with the lid closed while plugged in, and lets it sleep again as soon as you unplug.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/pandengyao/PowerLock",
+            "icon_url": "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/menu-en.png",
+                "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/demo-en.gif"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
