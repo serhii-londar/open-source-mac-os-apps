@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Hearth",
+            "short_description": "Native Go desktop app to inspect local dev runtimes, PATH conflicts, databases, Docker, Kubernetes, and AI coding agents (MCP, skills, usage) with explicit plan-and-diff fixes.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Blinks44/hearth",
+            "icon_url": "https://raw.githubusercontent.com/Blinks44/hearth/main/resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/overview-dark.webp",
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/docker-dark.webp",
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/ai-mcp-dark.webp"
+            ],
+            "official_site": "https://hearth.moduix.dev",
+            "languages": [
+                "go"
+            ]
         }
     ]
 }
