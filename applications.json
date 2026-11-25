@@ -23825,6 +23825,26 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "AppuBot",
+            "short_description": "Open-source team of AI bots, each with its own job, that hand tasks to each other and work in your real apps and files, on the Claude, ChatGPT, Cursor, Grok or Copilot plan you already have.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sarthakguptadev/AppuBot",
+            "icon_url": "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/app.svg",
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/work.svg",
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/routines.svg"
+            ],
+            "official_site": "https://appubot.com",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
         }
     ]
 }
