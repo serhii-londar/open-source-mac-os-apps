@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Filetor",
+            "short_description": "Dual-pane file manager for UX/UI designers with project templates, Finder tags and search by sentence.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/davidpraznik/Filetor",
+            "icon_url": "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-icon-v1.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-ai-search-v4.png",
+                "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-actions-v2.png"
+            ],
+            "official_site": "https://github.com/davidpraznik/Filetor",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
