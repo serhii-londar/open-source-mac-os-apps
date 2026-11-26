@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "HippoShelf",
+            "short_description": "Hippo-shaped temporary shelf for macOS: drop files into its mouth, drag them out, and it hides when empty.",
+            "categories": [
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/wunankun/HippoShelf",
+            "icon_url": "https://raw.githubusercontent.com/wunankun/HippoShelf/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/wunankun/HippoShelf/main/docs/cartoon.png",
+                "https://raw.githubusercontent.com/wunankun/HippoShelf/main/docs/glass.png"
+            ],
+            "official_site": "https://github.com/wunankun/HippoShelf",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
