@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Piktura",
+            "short_description": "Next-gen native Photoshop alternative for macOS & creative pros with multi-layer editing, layer styles, typography, and 1-click background removal.",
+            "categories": [
+                "graphics",
+                "images",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/GhostOS-ai/Piktura",
+            "icon_url": "https://raw.githubusercontent.com/GhostOS-ai/Piktura/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/GhostOS-ai/Piktura/main/assets/screenshots/piktura_main_preview.png"
+            ],
+            "official_site": "https://github.com/GhostOS-ai/Piktura",
+            "languages": [
+                "python",
+                "javascript"
+            ]
         }
     ]
 }
