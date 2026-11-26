@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "QuotaPilot",
+            "short_description": "Menu bar card for Codex and Claude Code plan quota with burn rate, reset countdowns and a hint on which agent to switch to when one runs low.",
+            "categories": [
+                "ai",
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/dwagwd/quotapilot",
+            "icon_url": "https://raw.githubusercontent.com/dwagwd/quotapilot/main/assets/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dwagwd/quotapilot/main/assets/screenshot-card.png"
+            ],
+            "official_site": "https://aiquotawatch.pages.dev/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
