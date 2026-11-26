@@ -23825,6 +23825,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar meters for Claude, Amp and Grok usage limits, showing how much is used and when each limit resets.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/codeaz-org/RefillBar",
+            "title": "RefillBar",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/codeaz-org/RefillBar/main/screenshots/menu.png",
+                "https://raw.githubusercontent.com/codeaz-org/RefillBar/main/screenshots/menubar.png"
+            ],
+            "official_site": "https://refillbar.codeaz.org",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
