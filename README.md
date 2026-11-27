@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1443-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1444-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1443 |
+| 📱 Total Applications | 1444 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 820 • TypeScript: 192 • Rust: 158 • JavaScript: 154 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 821 • TypeScript: 192 • Rust: 158 • JavaScript: 154 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -966,7 +966,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="menubar"/>
 
-### 📊 Menubar (332)
+### 📊 Menubar (333)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -987,6 +987,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [AudioAnchor](https://github.com/wata/AudioAnchor) - Menu bar app that keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else. ([Website](https://github.com/wata/AudioAnchor)) — `Swift`
 - [AudioSync](https://github.com/yassersutojoyo/audiosync) - Play your Mac's audio on AirPlay, Google Cast and local speakers at once, with a delay per speaker so they stay in sync. — `Swift` `Rust`
 - [AURA Switcher](https://github.com/klbk/aura-switcher-app) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative. ([Website](https://klbk.github.io/aura-switcher/)) — `Swift`
+- [Auralink](https://github.com/hehehai/Auralink) - Voice input for any app: press fn, speak, and the text is cleaned up, translated or rewritten at the cursor, using the speech and AI services you choose with your own API keys. ([Website](https://actnow.dev/auralink)) — `Go` `Swift`
 - [AutoDoc](https://github.com/DuetDisplay/AutoDoc) - Private, local-first meeting notes with on-device transcription and AI summaries. ([Website](https://getautodoc.com/)) — `TypeScript` `Swift`
 - [Awake](https://github.com/Illyism/awake) - Keep your MacBook awake with the lid closed on battery or power, with a Control Center toggle, Menu Bar timer, CLI, instant screen lock on lid close, and a thermal and battery guard. ([Website](https://il.ly/awake)) — `Swift`
 - [Baa](https://github.com/selviarora/baa) - Menu bar app that finds and frees RAM your apps and AI agents left running, and warns you before you run out. ([Website](https://github.com/selviarora/baa)) — `Swift`
@@ -2031,7 +2032,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="utilities"/>
 
-### 🛠️ Utilities (405)
+### 🛠️ Utilities (406)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2058,6 +2059,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Atticus](https://github.com/SaarthurR/atticus-mac) - Voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help and background agents. ([Website](https://saarthurr.github.io/atticus-mac/)) — `Swift` `Python`
 - [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone. ([Website](https://github.com/camguillory/Audio-Priority-Bar)) — `Swift`
 - [AURA Switcher](https://github.com/klbk/aura-switcher-app) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative. ([Website](https://klbk.github.io/aura-switcher/)) — `Swift`
+- [Auralink](https://github.com/hehehai/Auralink) - Voice input for any app: press fn, speak, and the text is cleaned up, translated or rewritten at the cursor, using the speech and AI services you choose with your own API keys. ([Website](https://actnow.dev/auralink)) — `Go` `Swift`
 - [Awake](https://github.com/Illyism/awake) - Keep your MacBook awake with the lid closed on battery or power, with a Control Center toggle, Menu Bar timer, CLI, instant screen lock on lid close, and a thermal and battery guard. ([Website](https://il.ly/awake)) — `Swift`
 - [Baa](https://github.com/selviarora/baa) - Menu bar app that finds and frees RAM your apps and AI agents left running, and warns you before you run out. ([Website](https://github.com/selviarora/baa)) — `Swift`
 - [Balena Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily. ([Website](https://www.balena.io/etcher)) — `TypeScript`
