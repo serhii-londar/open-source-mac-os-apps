@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Ladder",
+            "short_description": "Workspace for AI coding agents that runs Claude Code, Codex and ACP agents across many repos in one window, with approval cards, a git worktree per session and plan usage limits.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/nicolocardozo/ladder",
+            "icon_url": "https://raw.githubusercontent.com/nicolocardozo/ladder/main/brand/app-icon/png/circuit/ladder-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/nicolocardozo/ladder/main/docs/images/ladder.png"
+            ],
+            "official_site": "https://itsladder.dev",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
