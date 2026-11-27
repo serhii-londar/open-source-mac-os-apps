@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Download App Store and TestFlight IPAs and decrypt them locally with FairPlay, with credential management for iOS devices.",
+            "categories": [
+                "development",
+                "security"
+            ],
+            "repo_url": "https://github.com/Re13orn/IPA-Decrypt",
+            "title": "IPA-Decrypt",
+            "icon_url": "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/apps/macos/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/docs/images/macos-search.jpg",
+                "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/docs/images/macos-app-details.jpg"
+            ],
+            "official_site": "https://github.com/Re13orn/IPA-Decrypt",
+            "languages": [
+                "go",
+                "swift"
+            ]
         }
     ]
 }
