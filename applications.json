@@ -1,6 +1,25 @@
 {
     "applications": [
         {
+            "title": "Nook",
+            "short_description": "Turns the MacBook notch into a hub for Now Playing from any player including browsers, a volume and brightness HUD, a focus timer, Apple Reminders, tasks, Markdown notes and a file shelf, in English and Arabic.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/siliconile/Nook",
+            "icon_url": "https://raw.githubusercontent.com/siliconile/Nook/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/siliconile/Nook/main/docs/demo.gif"
+            ],
+            "official_site": "https://github.com/siliconile/Nook",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
