@@ -24002,6 +24002,26 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "OhMyShot",
+            "short_description": "Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR.",
+            "categories": [
+                "images",
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/MMFoundation/OhMyShot",
+            "icon_url": "https://www.ohmyshot.org/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MMFoundation/OhMyShot/main/Docs/assets/capture-launcher-dark.png",
+                "https://www.ohmyshot.org/og-image.png"
+            ],
+            "official_site": "https://www.ohmyshot.org/",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "26.0+"
         }
     ]
 }
