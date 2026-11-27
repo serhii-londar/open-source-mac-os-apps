@@ -24076,6 +24076,21 @@
             "languages": [
                 "go"
             ]
+        },
+        {
+            "short_description": "Simulate film exposure, development and darkroom printing on your Mac.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/akinal5765-byte/Silverphase",
+            "title": "Silverphase",
+            "icon_url": "https://raw.githubusercontent.com/akinal5765-byte/Silverphase/main/screenshots/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://akinal5765-byte.github.io/Silverphase/site/en.html",
+            "languages": [
+                "swift",
+                "cpp"
+            ]
         }
     ]
 }
