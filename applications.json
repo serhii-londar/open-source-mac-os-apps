@@ -24278,6 +24278,22 @@
                 "swift",
                 "rust"
             ]
+        },
+        {
+            "title": "PurrCore",
+            "short_description": "Lightweight native macOS menu bar CPU, RAM, and per-core monitor with an animated running cat and zero idle wakeups.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/alexandryasukaitisss-cmd/purrcore",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/alexandryasukaitisss-cmd/purrcore",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
