@@ -23967,6 +23967,24 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Menu bar manager for macOS 14 to 27, a fork of Ice: hide and reveal menu bar icons, with profiles, hotkeys, automation, widgets, system readouts and a notch hub; never connects to the network.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/holzcloud/holzBar",
+            "title": "holzBar",
+            "icon_url": "https://raw.githubusercontent.com/holzcloud/holzBar/main/holzBar/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/holzcloud/holzBar/main/Resources/Screenshots/shelf.png",
+                "https://raw.githubusercontent.com/holzcloud/holzBar/main/Resources/Screenshots/hub-overview.png"
+            ],
+            "official_site": "https://holzcloud.ch/holzbar",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
