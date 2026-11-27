@@ -33,10 +33,10 @@
     "notes" : 33,
     "other" : 26,
     "Other" : 1,
-    "other-development" : 13,
+    "other-development" : 14,
     "player" : 8,
     "podcast" : 6,
-    "productivity" : 142,
+    "productivity" : 143,
     "screensaver" : 12,
     "security" : 17,
     "sharing-files" : 15,
@@ -55,7 +55,7 @@
     "web-development" : 16,
     "window-management" : 39
   },
-  "generated_at" : "2026-11-27T11:52:06Z",
-  "total_apps" : 1423,
+  "generated_at" : "2026-11-27T11:52:43Z",
+  "total_apps" : 1425,
   "total_categories" : 49
 }
