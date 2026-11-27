@@ -1,6 +1,24 @@
 {
     "applications": [
         {
+            "short_description": "Desktop app for chatting with self-hosted AI agents that have their own computers, memory, and scheduled tasks.",
+            "categories": [
+                "chat",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/elie222/rakazo",
+            "title": "Rakazo",
+            "icon_url": "https://rakazo.com/brand/kit/rakazo-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/elie222/rakazo/main/docs/screenshots/readme/groups.png",
+                "https://raw.githubusercontent.com/elie222/rakazo/main/docs/screenshots/readme/routines.png"
+            ],
+            "official_site": "https://rakazo.com",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
