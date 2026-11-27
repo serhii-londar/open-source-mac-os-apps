@@ -14,7 +14,7 @@
     "editors" : 7,
     "Editors" : 1,
     "extensions" : 12,
-    "finder" : 26,
+    "finder" : 28,
     "games" : 18,
     "git" : 25,
     "graphics" : 23,
@@ -27,7 +27,7 @@
     "mail" : 14,
     "markdown" : 29,
     "medical" : 2,
-    "menubar" : 151,
+    "menubar" : 152,
     "music" : 19,
     "news" : 5,
     "notes" : 33,
@@ -55,7 +55,7 @@
     "web-development" : 16,
     "window-management" : 39
   },
-  "generated_at" : "2026-11-27T11:50:41Z",
-  "total_apps" : 1418,
+  "generated_at" : "2026-11-27T11:51:30Z",
+  "total_apps" : 1421,
   "total_categories" : 49
 }
