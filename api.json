@@ -2,7 +2,7 @@
   "apps_by_category" : {
     "ai" : 1,
     "Android" : 1,
-    "audio" : 107,
+    "audio" : 108,
     "backup" : 11,
     "browser" : 24,
     "chat" : 27,
@@ -53,9 +53,9 @@
     "vpn--proxy" : 13,
     "wallpaper" : 22,
     "web-development" : 16,
-    "window-management" : 39
+    "window-management" : 40
   },
-  "generated_at" : "2026-11-27T11:56:45Z",
-  "total_apps" : 1438,
+  "generated_at" : "2026-11-27T11:57:19Z",
+  "total_apps" : 1440,
   "total_categories" : 49
 }
