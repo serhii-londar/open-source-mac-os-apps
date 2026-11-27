@@ -24425,6 +24425,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "lpm",
+            "short_description": "Desktop app that starts a project's dev servers in one click and runs coding agents such as Claude Code and Codex beside them in a built-in terminal.",
+            "categories": [
+                "development",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/gug007/lpm",
+            "icon_url": "https://raw.githubusercontent.com/gug007/lpm/main/desktop/frontend/src-tauri/icons/128x128@2x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/gug007/lpm/main/website/public/og/lpm-app-window.jpg"
+            ],
+            "official_site": "https://lpm.cx",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
