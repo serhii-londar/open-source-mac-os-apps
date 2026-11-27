@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1411-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1412-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-November%2025,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1411 |
+| 📱 Total Applications | 1412 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 793 • TypeScript: 189 • Rust: 155 • JavaScript: 151 • Objective-C: 145 |
+| 🔝 Top Languages | Swift: 794 • TypeScript: 189 • Rust: 155 • JavaScript: 152 • Objective-C: 145 |
 
 ## Contents
 - [Audio](#audio)
@@ -2457,7 +2457,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="wallpaper"/>
 
-### 🖥️ Wallpaper (21)
+### 🖥️ Wallpaper (22)
 - [500-mac-wallpaper](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. — `Swift`
 - [AerialSwap](https://github.com/mxpalm/AerialSwap) - Turns any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings, with trimming, seamless loops and smooth unlock slow-down. — `Swift`
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone — `Swift`
@@ -2465,6 +2465,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. — `Swift`
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers. — `C++`
 - [Driftwall](https://github.com/dhitalkamal/driftwall) - Play any video as a looping live wallpaper behind your desktop icons, on every display. ([Website](https://driftwall.kamaldhital.com)) — `Swift`
+- [Earth Now](https://github.com/Hensobo/earth-now) - Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds. ([Website](https://hensobo.github.io/earth-now/)) — `Swift` `JavaScript`
 - [Equinox](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers. ([Website](https://equinoxmac.com)) — `Swift`
 - [Haze](https://github.com/adrbn/haze) - Live wallpapers, a matching screensaver and animated Metal gradients from the menu bar. ([Website](https://github.com/adrbn/haze)) — `Swift`
 - [Lucid](https://github.com/jedbrnth-eng/lucid-live-wallpaper) - Live 4K wallpapers of space, nature and ocean loops on every display, plus Apple Aerials. ([Website](https://lucid-wallpaper.vercel.app)) — `Swift`
