@@ -24425,6 +24425,21 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Verticar",
+            "short_description": "Use an iPad as a portrait display over Sidecar.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sarogreco/Verticar",
+            "icon_url": "https://raw.githubusercontent.com/sarogreco/Verticar/main/docs/icon.png",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
