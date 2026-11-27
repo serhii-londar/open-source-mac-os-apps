@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Shows Claude Code, Codex and Gemini CLI permission requests in the MacBook notch to allow, deny or answer them there or from a paired phone.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/hungverse/notchtasks",
+            "title": "NotchTasks",
+            "icon_url": "https://raw.githubusercontent.com/hungverse/notchtasks/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hungverse/notchtasks/main/.github/assets/notch-macos.gif"
+            ],
+            "official_site": "https://notchtasks.web.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
