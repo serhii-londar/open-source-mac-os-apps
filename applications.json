@@ -23914,6 +23914,24 @@
                 "swift",
                 "objective-c"
             ]
+        },
+        {
+            "short_description": "Menu bar app that switches the Claude desktop app between accounts in one click, brings chats along and shows each account's session and weekly limits.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/krutikJain/relaycat",
+            "title": "Relaycat",
+            "icon_url": "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/profiles-light.png",
+                "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/menubar-switch.gif"
+            ],
+            "official_site": "https://github.com/krutikJain/relaycat",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
