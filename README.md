@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1412-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1414-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1412 |
+| 📱 Total Applications | 1414 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 794 • TypeScript: 189 • Rust: 155 • JavaScript: 152 • Objective-C: 145 |
+| 🔝 Top Languages | Swift: 796 • TypeScript: 189 • Rust: 155 • JavaScript: 152 • Objective-C: 145 |
 
 ## Contents
 - [Audio](#audio)
@@ -340,7 +340,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="development"/>
 
-### 👨‍💻 Development (130)
+### 👨‍💻 Development (131)
 - [AGASTHY](https://github.com/HMAKT99/Agasthy) - Maps your developer machine in one knowledge graph: repositories, runtimes, packages and AI coding agents, with token usage, impact analysis and safe disk cleanup. — `Rust` `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -416,6 +416,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Muxflow](https://github.com/gal064/muxflow) - Remote-first tmux IDE for coding agents, with agent notifications, voice replies, screenshot paste over SSH, multi-host, ports, files and Git. ([Website](https://gal064.github.io/muxflow/)) — `Rust` `TypeScript`
 - [MyAgents](https://github.com/hAcKlyc/MyAgents) - Desktop workspace for running AI agents with different runtimes and scheduling recurring tasks. ([Website](https://myagents.io/)) — `Rust` `TypeScript`
 - [MyPack](https://github.com/sinhong2011/mypack) - Turn a website or local HTML project into a standalone desktop app for macOS, Windows, and Linux. ([Website](https://mypack.pages.dev)) — `Go`
+- [NotchTasks](https://github.com/hungverse/notchtasks) - Shows Claude Code, Codex and Gemini CLI permission requests in the MacBook notch to allow, deny or answer them there or from a paired phone. ([Website](https://notchtasks.web.app)) — `Swift`
 - [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs. ([Website](https://nextpad.org)) — `C++` `Objective-C`
 - [Novadeck](https://github.com/novadeck-org/novadeck) - Desktop terminal for running Claude Code, Codex and Antigravity side by side, with one Inbox for their questions and approvals. ([Website](https://novadeck.dev)) — `TypeScript`
 - [o8](https://github.com/o8-run/o8) - Review and merge layer for coding agents. An independent agent reviews each diff and nothing merges until it is approved. ([Website](https://o8.run)) — `Rust` `TypeScript`
@@ -953,7 +954,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="menubar"/>
 
-### 📊 Menubar (314)
+### 📊 Menubar (316)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -1140,6 +1141,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Notchi](https://github.com/cyrus-cai/notchi) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents. ([Website](https://www.notch.website/)) — `Swift`
 - [Notchly](https://github.com/Notchly/Notchly) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs. ([Website](https://notchly.xyz)) — `Swift`
 - [NotchMuse](https://github.com/Xiye88/NotchMuse) - Synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the macOS menu bar, beside the notch, or above the Dock. ([Website](https://notchmuse.com)) — `Swift`
+- [NotchTasks](https://github.com/hungverse/notchtasks) - Shows Claude Code, Codex and Gemini CLI permission requests in the MacBook notch to allow, deny or answer them there or from a paired phone. ([Website](https://notchtasks.web.app)) — `Swift`
 - [NVBeacon](https://github.com/jaein4722/NVBeacon) - Menu bar app for monitoring remote NVIDIA GPU servers over SSH with nvidia-smi. ([Website](https://jaein4722.github.io/NVBeacon/)) — `Swift`
 - [OATS](https://github.com/ariso-ai/oats) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode. ([Website](https://ariso.ai/oats)) — `Rust` `TypeScript`
 - [Octo](https://github.com/tom-bonte/Octo) - Jitouch-style trackpad gestures, Keep Awake, Clean Keyboard and Copy Text (OCR) in one menu bar app. — `Swift`
@@ -1261,6 +1263,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews. ([Website](https://nathan-poncet.github.io/whisk/)) — `Swift`
 - [WhisPaste](https://github.com/whispaste/whispaste) - Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app. ([Website](https://whispaste.de/en/)) — `Dart` `C++` `Swift`
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking. ([Website](https://wifi-lens.shiinalabs.com)) — `Swift`
+- [WindowShade](https://github.com/surfine/WindowShade) - Double-click a title bar and the window rolls up into a thin bar where it was, with pinned previews and Picture in Picture. ([Website](https://windowshade.aaronlau.me/en/)) — `Swift`
 - [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in. ([Website](https://rakushkatop.github.io/wolfclip/)) — `Swift`
 - [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar. — `Objective-C`
 - [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
@@ -2483,7 +2486,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="window-management"/>
 
-### 🪟 Window Management (40)
+### 🪟 Window Management (41)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS. ([Website](https://alt-tab.app/)) — `Swift` `Shell`
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. — `Swift`
 - [AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Move any window by holding a modifier key and dragging anywhere on it, as smooth as a native title bar. ([Website](https://xueshi.dev/anydrag)) — `Swift`
@@ -2523,6 +2526,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Window Glue](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one. — `Swift`
 - [WindowCycle](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel. ([Website](https://github.com/WhiteMinds/window-cycle)) — `Swift`
 - [WindowHop](https://github.com/martonpaulo/windowhop) - Window switcher that gives every open window its own tile and switches to the exact one you pick, across Spaces and displays. ([Website](https://windowhop.martonpaulo.com/)) — `Swift`
+- [WindowShade](https://github.com/surfine/WindowShade) - Double-click a title bar and the window rolls up into a thin bar where it was, with pinned previews and Picture in Picture. ([Website](https://windowshade.aaronlau.me/en/)) — `Swift`
 - [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. — `C` `Objective-C`
 
 
