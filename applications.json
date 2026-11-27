@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Sill",
+            "short_description": "Show any Mac window, or the whole desktop, on your iPhone or iPad, and send touch, Apple Pencil, trackpad and keyboard input back to the Mac. Free, with no servers.",
+            "categories": [
+                "utilities",
+                "window-management"
+            ],
+            "repo_url": "https://github.com/Saffsanity/sill",
+            "icon_url": "https://raw.githubusercontent.com/Saffsanity/sill/main/iOSClient/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg",
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg",
+                "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg"
+            ],
+            "official_site": "https://getsill.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
