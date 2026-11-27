@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1434-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1435-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1434 |
+| 📱 Total Applications | 1435 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 814 • TypeScript: 190 • Rust: 156 • JavaScript: 153 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 815 • TypeScript: 190 • Rust: 156 • JavaScript: 153 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -651,9 +651,10 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [vsux](https://github.com/shadowDragons/vsux) - Lightweight editor for parallel projects with split terminals, file editing and Git review. ([Website](https://vsux.sphrag.com/en/)) — `Swift`
 - [Zed](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor ([Website](https://zed.dev)) — `Rust`
 
-#### 📊 CSV (2)
+#### 📊 CSV (3)
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ([Website](https://github.com/NeoPanic/Glim)) — `Rust` `Swift`
 - [TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for macOS. ([Website](https://apps.apple.com/app/table-tool/id1122008420)) — `Objective-C`
+- [TabTool](https://github.com/shurco/tabtool) - Native CSV, TSV and text editor that detects the format automatically and opens multi-GB files with a memory-mapped index. ([Website](https://tabtool.shurco.app)) — `Swift`
 
 #### 📋 JSON (4)
 - [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ([Website](https://github.com/NeoPanic/Glim)) — `Rust` `Swift`

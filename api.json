@@ -7,7 +7,7 @@
     "browser" : 24,
     "chat" : 27,
     "cryptocurrency" : 6,
-    "csv" : 1,
+    "csv" : 2,
     "database" : 21,
     "development" : 79,
     "downloader" : 16,
@@ -55,7 +55,7 @@
     "web-development" : 16,
     "window-management" : 39
   },
-  "generated_at" : "2026-11-27T11:55:39Z",
-  "total_apps" : 1434,
+  "generated_at" : "2026-11-27T11:56:00Z",
+  "total_apps" : 1435,
   "total_categories" : 49
 }
