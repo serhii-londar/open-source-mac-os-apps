@@ -23825,6 +23825,25 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "ChameleonPiP",
+            "short_description": "Borderless Picture-in-Picture video player that blends into underlying window colors, with MacBook notch controls and click-through.",
+            "categories": [
+                "video",
+                "player",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/James-826/ChameleonPiP",
+            "icon_url": "https://raw.githubusercontent.com/James-826/ChameleonPiP/main/extension/icons/icon128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/James-826/ChameleonPiP/main/docs/preview.png"
+            ],
+            "official_site": "https://chameleonpip.site",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
