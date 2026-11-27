@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1440-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1441-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1440 |
+| 📱 Total Applications | 1441 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 820 • TypeScript: 190 • Rust: 157 • JavaScript: 153 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 820 • TypeScript: 191 • Rust: 158 • JavaScript: 153 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -1464,7 +1464,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="productivity"/>
 
-### ⏱️ Productivity (293)
+### ⏱️ Productivity (294)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
@@ -1615,6 +1615,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [nastro](https://github.com/scaccogatto/nastro) - Terminal call recorder for macOS that captures system audio and mic (no bot joins the call) and transcribes on-device with speaker diarization, via TUI or headless CLI. ([Website](https://github.com/scaccogatto/nastro)) — `Go` `Swift`
 - [neatly](https://github.com/alpozaydin/neatly) - AI file renamer that gives downloads, screenshots and photos clear names by their content, on-device with Apple Intelligence. ([Website](https://alpozaydin.github.io/neatly/)) — `Swift`
 - [NewFile](https://github.com/mariusgm/newfile) - Finder extension that adds New File to the right-click menu and toolbar, with custom file types and starter templates. ([Website](https://newfile.dev)) — `Swift`
+- [NexQ](https://github.com/naxhq/NexQ) - Meeting assistant that transcribes both sides of a call live and answers from your own notes. ([Website](https://getnexq.com/)) — `Rust` `TypeScript`
 - [Nimclip](https://github.com/hukdoesn/Nimclip) `(macOS 15.0++)` - Native, local-first clipboard history manager with search, tags, image support, and quick paste. ([Website](https://hukdoesn.github.io/Nimclip/)) — `Swift`
 - [Nogrammerly](https://github.com/gaurabh-pei/nogrammerly) - On-device writing assistant that checks spelling, grammar and tone and rewrites text in any app, using Apple Intelligence. ([Website](https://github.com/gaurabh-pei/nogrammerly)) — `Swift`
 - [Nook](https://github.com/siliconile/Nook) - Turns the MacBook notch into a hub for Now Playing from any player including browsers, a volume and brightness HUD, a focus timer, Apple Reminders, tasks, Markdown notes and a file shelf, in English and Arabic. ([Website](https://github.com/siliconile/Nook)) — `Swift` `Objective-C`
