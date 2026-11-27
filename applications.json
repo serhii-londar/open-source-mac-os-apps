@@ -24259,6 +24259,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Battery level of wireless headsets, mice, keyboards, game controllers and AirPods in the menu bar, with low battery reminders and no vendor software.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/qu1ncky/BatteryTray",
+            "title": "BatteryTray",
+            "icon_url": "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/macos-en.png",
+                "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/reminder-en.png"
+            ],
+            "official_site": "https://qu1ncky.github.io/BatteryTray/",
+            "languages": [
+                "swift",
+                "rust"
+            ]
         }
     ]
 }
