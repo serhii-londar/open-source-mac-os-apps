@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "Finds and cleans build folders (node_modules, target, build, .gradle) across all your projects, including nested ones, by running each toolchain's own clean command. Open source.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/dizitart/kruftle",
+            "title": "Kruftle",
+            "icon_url": "https://raw.githubusercontent.com/dizitart/kruftle/main/assets/icon/kruftle-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/dizitart/kruftle/main/tool/demo/kruftle-demo.gif"
+            ],
+            "official_site": "https://kruftle.dizitart.com",
+            "languages": [
+                "dart"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
