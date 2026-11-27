@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "FreeAITokens",
+            "short_description": "Local endpoint and desktop app that routes each request across the free tiers of AI providers and fails over when one hits its limit.",
+            "categories": [
+                "development",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/timchosen/freeaitokens",
+            "icon_url": "https://raw.githubusercontent.com/timchosen/freeaitokens/main/desktop/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/timchosen/freeaitokens/main/site/static/shots/app-light.webp"
+            ],
+            "official_site": "https://freeaitokens.co",
+            "languages": [
+                "typescript"
+            ]
         }
     ]
 }
