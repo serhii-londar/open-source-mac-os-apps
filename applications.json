@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "WindowShade",
+            "short_description": "Double-click a title bar and the window rolls up into a thin bar where it was, with pinned previews and Picture in Picture.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/surfine/WindowShade",
+            "icon_url": "https://raw.githubusercontent.com/surfine/WindowShade/main/assets/app-icon/windowshade-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/surfine/WindowShade/main/assets/readme-desk-en.png"
+            ],
+            "official_site": "https://windowshade.aaronlau.me/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
