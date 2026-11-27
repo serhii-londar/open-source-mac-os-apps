@@ -24242,6 +24242,23 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "TabTool",
+            "short_description": "Native CSV, TSV and text editor that detects the format automatically and opens multi-GB files with a memory-mapped index.",
+            "categories": [
+                "csv"
+            ],
+            "repo_url": "https://github.com/shurco/tabtool",
+            "icon_url": "https://tabtool.shurco.app/img/app-icon.png",
+            "screenshots": [
+                "https://tabtool.shurco.app/img/app-grid.webp",
+                "https://tabtool.shurco.app/img/app-large.webp"
+            ],
+            "official_site": "https://tabtool.shurco.app",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
