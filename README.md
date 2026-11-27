@@ -291,7 +291,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Seaglass](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. — `Swift`
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app. — `JavaScript`
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU. — `Swift`
-- [Tarn](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://tarn-ai.vercel.app)) — `Swift`
+- [Tarn](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://www.tarndesk.com)) — `Swift`
 - [Telegram](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift. — `Swift`
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. — `C++`
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for macOS. — `Objective-C`
@@ -1675,7 +1675,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Tamka](https://github.com/piedol/tamka) - On-device dictation that runs NVIDIA's Parakeet speech models on the Neural Engine and types at the cursor in any app. ([Website](https://www.piedol.top/tamka/)) — `Rust` `Swift`
 - [Tapestry](https://github.com/HMDRAMS-DEV/tapestry) - Lightweight trackpad gestures that press keys, run Shortcuts, and open apps. ([Website](https://tapestry.ramihmd.com)) — `Swift`
 - [Tapflow](https://github.com/Alienwang1980/tapflow) - Turn your iPad or Android tablet into a customizable touch control panel for your Mac. ([Website](https://tapflow.work)) — `Python`
-- [Tarn](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://tarn-ai.vercel.app)) — `Swift`
+- [Tarn](https://github.com/Rishab87/tarn) - Private AI chat that picks a local model sized for your Mac and runs it offline. ([Website](https://www.tarndesk.com)) — `Swift`
 - [Tendedero](https://github.com/alejandrobujan/tendedero) - Every screenshot you take hangs on a line just above your screen, ready to drag into any app or folder. ([Website](https://tendedero.app)) — `Swift`
 - [Tequila](https://github.com/caiyuyou1227-glitch/tequila) - A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs. ([Website](https://github.com/caiyuyou1227-glitch/tequila)) — `Swift`
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' — `Swift`
