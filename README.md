@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1428-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1430-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1428 |
+| 📱 Total Applications | 1430 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 809 • TypeScript: 190 • Rust: 155 • JavaScript: 152 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 811 • TypeScript: 190 • Rust: 155 • JavaScript: 152 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -961,7 +961,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="menubar"/>
 
-### 📊 Menubar (324)
+### 📊 Menubar (326)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -1092,6 +1092,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Konverter](https://github.com/davidpraznik/Konverter) - Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel. — `Swift`
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac. — `Swift`
 - [Kurenai](https://github.com/Lorder19/kurenai) - Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one with Cmd+V. Skips passwords and keeps history encrypted. ([Website](https://lorder19.github.io/kurenai/)) — `Swift`
+- [KuroCat](https://github.com/chanke17/KuroCat) - Native Swift menu bar desktop cat pet and Bongo Cat alternative with 2.5D spherical head tracking, graphics tablet stylus mode, OBS transparent/green-screen capture, and online skin workshop. ([Website](https://kurocat.cc/en/)) — `Swift`
 - [LanGuard](https://github.com/roypadina/LanGuard) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required. ([Website](https://github.com/roypadina/LanGuard)) — `Swift`
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Remembers window layouts per external monitor and restores position, size and Space (macOS 26+) on reconnect, with DDC brightness keys on Apple Silicon. — `Swift`
 - [LazyTune](https://github.com/Vic3z/LazyTune) - Lightweight menu bar per-app audio mixer and universal media key controller (F7/F8/F9) for web browsers and desktop media players. ([Website](https://github.com/Vic3z/LazyTune)) — `Swift`
@@ -1187,6 +1188,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Point](https://github.com/sksareen/point) - Hold a key, talk, and circle part of the screen. Point sends your words plus a screenshot of what you circled to Claude Code, Cursor, or any chat, with on-device transcription. ([Website](https://www.pointandtell.app)) — `Swift`
 - [Pokelet](https://github.com/smcnab1/pokelet) - Lightweight native macOS app with animated cursor characters, click effects and optional sounds. ([Website](https://smcnab1.github.io/pokelet/)) — `Swift`
 - [Polka](https://github.com/romabmstu/polka) - Control center in the MacBook notch for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history. ([Website](https://romabmstu.github.io/polka/)) — `Swift`
+- [PowerLock](https://github.com/pandengyao/PowerLock) - Menu bar app that keeps your Mac running with the lid closed while plugged in, and lets it sleep again as soon as you unplug. ([Website](https://github.com/pandengyao/PowerLock)) — `Swift`
 - [Presspeech](https://github.com/rcourtman/presspeech) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device. ([Website](https://rcourtman.github.io/presspeech/)) — `Python` `Swift`
 - [PrimeSnap](https://github.com/nivohavi/primesnap) - Menu bar app to capture, frame, annotate and redact screenshots, with on-device auto-redaction of emails and API keys. ([Website](https://github.com/nivohavi/primesnap)) — `Swift`
 - [Proton VPN Menu Bar](https://github.com/stevelacey/proton-vpn-menubar) - Unofficial menu bar app for Proton VPN, with country search, Secure Core, NetShield, kill switch and port forwarding. — `Swift`
@@ -1836,8 +1838,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="streaming"/>
 
-### 📡 Streaming (5)
+### 📡 Streaming (6)
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app. — `JavaScript`
+- [KuroCat](https://github.com/chanke17/KuroCat) - Native Swift menu bar desktop cat pet and Bongo Cat alternative with 2.5D spherical head tracking, graphics tablet stylus mode, OBS transparent/green-screen capture, and online skin workshop. ([Website](https://kurocat.cc/en/)) — `Swift`
 - [Mac TV](https://github.com/Arunprakaash/mac-tv) - Turn a Mac into an Apple TV-style box with a tvOS-style home screen, streaming apps at full quality and your phone as the remote. ([Website](https://arunprakaash.github.io/mac-tv/)) — `Swift`
 - [Nimbus](https://github.com/Dearonski/Nimbus) - Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and AirPlay, and a full-screen vinyl player. — `Swift`
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording. ([Website](https://obsproject.com/)) — `C++`
@@ -1845,7 +1848,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="system"/>
 
-### ⚙️ System (91)
+### ⚙️ System (92)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
 - [AirStats](https://github.com/byrencheema/airstats) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget. ([Website](https://airstats.app)) — `Swift`
@@ -1915,6 +1918,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone. — `Swift`
 - [Peel](https://github.com/TuguiDragos/Peel) - Uninstall apps with every file they leave behind, and see why each file belongs. Everything goes to the Trash, so you can put it back. It also frees up space, fine-tunes macOS, and sets up Terminal. ([Website](https://peel.tuguidragos.com/)) — `Swift`
 - [Performance Monitor](https://github.com/inequitas/performancemonitor) - Lightweight menu bar system monitor: CPU, memory, network, disk, GPU, per-sensor temperatures, SSD wear, and battery health. No telemetry. ([Website](https://perfmon.knhome.nl)) — `Swift`
+- [PowerLock](https://github.com/pandengyao/PowerLock) - Menu bar app that keeps your Mac running with the lid closed while plugged in, and lets it sleep again as soon as you unplug. ([Website](https://github.com/pandengyao/PowerLock)) — `Swift`
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles. — `Objective-C`
 - [PureMac](https://github.com/momenbasel/PureMac) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. ([Website](https://github.com/momenbasel/PureMac)) — `Swift`
 - [Qingo](https://github.com/chenmozhe008/qingo) - Cache cleaner that recognizes 60+ video, design and AI tools, clears only caches that rebuild automatically and moves them to the Trash with undo, leaving projects and conversations untouched. Chinese UI. — `Swift`
@@ -2004,7 +2008,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="utilities"/>
 
-### 🛠️ Utilities (398)
+### 🛠️ Utilities (399)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2169,6 +2173,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Konverter](https://github.com/davidpraznik/Konverter) - Menu bar app that converts files and prepares images for the web by dragging them onto a radial wheel. — `Swift`
 - [Kopi](https://github.com/code-devanshu/kopi) - Local-first clipboard manager with searchable history, pinboards and plain-text paste. Skips password manager copies. ([Website](https://kopi.devanshuverma.in)) — `Rust` `TypeScript` `Swift`
 - [Kumquat](https://github.com/iandifilippo/Kumquat) - Convert or edit any file mid-drag: tap Shift and drop it on a ring of formats and tools. ([Website](https://iandifilippo.github.io/Kumquat/)) — `Swift`
+- [KuroCat](https://github.com/chanke17/KuroCat) - Native Swift menu bar desktop cat pet and Bongo Cat alternative with 2.5D spherical head tracking, graphics tablet stylus mode, OBS transparent/green-screen capture, and online skin workshop. ([Website](https://kurocat.cc/en/)) — `Swift`
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS. — `Swift`
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups. ([Website](https://kytto.jakubhecht.sk/)) — `Swift`
 - [LanGuard](https://github.com/roypadina/LanGuard) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required. ([Website](https://github.com/roypadina/LanGuard)) — `Swift`
