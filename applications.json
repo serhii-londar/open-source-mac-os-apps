@@ -23842,6 +23842,23 @@
                 "swift",
                 "javascript"
             ]
+        },
+        {
+            "short_description": "Command-line tool that speaks developer jargon aloud from a community pronunciation dictionary.",
+            "categories": [
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/anzy-renlab-ai/pronounce",
+            "title": "say-it",
+            "icon_url": "https://pronounce.renlab.ai/icon-512.png",
+            "screenshots": [
+                "https://pronounce.renlab.ai/demo.gif"
+            ],
+            "official_site": "https://pronounce.renlab.ai",
+            "languages": [
+                "shell"
+            ]
         }
     ]
 }
