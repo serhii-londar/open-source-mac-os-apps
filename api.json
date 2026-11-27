@@ -17,7 +17,7 @@
     "finder" : 28,
     "games" : 18,
     "git" : 25,
-    "graphics" : 23,
+    "graphics" : 24,
     "ide" : 18,
     "images" : 34,
     "ios--macos" : 40,
@@ -55,7 +55,7 @@
     "web-development" : 16,
     "window-management" : 39
   },
-  "generated_at" : "2026-11-27T11:52:43Z",
-  "total_apps" : 1425,
+  "generated_at" : "2026-11-27T11:53:09Z",
+  "total_apps" : 1426,
   "total_categories" : 49
 }
