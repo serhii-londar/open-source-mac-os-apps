@@ -24353,6 +24353,23 @@
                 "swift"
             ],
             "macos_version": "15.4"
+        },
+        {
+            "short_description": "Meeting assistant that transcribes both sides of a call live and answers from your own notes.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/naxhq/NexQ",
+            "title": "NexQ",
+            "icon_url": "https://getnexq.com/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/naxhq/NexQ/main/website/public/screenshots/Lecture.png"
+            ],
+            "official_site": "https://getnexq.com/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
