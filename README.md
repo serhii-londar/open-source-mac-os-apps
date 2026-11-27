@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1432-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1434-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1432 |
+| 📱 Total Applications | 1434 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 812 • TypeScript: 190 • Rust: 156 • JavaScript: 153 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 814 • TypeScript: 190 • Rust: 156 • JavaScript: 153 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -707,7 +707,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Oleafly](https://github.com/Oleafly/Oleafly) - Desktop editor for writing research papers, theses, reports and resumes in LaTeX, Typst and Markdown, with a built-in LaTeX engine and live PDF preview. ([Website](https://oleafly.com)) — `Rust` `TypeScript`
 - [Qilin Editor](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support. — `JavaScript`
 
-#### ✏️ Text (20)
+#### ✏️ Text (21)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. ([Website](https://auroraeditor.com)) — `Swift`
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS. — `Swift`
 - [Downright](https://github.com/ezzy1630/Downright) - Native macOS Markdown reader and editor for ordinary files, with Quick Look, Finder thumbnails, source-preserving rendering, and safe review of external rewrites. ([Website](https://downright.cc/)) — `Swift`
@@ -715,6 +715,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [LiteEdit](https://github.com/arietan/lite-edit) - Fast, native macOS code editor under 1 MB built with Swift and AppKit, no Electron. ([Website](https://arietan.github.io/lite-edit/)) — `Swift`
 - [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS. — `C`
 - [Markout](https://github.com/maxmilian/markout) - Native Markdown editor with live preview, offline KaTeX math, Mermaid diagrams, and HTML/PDF export. ([Website](https://github.com/maxmilian/markout)) — `Swift`
+- [Meboki](https://github.com/mebokihq/meboki) - Offline grammar checker that underlines English mistakes as you type in any app and fixes them in place, using an open-weight model running on your Mac. ([Website](https://meboki.com)) — `Swift`
 - [MiaoYan](https://github.com/tw93/MiaoYan) - Lightweight local-first Markdown notes app with split editor and preview, LaTeX, Mermaid and wikilinks. ([Website](https://miaoyan.app/)) — `Swift`
 - [micro](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. ([Website](https://micro-editor.github.io)) — `Go`
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables. ([Website](https://github.com/maxnd/mxMarkEdit)) — `Free-Pascal`
@@ -1455,7 +1456,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="productivity"/>
 
-### ⏱️ Productivity (289)
+### ⏱️ Productivity (291)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
@@ -1588,6 +1589,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files. — `Swift`
 - [MacroSIP](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates. — `JavaScript`
+- [Meboki](https://github.com/mebokihq/meboki) - Offline grammar checker that underlines English mistakes as you type in any app and fixes them in place, using an open-weight model running on your Mac. ([Website](https://meboki.com)) — `Swift`
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings — `Swift`
 - [Menew](https://github.com/Quost/menew) - All-in-one menu bar app with a command palette, clipboard history, window manager, screenshots, system monitor and meeting minutes, using on-device AI. ([Website](https://menew.web.app)) — `Swift`
 - [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse — `C`
@@ -1734,6 +1736,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack and rich previews. ([Website](https://nathan-poncet.github.io/whisk/)) — `Swift`
 - [WhisPaste](https://github.com/whispaste/whispaste) - Push-to-talk dictation that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app. ([Website](https://whispaste.de/en/)) — `Dart` `C++` `Swift`
 - [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Local transcription of audio, video, YouTube and meetings with Whisper or Parakeet, plus dictation into other apps. ([Website](https://github.com/Zer0codestuff/whisperdrop-2)) — `Swift`
+- [Whytap](https://github.com/AbsoluteMode/whytap) - Native Swift app that brings voice dictation, meeting notes, and a desktop AI agent to the Mac notch. ([Website](https://whytap.ai/)) — `Swift`
 - [WolfClip](https://github.com/RakushkaTOP/wolfclip) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in. ([Website](https://rakushkatop.github.io/wolfclip/)) — `Swift`
 - [Xournal++](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease — `C++` `Lua` `C` `Python`
 - [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
@@ -2012,7 +2015,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="utilities"/>
 
-### 🛠️ Utilities (401)
+### 🛠️ Utilities (402)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2403,6 +2406,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [WhatCable](https://github.com/darrylmorley/whatcable) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar. ([Website](https://whatcable.uk)) — `Swift`
 - [WhimsyDesk](https://github.com/Electrofist/WhimsyDesk) - Real-feeling desktop objects that hold your files: a fridge, a drawer, a post box and a vending machine. ([Website](https://whimsydesk.art)) — `Swift`
 - [Whisky](https://github.com/frankea/Whisky) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky. ([Website](https://github.com/frankea/Whisky)) — `Swift`
+- [Whytap](https://github.com/AbsoluteMode/whytap) - Native Swift app that brings voice dictation, meeting notes, and a desktop AI agent to the Mac notch. ([Website](https://whytap.ai/)) — `Swift`
 - [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking. ([Website](https://wifi-lens.shiinalabs.com)) — `Swift`
 - [WindowCycle](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel. ([Website](https://github.com/WhiteMinds/window-cycle)) — `Swift`
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ([Website](https://www.wireshark.org)) — `C++`
