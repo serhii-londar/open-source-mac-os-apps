@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1441-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1443-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1441 |
+| 📱 Total Applications | 1443 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 820 • TypeScript: 191 • Rust: 158 • JavaScript: 153 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 820 • TypeScript: 192 • Rust: 158 • JavaScript: 154 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -100,7 +100,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 ## Applications
 <a name="audio"/>
 
-### 🎵 Audio (119)
+### 🎵 Audio (120)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters. — `Objective-C` `C`
 - [akou](https://github.com/GeiserX/akou) - Records calls and meetings, transcribes them on-device with speaker labels, and lets Claude Code or Codex question a call over MCP. ([Website](https://geiserx.github.io/akou/)) — `TypeScript` `Rust`
 - [Amical](https://github.com/amicalhq/amical) - AI dictation and note-taking app that types into any app and formats the text for the app you are in, with local Whisper or Parakeet models. ([Website](https://amical.ai)) — `TypeScript`
@@ -153,6 +153,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. — `Swift`
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling. ([Website](https://yudaotor.github.io/lyrimuse/)) — `Swift` `Go`
 - [MacroSIP](https://github.com/HSMM/MacroSIP) - Native SIP softphone in the spirit of MicroSIP with multiple accounts, stereo M4A call recording, BLF quick keys, and LDAP/Contacts directory lookup. ([Website](https://github.com/HSMM/MacroSIP)) — `Swift` `C`
+- [Melodyshaper](https://github.com/hollowbit-dev/melodyshaper) - Free, offline music maker for beginners that turns a hummed tune into real instruments, with chords, drums, guitar input and MIDI export. ([Website](https://hollowbit.dev/melodyshaper/)) — `JavaScript`
 - [Mimi](https://github.com/yuxino/mimi) - Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services. ([Website](https://mimi.yuxino.cn/en/)) — `Rust` `TypeScript`
 - [Minute](https://github.com/mraza007/minute) - Records meetings without a bot, transcribes them on-device with Whisper, labels speakers, and writes summaries and action items with a local LLM. ([Website](https://minutenotes.app)) — `Rust` `TypeScript`
 - [mm2t](https://github.com/yuzen9622/mm2t) - Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries. ([Website](https://mm2t.yuzen.dev/en/)) — `Swift`
@@ -627,7 +628,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="editors"/>
 
-### 📝 Editors (23)
+### 📝 Editors (24)
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. ([Website](https://auroraeditor.com)) — `Swift`
 - [Backtickle](https://github.com/masud90/backtickle) - Markdown reader and editor with side-by-side preview, six flavors, math, Mermaid diagrams, citations and PDF/Word export. ([Website](https://masud90.github.io/backtickle/)) — `TypeScript` `Rust`
 - [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS ([Website](https://www.chimehq.com/)) — `Swift`
@@ -644,6 +645,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Musset](https://github.com/Musset-App/musset) - Writing app for books: chapters and scenes as plain Markdown files, versions kept in git, manuscript and EPUB export, and an optional AI editor that annotates but never writes for you. ([Website](https://musset.app)) — `Swift`
 - [mxMarkEdit](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables. ([Website](https://github.com/maxnd/mxMarkEdit)) — `Free-Pascal`
 - [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs. ([Website](https://nextpad.org)) — `C++` `Objective-C`
+- [Pagekin](https://github.com/EthanYoQ/Pagekin) - Plan long-form fiction with chapter blueprints, track continuity, and review revisions in a local project. ([Website](https://www.orz.md/en/ai-novel-writer/)) — `TypeScript`
 - [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) - A local-first workspace where you and your AI work on the same files. ([Website](https://www.puppyone.ai)) — `TypeScript`
 - [Quill](https://github.com/hridaya423/quill) - Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change. ([Website](https://quill.hridya.tech)) — `Swift`
 - [Sarala](https://github.com/solancer/sarala) - WYSIWYG Markdown editor that renders in place with no preview pane, with Mermaid and D2 diagrams, math and offline voice typing. ([Website](https://sarala.solancer.com)) — `TypeScript` `Rust`
@@ -1300,7 +1302,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="music"/>
 
-### 🎧 Music (35)
+### 🎧 Music (36)
 - [BitSpring](https://github.com/crash2bash/bitspring) - Bit-perfect music player: native DSD, each track at its own sample rate up to 768 kHz, exclusive (hog) mode, gapless playback, and an optional parametric EQ with AutoEQ headphone profiles, crossfeed and upsampling. ([Website](https://bitspring.app)) — `Rust` `TypeScript`
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. — `C#`
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! — `Swift`
@@ -1313,6 +1315,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Lilypond UI](https://github.com/doches/lilypond-ui) - Create beautiful musical scores with LilyPond. — `JavaScript`
 - [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift. — `Swift`
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling. ([Website](https://yudaotor.github.io/lyrimuse/)) — `Swift` `Go`
+- [Melodyshaper](https://github.com/hollowbit-dev/melodyshaper) - Free, offline music maker for beginners that turns a hummed tune into real instruments, with chords, drums, guitar input and MIDI export. ([Website](https://hollowbit.dev/melodyshaper/)) — `JavaScript`
 - [Mooziac](https://github.com/shirkeharsh/mooziac) - Native macOS 4K YouTube video and menu bar music player with hardware acceleration, Hero Player mode, SponsorBlock, and trackpad gestures. ([Website](https://mooziac.pages.dev)) — `Swift`
 - [MPV](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ([Website](https://mpv.io)) — `C`
 - [Music Router](https://github.com/drumandbytes/music-router) - Menu-bar utility that stops Music.app from auto-launching and routes media keys to the app you actually use, like Spotify. ([Website](https://github.com/drumandbytes/music-router)) — `Swift`
@@ -1464,7 +1467,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="productivity"/>
 
-### ⏱️ Productivity (294)
+### ⏱️ Productivity (295)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
@@ -1640,6 +1643,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Orchestrator](https://github.com/zachealy1/orchestrator) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review. ([Website](https://github.com/zachealy1/orchestrator)) — `TypeScript` `Rust`
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media. ([Website](https://orkas.ai/)) — `TypeScript` `JavaScript` `CSS` `Python`
 - [OS-intent](https://github.com/vdk888/os-intent) `(macOS 14.0++)` - Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel. — `Swift` `Python`
+- [Pagekin](https://github.com/EthanYoQ/Pagekin) - Plan long-form fiction with chapter blueprints, track continuity, and review revisions in a local project. ([Website](https://www.orz.md/en/ai-novel-writer/)) — `TypeScript`
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. — `JavaScript`
 - [Paperwing](https://github.com/rohanvijaykumar/paperwing) - Offline PDF editor for editing text and images, signing, forms, OCR, redaction, compression, and Office conversion. ([Website](https://paperwingapp.com)) — `TypeScript`
 - [ParrotFlow](https://github.com/znat/parrotflow) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links. ([Website](https://parrotflow.io/)) — `Swift` `Python`

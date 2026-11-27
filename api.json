@@ -11,7 +11,7 @@
     "database" : 21,
     "development" : 79,
     "downloader" : 16,
-    "editors" : 7,
+    "editors" : 8,
     "Editors" : 1,
     "extensions" : 12,
     "finder" : 28,
@@ -28,7 +28,7 @@
     "markdown" : 29,
     "medical" : 2,
     "menubar" : 156,
-    "music" : 19,
+    "music" : 20,
     "news" : 5,
     "notes" : 33,
     "other" : 26,
@@ -55,7 +55,7 @@
     "web-development" : 16,
     "window-management" : 40
   },
-  "generated_at" : "2026-11-27T11:57:37Z",
-  "total_apps" : 1441,
+  "generated_at" : "2026-11-27T11:58:10Z",
+  "total_apps" : 1443,
   "total_categories" : 49
 }
