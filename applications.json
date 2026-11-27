@@ -24425,6 +24425,22 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "KeyCream",
+            "short_description": "Menu bar app that plays recorded mechanical keyboard switch sounds as you type, with seven sound packs and support for Mechvibes packs.",
+            "categories": [
+                "audio",
+                "keyboard",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/halitsever/keycream",
+            "icon_url": "https://raw.githubusercontent.com/halitsever/keycream/main/Resources/Icons/AppIcon-1024.png",
+            "screenshots": [],
+            "official_site": "https://halitsever.github.io/keycream/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
