@@ -23825,6 +23825,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Earth Now",
+            "short_description": "Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/Hensobo/earth-now",
+            "icon_url": "https://raw.githubusercontent.com/Hensobo/earth-now/main/design/icon/png/earth-now-128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Hensobo/earth-now/main/docs/screenshots/views/whole-earth.jpg"
+            ],
+            "official_site": "https://hensobo.github.io/earth-now/",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
