@@ -19,7 +19,7 @@
     "git" : 25,
     "graphics" : 23,
     "ide" : 18,
-    "images" : 33,
+    "images" : 34,
     "ios--macos" : 40,
     "json" : 3,
     "json-parsing" : 4,
@@ -48,14 +48,14 @@
     "tex" : 2,
     "text" : 8,
     "touch-bar" : 6,
-    "utilities" : 153,
+    "utilities" : 154,
     "video" : 35,
     "vpn--proxy" : 13,
     "wallpaper" : 22,
     "web-development" : 16,
     "window-management" : 39
   },
-  "generated_at" : "2026-11-27T11:51:30Z",
-  "total_apps" : 1421,
+  "generated_at" : "2026-11-27T11:52:06Z",
+  "total_apps" : 1423,
   "total_categories" : 49
 }
