@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1431-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1432-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1431 |
+| 📱 Total Applications | 1432 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 812 • TypeScript: 190 • Rust: 155 • JavaScript: 152 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 812 • TypeScript: 190 • Rust: 156 • JavaScript: 153 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -961,7 +961,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="menubar"/>
 
-### 📊 Menubar (327)
+### 📊 Menubar (328)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -1286,6 +1286,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
 - [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers and a file shelf. ([Website](https://github.com/veaceslavmafteiaevoluta/yana)) — `Swift`
 - [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download. ([Website](https://frigade.com/yap)) — `Swift`
+- [Yonder](https://github.com/RMoura98/yonder) - Free, cross-platform break reminder that blurs your desktop into a calm break screen, with posture and blink reminders and smart pause during calls. ([Website](https://rmoura98.github.io/yonder/)) — `Rust` `JavaScript`
 - [zest](https://github.com/rostik32/zest) - Autocomplete popup for zsh: subcommands, options, git branches and files with descriptions under the cursor in Terminal, iTerm2, Ghostty, VS Code and Cursor. — `Swift`
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
@@ -1454,7 +1455,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="productivity"/>
 
-### ⏱️ Productivity (288)
+### ⏱️ Productivity (289)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
@@ -1741,6 +1742,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager ([Website](https://yippy.mattdavo.com)) — `Swift`
 - [Yogurt](https://github.com/FrigadeHQ/yogurt) - Meeting notes that stay on your Mac: records calls without joining them, transcribes locally with Whisper and writes summaries with an on-device model. ([Website](https://yogurt.so)) — `TypeScript` `Swift`
 - [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. — `Swift`
+- [Yonder](https://github.com/RMoura98/yonder) - Free, cross-platform break reminder that blurs your desktop into a calm break screen, with posture and blink reminders and smart pause during calls. ([Website](https://rmoura98.github.io/yonder/)) — `Rust` `JavaScript`
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. ([Website](https://mannafee.github.io/zielzeit-scalable-capital/)) — `Swift`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
 
@@ -2010,7 +2012,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="utilities"/>
 
-### 🛠️ Utilities (400)
+### 🛠️ Utilities (401)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2408,6 +2410,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [yabbistir](https://github.com/berkaygkc/yabbistir) `(macOS 26+)` - Keyboard-first clipboard history that opens under the text caret, with a reorderable paste stack, categories as columns and extensions that ask before they act. ([Website](https://github.com/berkaygkc/yabbistir)) — `Swift`
 - [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers and a file shelf. ([Website](https://github.com/veaceslavmafteiaevoluta/yana)) — `Swift`
 - [Yokoi](https://github.com/indieocean/yokoi) - Native cleaner for developers that reclaims disk space from node_modules, build artifacts, package caches, Docker images and old simulators, moving everything to the Trash with Put Back. ([Website](https://indieocean.github.io/yokoi/)) — `Swift`
+- [Yonder](https://github.com/RMoura98/yonder) - Free, cross-platform break reminder that blurs your desktop into a calm break screen, with posture and blink reminders and smart pause during calls. ([Website](https://rmoura98.github.io/yonder/)) — `Rust` `JavaScript`
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. — `Rust`
 - [Çentik](https://github.com/YusufEmreYazici/Centik) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts. ([Website](https://github.com/YusufEmreYazici/Centik)) — `Swift`
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world. — `Objective-C`
