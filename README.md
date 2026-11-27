@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-1430-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-1431-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-November%2027,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 1430 |
+| 📱 Total Applications | 1431 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 811 • TypeScript: 190 • Rust: 155 • JavaScript: 152 • Objective-C: 146 |
+| 🔝 Top Languages | Swift: 812 • TypeScript: 190 • Rust: 155 • JavaScript: 152 • Objective-C: 146 |
 
 ## Contents
 - [Audio](#audio)
@@ -961,7 +961,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="menubar"/>
 
-### 📊 Menubar (326)
+### 📊 Menubar (327)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [Adrafinil](https://github.com/kageroumado/adrafinil) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally. ([Website](https://kagerou.glass/adrafinil/)) — `Swift`
 - [Agent Monitor](https://github.com/paveler/agent-monitor) - Desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits. ([Website](https://github.com/paveler/agent-monitor)) — `Swift`
@@ -1246,6 +1246,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [Thaw](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls. ([Website](https://www.getthaw.app)) — `Swift`
 - [ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) - Local gateway for Claude Code, Codex and other AI coding clients, with upstream switching, per-request cost records and redaction of API keys before requests leave. ([Website](https://thinkwat.ch/lite/)) — `Rust` `TypeScript`
 - [TICS](https://github.com/yestoall/tics) - Menu bar app that plays mechanical keyboard sounds as you type, and mouse sounds as you click, drag and scroll. ([Website](https://www.yestoall.com/tics/en)) — `Swift`
+- [Tietie](https://github.com/KLWSharpe/tietie) - Clipboard history with number-key pasting, search for text inside copied images and clean plain-text pasting. ([Website](https://github.com/KLWSharpe/tietie/blob/main/README.en.md)) — `Swift`
 - [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. ([Website](https://github.com/wata/TimeMachineEjector)) — `Swift`
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording. ([Website](https://timescribe.app)) — `CSS` `JavaScript` `TypeScript`
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording. ([Website](https://timescribe.app)) — `CSS` `JavaScript` `TypeScript`
@@ -1453,7 +1454,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="productivity"/>
 
-### ⏱️ Productivity (287)
+### ⏱️ Productivity (288)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Open source knowledge base combining docs, a whiteboard and databases. ([Website](https://affine.pro)) — `TypeScript`
 - [Agent Hive](https://github.com/ericwang915/agent-hive) - Runs coding-agent CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent) as a team, with schedules, review relays and a lead agent that hands out the work. — `JavaScript`
@@ -1701,6 +1702,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' — `Swift`
 - [ThunderTalk](https://github.com/realAllenSong/ThunderTalk) - On-device voice input: press a key, speak Chinese or English, text lands at the cursor. Also transcribes links, reads aloud and composes songs. ([Website](https://realallensong.github.io/ThunderTalk/)) — `Python`
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X. — `Objective-C`
+- [Tietie](https://github.com/KLWSharpe/tietie) - Clipboard history with number-key pasting, search for text inside copied images and clean plain-text pasting. ([Website](https://github.com/KLWSharpe/tietie/blob/main/README.en.md)) — `Swift`
 - [Time to Leave](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live. ([Website](https://timetoleave.app/)) — `JavaScript` `CSS` `Html`
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac. — `Swift`
 - [TimeScribe](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording. ([Website](https://timescribe.app)) — `CSS` `JavaScript` `TypeScript`
@@ -2008,7 +2010,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 <a name="utilities"/>
 
-### 🛠️ Utilities (399)
+### 🛠️ Utilities (400)
 - [Abendrot](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset. ([Website](https://abendrot.app)) — `Swift`
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices. ([Website](https://activitywatch.net)) — `Python` `TypeScript`
 - [Adieu](https://github.com/lijunyu726/adieu) - Free uninstaller and cleaner that explains why each item can be removed. Also reviews app leftovers, large files, developer caches and Git worktrees. ([Website](https://adieu.lijunyu.com.cn)) — `Swift`
@@ -2370,6 +2372,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' — `Swift`
 - [TidyLeft](https://github.com/seanay-sys/tidyleft) - Uninstall apps with all their files, find leftovers of deleted apps, clear developer caches, see disk usage and reset broken settings, moving everything to the Trash. ([Website](https://github.com/seanay-sys/tidyleft)) — `Swift`
 - [Tidymint](https://github.com/HaiTrung-Workspace/tidymint) - Free Mac cleaner that shows what it found before you press Clean, moves everything to the Trash with Undo, and cleans caches, duplicates, app leftovers and per-app data. ([Website](https://tidymint.app)) — `Swift`
+- [Tietie](https://github.com/KLWSharpe/tietie) - Clipboard history with number-key pasting, search for text inside copied images and clean plain-text pasting. ([Website](https://github.com/KLWSharpe/tietie/blob/main/README.en.md)) — `Swift`
 - [TinyRecorder](https://github.com/33to9/TinyRecorder) - Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder. ([Website](https://www.tinyrecorder.app)) — `Swift`
 - [Tokens on Track](https://github.com/gnibu/tokens-on-track) - Menu bar tracker for Claude Code, Codex, OpenCode Go, OpenRouter and Cursor quotas that shows whether you are spending faster than each window refills. ([Website](https://github.com/gnibu/tokens-on-track)) — `Swift`
 - [Toma](https://github.com/felipebasurto/toma) - Menu bar app that records a region of the screen and saves it as MP4, HEVC or GIF, like ⇧⌘4 for video. ([Website](https://toma.felipebasurto.com)) — `Swift`
