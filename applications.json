@@ -24425,6 +24425,22 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Reverse mouse scrolling independently of the trackpad, map multitouch gestures, and draw shapes to launch apps.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sailjkeee/gestures-and-scroll",
+            "title": "Gestures & Scroll",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/sailjkeee/gestures-and-scroll",
+            "languages": [
+                "swift",
+                "c"
+            ]
         }
     ]
 }
