@@ -24130,6 +24130,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "KuroCat",
+            "short_description": "Native Swift menu bar desktop cat pet and Bongo Cat alternative with 2.5D spherical head tracking, graphics tablet stylus mode, OBS transparent/green-screen capture, and online skin workshop.",
+            "categories": [
+                "menubar",
+                "streaming",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/chanke17/KuroCat",
+            "icon_url": "https://kurocat.cc/assets/favicon-192.png",
+            "screenshots": [
+                "https://kurocat.cc/assets/og-cover.png",
+                "https://kurocat.cc/assets/preview_siamese.jpg"
+            ],
+            "official_site": "https://kurocat.cc/en/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
