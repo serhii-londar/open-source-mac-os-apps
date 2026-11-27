@@ -11039,6 +11039,7 @@
             ],
             "repo_url": "https://github.com/sane-apps/SaneClip",
             "title": "SaneClip",
+            "source_available": true,
             "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneClip/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png",
@@ -11057,6 +11058,7 @@
             ],
             "repo_url": "https://github.com/sane-apps/SaneHosts",
             "title": "SaneHosts",
+            "source_available": true,
             "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneHosts/main/SaneHosts/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/sane-apps/SaneHosts/main/website/screenshot.png"
@@ -11093,6 +11095,7 @@
             ],
             "repo_url": "https://github.com/sane-apps/SaneClick",
             "title": "SaneClick",
+            "source_available": true,
             "icon_url": "https://raw.githubusercontent.com/sane-apps/SaneClick/main/SaneClick/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256%402x.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png"
