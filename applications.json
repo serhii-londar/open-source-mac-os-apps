@@ -24435,7 +24435,9 @@
             ],
             "repo_url": "https://github.com/sarogreco/Verticar",
             "icon_url": "https://raw.githubusercontent.com/sarogreco/Verticar/main/docs/icon.png",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/sarogreco/Verticar/main/docs/screenshot.jpg"
+            ],
             "official_site": "",
             "languages": [
                 "swift"
