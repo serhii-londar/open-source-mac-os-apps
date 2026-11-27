@@ -24294,6 +24294,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Private clipboard history for macOS with encrypted local storage, sensitive-content protection, search, and quick paste.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/reathloo/smartClip",
+            "title": "SmartClip",
+            "icon_url": "https://raw.githubusercontent.com/reathloo/smartClip/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/reathloo/smartClip/main/docs/screenshots/clipboard-dark-translucent.jpg",
+                "https://raw.githubusercontent.com/reathloo/smartClip/main/docs/screenshots/settings-privacy.jpg"
+            ],
+            "official_site": "https://github.com/reathloo/smartClip",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
