@@ -1,6 +1,22 @@
 {
     "applications": [
         {
+            "short_description": "Menu bar app that arranges every window on the display with one keystroke, with layouts that adapt to the window count and screen shape.",
+            "categories": [
+                "window-management"
+            ],
+            "repo_url": "https://github.com/ordino-app/ordino",
+            "title": "ordino",
+            "icon_url": "https://raw.githubusercontent.com/ordino-app/ordino/main/web/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ordino-app/ordino/main/docs/media/demo.gif"
+            ],
+            "official_site": "https://ordino-app.github.io/ordino/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "Live bilingual subtitles for videos, streams and online classes using system audio and configurable speech and translation services.",
             "categories": [
                 "audio",
