@@ -24425,6 +24425,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "tablex",
+            "short_description": "Native database client written in Rust for PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, MongoDB, Redis and ClickHouse, with each database supported by a separate driver plugin.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/tablex-org/tablex",
+            "icon_url": "https://raw.githubusercontent.com/tablex-org/tablex/main/.github/logo.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/tablex-org/tablex/main/.github/screenshots/sql-results.png",
+                "https://raw.githubusercontent.com/tablex-org/tablex/main/.github/screenshots/mongodb.png",
+                "https://raw.githubusercontent.com/tablex-org/tablex/main/.github/screenshots/diagram.png"
+            ],
+            "official_site": "https://tablex-org.github.io",
+            "languages": [
+                "rust"
+            ]
         }
     ]
 }
