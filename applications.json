@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "macleanup",
+            "short_description": "Safe-by-default cleanup from the terminal: 28 numbered sections, per-section confirmation and a real dry run that previews every path before anything is deleted.",
+            "categories": [
+                "utilities",
+                "system",
+                "terminal"
+            ],
+            "repo_url": "https://github.com/aoneahsan/macleanup",
+            "icon_url": "https://macleanup.aoneahsan.com/assets/pwa/apple-touch-icon.png",
+            "screenshots": [],
+            "official_site": "https://macleanup.aoneahsan.com",
+            "languages": [
+                "shell",
+                "javascript"
+            ]
         }
     ]
 }
