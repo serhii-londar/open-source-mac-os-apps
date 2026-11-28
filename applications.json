@@ -24425,6 +24425,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Real-time collaboration for MuseScore: several people edit the same music score at once, with live cursors.",
+            "categories": [
+                "audio",
+                "music",
+                "editors"
+            ],
+            "repo_url": "https://github.com/specialith/ploq-app",
+            "title": "Ploq",
+            "icon_url": "https://raw.githubusercontent.com/specialith/ploq-app/main/share/icons/Ploq/Ploq_512x512.png",
+            "screenshots": [
+                "https://ploq.app/hero/hero-poster.jpg"
+            ],
+            "official_site": "https://ploq.app",
+            "languages": [
+                "cpp"
+            ]
         }
     ]
 }
