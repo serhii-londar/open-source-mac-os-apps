@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Glyph Bot",
+            "short_description": "Chat with your AI agents over a local folder of notes you own; each reply shows what it read, and nothing is saved until you approve it.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/fru-dev3/glyph-studio",
+            "icon_url": "https://raw.githubusercontent.com/fru-dev3/glyph/main/assets/family/studio-512.png",
+            "screenshots": [
+                "https://glyph.fru.dev/bot/chat-sources.webp",
+                "https://glyph.fru.dev/bot/01-home.webp"
+            ],
+            "official_site": "https://glyph.fru.dev/bot",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
