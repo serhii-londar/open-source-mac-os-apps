@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Multi-panel file manager with tabs and built-in text, hex, image, PDF, HTML and Markdown viewers.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/benny-cz/FileCat",
+            "title": "FileCat",
+            "icon_url": "https://raw.githubusercontent.com/benny-cz/FileCat/main/docs/images/filecat-icon-72.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/benny-cz/FileCat/main/docs/screenshots/macos/ClassicDark.png"
+            ],
+            "official_site": "https://github.com/benny-cz/FileCat",
+            "languages": [
+                "c_sharp"
+            ],
+            "macos_version": "26.0"
         }
     ]
 }
