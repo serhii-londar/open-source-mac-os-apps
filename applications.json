@@ -24425,6 +24425,24 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Grain",
+            "short_description": "Cinema for Mac, iPhone and iPad: TMDB catalog, your own Jackett, Prowlarr, Torznab or Stremio sources, a built-in torrent engine and a VLCKit player.",
+            "categories": [
+                "player",
+                "video"
+            ],
+            "repo_url": "https://github.com/w3ltyyy/Grain",
+            "icon_url": "https://raw.githubusercontent.com/w3ltyyy/Grain/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/w3ltyyy/Grain/main/docs/images/cover-en.webp",
+                "https://raw.githubusercontent.com/w3ltyyy/Grain/main/docs/images/title-en.webp"
+            ],
+            "official_site": "https://grained.space",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
