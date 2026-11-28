@@ -6543,7 +6543,7 @@
             ]
         },
         {
-            "short_description": "Monitor your Mac's fan speed and CPU temperature from your Notification Center. ",
+            "short_description": "Monitor your Mac's fan speeds and CPU and GPU temperatures from the menu bar, a floating window, and widgets.",
             "categories": [
                 "system"
             ],
@@ -6551,11 +6551,11 @@
             "title": "Fanny",
             "icon_url": "",
             "screenshots": [
-                "https://cloud.githubusercontent.com/assets/10573489/26471886/ac78360e-4171-11e7-8b89-1e27fe6a582e.png"
+                "https://raw.githubusercontent.com/DanielStormApps/Fanny/master/readme-assets/fanny-screenshot.jpg"
             ],
-            "official_site": "",
+            "official_site": "https://www.fannywidget.com",
             "languages": [
-                "objective_c"
+                "swift"
             ]
         },
         {
