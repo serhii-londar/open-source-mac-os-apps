@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "short_description": "Mirror and control Android phones from your Mac, with an MCP server that lets AI agents drive the phone.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/Zfinix/another",
+            "title": "Another",
+            "icon_url": "https://raw.githubusercontent.com/Zfinix/another/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Zfinix/another/main/shot.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
