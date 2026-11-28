@@ -24425,6 +24425,23 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Not Boring Notch",
+            "short_description": "Notch app for coding agent status (Claude Code, Codex, pi, OpenCode), music with synced lyrics, a file shelf and an app launcher.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/AllenReder/not-boring-notch",
+            "icon_url": "https://raw.githubusercontent.com/AllenReder/not-boring-notch/main/assets/app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AllenReder/not-boring-notch/main/assets/demo.gif"
+            ],
+            "official_site": "https://github.com/AllenReder/not-boring-notch",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
